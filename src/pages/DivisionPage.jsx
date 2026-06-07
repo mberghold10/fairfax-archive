@@ -6,6 +6,7 @@ import PlayerLink from '../components/PlayerLink.jsx';
 import TeamLink from '../components/TeamLink.jsx';
 import Loading from '../components/Loading.jsx';
 import ErrorMessage from '../components/ErrorMessage.jsx';
+import '../styles/division-page.css';
 
 /**
  * DivisionPage displays standings, schedule, and rosters for a single division.
