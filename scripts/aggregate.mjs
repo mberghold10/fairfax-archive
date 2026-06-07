@@ -32,6 +32,7 @@ import { buildLeadersFromFiles } from './aggregate/leaders.mjs';
 import { buildSearchIndex, writeSearchIndex } from './aggregate/searchIndex.mjs';
 import { buildSuspensions } from './aggregate/suspensions.mjs';
 import { copyStaticFiles } from './aggregate/copyStaticFiles.mjs';
+import { buildStandings } from './aggregate/standings.mjs';
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url));
 const PROJECT_ROOT = resolve(__dirname, '..');
@@ -140,6 +141,11 @@ async function main() {
     const { games, divisions } = await copyStaticFiles(ARCHIVE_ROOT, OUTPUT_DIR);
     console.log(`    ${games} game files → public/data/games/`);
     console.log(`    ${divisions} division files → public/data/divisions/`);
+  });
+
+  // ── 10. Standings ──────────────────────────────────────────────────────────
+  await runStep('Standings', async () => {
+    await buildStandings(ARCHIVE_ROOT, OUTPUT_DIR);
   });
 
   // ── Summary ────────────────────────────────────────────────────────────────

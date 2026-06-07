@@ -19,6 +19,7 @@ export default function DivisionPage() {
   const [schedule, setSchedule] = useState(null);
   const [playoffSchedule, setPlayoffSchedule] = useState(null);
   const [rosters, setRosters] = useState(null);
+  const [standings, setStandings] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
@@ -48,12 +49,18 @@ export default function DivisionPage() {
       return res.json();
     });
 
-    Promise.all([metaFetch, scheduleFetch, playoffFetch, rosterFetch])
-      .then(([metaData, scheduleData, playoffData, rosterData]) => {
+    const standingsFetch = fetch(`${basePath}/standings.json`).then((res) => {
+      if (!res.ok) return null;
+      return res.json();
+    });
+
+    Promise.all([metaFetch, scheduleFetch, playoffFetch, rosterFetch, standingsFetch])
+      .then(([metaData, scheduleData, playoffData, rosterData, standingsData]) => {
         setMeta(metaData);
         setSchedule(scheduleData);
         setPlayoffSchedule(playoffData);
         setRosters(rosterData);
+        setStandings(standingsData);
         setLoading(false);
       })
       .catch((err) => {
@@ -84,12 +91,12 @@ export default function DivisionPage() {
 
       <h1>{seasonName} — {divisionLabel}</h1>
 
-      <StandingsSection meta={meta} rosters={rosters} />
+      <StandingsSection meta={meta} rosters={rosters} schedule={schedule} precomputedStandings={standings} />
       <ScheduleSection title="Regular Season Schedule" schedule={schedule} />
       {playoffSchedule && playoffSchedule.records && playoffSchedule.records.length > 0 && (
         <ScheduleSection title="Playoff Schedule" schedule={playoffSchedule} />
       )}
-      <RostersSection rosters={rosters} />
+      <RostersSection rosters={rosters} meta={meta} />
     </div>
   );
 }
@@ -97,9 +104,13 @@ export default function DivisionPage() {
 /**
  * Compute standings from goalie W/L/T data per team.
  * Falls back to "No standings available" if data is insufficient.
+ *
+ * Note: When the roster data is a single-bucket dump (all players under one
+ * team key), standings cannot be reliably computed from roster data alone.
+ * In that case we attempt to derive standings from the schedule + game scores.
  */
-function StandingsSection({ meta, rosters }) {
-  if (!rosters || !rosters.records || Object.keys(rosters.records).length === 0) {
+function StandingsSection({ meta, rosters, schedule, precomputedStandings }) {
+  if (!meta || !meta.teams || Object.keys(meta.teams).length === 0) {
     return (
       <section className="division-standings">
         <h2>Standings</h2>
@@ -108,7 +119,24 @@ function StandingsSection({ meta, rosters }) {
     );
   }
 
-  const standings = computeStandings(meta, rosters);
+  let standings = [];
+
+  // Prefer pre-computed standings from aggregation step
+  if (precomputedStandings && precomputedStandings.standings && precomputedStandings.standings.length > 0) {
+    standings = precomputedStandings.standings.map(s => ({
+      ...s,
+      id: s.teamId,
+    }));
+  } else {
+    // Fallback: compute from roster data if roster has proper multi-team keys
+    const rosterTeamIds = rosters ? Object.keys(rosters.records || {}) : [];
+    const metaTeamCount = Object.keys(meta.teams).length;
+    const isSingleBucket = rosterTeamIds.length <= 1 && metaTeamCount > 1;
+
+    if (!isSingleBucket && rosters && rosters.records) {
+      standings = computeStandingsFromRosters(meta, rosters);
+    }
+  }
 
   if (standings.length === 0) {
     return (
@@ -127,7 +155,6 @@ function StandingsSection({ meta, rosters }) {
     { key: 'w', label: 'W' },
     { key: 'l', label: 'L' },
     { key: 't', label: 'T' },
-    { key: 'otl', label: 'OTL' },
     { key: 'gf', label: 'GF' },
     { key: 'ga', label: 'GA' },
     { key: 'pts', label: 'PTS' },
@@ -142,11 +169,9 @@ function StandingsSection({ meta, rosters }) {
 }
 
 /**
- * Compute standings from roster goalie data.
- * Each team's W/L/T comes from summing goalie records.
- * GP = W + L + T, PTS = W*2 + T, GF/GA from skater/goalie data.
+ * Compute standings from roster goalie data (works when roster has proper per-team keys).
  */
-function computeStandings(meta, rosters) {
+function computeStandingsFromRosters(meta, rosters) {
   const standings = [];
   const teamIds = Object.keys(rosters.records);
 
@@ -166,7 +191,6 @@ function computeStandings(meta, rosters) {
 
     const gp = w + l + t;
 
-    // Compute goals for from skater goals
     let gf = 0;
     if (teamData.skaters) {
       for (const skater of teamData.skaters) {
@@ -184,17 +208,17 @@ function computeStandings(meta, rosters) {
       w,
       l,
       t,
-      otl: 0, // OTL not tracked in source data
       gf,
       ga,
       pts,
     });
   }
 
-  // Sort by points descending
   standings.sort((a, b) => b.pts - a.pts);
   return standings;
 }
+
+
 
 /**
  * Schedule section displaying game rows with optional link to GamePage.
@@ -246,29 +270,82 @@ function ScheduleSection({ title, schedule }) {
 }
 
 /**
- * Rosters section showing skater and goalie stats for each team.
+ * Rosters section showing skater and goalie stats for the division.
+ *
+ * Note: The scraped data stores all players under a single team key per division.
+ * We merge all players from all record keys and display them as a division-wide
+ * roster, using each player's embedded team.name for identification.
  */
-function RostersSection({ rosters }) {
+function RostersSection({ rosters, meta }) {
   if (!rosters || !rosters.records || Object.keys(rosters.records).length === 0) {
     return null;
   }
 
-  const teamIds = Object.keys(rosters.records);
+  // Collect all skaters and goalies across all record keys, then group by the
+  // player's embedded team info.
+  const allSkaters = [];
+  const allGoalies = [];
 
+  for (const teamId of Object.keys(rosters.records)) {
+    const teamData = rosters.records[teamId];
+    if (teamData.skaters) allSkaters.push(...teamData.skaters);
+    if (teamData.goalies) allGoalies.push(...teamData.goalies);
+  }
+
+  // Group by actual team using meta.json teams map for proper names,
+  // falling back to the embedded team field.
+  const teams = meta?.teams || {};
+  const skatersByTeam = {};
+  const goaliesByTeam = {};
+
+  for (const skater of allSkaters) {
+    const tid = skater.team?.teamId || 'unknown';
+    if (!skatersByTeam[tid]) skatersByTeam[tid] = [];
+    skatersByTeam[tid].push(skater);
+  }
+
+  for (const goalie of allGoalies) {
+    const tid = goalie.team?.teamId || 'unknown';
+    if (!goaliesByTeam[tid]) goaliesByTeam[tid] = [];
+    goaliesByTeam[tid].push(goalie);
+  }
+
+  // Get unique team IDs from both skaters and goalies
+  const teamIds = [...new Set([...Object.keys(skatersByTeam), ...Object.keys(goaliesByTeam)])];
+
+  // If only one team ID exists (common with scraped data), check if it's actually
+  // a division-wide dump by comparing player count to what a single team would have.
+  // In that case, show all players together without a misleading team header.
+  const isSingleBucket = teamIds.length === 1 && Object.keys(teams).length > 1;
+
+  if (isSingleBucket) {
+    // All players are in one bucket — display as a flat division roster
+    return (
+      <section className="division-rosters">
+        <h2>Rosters</h2>
+        <div className="division-rosters__team">
+          <SkaterRoster skaters={allSkaters} />
+          <GoalieRoster goalies={allGoalies} />
+        </div>
+      </section>
+    );
+  }
+
+  // Multiple team IDs exist — display grouped by team
   return (
     <section className="division-rosters">
       <h2>Rosters</h2>
       {teamIds.map((teamId) => {
-        const teamData = rosters.records[teamId];
-        const teamName = teamData.skaters?.[0]?.team?.name ||
-                         teamData.goalies?.[0]?.team?.name ||
+        const teamName = teams[teamId] ||
+                         skatersByTeam[teamId]?.[0]?.team?.name ||
+                         goaliesByTeam[teamId]?.[0]?.team?.name ||
                          `Team ${teamId}`;
 
         return (
           <div key={teamId} className="division-rosters__team">
             <h3><TeamLink teamId={teamId} name={teamName} /></h3>
-            <SkaterRoster skaters={teamData.skaters} />
-            <GoalieRoster goalies={teamData.goalies} />
+            <SkaterRoster skaters={skatersByTeam[teamId]} />
+            <GoalieRoster goalies={goaliesByTeam[teamId]} />
           </div>
         );
       })}
