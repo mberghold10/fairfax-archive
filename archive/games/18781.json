@@ -1,0 +1,154 @@
+{
+  "gameId": "18781",
+  "date": "2026-01-01",
+  "divId": 326,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2014",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "2010",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:02:48",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#51 - Rob  Fischer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:50",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#10 - Doane  Travers",
+      "assist1": "#49 - Greg  Mullen",
+      "assist2": "#11 - Dave  Brown"
+    },
+    {
+      "period": "2",
+      "time": "00:12:24",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#19 - Joe  Dunn",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:24",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#2 - Shawn  Hatch",
+      "assist1": "#19 - Mike  Carr",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#19 - Mike  Carr",
+      "assist1": "#38 - Dave  Wilson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:11",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#49 - Greg  Mullen",
+      "assist1": "#10 - Doane  Travers",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:49",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "player": "#25 - Jeff  Wojtala",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:24",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "player": "#25 - Jeff  Wojtala",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#11 - Dave  Brown",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:33",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#49 - Greg  Mullen",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:05:22.177Z"
+}

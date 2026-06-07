@@ -1,0 +1,156 @@
+{
+  "gameId": "816",
+  "date": "2017-04-08",
+  "divId": 160,
+  "seasonName": "Winter 2016",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1028",
+    "name": "Jurassic Puck"
+  },
+  "away": {
+    "teamId": "1025",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:09",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": "#88 - Jason  Searight",
+      "assist2": "#50 - Steve  Bennett"
+    },
+    {
+      "period": "2",
+      "time": "00:13:00",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#91 - Stephen  Tarditi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#22 - Steven  Sullivan",
+      "assist1": "#88 - Jason  Searight",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:41",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#77 - Jeff  Wilken",
+      "assist1": "#10 - Eric  Carr",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#3 - Will  Caito",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:53",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:39",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#74 - Matthew  Santos",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "player": "#8 - Reid  Maki",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "player": "#10 - Eric  Carr",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:43:42.254Z"
+}

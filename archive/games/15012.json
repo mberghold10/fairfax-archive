@@ -1,0 +1,95 @@
+{
+  "gameId": "15012",
+  "date": "2022-05-23",
+  "divId": 252,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1555",
+    "name": "Toronto"
+  },
+  "away": {
+    "teamId": "1559",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:03",
+      "team": {
+        "teamId": "1555",
+        "name": "Toronto"
+      },
+      "scorer": "#25 - Joe  DeNoyer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1559",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#39 - Alex  Cimon",
+      "assist1": "#14 - Chuckie  Ezike",
+      "assist2": "#36 - Brian  Lusby"
+    },
+    {
+      "period": "4",
+      "time": "00:01:57",
+      "team": {
+        "teamId": "1559",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#14 - Chuckie  Ezike",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1559",
+        "name": "Mad Dogs"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:39",
+      "team": {
+        "teamId": "1555",
+        "name": "Toronto"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:43:36.497Z"
+}

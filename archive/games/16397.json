@@ -1,0 +1,204 @@
+{
+  "gameId": "16397",
+  "date": "2024-01-27",
+  "divId": 276,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1700",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1702",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:21",
+      "team": {
+        "teamId": "1700",
+        "name": "Englewood"
+      },
+      "scorer": "#51 - Corey  Richardson",
+      "assist1": "#20 - Halden  Smith",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "1702",
+        "name": "Kings"
+      },
+      "scorer": "#3 - Dylan  Turff",
+      "assist1": "#8 - David  Satagaj",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:25",
+      "team": {
+        "teamId": "1702",
+        "name": "Kings"
+      },
+      "scorer": "#8 - David  Satagaj",
+      "assist1": "#14 - Dominic  Pistolessi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1700",
+        "name": "Englewood"
+      },
+      "scorer": "#48 - Isaac  Hale",
+      "assist1": "#20 - Halden  Smith",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:11",
+      "team": {
+        "teamId": "1700",
+        "name": "Englewood"
+      },
+      "scorer": "#20 - Halden  Smith",
+      "assist1": "#51 - Corey  Richardson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:52",
+      "team": {
+        "teamId": "1702",
+        "name": "Kings"
+      },
+      "scorer": "#3 - Dylan  Turff",
+      "assist1": "#14 - Dominic  Pistolessi",
+      "assist2": "#82 - Caleb  Sohl"
+    },
+    {
+      "period": "3",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1702",
+        "name": "Kings"
+      },
+      "scorer": "#82 - Caleb  Sohl",
+      "assist1": "#8 - David  Satagaj",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "1700",
+        "name": "Englewood"
+      },
+      "player": "#48 - Isaac  Hale",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1700",
+        "name": "Englewood"
+      },
+      "player": "#51 - Corey  Richardson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1702",
+        "name": "Kings"
+      },
+      "player": "#14 - Dominic  Pistolessi",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:24",
+      "team": {
+        "teamId": "1702",
+        "name": "Kings"
+      },
+      "player": "#64 - Derek  Bluth",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:22",
+      "team": {
+        "teamId": "1700",
+        "name": "Englewood"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:34",
+      "team": {
+        "teamId": "1702",
+        "name": "Kings"
+      },
+      "player": "#82 - Caleb  Sohl",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1702",
+        "name": "Kings"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:11:49.273Z"
+}

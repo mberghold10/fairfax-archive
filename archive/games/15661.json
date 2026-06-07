@@ -1,0 +1,128 @@
+{
+  "gameId": "15661",
+  "date": "2023-02-04",
+  "divId": 260,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1603",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1600",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "1600",
+        "name": "Rink Rats"
+      },
+      "scorer": "#22 - Matthew  Thrasher",
+      "assist1": "#9 - Chris  ORear",
+      "assist2": "#25 - Dave  Brown"
+    },
+    {
+      "period": "1",
+      "time": "00:11:05",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "scorer": "#80 - Cinnamon  Melchor",
+      "assist1": "#93 - Peter  Lee",
+      "assist2": "#10 - Howard  Kim"
+    },
+    {
+      "period": "2",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1600",
+        "name": "Rink Rats"
+      },
+      "scorer": "#22 - Matthew  Thrasher",
+      "assist1": "#0 - Jeff  Alpher",
+      "assist2": "#10 - Kelly  Schoolmeester"
+    },
+    {
+      "period": "2",
+      "time": "00:07:02",
+      "team": {
+        "teamId": "1600",
+        "name": "Rink Rats"
+      },
+      "scorer": "#13 - John  Bereza",
+      "assist1": "#10 - Kelly  Schoolmeester",
+      "assist2": "#12 - Kieran  McQuilkin"
+    },
+    {
+      "period": "2",
+      "time": "00:07:26",
+      "team": {
+        "teamId": "1600",
+        "name": "Rink Rats"
+      },
+      "scorer": "#22 - Matthew  Thrasher",
+      "assist1": "#0 - Jeff  Alpher",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:53",
+      "team": {
+        "teamId": "1600",
+        "name": "Rink Rats"
+      },
+      "scorer": "#23 - Dan  Bardo",
+      "assist1": "#22 - Matthew  Thrasher",
+      "assist2": "#25 - Dave  Brown"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "player": "#42 - Dan  Schwind",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:44",
+      "team": {
+        "teamId": "1600",
+        "name": "Rink Rats"
+      },
+      "player": "#37 - TJ  Wolf",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:53:07.358Z"
+}

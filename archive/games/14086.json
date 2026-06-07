@@ -1,0 +1,141 @@
+{
+  "gameId": "14086",
+  "date": "2021-06-23",
+  "divId": 225,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1411",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1410",
+    "name": "Englewood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:03:51",
+      "team": {
+        "teamId": "1410",
+        "name": "Englewood"
+      },
+      "scorer": "#32 - Charlie  Wojick",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:27",
+      "team": {
+        "teamId": "1410",
+        "name": "Englewood"
+      },
+      "scorer": "#32 - Charlie  Wojick",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "1411",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": "#9 - Jason  Murphy"
+    },
+    {
+      "period": "3",
+      "time": "00:03:33",
+      "team": {
+        "teamId": "1411",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:33",
+      "team": {
+        "teamId": "1410",
+        "name": "Englewood"
+      },
+      "scorer": "#32 - Charlie  Wojick",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:10",
+      "team": {
+        "teamId": "1410",
+        "name": "Englewood"
+      },
+      "scorer": "#32 - Charlie  Wojick",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:06:31",
+      "team": {
+        "teamId": "1411",
+        "name": "Swarm"
+      },
+      "player": "#9 - Jason  Murphy",
+      "pim": 5,
+      "offense": "high stick",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:31",
+      "team": {
+        "teamId": "1411",
+        "name": "Swarm"
+      },
+      "player": "#9 - Jason  Murphy",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:06",
+      "team": {
+        "teamId": "1410",
+        "name": "Englewood"
+      },
+      "player": "#41 - Eugene  Livsics",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:19:55.836Z"
+}

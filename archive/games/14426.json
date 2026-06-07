@@ -1,0 +1,152 @@
+{
+  "gameId": "14426",
+  "date": "2021-11-08",
+  "divId": 242,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1498",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1499",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:04",
+      "team": {
+        "teamId": "1499",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#16 - Greg  Pomeroy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:57",
+      "team": {
+        "teamId": "1499",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#43 - Bill  Picard",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:58",
+      "team": {
+        "teamId": "1499",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#16 - Greg  Pomeroy",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": "#20 - Mike  McLenahan"
+    },
+    {
+      "period": "2",
+      "time": "00:13:48",
+      "team": {
+        "teamId": "1499",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "1499",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#6 - Kyle  Herring",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:30",
+      "team": {
+        "teamId": "1498",
+        "name": "Avalanche"
+      },
+      "scorer": "#4 - Peter  van Aartrijk",
+      "assist1": "#6 - Tom  Gleason",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:17",
+      "team": {
+        "teamId": "1498",
+        "name": "Avalanche"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:05",
+      "team": {
+        "teamId": "1498",
+        "name": "Avalanche"
+      },
+      "player": "#77 - Caleb  Sohl",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:52",
+      "team": {
+        "teamId": "1499",
+        "name": "British Bulldogs"
+      },
+      "player": "#5 - Andy  Loggia",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "1499",
+        "name": "British Bulldogs"
+      },
+      "player": "#6 - Kyle  Herring",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:31:07.735Z"
+}

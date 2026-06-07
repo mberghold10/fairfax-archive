@@ -1,0 +1,128 @@
+{
+  "gameId": "14963",
+  "date": "2022-07-16",
+  "divId": 250,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1543",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1540",
+    "name": "North Stars"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "scorer": "# -",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:41",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "scorer": "#23 - Corey  Twining",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:16",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "scorer": "#23 - Corey  Twining",
+      "assist1": "#10 - Mario  Constantinou",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "scorer": "#23 - Corey  Twining",
+      "assist1": "#10 - Mario  Constantinou",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:35",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "scorer": "#23 - Corey  Twining",
+      "assist1": "#6 - Matt  Dwyer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:24",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#19 - Steve  Tarditi",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:09",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "player": "#17 - Kevin  Roehner",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "player": "#17 - Kevin  Roehner",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:41:04.689Z"
+}

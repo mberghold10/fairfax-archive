@@ -1,0 +1,189 @@
+{
+  "gameId": "12075",
+  "date": "2018-10-07",
+  "divId": 191,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1214",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1215",
+    "name": "Whalers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#10 - Chris  Chagnon",
+      "assist1": "#6 - Faraz  Izadi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1215",
+        "name": "Whalers"
+      },
+      "scorer": "#5 - Brent  Forrest",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:36",
+      "team": {
+        "teamId": "1215",
+        "name": "Whalers"
+      },
+      "scorer": "#37 - Casey  Murphy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:58",
+      "team": {
+        "teamId": "1215",
+        "name": "Whalers"
+      },
+      "scorer": "#5 - Brent  Forrest",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:10",
+      "team": {
+        "teamId": "1215",
+        "name": "Whalers"
+      },
+      "scorer": "#55 - Joel  Whitney",
+      "assist1": "#12 - Paul  Zalocha",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:48",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#74 - Daniel  Murray",
+      "assist1": "#18 - Jeff  Rummel",
+      "assist2": "#91 - Lowell  Umyam"
+    },
+    {
+      "period": "3",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1215",
+        "name": "Whalers"
+      },
+      "scorer": "#21 - John  Miles",
+      "assist1": "#12 - Paul  Zalocha",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#5 - Joel  Dever",
+      "assist1": "#18 - Jeff  Rummel",
+      "assist2": "#72 - Kyle  Brosnan"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "player": "#6 - Faraz  Izadi",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:53",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "player": "#91 - Lowell  Umyam",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:17",
+      "team": {
+        "teamId": "1215",
+        "name": "Whalers"
+      },
+      "player": "#37 - Casey  Murphy",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "player": "#22 - Jongjae  Yoo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:57",
+      "team": {
+        "teamId": "1215",
+        "name": "Whalers"
+      },
+      "player": "#20 - Jordan  Woll",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:43:05.487Z"
+}

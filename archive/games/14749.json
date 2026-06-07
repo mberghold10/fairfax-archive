@@ -1,0 +1,274 @@
+{
+  "gameId": "14749",
+  "date": "2022-01-27",
+  "divId": 246,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1522",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1521",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 4,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "scorer": "#21 - Steve  Kaplan",
+      "assist1": "#63 - Ron  Szatmary",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "scorer": "#25 - Steve  Tamburo",
+      "assist1": "#13 - Mike  Carew",
+      "assist2": "#43 - Ryan  ODriscoll"
+    },
+    {
+      "period": "1",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "scorer": "#23 - Rick  Gorgone",
+      "assist1": "#13 - Bob  Seal",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:25",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "scorer": "#13 - Mike  Carew",
+      "assist1": "#25 - Steve  Tamburo",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:32",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "scorer": "#25 - Steve  Tamburo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:56",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "scorer": "#13 - Mike  Carew",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "scorer": "#25 - Steve  Tamburo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "scorer": "#38 - Mike  Andrein",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:55",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "scorer": "#15 - Mark  Rudnicki",
+      "assist1": "#24 - Max  Alexeev",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": "#55 - Tim  Dutcher",
+      "assist2": "#11 - Darren  Wellner"
+    },
+    {
+      "period": "3",
+      "time": "00:05:29",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "scorer": "#24 - Max  Alexeev",
+      "assist1": "#81 - Chris  Holden",
+      "assist2": "#7 - Dan  Ellert"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:51",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "player": "#55 - Tim  Dutcher",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:25",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "player": "#13 - Mike  Carew",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:46",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "player": "#63 - Ron  Szatmary",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:12",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "player": "#13 - Bob  Seal",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "player": "#13 - Mike  Carew",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "player": "#63 - Ron  Szatmary",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:05",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "player": "#3 - Bill  Schultheiss",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "player": "#34 - Johnny  Vanore",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:04",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "player": "#25 - Jeff  Wojtala",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:36:40.885Z"
+}

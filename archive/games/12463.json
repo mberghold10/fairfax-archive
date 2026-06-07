@@ -1,0 +1,165 @@
+{
+  "gameId": "12463",
+  "date": "2019-02-25",
+  "divId": 192,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1219",
+    "name": "Crabs"
+  },
+  "away": {
+    "teamId": "1217",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:47",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "scorer": "#2 - Mitch  Levinson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:44",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "scorer": "#42 - Ryan  Bruun",
+      "assist1": "#13 - John  Kosak",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:02",
+      "team": {
+        "teamId": "1219",
+        "name": "Crabs"
+      },
+      "scorer": "#90 - Andrew  Mayen",
+      "assist1": "#19 - Angelo  Ponirakis",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:15",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "scorer": "#2 - Mitch  Levinson",
+      "assist1": "#33 - Mike  Wagner",
+      "assist2": "#20 - Eric  Nelson"
+    },
+    {
+      "period": "2",
+      "time": "00:12:28",
+      "team": {
+        "teamId": "1219",
+        "name": "Crabs"
+      },
+      "scorer": "#90 - Andrew  Mayen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "scorer": "#2 - Mitch  Levinson",
+      "assist1": "#34 - Jim  Kennedy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:44",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "scorer": "#2 - Mitch  Levinson",
+      "assist1": "#34 - Jim  Kennedy",
+      "assist2": "#20 - Eric  Nelson"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:54",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "player": "#16 - Marc  Tohir",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:41",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "player": "#16 - Marc  Tohir",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "player": "#11 - Corbin  Neiberline",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:18",
+      "team": {
+        "teamId": "1219",
+        "name": "Crabs"
+      },
+      "player": "#88 - Pat  Lockett",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:45:13.820Z"
+}

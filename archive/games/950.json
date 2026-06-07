@@ -1,0 +1,171 @@
+{
+  "gameId": "950",
+  "date": "2019-04-14",
+  "divId": 190,
+  "seasonName": "Winter 2018",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1206",
+    "name": "Blue Jackets"
+  },
+  "away": {
+    "teamId": "1205",
+    "name": "North Stars"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "scorer": "#19 - JP  Klousia",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "scorer": "#11 - Daniel  Ferrucci",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:46",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": "#7 - Evan  Wojtowicz",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "scorer": "#5 - Joseph  Ney",
+      "assist1": "#55 - Ben  Malakoff",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:48",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "player": "#19 - JP  Klousia",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:54",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "player": "#5 - Joseph  Ney",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:58",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "player": "#61 - Tim  Dutcher",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:16",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "player": "#23 - Dan  Ellert",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "player": "#100 - Goalie  Subtitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:23",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "player": "#24 - Pertti  Jaakola",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "player": "#24 - Pertti  Jaakola",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:42:56.548Z"
+}

@@ -1,0 +1,163 @@
+{
+  "gameId": "18799",
+  "date": "2026-02-01",
+  "divId": 326,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2014",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "2008",
+    "name": "Jacks GreyBeards"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#14 - Jeremy  Stehle",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#28 - Charles  Hale",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:35",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#37 - Josh  Savani",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:09",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#19 - Mike  Carr",
+      "assist1": "#51 - Rob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#68 - Steve  Vereb",
+      "assist1": "#21 - Steve  Chan",
+      "assist2": "#16 - Bill  Thompson"
+    },
+    {
+      "period": "2",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#7 - Joseph  Hull",
+      "assist1": "#28 - Charles  Hale",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:28",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#28 - Charles  Hale",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:56",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "player": "#10 - Brian  Land",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "player": "#7 - Joseph  Hull",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "player": "#3 - John  Niemiec",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:05:39.226Z"
+}

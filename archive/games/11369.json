@@ -1,0 +1,141 @@
+{
+  "gameId": "11369",
+  "date": "2017-12-30",
+  "divId": 175,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1116",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1119",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "1119",
+        "name": "Chiefs"
+      },
+      "scorer": "#15 - David  Eyre",
+      "assist1": "#28 - Jake  Angeline",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1119",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:46",
+      "team": {
+        "teamId": "1116",
+        "name": "Avalanche"
+      },
+      "scorer": "#34 - Jim  Morgan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:37",
+      "team": {
+        "teamId": "1116",
+        "name": "Avalanche"
+      },
+      "scorer": "#12 - Jason  Wakeman",
+      "assist1": "#10 - Chris  Greenough",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:28",
+      "team": {
+        "teamId": "1119",
+        "name": "Chiefs"
+      },
+      "scorer": "#7 - Mike  Cardarelli",
+      "assist1": "#22 - James  Stegmann",
+      "assist2": "#11 - Mike  Brobeck"
+    },
+    {
+      "period": "3",
+      "time": "00:12:43",
+      "team": {
+        "teamId": "1119",
+        "name": "Chiefs"
+      },
+      "scorer": "#15 - David  Eyre",
+      "assist1": "#28 - Jake  Angeline",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "1119",
+        "name": "Chiefs"
+      },
+      "player": "#11 - Mike  Brobeck",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:59",
+      "team": {
+        "teamId": "1116",
+        "name": "Avalanche"
+      },
+      "player": "#18 - Pete  Poczatek",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:43",
+      "team": {
+        "teamId": "1116",
+        "name": "Avalanche"
+      },
+      "player": "#35 - Ross  Kuhn",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:24:06.748Z"
+}

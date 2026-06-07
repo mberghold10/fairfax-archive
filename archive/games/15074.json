@@ -1,0 +1,141 @@
+{
+  "gameId": "15074",
+  "date": "2022-06-04",
+  "divId": 254,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1564",
+    "name": "Anonymous"
+  },
+  "away": {
+    "teamId": "1567",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#9 - Aaron  Dobbs",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": "#15 - Mark  Rudnicki",
+      "assist2": "#23 - Rick  Gorgone"
+    },
+    {
+      "period": "1",
+      "time": "00:12:47",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "scorer": "#89 - Andrew  Grose",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#9 - Aaron  Dobbs",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:48",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#9 - Aaron  Dobbs",
+      "assist1": "#13 - Bob  Seal",
+      "assist2": "#18 - Dominic  Pistolessi"
+    },
+    {
+      "period": "3",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#9 - Aaron  Dobbs",
+      "assist1": "#18 - Dominic  Pistolessi",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:04",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "player": "#55 - Scott  Dullea",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:16",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "player": "#23 - Rick  Gorgone",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:45:52.629Z"
+}

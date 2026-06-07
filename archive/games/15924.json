@@ -1,0 +1,252 @@
+{
+  "gameId": "15924",
+  "date": "2023-05-23",
+  "divId": 267,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1647",
+    "name": "Redhawks"
+  },
+  "away": {
+    "teamId": "1646",
+    "name": "Englewood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": "#36 - Bill  Ludke"
+    },
+    {
+      "period": "1",
+      "time": "00:06:02",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "scorer": "#11 - Stanislav  Kolodin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:01",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "scorer": "#71 - Stephen  Henley",
+      "assist1": "#13 - Ben  Aring",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:03",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#20 - Halden  Smith",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:28",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:52",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "scorer": "#71 - Stephen  Henley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:32",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "scorer": "#57 - John  Conlin",
+      "assist1": "#11 - Stanislav  Kolodin",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "3",
+      "time": "00:06:35",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "scorer": "#11 - Stanislav  Kolodin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:16",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "player": "#77 - Oleg  Nayandin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:01:14",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "player": "#88 - Mason  Letourneau",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:29",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "player": "#20 - Halden  Smith",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:29",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "player": "#88 - Mason  Letourneau",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:31",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "player": "#27 - Austin  Milligan",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:41",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "player": "#51 - Erik  Kniaz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:28",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "player": "#27 - Austin  Milligan",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:32",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "player": "#20 - Halden  Smith",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:00:49.947Z"
+}

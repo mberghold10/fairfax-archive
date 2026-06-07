@@ -1,0 +1,176 @@
+{
+  "gameId": "13621",
+  "date": "2020-01-03",
+  "divId": 213,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1345",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1344",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "scorer": "#11 - Kevin  Powers",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "scorer": "#90 - Mark  Chapman",
+      "assist1": "#11 - Kevin  Powers",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:09",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "scorer": "#38 - Chris  Lettieri",
+      "assist1": "#25 - Malcolm  Hyson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "scorer": "#21 - Mark  Johnston",
+      "assist1": "#25 - Malcolm  Hyson",
+      "assist2": "#19 - Joe  Dunn"
+    },
+    {
+      "period": "2",
+      "time": "00:05:16",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "scorer": "#90 - Mark  Chapman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:19",
+      "team": {
+        "teamId": "1345",
+        "name": "Englewood"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:09",
+      "team": {
+        "teamId": "1345",
+        "name": "Englewood"
+      },
+      "scorer": "#27 - Jonathan  Hitesman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:25",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "scorer": "#11 - Kevin  Powers",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1345",
+        "name": "Englewood"
+      },
+      "player": "#27 - Jonathan  Hitesman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:33",
+      "team": {
+        "teamId": "1345",
+        "name": "Englewood"
+      },
+      "player": "#13 - Randy  Foster",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:01",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "player": "#21 - Mark  Johnston",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:34",
+      "team": {
+        "teamId": "1345",
+        "name": "Englewood"
+      },
+      "player": "#28 - Charles  Hale",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:10:06.101Z"
+}

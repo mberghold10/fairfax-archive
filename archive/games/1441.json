@@ -1,0 +1,130 @@
+{
+  "gameId": "1441",
+  "date": "2024-05-22",
+  "divId": 285,
+  "seasonName": "Winter 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1749",
+    "name": "Punishers"
+  },
+  "away": {
+    "teamId": "1752",
+    "name": "Jacks Greybeards"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "1749",
+        "name": "Punishers"
+      },
+      "scorer": "#4 - Patrick  Smith",
+      "assist1": "#40 - Matt  Mickelson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1749",
+        "name": "Punishers"
+      },
+      "scorer": "#5 - Mike  Jones",
+      "assist1": "#1 - Matt  ODriscoll",
+      "assist2": "#7 - Ken  Ochsner"
+    },
+    {
+      "period": "1",
+      "time": "00:14:02",
+      "team": {
+        "teamId": "1749",
+        "name": "Punishers"
+      },
+      "scorer": "# -",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:50",
+      "team": {
+        "teamId": "1749",
+        "name": "Punishers"
+      },
+      "scorer": "#8 - Grant  Dougans",
+      "assist1": "#4 - Patrick  Smith",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:36",
+      "team": {
+        "teamId": "1749",
+        "name": "Punishers"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": "#14 - Richard  Cole",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:09",
+      "team": {
+        "teamId": "1749",
+        "name": "Punishers"
+      },
+      "player": "#40 - Matt  Mickelson",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:09",
+      "team": {
+        "teamId": "1752",
+        "name": "Jacks Greybeards"
+      },
+      "player": "#8 - Rod  Wade",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "1752",
+        "name": "Jacks Greybeards"
+      },
+      "player": "#3 - Jeff  Regan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:22:47.174Z"
+}

@@ -1,0 +1,128 @@
+{
+  "gameId": "18722",
+  "date": "2026-03-01",
+  "divId": 323,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1981",
+    "name": "Old Goats"
+  },
+  "away": {
+    "teamId": "1980",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:56",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "scorer": "#19 - Sean  Conley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:26",
+      "team": {
+        "teamId": "1981",
+        "name": "Old Goats"
+      },
+      "scorer": "#44 - Sean  Cullen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "1981",
+        "name": "Old Goats"
+      },
+      "scorer": "#15 - Tom  Sgroi",
+      "assist1": "#89 - Jay  Gobeil",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:49",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "scorer": "#28 - Andrew  Hancher",
+      "assist1": "#43 - Dan  Miller",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:45",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "scorer": "#43 - Dan  Miller",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "scorer": "#28 - Andrew  Hancher",
+      "assist1": "#16 - Kiran  Manikarnika",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:34",
+      "team": {
+        "teamId": "1981",
+        "name": "Old Goats"
+      },
+      "player": "#17 - Dan  Pol",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:56",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "player": "#66 - Ryan  Taiden",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:02:30.637Z"
+}

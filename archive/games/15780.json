@@ -1,0 +1,156 @@
+{
+  "gameId": "15780",
+  "date": "2023-03-16",
+  "divId": 263,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1623",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1618",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:49",
+      "team": {
+        "teamId": "1623",
+        "name": "Islanders"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": "#83 - Brandon  Barhorst",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:06",
+      "team": {
+        "teamId": "1623",
+        "name": "Islanders"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:12",
+      "team": {
+        "teamId": "1618",
+        "name": "Old Goats"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#37 - Nick  Desport",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "1618",
+        "name": "Old Goats"
+      },
+      "scorer": "#38 - Howard  Uman",
+      "assist1": "#37 - Nick  Desport",
+      "assist2": "#8 - Curt  Tucker"
+    },
+    {
+      "period": "4",
+      "time": "00:05:04",
+      "team": {
+        "teamId": "1623",
+        "name": "Islanders"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "1618",
+        "name": "Old Goats"
+      },
+      "player": "#5 - Brad  Seibert",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1623",
+        "name": "Islanders"
+      },
+      "player": "#93 - Jeff  Nauer",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1618",
+        "name": "Old Goats"
+      },
+      "player": "#15 - Tom  Sgroi",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1623",
+        "name": "Islanders"
+      },
+      "player": "#88 - Anthony  DeJohn",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1623",
+        "name": "Islanders"
+      },
+      "player": "#79 - Dave  Gerstner",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:57:21.870Z"
+}

@@ -1,0 +1,154 @@
+{
+  "gameId": "18041",
+  "date": "2025-03-01",
+  "divId": 309,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1888",
+    "name": "Hershey Beers"
+  },
+  "away": {
+    "teamId": "1891",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "1891",
+        "name": "Roughnecks"
+      },
+      "scorer": "#27 - Tim  Witkiewicz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:16",
+      "team": {
+        "teamId": "1891",
+        "name": "Roughnecks"
+      },
+      "scorer": "#81 - Sean  Murphy",
+      "assist1": "#16 - Jacob  Kohls",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#88 - Afshawn  Towfighi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1891",
+        "name": "Roughnecks"
+      },
+      "scorer": "#22 - Felix  Propp",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:07",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#1 - Thomas  Newberg",
+      "assist1": "#88 - Afshawn  Towfighi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#1 - Thomas  Newberg",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "1891",
+        "name": "Roughnecks"
+      },
+      "player": "#27 - Tim  Witkiewicz",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:34",
+      "team": {
+        "teamId": "1891",
+        "name": "Roughnecks"
+      },
+      "player": "#8 - Jared  Groneman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:29",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "player": "#88 - Afshawn  Towfighi",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:46:35.780Z"
+}

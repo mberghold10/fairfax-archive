@@ -1,0 +1,117 @@
+{
+  "gameId": "14959",
+  "date": "2022-07-03",
+  "divId": 250,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1543",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1545",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:07:23",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#80 - Ryan  Schafer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:37",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#77 - Sari  Lelchook",
+      "assist1": "#80 - Ryan  Schafer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#19 - Steve  Tarditi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#19 - Tom  Spiewak",
+      "assist1": "#28 - Carrick  Randall",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:29",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": "#19 - Steve  Tarditi",
+      "assist2": "#77 - Sari  Lelchook"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "player": "#19 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "Interference",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "player": "#19 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:40:59.664Z"
+}

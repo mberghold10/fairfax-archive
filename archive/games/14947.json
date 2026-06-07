@@ -1,0 +1,132 @@
+{
+  "gameId": "14947",
+  "date": "2022-06-06",
+  "divId": 250,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1541",
+    "name": "Punishers HC"
+  },
+  "away": {
+    "teamId": "1542",
+    "name": "Pharoahs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "scorer": "#88 - Matt  Zipper",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:21",
+      "team": {
+        "teamId": "1542",
+        "name": "Pharoahs"
+      },
+      "scorer": "#10 - Jay  Yoon",
+      "assist1": "#5 - Chris  Maroon",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:25",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "scorer": "#88 - Matt  Zipper",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:41",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:41",
+      "team": {
+        "teamId": "1542",
+        "name": "Pharoahs"
+      },
+      "player": "#10 - Jay  Yoon",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:42",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "player": "#15 - Phil  Wind",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:48",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "player": "#1 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:40:50.667Z"
+}

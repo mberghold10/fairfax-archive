@@ -1,0 +1,143 @@
+{
+  "gameId": "17961",
+  "date": "2025-04-23",
+  "divId": 304,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1867",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1866",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:48",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#55 - Brian  Merkl",
+      "assist1": "#36 - Jon  Stehle",
+      "assist2": "#33 - Sergey  Kuznetsov"
+    },
+    {
+      "period": "2",
+      "time": "00:03:59",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#55 - Brian  Merkl",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:12",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#41 - Eugene  Livsics",
+      "assist1": "#33 - Sergey  Kuznetsov",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:03",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#36 - Jon  Stehle",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:35",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#55 - Brian  Merkl",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:26",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "player": "#36 - Jon  Stehle",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "player": "#41 - Eugene  Livsics",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:13",
+      "team": {
+        "teamId": "1866",
+        "name": "Swarm"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:19",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "player": "#8 - Rod  Wade",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:42:28.943Z"
+}

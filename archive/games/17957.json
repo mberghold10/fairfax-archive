@@ -1,0 +1,152 @@
+{
+  "gameId": "17957",
+  "date": "2025-04-09",
+  "divId": 304,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1866",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1867",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:02:15",
+      "team": {
+        "teamId": "1866",
+        "name": "Swarm"
+      },
+      "scorer": "#360 - Jeff  Cardieo",
+      "assist1": "#91 - Matt  Weeden",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "2",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1866",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#91 - Matt  Weeden",
+      "assist2": "#41 - Erik  Kniaz"
+    },
+    {
+      "period": "2",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:48",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#55 - Brian  Merkl",
+      "assist1": "#54 - Ryan  Galluzzo",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:45",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#36 - Jon  Stehle",
+      "assist2": "#12 - Brian  Dix"
+    },
+    {
+      "period": "3",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#55 - Brian  Merkl",
+      "assist1": "#36 - Jon  Stehle",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#37 - Josh  Savani",
+      "assist1": "#33 - Sergey  Kuznetsov",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:10:16",
+      "team": {
+        "teamId": "1866",
+        "name": "Swarm"
+      },
+      "player": "#51 - Tyler  Kniaz",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:06",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "player": "#55 - Brian  Merkl",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:42:24.953Z"
+}

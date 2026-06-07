@@ -1,0 +1,204 @@
+{
+  "gameId": "10906",
+  "date": "2017-09-05",
+  "divId": 164,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1052",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1050",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:40",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#71 - John  Buhler",
+      "assist1": "#9 - Rick  Cole",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:11",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#89 - Frank  Congel",
+      "assist1": "#19 - Jason  Long",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:59",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#93 - Jeff  Nauer",
+      "assist1": "#2 - Mark  Jesten",
+      "assist2": "#89 - Frank  Congel"
+    },
+    {
+      "period": "2",
+      "time": "00:09:39",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "scorer": "#92 - Bryan  Diner",
+      "assist1": "#23 - Alan  Stiffler",
+      "assist2": "#14 - Paul  Tourbaf"
+    },
+    {
+      "period": "2",
+      "time": "00:11:48",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#71 - John  Buhler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "scorer": "#6 - Jon  Alford",
+      "assist1": "#10 - Rich  Scigaj",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:50",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": "#93 - Jeff  Nauer",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:58",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "player": "#92 - Bryan  Diner",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "player": "#71 - John  Buhler",
+      "pim": 5,
+      "offense": "head contact",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "player": "#71 - John  Buhler",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:57",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "player": "#26 - Philip  Hogan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:59",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "player": "#14 - Paul  Tourbaf",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:48",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "player": "#68 - Jeff  Robins",
+      "pim": 2,
+      "offense": "g int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "player": "#19 - Jason  Long",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:11:17.095Z"
+}

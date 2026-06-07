@@ -1,0 +1,244 @@
+{
+  "gameId": "13071",
+  "date": "2019-09-16",
+  "divId": 203,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1290",
+    "name": "Canucks"
+  },
+  "away": {
+    "teamId": "1286",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 4,
+      "ot": 1,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:24",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#9 - Jon  Goldstein",
+      "assist1": "#88 - Brian  Ray",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:56",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#88 - Brian  Ray",
+      "assist1": "#91 - Chris  Callanan",
+      "assist2": "#9 - Jon  Goldstein"
+    },
+    {
+      "period": "1",
+      "time": "00:10:54",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": "#21 - Jim  Callow",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:26",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": "#12 - Chris  Yoko",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": "#91 - Sean  Morrow",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#8 - Kevin  Free",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:42",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#91 - Chris  Callanan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#44 - Jack  Wilmer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:12",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": "#91 - Sean  Morrow",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:17",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "scorer": "#12 - Chris  Yoko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "scorer": "#2 - Seth  Johnson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:08",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": "#91 - Sean  Morrow",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:40",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "player": "#29 - Michael  Carzoli",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:27",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "player": "#0 - Curt  Tucker",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:52",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "player": "#21 - Jim  Callow",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "player": "#91 - Sean  Morrow",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:19",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "player": "#0 - Curt  Tucker",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:58:47.301Z"
+}

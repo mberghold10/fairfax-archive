@@ -1,0 +1,117 @@
+{
+  "gameId": "10470",
+  "date": "2017-06-16",
+  "divId": 161,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1031",
+    "name": "Georgetown"
+  },
+  "away": {
+    "teamId": "1033",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "scorer": "#90 - Ethan  Weintraub",
+      "assist1": "#9 - Marty  McNamara",
+      "assist2": "#10 - Jeremy  Altman"
+    },
+    {
+      "period": "1",
+      "time": "00:12:50",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "scorer": "#90 - Ethan  Weintraub",
+      "assist1": "#10 - Jeremy  Altman",
+      "assist2": "#11 - Mac  Mitchell"
+    },
+    {
+      "period": "2",
+      "time": "00:07:18",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "scorer": "#67 - Steven  Pineda",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:28",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "scorer": "#67 - Steven  Pineda",
+      "assist1": "#52 - Jeff  Strich",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:58",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "scorer": "#9 - Marty  McNamara",
+      "assist1": "#67 - Steven  Pineda",
+      "assist2": "#18 - Ray  Mitchell"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "player": "#27 - Chris  Balsley",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:41",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "player": "#90 - Ethan  Weintraub",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:06:58.598Z"
+}

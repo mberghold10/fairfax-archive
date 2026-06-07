@@ -1,0 +1,95 @@
+{
+  "gameId": "18331",
+  "date": "2025-07-11",
+  "divId": 318,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1948",
+    "name": "Mesozoic Pucks"
+  },
+  "away": {
+    "teamId": "1949",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:18:22",
+      "team": {
+        "teamId": "1948",
+        "name": "Mesozoic Pucks"
+      },
+      "scorer": "#37 - Michael  Wisniewski",
+      "assist1": "#33 - Scott  Coco",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:45",
+      "team": {
+        "teamId": "1948",
+        "name": "Mesozoic Pucks"
+      },
+      "scorer": "#74 - Matt  Santos",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1948",
+        "name": "Mesozoic Pucks"
+      },
+      "scorer": "#33 - Scott  Coco",
+      "assist1": "#94 - Mike  Starego",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1948",
+        "name": "Mesozoic Pucks"
+      },
+      "player": "#37 - Michael  Wisniewski",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:55",
+      "team": {
+        "teamId": "1948",
+        "name": "Mesozoic Pucks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:56:54.776Z"
+}

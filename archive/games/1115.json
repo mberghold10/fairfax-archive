@@ -1,0 +1,128 @@
+{
+  "gameId": "1115",
+  "date": "2021-02-26",
+  "divId": 219,
+  "seasonName": "Fall 2020",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1380",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1379",
+    "name": "Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 4,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:44",
+      "team": {
+        "teamId": "1379",
+        "name": "Moose"
+      },
+      "scorer": "#8 - Susan  Upward",
+      "assist1": "#13 - Brian  Harmon",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1380",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#18 - Brian  Crossin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:45",
+      "team": {
+        "teamId": "1380",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#28 - Brad  Mills",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:45",
+      "team": {
+        "teamId": "1379",
+        "name": "Moose"
+      },
+      "scorer": "#24 - Brian  Kelly",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:23",
+      "team": {
+        "teamId": "1380",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#18 - Brian  Crossin",
+      "assist1": "#71 - Dan  Cosentino",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:36",
+      "team": {
+        "teamId": "1380",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#9 - Alex  Cimon",
+      "assist2": "#18 - Brian  Crossin"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:43",
+      "team": {
+        "teamId": "1379",
+        "name": "Moose"
+      },
+      "player": "#9 - Mitch  Federman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1380",
+        "name": "Blue Crabs"
+      },
+      "player": "#36 - Brian  Lusby",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:16:38.300Z"
+}

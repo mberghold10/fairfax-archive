@@ -1,0 +1,163 @@
+{
+  "gameId": "14847",
+  "date": "2022-05-22",
+  "divId": 255,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1575",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1576",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1575",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#19 - Jason  Long",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:21",
+      "team": {
+        "teamId": "1575",
+        "name": "Hurricanes"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": "#1 - Chris  Beach",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:39",
+      "team": {
+        "teamId": "1576",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#8 - Elliott  Yang",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "1576",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#8 - Elliott  Yang",
+      "assist2": "#32 - Brian  Freeman"
+    },
+    {
+      "period": "1",
+      "time": "00:13:35",
+      "team": {
+        "teamId": "1575",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1576",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#7 - Gus  Anderson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:45",
+      "team": {
+        "teamId": "1575",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#9 - Rick  Cole",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:36",
+      "team": {
+        "teamId": "1575",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:35",
+      "team": {
+        "teamId": "1575",
+        "name": "Hurricanes"
+      },
+      "player": "#19 - Jason  Long",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:11",
+      "team": {
+        "teamId": "1575",
+        "name": "Hurricanes"
+      },
+      "player": "#81 - Pete  Poczatek",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:06",
+      "team": {
+        "teamId": "1576",
+        "name": "Maple Leafs"
+      },
+      "player": "#7 - Gus  Anderson",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:47:16.628Z"
+}

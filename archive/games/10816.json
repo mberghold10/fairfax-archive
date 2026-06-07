@@ -1,0 +1,154 @@
+{
+  "gameId": "10816",
+  "date": "2017-08-26",
+  "divId": 166,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1061",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1066",
+    "name": "Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "scorer": "#18 - Steve  Percival",
+      "assist1": "#11 - Mike  Dumont",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:52",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "scorer": "#5 - Chris  Howard",
+      "assist1": "#350 - Matt  Eckler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#350 - Matt  Eckler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:40",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "scorer": "#350 - Matt  Eckler",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:22",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "scorer": "#350 - Matt  Eckler",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "scorer": "#18 - Steve  Percival",
+      "assist1": "#42 - Bill  Hardy",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "player": "#35 - Matt  Eckler",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:29",
+      "team": {
+        "teamId": "1061",
+        "name": "Avalanche"
+      },
+      "player": "#13 - Shane  Mitchell",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "1061",
+        "name": "Avalanche"
+      },
+      "player": "#35 - Ross  Kuhn",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:10",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "player": "#42 - Bill  Hardy",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:13:52.531Z"
+}

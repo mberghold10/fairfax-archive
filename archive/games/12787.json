@@ -1,0 +1,106 @@
+{
+  "gameId": "12787",
+  "date": "2019-06-23",
+  "divId": 201,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1275",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1276",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1276",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#77 - Jeff  Wilken",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:45",
+      "team": {
+        "teamId": "1276",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#20 - Paul  Flood",
+      "assist1": "#21 - Steve  Kaplan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "1275",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#32 - Brian  Freeman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:41",
+      "team": {
+        "teamId": "1275",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#32 - Brian  Freeman",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1276",
+        "name": "Ice Dogs"
+      },
+      "player": "#20 - Paul  Flood",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:02:08",
+      "team": {
+        "teamId": "1276",
+        "name": "Ice Dogs"
+      },
+      "player": "#18 - Lee  Freedman",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:56:25.232Z"
+}

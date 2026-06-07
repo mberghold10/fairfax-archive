@@ -1,0 +1,130 @@
+{
+  "gameId": "11025",
+  "date": "2017-10-26",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1095",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1099",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:41",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#55 - Gig  Mikell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:48",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "scorer": "#13 - Mike  Carew",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:00",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": "#69 - Ron  Fishbeck",
+      "assist2": "#19 - Joe  Dunn"
+    },
+    {
+      "period": "3",
+      "time": "00:08:08",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#55 - Gig  Mikell",
+      "assist1": "#12 - Paul  Zalocha",
+      "assist2": "#5 - Jon  Lewandoski"
+    },
+    {
+      "period": "3",
+      "time": "00:12:45",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#47 - Talbot  Black",
+      "assist1": "#55 - Gig  Mikell",
+      "assist2": "#44 - Mick  Ellsworth"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "player": "#20 - Brent  Jefferson",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:26",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "player": "#2 - James  Marlowe",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "player": "#28 - Alex  Henry",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:19:44.102Z"
+}

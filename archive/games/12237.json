@@ -1,0 +1,130 @@
+{
+  "gameId": "12237",
+  "date": "2018-12-14",
+  "divId": 193,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1225",
+    "name": "Steamed Crabs"
+  },
+  "away": {
+    "teamId": "1254",
+    "name": "Mighty Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1225",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#67 - John F Krotzer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:01",
+      "team": {
+        "teamId": "1254",
+        "name": "Mighty Moose"
+      },
+      "scorer": "#4 - Ryan  Cantwell",
+      "assist1": "#17 - Bryan  Morrison",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1254",
+        "name": "Mighty Moose"
+      },
+      "scorer": "#2 - Dennis  Valentine",
+      "assist1": "#72 - Ted  Burmeister",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:43",
+      "team": {
+        "teamId": "1225",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#18 - Craig  McCall",
+      "assist1": "#43 - Steve  Sincavage",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1225",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#43 - Steve  Sincavage",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "1254",
+        "name": "Mighty Moose"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:42",
+      "team": {
+        "teamId": "1225",
+        "name": "Steamed Crabs"
+      },
+      "player": "#10 - Matthew  Allen",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:38",
+      "team": {
+        "teamId": "1225",
+        "name": "Steamed Crabs"
+      },
+      "player": "#15 - Dave  Fisher",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:46:15.731Z"
+}

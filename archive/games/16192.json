@@ -1,0 +1,167 @@
+{
+  "gameId": "16192",
+  "date": "2023-08-05",
+  "divId": 269,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1664",
+    "name": "Hitmen"
+  },
+  "away": {
+    "teamId": "1657",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "1664",
+        "name": "Hitmen"
+      },
+      "scorer": "# -",
+      "assist1": "#4 - Augie  Savarese",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "1664",
+        "name": "Hitmen"
+      },
+      "scorer": "#91 - Josh  Wilson",
+      "assist1": "#4 - Augie  Savarese",
+      "assist2": "#29 - Taylor  Van Prooyen"
+    },
+    {
+      "period": "2",
+      "time": "00:07:52",
+      "team": {
+        "teamId": "1664",
+        "name": "Hitmen"
+      },
+      "scorer": "#29 - Taylor  Van Prooyen",
+      "assist1": "#91 - Josh  Wilson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:37",
+      "team": {
+        "teamId": "1664",
+        "name": "Hitmen"
+      },
+      "scorer": "#8 - Tyler  Hoge",
+      "assist1": "#27 - Jeremy  King",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:45",
+      "team": {
+        "teamId": "1664",
+        "name": "Hitmen"
+      },
+      "scorer": "#12 - Mike  Cassidy",
+      "assist1": "#29 - Taylor  Van Prooyen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:11",
+      "team": {
+        "teamId": "1657",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#16 - Dave  Smith",
+      "assist1": "#46 - Ian  Stack",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:11:10",
+      "team": {
+        "teamId": "1657",
+        "name": "Blackskimmers"
+      },
+      "player": "#17 - JP  Christoph",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:28",
+      "team": {
+        "teamId": "1664",
+        "name": "Hitmen"
+      },
+      "player": "#32 - Andy  Gay",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:28",
+      "team": {
+        "teamId": "1657",
+        "name": "Blackskimmers"
+      },
+      "player": "#17 - JP  Christoph",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "1664",
+        "name": "Hitmen"
+      },
+      "player": "#8 - Tyler  Hoge",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:25",
+      "team": {
+        "teamId": "1657",
+        "name": "Blackskimmers"
+      },
+      "player": "#17 - JP  Christoph",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:03:56.955Z"
+}

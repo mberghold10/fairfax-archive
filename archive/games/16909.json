@@ -1,0 +1,117 @@
+{
+  "gameId": "16909",
+  "date": "2024-03-31",
+  "divId": 285,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1750",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1751",
+    "name": "Virginia Buccaneers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1751",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#21 - Grant  Moher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1750",
+        "name": "Nortec"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:26",
+      "team": {
+        "teamId": "1751",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#21 - Grant  Moher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:50",
+      "team": {
+        "teamId": "1750",
+        "name": "Nortec"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:27",
+      "team": {
+        "teamId": "1751",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#13 - Steve  Berry",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:37",
+      "team": {
+        "teamId": "1751",
+        "name": "Virginia Buccaneers"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:15",
+      "team": {
+        "teamId": "1750",
+        "name": "Nortec"
+      },
+      "player": "#24 - Michael  Sheridan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:22:35.036Z"
+}

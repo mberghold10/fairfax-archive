@@ -1,0 +1,95 @@
+{
+  "gameId": "14246",
+  "date": "2021-09-02",
+  "divId": 236,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1471",
+    "name": "Anonymous"
+  },
+  "away": {
+    "teamId": "1474",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:12",
+      "team": {
+        "teamId": "1474",
+        "name": "Penguins"
+      },
+      "scorer": "#20 - Brent  Jefferson",
+      "assist1": "#13 - Bob  Seal",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "1471",
+        "name": "Anonymous"
+      },
+      "scorer": "#27 - Rob  Helfant",
+      "assist1": "#24 - Mike  Sheridan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:59",
+      "team": {
+        "teamId": "1474",
+        "name": "Penguins"
+      },
+      "scorer": "#20 - Brent  Jefferson",
+      "assist1": "#81 - Chris  Holden",
+      "assist2": "#24 - Max  Alexeev"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1471",
+        "name": "Anonymous"
+      },
+      "player": "#89 - Andrew  Grose",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:43",
+      "team": {
+        "teamId": "1474",
+        "name": "Penguins"
+      },
+      "player": "#81 - Chris  Holden",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:27:59.876Z"
+}

@@ -1,0 +1,130 @@
+{
+  "gameId": "1549",
+  "date": "2025-06-10",
+  "divId": 307,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1884",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1881",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#19 - Jason  Long",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:53",
+      "team": {
+        "teamId": "1881",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#9 - Paul  Moretti",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": "#31 - Sam  Branham"
+    },
+    {
+      "period": "1",
+      "time": "00:04:24",
+      "team": {
+        "teamId": "1881",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#31 - Sam  Branham",
+      "assist1": "#25 - Neil  Dsouza",
+      "assist2": "#79 - Jeff  Vandenberghe"
+    },
+    {
+      "period": "1",
+      "time": "00:11:56",
+      "team": {
+        "teamId": "1881",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#9 - Paul  Moretti",
+      "assist1": "#78 - Bill  Ezekiel",
+      "assist2": "#79 - Jeff  Vandenberghe"
+    },
+    {
+      "period": "2",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "1881",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#25 - Neil  Dsouza",
+      "assist2": "#79 - Jeff  Vandenberghe"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:41",
+      "team": {
+        "teamId": "1881",
+        "name": "Ice Dogs"
+      },
+      "player": "#24 - Brian  Crossin",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "player": "#11 - Brendan  Ford",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "1881",
+        "name": "Ice Dogs"
+      },
+      "player": "#78 - Bill  Ezekiel",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:45:57.703Z"
+}

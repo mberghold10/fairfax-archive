@@ -1,0 +1,143 @@
+{
+  "gameId": "10316",
+  "date": "2017-01-29",
+  "divId": 158,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1011",
+    "name": "River Rats"
+  },
+  "away": {
+    "teamId": "1016",
+    "name": "Red Devils"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:06",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "scorer": "#24 - Austin  Ford",
+      "assist1": "#27 - Dave  McAndrews",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:08",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "scorer": "#16 - Cooper  Branham",
+      "assist1": "#11 - Michael  Plampin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:02",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "scorer": "#11 - Michael  Plampin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:09",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "scorer": "#42 - Jon  Coley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#11 - Sam  Marchio",
+      "assist1": "#74 - Jeff  Chistolini",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:26",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "player": "#43 - Bill  Picard",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "player": "#11 - Michael  Plampin",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "player": "#11 - Sam  Marchio",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:23",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "player": "#18 - Jeff  Rummel",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:03:20.992Z"
+}

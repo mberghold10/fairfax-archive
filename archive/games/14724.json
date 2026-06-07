@@ -1,0 +1,130 @@
+{
+  "gameId": "14724",
+  "date": "2022-02-09",
+  "divId": 245,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1515",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1514",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:08:09",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "scorer": "#6 - Kevin  Elfenbein",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:39",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:05",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "scorer": "#56 - Ryan  Tyler",
+      "assist1": "#8 - Brendan  Millice",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:53",
+      "team": {
+        "teamId": "1514",
+        "name": "Ducks"
+      },
+      "scorer": "#71 - Colin  Shin",
+      "assist1": "#73 - Mike  Carew",
+      "assist2": "#180 - Dominic  Pistolessi"
+    },
+    {
+      "period": "3",
+      "time": "00:12:29",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": "#9 - Jason  Murphy",
+      "assist2": "#18 - Samson  Chu"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:06:54",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:15",
+      "team": {
+        "teamId": "1514",
+        "name": "Ducks"
+      },
+      "player": "#15 - Micah ` Lillard",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:19",
+      "team": {
+        "teamId": "1514",
+        "name": "Ducks"
+      },
+      "player": "#27 - Bryan  Booker",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:35:30.605Z"
+}

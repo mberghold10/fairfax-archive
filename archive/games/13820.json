@@ -1,0 +1,130 @@
+{
+  "gameId": "13820",
+  "date": "2020-12-07",
+  "divId": 219,
+  "seasonName": "Fall 2020",
+  "mode": "regular",
+  "home": {
+    "teamId": "1407",
+    "name": "Punishers"
+  },
+  "away": {
+    "teamId": "1381",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1381",
+        "name": "Avalanche"
+      },
+      "scorer": "#12 - Jason  Wakeman",
+      "assist1": "#43 - Alex  Utano",
+      "assist2": "#5 - Oleg  Kolodin"
+    },
+    {
+      "period": "2",
+      "time": "00:11:32",
+      "team": {
+        "teamId": "1407",
+        "name": "Punishers"
+      },
+      "scorer": "#26 - Cooper  Motzko",
+      "assist1": "#6 - Jon  Lauder",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:56",
+      "team": {
+        "teamId": "1407",
+        "name": "Punishers"
+      },
+      "scorer": "#42 - Ryan  ODriscoll",
+      "assist1": "#1 - Matt  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:39",
+      "team": {
+        "teamId": "1381",
+        "name": "Avalanche"
+      },
+      "scorer": "#87 - Stan  Kolodin",
+      "assist1": "#43 - Alex  Utano",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "1407",
+        "name": "Punishers"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": "#26 - Cooper  Motzko",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "1381",
+        "name": "Avalanche"
+      },
+      "player": "#5 - Oleg  Kolodin",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:43",
+      "team": {
+        "teamId": "1407",
+        "name": "Punishers"
+      },
+      "player": "#12 - David  OMalley",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:00",
+      "team": {
+        "teamId": "1381",
+        "name": "Avalanche"
+      },
+      "player": "#9 - Jared  Trevethon",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:16:21.170Z"
+}

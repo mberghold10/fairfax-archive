@@ -1,0 +1,95 @@
+{
+  "gameId": "13471",
+  "date": "2019-11-09",
+  "divId": 216,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1367",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1363",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:47",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:06",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#3 - Charlie  Beekman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#28 - Richard  Pettey",
+      "assist1": "#3 - Charlie  Beekman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:00",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "player": "#28 - Richard  Pettey",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:09",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "player": "#18 - Lee  Freedman",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:14:00.336Z"
+}

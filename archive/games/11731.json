@@ -1,0 +1,219 @@
+{
+  "gameId": "11731",
+  "date": "2018-06-24",
+  "divId": 187,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1190",
+    "name": "Triassic Puck"
+  },
+  "away": {
+    "teamId": "1192",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:02",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "scorer": "#2 - Sam  Bressi",
+      "assist1": "#6 - Hugo  Guzman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#13 - Aaron  Kirsch",
+      "assist1": "#9 - Greg  Sybersma",
+      "assist2": "#10 - Radek  Kaczor"
+    },
+    {
+      "period": "3",
+      "time": "00:00:58",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#9 - Greg  Sybersma",
+      "assist1": "#38 - Keith  Forsythe",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:08",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "scorer": "#12 - Joel  Zepeda",
+      "assist1": "#9 - Maddy  Padgett",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:35",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#9 - Greg  Sybersma",
+      "assist1": "#13 - Aaron  Kirsch",
+      "assist2": "#10 - Radek  Kaczor"
+    },
+    {
+      "period": "3",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "scorer": "#12 - Joel  Zepeda",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:17:50",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "player": "#13 - Aaron  Kirsch",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "player": "#13 - Aaron  Kirsch",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:20",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "player": "#6 - Hugo  Guzman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:04",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "player": "#17 - Michael  Bagnall",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:18:39",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "player": "#12 - Joel  Zepeda",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "player": "#0 - David  Margison",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:08",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "player": "#90 - Bryon  Howe",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:13",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "player": "#79 - Igor  Helman",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:39:12.213Z"
+}

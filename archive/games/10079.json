@@ -1,0 +1,73 @@
+{
+  "gameId": "10079",
+  "date": "2016-10-16",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1022",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1020",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:07:19",
+      "team": {
+        "teamId": "1022",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#27 - Adam  Bacon",
+      "assist1": "#2 - Todd  Mariano",
+      "assist2": "#5 - Lucas  Streng"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:03:14",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "player": "#16 - Dave  Smith",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "player": "#6 - Matt  Johnson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:04:02.967Z"
+}

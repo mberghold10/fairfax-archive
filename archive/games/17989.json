@@ -1,0 +1,196 @@
+{
+  "gameId": "17989",
+  "date": "2025-03-06",
+  "divId": 306,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1875",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1874",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 5,
+      "p3": 2,
+      "ot": 0,
+      "final": 9
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#3 - John  Niemiec",
+      "assist1": "#40 - Misha  Serebrennikov",
+      "assist2": "#7 - Dan  Ellert"
+    },
+    {
+      "period": "1",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#40 - Misha  Serebrennikov",
+      "assist1": "#23 - Rick  Gorgone",
+      "assist2": "#19 - Mike  Carr"
+    },
+    {
+      "period": "1",
+      "time": "00:05:33",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#12 - Jason  Wakeman",
+      "assist1": "#99 - Jon  Davoren",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:02",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#54 - Dan  Bagley",
+      "assist1": "#99 - Jon  Davoren",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:27",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#54 - Dan  Bagley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:54",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#10 - Mike  Brahmey",
+      "assist1": "#54 - Dan  Bagley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#9 - Ken  Fritzke",
+      "assist1": "#23 - Mike  OBrien",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:07",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#54 - Dan  Bagley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#54 - Dan  Bagley",
+      "assist1": "#5 - Oleg  Kolodin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#35 - Ross  Kuhn",
+      "assist1": "#54 - Dan  Bagley",
+      "assist2": "#9 - Ken  Fritzke"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:52",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "player": "#35 - Ross  Kuhn",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:50",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "player": "#40 - Misha  Serebrennikov",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "player": "#19 - Mike  Carr",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:44:17.343Z"
+}

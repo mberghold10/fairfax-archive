@@ -1,0 +1,130 @@
+{
+  "gameId": "17375",
+  "date": "2024-10-06",
+  "divId": 293,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1795",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1792",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:23",
+      "team": {
+        "teamId": "1795",
+        "name": "Islanders"
+      },
+      "scorer": "#6 - Christopher  Scully",
+      "assist1": "#76 - John  Ellison",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "1792",
+        "name": "Coyotes"
+      },
+      "scorer": "#21 - Steve  Kaplan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1792",
+        "name": "Coyotes"
+      },
+      "scorer": "#21 - Steve  Kaplan",
+      "assist1": "#56 - Ryan  Tyler",
+      "assist2": "#42 - Adam  Russell"
+    },
+    {
+      "period": "3",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "1795",
+        "name": "Islanders"
+      },
+      "scorer": "#2 - Mark  Jesten",
+      "assist1": "#6 - Christopher  Scully",
+      "assist2": "#57 - Chad  Cosgrove"
+    },
+    {
+      "period": "3",
+      "time": "00:10:50",
+      "team": {
+        "teamId": "1795",
+        "name": "Islanders"
+      },
+      "scorer": "#6 - Christopher  Scully",
+      "assist1": "#5 - Chris  Howard",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:51",
+      "team": {
+        "teamId": "1795",
+        "name": "Islanders"
+      },
+      "player": "#100 - Goalie  Substitue",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:57",
+      "team": {
+        "teamId": "1792",
+        "name": "Coyotes"
+      },
+      "player": "#1 - Brian  Freeman",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "1795",
+        "name": "Islanders"
+      },
+      "player": "#28 - Adam  Camarano",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:30:57.458Z"
+}

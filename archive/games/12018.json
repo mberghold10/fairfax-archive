@@ -1,0 +1,163 @@
+{
+  "gameId": "12018",
+  "date": "2018-09-20",
+  "divId": 181,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1151",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1152",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 4,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:35",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "scorer": "#18 - Chris  Kelly",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "scorer": "#15 - Mike  Hempen",
+      "assist1": "#18 - Chris  Kelly",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:44",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "scorer": "#18 - Chris  Kelly",
+      "assist1": "#55 - Joel  Whitney",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:02",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "scorer": "#18 - Chris  Kelly",
+      "assist1": "#24 - Jim  Behrend",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:32",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#16 - Tom  Rodeheaver",
+      "assist2": "#99 - Jon  Davoren"
+    },
+    {
+      "period": "2",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#10 - Michael  Brahmey",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Peter  Poczatek",
+      "assist1": "#98 - Matthew  Crisculol",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:53",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#99 - Jon  Davoren",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:51",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "player": "#22 - Ed  Gulakowski",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:46",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "player": "#98 - Matthew  Crisculol",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:04:08",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:31:58.986Z"
+}

@@ -1,0 +1,180 @@
+{
+  "gameId": "1403",
+  "date": "2024-05-13",
+  "divId": 277,
+  "seasonName": "Winter 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1709",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1705",
+    "name": "Screaming Eagles"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:58",
+      "team": {
+        "teamId": "1705",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#88 - Evan  Wojtowicz",
+      "assist1": "#28 - Jake  Combs",
+      "assist2": "#81 - Bryan  Getson"
+    },
+    {
+      "period": "1",
+      "time": "00:08:04",
+      "team": {
+        "teamId": "1705",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#81 - Bryan  Getson",
+      "assist1": "#10 - Mario  Constantinou",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1709",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": "#88 - Nolan  Campbell",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:32",
+      "team": {
+        "teamId": "1709",
+        "name": "Chiefs"
+      },
+      "scorer": "#42 - Dave  Hagemeier",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1705",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#81 - Bryan  Getson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:15",
+      "team": {
+        "teamId": "1705",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#98 - Bob  Valdes",
+      "assist1": "#17 - Talon  Ribsom",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:13",
+      "team": {
+        "teamId": "1705",
+        "name": "Screaming Eagles"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:59",
+      "team": {
+        "teamId": "1709",
+        "name": "Chiefs"
+      },
+      "player": "#17 - Maxim  Rinaldi",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:44",
+      "team": {
+        "teamId": "1705",
+        "name": "Screaming Eagles"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:06",
+      "team": {
+        "teamId": "1705",
+        "name": "Screaming Eagles"
+      },
+      "player": "#81 - Bryan  Getson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:01",
+      "team": {
+        "teamId": "1709",
+        "name": "Chiefs"
+      },
+      "player": "#13 - Trevor  Wallace",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:01",
+      "team": {
+        "teamId": "1705",
+        "name": "Screaming Eagles"
+      },
+      "player": "#5 - Ben  Malakoff",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:13:45.568Z"
+}

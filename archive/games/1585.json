@@ -1,0 +1,215 @@
+{
+  "gameId": "1585",
+  "date": "2025-11-19",
+  "divId": 315,
+  "seasonName": "Summer 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1929",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1928",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:41",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#7 - Andrew  Golomb",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:54",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#91 - Rob  Fischer",
+      "assist1": "#12 - Jon  Gregor",
+      "assist2": "#3 - Oleg  Kolodin"
+    },
+    {
+      "period": "2",
+      "time": "00:02:17",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#13 - Brian  Patterson",
+      "assist1": "#0 - Robert  Richard",
+      "assist2": "#15 - Jonathan  Vu"
+    },
+    {
+      "period": "2",
+      "time": "00:04:11",
+      "team": {
+        "teamId": "1929",
+        "name": "Swarm"
+      },
+      "scorer": "#46 - Dan  OConnell",
+      "assist1": "#91 - Matt  Weeden",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1929",
+        "name": "Swarm"
+      },
+      "scorer": "#9 - Jason  Murphy",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": "#46 - Dan  OConnell"
+    },
+    {
+      "period": "2",
+      "time": "00:12:48",
+      "team": {
+        "teamId": "1929",
+        "name": "Swarm"
+      },
+      "scorer": "#9 - Jason  Murphy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#15 - Jonathan  Vu",
+      "assist1": "#3 - Oleg  Kolodin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:26",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#25 - Max  Watstein",
+      "assist1": "#3 - Oleg  Kolodin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:51",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "player": "#15 - Jonathan  Vu",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:40",
+      "team": {
+        "teamId": "1929",
+        "name": "Swarm"
+      },
+      "player": "#8 - Brenden  Millice",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1929",
+        "name": "Swarm"
+      },
+      "player": "#9 - Jason  Murphy",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:47",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "player": "#27 - Bryan  Booker",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "player": "#12 - Jon  Gregor",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:34",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "player": "#13 - Brian  Patterson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:34",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "player": "#25 - Max  Watstein",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:54:06.439Z"
+}

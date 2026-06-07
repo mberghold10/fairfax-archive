@@ -1,0 +1,150 @@
+{
+  "gameId": "11738",
+  "date": "2018-07-05",
+  "divId": 181,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1153",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1152",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:31",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": "#23 - Mike  OBrien",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:15",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Peter  Poczatek",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:48",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": "#44 - Greg  Powers",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "scorer": "#56 - John  Filgear",
+      "assist1": "#23 - Rick  Gorgone",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:32",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#10 - Michael  Brahmey",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:02",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#99 - Jon  Davoren",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#98 - Matthew  Crisculol",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:40",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "player": "#7 - Dan  Ellert",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:56",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "player": "#92 - Ilya  Kosolapov",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:31:18.991Z"
+}

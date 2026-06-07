@@ -1,0 +1,154 @@
+{
+  "gameId": "11577",
+  "date": "2018-05-31",
+  "divId": 181,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1154",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1153",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "scorer": "#15 - Mark  Rudnicki",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:33",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "scorer": "#7 - Dan  Ellert",
+      "assist1": "#81 - Chris  Holden",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "scorer": "#15 - Mark  Rudnicki",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": "#44 - George  Cassidy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:33",
+      "team": {
+        "teamId": "1154",
+        "name": "Coyotes"
+      },
+      "scorer": "#3 - Bill  Schultheiss",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": "#4 - Paul  Cicchetti"
+    },
+    {
+      "period": "3",
+      "time": "00:12:50",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "scorer": "#11 - Darren  Wellner",
+      "assist1": "#15 - Mark  Rudnicki",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:03",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "player": "#3 - Mike  Stimson",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1154",
+        "name": "Coyotes"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:55",
+      "team": {
+        "teamId": "1154",
+        "name": "Coyotes"
+      },
+      "player": "#25 - Steve  Tamburo",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1154",
+        "name": "Coyotes"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:31:04.592Z"
+}

@@ -1,0 +1,150 @@
+{
+  "gameId": "14143",
+  "date": "2021-08-01",
+  "divId": 233,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1453",
+    "name": "Jurassic Puck"
+  },
+  "away": {
+    "teamId": "1455",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:26",
+      "team": {
+        "teamId": "1455",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#4 - Sam  Hauslohner",
+      "assist1": "#19 - Alex  Wang",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1455",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#44 - Jeff  Marciano",
+      "assist1": "#9 - Greg  Sibley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:08",
+      "team": {
+        "teamId": "1455",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#19 - Alex  Wang",
+      "assist1": "#18 - Jimmy  Feeney",
+      "assist2": "#44 - Jeff  Marciano"
+    },
+    {
+      "period": "2",
+      "time": "00:08:04",
+      "team": {
+        "teamId": "1455",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#19 - Alex  Wang",
+      "assist1": "#55 - Andrew  Mayen",
+      "assist2": "#24 - Brian  Davies"
+    },
+    {
+      "period": "2",
+      "time": "00:12:06",
+      "team": {
+        "teamId": "1453",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#6 - Ian  Dillner",
+      "assist1": "#99 - Francesco  Muss",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:36",
+      "team": {
+        "teamId": "1453",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#17 - Zephan  Keehner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:43",
+      "team": {
+        "teamId": "1453",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#6 - Ian  Dillner",
+      "assist1": "#9 - Tristan  Heyn",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:06",
+      "team": {
+        "teamId": "1455",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#18 - Jimmy  Feeney",
+      "assist1": "#4 - Sam  Hauslohner",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:06",
+      "team": {
+        "teamId": "1455",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#26 - Brian  Hensel",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1453",
+        "name": "Jurassic Puck"
+      },
+      "player": "#50 - Steve  Lavery",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:25:28.648Z"
+}

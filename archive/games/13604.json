@@ -1,0 +1,143 @@
+{
+  "gameId": "13604",
+  "date": "2020-02-08",
+  "divId": 212,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1342",
+    "name": "Rats"
+  },
+  "away": {
+    "teamId": "1341",
+    "name": "Sparks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:03:36",
+      "team": {
+        "teamId": "1342",
+        "name": "Rats"
+      },
+      "scorer": "#2 - Sam  Bressi",
+      "assist1": "#98 - Carl  Tierney",
+      "assist2": "#22 - Matthew  Thrasher"
+    },
+    {
+      "period": "2",
+      "time": "00:07:03",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "scorer": "#42 - Ryan  Bruun",
+      "assist1": "#47 - David  LeKuch",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:57",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "scorer": "#46 - Charlie  Fancher",
+      "assist1": "#27 - Andrew  Sundelin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "scorer": "#16 - Josh  Brown",
+      "assist1": "#46 - Charlie  Fancher",
+      "assist2": "#30 - Brandon  Heiner"
+    },
+    {
+      "period": "3",
+      "time": "00:12:35",
+      "team": {
+        "teamId": "1342",
+        "name": "Rats"
+      },
+      "scorer": "#23 - Dan  Bardo",
+      "assist1": "#2 - Sam  Bressi",
+      "assist2": "#6 - Hugo  Guzman"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "player": "#7 - Ian  Stack",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:23",
+      "team": {
+        "teamId": "1342",
+        "name": "Rats"
+      },
+      "player": "#22 - Matthew  Thrasher",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:12",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:34",
+      "team": {
+        "teamId": "1342",
+        "name": "Rats"
+      },
+      "player": "#6 - Hugo  Guzman",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:09:06.660Z"
+}

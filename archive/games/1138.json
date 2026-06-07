@@ -1,0 +1,241 @@
+{
+  "gameId": "1138",
+  "date": "2021-07-18",
+  "divId": 228,
+  "seasonName": "Spring 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1432",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1430",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:55",
+      "team": {
+        "teamId": "1430",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#42 - Adam  Russell",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:35",
+      "team": {
+        "teamId": "1430",
+        "name": "Coyotes"
+      },
+      "scorer": "#21 - Steve  Kaplan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1432",
+        "name": "Grey Goons"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": "#11 - Dave  Brown",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:11",
+      "team": {
+        "teamId": "1432",
+        "name": "Grey Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#25 - Chris  Lettieri",
+      "assist2": "#5 - John  Lewandoski"
+    },
+    {
+      "period": "2",
+      "time": "00:10:23",
+      "team": {
+        "teamId": "1432",
+        "name": "Grey Goons"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": "#25 - Chris  Lettieri",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1430",
+        "name": "Coyotes"
+      },
+      "scorer": "#21 - Steve  Kaplan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:19",
+      "team": {
+        "teamId": "1430",
+        "name": "Coyotes"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": "#13 - Mike  Carew",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "1430",
+        "name": "Coyotes"
+      },
+      "scorer": "#13 - Mike  Carew",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:15",
+      "team": {
+        "teamId": "1432",
+        "name": "Grey Goons"
+      },
+      "player": "#38 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:59",
+      "team": {
+        "teamId": "1430",
+        "name": "Coyotes"
+      },
+      "player": "#47 - Rob  Schumann",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "1432",
+        "name": "Grey Goons"
+      },
+      "player": "#19 - Joe  Dunn",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1432",
+        "name": "Grey Goons"
+      },
+      "player": "#38 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1430",
+        "name": "Coyotes"
+      },
+      "player": "#13 - Mike  Carew",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:29",
+      "team": {
+        "teamId": "1432",
+        "name": "Grey Goons"
+      },
+      "player": "#28 - Alex  Henry",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:23",
+      "team": {
+        "teamId": "1430",
+        "name": "Coyotes"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:08",
+      "team": {
+        "teamId": "1432",
+        "name": "Grey Goons"
+      },
+      "player": "#28 - Alex  Henry",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:49",
+      "team": {
+        "teamId": "1432",
+        "name": "Grey Goons"
+      },
+      "player": "#38 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:22:45.538Z"
+}

@@ -1,0 +1,165 @@
+{
+  "gameId": "13016",
+  "date": "2019-08-02",
+  "divId": 201,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1275",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1280",
+    "name": "Beltway Butchers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 4,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1275",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#20 - Bao  Pham",
+      "assist1": "#32 - Brian  Freeman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "1275",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#20 - Bao  Pham",
+      "assist1": "#97 - Brian  Rollins",
+      "assist2": "#32 - Brian  Freeman"
+    },
+    {
+      "period": "1",
+      "time": "00:04:17",
+      "team": {
+        "teamId": "1275",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#20 - Bao  Pham",
+      "assist1": "#97 - Brian  Rollins",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:24",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#86 - John  Persinger",
+      "assist1": "#88 - TJ  Doherty",
+      "assist2": "#27 - Jeff  Alton"
+    },
+    {
+      "period": "1",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "1275",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#20 - Bao  Pham",
+      "assist1": "#32 - Brian  Freeman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1275",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#8 - Jon  Swaney",
+      "assist1": "#23 - Ken  Degrave",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "player": "#86 - John  Persinger",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:10",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "player": "#99 - Santiago  Garcia",
+      "pim": 2,
+      "offense": "board",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:10",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "player": "#99 - Santiago  Garcia",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:06",
+      "team": {
+        "teamId": "1275",
+        "name": "Maple Leafs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:56:44.297Z"
+}

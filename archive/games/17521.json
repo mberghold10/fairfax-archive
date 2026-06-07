@@ -1,0 +1,128 @@
+{
+  "gameId": "17521",
+  "date": "2024-12-08",
+  "divId": 299,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1840",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1836",
+    "name": "D 4th Liners"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:35",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#5 - Andy  Loggia",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:37",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": "#2 - Ari  Loggia",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:06",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#2 - Ari  Loggia",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:56",
+      "team": {
+        "teamId": "1836",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#15 - Patrick  Judge",
+      "assist1": "#19 - Joe  Beard",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:37",
+      "team": {
+        "teamId": "1836",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#19 - Joe  Beard",
+      "assist1": "#23 - Omar  Haque",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": "#2 - Ari  Loggia",
+      "assist2": "#11 - Scott  Choronzy"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "player": "#11 - Scott  Choronzy",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1836",
+        "name": "D 4th Liners"
+      },
+      "player": "#12 - Nic  Westing",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:36:03.630Z"
+}

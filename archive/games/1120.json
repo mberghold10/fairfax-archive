@@ -1,0 +1,213 @@
+{
+  "gameId": "1120",
+  "date": "2021-07-18",
+  "divId": 225,
+  "seasonName": "Spring 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1411",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1409",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:33",
+      "team": {
+        "teamId": "1409",
+        "name": "Ducks"
+      },
+      "scorer": "#22 - Justin  Moriarty",
+      "assist1": "#6 - David  Stagaj",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:20",
+      "team": {
+        "teamId": "1411",
+        "name": "Swarm"
+      },
+      "scorer": "#9 - Jason  Murphy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "1411",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#10 - Matt  Galen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "1409",
+        "name": "Ducks"
+      },
+      "scorer": "#22 - Justin  Moriarty",
+      "assist1": "#18 - Sean  Gallucci",
+      "assist2": "#0 - Robert  Richard"
+    },
+    {
+      "period": "2",
+      "time": "00:12:31",
+      "team": {
+        "teamId": "1409",
+        "name": "Ducks"
+      },
+      "scorer": "#6 - David  Stagaj",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:15",
+      "team": {
+        "teamId": "1411",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#16 - Scott  Kuehn",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:58",
+      "team": {
+        "teamId": "1409",
+        "name": "Ducks"
+      },
+      "scorer": "#22 - Justin  Moriarty",
+      "assist1": "#73 - Mike  Carew",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:11",
+      "team": {
+        "teamId": "1411",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1409",
+        "name": "Ducks"
+      },
+      "scorer": "#2 - Ricki  Clark",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:51",
+      "team": {
+        "teamId": "1409",
+        "name": "Ducks"
+      },
+      "player": "#18 - Sean  Gallucci",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "1409",
+        "name": "Ducks"
+      },
+      "player": "#18 - Sean  Gallucci",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "1409",
+        "name": "Ducks"
+      },
+      "player": "#4 - Bruce  Baltas",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:39",
+      "team": {
+        "teamId": "1409",
+        "name": "Ducks"
+      },
+      "player": "#18 - Sean  Gallucci",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:18",
+      "team": {
+        "teamId": "1409",
+        "name": "Ducks"
+      },
+      "player": "#11 - Nate  Harrison",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:24",
+      "team": {
+        "teamId": "1411",
+        "name": "Swarm"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:20:05.295Z"
+}

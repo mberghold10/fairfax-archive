@@ -1,0 +1,137 @@
+{
+  "gameId": "12139",
+  "date": "2018-12-19",
+  "divId": 189,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1200",
+    "name": "Bulldogs"
+  },
+  "away": {
+    "teamId": "1201",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "scorer": "#90 - Shawn  McEvoy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:49",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "scorer": "#21 - John  Kozar",
+      "assist1": "#69 - Aaron  Risdal",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:41",
+      "team": {
+        "teamId": "1201",
+        "name": "Kings"
+      },
+      "scorer": "#9 - Tommy  Meaux",
+      "assist1": "#88 - Chris  Peterkin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:04",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#90 - Shawn  McEvoy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:19",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "scorer": "#18 - Steve  Percival",
+      "assist1": "#90 - Shawn  McEvoy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "1201",
+        "name": "Kings"
+      },
+      "scorer": "#21 - Andy  Heckmann",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1201",
+        "name": "Kings"
+      },
+      "scorer": "#9 - Tommy  Meaux",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1201",
+        "name": "Kings"
+      },
+      "player": "#7 - Mike  Hoard",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:41:06.071Z"
+}

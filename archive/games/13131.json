@@ -1,0 +1,130 @@
+{
+  "gameId": "13131",
+  "date": "2019-07-28",
+  "divId": 206,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1306",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1302",
+    "name": "Triassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "scorer": "#27 - Philip  Brooks",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:01",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "scorer": "#27 - Philip  Brooks",
+      "assist1": "#42 - David  Hagemeier",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#5 - Brandon  Jones",
+      "assist1": "#24 - Jonathan  Rowny",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:55",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "scorer": "#3 - Ilana  Bell",
+      "assist1": "#34 - Cameron  Wilson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:03",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "scorer": "#88 - Maddy  Padgett",
+      "assist1": "#5 - Sam  Bryce",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:45",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "player": "#44 - George  Cernica",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "player": "#9 - Greg  Sybersma",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:01",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:02:03.393Z"
+}

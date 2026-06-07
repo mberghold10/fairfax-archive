@@ -1,0 +1,200 @@
+{
+  "gameId": "11262",
+  "date": "2018-03-21",
+  "divId": 171,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1093",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1094",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#69 - Robert  LaJeunesse",
+      "assist1": "#3 - Kareem  El-Alaily",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:45",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#55 - Matt  Roulo",
+      "assist1": "#18 - Sean  Gallucci",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:11",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#55 - Matt  Roulo",
+      "assist1": "#24 - Steve  Dolski",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:34",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#4 - Bruce  Baltas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#18 - Sean  Gallucci",
+      "assist1": "#91 - Rob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:57",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#0 - Robert  Richard",
+      "assist1": "#220 - Mark  Chapman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:13",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#4 - Tad  Jose",
+      "assist1": "#28 - Maxim  Alexeev",
+      "assist2": "#12 - Sami  Kymalainen"
+    },
+    {
+      "period": "3",
+      "time": "00:01:31",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#220 - Mark  Chapman",
+      "assist1": "#22 - Nate  Harrison",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:12",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#220 - Mark  Chapman",
+      "assist1": "#5 - Chris  Marotta",
+      "assist2": "#22 - Nate  Harrison"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "player": "#28 - Maxim  Alexeev",
+      "pim": 4,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "player": "#9 - Sam  Ziesler",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:51",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "player": "#40 - Mikhail  Serebrennikov",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "player": "#22 - Nate  Harrison",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:06",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "player": "#40 - Mikhail  Serebrennikov",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:19:13.659Z"
+}

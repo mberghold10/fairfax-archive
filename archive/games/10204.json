@@ -1,0 +1,182 @@
+{
+  "gameId": "10204",
+  "date": "2016-12-29",
+  "divId": 155,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "993",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "998",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:18",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "scorer": "#38 - Ted  Satterthwaite",
+      "assist1": "#13 - Tim  Cremen",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "scorer": "#23 - Dan  Janickey",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:09",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "scorer": "#20 - Rich  Utano",
+      "assist1": "#8 - Matt  Tourville",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:38",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:32",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "player": "#13 - Tim  Cremen",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:41",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "player": "#4 - Jeff  Bloom",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:03",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "player": "#8 - Matt  Tourville",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "player": "#44 - Greg  Powers",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:33",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:53",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "player": "#8 - Matt  Tourville",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:59:15.840Z"
+}

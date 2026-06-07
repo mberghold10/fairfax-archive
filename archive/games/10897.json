@@ -1,0 +1,165 @@
+{
+  "gameId": "10897",
+  "date": "2017-09-07",
+  "divId": 163,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1043",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1042",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1043",
+        "name": "Penguins"
+      },
+      "scorer": "#13 - Bob  Seal",
+      "assist1": "#22 - Rich  Silberman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:07",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": "#15 - Chuck  McKeever",
+      "assist2": "#12 - Jason  Wakeman"
+    },
+    {
+      "period": "1",
+      "time": "00:13:36",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": "#10 - Mike  Brahmey",
+      "assist2": "#9 - Ken  Fritzke"
+    },
+    {
+      "period": "2",
+      "time": "00:05:24",
+      "team": {
+        "teamId": "1043",
+        "name": "Penguins"
+      },
+      "scorer": "#8 - Mike  Stimson",
+      "assist1": "#34 - Chad  Fisher",
+      "assist2": "#23 - Rick  Gorgone"
+    },
+    {
+      "period": "2",
+      "time": "00:05:50",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#16 - Tom  Rodeheaver",
+      "assist2": "#12 - Jason  Wakeman"
+    },
+    {
+      "period": "2",
+      "time": "00:12:11",
+      "team": {
+        "teamId": "1043",
+        "name": "Penguins"
+      },
+      "scorer": "#15 - Mark  Rudnicki",
+      "assist1": "#23 - Rick  Gorgone",
+      "assist2": "#8 - Mike  Stimson"
+    },
+    {
+      "period": "3",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "scorer": "#10 - Mike  Brahmey",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": "#99 - Jon  Davoren"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1043",
+        "name": "Penguins"
+      },
+      "player": "#81 - Chris  Holden",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1043",
+        "name": "Penguins"
+      },
+      "player": "#8 - Mike  Stimson",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1043",
+        "name": "Penguins"
+      },
+      "player": "#8 - Mike  Stimson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "player": "#25 - Stan  Torgovitsky",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:10:01.038Z"
+}

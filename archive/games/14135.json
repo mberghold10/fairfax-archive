@@ -1,0 +1,117 @@
+{
+  "gameId": "14135",
+  "date": "2021-07-11",
+  "divId": 230,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1442",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1439",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:29",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "scorer": "#77 - Auston  Theis",
+      "assist1": "#2 - Jen  Grotpeter",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:15",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "scorer": "#5 - Zac  Graber",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "scorer": "#5 - Zac  Graber",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:30",
+      "team": {
+        "teamId": "1442",
+        "name": "Red Wings"
+      },
+      "scorer": "#10 - Owen  Schaefer",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": "#40 - Howard  Ehrlich"
+    },
+    {
+      "period": "3",
+      "time": "00:03:47",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "scorer": "#29 - James  Kim",
+      "assist1": "#5 - Zac  Graber",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "1442",
+        "name": "Red Wings"
+      },
+      "player": "#19 - Gus  Anderson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1442",
+        "name": "Red Wings"
+      },
+      "player": "#14 - Dave  Fisher",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:23:58.379Z"
+}

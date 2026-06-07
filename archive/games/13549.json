@@ -1,0 +1,106 @@
+{
+  "gameId": "13549",
+  "date": "2020-01-25",
+  "divId": 210,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1327",
+    "name": "Whalers"
+  },
+  "away": {
+    "teamId": "1329",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1329",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#33 - Paul  Flood",
+      "assist1": "#18 - Brian  Crossin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "scorer": "#77 - Philipp  Hanslovsky",
+      "assist1": "#55 - Joel  Whitney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:03",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "scorer": "#70 - Austin  Cox",
+      "assist1": "#2 - Steve  Sondheimer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:17",
+      "team": {
+        "teamId": "1329",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:04",
+      "team": {
+        "teamId": "1329",
+        "name": "Blue Crabs"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1329",
+        "name": "Blue Crabs"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:06:41.722Z"
+}

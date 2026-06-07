@@ -1,0 +1,154 @@
+{
+  "gameId": "15676",
+  "date": "2023-03-06",
+  "divId": 260,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1603",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1601",
+    "name": "D Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "scorer": "#42 - Dan  Schwind",
+      "assist1": "#16 - Ben  Huff",
+      "assist2": "#1 - Ryan  Gardiner"
+    },
+    {
+      "period": "1",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "1601",
+        "name": "D Punishers"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": "#17 - Dan  Pol",
+      "assist2": "#5 - Mike  Jones"
+    },
+    {
+      "period": "2",
+      "time": "00:01:23",
+      "team": {
+        "teamId": "1601",
+        "name": "D Punishers"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#40 - Matt  Mickelson",
+      "assist2": "#5 - Mike  Jones"
+    },
+    {
+      "period": "2",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "1601",
+        "name": "D Punishers"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:04",
+      "team": {
+        "teamId": "1601",
+        "name": "D Punishers"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": "#27 - Dave  Lin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:34",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "scorer": "#47 - Jeff  Urlwin",
+      "assist1": "#1 - Ryan  Gardiner",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "player": "#1 - Ryan  Gardiner",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:33",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "player": "#42 - Dan  Schwind",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:59",
+      "team": {
+        "teamId": "1601",
+        "name": "D Punishers"
+      },
+      "player": "#17 - Dan  Pol",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:47",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "player": "#51 - Bob  Sagusgi",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:53:22.425Z"
+}

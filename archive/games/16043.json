@@ -1,0 +1,119 @@
+{
+  "gameId": "16043",
+  "date": "2023-07-08",
+  "divId": 272,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1676",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1681",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1676",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Chris  Valko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:55",
+      "team": {
+        "teamId": "1676",
+        "name": "Flying Circus"
+      },
+      "scorer": "#7 - Brendan  Ford",
+      "assist1": "#15 - Mike  Hempen",
+      "assist2": "#33 - Chris  Valko"
+    },
+    {
+      "period": "2",
+      "time": "00:03:32",
+      "team": {
+        "teamId": "1676",
+        "name": "Flying Circus"
+      },
+      "scorer": "#21 - Trevor  Wallace",
+      "assist1": "#15 - Mike  Hempen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:34",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "scorer": "#49 - Greg  Mullen",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1676",
+        "name": "Flying Circus"
+      },
+      "player": "#55 - Joel  Whitney",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "1676",
+        "name": "Flying Circus"
+      },
+      "player": "#33 - Chris  Valko",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:07:26.240Z"
+}

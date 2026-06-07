@@ -1,0 +1,178 @@
+{
+  "gameId": "12661",
+  "date": "2019-05-05",
+  "divId": 201,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1279",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1275",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:25",
+      "team": {
+        "teamId": "1275",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#25 - Ethan  Isleib",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1275",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "1275",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#25 - Ethan  Isleib",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "scorer": "#64 - Joe  Trahey",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1275",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#25 - Ethan  Isleib",
+      "assist1": "#36 - Braxton  Good",
+      "assist2": "#3 - Frank  Thomason"
+    },
+    {
+      "period": "2",
+      "time": "00:08:47",
+      "team": {
+        "teamId": "1275",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#25 - Ethan  Isleib",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:43",
+      "team": {
+        "teamId": "1275",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#26 - Jesse  Inthapannha",
+      "assist1": "#1 - Chris  Beach",
+      "assist2": "#3 - Frank  Thomason"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:12",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:29",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:41",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "player": "#19 - Jason  Long",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "player": "#19 - Jason  Long",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:56:08.288Z"
+}

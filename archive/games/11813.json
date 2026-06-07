@@ -1,0 +1,169 @@
+{
+  "gameId": "11813",
+  "date": "2018-08-16",
+  "divId": 181,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1153",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1150",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:15",
+      "team": {
+        "teamId": "1150",
+        "name": "Grey Goons"
+      },
+      "scorer": "#47 - Talbot  Black",
+      "assist1": "#54 - Jerry  Gibbons",
+      "assist2": "#2 - James  Marlowe"
+    },
+    {
+      "period": "2",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "1150",
+        "name": "Grey Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "1150",
+        "name": "Grey Goons"
+      },
+      "scorer": "#25 - Chris  Lettieri",
+      "assist1": "#32 - Phil  Antoun",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1150",
+        "name": "Grey Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:24",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "scorer": "#2 - Shawn  Hatch",
+      "assist1": "#15 - Mark  Rudnicki",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1150",
+        "name": "Grey Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "g int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "player": "#7 - Dan  Ellert",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "player": "#15 - Mark  Rudnicki",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:44",
+      "team": {
+        "teamId": "1150",
+        "name": "Grey Goons"
+      },
+      "player": "#28 - Alex  Henry",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:44",
+      "team": {
+        "teamId": "1150",
+        "name": "Grey Goons"
+      },
+      "player": "#25 - Chris  Lettieri",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:44",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "player": "#11 - Darren  Wellner",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:31:47.974Z"
+}

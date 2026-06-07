@@ -1,0 +1,145 @@
+{
+  "gameId": "15260",
+  "date": "2022-08-28",
+  "divId": 254,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1568",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1569",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "1568",
+        "name": "Coyotes"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": "#3 - Bill  Schultheiss",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "1569",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jessie  Brand",
+      "assist1": "#54 - Dan  Bagley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:10",
+      "team": {
+        "teamId": "1569",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jessie  Brand",
+      "assist1": "#54 - Dan  Bagley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "1569",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": "#27 - Jessie  Brand",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:38",
+      "team": {
+        "teamId": "1569",
+        "name": "Team USA"
+      },
+      "player": "#8 - Jamie  Sengheiser",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1569",
+        "name": "Team USA"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:47",
+      "team": {
+        "teamId": "1569",
+        "name": "Team USA"
+      },
+      "player": "#20 - Rich  Utano",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1568",
+        "name": "Coyotes"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1569",
+        "name": "Team USA"
+      },
+      "player": "#10 - Mike  Brahamey",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:46:35.628Z"
+}

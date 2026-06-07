@@ -1,0 +1,128 @@
+{
+  "gameId": "1590",
+  "date": "2025-11-18",
+  "divId": 317,
+  "seasonName": "Summer 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1941",
+    "name": "Fossil Pucks"
+  },
+  "away": {
+    "teamId": "1943",
+    "name": "Gold Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "1943",
+        "name": "Gold Goats"
+      },
+      "scorer": "#38 - Howard  Uman",
+      "assist1": "#22 - Ken  Oshsner",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:23",
+      "team": {
+        "teamId": "1941",
+        "name": "Fossil Pucks"
+      },
+      "scorer": "#14 - Andrew  Pranter",
+      "assist1": "#21 - Joe  Rhodes",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:13",
+      "team": {
+        "teamId": "1941",
+        "name": "Fossil Pucks"
+      },
+      "scorer": "#19 - Brian  Merritt",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:04",
+      "team": {
+        "teamId": "1941",
+        "name": "Fossil Pucks"
+      },
+      "scorer": "#46 - Mark  Tobias",
+      "assist1": "#37 - John  Holland",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "1941",
+        "name": "Fossil Pucks"
+      },
+      "scorer": "#21 - Joe  Rhodes",
+      "assist1": "#46 - Mark  Tobias",
+      "assist2": "#62 - Michael  Coady"
+    },
+    {
+      "period": "3",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "1941",
+        "name": "Fossil Pucks"
+      },
+      "scorer": "#140 - George  Stocker",
+      "assist1": "#46 - Mark  Tobias",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1943",
+        "name": "Gold Goats"
+      },
+      "player": "#19 - Ira  Keltz",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:56",
+      "team": {
+        "teamId": "1941",
+        "name": "Fossil Pucks"
+      },
+      "player": "#11 - Gary  Caley",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:56:40.661Z"
+}

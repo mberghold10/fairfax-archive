@@ -1,0 +1,139 @@
+{
+  "gameId": "10608",
+  "date": "2017-05-13",
+  "divId": 167,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1068",
+    "name": "Lightning"
+  },
+  "away": {
+    "teamId": "1070",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 1,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:06:54",
+      "team": {
+        "teamId": "1070",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#25 - Ethan  Isleib",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1068",
+        "name": "Lightning"
+      },
+      "scorer": "#6 - Eric  Rhoden",
+      "assist1": "#24 - Stephen  Fortier",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1068",
+        "name": "Lightning"
+      },
+      "scorer": "#27 - Andrew  Sundelin",
+      "assist1": "#32 - Clayton  Clyburn",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:10",
+      "team": {
+        "teamId": "1070",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#36 - Braxton  Goodman",
+      "assist1": "#2 - JP  Gardner",
+      "assist2": "#25 - Ethan  Isleib"
+    },
+    {
+      "period": "3",
+      "time": "00:08:12",
+      "team": {
+        "teamId": "1068",
+        "name": "Lightning"
+      },
+      "scorer": "#24 - Stephen  Fortier",
+      "assist1": "#32 - Clayton  Clyburn",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:57",
+      "team": {
+        "teamId": "1070",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#25 - Ethan  Isleib",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:48",
+      "team": {
+        "teamId": "1070",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:05",
+      "team": {
+        "teamId": "1068",
+        "name": "Lightning"
+      },
+      "player": "#22 - Chris  Simmons",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1068",
+        "name": "Lightning"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:14:20.091Z"
+}

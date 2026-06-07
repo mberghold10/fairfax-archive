@@ -1,0 +1,128 @@
+{
+  "gameId": "11845",
+  "date": "2018-08-01",
+  "divId": 183,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1162",
+    "name": "Bulldogs"
+  },
+  "away": {
+    "teamId": "1164",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:57",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "scorer": "#9 - Tommy  Meaux",
+      "assist1": "#55 - Chris  Yoko",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#90 - Shawn  McEvoy",
+      "assist1": "#18 - Steve  Percival",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "scorer": "#9 - Tommy  Meaux",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:12",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "scorer": "#8 - Paul  Balcerzak",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": "#79 - Jeff  Vandenberghe",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:57",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "scorer": "#9 - Tommy  Meaux",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "player": "#13 - Vincent  Coffey",
+      "pim": 2,
+      "offense": "g int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:56",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "player": "#15 - Doug  Vanderbilt",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:33:57.174Z"
+}

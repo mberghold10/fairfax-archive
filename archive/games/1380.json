@@ -1,0 +1,261 @@
+{
+  "gameId": "1380",
+  "date": "2024-05-05",
+  "divId": 284,
+  "seasonName": "Winter 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1744",
+    "name": "Mesozoic Puck"
+  },
+  "away": {
+    "teamId": "1748",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 5,
+      "p3": 2,
+      "ot": 0,
+      "final": 10
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#5 - Kyle  Cory",
+      "assist1": "#11 - Pierce  Guthrie",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:38",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#74 - Matt  Santos",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:20",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#51 - Derek  Grego",
+      "assist1": "#30 - Antonello  Favaro",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#14 - Charles  Geschiere",
+      "assist1": "#5 - Kyle  Cory",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:08",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#51 - Derek  Grego",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:37",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#8 - Ayia  Anuar",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:47",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#24 - Audrey  Morrison",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "1748",
+        "name": "Red Wings"
+      },
+      "scorer": "#36 - Greg  Kowalski",
+      "assist1": "#17 - Will  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:55",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#30 - Antonello  Favaro",
+      "assist1": "#51 - Derek  Grego",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:02",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#14 - Charles  Geschiere",
+      "assist1": "#51 - Derek  Grego",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:20",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#11 - Pierce  Guthrie",
+      "assist1": "#8 - Ayia  Anuar",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:26",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:48",
+      "team": {
+        "teamId": "1748",
+        "name": "Red Wings"
+      },
+      "player": "#22 - Trevor  Blair",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:38",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#30 - Antonello  Favaro",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:50",
+      "team": {
+        "teamId": "1748",
+        "name": "Red Wings"
+      },
+      "player": "#44 - Molly  James",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:56",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#11 - Pierce  Guthrie",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#37 - Michael  Wisniewski",
+      "pim": 2,
+      "offense": "head contact",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "1748",
+        "name": "Red Wings"
+      },
+      "player": "#4 - Gene  Martin",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "1748",
+        "name": "Red Wings"
+      },
+      "player": "#4 - Gene  Martin",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:22:02.292Z"
+}

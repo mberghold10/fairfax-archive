@@ -1,0 +1,187 @@
+{
+  "gameId": "1364",
+  "date": "2023-10-19",
+  "divId": 272,
+  "seasonName": "Summer 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1674",
+    "name": "Ers"
+  },
+  "away": {
+    "teamId": "1675",
+    "name": "Anonymous"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 4,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1674",
+        "name": "Ers"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#13 - Ryan  Williams",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:48",
+      "team": {
+        "teamId": "1674",
+        "name": "Ers"
+      },
+      "scorer": "#44 - Mick  Ellsworth",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1675",
+        "name": "Anonymous"
+      },
+      "scorer": "#10 - Rob  Kocher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:13",
+      "team": {
+        "teamId": "1675",
+        "name": "Anonymous"
+      },
+      "scorer": "#20 - Scott  Forbes",
+      "assist1": "#19 - Dave  Hagemeier",
+      "assist2": "#77 - Erik  Bergman"
+    },
+    {
+      "period": "3",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1675",
+        "name": "Anonymous"
+      },
+      "scorer": "#11 - Tom  Fergus",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:21",
+      "team": {
+        "teamId": "1675",
+        "name": "Anonymous"
+      },
+      "scorer": "#77 - Erik  Bergman",
+      "assist1": "#19 - Dave  Hagemeier",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "1674",
+        "name": "Ers"
+      },
+      "scorer": "#18 - Steve  Chan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:09",
+      "team": {
+        "teamId": "1675",
+        "name": "Anonymous"
+      },
+      "scorer": "#53 - Don  Modder",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:00",
+      "team": {
+        "teamId": "1675",
+        "name": "Anonymous"
+      },
+      "scorer": "#11 - Tom  Fergus",
+      "assist1": "#88 - Peter  Dallman",
+      "assist2": "#86 - Tom  Anwyll"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:20",
+      "team": {
+        "teamId": "1675",
+        "name": "Anonymous"
+      },
+      "player": "#3 - Bill  Kang",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "1674",
+        "name": "Ers"
+      },
+      "player": "#44 - Mick  Ellsworth",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1675",
+        "name": "Anonymous"
+      },
+      "player": "#3 - Bill  Kang",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:38",
+      "team": {
+        "teamId": "1675",
+        "name": "Anonymous"
+      },
+      "player": "#10 - Rob  Kocher",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:08:27.643Z"
+}

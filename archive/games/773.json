@@ -1,0 +1,252 @@
+{
+  "gameId": "773",
+  "date": "2017-03-16",
+  "divId": 155,
+  "seasonName": "Winter 2016",
+  "mode": "playoff",
+  "home": {
+    "teamId": "998",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "996",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "996",
+        "name": "Old Goats"
+      },
+      "scorer": "#20 - Matt  Michelson",
+      "assist1": "#21 - Mike  Hawthorne",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "996",
+        "name": "Old Goats"
+      },
+      "scorer": "#21 - Mike  Hawthorne",
+      "assist1": "#4 - Steve  Bradley",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:21",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "scorer": "#13 - Tim  Cremen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:49",
+      "team": {
+        "teamId": "996",
+        "name": "Old Goats"
+      },
+      "scorer": "#5 - Howie  Uman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:28",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#13 - Tim  Cremen",
+      "assist2": "#4 - Stew  Gitler"
+    },
+    {
+      "period": "3",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "scorer": "#93 - Jeff  Nauer",
+      "assist1": "#38 - Ted  Satterthwaite",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:13",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "scorer": "#13 - Tim  Cremen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:59",
+      "team": {
+        "teamId": "996",
+        "name": "Old Goats"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "996",
+        "name": "Old Goats"
+      },
+      "scorer": "#21 - Mike  Hawthorne",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:53",
+      "team": {
+        "teamId": "996",
+        "name": "Old Goats"
+      },
+      "player": "#20 - Matt  Michelson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "996",
+        "name": "Old Goats"
+      },
+      "player": "#21 - Mike  Hawthorne",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "996",
+        "name": "Old Goats"
+      },
+      "player": "#37 - Nick  Desport",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "996",
+        "name": "Old Goats"
+      },
+      "player": "#5 - Howie  Uman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:05:27",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "player": "#13 - Tim  Cremen",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:05:27",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "player": "#13 - Tim  Cremen",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:05:27",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "player": "#13 - Tim  Cremen",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "player": "#4 - Stew  Gitler",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "996",
+        "name": "Old Goats"
+      },
+      "player": "#20 - Matt  Michelson",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:59:51.621Z"
+}

@@ -1,0 +1,191 @@
+{
+  "gameId": "809",
+  "date": "2017-04-02",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1023",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1024",
+    "name": "Bad Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:33",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#7 - Dan  Miller",
+      "assist2": "#12 - Jason  Wakeman"
+    },
+    {
+      "period": "1",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#22 - Jimmy  Nguyen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:21",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#77 - Caleb  Sohl",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:09",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#99 - Jon  Davoren",
+      "assist2": "#24 - Thomas  OConnor"
+    },
+    {
+      "period": "3",
+      "time": "00:03:49",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#12 - Jason  Wakeman",
+      "assist1": "#22 - Jim  Morgan",
+      "assist2": "#43 - Alex  Utano"
+    },
+    {
+      "period": "3",
+      "time": "00:04:25",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": "#4 - Pete  Van Aartrijk"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:34",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "player": "#7 - Dan  Miller",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:29",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "player": "#52 - John  Juliano",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "player": "#32 - Brian  Freeman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:19",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "player": "#13 - Trevor  Wallace",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:33",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "player": "#52 - John  Juliano",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:00",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "player": "#24 - Thomas  OConnor",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:05:23.237Z"
+}

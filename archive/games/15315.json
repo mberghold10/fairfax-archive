@@ -1,0 +1,128 @@
+{
+  "gameId": "15315",
+  "date": "2022-09-03",
+  "divId": 256,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1578",
+    "name": "Roughnecks"
+  },
+  "away": {
+    "teamId": "1579",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#41 - Alessio  Evangelista",
+      "assist1": "#77 - Jeff  Wilken",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1578",
+        "name": "Roughnecks"
+      },
+      "scorer": "#5 - Paul  Barber",
+      "assist1": "#3 - Tom  Meike",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#17 - Justin  Cade",
+      "assist1": "#41 - Alessio  Evangelista",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:26",
+      "team": {
+        "teamId": "1578",
+        "name": "Roughnecks"
+      },
+      "scorer": "#5 - Paul  Barber",
+      "assist1": "#11 - Trevor  Boynton",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:14",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#33 - Brandon  Boling",
+      "assist1": "#2 - John  Ganoe",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:26",
+      "team": {
+        "teamId": "1578",
+        "name": "Roughnecks"
+      },
+      "player": "#1 - Larry  Silver",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "player": "#0 - Ruben  Garcia",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:48:47.869Z"
+}

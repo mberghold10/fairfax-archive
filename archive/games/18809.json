@@ -1,0 +1,106 @@
+{
+  "gameId": "18809",
+  "date": "2025-12-09",
+  "divId": 327,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2016",
+    "name": "Fossils"
+  },
+  "away": {
+    "teamId": "2018",
+    "name": "Gold Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:28",
+      "team": {
+        "teamId": "2018",
+        "name": "Gold Goats"
+      },
+      "scorer": "#44 - Sean  Cullen",
+      "assist1": "#11 - Sean  Burke",
+      "assist2": "#15 - Tom  Sgroi"
+    },
+    {
+      "period": "1",
+      "time": "00:06:19",
+      "team": {
+        "teamId": "2018",
+        "name": "Gold Goats"
+      },
+      "scorer": "#44 - Sean  Cullen",
+      "assist1": "#15 - Tom  Sgroi",
+      "assist2": "#93 - Chris  Conley"
+    },
+    {
+      "period": "1",
+      "time": "00:10:12",
+      "team": {
+        "teamId": "2018",
+        "name": "Gold Goats"
+      },
+      "scorer": "#20 - Steve  Maccio",
+      "assist1": "#7 - Greg  Watchman",
+      "assist2": "#93 - Chris  Conley"
+    },
+    {
+      "period": "3",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "2018",
+        "name": "Gold Goats"
+      },
+      "scorer": "#38 - Howard  Uman",
+      "assist1": "#20 - Steve  Maccio",
+      "assist2": "#7 - Greg  Watchman"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:38",
+      "team": {
+        "teamId": "2016",
+        "name": "Fossils"
+      },
+      "player": "#37 - John  Holland",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "2016",
+        "name": "Fossils"
+      },
+      "player": "#8 - James  Love",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:06:49.594Z"
+}

@@ -1,0 +1,130 @@
+{
+  "gameId": "10969",
+  "date": "2017-10-01",
+  "divId": 178,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1135",
+    "name": "Triassic Puck"
+  },
+  "away": {
+    "teamId": "1136",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#25 - Jack  Hur",
+      "assist1": "#74 - Matthew  Santos",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#74 - Matthew  Santos",
+      "assist1": "#77 - Scott  Peterson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:43",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#74 - Matthew  Santos",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:46",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#25 - Jack  Hur",
+      "assist1": "#35 - Brian  Embley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:06",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#25 - Jack  Hur",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:16:23",
+      "team": {
+        "teamId": "1136",
+        "name": "Thunder"
+      },
+      "player": "#7 - Ian  Stack",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:29",
+      "team": {
+        "teamId": "1136",
+        "name": "Thunder"
+      },
+      "player": "#7 - Ian  Stack",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:17:49",
+      "team": {
+        "teamId": "1136",
+        "name": "Thunder"
+      },
+      "player": "#75 - Danny  Normandeau",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:27:54.307Z"
+}

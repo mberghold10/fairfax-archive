@@ -1,0 +1,213 @@
+{
+  "gameId": "14162",
+  "date": "2021-08-07",
+  "divId": 235,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1469",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1466",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 4,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:57",
+      "team": {
+        "teamId": "1466",
+        "name": "Goons"
+      },
+      "scorer": "#44 - Mick  Ellsworth",
+      "assist1": "#90 - Mark  Chapman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:33",
+      "team": {
+        "teamId": "1466",
+        "name": "Goons"
+      },
+      "scorer": "#9 - Brian   Mehnert",
+      "assist1": "#24 - Tom  Spiewak",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:33",
+      "team": {
+        "teamId": "1466",
+        "name": "Goons"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": "#90 - Mark  Chapman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:06",
+      "team": {
+        "teamId": "1466",
+        "name": "Goons"
+      },
+      "scorer": "#90 - Mark  Chapman",
+      "assist1": "#44 - Mick  Ellsworth",
+      "assist2": "#23 - Gordon  Scott"
+    },
+    {
+      "period": "2",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1469",
+        "name": "Jacks"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#13 - Randy  Foster",
+      "assist2": "#28 - Charles  Hale"
+    },
+    {
+      "period": "2",
+      "time": "00:08:09",
+      "team": {
+        "teamId": "1469",
+        "name": "Jacks"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "1469",
+        "name": "Jacks"
+      },
+      "scorer": "#2 - Tim  Commerford",
+      "assist1": "#3 - Jeffrey  Regan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:26",
+      "team": {
+        "teamId": "1469",
+        "name": "Jacks"
+      },
+      "scorer": "#36 - Jon  Stehle",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:46",
+      "team": {
+        "teamId": "1466",
+        "name": "Goons"
+      },
+      "scorer": "#82 - Neil  Scholthaler",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1466",
+        "name": "Goons"
+      },
+      "player": "#9 - Brian   Mehnert",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:06",
+      "team": {
+        "teamId": "1466",
+        "name": "Goons"
+      },
+      "player": "#82 - Neil  Scholthaler",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:01",
+      "team": {
+        "teamId": "1469",
+        "name": "Jacks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1466",
+        "name": "Goons"
+      },
+      "player": "#9 - Brian   Mehnert",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:20",
+      "team": {
+        "teamId": "1469",
+        "name": "Jacks"
+      },
+      "player": "#12 - Brian  Dix",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:09",
+      "team": {
+        "teamId": "1466",
+        "name": "Goons"
+      },
+      "player": "#38 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:27:05.768Z"
+}

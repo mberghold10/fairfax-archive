@@ -1,0 +1,106 @@
+{
+  "gameId": "19115",
+  "date": "2026-03-15",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2007",
+    "name": "Roccos"
+  },
+  "away": {
+    "teamId": "2004",
+    "name": "Hershey Beers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#87 - Feng  Lan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:16:22",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#26 - Chris  Anderson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:51",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#68 - Rich  Williams",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#18 - Sam  Bressi",
+      "assist1": "#68 - Rich  Williams",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "player": "#23 - Mark  Cappello",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:29",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "player": "#39 - Jim  DeLaet",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:08:30.706Z"
+}

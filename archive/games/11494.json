@@ -1,0 +1,152 @@
+{
+  "gameId": "11494",
+  "date": "2018-03-03",
+  "divId": 178,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1139",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1135",
+    "name": "Triassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1139",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#14 - Michael  Ezike",
+      "assist1": "#34 - Joshua  Davis",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:19",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#9 - Greg  Sybersma",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1139",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#14 - Michael  Ezike",
+      "assist1": "#30 - Brent  Bolin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:20",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#25 - Jack  Hur",
+      "assist1": "#38 - Keith  Forsythe",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:02",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#44 - George  Cernica",
+      "assist1": "#77 - Scott  Peterson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:15:19",
+      "team": {
+        "teamId": "1139",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#41 - Alessio  Evangelista",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:36",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#44 - George  Cernica",
+      "assist1": "#35 - Brian  Embley",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:33",
+      "team": {
+        "teamId": "1139",
+        "name": "Blue Dogs"
+      },
+      "player": "#30 - Brent  Bolin",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:33",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "player": "#13 - Aaron  Kirsch",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:37",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "player": "#13 - Aaron  Kirsch",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:28:44.357Z"
+}

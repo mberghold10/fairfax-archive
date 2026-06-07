@@ -1,0 +1,297 @@
+{
+  "gameId": "880",
+  "date": "2018-04-07",
+  "divId": 175,
+  "seasonName": "Winter 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1119",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1118",
+    "name": "River Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:36",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "scorer": "#40 - Brandon  Honeycutt",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "scorer": "#24 - Austin  Ford",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:12",
+      "team": {
+        "teamId": "1119",
+        "name": "Chiefs"
+      },
+      "scorer": "#63 - Jeff  Hoffner",
+      "assist1": "#22 - James  Stegmann",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:38",
+      "team": {
+        "teamId": "1119",
+        "name": "Chiefs"
+      },
+      "scorer": "#63 - Jeff  Hoffner",
+      "assist1": "#18 - Ron  Miller",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:09",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "scorer": "#40 - Brandon  Honeycutt",
+      "assist1": "#20 - Paul  Flood",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:01",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "scorer": "#19 - Kevin  Stammetti",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:58",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "player": "#20 - Paul  Flood",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "1119",
+        "name": "Chiefs"
+      },
+      "player": "#22 - James  Stegmann",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:52",
+      "team": {
+        "teamId": "1119",
+        "name": "Chiefs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "1119",
+        "name": "Chiefs"
+      },
+      "player": "#7 - Mike  Cardarelli",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "player": "#36 - Evan  Clinton",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:02",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "player": "#15 - Scott  McConnell",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "1119",
+        "name": "Chiefs"
+      },
+      "player": "#22 - James  Stegmann",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:55",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "player": "#81 - Sean  Murphy",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:04",
+      "team": {
+        "teamId": "1119",
+        "name": "Chiefs"
+      },
+      "player": "#4 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "player": "#36 - Evan  Clinton",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:24",
+      "team": {
+        "teamId": "1119",
+        "name": "Chiefs"
+      },
+      "player": "#15 - David  Eyre",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:24",
+      "team": {
+        "teamId": "1119",
+        "name": "Chiefs"
+      },
+      "player": "#28 - Jake  Angeline",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:24",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "player": "#24 - Austin  Ford",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:24",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "player": "#24 - Austin  Ford",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:50",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "player": "#15 - Scott  McConnell",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:24:46.484Z"
+}

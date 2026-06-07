@@ -1,0 +1,163 @@
+{
+  "gameId": "15099",
+  "date": "2022-07-21",
+  "divId": 254,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1565",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1567",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:32",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#28 - Geoff  Storchan",
+      "assist1": "#3 - John  Niemec",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#20 - Brent  Jefferson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:31",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#28 - Geoff  Storchan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:49",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "scorer": "#12 - Adam  Jungdahl",
+      "assist1": "#17 - John  Kemprowski",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:32",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#20 - Brent  Jefferson",
+      "assist1": "#28 - Geoff  Storchan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "scorer": "#7 - Brendan  Ford",
+      "assist1": "#25 - Malcolm  Hyson",
+      "assist2": "#17 - John  Kemprowski"
+    },
+    {
+      "period": "3",
+      "time": "00:01:53",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "scorer": "#21 - Trevor  Wallace",
+      "assist1": "#25 - Malcolm  Hyson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:32",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "scorer": "#24 - Jim  Behrend",
+      "assist1": "#7 - Brendan  Ford",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "player": "#7 - Brendan  Ford",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:59",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "player": "#9 - Aaron  Dobbs",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:34",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "player": "#9 - Aaron  Dobbs",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:46:15.693Z"
+}

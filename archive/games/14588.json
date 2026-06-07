@@ -1,0 +1,220 @@
+{
+  "gameId": "14588",
+  "date": "2022-03-12",
+  "divId": 241,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1491",
+    "name": "Redhawks"
+  },
+  "away": {
+    "teamId": "1492",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:56",
+      "team": {
+        "teamId": "1492",
+        "name": "Kings"
+      },
+      "scorer": "#6 - Anthony  Federico",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:38",
+      "team": {
+        "teamId": "1492",
+        "name": "Kings"
+      },
+      "scorer": "#6 - Anthony  Federico",
+      "assist1": "#64 - Derek  Bluth",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:01",
+      "team": {
+        "teamId": "1492",
+        "name": "Kings"
+      },
+      "scorer": "#88 - Chris  Peterkin",
+      "assist1": "#82 - Caleb  Sohl",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:25",
+      "team": {
+        "teamId": "1492",
+        "name": "Kings"
+      },
+      "scorer": "#82 - Caleb  Sohl",
+      "assist1": "#11 - Joel  Bosch",
+      "assist2": "#88 - Chris  Peterkin"
+    },
+    {
+      "period": "2",
+      "time": "00:09:11",
+      "team": {
+        "teamId": "1492",
+        "name": "Kings"
+      },
+      "scorer": "#11 - Joel  Bosch",
+      "assist1": "#88 - Chris  Peterkin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:23",
+      "team": {
+        "teamId": "1491",
+        "name": "Redhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": "#1 - Stanislav  Kolodin",
+      "assist2": "#93 - Trygve  Olson"
+    },
+    {
+      "period": "2",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "1492",
+        "name": "Kings"
+      },
+      "scorer": "#88 - Chris  Peterkin",
+      "assist1": "#64 - Derek  Bluth",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:52",
+      "team": {
+        "teamId": "1491",
+        "name": "Redhawks"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#7 - Tyler  Kniaz",
+      "assist2": "#93 - Trygve  Olson"
+    },
+    {
+      "period": "3",
+      "time": "00:02:13",
+      "team": {
+        "teamId": "1491",
+        "name": "Redhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "1491",
+        "name": "Redhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:06",
+      "team": {
+        "teamId": "1492",
+        "name": "Kings"
+      },
+      "scorer": "#88 - Chris  Peterkin",
+      "assist1": "#11 - Joel  Bosch",
+      "assist2": "#10 - Josh  Holderness"
+    },
+    {
+      "period": "3",
+      "time": "00:09:45",
+      "team": {
+        "teamId": "1491",
+        "name": "Redhawks"
+      },
+      "scorer": "#1 - Stanislav  Kolodin",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "1492",
+        "name": "Kings"
+      },
+      "player": "#6 - Anthony  Federico",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:15:00",
+      "team": {
+        "teamId": "1491",
+        "name": "Redhawks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:07",
+      "team": {
+        "teamId": "1492",
+        "name": "Kings"
+      },
+      "player": "#88 - Chris  Peterkin",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:56",
+      "team": {
+        "teamId": "1492",
+        "name": "Kings"
+      },
+      "player": "#82 - Caleb  Sohl",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:30:39.566Z"
+}

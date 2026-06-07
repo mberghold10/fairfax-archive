@@ -1,0 +1,141 @@
+{
+  "gameId": "15483",
+  "date": "2022-11-06",
+  "divId": 262,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1613",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1614",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:31",
+      "team": {
+        "teamId": "1614",
+        "name": "Jacks"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:44",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#18 - Samson  Chu",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:56",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": "#67 - Chris  Dour"
+    },
+    {
+      "period": "3",
+      "time": "00:01:48",
+      "team": {
+        "teamId": "1614",
+        "name": "Jacks"
+      },
+      "scorer": "#7 - Joseph  Hull",
+      "assist1": "#33 - Sergey  Kuznetsov",
+      "assist2": "#36 - Jon  Stehle"
+    },
+    {
+      "period": "3",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "1614",
+        "name": "Jacks"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#36 - Jon  Stehle",
+      "assist2": "#12 - Brian  Dix"
+    },
+    {
+      "period": "3",
+      "time": "00:06:53",
+      "team": {
+        "teamId": "1614",
+        "name": "Jacks"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:53",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:08",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:03",
+      "team": {
+        "teamId": "1614",
+        "name": "Jacks"
+      },
+      "player": "#12 - Brian  Dix",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:55:18.572Z"
+}

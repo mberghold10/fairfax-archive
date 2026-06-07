@@ -1,0 +1,71 @@
+{
+  "gameId": "9956",
+  "date": "2016-10-03",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1018",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1021",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:09:17",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "scorer": "#6 - Eric  Rhoden",
+      "assist1": "#67 - Neil  Fitzpatrick",
+      "assist2": "#33 - Mike  Wagner"
+    },
+    {
+      "period": "3",
+      "time": "00:11:52",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "scorer": "#4 - Ryan  Cantwell",
+      "assist1": "#22 - Mike  Treme",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#27 - Andrew  Sundelin",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:03:57.949Z"
+}

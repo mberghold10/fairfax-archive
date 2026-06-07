@@ -1,0 +1,128 @@
+{
+  "gameId": "16340",
+  "date": "2023-09-12",
+  "divId": 273,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1684",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1685",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "scorer": "#12 - Jim  Schoff",
+      "assist1": "#47 - James  Kim",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:44",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#4 - Don  Sussman",
+      "assist1": "#78 - Bill  Ezekiel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#79 - Jeff  Vandenberghe",
+      "assist1": "#19 - Rob  Wittman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:52",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#55 - Steve  Tamburo",
+      "assist1": "#67 - Andrew  Miller",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:03",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "scorer": "#65 - Stuart  Hoffman",
+      "assist1": "#47 - James  Kim",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "player": "#47 - David  Hitchcook",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:54",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "player": "#47 - David  Hitchcook",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:09:25.253Z"
+}

@@ -1,0 +1,95 @@
+{
+  "gameId": "11192",
+  "date": "2017-10-15",
+  "divId": 178,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1138",
+    "name": "Steamed Crabs"
+  },
+  "away": {
+    "teamId": "1139",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:11:10",
+      "team": {
+        "teamId": "1138",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#88 - Pat  Lockett",
+      "assist1": "#9 - Dave  Baker",
+      "assist2": "#19 - Angelo  Ponirakis"
+    },
+    {
+      "period": "3",
+      "time": "00:13:46",
+      "team": {
+        "teamId": "1139",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#27 - Tim  Witkiewicz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1139",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#30 - Brent  Bolin",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:06",
+      "team": {
+        "teamId": "1138",
+        "name": "Steamed Crabs"
+      },
+      "player": "#2 - Elliott  Yang",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:16:39",
+      "team": {
+        "teamId": "1138",
+        "name": "Steamed Crabs"
+      },
+      "player": "#29 - James  Chu",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:27:58.289Z"
+}

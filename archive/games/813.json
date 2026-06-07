@@ -1,0 +1,108 @@
+{
+  "gameId": "813",
+  "date": "2017-03-26",
+  "divId": 160,
+  "seasonName": "Winter 2016",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1026",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1025",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:11:44",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#36 - Brian  Lusby",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:53",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#77 - Jeff  Wilken",
+      "assist1": "#93 - David  Taves",
+      "assist2": "#8 - Reid  Maki"
+    },
+    {
+      "period": "3",
+      "time": "00:10:59",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#91 - Stephen  Tarditi",
+      "assist1": "#32 - Marty  Langley",
+      "assist2": "#9 - Paul  Moretti"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "player": "#21 - Steve  Kaplan",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:39",
+      "team": {
+        "teamId": "1026",
+        "name": "Rink Rats"
+      },
+      "player": "#40 - Brandon  Honeycutt",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:36",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "player": "#91 - Stephen  Tarditi",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:43:39.210Z"
+}

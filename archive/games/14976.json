@@ -1,0 +1,106 @@
+{
+  "gameId": "14976",
+  "date": "2022-05-22",
+  "divId": 251,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1549",
+    "name": "D Punishers"
+  },
+  "away": {
+    "teamId": "1550",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:25",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#77 - Dan  Owens",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:06",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#77 - Dan  Owens",
+      "assist1": "#74 - Matt  Santos",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#77 - Dan  Owens",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:16",
+      "team": {
+        "teamId": "1549",
+        "name": "D Punishers"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": "#29 - Brian  Mehnert",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:03",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "player": "#38 - Keith  Forsythe",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:12",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "player": "#77 - Dan  Owens",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:42:10.542Z"
+}

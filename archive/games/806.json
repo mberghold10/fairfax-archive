@@ -1,0 +1,130 @@
+{
+  "gameId": "806",
+  "date": "2017-03-26",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1024",
+    "name": "Bad Leafs"
+  },
+  "away": {
+    "teamId": "1020",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:48",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "scorer": "#20 - Bao  Pham",
+      "assist1": "#22 - Jimmy  Nguyen",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:12",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": "#20 - Brent  Jefferson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:26",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "scorer": "#22 - Jimmy  Nguyen",
+      "assist1": "#13 - Trevor  Wallace",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#20 - Brent  Jefferson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:48",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "scorer": "#13 - Trevor  Wallace",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:33",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "player": "#2 - JP  Gardner",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:59",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "player": "#11 - Adam  Bartholomew",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:51",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "player": "#24 - Harry  Nicholakos",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:05:20.157Z"
+}

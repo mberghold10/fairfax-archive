@@ -1,0 +1,165 @@
+{
+  "gameId": "12131",
+  "date": "2018-11-14",
+  "divId": 189,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1203",
+    "name": "Blackhawks"
+  },
+  "away": {
+    "teamId": "1201",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 4,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:29",
+      "team": {
+        "teamId": "1201",
+        "name": "Kings"
+      },
+      "scorer": "#3 - Jude  Buckholz",
+      "assist1": "#88 - Chris  Peterkin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:47",
+      "team": {
+        "teamId": "1201",
+        "name": "Kings"
+      },
+      "scorer": "#13 - Vincent  Coffey",
+      "assist1": "#55 - Chris  Yoko",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "1201",
+        "name": "Kings"
+      },
+      "scorer": "#5 - Andy  Craighill",
+      "assist1": "#13 - Vincent  Coffey",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": "#93 - Trygve  Olson"
+    },
+    {
+      "period": "3",
+      "time": "00:09:33",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#7 - Tyler  Kniaz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:11",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "1201",
+        "name": "Kings"
+      },
+      "player": "#13 - Vincent  Coffey",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:23",
+      "team": {
+        "teamId": "1201",
+        "name": "Kings"
+      },
+      "player": "#13 - Vincent  Coffey",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:28",
+      "team": {
+        "teamId": "1201",
+        "name": "Kings"
+      },
+      "player": "#11 - Joel  Bosch",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:40:58.128Z"
+}

@@ -1,0 +1,207 @@
+{
+  "gameId": "16278",
+  "date": "2023-09-27",
+  "divId": 271,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1673",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "1670",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "1670",
+        "name": "Ducks"
+      },
+      "scorer": "#71 - Colin  Shin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:01",
+      "team": {
+        "teamId": "1673",
+        "name": "Bruins"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:41",
+      "team": {
+        "teamId": "1670",
+        "name": "Ducks"
+      },
+      "scorer": "#27 - Bryan  Booker",
+      "assist1": "#28 - Dominic  Pistolessi",
+      "assist2": "#5 - Chris  Marotta"
+    },
+    {
+      "period": "2",
+      "time": "00:07:33",
+      "team": {
+        "teamId": "1670",
+        "name": "Ducks"
+      },
+      "scorer": "#15 - Jonathan  Vu",
+      "assist1": "#71 - Colin  Shin",
+      "assist2": "#7 - Andrew  Golomb"
+    },
+    {
+      "period": "2",
+      "time": "00:10:15",
+      "team": {
+        "teamId": "1673",
+        "name": "Bruins"
+      },
+      "scorer": "#70 - David  Fitzgerald",
+      "assist1": "#27 - Chris  Balsey",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "1670",
+        "name": "Ducks"
+      },
+      "scorer": "#71 - Colin  Shin",
+      "assist1": "#7 - Andrew  Golomb",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:17",
+      "team": {
+        "teamId": "1673",
+        "name": "Bruins"
+      },
+      "scorer": "#70 - David  Fitzgerald",
+      "assist1": "#65 - Bobby  Woods-Corwin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:37",
+      "team": {
+        "teamId": "1670",
+        "name": "Ducks"
+      },
+      "scorer": "#5 - Chris  Marotta",
+      "assist1": "#28 - Dominic  Pistolessi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:53",
+      "team": {
+        "teamId": "1673",
+        "name": "Bruins"
+      },
+      "scorer": "#12 - Sami  Kymalainen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:53",
+      "team": {
+        "teamId": "1670",
+        "name": "Ducks"
+      },
+      "scorer": "#15 - Jonathan  Vu",
+      "assist1": "#71 - Colin  Shin",
+      "assist2": "#7 - Andrew  Golomb"
+    },
+    {
+      "period": "3",
+      "time": "00:09:58",
+      "team": {
+        "teamId": "1673",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#70 - David  Fitzgerald",
+      "assist2": "#10 - Justin  Arbes"
+    },
+    {
+      "period": "3",
+      "time": "00:10:11",
+      "team": {
+        "teamId": "1673",
+        "name": "Bruins"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1673",
+        "name": "Bruins"
+      },
+      "player": "#27 - Chris  Balsey",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1670",
+        "name": "Ducks"
+      },
+      "player": "#28 - Dominic  Pistolessi",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:44",
+      "team": {
+        "teamId": "1670",
+        "name": "Ducks"
+      },
+      "player": "#7 - Andrew  Golomb",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:06:38.646Z"
+}

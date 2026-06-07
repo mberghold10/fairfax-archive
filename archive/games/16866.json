@@ -1,0 +1,141 @@
+{
+  "gameId": "16866",
+  "date": "2024-03-26",
+  "divId": 283,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1740",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1739",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:48",
+      "team": {
+        "teamId": "1739",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#79 - Jeff  Vandenberghe",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:10",
+      "team": {
+        "teamId": "1739",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#81 - Rob  Katz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:42",
+      "team": {
+        "teamId": "1740",
+        "name": "Wolves"
+      },
+      "scorer": "#31 - Zach  Furness",
+      "assist1": "#4 - David  Goldstein",
+      "assist2": "#12 - James  Schoff"
+    },
+    {
+      "period": "2",
+      "time": "00:10:33",
+      "team": {
+        "teamId": "1739",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#54 - Matt  Gallagher",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": "#81 - Rob  Katz"
+    },
+    {
+      "period": "3",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1740",
+        "name": "Wolves"
+      },
+      "scorer": "#68 - Mark  Ries",
+      "assist1": "#12 - James  Schoff",
+      "assist2": "#31 - Zach  Furness"
+    },
+    {
+      "period": "3",
+      "time": "00:10:56",
+      "team": {
+        "teamId": "1739",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#31 - Sam  Branham",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": "#81 - Rob  Katz"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:14:45",
+      "team": {
+        "teamId": "1740",
+        "name": "Wolves"
+      },
+      "player": "#74 - Mark  Zarember",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:49",
+      "team": {
+        "teamId": "1739",
+        "name": "Ice Dogs"
+      },
+      "player": "#81 - Rob  Katz",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:44",
+      "team": {
+        "teamId": "1740",
+        "name": "Wolves"
+      },
+      "player": "#74 - Mark  Zarember",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:20:41.142Z"
+}

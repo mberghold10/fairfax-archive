@@ -1,0 +1,272 @@
+{
+  "gameId": "12838",
+  "date": "2019-06-01",
+  "divId": 204,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1293",
+    "name": "Devils"
+  },
+  "away": {
+    "teamId": "1314",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 8
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:42",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "#13 - Faraz  Izadi",
+      "assist1": "#5 - Joel  Dever",
+      "assist2": "#74 - Daniel  Murray"
+    },
+    {
+      "period": "1",
+      "time": "00:08:53",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "#51 - James  Bruton",
+      "assist1": "#13 - Faraz  Izadi",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:54",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "#13 - Faraz  Izadi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "# -",
+      "assist1": "#74 - Daniel  Murray",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:48",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "scorer": "#24 - Thomas  OConnor",
+      "assist1": "#13 - Shane  Mitchell",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:00",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "#18 - Jeff  Rummel",
+      "assist1": "#17 - Wangjae  Yoo",
+      "assist2": "# -"
+    },
+    {
+      "period": "2",
+      "time": "00:10:29",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "#13 - Faraz  Izadi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:41",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "scorer": "#17 - David  Simpson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:51",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "# -",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:59",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "scorer": "#44 - Maddy  Padgett",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "scorer": "#77 - Caleb  Sohl",
+      "assist1": "#44 - Maddy  Padgett",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:14",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "#18 - Jeff  Rummel",
+      "assist1": "#74 - Daniel  Murray",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "player": "#26 - Danny  Meaux",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:00:53",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:00:53",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "player": "#8 - James  Miller",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:43",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "player": "#74 - Daniel  Murray",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:33",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "player": "#24 - Thomas  OConnor",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:51",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "player": "#17 - David  Simpson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:51",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "player": "#17 - David  Simpson",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "player": "#51 - James  Bruton",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:59:14.393Z"
+}

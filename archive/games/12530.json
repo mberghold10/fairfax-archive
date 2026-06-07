@@ -1,0 +1,215 @@
+{
+  "gameId": "12530",
+  "date": "2019-03-06",
+  "divId": 194,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1230",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "1229",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:56",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "scorer": "#19 - Michael  Carr",
+      "assist1": "#62 - John  Sutton",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:56",
+      "team": {
+        "teamId": "1230",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:25",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "scorer": "#24 - Jamie  Belcastro",
+      "assist1": "#25 - Bob  Banasik",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:22",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#28 - Pete  Sandness",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:01",
+      "team": {
+        "teamId": "1230",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#11 - Kevin  Powers",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:46",
+      "team": {
+        "teamId": "1230",
+        "name": "Goons"
+      },
+      "scorer": "#23 - Gordon  Scott",
+      "assist1": "#11 - Kevin  Powers",
+      "assist2": "#22 - Brian  Dutton"
+    },
+    {
+      "period": "3",
+      "time": "00:09:14",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "scorer": "#27 - Chris  Balsley",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1230",
+        "name": "Goons"
+      },
+      "player": "#11 - Kevin  Powers",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:12",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "player": "#25 - Bob  Banasik",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:48",
+      "team": {
+        "teamId": "1230",
+        "name": "Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "1230",
+        "name": "Goons"
+      },
+      "player": "#24 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "player": "#11 - Bryan  Maloney",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:49",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "player": "#62 - John  Sutton",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "player": "#28 - Pete  Sandness",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:47:58.997Z"
+}

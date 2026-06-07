@@ -1,0 +1,154 @@
+{
+  "gameId": "13835",
+  "date": "2020-11-02",
+  "divId": 221,
+  "seasonName": "Fall 2020",
+  "mode": "regular",
+  "home": {
+    "teamId": "1390",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1388",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "1390",
+        "name": "Rink Rats"
+      },
+      "scorer": "#79 - Igor  Helman",
+      "assist1": "#9 - Peter  Farzan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:27",
+      "team": {
+        "teamId": "1388",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#32 - Jeff  Hunter",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:44",
+      "team": {
+        "teamId": "1388",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#32 - Jeff  Hunter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:48",
+      "team": {
+        "teamId": "1388",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#0 - Ruben  Garcia",
+      "assist1": "#39 - Alex  Cimon",
+      "assist2": "#32 - Jeff  Hunter"
+    },
+    {
+      "period": "3",
+      "time": "00:04:31",
+      "team": {
+        "teamId": "1388",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#14 - Chukie  Ezike",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:38",
+      "team": {
+        "teamId": "1388",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#69 - Alex  Crespo",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1388",
+        "name": "Mad Dogs"
+      },
+      "player": "#0 - Ruben  Garcia",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:41",
+      "team": {
+        "teamId": "1390",
+        "name": "Rink Rats"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:12",
+      "team": {
+        "teamId": "1388",
+        "name": "Mad Dogs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:59",
+      "team": {
+        "teamId": "1390",
+        "name": "Rink Rats"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:17:15.205Z"
+}

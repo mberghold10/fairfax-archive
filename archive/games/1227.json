@@ -1,0 +1,182 @@
+{
+  "gameId": "1227",
+  "date": "2022-09-11",
+  "divId": 257,
+  "seasonName": "Summer 2022",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1582",
+    "name": "Grey Beards"
+  },
+  "away": {
+    "teamId": "1583",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "1582",
+        "name": "Grey Beards"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1582",
+        "name": "Grey Beards"
+      },
+      "scorer": "#28 - Charles  Hale",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1583",
+        "name": "Nortec"
+      },
+      "scorer": "#32 - Trygve  Olson",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": "#12 - Sami  Kymalainen"
+    },
+    {
+      "period": "3",
+      "time": "00:06:27",
+      "team": {
+        "teamId": "1582",
+        "name": "Grey Beards"
+      },
+      "scorer": "#29 - Bob  Chagnot",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:51",
+      "team": {
+        "teamId": "1582",
+        "name": "Grey Beards"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1583",
+        "name": "Nortec"
+      },
+      "player": "#5 - Peter  Boone",
+      "pim": 2,
+      "offense": "check from behind",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1583",
+        "name": "Nortec"
+      },
+      "player": "#5 - Peter  Boone",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:08",
+      "team": {
+        "teamId": "1583",
+        "name": "Nortec"
+      },
+      "player": "#55 - Tim  Dutcher",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1582",
+        "name": "Grey Beards"
+      },
+      "player": "#16 - Bill  Thompson",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:45",
+      "team": {
+        "teamId": "1582",
+        "name": "Grey Beards"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:59",
+      "team": {
+        "teamId": "1582",
+        "name": "Grey Beards"
+      },
+      "player": "#12 - Brian  Dix",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "1582",
+        "name": "Grey Beards"
+      },
+      "player": "#16 - Bill  Thompson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:49:39.019Z"
+}

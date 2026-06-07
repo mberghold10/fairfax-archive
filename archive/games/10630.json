@@ -1,0 +1,128 @@
+{
+  "gameId": "10630",
+  "date": "2017-05-26",
+  "divId": 168,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1073",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1071",
+    "name": "Pharaohs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1071",
+        "name": "Pharaohs"
+      },
+      "scorer": "#83 - Jared  DiCioccio",
+      "assist1": "#11 - Dan  Owens",
+      "assist2": "#7 - Samantha  Miller"
+    },
+    {
+      "period": "1",
+      "time": "00:03:46",
+      "team": {
+        "teamId": "1071",
+        "name": "Pharaohs"
+      },
+      "scorer": "#19 - Otto  Noffsinger",
+      "assist1": "#7 - Samantha  Miller",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "1071",
+        "name": "Pharaohs"
+      },
+      "scorer": "#22 - Sully  Sullivan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1071",
+        "name": "Pharaohs"
+      },
+      "scorer": "#9 - Joseph  Tierney",
+      "assist1": "#28 - Michael  Berghold",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:19",
+      "team": {
+        "teamId": "1071",
+        "name": "Pharaohs"
+      },
+      "scorer": "#22 - Sully  Sullivan",
+      "assist1": "#28 - Michael  Berghold",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:03",
+      "team": {
+        "teamId": "1071",
+        "name": "Pharaohs"
+      },
+      "scorer": "#6 - Ian  Dillner",
+      "assist1": "#7 - Samantha  Miller",
+      "assist2": "#11 - Dan  Owens"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "player": "#91 - Max  Weidenkopf",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1071",
+        "name": "Pharaohs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:15:24.523Z"
+}

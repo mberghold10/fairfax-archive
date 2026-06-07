@@ -1,0 +1,152 @@
+{
+  "gameId": "12403",
+  "date": "2019-03-02",
+  "divId": 190,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1206",
+    "name": "Blue Jackets"
+  },
+  "away": {
+    "teamId": "1204",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "scorer": "#16 - Dan  Rebman",
+      "assist1": "#52 - Alan  Dappen",
+      "assist2": "#11 - Mark  OConnell"
+    },
+    {
+      "period": "1",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "scorer": "#16 - Dan  Rebman",
+      "assist1": "#42 - Jeff  Lovett",
+      "assist2": "#77 - Erik  Bergman"
+    },
+    {
+      "period": "2",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "scorer": "#52 - Alan  Dappen",
+      "assist1": "#42 - Jeff  Lovett",
+      "assist2": "#16 - Dan  Rebman"
+    },
+    {
+      "period": "2",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": "#23 - Dan  Ellert",
+      "assist2": "#52 - Alan  Dappen"
+    },
+    {
+      "period": "3",
+      "time": "00:03:37",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "scorer": "#15 - Bob  Guckian",
+      "assist1": "#92 - Darren  Wellner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:47",
+      "team": {
+        "teamId": "1204",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": "#4 - Dave  Sinniger",
+      "assist2": "#17 - Rich  Wagner"
+    },
+    {
+      "period": "3",
+      "time": "00:10:04",
+      "team": {
+        "teamId": "1204",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Rich  Wagner",
+      "assist1": "#21 - Andrew  Scarfo",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "player": "#15 - Bob  Guckian",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:35",
+      "team": {
+        "teamId": "1204",
+        "name": "Chiefs"
+      },
+      "player": "#41 - Jeff  Goff",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:16",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "player": "#23 - Dan  Ellert",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:42:28.190Z"
+}

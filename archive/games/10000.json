@@ -1,0 +1,222 @@
+{
+  "gameId": "10000",
+  "date": "2016-10-23",
+  "divId": 155,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "993",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "997",
+    "name": "Rustico Flames"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:34",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#63 - Bill  Linzey",
+      "assist1": "#24 - Mike  Sheridan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "scorer": "#99 - Jon  Davoren",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:08",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": "#23 - Mike  OBrien",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#63 - Bill  Linzey",
+      "assist1": "#8 - Chris  White",
+      "assist2": "#55 - Scott  Dullea"
+    },
+    {
+      "period": "2",
+      "time": "00:07:05",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#14 - Josh  Peter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:32",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": "#8 - Matt  Tourville",
+      "assist2": "#18 - Pete  Poczatek"
+    },
+    {
+      "period": "2",
+      "time": "00:11:21",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "scorer": "#8 - Matt  Tourville",
+      "assist1": "#18 - Pete  Poczatek",
+      "assist2": "#4 - Jeff  Bloom"
+    },
+    {
+      "period": "2",
+      "time": "00:13:47",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#63 - Bill  Linzey",
+      "assist1": "#24 - Mike  Sheridan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": "#10 - Mike  Brahmey",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:44",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#23 - Mike  OBrien",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#77 - Erik  Bergman",
+      "assist1": "#7 - Randy  McCauley",
+      "assist2": "#14 - Josh  Peter"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:47",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "player": "#77 - Erik  Bergman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "player": "#14 - Josh  Peter",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:33",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:09",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "player": "#55 - Scott  Dullea",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:58:48.885Z"
+}

@@ -1,0 +1,239 @@
+{
+  "gameId": "12545",
+  "date": "2019-01-17",
+  "divId": 195,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1235",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1241",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:11",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Andy  Taylor",
+      "assist1": "#18 - Chris  Kelly",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:10",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "scorer": "#24 - Jim  Behrend",
+      "assist1": "#55 - Joel  Whitney",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:22",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "scorer": "#4 - Dan  McManus",
+      "assist1": "#33 - Andy  Taylor",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "scorer": "#31 - Jason  Apergis",
+      "assist1": "#13 - Tim  Cremen",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:37",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#49 - Bob  Desrosiers",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:29",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "scorer": "#18 - Chris  Kelly",
+      "assist1": "#21 - Trevor  Wallace",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:49",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "scorer": "#93 - Jeff  Nauer",
+      "assist1": "#38 - Ted  Satterthwaite",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:19",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "scorer": "#22 - Ed  Gulakowski",
+      "assist1": "#2 - Marc  Sheinkin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "scorer": "#55 - Joel  Whitney",
+      "assist1": "#21 - Trevor  Wallace",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "player": "#21 - Trevor  Wallace",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:02",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "player": "#18 - Chris  Kelly",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:02",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "player": "#4 - Dan  McManus",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "player": "#9 - Rick  Cole",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:12",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "player": "#8 - Dan  Brehm",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:49:06.547Z"
+}

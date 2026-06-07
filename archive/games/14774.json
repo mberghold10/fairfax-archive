@@ -1,0 +1,154 @@
+{
+  "gameId": "14774",
+  "date": "2022-04-10",
+  "divId": 246,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1519",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1525",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:12",
+      "team": {
+        "teamId": "1525",
+        "name": "Islanders"
+      },
+      "scorer": "#77 - Joe  Berret",
+      "assist1": "#17 - John  Wallace",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "1525",
+        "name": "Islanders"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:48",
+      "team": {
+        "teamId": "1525",
+        "name": "Islanders"
+      },
+      "scorer": "#16 - Carlos  Novoa",
+      "assist1": "#77 - Joe  Berret",
+      "assist2": "#88 - Anthony  DeJohn"
+    },
+    {
+      "period": "3",
+      "time": "00:05:14",
+      "team": {
+        "teamId": "1519",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Andy  Taylor",
+      "assist1": "#24 - Jim  Behrend",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:59",
+      "team": {
+        "teamId": "1519",
+        "name": "Flying Circus"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#66 - Chris  Yoko",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:32",
+      "team": {
+        "teamId": "1525",
+        "name": "Islanders"
+      },
+      "scorer": "#77 - Joe  Berret",
+      "assist1": "#17 - John  Wallace",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:42",
+      "team": {
+        "teamId": "1519",
+        "name": "Flying Circus"
+      },
+      "player": "#15 - Mike  Hempen",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1519",
+        "name": "Flying Circus"
+      },
+      "player": "#66 - Chris  Yoko",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1519",
+        "name": "Flying Circus"
+      },
+      "player": "#66 - Chris  Yoko",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:59",
+      "team": {
+        "teamId": "1525",
+        "name": "Islanders"
+      },
+      "player": "#9 - Rick  Cole",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:37:17.086Z"
+}

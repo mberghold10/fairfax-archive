@@ -1,0 +1,139 @@
+{
+  "gameId": "12761",
+  "date": "2019-06-23",
+  "divId": 200,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1273",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1269",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:55",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1273",
+        "name": "Grey Goons"
+      },
+      "scorer": "#42 - Christian  Gibbons",
+      "assist1": "#47 - Talbot  Black",
+      "assist2": "#32 - Phil  Antoun"
+    },
+    {
+      "period": "2",
+      "time": "00:07:06",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#10 - Mike  Brahmey",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#34 - Jim  Morgan",
+      "assist1": "#44 - Greg  Powers",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:13",
+      "team": {
+        "teamId": "1273",
+        "name": "Grey Goons"
+      },
+      "scorer": "#49 - Greg  Mullen",
+      "assist1": "#42 - Christian  Gibbons",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#12 - Jason  Wakeman",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:08",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "player": "#10 - Mike  Brahmey",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:55:01.368Z"
+}

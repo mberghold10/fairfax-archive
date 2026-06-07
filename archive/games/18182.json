@@ -1,0 +1,143 @@
+{
+  "gameId": "18182",
+  "date": "2025-08-02",
+  "divId": 313,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1915",
+    "name": "Windbreakers"
+  },
+  "away": {
+    "teamId": "1919",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:51",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#89 - Sid  Han",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:48",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#4 - Kevin  Canalichio",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:06",
+      "team": {
+        "teamId": "1915",
+        "name": "Windbreakers"
+      },
+      "scorer": "#3 - Mitch  Federman",
+      "assist1": "#5 - Chris  Marotta",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:02",
+      "team": {
+        "teamId": "1915",
+        "name": "Windbreakers"
+      },
+      "scorer": "#3 - Mitch  Federman",
+      "assist1": "#47 - Peter  Vesely",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:45",
+      "team": {
+        "teamId": "1915",
+        "name": "Windbreakers"
+      },
+      "scorer": "#69 - Alex  Zurbach",
+      "assist1": "#33 - Juliana  Brotzman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:49",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "player": "#10 - Steve  Daniels",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:41",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "player": "#10 - Steve  Daniels",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:08",
+      "team": {
+        "teamId": "1915",
+        "name": "Windbreakers"
+      },
+      "player": "#33 - Juliana  Brotzman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:27",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "player": "#4 - Kevin  Canalichio",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:50:43.327Z"
+}

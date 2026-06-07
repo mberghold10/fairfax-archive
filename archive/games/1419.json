@@ -1,0 +1,143 @@
+{
+  "gameId": "1419",
+  "date": "2024-05-12",
+  "divId": 280,
+  "seasonName": "Winter 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1724",
+    "name": "Triassic Puck"
+  },
+  "away": {
+    "teamId": "1722",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#16 - Cullen  Finley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:11",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#21 - Joe  Rhodes",
+      "assist1": "#15 - Chris  Abbott",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:29",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#43 - Alex  Langsam",
+      "assist1": "#5 - Mike  Fottrell",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#5 - Mike  Fottrell",
+      "assist1": "#13 - Joe  Carroll",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:34",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#77 - Scott  Peterson",
+      "assist1": "#96 - Jeff  Moore",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#4 - Rob  Ryan",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:06",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#43 - Alex  Langsam",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:46",
+      "team": {
+        "teamId": "1724",
+        "name": "Triassic Puck"
+      },
+      "player": "#11 - George  Cernica",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:06",
+      "team": {
+        "teamId": "1724",
+        "name": "Triassic Puck"
+      },
+      "player": "#11 - George  Cernica",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:17:09.317Z"
+}

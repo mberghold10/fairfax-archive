@@ -1,0 +1,108 @@
+{
+  "gameId": "18448",
+  "date": "2025-10-01",
+  "divId": 315,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1929",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1928",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1929",
+        "name": "Swarm"
+      },
+      "scorer": "#27 - Jeff  Cardieo",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1929",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#56 - Ryan  Tyler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:54",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#7 - Andrew  Golomb",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1929",
+        "name": "Swarm"
+      },
+      "player": "#9 - Jason  Murphy",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "player": "#71 - Colin  Shin",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:32",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "player": "#7 - Andrew  Golomb",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:53:45.936Z"
+}

@@ -1,0 +1,134 @@
+{
+  "gameId": "1581",
+  "date": "2025-11-23",
+  "divId": 314,
+  "seasonName": "Summer 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1926",
+    "name": "Bottle Caps"
+  },
+  "away": {
+    "teamId": "1921",
+    "name": "Junkyard Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "1926",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#83 - Michael  Milazzo",
+      "assist1": "#77 - Trevor  Boynton",
+      "assist2": "#13 - Duane  Stefaniak"
+    },
+    {
+      "period": "1",
+      "time": "00:12:11",
+      "team": {
+        "teamId": "1926",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#38 - Josh  Savani",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1921",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#23 - Brian  Ladd",
+      "assist1": "#77 - Jeff  Wilken",
+      "assist2": "#15 - Dave  Gorman"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:11",
+      "team": {
+        "teamId": "1921",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:24",
+      "team": {
+        "teamId": "1921",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#64 - Ben  Thomas",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:37",
+      "team": {
+        "teamId": "1921",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:44",
+      "team": {
+        "teamId": "1921",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#92 - Daniel  Horner",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:55",
+      "team": {
+        "teamId": "1921",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#41 - Alessio  Evangelista",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:53:08.079Z"
+}

@@ -1,0 +1,121 @@
+{
+  "gameId": "16630",
+  "date": "2023-12-10",
+  "divId": 284,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1748",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1745",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:46",
+      "team": {
+        "teamId": "1745",
+        "name": "Thunder"
+      },
+      "scorer": "#29 - James  Kim",
+      "assist1": "#93 - Chris  Conley",
+      "assist2": "#11 - Mark  Boyd"
+    },
+    {
+      "period": "1",
+      "time": "00:18:24",
+      "team": {
+        "teamId": "1748",
+        "name": "Red Wings"
+      },
+      "scorer": "#24 - Jake  Middel",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:42",
+      "team": {
+        "teamId": "1745",
+        "name": "Thunder"
+      },
+      "scorer": "#29 - James  Kim",
+      "assist1": "#11 - Mark  Boyd",
+      "assist2": "#79 - Sean  Longanecker"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1748",
+        "name": "Red Wings"
+      },
+      "player": "#8 - Brian  Merritt",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:48",
+      "team": {
+        "teamId": "1748",
+        "name": "Red Wings"
+      },
+      "player": "#16 - Wei  Wang",
+      "pim": 2,
+      "offense": "High Stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1745",
+        "name": "Thunder"
+      },
+      "player": "#13 - Jim  Friel",
+      "pim": 2,
+      "offense": "Rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:41",
+      "team": {
+        "teamId": "1745",
+        "name": "Thunder"
+      },
+      "player": "#11 - Mark  Boyd",
+      "pim": 2,
+      "offense": "High Stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:21:17.710Z"
+}

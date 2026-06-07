@@ -1,0 +1,154 @@
+{
+  "gameId": "14865",
+  "date": "2022-07-17",
+  "divId": 255,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1576",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1574",
+    "name": "Gold Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1574",
+        "name": "Gold Goats"
+      },
+      "scorer": "#39 - Matthew  Zipper",
+      "assist1": "#8 - Curt  Tucker",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "1576",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#43 - Steve  Sincavage",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:36",
+      "team": {
+        "teamId": "1574",
+        "name": "Gold Goats"
+      },
+      "scorer": "#24 - Mike  Duall",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:45",
+      "team": {
+        "teamId": "1574",
+        "name": "Gold Goats"
+      },
+      "scorer": "#7 - Greg  Watchman",
+      "assist1": "#39 - Matthew  Zipper",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "1574",
+        "name": "Gold Goats"
+      },
+      "scorer": "#10 - Matt  Johnson",
+      "assist1": "#17 - Dan  Pol",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:12",
+      "team": {
+        "teamId": "1574",
+        "name": "Gold Goats"
+      },
+      "scorer": "#24 - Mike  Duall",
+      "assist1": "#9 - Kim  Sherrock",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "1576",
+        "name": "Maple Leafs"
+      },
+      "player": "#19 - Bryan  Moffet",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1576",
+        "name": "Maple Leafs"
+      },
+      "player": "#77 - Paul  Cicchetti",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:32",
+      "team": {
+        "teamId": "1574",
+        "name": "Gold Goats"
+      },
+      "player": "#3 - Dick  Deitos",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:52",
+      "team": {
+        "teamId": "1574",
+        "name": "Gold Goats"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:47:34.603Z"
+}

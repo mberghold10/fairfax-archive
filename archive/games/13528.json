@@ -1,0 +1,130 @@
+{
+  "gameId": "13528",
+  "date": "2020-02-09",
+  "divId": 209,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1323",
+    "name": "BlueJacket Capitals"
+  },
+  "away": {
+    "teamId": "1322",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:05",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#66 - Mark  Rudnicki",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:36",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": "#16 - Dan  Rebman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:21",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "scorer": "#7 - Michael  Cardarelli",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:25",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#66 - Mark  Rudnicki",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:03",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#77 - Erik  Bergman",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:58",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "player": "#91 - Sean  Morrow",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "player": "#4 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:01",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#66 - Mark  Rudnicki",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:05:32.170Z"
+}

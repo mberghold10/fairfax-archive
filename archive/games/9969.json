@@ -1,0 +1,117 @@
+{
+  "gameId": "9969",
+  "date": "2016-11-04",
+  "divId": 153,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "984",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "985",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:01",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#2 - Rod  Wade",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#15 - John  Cushing",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:18",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#15 - John  Cushing",
+      "assist2": "#21 - Steve  Chan"
+    },
+    {
+      "period": "3",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#37 - Vadin  Nabotov",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "984",
+        "name": "Ducks"
+      },
+      "scorer": "#4 - Bruce  Baltas",
+      "assist1": "#27 - Laurent  Depouilly",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "984",
+        "name": "Ducks"
+      },
+      "player": "#27 - Laurent  Depouilly",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:56:30.161Z"
+}

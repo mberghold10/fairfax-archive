@@ -1,0 +1,182 @@
+{
+  "gameId": "10049",
+  "date": "2016-11-16",
+  "divId": 157,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1010",
+    "name": "Blackhawks"
+  },
+  "away": {
+    "teamId": "1005",
+    "name": "Phi Slama Jama"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1005",
+        "name": "Phi Slama Jama"
+      },
+      "scorer": "#5 - Nate  Green",
+      "assist1": "#2 - David  St Hubbins",
+      "assist2": "#22 - Ryan  Mosel"
+    },
+    {
+      "period": "1",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "1005",
+        "name": "Phi Slama Jama"
+      },
+      "scorer": "#0 - Sean  Bugas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:45",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#36 - Bill  Ludke",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "1005",
+        "name": "Phi Slama Jama"
+      },
+      "scorer": "#75 - Mike  Brooks",
+      "assist1": "#12 - Dylan  Reed",
+      "assist2": "#0 - Sean  Bugas"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:59",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "player": "#39 - John  Keegan",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:59",
+      "team": {
+        "teamId": "1005",
+        "name": "Phi Slama Jama"
+      },
+      "player": "#7 - Matt  Finsterwald",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:58",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "player": "#22 - Cody  Reinitz",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "1005",
+        "name": "Phi Slama Jama"
+      },
+      "player": "#0 - Sean  Bugas",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:15",
+      "team": {
+        "teamId": "1005",
+        "name": "Phi Slama Jama"
+      },
+      "player": "#5 - Nate  Green",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:05",
+      "team": {
+        "teamId": "1005",
+        "name": "Phi Slama Jama"
+      },
+      "player": "#22 - Ryan  Mosel",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:01:41.225Z"
+}

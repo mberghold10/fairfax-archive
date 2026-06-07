@@ -1,0 +1,130 @@
+{
+  "gameId": "14254",
+  "date": "2021-08-17",
+  "divId": 237,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1479",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1480",
+    "name": "Capitals"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#9 - Erik  Hass",
+      "assist1": "#42 - Jeff  Lovett",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:48",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#16 - Dan  Rebman",
+      "assist1": "#9 - Erik  Hass",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1479",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": "#2 - Tom  Keith",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:15",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#9 - Erik  Hass",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:40",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#15 - Bob  Guckian",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:28",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "1479",
+        "name": "Ice Dogs"
+      },
+      "player": "#2 - Tom  Keith",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:58",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "player": "#16 - Dan  Rebman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:28:46.729Z"
+}

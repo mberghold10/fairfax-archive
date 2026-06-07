@@ -1,0 +1,86 @@
+{
+  "gameId": "17198",
+  "date": "2024-07-21",
+  "divId": 295,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1803",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1804",
+    "name": "Hershey Beers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:07:41",
+      "team": {
+        "teamId": "1804",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#38 - Josh  Savani",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "player": "#47 - Dave  LeKuch",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1804",
+        "name": "Hershey Beers"
+      },
+      "player": "#61 - Nick  Johnston",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:18",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "player": "#100 - Goalie  Substitue",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:32:48.862Z"
+}

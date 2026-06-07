@@ -1,0 +1,152 @@
+{
+  "gameId": "18501",
+  "date": "2025-09-28",
+  "divId": 313,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1914",
+    "name": "Red Dragons"
+  },
+  "away": {
+    "teamId": "1918",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:19",
+      "team": {
+        "teamId": "1918",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#881 - Frank  Tomaino",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:00",
+      "team": {
+        "teamId": "1918",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#38 - Drew  Dunn",
+      "assist1": "#39 - Alex  Cimon",
+      "assist2": "#31 - Sam  Branham"
+    },
+    {
+      "period": "1",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1918",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#160 - Cooper  Branham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:16",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "scorer": "#80 - Ethan  Hoffman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "1918",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#36 - Brian  Lusby",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:56",
+      "team": {
+        "teamId": "1918",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#881 - Frank  Tomaino",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:19",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "scorer": "#57 - Dylan  Thomas",
+      "assist1": "#80 - Ethan  Hoffman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "player": "#16 - Peter  Patterson",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1918",
+        "name": "Mad Dogs"
+      },
+      "player": "#36 - Brian  Lusby",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "1918",
+        "name": "Mad Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:51:11.347Z"
+}

@@ -1,0 +1,130 @@
+{
+  "gameId": "1240",
+  "date": "2022-10-01",
+  "divId": 251,
+  "seasonName": "Summer 2022",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1548",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1553",
+    "name": "Hitmen"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "scorer": "#5 - Chris  Oman",
+      "assist1": "#39 - Chad  Tangchittsumran",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:38",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "scorer": "#5 - Chris  Oman",
+      "assist1": "#77 - Alex  Mandara",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "scorer": "#5 - Chris  Oman",
+      "assist1": "#8 - Tyler  Hoge",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:27",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "scorer": "#5 - Chris  Oman",
+      "assist1": "#4 - Augie  Savarese",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "scorer": "#4 - Augie  Savarese",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:02",
+      "team": {
+        "teamId": "1548",
+        "name": "Dragons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:52",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "player": "#8 - Tyler  Hoge",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "player": "#8 - Tyler  Hoge",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:43:17.572Z"
+}

@@ -1,0 +1,230 @@
+{
+  "gameId": "18915",
+  "date": "2026-05-24",
+  "divId": 321,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1967",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1970",
+    "name": "Outlaws"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:43",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "scorer": "#18 - Michael  Dewhirst",
+      "assist1": "#16 - Ralph  Rinaldi",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:50",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "scorer": "#21 - Scott  Frauenknecht",
+      "assist1": "#1 - Jeff  Alpher",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:21",
+      "team": {
+        "teamId": "1970",
+        "name": "Outlaws"
+      },
+      "scorer": "#14 - Jason  Brue",
+      "assist1": "#41 - Tony  Gorney",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:17",
+      "team": {
+        "teamId": "1970",
+        "name": "Outlaws"
+      },
+      "scorer": "#37 - Luke  Lowen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:45",
+      "team": {
+        "teamId": "1970",
+        "name": "Outlaws"
+      },
+      "scorer": "#14 - Jason  Brue",
+      "assist1": "#19 - Jason  Young",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:51",
+      "team": {
+        "teamId": "1970",
+        "name": "Outlaws"
+      },
+      "scorer": "#37 - Luke  Lowen",
+      "assist1": "#41 - Tony  Gorney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:01",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "scorer": "#18 - Michael  Dewhirst",
+      "assist1": "#7 - Alex  Rinaldi",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:45",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#7 - Alex  Rinaldi",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "1970",
+        "name": "Outlaws"
+      },
+      "player": "#41 - Tony  Gorney",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:09",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#16 - Ralph  Rinaldi",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:20",
+      "team": {
+        "teamId": "1970",
+        "name": "Outlaws"
+      },
+      "player": "#19 - Jason  Young",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:07",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#4 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:33",
+      "team": {
+        "teamId": "1970",
+        "name": "Outlaws"
+      },
+      "player": "#41 - Tony  Gorney",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#12 - Chris  Yoko",
+      "pim": 5,
+      "offense": "Fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#12 - Chris  Yoko",
+      "pim": 10,
+      "offense": "Game Misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "1970",
+        "name": "Outlaws"
+      },
+      "player": "#14 - Jason  Brue",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:38:56.001Z"
+}

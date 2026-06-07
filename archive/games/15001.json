@@ -1,0 +1,147 @@
+{
+  "gameId": "15001",
+  "date": "2022-07-17",
+  "divId": 251,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1548",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1550",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:43",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#2 - Payton  Oliveri",
+      "assist1": "#28 - Michael  Berghold",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:47",
+      "team": {
+        "teamId": "1548",
+        "name": "Dragons"
+      },
+      "scorer": "#48 - Dan  Goldberg",
+      "assist1": "#3 - Ilana  Bell",
+      "assist2": "#11 - Emma  Alperin"
+    },
+    {
+      "period": "1",
+      "time": "00:12:48",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": "#28 - Michael  Berghold",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "player": "#77 - Dan  Owens",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "1548",
+        "name": "Dragons"
+      },
+      "player": "#55 - Sam  Bryce Jr",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:25",
+      "team": {
+        "teamId": "1548",
+        "name": "Dragons"
+      },
+      "player": "#4 - Josiah  Renton",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:05",
+      "team": {
+        "teamId": "1548",
+        "name": "Dragons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:01",
+      "team": {
+        "teamId": "1548",
+        "name": "Dragons"
+      },
+      "player": "#11 - Emma  Alperin",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "player": "#77 - Dan  Owens",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:42:33.568Z"
+}

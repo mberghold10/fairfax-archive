@@ -1,0 +1,82 @@
+{
+  "gameId": "14697",
+  "date": "2022-02-13",
+  "divId": 244,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1511",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1512",
+    "name": "Red Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1512",
+        "name": "Red Dragons"
+      },
+      "scorer": "#84 - Mike  Lowe",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:41",
+      "team": {
+        "teamId": "1511",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#10 - Scott  Peterson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:13",
+      "team": {
+        "teamId": "1511",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#11 - Josh  Gilman",
+      "assist1": "#74 - Eric  Peterson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "1511",
+        "name": "Blackskimmers"
+      },
+      "player": "#6 - Matt  Johnson",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:34:33.281Z"
+}

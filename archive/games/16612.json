@@ -1,0 +1,117 @@
+{
+  "gameId": "16612",
+  "date": "2024-01-05",
+  "divId": 283,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1741",
+    "name": "Gold Goats"
+  },
+  "away": {
+    "teamId": "1738",
+    "name": "Goon Nation"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:52",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "scorer": "#21 - Grant  Gibbons",
+      "assist1": "#6 - Tom  Fording",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:20",
+      "team": {
+        "teamId": "1741",
+        "name": "Gold Goats"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:08",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "scorer": "#21 - Grant  Gibbons",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "scorer": "#76 - Mike  Floyd",
+      "assist1": "#21 - Grant  Gibbons",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:18",
+      "team": {
+        "teamId": "1741",
+        "name": "Gold Goats"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#37 - Nick  Desport",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:02:41",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "player": "#76 - Mike  Floyd",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "1741",
+        "name": "Gold Goats"
+      },
+      "player": "#34 - Marty  Gryski",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:20:14.063Z"
+}

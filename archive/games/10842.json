@@ -1,0 +1,128 @@
+{
+  "gameId": "10842",
+  "date": "2017-07-15",
+  "divId": 168,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1073",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1075",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:34",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#38 - Michael  Andrien",
+      "assist1": "#83 - David  Bilodeau",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "1075",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#54 - Brian  Hensel",
+      "assist1": "#8 - AJ  Ellis",
+      "assist2": "#9 - Greg  Sibley"
+    },
+    {
+      "period": "1",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "1075",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#9 - Greg  Sibley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:51",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#38 - Michael  Andrien",
+      "assist1": "#23 - Kelly  Herberger",
+      "assist2": "#24 - Harry  Nicholakos"
+    },
+    {
+      "period": "3",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1075",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#54 - Brian  Hensel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:54",
+      "team": {
+        "teamId": "1075",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": "#89 - Chris  Casselman",
+      "assist2": "#16 - Nicole  Chapman"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:23",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "player": "#7 - Will  Weiler",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:38",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "player": "#83 - David  Bilodeau",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:15:46.515Z"
+}

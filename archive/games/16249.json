@@ -1,0 +1,165 @@
+{
+  "gameId": "16249",
+  "date": "2023-09-10",
+  "divId": 270,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1665",
+    "name": "Toronto"
+  },
+  "away": {
+    "teamId": "1667",
+    "name": "Bottle Caps"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:21",
+      "team": {
+        "teamId": "1665",
+        "name": "Toronto"
+      },
+      "scorer": "#33 - Greg  Kowalski",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": "#28 - Harry  Nicholakos"
+    },
+    {
+      "period": "1",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "1667",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#34 - William  Happ",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:21",
+      "team": {
+        "teamId": "1665",
+        "name": "Toronto"
+      },
+      "scorer": "#74 - David  Urlwin",
+      "assist1": "#28 - Harry  Nicholakos",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:25",
+      "team": {
+        "teamId": "1665",
+        "name": "Toronto"
+      },
+      "scorer": "#8 - Elliott  Yang",
+      "assist1": "#48 - Randy  Sasai",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:18",
+      "team": {
+        "teamId": "1667",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#21 - Larry  Silver",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:33",
+      "team": {
+        "teamId": "1665",
+        "name": "Toronto"
+      },
+      "scorer": "#33 - Greg  Kowalski",
+      "assist1": "#48 - Randy  Sasai",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:51",
+      "team": {
+        "teamId": "1665",
+        "name": "Toronto"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#33 - Greg  Kowalski",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "1665",
+        "name": "Toronto"
+      },
+      "player": "#44 - Jim  McGovern",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1665",
+        "name": "Toronto"
+      },
+      "player": "#2 - Chris  Casselman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "1667",
+        "name": "Bottle Caps"
+      },
+      "player": "#21 - Larry  Silver",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1667",
+        "name": "Bottle Caps"
+      },
+      "player": "#19 - Colin  Bartlett",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:05:36.565Z"
+}

@@ -1,0 +1,256 @@
+{
+  "gameId": "18010",
+  "date": "2025-05-08",
+  "divId": 306,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1876",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1878",
+    "name": "Flying Circus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:54",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "scorer": "#56 - Ryan  Tyler",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:49",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#64 - Bob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:58",
+      "team": {
+        "teamId": "1878",
+        "name": "Flying Circus"
+      },
+      "scorer": "#25 - Malcolm  Hyson",
+      "assist1": "#33 - Shaun  Sleeper",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:10",
+      "team": {
+        "teamId": "1878",
+        "name": "Flying Circus"
+      },
+      "scorer": "#66 - Chris  Yoko",
+      "assist1": "#33 - Shaun  Sleeper",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:38",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "scorer": "#47 - Rob  Schumann",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:43",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "player": "#33 - Hung  Pham",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:29",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "player": "#4 - Paul  Cicchetti",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:08",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:24",
+      "team": {
+        "teamId": "1878",
+        "name": "Flying Circus"
+      },
+      "player": "#33 - Shaun  Sleeper",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:47",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "player": "#44 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:47",
+      "team": {
+        "teamId": "1878",
+        "name": "Flying Circus"
+      },
+      "player": "#66 - Chris  Yoko",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "player": "#44 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "1878",
+        "name": "Flying Circus"
+      },
+      "player": "#57 - Chris  McNabney",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:38",
+      "team": {
+        "teamId": "1878",
+        "name": "Flying Circus"
+      },
+      "player": "#66 - Chris  Yoko",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:54",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "player": "#5 - Andy  Loggia",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:35",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "player": "#47 - Rob  Schumann",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:44:38.364Z"
+}

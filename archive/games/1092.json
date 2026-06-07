@@ -1,0 +1,180 @@
+{
+  "gameId": "1092",
+  "date": "2020-08-16",
+  "divId": 216,
+  "seasonName": "Winter 2019",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1363",
+    "name": "Roughnecks"
+  },
+  "away": {
+    "teamId": "1367",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:49",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#41 - Alessio  Evangelista",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:02",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#39 - Alex  Ciman",
+      "assist1": "#0 - Ruben  Garcia",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:53",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#41 - Alessio  Evangelista",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": "#10 - Rebecca  Evangelista"
+    },
+    {
+      "period": "2",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#36 - Brian  Lusby",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:23",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#28 - Richard  Pettey",
+      "assist1": "#0 - Bert  Huser",
+      "assist2": "#89 - Jim  Rathbone"
+    },
+    {
+      "period": "3",
+      "time": "00:11:03",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#74 - Mik  Berwin",
+      "assist1": "#28 - Richard  Pettey",
+      "assist2": "#3 - Charlie  Beekman"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "player": "#5 - Chris  Oman",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "player": "#28 - Richard  Pettey",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "player": "#13 - Frederic  Kneisel",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "player": "#5 - Chris  Oman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:06",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "player": "#39 - Alex  Ciman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:46",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "player": "#41 - Alessio  Evangelista",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:14:48.728Z"
+}

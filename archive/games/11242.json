@@ -1,0 +1,185 @@
+{
+  "gameId": "11242",
+  "date": "2018-01-10",
+  "divId": 171,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1090",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1094",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 4,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:49",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:04",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#3 - Mario  Regan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:31",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#28 - Konstantin  Silov",
+      "assist1": "#4 - Bruce  Baltas",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#18 - Sean  Gallucci",
+      "assist1": "#91 - Rob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#3 - Mario  Regan",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": "#2 - Rod  Wade"
+    },
+    {
+      "period": "3",
+      "time": "00:02:27",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#18 - Sean  Gallucci",
+      "assist1": "#19 - Chris  Blevins",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:06",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#5 - Chris  Marotta",
+      "assist1": "#22 - Nate  Harrison",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:32",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#29 - Randy  Foster",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:08",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#19 - Chris  Blevins",
+      "assist1": "#22 - Nate  Harrison",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#55 - Matt  Roulo",
+      "assist1": "#18 - Sean  Gallucci",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "player": "#91 - Rob  Fischer",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "player": "#12 - Brian  Dix",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:34",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "player": "#18 - Sean  Gallucci",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:18:54.598Z"
+}

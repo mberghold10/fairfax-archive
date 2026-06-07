@@ -1,0 +1,202 @@
+{
+  "gameId": "15094",
+  "date": "2022-07-07",
+  "divId": 254,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1565",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1564",
+    "name": "Anonymous"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "scorer": "#11 - Tom  Fergus",
+      "assist1": "#7 - Peter  Grose",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "scorer": "#22 - Ed  Gulakowski",
+      "assist1": "#17 - John  Kemprowski",
+      "assist2": "#15 - Mike  Hempen"
+    },
+    {
+      "period": "2",
+      "time": "00:03:48",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": "#7 - Peter  Grose",
+      "assist2": "#3 - Bill  Kang"
+    },
+    {
+      "period": "2",
+      "time": "00:07:50",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "scorer": "#15 - Mike  Hempen",
+      "assist1": "#27 - Mike  Hueple",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:46",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "scorer": "#11 - Tom  Fergus",
+      "assist1": "#5 - Eddy  Lucas",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:50",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "scorer": "#24 - Jim  Behrend",
+      "assist1": "#27 - Mike  Hueple",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:01",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "scorer": "#11 - Tom  Fergus",
+      "assist1": "#7 - Peter  Grose",
+      "assist2": "#24 - Mike  Sheridan"
+    },
+    {
+      "period": "3",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "scorer": "#7 - Peter  Grose",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "player": "#15 - Mike  Hempen",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:31",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "player": "#24 - Mike  Sheridan",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "player": "#24 - Mike  Sheridan",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "player": "#11 - Tom  Fergus",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:44",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "player": "#22 - Ed  Gulakowski",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "player": "#5 - Eddy  Lucas",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:46:09.696Z"
+}

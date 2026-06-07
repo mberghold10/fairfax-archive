@@ -1,0 +1,152 @@
+{
+  "gameId": "786",
+  "date": "2017-04-02",
+  "divId": 156,
+  "seasonName": "Winter 2016",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1002",
+    "name": "Senators"
+  },
+  "away": {
+    "teamId": "1000",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 3,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#7 - Daniel  Fleshner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:14",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#18 - Lee  Freedman",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:39",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#7 - Daniel  Fleshner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#7 - Daniel  Fleshner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:04",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#18 - Lee  Freedman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:52",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": "#9 - Paul  Morretti",
+      "assist2": "#88 - Matt  Tiede"
+    },
+    {
+      "period": "3",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#8 - Ried  Maki",
+      "assist2": "#7 - Daniel  Fleshner"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#22 - Charlie  Campbell",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:49",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:27",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#27 - Dave  Lin",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:01:13.336Z"
+}

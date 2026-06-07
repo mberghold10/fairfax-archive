@@ -1,0 +1,163 @@
+{
+  "gameId": "938",
+  "date": "2019-04-09",
+  "divId": 188,
+  "seasonName": "Winter 2018",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1197",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1198",
+    "name": "Georgetown"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1197",
+        "name": "Jacks"
+      },
+      "scorer": "#28 - Jason  Abkowitz",
+      "assist1": "#21 - Steve  Chan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1198",
+        "name": "Georgetown"
+      },
+      "scorer": "#5 - Ryan  LaDuke",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "1198",
+        "name": "Georgetown"
+      },
+      "scorer": "#23 - Lucas  Karron",
+      "assist1": "#5 - Ryan  LaDuke",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1197",
+        "name": "Jacks"
+      },
+      "scorer": "#48 - Arturas  Vovobjovas",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": "#3 - Jeff  Regan"
+    },
+    {
+      "period": "2",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1198",
+        "name": "Georgetown"
+      },
+      "scorer": "#15 - Anthony  Modica",
+      "assist1": "#90 - Trenton  Fenster",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "1198",
+        "name": "Georgetown"
+      },
+      "scorer": "#68 - Daniel  Milzman",
+      "assist1": "#90 - Trenton  Fenster",
+      "assist2": "#5 - Ryan  LaDuke"
+    },
+    {
+      "period": "3",
+      "time": "00:07:16",
+      "team": {
+        "teamId": "1198",
+        "name": "Georgetown"
+      },
+      "scorer": "#77 - Julia  Karron",
+      "assist1": "#67 - Steven  Pineda",
+      "assist2": "#27 - Daniel  Chapman"
+    },
+    {
+      "period": "3",
+      "time": "00:14:39",
+      "team": {
+        "teamId": "1198",
+        "name": "Georgetown"
+      },
+      "scorer": "#90 - Trenton  Fenster",
+      "assist1": "#77 - Julia  Karron",
+      "assist2": "#3 - Alex  Oster"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:15",
+      "team": {
+        "teamId": "1198",
+        "name": "Georgetown"
+      },
+      "player": "#23 - Lucas  Karron",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1198",
+        "name": "Georgetown"
+      },
+      "player": "#64 - Andrew  Nellestein",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1198",
+        "name": "Georgetown"
+      },
+      "player": "#15 - Anthony  Modica",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:40:39.239Z"
+}

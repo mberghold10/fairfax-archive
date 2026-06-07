@@ -1,0 +1,71 @@
+{
+  "gameId": "12000",
+  "date": "2018-09-16",
+  "divId": 187,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1193",
+    "name": "Steamed Crabs"
+  },
+  "away": {
+    "teamId": "1194",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1194",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#17 - Justin  Cade",
+      "assist1": "#18 - Lee  Freedman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "1193",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#13 - Charlie  Ashley",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:18:05",
+      "team": {
+        "teamId": "1194",
+        "name": "Blue Dogs"
+      },
+      "player": "#27 - Tim  Witkiewicz",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:39:49.081Z"
+}

@@ -1,0 +1,130 @@
+{
+  "gameId": "11022",
+  "date": "2017-10-19",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1098",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1095",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "scorer": "#28 - Geoff  Storchan",
+      "assist1": "#25 - Jeff  Wojtala",
+      "assist2": "#81 - Chris  Holden"
+    },
+    {
+      "period": "2",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": "#44 - Mick  Ellsworth",
+      "assist2": "#28 - Alex  Henry"
+    },
+    {
+      "period": "2",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "scorer": "#13 - Bob  Seal",
+      "assist1": "#23 - Rick  Gorgone",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:03",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#44 - Mick  Ellsworth",
+      "assist1": "#49 - Greg  Mullen",
+      "assist2": "#12 - Paul  Zalocha"
+    },
+    {
+      "period": "4",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#12 - Paul  Zalocha",
+      "assist1": "# -",
+      "assist2": "#8 - Jason  Eister"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:07:58",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "player": "#15 - Mark  Rudnicki",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "player": "#12 - Paul  Zalocha",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:37",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:19:41.155Z"
+}

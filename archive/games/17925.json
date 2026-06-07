@@ -1,0 +1,130 @@
+{
+  "gameId": "17925",
+  "date": "2025-03-30",
+  "divId": 303,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1864",
+    "name": "Bottle Caps"
+  },
+  "away": {
+    "teamId": "1860",
+    "name": "Junkyard Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#81 - David  Culverhouse",
+      "assist1": "#34 - William  Happ",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:25",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#6 - Andy  Lindsey",
+      "assist1": "#88 - Afshawn  Towfighi",
+      "assist2": "#1 - Thomas  Newberg"
+    },
+    {
+      "period": "2",
+      "time": "00:03:02",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#34 - William  Happ",
+      "assist1": "#81 - David  Culverhouse",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:16",
+      "team": {
+        "teamId": "1860",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#77 - Jeff  Wilken",
+      "assist1": "#41 - Alessio  Evangelista",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:04",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#81 - David  Culverhouse",
+      "assist1": "#42 - Julian  Stapleton",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1860",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#92 - Daniel  Horner",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:09",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "player": "#7 - Vadim  Sokolov",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "player": "#8 - Timothy  Lo",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:41:16.982Z"
+}

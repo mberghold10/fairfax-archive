@@ -1,0 +1,154 @@
+{
+  "gameId": "12725",
+  "date": "2019-06-19",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1264",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1266",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:17",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#13 - Mike  Carew",
+      "assist1": "#71 - Colin  Shin",
+      "assist2": "#9 - Sam  Ziesler"
+    },
+    {
+      "period": "1",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:52",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "scorer": "#14 - Royce  Walters",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:56",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#9 - Sam  Ziesler",
+      "assist1": "#8 - Jeff  Meyer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#4 - Bruce  Baltas",
+      "assist1": "#9 - Sam  Ziesler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#9 - Sam  Ziesler",
+      "assist1": "#6 - David  Dechslein",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#18 - Sean  Gallucci",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:32",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:45",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#6 - David  Dechslein",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:21",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#550 - Bill  MacIntyre",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:53:30.227Z"
+}

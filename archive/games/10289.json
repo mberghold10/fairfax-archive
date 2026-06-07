@@ -1,0 +1,256 @@
+{
+  "gameId": "10289",
+  "date": "2017-02-14",
+  "divId": 156,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1003",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1002",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#23 - Dick  Deitos",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "scorer": "#89 - Frank  Congel",
+      "assist1": "#33 - Lee  Morgan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:12",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#57 - Howard  Uman",
+      "assist1": "#37 - Nick  Desport",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:40",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:02",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "scorer": "#89 - Frank  Congel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:44",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "player": "#89 - Frank  Congel",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#71 - Dan  Pol",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:29",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#22 - Charlie  Campbell",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:12",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#5 - Alex  Talalayevsky",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:28",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "player": "#89 - Frank  Congel",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:44",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:04",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "player": "#17 - John  Wallace",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#52 - Alan  Dappen",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:00:53.607Z"
+}

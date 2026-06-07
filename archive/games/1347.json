@@ -1,0 +1,204 @@
+{
+  "gameId": "1347",
+  "date": "2023-10-22",
+  "divId": 274,
+  "seasonName": "Summer 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1691",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1690",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:55",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#88 - Jason  Searight",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:54",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#98 - Jeff  Bender",
+      "assist1": "#96 - Jeff  Moore",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:14",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#9 - Alex  Mench",
+      "assist1": "#98 - Jeff  Bender",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:40",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "scorer": "#71 - Matthew  Robertson",
+      "assist1": "#21 - Brendan  Williams",
+      "assist2": "#2 - Jennifer  Grotpeter"
+    },
+    {
+      "period": "3",
+      "time": "00:04:12",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "scorer": "#27 - Michael  Fine",
+      "assist1": "#71 - Matthew  Robertson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "scorer": "#27 - Michael  Fine",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:05",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#5 - Mike  Fottrell",
+      "assist1": "#74 - Matt  Santos",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#7 - Graham  Eddy",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:43",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#4 - Rob  Ryan",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:01",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "player": "#31 - Zach  Furness",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:40",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "player": "#5 - Zachary  Graber",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:28",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#88 - Jason  Searight",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:17",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "player": "#31 - Zach  Furness",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:17",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#96 - Jeff  Moore",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:10:46.212Z"
+}

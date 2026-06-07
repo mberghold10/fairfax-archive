@@ -1,0 +1,97 @@
+{
+  "gameId": "13258",
+  "date": "2019-10-20",
+  "divId": 210,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1326",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1327",
+    "name": "Whalers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:10:12",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "scorer": "#55 - Joel  Whitney",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:53",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "scorer": "#67 - Sean  Ritter",
+      "assist1": "#2 - Steve  Sondheimer",
+      "assist2": "#55 - Joel  Whitney"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:01",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "player": "#87 - Stan  Kolodin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:11",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "player": "#8 - Peter  Lee",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:06:06.719Z"
+}

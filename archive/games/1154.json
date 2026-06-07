@@ -1,0 +1,271 @@
+{
+  "gameId": "1154",
+  "date": "2021-10-18",
+  "divId": 232,
+  "seasonName": "Summer 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1452",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1447",
+    "name": "Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:33",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": "#19 - Brian  Mehnert",
+      "assist2": "#70 - Bill  Motzko"
+    },
+    {
+      "period": "1",
+      "time": "00:07:52",
+      "team": {
+        "teamId": "1452",
+        "name": "Chiefs"
+      },
+      "scorer": "#15 - David  Eyre",
+      "assist1": "#55 - Scott  Dullea",
+      "assist2": "#57 - Jack  Conlin"
+    },
+    {
+      "period": "2",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "scorer": "#21 - Brian  Dutton",
+      "assist1": "#1 - Matt  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:50",
+      "team": {
+        "teamId": "1452",
+        "name": "Chiefs"
+      },
+      "scorer": "#57 - Jack  Conlin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:02",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "scorer": "#21 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:27",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "player": "#27 - Dave  Lin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "player": "#21 - Brian  Dutton",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "player": "#21 - Brian  Dutton",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:17",
+      "team": {
+        "teamId": "1452",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:01",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "player": "#27 - Dave  Lin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1452",
+        "name": "Chiefs"
+      },
+      "player": "#12 - Chris  Yoko",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:25",
+      "team": {
+        "teamId": "1452",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:25",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "player": "#21 - Brian  Dutton",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:48",
+      "team": {
+        "teamId": "1452",
+        "name": "Chiefs"
+      },
+      "player": "#15 - David  Eyre",
+      "pim": 2,
+      "offense": "head contact",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:48",
+      "team": {
+        "teamId": "1452",
+        "name": "Chiefs"
+      },
+      "player": "# -",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:56",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "player": "#24 - Mike  Duell",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:19",
+      "team": {
+        "teamId": "1452",
+        "name": "Chiefs"
+      },
+      "player": "#17 - Maxim  Rinaldi",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:26",
+      "team": {
+        "teamId": "1452",
+        "name": "Chiefs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:25:21.843Z"
+}

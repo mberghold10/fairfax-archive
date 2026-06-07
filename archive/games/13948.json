@@ -1,0 +1,165 @@
+{
+  "gameId": "13948",
+  "date": "2021-03-21",
+  "divId": 230,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1440",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1439",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "1440",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#1 - Ted  Martin",
+      "assist1": "#14 - Andrew  Prather",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:32",
+      "team": {
+        "teamId": "1440",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#44 - George  Cernica",
+      "assist1": "#38 - Keith  Forsythe",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "scorer": "#86 - Pat  McMahon",
+      "assist1": "#92 - Ryan  Vanden Heuvel",
+      "assist2": "#29 - James  Kim"
+    },
+    {
+      "period": "2",
+      "time": "00:07:38",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "scorer": "#20 - Brendan  Furness",
+      "assist1": "#36 - Mo  Efimba",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:50",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "scorer": "#23 - Eric  Vanhove",
+      "assist1": "#29 - James  Kim",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:56",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "scorer": "#92 - Ryan  Vanden Heuvel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:00",
+      "team": {
+        "teamId": "1440",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#11 - Frank  Otto",
+      "assist1": "#98 - Jeff  Bender",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:17:50",
+      "team": {
+        "teamId": "1440",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:30",
+      "team": {
+        "teamId": "1440",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#11 - Frank  Otto",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:08",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "player": "#86 - Pat  McMahon",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:23:31.423Z"
+}

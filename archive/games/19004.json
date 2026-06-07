@@ -1,0 +1,60 @@
+{
+  "gameId": "19004",
+  "date": "2026-05-04",
+  "divId": 324,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1990",
+    "name": "Bottle Caps"
+  },
+  "away": {
+    "teamId": "1989",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "1989",
+        "name": "Lightning"
+      },
+      "scorer": "#24 - Mike  Plourde",
+      "assist1": "#11 - Mark  Boyd",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:03:39",
+      "team": {
+        "teamId": "1989",
+        "name": "Lightning"
+      },
+      "player": "#24 - Mike  Plourde",
+      "pim": 2,
+      "offense": "Tripping",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:03:48.588Z"
+}

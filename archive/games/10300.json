@@ -1,0 +1,115 @@
+{
+  "gameId": "10300",
+  "date": "2017-01-29",
+  "divId": 157,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1008",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1010",
+    "name": "Blackhawks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:25",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#41 - Tony  Gorney",
+      "assist1": "#9 - Steve  Potter",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:38",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#21 - Jerry  Achatz",
+      "assist1": "#9 - Steve  Potter",
+      "assist2": "#41 - Tony  Gorney"
+    },
+    {
+      "period": "2",
+      "time": "00:12:18",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#41 - Tony  Gorney",
+      "assist1": "#9 - Steve  Potter",
+      "assist2": "#21 - Jerry  Achatz"
+    },
+    {
+      "period": "3",
+      "time": "00:03:52",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "scorer": "#75 - Jeff  Koka",
+      "assist1": "#25 - Jamie  Prime",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:57",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#9 - Steve  Potter",
+      "assist1": "#41 - Tony  Gorney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:01",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "scorer": "#75 - Jeff  Koka",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:35",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "player": "#74 - Eric  Peterson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:02:03.188Z"
+}

@@ -1,0 +1,156 @@
+{
+  "gameId": "10216",
+  "date": "2016-12-03",
+  "divId": 157,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1008",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1006",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#21 - Jerry  Achatz",
+      "assist1": "#41 - Tony  Gorney",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:58",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "scorer": "#15 - Sean  Maniuszko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#21 - Jerry  Achatz",
+      "assist1": "#41 - Tony  Gorney",
+      "assist2": "#4 - Mark  Bunal"
+    },
+    {
+      "period": "2",
+      "time": "00:10:11",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#0 - Trey  Perrone",
+      "assist1": "#42 - Mac  Johnson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "scorer": "#18 - John  Boland",
+      "assist1": "#14 - Samuel  Marchio",
+      "assist2": "#15 - Sean  Maniuszko"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "player": "#21 - Jerry  Achatz",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "player": "#93 - Patrick  Gage",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "player": "#43 - Mike  Barnes",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "player": "#9 - Steve  Potter",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "player": "#21 - Jerry  Achatz",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:01:46.207Z"
+}

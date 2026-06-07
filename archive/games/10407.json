@@ -1,0 +1,60 @@
+{
+  "gameId": "10407",
+  "date": "2017-03-13",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1019",
+    "name": "Turtle Power"
+  },
+  "away": {
+    "teamId": "1022",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1022",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#66 - Neil  Shoults",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:42",
+      "team": {
+        "teamId": "1022",
+        "name": "Blue Crabs"
+      },
+      "player": "#22 - Joseph  Ney",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:05:10.193Z"
+}

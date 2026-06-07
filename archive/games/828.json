@@ -1,0 +1,163 @@
+{
+  "gameId": "828",
+  "date": "2017-09-16",
+  "divId": 164,
+  "seasonName": "Summer 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1049",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1053",
+    "name": "Hooligans"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:52",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": "#93 - Rob  Cheron",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#79 - Jeff  Vandenberghe",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": "#22 - Amir  Tahami",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:58",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "scorer": "#93 - Rob  Cheron",
+      "assist1": "#28 - Doug  Branton",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "scorer": "#91 - Ken  Degrave",
+      "assist1": "#9 - Joe  Tierney",
+      "assist2": "#71 - Mark  Saucer"
+    },
+    {
+      "period": "2",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#20 - Paul  Flood",
+      "assist1": "#77 - Jeff  Wilken",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:28",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#20 - Paul  Flood",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:01",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#7 - Daniel  Fleshner",
+      "assist2": "#79 - Jeff  Vandenberghe"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "player": "#0 - Ruben  Garcia",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:04",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "player": "#21 - Jeff  Chistolini",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:11:25.744Z"
+}

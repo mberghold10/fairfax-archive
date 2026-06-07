@@ -1,0 +1,134 @@
+{
+  "gameId": "14827",
+  "date": "2022-02-26",
+  "divId": 248,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1533",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1534",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "1534",
+        "name": "Red Wings"
+      },
+      "scorer": "#74 - David  Urlwin",
+      "assist1": "#18 - Russ  Smith",
+      "assist2": "#25 - James  Chu"
+    },
+    {
+      "period": "3",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1534",
+        "name": "Red Wings"
+      },
+      "scorer": "#29 - Regina  Hart",
+      "assist1": "#74 - David  Urlwin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1533",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#77 - Jeff  Wilken",
+      "assist1": "#41 - Alessio  Evangelista",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1533",
+        "name": "Blue Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:15:35",
+      "team": {
+        "teamId": "1534",
+        "name": "Red Wings"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:09",
+      "team": {
+        "teamId": "1533",
+        "name": "Blue Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1533",
+        "name": "Blue Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "1534",
+        "name": "Red Wings"
+      },
+      "player": "#19 - Gus  Anderson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:39:11.403Z"
+}

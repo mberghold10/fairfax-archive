@@ -1,0 +1,150 @@
+{
+  "gameId": "14775",
+  "date": "2022-04-07",
+  "divId": 246,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1521",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1518",
+    "name": "Anonymous"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:29",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "scorer": "#15 - Mark  Rudnicki",
+      "assist1": "#13 - Bob  Seal",
+      "assist2": "#23 - Rick  Gorgone"
+    },
+    {
+      "period": "1",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "scorer": "#25 - Jeff  Wojtala",
+      "assist1": "#11 - Darren  Wellner",
+      "assist2": "#15 - Mark  Rudnicki"
+    },
+    {
+      "period": "2",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "scorer": "#64 - Joe  Trahey",
+      "assist1": "#13 - Bob  Seal",
+      "assist2": "#15 - Mark  Rudnicki"
+    },
+    {
+      "period": "2",
+      "time": "00:05:08",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "scorer": "#24 - Max  Alexeev",
+      "assist1": "#13 - Bob  Seal",
+      "assist2": "#64 - Joe  Trahey"
+    },
+    {
+      "period": "2",
+      "time": "00:08:01",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "scorer": "#20 - Brent  Jefferson",
+      "assist1": "#15 - Mark  Rudnicki",
+      "assist2": "#64 - Joe  Trahey"
+    },
+    {
+      "period": "3",
+      "time": "00:02:28",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "scorer": "#11 - Darren  Wellner",
+      "assist1": "#64 - Joe  Trahey",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:46",
+      "team": {
+        "teamId": "1518",
+        "name": "Anonymous"
+      },
+      "scorer": "#8 - Chris  White",
+      "assist1": "#42 - Jeff  Lovett",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:47",
+      "team": {
+        "teamId": "1518",
+        "name": "Anonymous"
+      },
+      "scorer": "#4 - Peter  van Aartrijk",
+      "assist1": "#8 - Chris  White",
+      "assist2": "#7 - Peter  Grose"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "player": "#55 - Tim  Dutcher",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1518",
+        "name": "Anonymous"
+      },
+      "player": "#15 - Bob  Guckian",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:37:15.105Z"
+}

@@ -1,0 +1,104 @@
+{
+  "gameId": "14500",
+  "date": "2021-11-24",
+  "divId": 245,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1516",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1514",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:23",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "scorer": "#33 - Sergey  Kuzentsov",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "1514",
+        "name": "Ducks"
+      },
+      "scorer": "#22 - Justin  Moriarty",
+      "assist1": "#2 - Ricki  Clark",
+      "assist2": "#5 - Chris  Marotta"
+    },
+    {
+      "period": "1",
+      "time": "00:12:48",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Jeffrey  Regan",
+      "assist1": "#2 - Tim  Commerford",
+      "assist2": "#15 - John  Cushing"
+    },
+    {
+      "period": "3",
+      "time": "00:14:36",
+      "team": {
+        "teamId": "1514",
+        "name": "Ducks"
+      },
+      "scorer": "#2 - Ricki  Clark",
+      "assist1": "#13 - Brian  Patterson",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#3 - Jeffrey  Regan",
+      "assist2": "#2 - Tim  Commerford"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:48",
+      "team": {
+        "teamId": "1514",
+        "name": "Ducks"
+      },
+      "player": "#18 - Sean  Gallucci",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:35:13.615Z"
+}

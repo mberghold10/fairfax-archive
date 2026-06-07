@@ -1,0 +1,152 @@
+{
+  "gameId": "10334",
+  "date": "2017-01-22",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1022",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1023",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:28",
+      "team": {
+        "teamId": "1022",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#5 - Lucas  Streng",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": "#6 - Bob  Friess"
+    },
+    {
+      "period": "1",
+      "time": "00:13:42",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#99 - Jon  Davoren",
+      "assist1": "#18 - Pete  Poczatek",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:25",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#44 - John  Dandeneau",
+      "assist2": "#35 - Ross  Kuhn"
+    },
+    {
+      "period": "2",
+      "time": "00:03:45",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#77 - Caleb  Sohl",
+      "assist1": "#44 - John  Dandeneau",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:06",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#4 - Pete  Van Aartrijk",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:19",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": "#12 - Jason  Wakeman",
+      "assist2": "#35 - Ross  Kuhn"
+    },
+    {
+      "period": "3",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:02",
+      "team": {
+        "teamId": "1022",
+        "name": "Blue Crabs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:27",
+      "team": {
+        "teamId": "1022",
+        "name": "Blue Crabs"
+      },
+      "player": "#42 - Adam  Russell",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1022",
+        "name": "Blue Crabs"
+      },
+      "player": "#66 - Neil  Shoults",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:04:50.335Z"
+}

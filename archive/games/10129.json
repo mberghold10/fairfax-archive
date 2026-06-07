@@ -1,0 +1,130 @@
+{
+  "gameId": "10129",
+  "date": "2016-12-05",
+  "divId": 158,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1015",
+    "name": "Bulldogs"
+  },
+  "away": {
+    "teamId": "1014",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "scorer": "#88 - Brian  Ray",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "scorer": "#21 - Jim  Callow",
+      "assist1": "#87 - Nate  Morello",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "scorer": "#87 - Nate  Morello",
+      "assist1": "#80 - Matt  Rogers",
+      "assist2": "#91 - Chris  Callanan"
+    },
+    {
+      "period": "3",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#90 - Shawn  McEvoy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "scorer": "#44 - Marc  LaFortune",
+      "assist1": "#80 - Matt  Rogers",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:48",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "player": "#19 - Jon  Forrester",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "player": "#91 - Chris  Callanan",
+      "pim": 2,
+      "offense": "board",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "player": "#73 - Joshua  Schmand",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:03:07.010Z"
+}

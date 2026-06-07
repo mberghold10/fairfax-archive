@@ -1,0 +1,115 @@
+{
+  "gameId": "13422",
+  "date": "2019-11-21",
+  "divId": 214,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1351",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1350",
+    "name": "Flying Circus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "1351",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": "#98 - Matt  Criscuolo",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:02",
+      "team": {
+        "teamId": "1351",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Peter  Poczatek",
+      "assist1": "#44 - Greg  Powers",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:51",
+      "team": {
+        "teamId": "1351",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#12 - Jason  Wakeman",
+      "assist2": "#7 - Ed  Weiner"
+    },
+    {
+      "period": "2",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "1351",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Peter  Poczatek",
+      "assist1": "#98 - Matt  Criscuolo",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1351",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Peter  Poczatek",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "1350",
+        "name": "Flying Circus"
+      },
+      "scorer": "#10 - Chris  Ferragamo",
+      "assist1": "#33 - Andy  Taylor",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:39",
+      "team": {
+        "teamId": "1350",
+        "name": "Flying Circus"
+      },
+      "player": "#21 - Trevor  Wallace",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:11:13.864Z"
+}

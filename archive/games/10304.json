@@ -1,0 +1,354 @@
+{
+  "gameId": "10304",
+  "date": "2017-02-12",
+  "divId": 157,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1008",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1006",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "scorer": "#93 - Patrick  Gage",
+      "assist1": "#18 - John  Boland",
+      "assist2": "#15 - Sean  Maniuszko"
+    },
+    {
+      "period": "1",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#91 - Matt  Weeden",
+      "assist1": "#21 - Jerry  Achatz",
+      "assist2": "#7 - Bob  Harmon"
+    },
+    {
+      "period": "1",
+      "time": "00:06:16",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "scorer": "#14 - Samuel  Marchio",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#0 - Trey  Perrone",
+      "assist1": "#42 - Mac  Johnson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#41 - Tony  Gorney",
+      "assist1": "#21 - Jerry  Achatz",
+      "assist2": "#12 - Joe  Zwickl"
+    },
+    {
+      "period": "2",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#91 - Matt  Weeden",
+      "assist1": "#0 - Trey  Perrone",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:01",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "scorer": "#20 - Stephen  Arthur",
+      "assist1": "#17 - Nick  Ford",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "scorer": "#18 - John  Boland",
+      "assist1": "#93 - Patrick  Gage",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:32",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "scorer": "#7 - Mike  Hoard",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#10 - Mike  Boyajian",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:16",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "player": "#14 - Jason  Brue",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "player": "#11 - Joel  Bosch",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:02",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "player": "#19 - Jason  Young",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "player": "#20 - Stephen  Arthur",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:12",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "player": "#21 - Jerry  Achatz",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:54",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "player": "#43 - Mike  Barnes",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "player": "#42 - Mac  Johnson",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "player": "#11 - Joel  Bosch",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:08",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "player": "#43 - Mike  Barnes",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:08",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "player": "#17 - Nick  Ford",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:47",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "player": "#14 - Samuel  Marchio",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:37",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "player": "#21 - Jerry  Achatz",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "player": "#21 - Jerry  Achatz",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "player": "#91 - Matt  Weeden",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "player": "#17 - Nick  Ford",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "player": "#14 - Samuel  Marchio",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:02:08.417Z"
+}

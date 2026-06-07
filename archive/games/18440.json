@@ -1,0 +1,119 @@
+{
+  "gameId": "18440",
+  "date": "2025-11-06",
+  "divId": 316,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1933",
+    "name": "Jacks GreyBeards"
+  },
+  "away": {
+    "teamId": "1932",
+    "name": "Boston"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1932",
+        "name": "Boston"
+      },
+      "scorer": "#25 - Bob  Banasik",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:11",
+      "team": {
+        "teamId": "1932",
+        "name": "Boston"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:27",
+      "team": {
+        "teamId": "1933",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#7 - Joseph  Hull",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "1932",
+        "name": "Boston"
+      },
+      "scorer": "#91 - Rob  Fischer",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:48",
+      "team": {
+        "teamId": "1933",
+        "name": "Jacks GreyBeards"
+      },
+      "player": "#28 - Charles  Hale",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:15",
+      "team": {
+        "teamId": "1933",
+        "name": "Jacks GreyBeards"
+      },
+      "player": "#37 - Josh  Savani",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:24",
+      "team": {
+        "teamId": "1933",
+        "name": "Jacks GreyBeards"
+      },
+      "player": "#68 - Steve  Vereb",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:55:32.025Z"
+}

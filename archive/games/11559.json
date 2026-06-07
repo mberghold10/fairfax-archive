@@ -1,0 +1,215 @@
+{
+  "gameId": "11559",
+  "date": "2018-06-06",
+  "divId": 180,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1149",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1146",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "1149",
+        "name": "Ducks"
+      },
+      "scorer": "#22 - Nate  Harrison",
+      "assist1": "#8 - Jeff  Meyer",
+      "assist2": "#91 - Rob  Fischer"
+    },
+    {
+      "period": "2",
+      "time": "00:03:39",
+      "team": {
+        "teamId": "1149",
+        "name": "Ducks"
+      },
+      "scorer": "#2 - Ricki  Clark",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:40",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:22",
+      "team": {
+        "teamId": "1149",
+        "name": "Ducks"
+      },
+      "scorer": "#22 - Nate  Harrison",
+      "assist1": "#59 - John  Saluga",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1149",
+        "name": "Ducks"
+      },
+      "scorer": "#5 - Chris  Marotta",
+      "assist1": "#2 - Ricki  Clark",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:01",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#16 - Scott  Kuehn",
+      "assist2": "#8 - Brendan  Millice"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1149",
+        "name": "Ducks"
+      },
+      "player": "#10 - Bruce  McLeod",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:59",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#11 - Sam  Marchio",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "1149",
+        "name": "Ducks"
+      },
+      "player": "#22 - Nate  Harrison",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1149",
+        "name": "Ducks"
+      },
+      "player": "#59 - John  Saluga",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#18 - Samson  Chu",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:03:06",
+      "team": {
+        "teamId": "1149",
+        "name": "Ducks"
+      },
+      "player": "#10 - Bruce  McLeod",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:03:06",
+      "team": {
+        "teamId": "1149",
+        "name": "Ducks"
+      },
+      "player": "#22 - Nate  Harrison",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:30:06.387Z"
+}

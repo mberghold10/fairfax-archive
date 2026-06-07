@@ -1,0 +1,137 @@
+{
+  "gameId": "18805",
+  "date": "2026-02-12",
+  "divId": 326,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2013",
+    "name": "Black Sheep"
+  },
+  "away": {
+    "teamId": "2014",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:55",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "scorer": "#4 - Erik  Bergman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:01",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "scorer": "#55 - Scott  Dullea",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:52",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "scorer": "#12 - Brian  Booker",
+      "assist1": "#88 - Peter  Dallman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "scorer": "#55 - Scott  Dullea",
+      "assist1": "#11 - Tom  Fergus",
+      "assist2": "#3 - Bill  Kang"
+    },
+    {
+      "period": "2",
+      "time": "00:10:19",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "scorer": "#43 - Dave  Hagemeier",
+      "assist1": "#12 - Brian  Booker",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "scorer": "#88 - Peter  Dallman",
+      "assist1": "#43 - Dave  Hagemeier",
+      "assist2": "#27 - Rob  Helfant"
+    },
+    {
+      "period": "3",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#26 - Bob  Banasik",
+      "assist1": "#2 - Shawn  Hatch",
+      "assist2": "#51 - Rob  Fischer"
+    },
+    {
+      "period": "3",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "scorer": "#12 - Brian  Booker",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:05:45.189Z"
+}

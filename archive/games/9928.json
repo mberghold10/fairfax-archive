@@ -1,0 +1,108 @@
+{
+  "gameId": "9928",
+  "date": "2016-09-25",
+  "divId": 156,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1001",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1002",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#24 - Mike  Duell",
+      "assist1": "#5 - Alex  Talalayevsky",
+      "assist2": "#37 - Nick  Desport"
+    },
+    {
+      "period": "3",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": "#24 - Mike  Duell",
+      "assist2": "#5 - Alex  Talalayevsky"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:31",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:26",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#19 - Ira  Keltz",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:00:04.354Z"
+}

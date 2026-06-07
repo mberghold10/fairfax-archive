@@ -1,0 +1,149 @@
+{
+  "gameId": "13156",
+  "date": "2019-07-27",
+  "divId": 207,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1308",
+    "name": "Roughnecks"
+  },
+  "away": {
+    "teamId": "1313",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "1313",
+        "name": "Red Wings"
+      },
+      "scorer": "#10 - Owen  Schaefer",
+      "assist1": "#27 - Nick  Montfort",
+      "assist2": "#74 - David  Urlwin"
+    },
+    {
+      "period": "2",
+      "time": "00:12:30",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "scorer": "#27 - Jeremy  King",
+      "assist1": "#3 - Charlie  Beekman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "1313",
+        "name": "Red Wings"
+      },
+      "player": "#10 - Owen  Schaefer",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "player": "#27 - Jeremy  King",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:24",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "player": "#25 - Allen  Baker",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "player": "#5 - Chris  Oman",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1313",
+        "name": "Red Wings"
+      },
+      "player": "#29 - Regina  Hart",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:40",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "player": "#27 - Jeremy  King",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:03:13.829Z"
+}

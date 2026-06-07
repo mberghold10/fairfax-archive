@@ -1,0 +1,128 @@
+{
+  "gameId": "12065",
+  "date": "2018-10-06",
+  "divId": 195,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1240",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1241",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "scorer": "#9 - Rick  Cole",
+      "assist1": "#31 - Jason  Apergis",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:46",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:07",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "scorer": "#44 - Mick  Ellsworth",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:43",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "scorer": "#42 - Christian  Gibbons",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:31",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#9 - Brian  Mehnert",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:45",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "player": "#47 - Talbot  Black",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:48:27.438Z"
+}

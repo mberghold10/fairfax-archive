@@ -1,0 +1,156 @@
+{
+  "gameId": "10309",
+  "date": "2017-01-15",
+  "divId": 158,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1016",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1015",
+    "name": "Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:56",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#12 - Dan  Butala",
+      "assist1": "#11 - Mike  Dumont",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:33",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#21 - John  Kozar",
+      "assist1": "#11 - Mike  Dumont",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:09",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#23 - Ken  DeGrave",
+      "assist1": "#18 - Jeff  Rummel",
+      "assist2": "#12 - James  Bratsos"
+    },
+    {
+      "period": "3",
+      "time": "00:08:34",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#0 - Zach  Bonner",
+      "assist1": "#12 - James  Bratsos",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:12",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#28 - Jack  Wilmer",
+      "assist1": "#21 - John  Kozar",
+      "assist2": "#11 - Mike  Dumont"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:56",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "player": "#18 - Jeff  Rummel",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:24",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "player": "#18 - Jeff  Rummel",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "player": "#11 - Sam  Marchio",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:44",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "player": "#12 - James  Bratsos",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "player": "#28 - Jack  Wilmer",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:03:14.044Z"
+}

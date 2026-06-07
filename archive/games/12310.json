@@ -1,0 +1,163 @@
+{
+  "gameId": "12310",
+  "date": "2018-11-20",
+  "divId": 196,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1242",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1245",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:04",
+      "team": {
+        "teamId": "1242",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:33",
+      "team": {
+        "teamId": "1242",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#47 - Jeff  Urlwin",
+      "assist1": "#1 - Chris  Beach",
+      "assist2": "#13 - Trevor  Wallace"
+    },
+    {
+      "period": "1",
+      "time": "00:14:46",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#15 - Tom  Sgroi",
+      "assist1": "#8 - Bob  Shay",
+      "assist2": "#22 - Charlie  Campbell"
+    },
+    {
+      "period": "2",
+      "time": "00:01:41",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "1242",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#47 - Jeff  Urlwin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:43",
+      "team": {
+        "teamId": "1242",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#49 - Romano  Dickerson",
+      "assist1": "#22 - Jimmy  Nguyen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#34 - Marty  Gryski",
+      "assist1": "#27 - Dave  Lin",
+      "assist2": "#8 - Bob  Shay"
+    },
+    {
+      "period": "3",
+      "time": "00:07:16",
+      "team": {
+        "teamId": "1242",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#22 - Jimmy  Nguyen",
+      "assist1": "#47 - Jeff  Urlwin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:08",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "player": "#8 - Bob  Shay",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "player": "#5 - Alex  Talalayevsky",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1242",
+        "name": "Maple Leafs"
+      },
+      "player": "#47 - Jeff  Urlwin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:50:13.102Z"
+}

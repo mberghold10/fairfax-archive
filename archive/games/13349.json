@@ -1,0 +1,156 @@
+{
+  "gameId": "13349",
+  "date": "2019-11-24",
+  "divId": 211,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1335",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1333",
+    "name": "River Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:32",
+      "team": {
+        "teamId": "1333",
+        "name": "River Rats"
+      },
+      "scorer": "#12 - William  Howe",
+      "assist1": "#2 - Tom  Keith",
+      "assist2": "#9 - Matt  Glassman"
+    },
+    {
+      "period": "2",
+      "time": "00:03:36",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#34 - Cameron  Wilson",
+      "assist1": "#21 - Joshua  Vichness",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:24",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#21 - Joshua  Vichness",
+      "assist1": "#28 - Ed  Holleran",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:44",
+      "team": {
+        "teamId": "1333",
+        "name": "River Rats"
+      },
+      "scorer": "#9 - Matt  Glassman",
+      "assist1": "#47 - Rob  Schumann",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": "#21 - Joshua  Vichness",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:02",
+      "team": {
+        "teamId": "1333",
+        "name": "River Rats"
+      },
+      "player": "#88 - John  Jepson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:59",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#24 - Brian  Davis",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:48",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#9 - Greg  Sibley",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:14",
+      "team": {
+        "teamId": "1333",
+        "name": "River Rats"
+      },
+      "player": "#47 - Rob  Schumann",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:41",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#24 - Brian  Davis",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:07:36.228Z"
+}

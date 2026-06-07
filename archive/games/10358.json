@@ -1,0 +1,115 @@
+{
+  "gameId": "10358",
+  "date": "2017-02-18",
+  "divId": 160,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1029",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1028",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#88 - Jason  Searight",
+      "assist1": "#28 - Michael  Berghold",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:15:46",
+      "team": {
+        "teamId": "1029",
+        "name": "Red Wings"
+      },
+      "scorer": "#69 - Chris  Maroon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1029",
+        "name": "Red Wings"
+      },
+      "scorer": "#69 - Chris  Maroon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:16:42",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#19 - Nick  Adamonis",
+      "assist1": "#87 - James  Page",
+      "assist2": "#44 - George  Cernica"
+    },
+    {
+      "period": "3",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "1029",
+        "name": "Red Wings"
+      },
+      "scorer": "#69 - Chris  Maroon",
+      "assist1": "#2 - JP  Gardner",
+      "assist2": "#15 - Mike  Gibson"
+    },
+    {
+      "period": "3",
+      "time": "00:06:11",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#28 - Michael  Berghold",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "1029",
+        "name": "Red Wings"
+      },
+      "player": "#39 - John  Martinez",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:43:24.916Z"
+}

@@ -1,0 +1,152 @@
+{
+  "gameId": "14688",
+  "date": "2022-01-22",
+  "divId": 244,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1511",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1510",
+    "name": "Triassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "1510",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#8 - Brian  Compagnone",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:47",
+      "team": {
+        "teamId": "1511",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#27 - Jamie  Prime",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:56",
+      "team": {
+        "teamId": "1510",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": "#89 - Brandon  Barhorst",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:39",
+      "team": {
+        "teamId": "1511",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#27 - Jamie  Prime",
+      "assist1": "#11 - Josh  Gilman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:06",
+      "team": {
+        "teamId": "1510",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#27 - Herbert  Huser",
+      "assist1": "#3 - Justin  Carpenter",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "1511",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#74 - Eric  Peterson",
+      "assist1": "#11 - Josh  Gilman",
+      "assist2": "#27 - Jamie  Prime"
+    },
+    {
+      "period": "4",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1510",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#10 - John  Foley",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:04",
+      "team": {
+        "teamId": "1511",
+        "name": "Blackskimmers"
+      },
+      "player": "#22 - Adam  Bacon",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "1511",
+        "name": "Blackskimmers"
+      },
+      "player": "#11 - Josh  Gilman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:13",
+      "team": {
+        "teamId": "1510",
+        "name": "Triassic Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:34:25.392Z"
+}

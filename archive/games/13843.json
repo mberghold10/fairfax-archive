@@ -1,0 +1,108 @@
+{
+  "gameId": "13843",
+  "date": "2020-10-25",
+  "divId": 222,
+  "seasonName": "Fall 2020",
+  "mode": "regular",
+  "home": {
+    "teamId": "1393",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1391",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:54",
+      "team": {
+        "teamId": "1391",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#9 - Ken  Fritzke",
+      "assist2": "#12 - Jason  Wakeman"
+    },
+    {
+      "period": "2",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1391",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": "#10 - Mike  Brahmey",
+      "assist2": "#34 - Jim  Morgan"
+    },
+    {
+      "period": "3",
+      "time": "00:10:24",
+      "team": {
+        "teamId": "1393",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#0 - Ron  Szatmary",
+      "assist2": "#13 - Mike  Carew"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:54",
+      "team": {
+        "teamId": "1391",
+        "name": "Team USA"
+      },
+      "player": "#25 - Stan  Torgovitsky",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "1391",
+        "name": "Team USA"
+      },
+      "player": "#23 - Mike  OBrien",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:09",
+      "team": {
+        "teamId": "1391",
+        "name": "Team USA"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:17:40.465Z"
+}

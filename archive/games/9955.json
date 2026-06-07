@@ -1,0 +1,130 @@
+{
+  "gameId": "9955",
+  "date": "2016-10-03",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1022",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1023",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:28",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#7 - Dan  Miller",
+      "assist1": "#43 - Alex  Utano",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:38",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#4 - Pete  Van Aartrijk",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#5 - Chris  Weipert",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1022",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#5 - Lucas  Streng",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:30",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#4 - Pete  Van Aartrijk",
+      "assist1": "#24 - Thomas  OConnor",
+      "assist2": "#18 - Pete  Poczatek"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:26",
+      "team": {
+        "teamId": "1022",
+        "name": "Blue Crabs"
+      },
+      "player": "#6 - Bob  Friess",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:54",
+      "team": {
+        "teamId": "1022",
+        "name": "Blue Crabs"
+      },
+      "player": "#5 - Lucas  Streng",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:44",
+      "team": {
+        "teamId": "1022",
+        "name": "Blue Crabs"
+      },
+      "player": "#16 - Nurali  Jamani",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:03:57.031Z"
+}

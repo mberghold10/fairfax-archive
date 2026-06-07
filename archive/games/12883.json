@@ -1,0 +1,156 @@
+{
+  "gameId": "12883",
+  "date": "2019-05-27",
+  "divId": 206,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1303",
+    "name": "Steamed Crabs"
+  },
+  "away": {
+    "teamId": "1306",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:33",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "scorer": "#5 - Sam  Bryce",
+      "assist1": "#34 - Cameron  Wilson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:57",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#61 - Jake  Middel",
+      "assist1": "#43 - Steve  Sincavage",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:32",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "scorer": "#42 - David  Hagemeier",
+      "assist1": "#4 - Josiah  Renton",
+      "assist2": "#68 - Matt  Taylor"
+    },
+    {
+      "period": "3",
+      "time": "00:03:31",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "scorer": "#95 - Mick  Starego",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "scorer": "#12 - Scott  Borders",
+      "assist1": "#11 - Emma  Alperin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:07",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "player": "#43 - Steve  Sincavage",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "player": "#5 - Sam  Bryce",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "player": "#19 - Angelo  Ponirakis",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "player": "#19 - Angelo  Ponirakis",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:39",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "player": "#34 - Cameron  Wilson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:01:38.423Z"
+}

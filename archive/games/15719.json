@@ -1,0 +1,200 @@
+{
+  "gameId": "15719",
+  "date": "2023-04-02",
+  "divId": 261,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1607",
+    "name": "Toronto"
+  },
+  "away": {
+    "teamId": "1606",
+    "name": "Bottle Caps"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:46",
+      "team": {
+        "teamId": "1607",
+        "name": "Toronto"
+      },
+      "scorer": "#32 - Brian  Freeman",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:37",
+      "team": {
+        "teamId": "1606",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#5 - Stan  Doerrer",
+      "assist1": "#7 - Vadim  Sokolov",
+      "assist2": "#18 - Jeffrey  Bernasconi"
+    },
+    {
+      "period": "1",
+      "time": "00:05:05",
+      "team": {
+        "teamId": "1606",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#83 - Michael  Milazzo",
+      "assist1": "#17 - Marc  Patience",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "1607",
+        "name": "Toronto"
+      },
+      "scorer": "#470 - Jeff  Urlwin",
+      "assist1": "#32 - Brian  Freeman",
+      "assist2": "#61 - Chris  Holbert"
+    },
+    {
+      "period": "2",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1607",
+        "name": "Toronto"
+      },
+      "scorer": "#49 - Romano  Dickerson",
+      "assist1": "#470 - Jeff  Urlwin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:07",
+      "team": {
+        "teamId": "1607",
+        "name": "Toronto"
+      },
+      "scorer": "#28 - Harry  Nicholakos",
+      "assist1": "#470 - Jeff  Urlwin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:36",
+      "team": {
+        "teamId": "1607",
+        "name": "Toronto"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1607",
+        "name": "Toronto"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:01",
+      "team": {
+        "teamId": "1606",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#19 - Colin  Bartlett",
+      "assist1": "#83 - Michael  Milazzo",
+      "assist2": "#17 - Marc  Patience"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1606",
+        "name": "Bottle Caps"
+      },
+      "player": "#19 - Colin  Bartlett",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:01",
+      "team": {
+        "teamId": "1607",
+        "name": "Toronto"
+      },
+      "player": "#32 - Brian  Freeman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:48",
+      "team": {
+        "teamId": "1606",
+        "name": "Bottle Caps"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:36",
+      "team": {
+        "teamId": "1607",
+        "name": "Toronto"
+      },
+      "player": "#44 - Jim  McGovern",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:18",
+      "team": {
+        "teamId": "1606",
+        "name": "Bottle Caps"
+      },
+      "player": "#34 - William  Happ",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:54:54.704Z"
+}

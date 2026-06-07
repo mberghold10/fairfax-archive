@@ -1,0 +1,224 @@
+{
+  "gameId": "1273",
+  "date": "2023-05-02",
+  "divId": 258,
+  "seasonName": "Winter 2022",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1588",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1587",
+    "name": "4th Liners"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:24",
+      "team": {
+        "teamId": "1588",
+        "name": "Englewood"
+      },
+      "scorer": "#5 - Jonathon  Didas",
+      "assist1": "#19 - Ryan  Galluzzo",
+      "assist2": "#20 - Halden  Smith"
+    },
+    {
+      "period": "1",
+      "time": "00:07:08",
+      "team": {
+        "teamId": "1588",
+        "name": "Englewood"
+      },
+      "scorer": "#28 - Charles  Hale",
+      "assist1": "#5 - Jonathon  Didas",
+      "assist2": "#19 - Ryan  Galluzzo"
+    },
+    {
+      "period": "2",
+      "time": "00:06:13",
+      "team": {
+        "teamId": "1587",
+        "name": "4th Liners"
+      },
+      "scorer": "#26 - Patrick  Giesecke",
+      "assist1": "#14 - Alex  Bronson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "1587",
+        "name": "4th Liners"
+      },
+      "scorer": "#26 - Patrick  Giesecke",
+      "assist1": "#18 - Julia  Bronson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1587",
+        "name": "4th Liners"
+      },
+      "scorer": "#32 - Justin  Baker",
+      "assist1": "#26 - Patrick  Giesecke",
+      "assist2": "#14 - Alex  Bronson"
+    },
+    {
+      "period": "3",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1587",
+        "name": "4th Liners"
+      },
+      "scorer": "#17 - Andrew  Golomb",
+      "assist1": "#14 - Alex  Bronson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:02",
+      "team": {
+        "teamId": "1587",
+        "name": "4th Liners"
+      },
+      "scorer": "#32 - Justin  Baker",
+      "assist1": "#26 - Patrick  Giesecke",
+      "assist2": "#14 - Alex  Bronson"
+    },
+    {
+      "period": "3",
+      "time": "00:07:07",
+      "team": {
+        "teamId": "1588",
+        "name": "Englewood"
+      },
+      "scorer": "#20 - Halden  Smith",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:45",
+      "team": {
+        "teamId": "1587",
+        "name": "4th Liners"
+      },
+      "scorer": "#32 - Justin  Baker",
+      "assist1": "#26 - Patrick  Giesecke",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:31",
+      "team": {
+        "teamId": "1588",
+        "name": "Englewood"
+      },
+      "scorer": "#20 - Halden  Smith",
+      "assist1": "#14 - Dennis  Nayandin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:25",
+      "team": {
+        "teamId": "1587",
+        "name": "4th Liners"
+      },
+      "player": "#8 - John  Jepson",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:53",
+      "team": {
+        "teamId": "1587",
+        "name": "4th Liners"
+      },
+      "player": "#28 - Jonathan  Vu",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:27",
+      "team": {
+        "teamId": "1588",
+        "name": "Englewood"
+      },
+      "player": "#2 - Jason  Abkowitz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:31",
+      "team": {
+        "teamId": "1587",
+        "name": "4th Liners"
+      },
+      "player": "#14 - Alex  Bronson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:52",
+      "team": {
+        "teamId": "1588",
+        "name": "Englewood"
+      },
+      "player": "#5 - Jonathon  Didas",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1587",
+        "name": "4th Liners"
+      },
+      "player": "#18 - Julia  Bronson",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:50:55.414Z"
+}

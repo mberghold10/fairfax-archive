@@ -1,0 +1,99 @@
+{
+  "gameId": "18384",
+  "date": "2025-11-09",
+  "divId": 318,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1948",
+    "name": "Mesozoic Pucks"
+  },
+  "away": {
+    "teamId": "1950",
+    "name": "Hershey Beers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:15:00",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#8 - Tim  Lo",
+      "assist1": "#96 - Billy  Tauzin",
+      "assist2": "#92 - Jeffrey  Rendler"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:51",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "player": "#43 - James J Kim",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:02",
+      "team": {
+        "teamId": "1948",
+        "name": "Mesozoic Pucks"
+      },
+      "player": "#14 - George  Stocker",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:02",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "player": "#54 - Scott  Knisley",
+      "pim": 2,
+      "offense": "Hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "player": "#8 - Tim  Lo",
+      "pim": 2,
+      "offense": "High Stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:57:47.820Z"
+}

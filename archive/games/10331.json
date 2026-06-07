@@ -1,0 +1,130 @@
+{
+  "gameId": "10331",
+  "date": "2017-01-20",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1017",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1020",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:06",
+      "team": {
+        "teamId": "1017",
+        "name": "Dragons"
+      },
+      "scorer": "#46 - Chris  Moore",
+      "assist1": "#14 - James  Miller",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:49",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#1 - Paul  Parkinson",
+      "assist1": "#5 - Regina  Hart",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:34",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#1 - Paul  Parkinson",
+      "assist2": "#5 - Regina  Hart"
+    },
+    {
+      "period": "2",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#7 - Will  Weiler",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": "#5 - Regina  Hart"
+    },
+    {
+      "period": "3",
+      "time": "00:14:49",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#20 - Brent  Jefferson",
+      "assist1": "#16 - Dave  Smith",
+      "assist2": "#44 - Jim  McGovern"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:25",
+      "team": {
+        "teamId": "1017",
+        "name": "Dragons"
+      },
+      "player": "#46 - Chris  Moore",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:53",
+      "team": {
+        "teamId": "1017",
+        "name": "Dragons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:56",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "player": "#20 - Brent  Jefferson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:04:48.046Z"
+}

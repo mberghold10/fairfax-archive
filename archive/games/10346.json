@@ -1,0 +1,108 @@
+{
+  "gameId": "10346",
+  "date": "2017-01-08",
+  "divId": 160,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1030",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1026",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:12",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#67 - Brian  Landers",
+      "assist1": "#8 - AJ  Ellis",
+      "assist2": "#16 - Nicole  Chapman"
+    },
+    {
+      "period": "1",
+      "time": "00:05:19",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#85 - Jake  Shively",
+      "assist1": "#77 - Dennis  Valentine",
+      "assist2": "#16 - Nicole  Chapman"
+    },
+    {
+      "period": "3",
+      "time": "00:06:43",
+      "team": {
+        "teamId": "1026",
+        "name": "Rink Rats"
+      },
+      "scorer": "#68 - Matthew  Taylor",
+      "assist1": "#9 - Maddy  Padgett",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:30",
+      "team": {
+        "teamId": "1026",
+        "name": "Rink Rats"
+      },
+      "player": "#50 - Dieter  Kelly",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1026",
+        "name": "Rink Rats"
+      },
+      "player": "#50 - Dieter  Kelly",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:06",
+      "team": {
+        "teamId": "1026",
+        "name": "Rink Rats"
+      },
+      "player": "#23 - Collin  Hunt",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:43:12.714Z"
+}

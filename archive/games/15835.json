@@ -1,0 +1,117 @@
+{
+  "gameId": "15835",
+  "date": "2023-03-05",
+  "divId": 265,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1630",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1634",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#5 - Mike  Fottrell",
+      "assist1": "#6 - Ben  Langdon",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "1634",
+        "name": "Red Wings"
+      },
+      "scorer": "#74 - David  Urlwin",
+      "assist1": "#25 - James  Chu",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1634",
+        "name": "Red Wings"
+      },
+      "scorer": "#24 - Jake  Middel",
+      "assist1": "#29 - Regina  Hart",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "1634",
+        "name": "Red Wings"
+      },
+      "scorer": "#73 - Ethan  Schaefer",
+      "assist1": "#18 - Russ  Smith",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:42",
+      "team": {
+        "teamId": "1634",
+        "name": "Red Wings"
+      },
+      "scorer": "#74 - David  Urlwin",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": "#19 - Gus  Anderson"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:33",
+      "team": {
+        "teamId": "1634",
+        "name": "Red Wings"
+      },
+      "player": "#14 - Dave  Fisher",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1634",
+        "name": "Red Wings"
+      },
+      "player": "#14 - Dave  Fisher",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:59:51.176Z"
+}

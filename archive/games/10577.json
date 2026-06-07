@@ -1,0 +1,163 @@
+{
+  "gameId": "10577",
+  "date": "2017-04-29",
+  "divId": 166,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1060",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1065",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:40",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "scorer": "#21 - Graham  Pough",
+      "assist1": "#5 - Joel  Dever",
+      "assist2": "#9 - Joe  Tierney"
+    },
+    {
+      "period": "1",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#1 - Sam  Crowley",
+      "assist1": "#77 - Kirsten  Domingo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#33 - Steve  Simpson",
+      "assist1": "#1 - Sam  Crowley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#87 - Nate  Morello",
+      "assist1": "#33 - Steve  Simpson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#1 - Sam  Crowley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:27",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#8 - Jon  Goldstein",
+      "assist1": "#1 - Sam  Crowley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "scorer": "#21 - Graham  Pough",
+      "assist1": "#12 - James  Bratsos",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "scorer": "#22 - JongJae  Yoo",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "player": "#33 - Steve  Simpson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:12",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "player": "#18 - Jeff  Rummel",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:12",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "player": "#6 - Carson  Evans",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:12:56.191Z"
+}

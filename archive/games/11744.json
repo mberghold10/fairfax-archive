@@ -1,0 +1,250 @@
+{
+  "gameId": "11744",
+  "date": "2018-07-07",
+  "divId": 180,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1148",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1146",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 5,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#78 - Noe  Natchuel",
+      "assist2": "#18 - Samson  Chu"
+    },
+    {
+      "period": "1",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": "#0 - Ron  Szatmary",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:38",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#92 - Matt  Frazza",
+      "assist1": "#8 - Brendan  Millice",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:05",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "scorer": "#2 - Billy  Morris",
+      "assist1": "#40 - Mikhail  Serebrennikov",
+      "assist2": "#44 - Bob  Arnold"
+    },
+    {
+      "period": "2",
+      "time": "00:08:25",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#12 - Tom  Yearwood",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "scorer": "#15 - Chris  Yoko",
+      "assist1": "#5 - Peter  Boone",
+      "assist2": "#16 - Scott  Forbes"
+    },
+    {
+      "period": "3",
+      "time": "00:03:31",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#78 - Noe  Natchuel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:21",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "scorer": "#40 - Mikhail  Serebrennikov",
+      "assist1": "#44 - Bob  Arnold",
+      "assist2": "#2 - Billy  Morris"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "player": "#40 - Mikhail  Serebrennikov",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "player": "#14 - Jude  Corina",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:45",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#8 - Brendan  Millice",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:17",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#18 - Samson  Chu",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "player": "#2 - Billy  Morris",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:24",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#16 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "player": "#14 - Jude  Corina",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#92 - Matt  Frazza",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:30:16.477Z"
+}

@@ -1,0 +1,108 @@
+{
+  "gameId": "13226",
+  "date": "2019-10-12",
+  "divId": 211,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1334",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1335",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:04:28",
+      "team": {
+        "teamId": "1334",
+        "name": "Dragons"
+      },
+      "scorer": "#11 - Emma  Alperin",
+      "assist1": "#42 - David  Hagemeier",
+      "assist2": "#95 - Mick  Starego"
+    },
+    {
+      "period": "3",
+      "time": "00:11:08",
+      "team": {
+        "teamId": "1334",
+        "name": "Dragons"
+      },
+      "scorer": "#61 - Tommy  Ripke",
+      "assist1": "#34 - Howard  Uman",
+      "assist2": "#5 - Sam  Bryce"
+    },
+    {
+      "period": "3",
+      "time": "00:11:42",
+      "team": {
+        "teamId": "1334",
+        "name": "Dragons"
+      },
+      "scorer": "#34 - Howard  Uman",
+      "assist1": "#61 - Tommy  Ripke",
+      "assist2": "#14 - James  Miller"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:36",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#89 - Chris  Casselman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "1334",
+        "name": "Dragons"
+      },
+      "player": "#17 - Michael  Bagnall",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:12",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#14 - David  Fisher",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:07:19.162Z"
+}

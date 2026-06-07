@@ -1,0 +1,178 @@
+{
+  "gameId": "1141",
+  "date": "2021-07-17",
+  "divId": 229,
+  "seasonName": "Spring 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1434",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1436",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:44",
+      "team": {
+        "teamId": "1434",
+        "name": "Wolves"
+      },
+      "scorer": "#33 - Dmitriy  Achapkin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:13",
+      "team": {
+        "teamId": "1436",
+        "name": "Hurricanes"
+      },
+      "scorer": "#9 - Rick  Cole",
+      "assist1": "#93 - Jeff  Nauer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "1436",
+        "name": "Hurricanes"
+      },
+      "scorer": "#16 - Carlos  Novoa",
+      "assist1": "#81 - Pete  Poczatek",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:59",
+      "team": {
+        "teamId": "1436",
+        "name": "Hurricanes"
+      },
+      "scorer": "#11 - Brendan  Ford",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "1434",
+        "name": "Wolves"
+      },
+      "scorer": "#33 - Dmitriy  Achapkin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:51",
+      "team": {
+        "teamId": "1436",
+        "name": "Hurricanes"
+      },
+      "scorer": "#27 - Jeff  Alton",
+      "assist1": "#93 - Jeff  Nauer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:41",
+      "team": {
+        "teamId": "1436",
+        "name": "Hurricanes"
+      },
+      "scorer": "#81 - Pete  Poczatek",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:45",
+      "team": {
+        "teamId": "1434",
+        "name": "Wolves"
+      },
+      "player": "#65 - Stuart  Hoffman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:19",
+      "team": {
+        "teamId": "1436",
+        "name": "Hurricanes"
+      },
+      "player": "#9 - Rick  Cole",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1434",
+        "name": "Wolves"
+      },
+      "player": "#65 - Stuart  Hoffman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:32",
+      "team": {
+        "teamId": "1436",
+        "name": "Hurricanes"
+      },
+      "player": "#17 - John  Wallace",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:29",
+      "team": {
+        "teamId": "1436",
+        "name": "Hurricanes"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:23:21.500Z"
+}

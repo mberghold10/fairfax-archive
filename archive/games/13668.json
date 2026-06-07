@@ -1,0 +1,117 @@
+{
+  "gameId": "13668",
+  "date": "2020-02-06",
+  "divId": 214,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1351",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1352",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "1351",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": "#10 - Mike  Brahmey",
+      "assist2": "#26 - Jerry  OBrien"
+    },
+    {
+      "period": "1",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1351",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:56",
+      "team": {
+        "teamId": "1351",
+        "name": "Team USA"
+      },
+      "scorer": "#20 - Rich  Utano",
+      "assist1": "#44 - Greg  Powers",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:57",
+      "team": {
+        "teamId": "1351",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": "#7 - Ed  Weiner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:50",
+      "team": {
+        "teamId": "1351",
+        "name": "Team USA"
+      },
+      "scorer": "#98 - Matt  Criscuolo",
+      "assist1": "#18 - Peter  Poczatek",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:56",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#2 - Shawn  Hatch",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#37 - Mike  Przybyla",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:11:51.090Z"
+}

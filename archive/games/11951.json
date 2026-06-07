@@ -1,0 +1,104 @@
+{
+  "gameId": "11951",
+  "date": "2018-08-19",
+  "divId": 187,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1190",
+    "name": "Triassic Puck"
+  },
+  "away": {
+    "teamId": "1193",
+    "name": "Steamed Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:36",
+      "team": {
+        "teamId": "1193",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#3 - Mat  White",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:59",
+      "team": {
+        "teamId": "1193",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#9 - Dave  Baker",
+      "assist1": "#24 - Mark  Paolicelli",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:35",
+      "team": {
+        "teamId": "1193",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#43 - Steve  Sincavage",
+      "assist1": "#2 - Eillott  Yang",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:41",
+      "team": {
+        "teamId": "1193",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#7 - Skylor  Dinnan",
+      "assist1": "#32 - Dave  Garvis",
+      "assist2": "#24 - Mark  Paolicelli"
+    },
+    {
+      "period": "3",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1193",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#61 - Jake  Middel",
+      "assist1": "#24 - Mark  Paolicelli",
+      "assist2": "#3 - Mat  White"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:34",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "player": "#51 - Mike  McGeever",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:39:35.118Z"
+}

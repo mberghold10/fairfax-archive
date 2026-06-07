@@ -1,0 +1,128 @@
+{
+  "gameId": "16666",
+  "date": "2024-02-04",
+  "divId": 277,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1705",
+    "name": "Screaming Eagles"
+  },
+  "away": {
+    "teamId": "1703",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "1703",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": "#44 - Scott  Kuehn",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:47",
+      "team": {
+        "teamId": "1705",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#42 - Adam  Russell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:02",
+      "team": {
+        "teamId": "1705",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#94 - Trygve  Olson",
+      "assist1": "#5 - Ben  Malakoff",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1703",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#20 - Mike  McLenahan",
+      "assist1": "#2 - Ari  Loggia",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:55",
+      "team": {
+        "teamId": "1705",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#94 - Trygve  Olson",
+      "assist1": "#96 - Jared  Elder",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:13",
+      "team": {
+        "teamId": "1705",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#94 - Trygve  Olson",
+      "assist1": "#10 - Mario  Constantinou",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:03:03",
+      "team": {
+        "teamId": "1705",
+        "name": "Screaming Eagles"
+      },
+      "player": "#10 - Mario  Constantinou",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "1703",
+        "name": "British Bulldogs"
+      },
+      "player": "#4 - Sean  Courtney",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:12:59.555Z"
+}

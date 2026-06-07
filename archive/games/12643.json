@@ -1,0 +1,156 @@
+{
+  "gameId": "12643",
+  "date": "2019-04-27",
+  "divId": 203,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1289",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1290",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:27",
+      "team": {
+        "teamId": "1289",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#10 - Mike  Carew",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:11",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#9 - Jon  Goldstein",
+      "assist1": "#91 - Chris  Callanan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:40",
+      "team": {
+        "teamId": "1289",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#41 - Ethan  Isleib",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:38",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#3 - Julien  De Grandpre",
+      "assist1": "#22 - Robert  Kelly Sr",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#22 - Robert  Kelly Sr",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:31",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "player": "#22 - Robert  Kelly Sr",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "player": "#22 - Robert  Kelly Sr",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:12",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "player": "#22 - Robert  Kelly Sr",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "player": "#9 - Jon  Goldstein",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1289",
+        "name": "British Bulldogs"
+      },
+      "player": "#16 - Greg  Pomeroy",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:58:10.211Z"
+}

@@ -1,0 +1,200 @@
+{
+  "gameId": "19025",
+  "date": "2026-04-08",
+  "divId": 325,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1993",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1991",
+    "name": "Ers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:31",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:03",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#27 - Jeff  Carideo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#74 - Paul  Sechser",
+      "assist1": "#24 - Tom  Spiewak",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:16",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#76 - DJ  Dunlevy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": "#96 - Chris  Beck",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:50",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#27 - Jeff  Carideo",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#27 - Jeff  Carideo",
+      "assist1": "#56 - Ryan  Tyler",
+      "assist2": "#8 - Brenden  Millice"
+    },
+    {
+      "period": "3",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#21 - Mark  Johnston",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:57",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": "#96 - Chris  Beck",
+      "assist2": "#74 - Paul  Sechser"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "player": "#36 - William  Ludke",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:07",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "player": "#24 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "player": "#15 - Todd  Martin",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "player": "#7 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:37",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "player": "#7 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:04:44.329Z"
+}

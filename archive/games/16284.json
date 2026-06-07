@@ -1,0 +1,191 @@
+{
+  "gameId": "16284",
+  "date": "2023-07-29",
+  "divId": 272,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1680",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1681",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "1680",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#20 - Rich  Utano",
+      "assist2": "#18 - Pete  Poczatek"
+    },
+    {
+      "period": "1",
+      "time": "00:12:07",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "scorer": "#180 - David  Hagemeier",
+      "assist1": "#54 - Jerry  Gibbons",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1680",
+        "name": "Team USA"
+      },
+      "scorer": "#12 - Jason  Wakeman",
+      "assist1": "#5 - Oleg  Kolodin",
+      "assist2": "#2 - Rocco  Santurri"
+    },
+    {
+      "period": "3",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "1680",
+        "name": "Team USA"
+      },
+      "scorer": "#2 - Rocco  Santurri",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:06",
+      "team": {
+        "teamId": "1680",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#18 - Pete  Poczatek",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:06",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "scorer": "#12 - Paul  Zalocha",
+      "assist1": "#4 - Jon  Conmy",
+      "assist2": "#25 - Chris  Lettieri"
+    },
+    {
+      "period": "3",
+      "time": "00:09:28",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "scorer": "#4 - Jon  Conmy",
+      "assist1": "#25 - Chris  Lettieri",
+      "assist2": "#12 - Paul  Zalocha"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:51",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "player": "#4 - Jon  Conmy",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:23",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "player": "#81 - Nate  Breton",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:10",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "player": "#81 - Nate  Breton",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:13",
+      "team": {
+        "teamId": "1680",
+        "name": "Team USA"
+      },
+      "player": "#10 - Mike  Brahmey",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:47",
+      "team": {
+        "teamId": "1680",
+        "name": "Team USA"
+      },
+      "player": "#99 - Jon  Davoren",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:07:41.345Z"
+}

@@ -1,0 +1,139 @@
+{
+  "gameId": "18397",
+  "date": "2025-10-14",
+  "divId": 317,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1945",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1944",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:34",
+      "team": {
+        "teamId": "1945",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#89 - Brandon  Barhorst",
+      "assist1": "#77 - Paul  Cicchetti",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:59",
+      "team": {
+        "teamId": "1945",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#44 - Jimmy  McGovern",
+      "assist1": "#20 - Bao  Pham",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:32",
+      "team": {
+        "teamId": "1944",
+        "name": "Hurricanes"
+      },
+      "scorer": "#25 - Greg  Reece",
+      "assist1": "#11 - Brendan  Ford",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:16",
+      "team": {
+        "teamId": "1944",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#19 - Jason  Long",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:22",
+      "team": {
+        "teamId": "1945",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#8 - Elliott  Yang",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:21",
+      "team": {
+        "teamId": "1945",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#8 - Elliott  Yang",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:57",
+      "team": {
+        "teamId": "1945",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#44 - Jimmy  McGovern",
+      "assist1": "#8 - Elliott  Yang",
+      "assist2": "#77 - Paul  Cicchetti"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:16",
+      "team": {
+        "teamId": "1945",
+        "name": "Maple Leafs"
+      },
+      "player": "#77 - Paul  Cicchetti",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:55",
+      "team": {
+        "teamId": "1945",
+        "name": "Maple Leafs"
+      },
+      "player": "#77 - Paul  Cicchetti",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:56:23.267Z"
+}

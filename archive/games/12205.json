@@ -1,0 +1,178 @@
+{
+  "gameId": "12205",
+  "date": "2018-12-03",
+  "divId": 192,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1216",
+    "name": "Taters"
+  },
+  "away": {
+    "teamId": "1217",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:35",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "scorer": "#4 - Steve  Bradley",
+      "assist1": "#40 - Matt  Mickelson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:43",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": "#33 - Alex  Baron",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:14",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:32",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": "#4 - Steve  Bradley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "scorer": "#34 - Marty  Gryski",
+      "assist1": "#27 - Dave  Lin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:25",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "scorer": "#34 - Jim  Kennedy",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:36",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "player": "#12 - Dave  OMalley",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:35",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "player": "#13 - John  Kosak",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "player": "#24 - Michael  Duell",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "player": "#40 - Matt  Mickelson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:57",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "player": "#27 - Dave  Lin",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:44:43.804Z"
+}

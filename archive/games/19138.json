@@ -1,0 +1,165 @@
+{
+  "gameId": "19138",
+  "date": "2026-05-17",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2003",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "2006",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:15:51",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "scorer": "#17 - Sean  Burke",
+      "assist1": "#44 - Matt  Waggoner",
+      "assist2": "#77 - Steven  Baugh"
+    },
+    {
+      "period": "2",
+      "time": "00:06:27",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#90 - Phil  Cunningham",
+      "assist1": "#7 - Art  Supsiri",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "scorer": "#16 - Alexandra  Goetz",
+      "assist1": "#17 - Sean  Burke",
+      "assist2": "#77 - Steven  Baugh"
+    },
+    {
+      "period": "2",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "scorer": "#17 - Sean  Burke",
+      "assist1": "#44 - Matt  Waggoner",
+      "assist2": "#77 - Steven  Baugh"
+    },
+    {
+      "period": "2",
+      "time": "00:10:14",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "scorer": "#77 - Steven  Baugh",
+      "assist1": "#17 - Sean  Burke",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#36 - Greg  Kowalski",
+      "assist1": "#7 - Art  Supsiri",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:31",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#7 - Art  Supsiri",
+      "assist1": "#76 - Peter  Schaffer",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:14",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "player": "#77 - Steven  Baugh",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:21",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "player": "#2 - Jen  Grotpeter",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:31",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "player": "#90 - Phil  Cunningham",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "player": "#44 - Matt  Waggoner",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:08:51.791Z"
+}

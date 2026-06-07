@@ -1,0 +1,93 @@
+{
+  "gameId": "10177",
+  "date": "2016-11-30",
+  "divId": 154,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "991",
+    "name": "Bluejacket Capitals"
+  },
+  "away": {
+    "teamId": "986",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:25",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#21 - Drew  Saelens",
+      "assist1": "#61 - Fabian  Olaya",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:06",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#61 - Fabian  Olaya",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": "#12 - Tom  Yearwood"
+    },
+    {
+      "period": "3",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#78 - Noe  Hatchuel",
+      "assist1": "#61 - Fabian  Olaya",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:41",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#78 - Noe  Hatchuel",
+      "assist1": "#22 - Sonny  Gupta",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:05:19",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "player": "#61 - Fabian  Olaya",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:57:48.270Z"
+}

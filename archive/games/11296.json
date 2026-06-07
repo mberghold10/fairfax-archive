@@ -1,0 +1,239 @@
+{
+  "gameId": "11296",
+  "date": "2018-03-01",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1101",
+    "name": "Rustico Flames"
+  },
+  "away": {
+    "teamId": "1095",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:49",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#77 - Erik  Bergman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#19 - Joe  Dunn",
+      "assist1": "#12 - Paul  Zalocha",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:43",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#27 - Rob  Helfant",
+      "assist1": "#14 - Josh  Peter",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#19 - Joe  Dunn",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": "#12 - Paul  Zalocha"
+    },
+    {
+      "period": "2",
+      "time": "00:05:15",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#12 - Paul  Zalocha",
+      "assist2": "#18 - Mike  Sharp"
+    },
+    {
+      "period": "2",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#14 - Josh  Peter",
+      "assist1": "#63 - Bill  Linzey",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:05",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#49 - Greg  Mullen",
+      "assist1": "#12 - Paul  Zalocha",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#43 - John  Porado",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": "#52 - Mike  Brobeck"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:25",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "player": "#49 - Greg  Mullen",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:29",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "player": "#77 - Erik  Bergman",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:54",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "player": "#14 - Josh  Peter",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:21",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "player": "#77 - Erik  Bergman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:21",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "player": "#18 - Mike  Sharp",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:47",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "player": "#14 - Josh  Peter",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:36",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "player": "#2 - James  Marlowe",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:20:41.201Z"
+}

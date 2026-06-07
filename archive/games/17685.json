@@ -1,0 +1,180 @@
+{
+  "gameId": "17685",
+  "date": "2025-01-31",
+  "divId": 305,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1870",
+    "name": "Ers"
+  },
+  "away": {
+    "teamId": "1872",
+    "name": "Boston"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:19",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#28 - Eric  Mastromatteo",
+      "assist1": "#7 - Matt  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:44",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#7 - Matt  ODriscoll",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:35",
+      "team": {
+        "teamId": "1872",
+        "name": "Boston"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#91 - Rob  Fischer",
+      "assist2": "#10 - Justin  Arbes"
+    },
+    {
+      "period": "3",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#55 - Mike  McKenney",
+      "assist1": "#7 - Matt  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#7 - Matt  ODriscoll",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:24",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "player": "#55 - Mike  McKenney",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:06",
+      "team": {
+        "teamId": "1872",
+        "name": "Boston"
+      },
+      "player": "#71 - Jeff  Meyer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:01",
+      "team": {
+        "teamId": "1872",
+        "name": "Boston"
+      },
+      "player": "#8 - Peter  Boone",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:25",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "player": "#23 - Gordon  Scott",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:25",
+      "team": {
+        "teamId": "1872",
+        "name": "Boston"
+      },
+      "player": "#10 - Justin  Arbes",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:42:59.944Z"
+}

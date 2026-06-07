@@ -1,0 +1,244 @@
+{
+  "gameId": "12182",
+  "date": "2018-12-02",
+  "divId": 191,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1214",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1213",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 3,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:56",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#6 - Faraz  Izadi",
+      "assist1": "#72 - Kyle  Brosnan",
+      "assist2": "#11 - Sam  Marchio"
+    },
+    {
+      "period": "1",
+      "time": "00:11:26",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#9 - Steve  Tarditi",
+      "assist1": "#25 - Steve  Tamburo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:23",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#6 - Faraz  Izadi",
+      "assist1": "#5 - Joel  Dever",
+      "assist2": "#72 - Kyle  Brosnan"
+    },
+    {
+      "period": "2",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#6 - Faraz  Izadi",
+      "assist1": "#22 - Jongjae  Yoo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:53",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#11 - Sam  Marchio",
+      "assist1": "#6 - Faraz  Izadi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#22 - Jongjae  Yoo",
+      "assist1": "#17 - Wangjae  Yoo",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:09",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#5 - Joel  Dever",
+      "assist1": "#6 - Faraz  Izadi",
+      "assist2": "#22 - Jongjae  Yoo"
+    },
+    {
+      "period": "3",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#9 - Steve  Tarditi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:09",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#88 - Matt  Tiede",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:45",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#20 - Jeff  Carter",
+      "assist1": "#51 - Pat  Nealon",
+      "assist2": "#6 - Bob  Friess"
+    },
+    {
+      "period": "3",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#7 - Dan  Fleischman",
+      "assist1": "#25 - Steve  Tamburo",
+      "assist2": "#4 - Paul  Cicchetti"
+    },
+    {
+      "period": "3",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#6 - Faraz  Izadi",
+      "assist1": "#5 - Joel  Dever",
+      "assist2": "#72 - Kyle  Brosnan"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:25",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "player": "#11 - Sam  Marchio",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:33",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "player": "#51 - Pat  Nealon",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "player": "#6 - Bob  Friess",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:07",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "player": "#42 - Adam  Russell",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:47",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "player": "#42 - Adam  Russell",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:43:26.583Z"
+}

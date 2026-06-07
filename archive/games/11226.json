@@ -1,0 +1,154 @@
+{
+  "gameId": "11226",
+  "date": "2018-01-26",
+  "divId": 170,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1089",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1087",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:45",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#40 - Konstantin  Silov",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "scorer": "#19 - Michael  Carr",
+      "assist1": "#24 - Jamie  Belcastro",
+      "assist2": "#25 - Bob  Banasik"
+    },
+    {
+      "period": "2",
+      "time": "00:07:18",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "scorer": "#2 - Peter  OKeefe",
+      "assist1": "#18 - Peter  Dimmick",
+      "assist2": "#57 - Derek  Morrissette"
+    },
+    {
+      "period": "2",
+      "time": "00:08:11",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "scorer": "#24 - Jamie  Belcastro",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:34",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "scorer": "#14 - Dennis  Nayandin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:26",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "scorer": "#2 - Peter  OKeefe",
+      "assist1": "#14 - Michael  Nannini",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "player": "#41 - Eugene  Livsics",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "player": "#9 - Tony  Cusumano",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "player": "#77 - Oleg  Nayandin",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "player": "#2 - Peter  OKeefe",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:18:01.539Z"
+}

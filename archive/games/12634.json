@@ -1,0 +1,84 @@
+{
+  "gameId": "12634",
+  "date": "2019-03-17",
+  "divId": 197,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1251",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1252",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:18:29",
+      "team": {
+        "teamId": "1252",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#10 - Rebecca  Evangelista",
+      "assist1": "#14 - Mike  Ezike",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:20",
+      "team": {
+        "teamId": "1252",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#12 - Lizzy  Waxler",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": "#17 - Justin  Cade"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:11:52",
+      "team": {
+        "teamId": "1252",
+        "name": "Blue Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "player": "#94 - Michael  Starego",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:52:10.581Z"
+}

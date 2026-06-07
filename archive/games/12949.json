@@ -1,0 +1,158 @@
+{
+  "gameId": "12949",
+  "date": "2019-07-31",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1260",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1266",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:59",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#9 - Sam  Ziesler",
+      "assist1": "#12 - Jon  Gregor",
+      "assist2": "#4 - Bruce  Baltas"
+    },
+    {
+      "period": "1",
+      "time": "00:12:25",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#12 - Jon  Gregor",
+      "assist1": "#8 - Jeff  Meyer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:05",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#55 - Mark  Chapman",
+      "assist1": "#5 - Chris  Marotta",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:26",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#55 - Mark  Chapman",
+      "assist1": "#22 - Nate  Harrison",
+      "assist2": "#9 - Sam  Ziesler"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#8 - Jeff  Meyer",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:09",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#18 - Sean  Gallucci",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:05",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#5 - Ben  Malakoff",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:19",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#88 - Evan  Wojtowicz",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:23",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#9 - Sam  Ziesler",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:41",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#12 - Jon  Gregor",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:53:52.257Z"
+}

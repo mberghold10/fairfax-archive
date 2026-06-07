@@ -1,0 +1,300 @@
+{
+  "gameId": "14252",
+  "date": "2021-08-15",
+  "divId": 237,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1484",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1482",
+    "name": "Gold Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1482",
+        "name": "Gold Goats"
+      },
+      "scorer": "#8 - Bob  Shay",
+      "assist1": "#27 - Dave  Lin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:26",
+      "team": {
+        "teamId": "1484",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#8 - Elliott  Yang",
+      "assist1": "#20 - Bao  Pham",
+      "assist2": "#43 - Steve  Sincava"
+    },
+    {
+      "period": "1",
+      "time": "00:05:47",
+      "team": {
+        "teamId": "1484",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#20 - Bao  Pham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1482",
+        "name": "Gold Goats"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": "#57 - Howard  Uman"
+    },
+    {
+      "period": "1",
+      "time": "00:10:54",
+      "team": {
+        "teamId": "1484",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#43 - Steve  Sincava",
+      "assist1": "#8 - Elliott  Yang",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:08",
+      "team": {
+        "teamId": "1482",
+        "name": "Gold Goats"
+      },
+      "scorer": "#24 - Mike  Duell",
+      "assist1": "#71 - Dan  Pol",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:44",
+      "team": {
+        "teamId": "1482",
+        "name": "Gold Goats"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": "#7 - Greg  Watchman",
+      "assist2": "#15 - Tom  Sgroi"
+    },
+    {
+      "period": "2",
+      "time": "00:14:21",
+      "team": {
+        "teamId": "1482",
+        "name": "Gold Goats"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:19",
+      "team": {
+        "teamId": "1484",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#8 - Elliott  Yang",
+      "assist1": "#20 - Bao  Pham",
+      "assist2": "#43 - Steve  Sincava"
+    },
+    {
+      "period": "3",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1484",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#43 - Steve  Sincava",
+      "assist1": "#20 - Bao  Pham",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:43",
+      "team": {
+        "teamId": "1484",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#47 - Jeff  Urlwin",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:45",
+      "team": {
+        "teamId": "1482",
+        "name": "Gold Goats"
+      },
+      "player": "#57 - Howard  Uman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1484",
+        "name": "Maple Leafs"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1482",
+        "name": "Gold Goats"
+      },
+      "player": "#15 - Tom  Sgroi",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:58",
+      "team": {
+        "teamId": "1484",
+        "name": "Maple Leafs"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:38",
+      "team": {
+        "teamId": "1484",
+        "name": "Maple Leafs"
+      },
+      "player": "#8 - Elliott  Yang",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:05",
+      "team": {
+        "teamId": "1482",
+        "name": "Gold Goats"
+      },
+      "player": "#24 - Mike  Duell",
+      "pim": 2,
+      "offense": "board",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:05",
+      "team": {
+        "teamId": "1482",
+        "name": "Gold Goats"
+      },
+      "player": "#24 - Mike  Duell",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1482",
+        "name": "Gold Goats"
+      },
+      "player": "#57 - Howard  Uman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:43",
+      "team": {
+        "teamId": "1482",
+        "name": "Gold Goats"
+      },
+      "player": "#23 - Dick  Deitos",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "1482",
+        "name": "Gold Goats"
+      },
+      "player": "#62 - Phil  Tivel",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:35",
+      "team": {
+        "teamId": "1484",
+        "name": "Maple Leafs"
+      },
+      "player": "#97 - Brian  Rollins",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:28:44.906Z"
+}

@@ -1,0 +1,117 @@
+{
+  "gameId": "13875",
+  "date": "2020-10-17",
+  "divId": 224,
+  "seasonName": "Fall 2020",
+  "mode": "regular",
+  "home": {
+    "teamId": "1403",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1405",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:43",
+      "team": {
+        "teamId": "1405",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#2 - John  Ganoe",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:55",
+      "team": {
+        "teamId": "1405",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#17 - Justin  Cade",
+      "assist1": "#6 - Armand  Alacbay",
+      "assist2": "#34 - Josh  Davis"
+    },
+    {
+      "period": "2",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1405",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#34 - Josh  Davis",
+      "assist1": "#17 - Justin  Cade",
+      "assist2": "#33 - Brandon  Boling"
+    },
+    {
+      "period": "2",
+      "time": "00:09:52",
+      "team": {
+        "teamId": "1405",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#33 - Brandon  Boling",
+      "assist1": "#77 - Jeff  Wilken",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1405",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#39 - Alex  Cimon",
+      "assist1": "#77 - Jeff  Wilken",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1405",
+        "name": "Blue Dogs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:50",
+      "team": {
+        "teamId": "1403",
+        "name": "Thunder"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:18:54.824Z"
+}

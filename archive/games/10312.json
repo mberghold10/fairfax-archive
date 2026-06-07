@@ -1,0 +1,191 @@
+{
+  "gameId": "10312",
+  "date": "2017-01-21",
+  "divId": 158,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1015",
+    "name": "Bulldogs"
+  },
+  "away": {
+    "teamId": "1013",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 1,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:51",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#12 - Dan  Butala",
+      "assist1": "#28 - Jack  Wilmer",
+      "assist2": "#13 - Brett  Bowen"
+    },
+    {
+      "period": "2",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": "#18 - Ron  Miller",
+      "assist2": "#5 - James  Miller"
+    },
+    {
+      "period": "3",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#10 - Mickey  ORourke",
+      "assist2": "#15 - Doug  Vanderbilt"
+    },
+    {
+      "period": "3",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": "#5 - James  Miller",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:42",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:20",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#5 - Chris  Howard",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": "#63 - Jeff  Hoffner",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:58",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "player": "#22 - James  Stegmann",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:38",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "player": "#19 - Jon  Forrester",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:56",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "player": "#12 - Dan  Butala",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:06",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "player": "#10 - Mickey  ORourke",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:44",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "player": "#15 - Doug  Vanderbilt",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:44",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "player": "#4 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:03:17.079Z"
+}

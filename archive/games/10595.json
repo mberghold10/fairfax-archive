@@ -1,0 +1,128 @@
+{
+  "gameId": "10595",
+  "date": "2017-06-11",
+  "divId": 166,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1065",
+    "name": "Canucks"
+  },
+  "away": {
+    "teamId": "1066",
+    "name": "Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:31",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "scorer": "#12 - Dan  Butala",
+      "assist1": "#20 - Jeff  Carter",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:39",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#68 - Bill  Houston",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:15",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "scorer": "#20 - Jeff  Carter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:22",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#88 - Matt  Tiede",
+      "assist2": "#5 - Chris  Howard"
+    },
+    {
+      "period": "2",
+      "time": "00:05:33",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#52 - Evan  Weisel",
+      "assist1": "#88 - Brian  Ray",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#52 - Evan  Weisel",
+      "assist1": "#68 - Bill  Houston",
+      "assist2": "#88 - Brian  Ray"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "player": "#69 - Aaron  Risdal",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "player": "#18 - Steve  Percival",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:13:14.188Z"
+}

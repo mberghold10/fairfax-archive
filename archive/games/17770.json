@@ -1,0 +1,117 @@
+{
+  "gameId": "17770",
+  "date": "2025-01-12",
+  "divId": 309,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1890",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1887",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 4,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:38",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "scorer": "#71 - Matt  Robertson",
+      "assist1": "#61 - Nick  Johnston",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:58",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "scorer": "#40 - Brendan  Sweezea",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "scorer": "#65 - Howard  Ludwig",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:54",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "scorer": "#61 - Nick  Johnston",
+      "assist1": "#11 - Mark  Boyd",
+      "assist2": "#79 - Sean  Longanecker"
+    },
+    {
+      "period": "3",
+      "time": "00:10:36",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "scorer": "#65 - Howard  Ludwig",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "player": "#47 - Dave  LeKuch",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:19:08",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "player": "#40 - Brendan  Sweezea",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:46:27.792Z"
+}

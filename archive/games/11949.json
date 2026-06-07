@@ -1,0 +1,152 @@
+{
+  "gameId": "11949",
+  "date": "2018-08-19",
+  "divId": 187,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1191",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1195",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:44",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "scorer": "#13 - Kelly  Urlwin",
+      "assist1": "#67 - John  Krotzer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "scorer": "#67 - John  Krotzer",
+      "assist1": "#13 - Kelly  Urlwin",
+      "assist2": "#29 - Regina  Hart"
+    },
+    {
+      "period": "2",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1191",
+        "name": "Thunder"
+      },
+      "scorer": "#77 - Rob  Reinish",
+      "assist1": "#23 - Eric  Vanhove",
+      "assist2": "#46 - Charles  Fancher"
+    },
+    {
+      "period": "2",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "scorer": "#15 - Mike  Gibson",
+      "assist1": "#28 - Tom  Montanio",
+      "assist2": "#13 - Kelly  Urlwin"
+    },
+    {
+      "period": "2",
+      "time": "00:19:32",
+      "team": {
+        "teamId": "1191",
+        "name": "Thunder"
+      },
+      "scorer": "#11 - Jason  McKay",
+      "assist1": "#37 - Christal  Cudworth",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:02",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "scorer": "#67 - John  Krotzer",
+      "assist1": "#13 - Kelly  Urlwin",
+      "assist2": "#2 - JP  Gardner"
+    },
+    {
+      "period": "3",
+      "time": "00:11:19",
+      "team": {
+        "teamId": "1191",
+        "name": "Thunder"
+      },
+      "scorer": "#75 - Dany  Normandeau",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "1191",
+        "name": "Thunder"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:48",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "player": "#12 - Gus  Anderson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:16:32",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "player": "#47 - Jeff  Urlwin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:39:33.191Z"
+}

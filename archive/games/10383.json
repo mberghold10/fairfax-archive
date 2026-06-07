@@ -1,0 +1,104 @@
+{
+  "gameId": "10383",
+  "date": "2017-03-05",
+  "divId": 156,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1002",
+    "name": "Senators"
+  },
+  "away": {
+    "teamId": "1003",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": "#17 - John  Wallace",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:43",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#5 - Alex  Talalayevsky",
+      "assist1": "#22 - Charlie  Campbell",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "scorer": "#22 - Chad  Muse",
+      "assist1": "#93 - Jeff  Nauer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:41",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "scorer": "#93 - Jeff  Nauer",
+      "assist1": "#9 - Rick  Cole",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#22 - Charlie  Campbell",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:01:00.499Z"
+}

@@ -1,0 +1,152 @@
+{
+  "gameId": "16005",
+  "date": "2023-06-24",
+  "divId": 271,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1670",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1672",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1670",
+        "name": "Ducks"
+      },
+      "scorer": "#13 - Brian  Patterson",
+      "assist1": "#21 - Erik  Bergman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1670",
+        "name": "Ducks"
+      },
+      "scorer": "#43 - Mike  Carew",
+      "assist1": "#13 - Brian  Patterson",
+      "assist2": "#7 - Andrew  Golomb"
+    },
+    {
+      "period": "2",
+      "time": "00:05:29",
+      "team": {
+        "teamId": "1670",
+        "name": "Ducks"
+      },
+      "scorer": "#91 - Rob  Fischer",
+      "assist1": "#15 - Jonathan  Vu",
+      "assist2": "#6 - David  Satagaj"
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1670",
+        "name": "Ducks"
+      },
+      "scorer": "#43 - Mike  Carew",
+      "assist1": "#13 - Brian  Patterson",
+      "assist2": "#2 - Ricki  Clark"
+    },
+    {
+      "period": "3",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "scorer": "#41 - Livsics  Eugene",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:47",
+      "team": {
+        "teamId": "1670",
+        "name": "Ducks"
+      },
+      "scorer": "#2 - Ricki  Clark",
+      "assist1": "#43 - Mike  Carew",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#36 - Jon  Stehle",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "player": "#6 - Paul  Maguire",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:29",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "player": "#13 - Bob  Chagnot",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "player": "#7 - Joseph  Hull",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:06:11.105Z"
+}

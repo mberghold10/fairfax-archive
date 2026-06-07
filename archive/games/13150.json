@@ -1,0 +1,158 @@
+{
+  "gameId": "13150",
+  "date": "2019-09-13",
+  "divId": 206,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1306",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1303",
+    "name": "Steamed Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "scorer": "#71 - Michael  Bagnall",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#32 - Dave  Garvis",
+      "assist1": "#20 - William  Robitaille",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "scorer": "#42 - David  Hagemeier",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:29",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#18 - Craig  McCall",
+      "assist1": "#32 - Dave  Garvis",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:29",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "player": "#71 - Michael  Bagnall",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "player": "#18 - Craig  McCall",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "player": "#37 - Jonathan  Whitbey",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "player": "#71 - Michael  Bagnall",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "player": "#22 - Trevor  Blair",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:07",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "player": "#22 - Trevor  Blair",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:02:22.595Z"
+}

@@ -1,0 +1,73 @@
+{
+  "gameId": "10137",
+  "date": "2016-11-27",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1024",
+    "name": "Bad Leafs"
+  },
+  "away": {
+    "teamId": "1020",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "scorer": "#97 - Brian  Rollins",
+      "assist1": "#48 - Randy  Sasai",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:54",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "player": "#78 - Andrew  Caulk",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:19",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "player": "#6 - Matt  Johnson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:04:27.969Z"
+}

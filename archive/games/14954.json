@@ -1,0 +1,154 @@
+{
+  "gameId": "14954",
+  "date": "2022-08-30",
+  "divId": 250,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1546",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1541",
+    "name": "Punishers HC"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": "#4 - Patrick  Smith"
+    },
+    {
+      "period": "1",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "scorer": "#4 - Patrick  Smith",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:45",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": "#24 - Mike  Duell",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:49",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "scorer": "#4 - Patrick  Smith",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:26",
+      "team": {
+        "teamId": "1546",
+        "name": "Chiefs"
+      },
+      "scorer": "#2 - Bobby  Woods-Crowyn",
+      "assist1": "#17 - Maxim  Rinaldi",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:02",
+      "team": {
+        "teamId": "1546",
+        "name": "Chiefs"
+      },
+      "player": "#18 - Michael  Dewhirst",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:09",
+      "team": {
+        "teamId": "1546",
+        "name": "Chiefs"
+      },
+      "player": "#0 - Curt  Tucker",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:32",
+      "team": {
+        "teamId": "1546",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:32",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "player": "#4 - Patrick  Smith",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:41:29.711Z"
+}

@@ -1,0 +1,132 @@
+{
+  "gameId": "15221",
+  "date": "2022-09-22",
+  "divId": 252,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1556",
+    "name": "Triassic Puck"
+  },
+  "away": {
+    "teamId": "1558",
+    "name": "Red Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1558",
+        "name": "Red Dragons"
+      },
+      "scorer": "#71 - Raymond  Robie",
+      "assist1": "#21 - Brandon  Jones",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:39",
+      "team": {
+        "teamId": "1558",
+        "name": "Red Dragons"
+      },
+      "scorer": "#15 - Tom  Sgroi",
+      "assist1": "#71 - Raymond  Robie",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:57",
+      "team": {
+        "teamId": "1558",
+        "name": "Red Dragons"
+      },
+      "scorer": "#21 - Brandon  Jones",
+      "assist1": "#7 - Connor  Anderson",
+      "assist2": "#4 - Josh  Renton"
+    },
+    {
+      "period": "3",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1556",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:51",
+      "team": {
+        "teamId": "1556",
+        "name": "Triassic Puck"
+      },
+      "player": "#5 - Rob  Kelty",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:51",
+      "team": {
+        "teamId": "1558",
+        "name": "Red Dragons"
+      },
+      "player": "#34 - Howard  Uman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "1558",
+        "name": "Red Dragons"
+      },
+      "player": "#99 - Joe  Gooch",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:30",
+      "team": {
+        "teamId": "1558",
+        "name": "Red Dragons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:44:25.549Z"
+}

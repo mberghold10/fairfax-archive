@@ -1,0 +1,110 @@
+{
+  "gameId": "11002",
+  "date": "2017-11-01",
+  "divId": 171,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1094",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1091",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:08",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#5 - Chris  Marotta",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#2 - Ricki  Clark",
+      "assist1": "#9 - Sam  Ziesler",
+      "assist2": "#18 - Sean  Gallucci"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "player": "#22 - Nate  Harrison",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "player": "#45 - Steve  Tamburo",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "player": "#55 - Matt  Roulo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:57",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "player": "#16 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:18:35.497Z"
+}

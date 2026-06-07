@@ -1,0 +1,156 @@
+{
+  "gameId": "17750",
+  "date": "2025-02-22",
+  "divId": 307,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1885",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1883",
+    "name": "Gold Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:37",
+      "team": {
+        "teamId": "1885",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#16 - Greg  Thomas",
+      "assist1": "#77 - Paul  Cicchetti",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1885",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#47 - Jeff  Urlwin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1883",
+        "name": "Gold Goats"
+      },
+      "scorer": "#16 - Curt  Tucker",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:47",
+      "team": {
+        "teamId": "1883",
+        "name": "Gold Goats"
+      },
+      "scorer": "#42 - Jeff  Brooks",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:09",
+      "team": {
+        "teamId": "1885",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#8 - Elliott  Yang",
+      "assist1": "#43 - Steve  Sincavage",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:48",
+      "team": {
+        "teamId": "1883",
+        "name": "Gold Goats"
+      },
+      "player": "#94 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "1883",
+        "name": "Gold Goats"
+      },
+      "player": "#44 - Sean  Cullen",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:24",
+      "team": {
+        "teamId": "1883",
+        "name": "Gold Goats"
+      },
+      "player": "#38 - Howard  Uman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:53",
+      "team": {
+        "teamId": "1885",
+        "name": "Maple Leafs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:06",
+      "team": {
+        "teamId": "1885",
+        "name": "Maple Leafs"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:45:29.025Z"
+}

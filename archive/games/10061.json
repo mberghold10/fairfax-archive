@@ -1,0 +1,154 @@
+{
+  "gameId": "10061",
+  "date": "2016-10-23",
+  "divId": 158,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1012",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1011",
+    "name": "River Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": "#42 - Adam  Russell",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "scorer": "#12 - William  Howe",
+      "assist1": "#3 - John  Rancourt",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:50",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "scorer": "#16 - Nurali  Jamani",
+      "assist1": "#12 - Matt  Diamond",
+      "assist2": "#55 - Ben  Malakoff"
+    },
+    {
+      "period": "2",
+      "time": "00:13:09",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "scorer": "#43 - Bill  Picard",
+      "assist1": "#42 - Jon  Coley",
+      "assist2": "#40 - Brandon  Honeycutt"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "player": "#21 - John  Peterman",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "player": "#18 - Bryan  Zupan",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:53",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "player": "#42 - Jon  Coley",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:43",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:02:48.764Z"
+}

@@ -1,0 +1,224 @@
+{
+  "gameId": "12602",
+  "date": "2019-03-19",
+  "divId": 196,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1245",
+    "name": "Senators"
+  },
+  "away": {
+    "teamId": "1247",
+    "name": "Beltway Butchers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:10",
+      "team": {
+        "teamId": "1247",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#1 - Charles  Beekman",
+      "assist1": "#23 - Ken  Degrave",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:45",
+      "team": {
+        "teamId": "1247",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#21 - John  Eliot",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:14",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#3 - Jim  Van Dyke",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:56",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#24 - Mike  Duell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "1247",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#4 - Peter  van Aartrijk",
+      "assist1": "#88 - TJ  Doherty",
+      "assist2": "#1 - Charles  Beekman"
+    },
+    {
+      "period": "2",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1247",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#88 - TJ  Doherty",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#8 - Bob  Shay",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#3 - Jim  Van Dyke",
+      "assist1": "#52 - Alan  Dappen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:56",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#98 - Bob  Shaw",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1247",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#89 - Jim  Rathbone",
+      "assist1": "#88 - TJ  Doherty",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "player": "#22 - Charlie  Campbell",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:13",
+      "team": {
+        "teamId": "1247",
+        "name": "Beltway Butchers"
+      },
+      "player": "#7 - Sa  Do",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1247",
+        "name": "Beltway Butchers"
+      },
+      "player": "#1 - Charles  Beekman",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1247",
+        "name": "Beltway Butchers"
+      },
+      "player": "#7 - Sa  Do",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:05",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "player": "#8 - Bob  Shay",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "player": "#23 - Dick  Deitos",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:50:52.170Z"
+}

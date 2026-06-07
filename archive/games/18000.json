@@ -1,0 +1,156 @@
+{
+  "gameId": "18000",
+  "date": "2025-04-05",
+  "divId": 306,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1876",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1877",
+    "name": "Anonymous"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "scorer": "#43 - Dave  Hagemeier",
+      "assist1": "#89 - Andrew  Grose",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": "#15 - Bob  Guckian",
+      "assist2": "#77 - Erik  Bergman"
+    },
+    {
+      "period": "1",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "scorer": "#11 - Tom  Fergus",
+      "assist1": "#89 - Andrew  Grose",
+      "assist2": "#42 - Jeff  Lovett"
+    },
+    {
+      "period": "2",
+      "time": "00:03:07",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "scorer": "#26 - Garrett  Burns",
+      "assist1": "#53 - Don  Modder",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:04",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "scorer": "#91 - Jamie  Dragon",
+      "assist1": "#24 - Mike  Sheridan",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:11",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "player": "#4 - Paul  Cicchetti",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:43",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "player": "#26 - Garrett  Burns",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:44:28.295Z"
+}

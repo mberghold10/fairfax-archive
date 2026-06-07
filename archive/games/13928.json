@@ -1,0 +1,182 @@
+{
+  "gameId": "13928",
+  "date": "2021-01-10",
+  "divId": 224,
+  "seasonName": "Fall 2020",
+  "mode": "regular",
+  "home": {
+    "teamId": "1406",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1403",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1403",
+        "name": "Thunder"
+      },
+      "scorer": "#83 - Bill  Bailey",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:16",
+      "team": {
+        "teamId": "1406",
+        "name": "Red Wings"
+      },
+      "scorer": "#19 - Tristan  Anderson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "1406",
+        "name": "Red Wings"
+      },
+      "scorer": "#27 - Nick  Montfort",
+      "assist1": "#19 - Tristan  Anderson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:29",
+      "team": {
+        "teamId": "1406",
+        "name": "Red Wings"
+      },
+      "scorer": "#40 - Matt  Mowery",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:54",
+      "team": {
+        "teamId": "1406",
+        "name": "Red Wings"
+      },
+      "scorer": "#19 - Tristan  Anderson",
+      "assist1": "#10 - Owen  Schaefer",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "1406",
+        "name": "Red Wings"
+      },
+      "player": "#19 - Tristan  Anderson",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:53",
+      "team": {
+        "teamId": "1406",
+        "name": "Red Wings"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1406",
+        "name": "Red Wings"
+      },
+      "player": "#23 - Karsten  Nicholas",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "1406",
+        "name": "Red Wings"
+      },
+      "player": "#40 - Matt  Mowery",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "1403",
+        "name": "Thunder"
+      },
+      "player": "#23 - Eric  Vanhove",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "1403",
+        "name": "Thunder"
+      },
+      "player": "#29 - James  Kim",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1406",
+        "name": "Red Wings"
+      },
+      "player": "#50 - Lorin  Randall",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:19:09.882Z"
+}

@@ -1,0 +1,117 @@
+{
+  "gameId": "11644",
+  "date": "2018-06-03",
+  "divId": 184,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1170",
+    "name": "BlueJacket Capitals"
+  },
+  "away": {
+    "teamId": "1169",
+    "name": "Bushwood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#16 - Dan  Rebman",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": "#88 - Andrew  Grose"
+    },
+    {
+      "period": "1",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "1169",
+        "name": "Bushwood"
+      },
+      "scorer": "#12 - Ed  Donohue",
+      "assist1": "#14 - Matthew  MacVicar",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:17",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#23 - Dan  Ellert",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:44",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#16 - Dan  Rebman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#77 - Erik  Bergman",
+      "assist1": "#88 - Andrew  Grose",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "1169",
+        "name": "Bushwood"
+      },
+      "player": "#33 - Todd  Petit",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "1169",
+        "name": "Bushwood"
+      },
+      "player": "#15 - Gregg  Gellman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:34:43.852Z"
+}

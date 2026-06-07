@@ -1,0 +1,130 @@
+{
+  "gameId": "1217",
+  "date": "2022-04-12",
+  "divId": 247,
+  "seasonName": "Winter 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1527",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1528",
+    "name": "Gold Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1527",
+        "name": "Wolves"
+      },
+      "scorer": "#71 - Mike  McLenahan",
+      "assist1": "#10 - Rich  Scigaj",
+      "assist2": "#50 - Lorin  Randall"
+    },
+    {
+      "period": "1",
+      "time": "00:07:26",
+      "team": {
+        "teamId": "1527",
+        "name": "Wolves"
+      },
+      "scorer": "#71 - Mike  McLenahan",
+      "assist1": "#7 - John  Koester",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:37",
+      "team": {
+        "teamId": "1527",
+        "name": "Wolves"
+      },
+      "scorer": "#33 - Dmitriy  Achapkin",
+      "assist1": "#12 - Jim  Schoff",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "1527",
+        "name": "Wolves"
+      },
+      "scorer": "#33 - Dmitriy  Achapkin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:01",
+      "team": {
+        "teamId": "1528",
+        "name": "Gold Goats"
+      },
+      "scorer": "#15 - Tom  Sgroi",
+      "assist1": "#37 - Nick  Desport",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:25",
+      "team": {
+        "teamId": "1527",
+        "name": "Wolves"
+      },
+      "player": "#10 - Rich  Scigaj",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1528",
+        "name": "Gold Goats"
+      },
+      "player": "#19 - Ira  Keltz",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:16",
+      "team": {
+        "teamId": "1527",
+        "name": "Wolves"
+      },
+      "player": "#71 - Mike  McLenahan",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:38:32.477Z"
+}

@@ -1,0 +1,108 @@
+{
+  "gameId": "15149",
+  "date": "2022-09-05",
+  "divId": 250,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1540",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1543",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:11:16",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": "#19 - Steve  Tarditi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:04",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "scorer": "#61 - Tero  Moberg",
+      "assist1": "#88 - Evan  Wojtowicz",
+      "assist2": "#5 - Ben  Malakoff"
+    },
+    {
+      "period": "4",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "scorer": "#10 - Mario  Constantinou",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "player": "#55 - Matt  Jenkins",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "player": "#55 - Matt  Jenkins",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:03:35",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "player": "#28 - Brad  Mills",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:41:34.681Z"
+}

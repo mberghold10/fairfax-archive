@@ -1,0 +1,93 @@
+{
+  "gameId": "10153",
+  "date": "2016-12-04",
+  "divId": 160,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1030",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1025",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:32",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#18 - Lee  Freedman",
+      "assist1": "#21 - Steve  Kaplan",
+      "assist2": "#22 - Amir  Tahani"
+    },
+    {
+      "period": "2",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#27 - Tim  Witkiewicz",
+      "assist1": "#91 - Stephen  Tarditi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#67 - Brian  Landers",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#91 - Stephen  Tarditi",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:49",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "player": "#22 - Amir  Tahani",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:43:03.655Z"
+}

@@ -1,0 +1,382 @@
+{
+  "gameId": "10922",
+  "date": "2017-09-16",
+  "divId": 166,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1060",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1064",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:55",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "scorer": "#12 - James  Bratsos",
+      "assist1": "#72 - Kyle  Broslyn",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:13",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "scorer": "#92 - Zack  Angeline",
+      "assist1": "#81 - BJ  Ghassemieh",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:41",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "scorer": "#72 - Kyle  Broslyn",
+      "assist1": "#18 - Jeff  Rummel",
+      "assist2": "#23 - Alex  DeYoung"
+    },
+    {
+      "period": "2",
+      "time": "00:07:56",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "scorer": "#6 - Mike  Benyo",
+      "assist1": "#19 - Lowell  Umayam",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:14",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "scorer": "#19 - Lowell  Umayam",
+      "assist1": "#11 - Mike  Brobeck",
+      "assist2": "#6 - Mike  Benyo"
+    },
+    {
+      "period": "2",
+      "time": "00:12:31",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "scorer": "#12 - James  Bratsos",
+      "assist1": "#9 - Joe  Tierney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:52",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "scorer": "#12 - James  Bratsos",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:41",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "scorer": "#72 - Kyle  Broslyn",
+      "assist1": "#12 - James  Bratsos",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "scorer": "#12 - James  Bratsos",
+      "assist1": "#72 - Kyle  Broslyn",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#28 - Jake  Angeline",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "player": "#11 - Sam  Marchio",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:49",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "player": "#10 - Chris  Chagnon",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:43",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "player": "#11 - Sam  Marchio",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#6 - Mike  Benyo",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "player": "#26 - Eric  Hessler",
+      "pim": 2,
+      "offense": "check from behind",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "player": "#26 - Eric  Hessler",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "player": "#26 - Eric  Hessler",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "player": "#26 - Eric  Hessler",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#92 - Zack  Angeline",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#92 - Zack  Angeline",
+      "pim": 2,
+      "offense": "charge",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#92 - Zack  Angeline",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#92 - Zack  Angeline",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:37",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#92 - Zack  Angeline",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:37",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "player": "#26 - Eric  Hessler",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#4 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#18 - Ron  Miller",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "player": "#18 - Jeff  Rummel",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#30 - Bill  Campbell",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:14:00.696Z"
+}

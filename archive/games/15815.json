@@ -1,0 +1,106 @@
+{
+  "gameId": "15815",
+  "date": "2023-03-28",
+  "divId": 264,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1624",
+    "name": "Goon Nation"
+  },
+  "away": {
+    "teamId": "1626",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:09",
+      "team": {
+        "teamId": "1626",
+        "name": "Wolves"
+      },
+      "scorer": "#47 - James  Kim",
+      "assist1": "#19 - Crystal  Davila",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:46",
+      "team": {
+        "teamId": "1626",
+        "name": "Wolves"
+      },
+      "scorer": "#27 - Terry  OBrien",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "1624",
+        "name": "Goon Nation"
+      },
+      "scorer": "#4 - John  Conmy",
+      "assist1": "#20 - Brian  Merritt",
+      "assist2": "#25 - Chris  Lettieri"
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1624",
+        "name": "Goon Nation"
+      },
+      "scorer": "#42 - Christian  Gibbons",
+      "assist1": "#54 - Jerry  Gibbons",
+      "assist2": "#25 - Chris  Lettieri"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:03:28",
+      "team": {
+        "teamId": "1624",
+        "name": "Goon Nation"
+      },
+      "player": "#41 - Paul  Mandeville",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:37",
+      "team": {
+        "teamId": "1624",
+        "name": "Goon Nation"
+      },
+      "player": "#43 - Paul  Stolburg",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:58:51.543Z"
+}

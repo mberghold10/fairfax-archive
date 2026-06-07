@@ -1,0 +1,95 @@
+{
+  "gameId": "10158",
+  "date": "2017-01-07",
+  "divId": 160,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1029",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1030",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#85 - Jake  Shively",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:10",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#18 - Jimmy  Feeney",
+      "assist1": "#85 - Jake  Shively",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:15",
+      "team": {
+        "teamId": "1029",
+        "name": "Red Wings"
+      },
+      "player": "#39 - John  Martinez",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1029",
+        "name": "Red Wings"
+      },
+      "player": "#39 - John  Martinez",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:43:10.708Z"
+}

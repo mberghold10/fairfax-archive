@@ -1,0 +1,156 @@
+{
+  "gameId": "12691",
+  "date": "2019-05-13",
+  "divId": 204,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1291",
+    "name": "Pharaohs"
+  },
+  "away": {
+    "teamId": "1293",
+    "name": "Devils"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:59",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "#74 - Daniel  Murray",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "scorer": "#10 - Jay  Yoon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "#22 - Jongjae  Yoo",
+      "assist1": "#74 - Daniel  Murray",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:56",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "scorer": "#5 - Chris  Maroon",
+      "assist1": "#4 - Kevin  Via",
+      "assist2": "#25 - Chris  Howard"
+    },
+    {
+      "period": "3",
+      "time": "00:13:35",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "scorer": "#15 - Brian  Ebert",
+      "assist1": "#4 - Kevin  Via",
+      "assist2": "#71 - Matt  Renton"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "player": "#11 - Sam  Marchio",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "player": "#5 - Chris  Maroon",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "player": "#23 - Seth  Wayne",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:56",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "player": "#13 - Faraz  Izadi",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:59:06.298Z"
+}

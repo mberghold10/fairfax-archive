@@ -1,0 +1,211 @@
+/*
+ * HeadToHeadPage styles
+ */
+
+.h2h-page {
+  padding-block: var(--spacing-lg);
+}
+
+.h2h-page__title {
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-bold);
+  margin-bottom: var(--spacing-lg);
+}
+
+/* Team selection interface */
+.h2h-page__selection {
+  margin-bottom: var(--spacing-xl);
+  padding: var(--spacing-lg);
+  background: var(--color-surface);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+}
+
+.h2h-page__dropdowns {
+  display: flex;
+  align-items: flex-end;
+  gap: var(--spacing-md);
+  flex-wrap: wrap;
+}
+
+.h2h-page__label {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xs);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-secondary);
+  flex: 1;
+  min-width: 180px;
+}
+
+.h2h-page__select {
+  padding: var(--spacing-sm) var(--spacing-md);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-size: var(--font-size-base);
+  width: 100%;
+}
+
+.h2h-page__select:focus {
+  outline: 2px solid var(--color-brand-blue);
+  outline-offset: 2px;
+}
+
+.h2h-page__vs {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-muted);
+  padding-bottom: var(--spacing-sm);
+}
+
+.h2h-page__compare-btn {
+  padding: var(--spacing-sm) var(--spacing-lg);
+  background: var(--color-brand-blue);
+  color: #fff;
+  border: none;
+  border-radius: var(--radius-sm);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-semibold);
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.h2h-page__compare-btn:hover:not(:disabled) {
+  opacity: 0.9;
+}
+
+.h2h-page__compare-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.h2h-page__error-hint {
+  margin-top: var(--spacing-sm);
+  color: var(--color-brand-red);
+  font-size: var(--font-size-sm);
+}
+
+/* Results section */
+.h2h-page__results {
+  margin-top: var(--spacing-lg);
+}
+
+.h2h-page__no-matchup {
+  color: var(--color-text-muted);
+  font-style: italic;
+  text-align: center;
+  padding: var(--spacing-xl);
+}
+
+/* All-time record */
+.h2h-page__record {
+  margin-bottom: var(--spacing-xl);
+}
+
+.h2h-page__record-title {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  margin-bottom: var(--spacing-md);
+  padding-bottom: var(--spacing-xs);
+  border-bottom: 2px solid var(--color-brand-blue);
+}
+
+.h2h-page__record-grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-xl);
+  padding: var(--spacing-lg);
+  text-align: center;
+}
+
+.h2h-page__record-team {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xs);
+}
+
+.h2h-page__record-value {
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-brand-blue);
+}
+
+.h2h-page__record-ties {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.h2h-page__record-ties-value {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-secondary);
+}
+
+/* Game list */
+.h2h-page__games {
+  margin-top: var(--spacing-lg);
+}
+
+.h2h-page__games-title {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  margin-bottom: var(--spacing-md);
+  padding-bottom: var(--spacing-xs);
+  border-bottom: 2px solid var(--color-brand-blue);
+}
+
+.h2h-page__games-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.h2h-page__games-table th {
+  text-align: left;
+  padding: var(--spacing-sm) var(--spacing-md);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-secondary);
+  border-bottom: 2px solid var(--color-border);
+}
+
+.h2h-page__games-table td {
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.h2h-page__game-link {
+  color: var(--color-link);
+  text-decoration: none;
+}
+
+.h2h-page__game-link:hover {
+  color: var(--color-link-hover);
+  text-decoration: underline;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .h2h-page__dropdowns {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .h2h-page__vs {
+    text-align: center;
+    padding-bottom: 0;
+  }
+
+  .h2h-page__record-grid {
+    flex-direction: column;
+    gap: var(--spacing-md);
+  }
+
+  .h2h-page__games-table {
+    font-size: var(--font-size-sm);
+  }
+}

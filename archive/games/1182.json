@@ -1,0 +1,230 @@
+{
+  "gameId": "1182",
+  "date": "2021-10-24",
+  "divId": 237,
+  "seasonName": "Summer 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1479",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1480",
+    "name": "Capitals"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "1479",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#4 - Don  Sussman",
+      "assist1": "#5 - Ken  Alm",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:39",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#20 - Scott  Forbes",
+      "assist1": "#70 - Dan  Ellert",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:34",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": "#9 - Erik  Hass",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:20",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#10 - Peter  Grose",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:48",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#15 - Bob  Guckian",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:26",
+      "team": {
+        "teamId": "1479",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:36",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#16 - Dan  Rebman",
+      "assist1": "#20 - Scott  Forbes",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:54",
+      "team": {
+        "teamId": "1479",
+        "name": "Ice Dogs"
+      },
+      "player": "#13 - Rob  Witman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1479",
+        "name": "Ice Dogs"
+      },
+      "player": "#17 - Justin  Cade",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:39",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "player": "#70 - Dan  Ellert",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:36",
+      "team": {
+        "teamId": "1479",
+        "name": "Ice Dogs"
+      },
+      "player": "#2 - Tom  Keith",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:53",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "player": "#16 - Dan  Rebman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:46",
+      "team": {
+        "teamId": "1479",
+        "name": "Ice Dogs"
+      },
+      "player": "#24 - Brian  Crossin",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:23",
+      "team": {
+        "teamId": "1479",
+        "name": "Ice Dogs"
+      },
+      "player": "#13 - Rob  Witman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:29:17.310Z"
+}

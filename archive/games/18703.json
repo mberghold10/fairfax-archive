@@ -1,0 +1,143 @@
+{
+  "gameId": "18703",
+  "date": "2025-12-29",
+  "divId": 323,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1983",
+    "name": "Toronto"
+  },
+  "away": {
+    "teamId": "1984",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:27",
+      "team": {
+        "teamId": "1984",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#27 - Steven  Darrow",
+      "assist1": "#74 - Matthew  Santos",
+      "assist2": "#9 - Munkh  Dansizan"
+    },
+    {
+      "period": "2",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "1983",
+        "name": "Toronto"
+      },
+      "scorer": "#33 - Greg  Kowalski",
+      "assist1": "#28 - Harry  Nicholakos",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "1983",
+        "name": "Toronto"
+      },
+      "scorer": "#96 - Wei  Wang",
+      "assist1": "#8 - Elliott  Yang",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:41",
+      "team": {
+        "teamId": "1983",
+        "name": "Toronto"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#28 - Harry  Nicholakos",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:33",
+      "team": {
+        "teamId": "1983",
+        "name": "Toronto"
+      },
+      "scorer": "#33 - Greg  Kowalski",
+      "assist1": "#8 - Elliott  Yang",
+      "assist2": "#96 - Wei  Wang"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:45",
+      "team": {
+        "teamId": "1984",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#81 - Sean  Murphy",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:51",
+      "team": {
+        "teamId": "1984",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#9 - Munkh  Dansizan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:56",
+      "team": {
+        "teamId": "1983",
+        "name": "Toronto"
+      },
+      "player": "#54 - Tom  Monanio",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:52",
+      "team": {
+        "teamId": "1984",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#23 - Sal  St Thomas",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:02:12.667Z"
+}

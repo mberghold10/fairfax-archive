@@ -1,0 +1,108 @@
+{
+  "gameId": "18336",
+  "date": "2025-07-20",
+  "divId": 318,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1952",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1946",
+    "name": "Valor Puckaneers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "scorer": "#13 - Justin  Leonard",
+      "assist1": "#3 - Alex  Naranjo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:57",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "scorer": "#7 - Art  Supsiri",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": "#54 - Tom  Montanio"
+    },
+    {
+      "period": "2",
+      "time": "00:11:13",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "scorer": "#3 - Alex  Naranjo",
+      "assist1": "#72 - Joseph  DeWolfe",
+      "assist2": "#39 - Andrew  Hancher"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:07",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "player": "#3 - Alex  Naranjo",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:15:58",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "player": "#72 - Joseph  DeWolfe",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:49",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "player": "#11 - Sean  Burke",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:56:59.805Z"
+}

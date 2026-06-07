@@ -1,0 +1,193 @@
+{
+  "gameId": "910",
+  "date": "2018-09-24",
+  "divId": 184,
+  "seasonName": "Summer 2018",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1171",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1170",
+    "name": "BlueJacket Capitals"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "scorer": "#77 - Caleb  Sohl",
+      "assist1": "#26 - Danny  Meaux",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:45",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#12 - Trent  Papke",
+      "assist1": "#42 - Jeff  Lovett",
+      "assist2": "#25 - Stan  Torgovitsky"
+    },
+    {
+      "period": "1",
+      "time": "00:14:27",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#66 - Andrew  Alix",
+      "assist1": "#7 - Gary  McMahon",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#12 - Trent  Papke",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": "#25 - Stan  Torgovitsky"
+    },
+    {
+      "period": "2",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alexander  Utano",
+      "assist1": "#77 - Caleb  Sohl",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#17 - Bill  Demasso",
+      "assist1": "#10 - Peter  Grose",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:46",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#8 - Chris  White",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:11",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#77 - Erik  Bergman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:25",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "player": "#10 - Chris  Greenough",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#15 - Bob  Guckian",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:27",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#52 - Alan  Dappen",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:41",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "player": "#77 - Caleb  Sohl",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:35:35.503Z"
+}

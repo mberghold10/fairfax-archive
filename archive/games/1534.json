@@ -1,0 +1,156 @@
+{
+  "gameId": "1534",
+  "date": "2025-06-08",
+  "divId": 305,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1872",
+    "name": "Boston"
+  },
+  "away": {
+    "teamId": "1870",
+    "name": "Ers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:34",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#17 - Don  Bainbridge",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:30",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#23 - Gordon  Scott",
+      "assist1": "#24 - Tom  Spiewak",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#3 - Matt  Cerce",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#96 - Chris  Beck",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": "#3 - Matt  Cerce"
+    },
+    {
+      "period": "3",
+      "time": "00:12:33",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "1872",
+        "name": "Boston"
+      },
+      "player": "#25 - Bob  Banasik",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:28",
+      "team": {
+        "teamId": "1872",
+        "name": "Boston"
+      },
+      "player": "#8 - Peter  Boone",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "player": "#74 - Paul  Sechser",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:39",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "player": "#74 - Paul  Sechser",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:45",
+      "team": {
+        "teamId": "1872",
+        "name": "Boston"
+      },
+      "player": "#11 - Dave  Wilson",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:43:31.070Z"
+}

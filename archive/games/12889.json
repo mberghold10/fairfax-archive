@@ -1,0 +1,206 @@
+{
+  "gameId": "12889",
+  "date": "2019-06-07",
+  "divId": 206,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1302",
+    "name": "Triassic Puck"
+  },
+  "away": {
+    "teamId": "1305",
+    "name": "Sparks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#24 - Jonathan  Rowny",
+      "assist1": "#92 - Caleb  Adams",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#10 - Radoslaw  Kaczor",
+      "assist1": "#79 - Tristan  Heyn",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:01",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#96 - Jon  Kurzinger",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:57",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#10 - Radoslaw  Kaczor",
+      "assist1": "#79 - Tristan  Heyn",
+      "assist2": "#38 - Keith  Forsythe"
+    },
+    {
+      "period": "3",
+      "time": "00:08:43",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#96 - Jon  Kurzinger",
+      "assist1": "#10 - Radoslaw  Kaczor",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:57",
+      "team": {
+        "teamId": "1305",
+        "name": "Sparks"
+      },
+      "scorer": "#16 - Josh  Brown",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1305",
+        "name": "Sparks"
+      },
+      "player": "#41 - Randy  Warren",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:40",
+      "team": {
+        "teamId": "1305",
+        "name": "Sparks"
+      },
+      "player": "#30 - Brandon  Heiner",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:13",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "player": "#44 - George  Cernica",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "player": "#96 - Jon  Kurzinger",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:00",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "player": "#24 - Jonathan  Rowny",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1305",
+        "name": "Sparks"
+      },
+      "player": "#41 - Randy  Warren",
+      "pim": 2,
+      "offense": "board",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1305",
+        "name": "Sparks"
+      },
+      "player": "#41 - Randy  Warren",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1305",
+        "name": "Sparks"
+      },
+      "player": "#10 - Tony  Henseler",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:01:44.457Z"
+}

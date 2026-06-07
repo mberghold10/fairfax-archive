@@ -1,0 +1,117 @@
+{
+  "gameId": "881",
+  "date": "2018-04-07",
+  "divId": 175,
+  "seasonName": "Winter 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1116",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1120",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#1 - Sam  Crowley",
+      "assist1": "#29 - Michael  Carzoli",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:50",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": "#77 - Kirsten  Domingo",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": "#80 - Matt  Rogers",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#1 - Sam  Crowley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1116",
+        "name": "Avalanche"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#77 - Caleb  Solh",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "player": "#87 - Nate  Morello",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "1116",
+        "name": "Avalanche"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:24:47.437Z"
+}

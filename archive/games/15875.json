@@ -1,0 +1,150 @@
+{
+  "gameId": "15875",
+  "date": "2023-05-17",
+  "divId": 271,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1672",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1673",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:37",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Mario  Regan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:09",
+      "team": {
+        "teamId": "1673",
+        "name": "Bruins"
+      },
+      "scorer": "#65 - Bobby  Woods-Corwin",
+      "assist1": "#18 - Peter  Schmick",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1673",
+        "name": "Bruins"
+      },
+      "scorer": "#9 - Matt  Slattery",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1673",
+        "name": "Bruins"
+      },
+      "scorer": "#65 - Bobby  Woods-Corwin",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1673",
+        "name": "Bruins"
+      },
+      "scorer": "#65 - Bobby  Woods-Corwin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:19",
+      "team": {
+        "teamId": "1673",
+        "name": "Bruins"
+      },
+      "scorer": "#9 - Matt  Slattery",
+      "assist1": "#18 - Peter  Schmick",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:54",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "scorer": "#16 - Bill  Thompson",
+      "assist1": "#4 - Mark  Sullivan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:42",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "scorer": "#7 - Joseph  Hull",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": "#21 - Steve  Chan"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:37",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:02",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:06:01.051Z"
+}

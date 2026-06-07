@@ -1,0 +1,152 @@
+{
+  "gameId": "15746",
+  "date": "2023-02-22",
+  "divId": 262,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1613",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1639",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#56 - Ryan  Tyler",
+      "assist1": "#41 - Erik  Kniaz",
+      "assist2": "#9 - Jason  Murphy"
+    },
+    {
+      "period": "1",
+      "time": "00:05:19",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#9 - Jason  Murphy",
+      "assist1": "#10 - Matt  Galen",
+      "assist2": "#56 - Ryan  Tyler"
+    },
+    {
+      "period": "2",
+      "time": "00:05:53",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#56 - Ryan  Tyler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:45",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#6 - Kevin  Elfenbein",
+      "assist1": "#9 - Jason  Murphy",
+      "assist2": "#56 - Ryan  Tyler"
+    },
+    {
+      "period": "2",
+      "time": "00:10:35",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#9 - Jason  Murphy",
+      "assist1": "#56 - Ryan  Tyler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "1639",
+        "name": "Nortec"
+      },
+      "scorer": "#5 - Peter  Boone",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": "#93 - Trygve  Olson"
+    },
+    {
+      "period": "3",
+      "time": "00:08:42",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#16 - Scott  Kuehn",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:52",
+      "team": {
+        "teamId": "1639",
+        "name": "Nortec"
+      },
+      "player": "#28 - Dave  Wilson",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "player": "#18 - Samson  Chu",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:06",
+      "team": {
+        "teamId": "1639",
+        "name": "Nortec"
+      },
+      "player": "#4 - Tad  Jose",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:55:44.607Z"
+}

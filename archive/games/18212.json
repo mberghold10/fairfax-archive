@@ -1,0 +1,139 @@
+{
+  "gameId": "18212",
+  "date": "2025-07-26",
+  "divId": 314,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1926",
+    "name": "Bottle Caps"
+  },
+  "away": {
+    "teamId": "1924",
+    "name": "Toronto"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:48",
+      "team": {
+        "teamId": "1924",
+        "name": "Toronto"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": "#5 - Dave  Neri",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "1926",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#88 - Afshawn  Towfighi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:23",
+      "team": {
+        "teamId": "1926",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#55 - Evan  Martin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:27",
+      "team": {
+        "teamId": "1926",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#33 - Matt  Ponzurick",
+      "assist1": "#88 - Afshawn  Towfighi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1924",
+        "name": "Toronto"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#5 - Dave  Neri",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:43",
+      "team": {
+        "teamId": "1924",
+        "name": "Toronto"
+      },
+      "scorer": "#5 - Dave  Neri",
+      "assist1": "#48 - Randy  Sasai",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1924",
+        "name": "Toronto"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#60 - Will  Murphy",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:24",
+      "team": {
+        "teamId": "1924",
+        "name": "Toronto"
+      },
+      "player": "#12 - Kevin  James",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "1926",
+        "name": "Bottle Caps"
+      },
+      "player": "#0 - Howard  Ludwig",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:52:10.005Z"
+}

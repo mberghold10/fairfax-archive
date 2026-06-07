@@ -1,0 +1,145 @@
+{
+  "gameId": "10325",
+  "date": "2017-01-09",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1021",
+    "name": "Lightning"
+  },
+  "away": {
+    "teamId": "1024",
+    "name": "Bad Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:26",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "scorer": "#32 - Clayton  Clyburn",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "scorer": "#20 - Bao  Pham",
+      "assist1": "#36 - Braxton  Good",
+      "assist2": "#48 - Randy  Sasai"
+    },
+    {
+      "period": "2",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "scorer": "#22 - Jimmy  Nguyen",
+      "assist1": "#13 - Trevor  Wallace",
+      "assist2": "#20 - Bao  Pham"
+    },
+    {
+      "period": "3",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "scorer": "#22 - Jimmy  Nguyen",
+      "assist1": "#13 - Trevor  Wallace",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:52",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "player": "#52 - John  Juliano",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:06",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#47 - Dave  LeKuch",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:57",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#91 - Steve  Chernoff",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:15",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "player": "#52 - John  Juliano",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:04:41.044Z"
+}

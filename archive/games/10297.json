@@ -1,0 +1,73 @@
+{
+  "gameId": "10297",
+  "date": "2017-01-22",
+  "divId": 157,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1007",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1010",
+    "name": "Blackhawks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "4",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "scorer": "#47 - Talbot  Black",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "1007",
+        "name": "British Bulldogs"
+      },
+      "player": "#24 - Jeff  Robins",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "player": "#22 - Cody  Reinitz",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:02:00.126Z"
+}

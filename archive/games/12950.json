@@ -1,0 +1,141 @@
+{
+  "gameId": "12950",
+  "date": "2019-07-31",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1261",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "1265",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#28 - Pete  Sandness",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "scorer": "#10 - Aaron  Dobbs",
+      "assist1": "#69 - Aaron  Domnitch",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:06",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "scorer": "#11 - Maloney  Bryan",
+      "assist1": "#24 - Jamie  Belcastro",
+      "assist2": "#93 - Trygve  Olson"
+    },
+    {
+      "period": "2",
+      "time": "00:05:20",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "scorer": "#9 - Mark  Rudnicki",
+      "assist1": "#28 - Konstantin  Silov",
+      "assist2": "#40 - Mikhail  Serebrennikov"
+    },
+    {
+      "period": "3",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#28 - Pete  Sandness",
+      "assist2": "#57 - Derek  Morrissette"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:25",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "player": "#20 - Bobby  Mervine",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "player": "#19 - Andrew  Grose",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:53:53.223Z"
+}

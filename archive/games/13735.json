@@ -1,0 +1,141 @@
+{
+  "gameId": "13735",
+  "date": "2020-02-22",
+  "divId": 216,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1365",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1363",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:16:24",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#74 - Mik  Berwin",
+      "assist1": "#2 - James  Kim",
+      "assist2": "#28 - Richard  Pettey"
+    },
+    {
+      "period": "2",
+      "time": "00:01:36",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "scorer": "#7 - Ian  Stack",
+      "assist1": "#83 - Bill  Bailey",
+      "assist2": "#5 - Zac  Graber"
+    },
+    {
+      "period": "2",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "scorer": "#27 - Michael  Fine",
+      "assist1": "#31 - Zack  Furness",
+      "assist2": "#24 - Bryan  MacRae"
+    },
+    {
+      "period": "2",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#28 - Richard  Pettey",
+      "assist1": "#16 - Chris  Holbert",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#21 - David  Malakoff",
+      "assist1": "#2 - James  Kim",
+      "assist2": "#16 - Chris  Holbert"
+    },
+    {
+      "period": "3",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#74 - Mik  Berwin",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:53",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "player": "#7 - Ian  Stack",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:16",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "player": "#79 - Sean  Longanecker",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:00",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "player": "#23 - Eric  Vanhove",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:14:30.438Z"
+}

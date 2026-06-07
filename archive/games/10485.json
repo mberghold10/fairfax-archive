@@ -1,0 +1,126 @@
+{
+  "gameId": "10485",
+  "date": "2017-05-31",
+  "divId": 162,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1036",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1040",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "1040",
+        "name": "Nortec"
+      },
+      "scorer": "#14 - Jude  Corina",
+      "assist1": "#5 - Peter  Boone",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:33",
+      "team": {
+        "teamId": "1040",
+        "name": "Nortec"
+      },
+      "scorer": "#16 - Scott  Forbes",
+      "assist1": "#14 - Jude  Corina",
+      "assist2": "#5 - Peter  Boone"
+    },
+    {
+      "period": "1",
+      "time": "00:13:45",
+      "team": {
+        "teamId": "1036",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "1036",
+        "name": "Swarm"
+      },
+      "scorer": "#39 - Blaise  Belfiore",
+      "assist1": "#22 - Sonny  Gupta",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "1036",
+        "name": "Swarm"
+      },
+      "scorer": "#9 - James  Bratsos",
+      "assist1": "#89 - Jim  Smalley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1040",
+        "name": "Nortec"
+      },
+      "scorer": "#5 - Peter  Boone",
+      "assist1": "#14 - Jude  Corina",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1040",
+        "name": "Nortec"
+      },
+      "scorer": "#3 - Kareem  El-Alaily",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1040",
+        "name": "Nortec"
+      },
+      "player": "#14 - Jude  Corina",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:07:59.768Z"
+}

@@ -1,0 +1,108 @@
+{
+  "gameId": "18052",
+  "date": "2025-03-29",
+  "divId": 309,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1891",
+    "name": "Roughnecks"
+  },
+  "away": {
+    "teamId": "1887",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:40",
+      "team": {
+        "teamId": "1891",
+        "name": "Roughnecks"
+      },
+      "scorer": "#22 - Felix  Propp",
+      "assist1": "#21 - Finnean  Deveans",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:55",
+      "team": {
+        "teamId": "1891",
+        "name": "Roughnecks"
+      },
+      "scorer": "#11 - Travis  Hazeltine",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:01",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "scorer": "#65 - Howard  Ludwig",
+      "assist1": "#29 - James  Kim",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "player": "#31 - Zach  Furness",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1891",
+        "name": "Roughnecks"
+      },
+      "player": "#21 - Finnean  Deveans",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "1891",
+        "name": "Roughnecks"
+      },
+      "player": "#81 - Sean  Murphy",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:46:46.760Z"
+}

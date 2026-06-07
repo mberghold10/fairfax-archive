@@ -1,0 +1,128 @@
+{
+  "gameId": "12557",
+  "date": "2019-02-14",
+  "divId": 195,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1240",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1235",
+    "name": "Flying Circus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:44",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "scorer": "#3 - Matt  Coose",
+      "assist1": "#8 - Dan  Brehm",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:16",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "scorer": "#49 - Greg  Mullen",
+      "assist1": "#28 - Alex  Henry",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:58",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Andy  Taylor",
+      "assist1": "#2 - Marc  Sheinkin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": "#28 - Alex  Henry",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": null,
+      "assist2": "#25 - Chris  Lettieri"
+    },
+    {
+      "period": "3",
+      "time": "00:11:39",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "scorer": "#2 - James  Marlowe",
+      "assist1": "#69 - Ron  Fishbeck",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:29",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "player": "#9 - Brian  Mehnert",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:51",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "player": "#21 - Trevor  Wallace",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:49:17.452Z"
+}

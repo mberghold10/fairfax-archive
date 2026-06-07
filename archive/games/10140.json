@@ -1,0 +1,191 @@
+{
+  "gameId": "10140",
+  "date": "2016-12-09",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1021",
+    "name": "Lightning"
+  },
+  "away": {
+    "teamId": "1023",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:16",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": "#35 - Ross  Kuhn",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "scorer": "#3 - Jordan  Ziegler",
+      "assist1": "#91 - Steve  Chernoff",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:39",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": "#13 - Shane  Mitchell",
+      "assist2": "#35 - Ross  Kuhn"
+    },
+    {
+      "period": "2",
+      "time": "00:08:54",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#99 - Jon  Davoren",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:23",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#99 - Jon  Davoren",
+      "assist1": "#77 - Caleb  Sohl",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:24",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#13 - Shane  Mitchell",
+      "assist1": "#43 - Alex  Utano",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#35 - Ross  Kuhn",
+      "assist1": "#13 - Shane  Mitchell",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#91 - Steve  Chernoff",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#91 - Steve  Chernoff",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:19",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:12",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#22 - Chris  Simmons",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:49",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#33 - Mike  Wagner",
+      "pim": 4,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:22",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#3 - Jordan  Ziegler",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:04:31.131Z"
+}

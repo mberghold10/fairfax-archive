@@ -1,0 +1,106 @@
+{
+  "gameId": "10575",
+  "date": "2017-07-01",
+  "divId": 165,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1054",
+    "name": "Phi Slama Jamma"
+  },
+  "away": {
+    "teamId": "1056",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "scorer": "#77 - Jeff  Carter",
+      "assist1": "#7 - Matt  Finsterwald",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:31",
+      "team": {
+        "teamId": "1056",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#12 - Steven  Courson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "scorer": "#5 - Nathan  Green",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "scorer": "#77 - Jeff  Carter",
+      "assist1": "#7 - Matt  Finsterwald",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1056",
+        "name": "British Bulldogs"
+      },
+      "player": "#66 - Harry  Patrinos",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:32",
+      "team": {
+        "teamId": "1056",
+        "name": "British Bulldogs"
+      },
+      "player": "#11 - David  Kidd",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:12:00.610Z"
+}

@@ -1,0 +1,128 @@
+{
+  "gameId": "11885",
+  "date": "2018-07-28",
+  "divId": 185,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1178",
+    "name": "Lightning"
+  },
+  "away": {
+    "teamId": "1175",
+    "name": "Red Devils"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:49",
+      "team": {
+        "teamId": "1178",
+        "name": "Lightning"
+      },
+      "scorer": "#11 - Corbin  Neiberline",
+      "assist1": "#33 - Mike  Wagner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:33",
+      "team": {
+        "teamId": "1175",
+        "name": "Red Devils"
+      },
+      "scorer": "#23 - Ken  Degrave",
+      "assist1": "#9 - Joe  Tierney",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1178",
+        "name": "Lightning"
+      },
+      "scorer": "#14 - Harvey  Denison",
+      "assist1": "#20 - Eric  Nelson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:01",
+      "team": {
+        "teamId": "1175",
+        "name": "Red Devils"
+      },
+      "scorer": "#9 - Joe  Tierney",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:24",
+      "team": {
+        "teamId": "1175",
+        "name": "Red Devils"
+      },
+      "scorer": "#4 - John  Dandeneau",
+      "assist1": "#23 - Ken  Degrave",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:11",
+      "team": {
+        "teamId": "1175",
+        "name": "Red Devils"
+      },
+      "scorer": "#9 - Joe  Tierney",
+      "assist1": "#72 - Kyle  Brosnan",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:11:06",
+      "team": {
+        "teamId": "1175",
+        "name": "Red Devils"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:25",
+      "team": {
+        "teamId": "1175",
+        "name": "Red Devils"
+      },
+      "player": "#18 - Jeff  Rummel",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:36:20.543Z"
+}

@@ -1,0 +1,104 @@
+{
+  "gameId": "16371",
+  "date": "2023-09-29",
+  "divId": 274,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1689",
+    "name": "Hershey"
+  },
+  "away": {
+    "teamId": "1691",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:43",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#7 - Vadim  Sokolov",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#63 - Chris  Delew",
+      "assist1": "#28 - Brian  Hunt",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#11 - Gregory  Wilburn",
+      "assist1": "#43 - James  Kim",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:15",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "scorer": "#16 - Patrick  OConnor",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:25",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#63 - Chris  Delew",
+      "assist1": "#77 - Trevor  Boynton",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:04:27",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "player": "#17 - Marc  Patience",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:10:35.783Z"
+}

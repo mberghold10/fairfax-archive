@@ -1,0 +1,141 @@
+{
+  "gameId": "10860",
+  "date": "2017-08-26",
+  "divId": 168,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1073",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1076",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#11 - Adam  Bartholomew",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:48",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#27 - Jamie  Prime",
+      "assist1": "#11 - Adam  Bartholomew",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1076",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#21 - Steve  Kaplan",
+      "assist1": "#77 - Jeff  Wilken",
+      "assist2": "#36 - Brian  Lusby"
+    },
+    {
+      "period": "2",
+      "time": "00:07:47",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#12 - Kirsten  Evans",
+      "assist1": "#27 - Jamie  Prime",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#38 - Michael  Andrien",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:43",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#33 - Ray  Bartholomew",
+      "assist1": "#3 - Steven  Schooner",
+      "assist2": "#12 - Kirsten  Evans"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:48",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "player": "#44 - Jim  McGovern",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "player": "#11 - Adam  Bartholomew",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:46",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "player": "#83 - David  Bilodeau",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:16:04.776Z"
+}

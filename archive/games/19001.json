@@ -1,0 +1,185 @@
+{
+  "gameId": "19001",
+  "date": "2026-04-20",
+  "divId": 324,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2022",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1987",
+    "name": "Puckaneers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 4,
+      "p3": 2,
+      "ot": 0,
+      "final": 8
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#89 - Jay  Gobeil",
+      "assist1": "#13 - Justin  Leonard",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#3 - Alex  Naranjo",
+      "assist1": "#19 - Brian  Parker",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:35",
+      "team": {
+        "teamId": "2022",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#43 - Alex  Langsam",
+      "assist1": "#4 - Rob  Ryan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#27 - Dave  Lin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:52",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#16 - Kiran  Manakarnika",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#89 - Jay  Gobeil",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:00",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#16 - Kiran  Manakarnika",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "2022",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#19 - Joe  Housley",
+      "assist1": "#43 - Alex  Langsam",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#42 - Matt  Poetzinger",
+      "assist1": "#89 - Jay  Gobeil",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#39 - Andrew  Hancher",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "player": "#3 - Alex  Naranjo",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:29",
+      "team": {
+        "teamId": "2022",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#19 - Joe  Housley",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:45",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "player": "#91 - Sean  Andrada",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:03:45.708Z"
+}

@@ -1,0 +1,189 @@
+{
+  "gameId": "16225",
+  "date": "2023-10-01",
+  "divId": 269,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1659",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1662",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1662",
+        "name": "Angry Moose"
+      },
+      "scorer": "#51 - Bob  Sagusti",
+      "assist1": "#8 - Elliott  Yang",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:33",
+      "team": {
+        "teamId": "1662",
+        "name": "Angry Moose"
+      },
+      "scorer": "#42 - Dan  Schwind",
+      "assist1": "#10 - Howie  Schulman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:26",
+      "team": {
+        "teamId": "1659",
+        "name": "Rink Rats"
+      },
+      "scorer": "#36 - Steve  Morra",
+      "assist1": "#12 - Kieran  McQuilkin",
+      "assist2": "#9 - Chris  ORear"
+    },
+    {
+      "period": "1",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "1659",
+        "name": "Rink Rats"
+      },
+      "scorer": "#23 - Dan  Bardo",
+      "assist1": "#13 - John  Bereza",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1659",
+        "name": "Rink Rats"
+      },
+      "scorer": "#22 - Matthew  Thrasher",
+      "assist1": "#37 - TJ  Wolf",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1659",
+        "name": "Rink Rats"
+      },
+      "scorer": "#37 - TJ  Wolf",
+      "assist1": "#9 - Chris  ORear",
+      "assist2": "#36 - Steve  Morra"
+    },
+    {
+      "period": "2",
+      "time": "00:12:10",
+      "team": {
+        "teamId": "1659",
+        "name": "Rink Rats"
+      },
+      "scorer": "#37 - TJ  Wolf",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1659",
+        "name": "Rink Rats"
+      },
+      "scorer": "#13 - John  Bereza",
+      "assist1": "#22 - Matthew  Thrasher",
+      "assist2": "#59 - Jared  Trevethan"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:05",
+      "team": {
+        "teamId": "1662",
+        "name": "Angry Moose"
+      },
+      "player": "#8 - Elliott  Yang",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:33",
+      "team": {
+        "teamId": "1662",
+        "name": "Angry Moose"
+      },
+      "player": "#8 - Elliott  Yang",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:39",
+      "team": {
+        "teamId": "1662",
+        "name": "Angry Moose"
+      },
+      "player": "#42 - Dan  Schwind",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:47",
+      "team": {
+        "teamId": "1659",
+        "name": "Rink Rats"
+      },
+      "player": "#9 - Chris  ORear",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:42",
+      "team": {
+        "teamId": "1659",
+        "name": "Rink Rats"
+      },
+      "player": "#25 - Dave  Brown",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:04:29.041Z"
+}

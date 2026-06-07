@@ -1,0 +1,185 @@
+{
+  "gameId": "15044",
+  "date": "2022-06-01",
+  "divId": 253,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1562",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1561",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 8
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:38",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#18 - Samson  Chu",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:13",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#6 - Kevin  Elfenbein",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:44",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:47",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": "#56 - Ryan  Tyler"
+    },
+    {
+      "period": "2",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#6 - Kevin  Elfenbein",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "2",
+      "time": "00:10:35",
+      "team": {
+        "teamId": "1562",
+        "name": "Jacks"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#15 - John  Cushing",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#18 - Samson  Chu",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:53",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#36 - William  Ludke",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "3",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1562",
+        "name": "Jacks"
+      },
+      "scorer": "#2 - Tim  Commerford",
+      "assist1": "#8 - Rod  Wade",
+      "assist2": "#77 - Oleg  Nayandin"
+    },
+    {
+      "period": "3",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#6 - Kevin  Elfenbein",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:35",
+      "team": {
+        "teamId": "1562",
+        "name": "Jacks"
+      },
+      "player": "#15 - John  Cushing",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:01",
+      "team": {
+        "teamId": "1562",
+        "name": "Jacks"
+      },
+      "player": "#15 - John  Cushing",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:44:50.071Z"
+}

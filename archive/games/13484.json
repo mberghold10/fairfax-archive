@@ -1,0 +1,128 @@
+{
+  "gameId": "13484",
+  "date": "2019-12-29",
+  "divId": 216,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1368",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1364",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:47",
+      "team": {
+        "teamId": "1364",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#51 - Dillon  Schrock",
+      "assist1": "#64 - Brian  Dutze",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:13",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#27 - Nick  Montfort",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1364",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#88 - Jason  Searight",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#33 - Mark  Hall",
+      "assist1": "#25 - James  Chu",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:14",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#27 - Nick  Montfort",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:26",
+      "team": {
+        "teamId": "1364",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#64 - Brian  Dutze",
+      "assist1": "#88 - Jason  Searight",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:18:57",
+      "team": {
+        "teamId": "1364",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#4 - Jonathan  Carter",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:41",
+      "team": {
+        "teamId": "1364",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#44 - George  Cernica",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:14:13.347Z"
+}

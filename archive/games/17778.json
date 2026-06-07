@@ -1,0 +1,93 @@
+{
+  "gameId": "17778",
+  "date": "2025-02-14",
+  "divId": 309,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1888",
+    "name": "Hershey Beers"
+  },
+  "away": {
+    "teamId": "1887",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:33",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#43 - James J Kim",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:21",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "scorer": "#61 - Nick  Johnston",
+      "assist1": "#40 - Brendan  Sweezea",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:12",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "scorer": "#24 - Mike  Plourde",
+      "assist1": "#11 - Mark  Boyd",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:07",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "scorer": "#24 - Mike  Plourde",
+      "assist1": "#21 - Brendan  Williams",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "player": "#40 - Brendan  Sweezea",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:46:32.739Z"
+}

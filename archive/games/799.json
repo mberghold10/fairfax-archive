@@ -1,0 +1,204 @@
+{
+  "gameId": "799",
+  "date": "2017-04-01",
+  "divId": 158,
+  "seasonName": "Winter 2016",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1013",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1015",
+    "name": "Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:02",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#90 - Shawn  McEvoy",
+      "assist1": "#28 - Jack  Wilmer",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:46",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#90 - Shawn  McEvoy",
+      "assist1": "#18 - Steve  Percival",
+      "assist2": "#11 - Mike  Dumont"
+    },
+    {
+      "period": "2",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#5 - Chris  Howard",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:01",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:26",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Rich  Wagner",
+      "assist1": "#63 - Jeff  Hoffner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:14",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#18 - Steve  Percival",
+      "assist1": "#90 - Shawn  McEvoy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#90 - Shawn  McEvoy",
+      "assist2": "#18 - Steve  Percival"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:36",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "player": "#28 - Jack  Wilmer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:49",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "player": "#4 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:49",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "player": "#18 - Steve  Percival",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "player": "#19 - Jon  Forrester",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "player": "#11 - Mike  Brobeck",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "player": "#22 - James  Stegmann",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:03",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "player": "#17 - Rich  Wagner",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:03:43.484Z"
+}

@@ -1,0 +1,95 @@
+{
+  "gameId": "12001",
+  "date": "2018-09-16",
+  "divId": 187,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1190",
+    "name": "Triassic Puck"
+  },
+  "away": {
+    "teamId": "1195",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:51",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "scorer": "#67 - John  Krotzer",
+      "assist1": "#12 - Gus  Anderson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:36",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "scorer": "#12 - Gus  Anderson",
+      "assist1": "#24 - Harry  Nicholakos",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:15:18",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#10 - Radek  Kaczor",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "player": "#4 - Jonathan  Carter",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "player": "#4 - Jonathan  Carter",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:39:50.114Z"
+}

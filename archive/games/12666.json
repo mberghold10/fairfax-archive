@@ -1,0 +1,104 @@
+{
+  "gameId": "12666",
+  "date": "2019-05-06",
+  "divId": 206,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1315",
+    "name": "Turtle Power"
+  },
+  "away": {
+    "teamId": "1306",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:32",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "scorer": "#91 - Graham  Jackson",
+      "assist1": "#71 - Michael  Bagnall",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "1315",
+        "name": "Turtle Power"
+      },
+      "scorer": "#21 - Jonathan  Miller",
+      "assist1": "#42 - Sean  Rankin",
+      "assist2": "#25 - James  Chu"
+    },
+    {
+      "period": "2",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1315",
+        "name": "Turtle Power"
+      },
+      "scorer": "#25 - James  Chu",
+      "assist1": "#21 - Jonathan  Miller",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:26",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "scorer": "#71 - Michael  Bagnall",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:03",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "scorer": "#95 - Mick  Starego",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "player": "#3 - Ilana  Bell",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:01:30.356Z"
+}

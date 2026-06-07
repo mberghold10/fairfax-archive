@@ -1,0 +1,106 @@
+{
+  "gameId": "11479",
+  "date": "2018-01-20",
+  "divId": 178,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1140",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1136",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:03",
+      "team": {
+        "teamId": "1136",
+        "name": "Thunder"
+      },
+      "scorer": "#9 - Sharon  Karner",
+      "assist1": "#40 - Claudia  Salem",
+      "assist2": "#76 - Ethan  Bond"
+    },
+    {
+      "period": "1",
+      "time": "00:17:10",
+      "team": {
+        "teamId": "1140",
+        "name": "Red Wings"
+      },
+      "scorer": "#15 - Mike  Gibson",
+      "assist1": "#4 - Gene  Martin",
+      "assist2": "#7 - Amanda  Boelke"
+    },
+    {
+      "period": "2",
+      "time": "00:08:12",
+      "team": {
+        "teamId": "1140",
+        "name": "Red Wings"
+      },
+      "scorer": "#44 - Bobby  Grohs",
+      "assist1": "#67 - John  Krotzer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "1140",
+        "name": "Red Wings"
+      },
+      "scorer": "#67 - John  Krotzer",
+      "assist1": "#7 - Amanda  Boelke",
+      "assist2": "#4 - Gene  Martin"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "1140",
+        "name": "Red Wings"
+      },
+      "player": "#44 - Bobby  Grohs",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:00",
+      "team": {
+        "teamId": "1140",
+        "name": "Red Wings"
+      },
+      "player": "#40 - Howard  Ehrlich",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:28:29.333Z"
+}

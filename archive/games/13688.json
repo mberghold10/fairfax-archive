@@ -1,0 +1,117 @@
+{
+  "gameId": "13688",
+  "date": "2020-03-07",
+  "divId": 214,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1352",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1349",
+    "name": "Rustico Flames"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:34",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#37 - Mike  Przybyla",
+      "assist1": "#77 - Ryan  Reed",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:26",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#24 - Max  Alexeev",
+      "assist1": "#17 - Marvin  Scott",
+      "assist2": "#37 - Mike  Przybyla"
+    },
+    {
+      "period": "2",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#17 - Marvin  Scott",
+      "assist1": "#24 - Max  Alexeev",
+      "assist2": "#25 - Jeff  Wojtala"
+    },
+    {
+      "period": "2",
+      "time": "00:11:48",
+      "team": {
+        "teamId": "1349",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#8 - Chris  White",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:28",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": "#37 - Mike  Przybyla",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#23 - Rick  Gorgone",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#3 - Mike  Stimson",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:12:07.456Z"
+}

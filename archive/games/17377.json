@@ -1,0 +1,108 @@
+{
+  "gameId": "17377",
+  "date": "2024-10-13",
+  "divId": 293,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1792",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1791",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:04:59",
+      "team": {
+        "teamId": "1792",
+        "name": "Coyotes"
+      },
+      "scorer": "#5 - Andy  Loggia",
+      "assist1": "#1 - Brian  Freeman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:48",
+      "team": {
+        "teamId": "1792",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "1792",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#42 - Adam  Russell",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:02",
+      "team": {
+        "teamId": "1792",
+        "name": "Coyotes"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1792",
+        "name": "Coyotes"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:28",
+      "team": {
+        "teamId": "1791",
+        "name": "Old Goats"
+      },
+      "player": "#14 - John  Kohler",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:30:59.426Z"
+}

@@ -1,0 +1,106 @@
+{
+  "gameId": "10054",
+  "date": "2016-10-09",
+  "divId": 158,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1011",
+    "name": "River Rats"
+  },
+  "away": {
+    "teamId": "1015",
+    "name": "Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": "#24 - Austin  Ford",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:47",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "scorer": "#24 - Austin  Ford",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:21",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "scorer": "#42 - Jon  Coley",
+      "assist1": "#11 - Michael  Plampin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "player": "#11 - Michael  Plampin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:55",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "player": "#27 - Dave  McAndrews",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:02:40.519Z"
+}

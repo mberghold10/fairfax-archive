@@ -1,0 +1,169 @@
+{
+  "gameId": "18753",
+  "date": "2026-01-03",
+  "divId": 325,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1994",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1993",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:47",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:42",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#9 - Jason  Murphy",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "3",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#9 - Jason  Murphy",
+      "assist1": "#36 - William  Ludke",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "3",
+      "time": "00:11:20",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#18 - David  Leadston",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "player": "#10 - Konstantin  Silov",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "player": "#68 - Stephen  Vereb",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "player": "#95 - Chris  Pope",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "player": "#51 - Tyler  Kniaz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "player": "#8 - Brenden  Millice",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "player": "#44 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:04:18.285Z"
+}

@@ -1,0 +1,141 @@
+{
+  "gameId": "15592",
+  "date": "2023-01-17",
+  "divId": 258,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1591",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1590",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:21",
+      "team": {
+        "teamId": "1591",
+        "name": "Outlaws"
+      },
+      "scorer": "#13 - Ben  Mangel",
+      "assist1": "#38 - Chris  Gaudet",
+      "assist2": "#62 - Mel  Marcelo"
+    },
+    {
+      "period": "2",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1590",
+        "name": "Kings"
+      },
+      "scorer": "#33 - Steven  Terenzlo",
+      "assist1": "#7 - Mike  Hoard",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:23",
+      "team": {
+        "teamId": "1591",
+        "name": "Outlaws"
+      },
+      "scorer": "#41 - Tony  Gorney",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:49",
+      "team": {
+        "teamId": "1590",
+        "name": "Kings"
+      },
+      "scorer": "#16 - Josh  Stokes",
+      "assist1": "#82 - Caleb  Sohl",
+      "assist2": "#3 - Dylan  Tureff"
+    },
+    {
+      "period": "2",
+      "time": "00:14:00",
+      "team": {
+        "teamId": "1591",
+        "name": "Outlaws"
+      },
+      "scorer": "#77 - Erik  Kniaz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "1591",
+        "name": "Outlaws"
+      },
+      "scorer": "#91 - Matt  Weeden",
+      "assist1": "#72 - Ryan  OConnell",
+      "assist2": "#41 - Tony  Gorney"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1591",
+        "name": "Outlaws"
+      },
+      "player": "#43 - Mike  Barnes",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1591",
+        "name": "Outlaws"
+      },
+      "player": "#14 - Jason  Brue",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1590",
+        "name": "Kings"
+      },
+      "player": "#43 - Anthony  Federico",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:50:14.873Z"
+}

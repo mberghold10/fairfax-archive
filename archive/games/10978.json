@@ -1,0 +1,126 @@
+{
+  "gameId": "10978",
+  "date": "2017-10-06",
+  "divId": 170,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1087",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "1086",
+    "name": "ers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:45",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "scorer": "#18 - Peter  Dimmick",
+      "assist1": "#19 - Michael  Carr",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "scorer": "#44 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "scorer": "#44 - Brian  Dutton",
+      "assist1": "#73 - Luke  Ortolani",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "scorer": "#21 - Mark  Johnston",
+      "assist1": "#66 - Andy  Heckmann",
+      "assist2": "#88 - Greg  Mullen"
+    },
+    {
+      "period": "3",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "scorer": "#15 - Todd  Martin",
+      "assist1": "#44 - Brian  Dutton",
+      "assist2": "#21 - Mark  Johnston"
+    },
+    {
+      "period": "3",
+      "time": "00:05:27",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "scorer": "#19 - Michael  Carr",
+      "assist1": "#18 - Peter  Dimmick",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:12",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "scorer": "#44 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:42",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "player": "#18 - Peter  Dimmick",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:17:35.568Z"
+}

@@ -1,0 +1,176 @@
+{
+  "gameId": "12981",
+  "date": "2019-08-01",
+  "divId": 200,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1273",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1270",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:25",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "scorer": "#11 - Darren  Wellner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "scorer": "#10 - Brian  Land",
+      "assist1": "#81 - Chris  Holden",
+      "assist2": "#23 - Rick  Gorgone"
+    },
+    {
+      "period": "2",
+      "time": "00:04:03",
+      "team": {
+        "teamId": "1273",
+        "name": "Grey Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#8 - Jason  Eister",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "scorer": "#34 - Chad  Fisher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "scorer": "#15 - Mark  Rudnicki",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:06",
+      "team": {
+        "teamId": "1273",
+        "name": "Grey Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#28 - Alex  Henry",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1273",
+        "name": "Grey Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#19 - Joe  Dunn",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "1273",
+        "name": "Grey Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:58",
+      "team": {
+        "teamId": "1273",
+        "name": "Grey Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:34",
+      "team": {
+        "teamId": "1273",
+        "name": "Grey Goons"
+      },
+      "player": "#49 - Greg  Mullen",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "player": "#25 - Jeff  Wojtala",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:36",
+      "team": {
+        "teamId": "1273",
+        "name": "Grey Goons"
+      },
+      "player": "#44 - Mick  Ellsworth",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:55:22.382Z"
+}

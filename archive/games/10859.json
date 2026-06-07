@@ -1,0 +1,130 @@
+{
+  "gameId": "10859",
+  "date": "2017-08-25",
+  "divId": 168,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1074",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1085",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:31",
+      "team": {
+        "teamId": "1074",
+        "name": "Dragons"
+      },
+      "scorer": "#14 - James  Miller",
+      "assist1": "#5 - Sam  Bryce",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "1074",
+        "name": "Dragons"
+      },
+      "scorer": "#5 - Sam  Bryce",
+      "assist1": "#74 - Andy  Bennett",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1074",
+        "name": "Dragons"
+      },
+      "scorer": "#74 - Andy  Bennett",
+      "assist1": "#44 - Brian  Guerrero",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:12",
+      "team": {
+        "teamId": "1074",
+        "name": "Dragons"
+      },
+      "scorer": "#27 - Philip  Brooks",
+      "assist1": "#9 - Kim  Sherrock",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "1074",
+        "name": "Dragons"
+      },
+      "scorer": "#5 - Sam  Bryce",
+      "assist1": "#91 - James  DeBolt",
+      "assist2": "#36 - Nick  Fishter"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1085",
+        "name": "Jurassic Puck"
+      },
+      "player": "#17 - Zephan  Keehner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1074",
+        "name": "Dragons"
+      },
+      "player": "#91 - James  DeBolt",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:06",
+      "team": {
+        "teamId": "1085",
+        "name": "Jurassic Puck"
+      },
+      "player": "#88 - Jason  Searight",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:16:04.548Z"
+}

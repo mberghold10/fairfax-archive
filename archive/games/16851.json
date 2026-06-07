@@ -1,0 +1,104 @@
+{
+  "gameId": "16851",
+  "date": "2024-02-13",
+  "divId": 283,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1743",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1738",
+    "name": "Goon Nation"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:36",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "scorer": "#81 - Nate  Breton",
+      "assist1": "#41 - Paul  Mandeville",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": "#41 - Paul  Mandeville",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:51",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#67 - John  Krotzer",
+      "assist1": "#22 - Jimmy  Nguyen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:48",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#20 - Bao  Pham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#67 - John  Krotzer",
+      "assist1": "#89 - Brandon  Barhorst",
+      "assist2": "#44 - Jim  McGovern"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:13:12",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "player": "#15 - Warren  Conrow",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:20:26.075Z"
+}

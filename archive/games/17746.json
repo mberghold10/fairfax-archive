@@ -1,0 +1,152 @@
+{
+  "gameId": "17746",
+  "date": "2025-02-08",
+  "divId": 307,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1885",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1884",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 4,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:27",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "scorer": "#41 - David  Armstrong",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": "#1 - Chris  Beach"
+    },
+    {
+      "period": "1",
+      "time": "00:12:59",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "scorer": "#3 - Ed  Gulakowski",
+      "assist1": "#16 - Carlos  Novoa",
+      "assist2": "#38 - Keith  Forsythe"
+    },
+    {
+      "period": "2",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1885",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#47 - Jeff  Urlwin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:34",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "scorer": "#41 - David  Armstrong",
+      "assist1": "#16 - Carlos  Novoa",
+      "assist2": "#20 - Mike  Hempen"
+    },
+    {
+      "period": "3",
+      "time": "00:04:27",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "scorer": "#3 - Ed  Gulakowski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:34",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#1 - Chris  Beach",
+      "assist2": "#11 - Brendan  Ford"
+    },
+    {
+      "period": "3",
+      "time": "00:12:14",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "scorer": "#16 - Carlos  Novoa",
+      "assist1": "#20 - Mike  Hempen",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:15",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "player": "#100 - Goalie  Substitue",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:31",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "player": "#81 - Pete  Poczatek",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:54",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "player": "#16 - Carlos  Novoa",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:45:26.069Z"
+}

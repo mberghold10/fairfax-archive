@@ -1,0 +1,198 @@
+{
+  "gameId": "13103",
+  "date": "2019-07-29",
+  "divId": 205,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1296",
+    "name": "Lightning"
+  },
+  "away": {
+    "teamId": "1299",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:19",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#21 - Joshua  Vichness",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:41",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#89 - Chris  Casselman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "scorer": "#42 - Ryan  Bruun",
+      "assist1": "#33 - Mike  Wagner",
+      "assist2": "#13 - John  Kosak"
+    },
+    {
+      "period": "2",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#28 - Ed  Holleran",
+      "assist1": "#16 - Chapman  Nicole",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:15",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#89 - Chris  Casselman",
+      "assist1": "#8 - AJ  Ellis",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "scorer": "#6 - Eric  Rhoden",
+      "assist1": "#22 - Chris  Simmons",
+      "assist2": "#8 - Mike  Dmytrewycz"
+    },
+    {
+      "period": "3",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "scorer": "#4 - Matt  Gelman",
+      "assist1": "#20 - Eric  Nelson",
+      "assist2": "#6 - Eric  Rhoden"
+    },
+    {
+      "period": "3",
+      "time": "00:08:11",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#28 - Ed  Holleran",
+      "assist1": "#6 - JB  Merritt",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#21 - Joshua  Vichness",
+      "assist1": "#67 - Brian  Landers",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:57",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#21 - Joshua  Vichness",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "player": "#42 - Ryan  Bruun",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "player": "#27 - Andrew  Sundelin",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:41",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#6 - JB  Merritt",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:00:50.067Z"
+}

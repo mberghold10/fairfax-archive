@@ -1,0 +1,73 @@
+{
+  "gameId": "16730",
+  "date": "2024-04-18",
+  "divId": 278,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1716",
+    "name": "Windbreakers"
+  },
+  "away": {
+    "teamId": "1710",
+    "name": "D Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:15:00",
+      "team": {
+        "teamId": "1710",
+        "name": "D Punishers"
+      },
+      "scorer": "#5 - MIke  Jones",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:01",
+      "team": {
+        "teamId": "1710",
+        "name": "D Punishers"
+      },
+      "player": "#11 - Dan  Shrago",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1710",
+        "name": "D Punishers"
+      },
+      "player": "#5 - MIke  Jones",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:15:04.003Z"
+}

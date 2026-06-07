@@ -1,0 +1,121 @@
+{
+  "gameId": "12487",
+  "date": "2019-01-20",
+  "divId": 193,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1254",
+    "name": "Mighty Moose"
+  },
+  "away": {
+    "teamId": "1228",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:25",
+      "team": {
+        "teamId": "1254",
+        "name": "Mighty Moose"
+      },
+      "scorer": "#70 - Dru  Fearing",
+      "assist1": "#5 - John  Bennett",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "scorer": "#12 - Scott  Borders",
+      "assist1": "#36 - Nick  Fishter",
+      "assist2": "#74 - Andy  Bennett"
+    },
+    {
+      "period": "3",
+      "time": "00:14:24",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "scorer": "#36 - Nick  Fishter",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "1254",
+        "name": "Mighty Moose"
+      },
+      "player": "#7 - Justin  Kent",
+      "pim": 5,
+      "offense": "high stick",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "1254",
+        "name": "Mighty Moose"
+      },
+      "player": "#7 - Justin  Kent",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "1254",
+        "name": "Mighty Moose"
+      },
+      "player": "#7 - Justin  Kent",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:11",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "player": "#17 - Emma  Alperin",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:46:26.644Z"
+}

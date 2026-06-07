@@ -1,0 +1,104 @@
+{
+  "gameId": "18766",
+  "date": "2026-02-18",
+  "divId": 325,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1994",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1991",
+    "name": "Ers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 4,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:55",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#3 - Matt  Cerce",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:18",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#76 - DJ  Dunlevy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#92 - TC  Rotunda",
+      "assist1": "#15 - Todd  Martin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:59",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#76 - DJ  Dunlevy",
+      "assist1": "#74 - Paul  Sechser",
+      "assist2": "#96 - Chris  Beck"
+    },
+    {
+      "period": "3",
+      "time": "00:05:03",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "scorer": "#7 - Joseph  Hull",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": "#37 - Josh  Savani"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "player": "#68 - Stephen  Vereb",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:04:31.282Z"
+}

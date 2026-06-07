@@ -1,0 +1,198 @@
+{
+  "gameId": "12654",
+  "date": "2019-04-30",
+  "divId": 201,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1277",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1280",
+    "name": "Beltway Butchers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:54",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#87 - Erik  Haas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:51",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#26 - Philip  Hogan",
+      "assist1": "#7 - John  Koester",
+      "assist2": "#34 - Bobby  Grohs"
+    },
+    {
+      "period": "2",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#87 - Erik  Haas",
+      "assist1": "#18 - Peter  Poczatek",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:20",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#18 - Peter  Poczatek",
+      "assist1": "#8 - Jon  Swaney",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:27",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#2 - Jen  Grotpeter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:34",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#65 - Stuart  Hoffman",
+      "assist1": "#24 - Jeff  Robins",
+      "assist2": "#2 - Jen  Grotpeter"
+    },
+    {
+      "period": "2",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#65 - Stuart  Hoffman",
+      "assist1": "#26 - Philip  Hogan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:43",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#71 - Mike  McLenahar",
+      "assist1": "#23 - Alan  Stiffler",
+      "assist2": "#26 - Philip  Hogan"
+    },
+    {
+      "period": "3",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#17 - Michael  Bagnall",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:19",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#86 - John  Persinger",
+      "assist1": "#17 - Michael  Bagnall",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:06",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "player": "#7 - John  Koester",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:03",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "player": "#77 - David  Fulcher",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "player": "#33 - Dmitriy  Achapkin",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "player": "#33 - Dmitriy  Achapkin",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:56:07.364Z"
+}

@@ -1,0 +1,110 @@
+{
+  "gameId": "11024",
+  "date": "2017-10-26",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1100",
+    "name": "Old Goats"
+  },
+  "away": {
+    "teamId": "1101",
+    "name": "Rustico Flames"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:13:33",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "scorer": "#24 - Michael  Duell",
+      "assist1": "#6 - Brad  Seibert",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:32",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#28 - Marty  Gryski",
+      "assist2": "#33 - Jim  Van Dyke"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:32",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "player": "#26 - Bob  Shay",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "player": "#4 - Steve  Bradley",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:33",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:30",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "player": "#77 - Erik  Bergman",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:19:43.101Z"
+}

@@ -1,0 +1,143 @@
+{
+  "gameId": "1176",
+  "date": "2021-10-23",
+  "divId": 236,
+  "seasonName": "Summer 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1475",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1474",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:01",
+      "team": {
+        "teamId": "1474",
+        "name": "Penguins"
+      },
+      "scorer": "#24 - Max  Alexeev",
+      "assist1": "#13 - Bob  Seal",
+      "assist2": "#64 - Joe  Trahey"
+    },
+    {
+      "period": "2",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "1474",
+        "name": "Penguins"
+      },
+      "scorer": "#13 - Bob  Seal",
+      "assist1": "#24 - Max  Alexeev",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "1474",
+        "name": "Penguins"
+      },
+      "scorer": "#25 - Jeff  Wojtala",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:33",
+      "team": {
+        "teamId": "1474",
+        "name": "Penguins"
+      },
+      "scorer": "#7 - Dan  Ellert",
+      "assist1": "#24 - Max  Alexeev",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:54",
+      "team": {
+        "teamId": "1474",
+        "name": "Penguins"
+      },
+      "scorer": "#24 - Max  Alexeev",
+      "assist1": "#20 - Brent  Jefferson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:09",
+      "team": {
+        "teamId": "1475",
+        "name": "Coyotes"
+      },
+      "player": "#14 - John  Pace",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:37",
+      "team": {
+        "teamId": "1474",
+        "name": "Penguins"
+      },
+      "player": "#24 - Max  Alexeev",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:12",
+      "team": {
+        "teamId": "1474",
+        "name": "Penguins"
+      },
+      "player": "#24 - Max  Alexeev",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:06",
+      "team": {
+        "teamId": "1475",
+        "name": "Coyotes"
+      },
+      "player": "#3 - Bill  Schultheiss",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:28:31.844Z"
+}

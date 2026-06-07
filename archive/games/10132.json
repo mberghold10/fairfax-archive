@@ -1,0 +1,298 @@
+{
+  "gameId": "10132",
+  "date": "2016-12-12",
+  "divId": 158,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1016",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1013",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 5,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:21",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#6 - Faraz  Izadi",
+      "assist1": "#31 - Brian  Meighan",
+      "assist2": "#10 - Chris  Chagnon"
+    },
+    {
+      "period": "1",
+      "time": "00:03:03",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#6 - Faraz  Izadi",
+      "assist1": "#31 - Brian  Meighan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#11 - Sam  Marchio",
+      "assist1": "#12 - James  Bratsos",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#12 - James  Bratsos",
+      "assist1": "#11 - Sam  Marchio",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#6 - Faraz  Izadi",
+      "assist1": "#0 - Zach  Bonner",
+      "assist2": "#31 - Brian  Meighan"
+    },
+    {
+      "period": "2",
+      "time": "00:01:54",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": "#11 - Mike  Brobeck",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:42",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#63 - Jeff  Hoffner",
+      "assist1": "#8 - Zach  Angeline",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#12 - James  Bratsos",
+      "assist1": "#23 - Ken  DeGrave",
+      "assist2": "#11 - Sam  Marchio"
+    },
+    {
+      "period": "3",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#63 - Jeff  Hoffner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:16",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": "#11 - Mike  Brobeck",
+      "assist2": "#18 - Ron  Miller"
+    },
+    {
+      "period": "3",
+      "time": "00:11:18",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#12 - James  Bratsos",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:57",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": "#5 - James  Miller",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "player": "#22 - James  Stegmann",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:28",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "player": "#4 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "player": "#11 - Sam  Marchio",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "player": "#6 - Faraz  Izadi",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "player": "#6 - Faraz  Izadi",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "player": "#4 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "player": "#63 - Jeff  Hoffner",
+      "pim": 4,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:44",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "player": "#18 - Ron  Miller",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:18",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "player": "#4 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "player": "#0 - Zach  Bonner",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:03:10.647Z"
+}

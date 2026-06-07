@@ -1,0 +1,150 @@
+{
+  "gameId": "15736",
+  "date": "2023-03-15",
+  "divId": 262,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1612",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1613",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1612",
+        "name": "Ducks"
+      },
+      "scorer": "#7 - Andrew  Golomb",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "1612",
+        "name": "Ducks"
+      },
+      "scorer": "#9 - Sam  Ziesler",
+      "assist1": "#6 - David  Satagaj",
+      "assist2": "#16 - Ann  Nosek"
+    },
+    {
+      "period": "1",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#13 - Ben  Aring",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "2",
+      "time": "00:11:16",
+      "team": {
+        "teamId": "1612",
+        "name": "Ducks"
+      },
+      "scorer": "#7 - Andrew  Golomb",
+      "assist1": "#25 - Derek  Bluth",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:43",
+      "team": {
+        "teamId": "1612",
+        "name": "Ducks"
+      },
+      "scorer": "#91 - Rob  Fischer",
+      "assist1": "#18 - Sean  Gallucci",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1612",
+        "name": "Ducks"
+      },
+      "scorer": "#25 - Derek  Bluth",
+      "assist1": "#16 - Ann  Nosek",
+      "assist2": "#7 - Andrew  Golomb"
+    },
+    {
+      "period": "3",
+      "time": "00:10:25",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#13 - Ben  Aring",
+      "assist1": "#18 - Samson  Chu",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:03",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#41 - Erik  Kniaz",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": "#32 - Simon  Flom"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:04:48",
+      "team": {
+        "teamId": "1612",
+        "name": "Ducks"
+      },
+      "player": "#71 - Colin  Shin",
+      "pim": 2,
+      "offense": "Check from Behind",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:48",
+      "team": {
+        "teamId": "1612",
+        "name": "Ducks"
+      },
+      "player": "#71 - Colin  Shin",
+      "pim": 10,
+      "offense": "Misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:55:50.599Z"
+}

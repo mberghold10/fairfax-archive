@@ -1,0 +1,117 @@
+{
+  "gameId": "14198",
+  "date": "2021-08-30",
+  "divId": 232,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1447",
+    "name": "Punishers"
+  },
+  "away": {
+    "teamId": "1449",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:43",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "scorer": "#27 - Dave  Lin",
+      "assist1": "#19 - Brian  Mehnert",
+      "assist2": "#6 - Jon  Lauder"
+    },
+    {
+      "period": "2",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "1449",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#20 - Jeff  Carter",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:54",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "scorer": "#21 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:36",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:29",
+      "team": {
+        "teamId": "1449",
+        "name": "Blue Crabs"
+      },
+      "player": "#28 - Brad  Mills",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:24:58.391Z"
+}

@@ -1,0 +1,115 @@
+{
+  "gameId": "12812",
+  "date": "2019-07-06",
+  "divId": 202,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1285",
+    "name": "Redhawks"
+  },
+  "away": {
+    "teamId": "1281",
+    "name": "Divorced Men"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:15",
+      "team": {
+        "teamId": "1285",
+        "name": "Redhawks"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:11",
+      "team": {
+        "teamId": "1281",
+        "name": "Divorced Men"
+      },
+      "scorer": "#12 - Ray  Rady",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:10",
+      "team": {
+        "teamId": "1285",
+        "name": "Redhawks"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:34",
+      "team": {
+        "teamId": "1281",
+        "name": "Divorced Men"
+      },
+      "scorer": "#12 - Ray  Rady",
+      "assist1": "#4 - Brett  Gauthier",
+      "assist2": "#82 - Alex  Strunk"
+    },
+    {
+      "period": "3",
+      "time": "00:02:39",
+      "team": {
+        "teamId": "1281",
+        "name": "Divorced Men"
+      },
+      "scorer": "#82 - Alex  Strunk",
+      "assist1": "#12 - Ray  Rady",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:44",
+      "team": {
+        "teamId": "1281",
+        "name": "Divorced Men"
+      },
+      "scorer": "#12 - Ray  Rady",
+      "assist1": "#82 - Alex  Strunk",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:51",
+      "team": {
+        "teamId": "1285",
+        "name": "Redhawks"
+      },
+      "player": "#47 - Talbot  Black",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:57:35.188Z"
+}

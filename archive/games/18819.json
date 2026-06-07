@@ -1,0 +1,178 @@
+{
+  "gameId": "18819",
+  "date": "2026-01-20",
+  "divId": 327,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2017",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "2020",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "2020",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#23 - Trevor  Blair",
+      "assist1": "#4 - Carl  Fairbank",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:20",
+      "team": {
+        "teamId": "2017",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#22 - Amir  Tahami",
+      "assist2": "#7 - Steve  Tamburo"
+    },
+    {
+      "period": "1",
+      "time": "00:12:51",
+      "team": {
+        "teamId": "2017",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#23 - Brian  Ladd",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:18",
+      "team": {
+        "teamId": "2017",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#67 - Drew  Miller",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "2017",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#81 - Rob  Katz",
+      "assist1": "#6 - Bob  Friess",
+      "assist2": "#92 - Dan  Horner"
+    },
+    {
+      "period": "3",
+      "time": "00:05:35",
+      "team": {
+        "teamId": "2017",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#78 - Bill  Ezekiel",
+      "assist1": "#81 - Rob  Katz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "2017",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#23 - Brian  Ladd",
+      "assist1": "#81 - Rob  Katz",
+      "assist2": "#78 - Bill  Ezekiel"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "2017",
+        "name": "Ice Dogs"
+      },
+      "player": "#6 - Bob  Friess",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:58",
+      "team": {
+        "teamId": "2020",
+        "name": "Maple Leafs"
+      },
+      "player": "#23 - Trevor  Blair",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:01",
+      "team": {
+        "teamId": "2017",
+        "name": "Ice Dogs"
+      },
+      "player": "#81 - Rob  Katz",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "2020",
+        "name": "Maple Leafs"
+      },
+      "player": "#32 - Brian  Freeman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:03",
+      "team": {
+        "teamId": "2020",
+        "name": "Maple Leafs"
+      },
+      "player": "#4 - Carl  Fairbank",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:06:59.643Z"
+}

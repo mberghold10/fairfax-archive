@@ -1,0 +1,228 @@
+{
+  "gameId": "10217",
+  "date": "2017-01-11",
+  "divId": 157,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1009",
+    "name": "Phantoms"
+  },
+  "away": {
+    "teamId": "1010",
+    "name": "Blackhawks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:38",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "scorer": "#12 - Tyler  Lovejoy",
+      "assist1": "#22 - Cody  Reinitz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:38",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "scorer": "#74 - Eric  Peterson",
+      "assist1": "#25 - Jamie  Prime",
+      "assist2": "#56 - Ryan  Tyler"
+    },
+    {
+      "period": "1",
+      "time": "00:12:16",
+      "team": {
+        "teamId": "1009",
+        "name": "Phantoms"
+      },
+      "scorer": "#27 - Joey  Tribbiani",
+      "assist1": "#6 - Jesse  Smith",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:39",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#22 - Cody  Reinitz",
+      "assist2": "#8 - Brenden  Millice"
+    },
+    {
+      "period": "2",
+      "time": "00:00:26",
+      "team": {
+        "teamId": "1009",
+        "name": "Phantoms"
+      },
+      "scorer": "#27 - Joey  Tribbiani",
+      "assist1": "#55 - Joel  Dever",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:04",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "scorer": "#12 - Tyler  Lovejoy",
+      "assist1": "#56 - Ryan  Tyler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:04",
+      "team": {
+        "teamId": "1009",
+        "name": "Phantoms"
+      },
+      "scorer": "#6 - Jesse  Smith",
+      "assist1": "#11 - Adam  Jungdahl",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:25",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "scorer": "#12 - Tyler  Lovejoy",
+      "assist1": "#74 - Eric  Peterson",
+      "assist2": "#56 - Ryan  Tyler"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:12",
+      "team": {
+        "teamId": "1009",
+        "name": "Phantoms"
+      },
+      "player": "#11 - Adam  Jungdahl",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "player": "#39 - John  Keegan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "1009",
+        "name": "Phantoms"
+      },
+      "player": "#8 - Jeremy  Feldman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1009",
+        "name": "Phantoms"
+      },
+      "player": "#6 - Jesse  Smith",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1009",
+        "name": "Phantoms"
+      },
+      "player": "#88 - Chirs  Peterkin",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "player": "#22 - Cody  Reinitz",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:39",
+      "team": {
+        "teamId": "1009",
+        "name": "Phantoms"
+      },
+      "player": "#8 - Jeremy  Feldman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:01:57.269Z"
+}

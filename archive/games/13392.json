@@ -1,0 +1,178 @@
+{
+  "gameId": "13392",
+  "date": "2019-11-20",
+  "divId": 213,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1346",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1345",
+    "name": "Englewood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:44",
+      "team": {
+        "teamId": "1345",
+        "name": "Englewood"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:05",
+      "team": {
+        "teamId": "1345",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": "#12 - Brian  Dix"
+    },
+    {
+      "period": "3",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "1345",
+        "name": "Englewood"
+      },
+      "scorer": "#16 - Bill  Thompson",
+      "assist1": "#13 - Randy  Foster",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:25",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#10 - Matt  Galen",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "3",
+      "time": "00:07:31",
+      "team": {
+        "teamId": "1345",
+        "name": "Englewood"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:58",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "scorer": "#9 - Jason  Murphy",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:33",
+      "team": {
+        "teamId": "1345",
+        "name": "Englewood"
+      },
+      "scorer": "#16 - Bill  Thompson",
+      "assist1": "#8 - Rod  Wade",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "player": "#6 - Kevin  Elfenbein",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "player": "#30 - Jeremy  Walling",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:04",
+      "team": {
+        "teamId": "1345",
+        "name": "Englewood"
+      },
+      "player": "#12 - Brian  Dix",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:58",
+      "team": {
+        "teamId": "1345",
+        "name": "Englewood"
+      },
+      "player": "#28 - Charles  Hale",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "player": "#30 - Jeremy  Walling",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:09:54.121Z"
+}

@@ -1,0 +1,115 @@
+{
+  "gameId": "12474",
+  "date": "2019-03-18",
+  "divId": 192,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1221",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1218",
+    "name": "Turtle Power"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:50",
+      "team": {
+        "teamId": "1218",
+        "name": "Turtle Power"
+      },
+      "scorer": "#26 - Dan  Meaux",
+      "assist1": "#0 - Anthony  Portis",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:58",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:37",
+      "team": {
+        "teamId": "1218",
+        "name": "Turtle Power"
+      },
+      "scorer": "#17 - Thomas  Beauchemp",
+      "assist1": "#0 - Anthony  Portis",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1218",
+        "name": "Turtle Power"
+      },
+      "scorer": "#0 - Anthony  Portis",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:58",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#67 - Brian  Landers",
+      "assist1": "#9 - Greg  Sisley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "1218",
+        "name": "Turtle Power"
+      },
+      "scorer": "#21 - Jonathan  Miller",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:12:13",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#6 - JB  Merritt",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:45:25.796Z"
+}

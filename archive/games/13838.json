@@ -1,0 +1,115 @@
+{
+  "gameId": "13838",
+  "date": "2020-11-28",
+  "divId": 221,
+  "seasonName": "Fall 2020",
+  "mode": "regular",
+  "home": {
+    "teamId": "1390",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1388",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1388",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#32 - Jeff  Hunter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:29",
+      "team": {
+        "teamId": "1390",
+        "name": "Rink Rats"
+      },
+      "scorer": "#13 - John  Breeza",
+      "assist1": "#95 - Mick  Starego",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:58",
+      "team": {
+        "teamId": "1388",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#34 - Josh  Davis",
+      "assist1": "#32 - Jeff  Hunter",
+      "assist2": "#36 - Brian  Lusby"
+    },
+    {
+      "period": "3",
+      "time": "00:09:25",
+      "team": {
+        "teamId": "1388",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#0 - Ruben  Garcia",
+      "assist1": "#14 - Chukie  Ezike",
+      "assist2": "#33 - Brandon  Bolling"
+    },
+    {
+      "period": "3",
+      "time": "00:12:24",
+      "team": {
+        "teamId": "1388",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#32 - Jeff  Hunter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:19",
+      "team": {
+        "teamId": "1388",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#14 - Chukie  Ezike",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1388",
+        "name": "Mad Dogs"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:17:18.203Z"
+}

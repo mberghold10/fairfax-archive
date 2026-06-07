@@ -1,0 +1,152 @@
+{
+  "gameId": "11646",
+  "date": "2018-06-10",
+  "divId": 184,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1168",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1170",
+    "name": "BlueJacket Capitals"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#8 - Chris  White",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:09",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#12 - Trent  Papke",
+      "assist1": "#88 - Andrew  Grose",
+      "assist2": "#18 - Pete  Poczatek"
+    },
+    {
+      "period": "2",
+      "time": "00:08:49",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#10 - Peter  Grose",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#12 - Trent  Papke",
+      "assist1": "#7 - Gary  McMahon",
+      "assist2": "#88 - Andrew  Grose"
+    },
+    {
+      "period": "3",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#7 - Gary  McMahon",
+      "assist1": "#18 - Pete  Poczatek",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#12 - Trent  Papke",
+      "assist1": "#10 - Peter  Grose",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": "#81 - Bryan  Getson",
+      "assist2": "#6 - Matt  Dwyer"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "player": "#13 - Matt  Jenkins",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#16 - Dan  Rebman",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#23 - Dan  Ellert",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:34:45.897Z"
+}

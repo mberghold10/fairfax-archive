@@ -1,0 +1,202 @@
+{
+  "gameId": "1102",
+  "date": "2021-02-15",
+  "divId": 219,
+  "seasonName": "Fall 2020",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1379",
+    "name": "Moose"
+  },
+  "away": {
+    "teamId": "1407",
+    "name": "Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:26",
+      "team": {
+        "teamId": "1407",
+        "name": "Punishers"
+      },
+      "scorer": "#42 - Ryan  ODriscoll",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:27",
+      "team": {
+        "teamId": "1407",
+        "name": "Punishers"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:30",
+      "team": {
+        "teamId": "1379",
+        "name": "Moose"
+      },
+      "scorer": "#9 - Mitch  Federman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:25",
+      "team": {
+        "teamId": "1407",
+        "name": "Punishers"
+      },
+      "scorer": "#21 - Brian  Dutton",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:39",
+      "team": {
+        "teamId": "1379",
+        "name": "Moose"
+      },
+      "scorer": "#13 - Brian  Harmon",
+      "assist1": "#96 - Nick  Salvado",
+      "assist2": "#120 - Scott  Richard"
+    },
+    {
+      "period": "3",
+      "time": "00:00:51",
+      "team": {
+        "teamId": "1379",
+        "name": "Moose"
+      },
+      "scorer": "#24 - Brian  Kelly",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:20",
+      "team": {
+        "teamId": "1379",
+        "name": "Moose"
+      },
+      "scorer": "#13 - Brian  Harmon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:03",
+      "team": {
+        "teamId": "1379",
+        "name": "Moose"
+      },
+      "scorer": "#8 - Susan  Upward",
+      "assist1": "#9 - Mitch  Federman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1407",
+        "name": "Punishers"
+      },
+      "player": "#70 - Dick  Deitos",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "1407",
+        "name": "Punishers"
+      },
+      "player": "#70 - Dick  Deitos",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:08",
+      "team": {
+        "teamId": "1379",
+        "name": "Moose"
+      },
+      "player": "#13 - Brian  Harmon",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:27",
+      "team": {
+        "teamId": "1379",
+        "name": "Moose"
+      },
+      "player": "#2 - Sam  Ziesler",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:27",
+      "team": {
+        "teamId": "1407",
+        "name": "Punishers"
+      },
+      "player": "#12 - David  OMalley",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:35",
+      "team": {
+        "teamId": "1407",
+        "name": "Punishers"
+      },
+      "player": "#15 - Phil  Wind",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:16:36.328Z"
+}

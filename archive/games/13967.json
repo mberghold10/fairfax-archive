@@ -1,0 +1,195 @@
+{
+  "gameId": "13967",
+  "date": "2021-04-21",
+  "divId": 225,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1409",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1411",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:20",
+      "team": {
+        "teamId": "1409",
+        "name": "Ducks"
+      },
+      "scorer": "#0 - Robert  Richard",
+      "assist1": "#22 - Justin  Moriarty",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1409",
+        "name": "Ducks"
+      },
+      "scorer": "#2 - Ricki  Clark",
+      "assist1": "#73 - Mike  Carew",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:59",
+      "team": {
+        "teamId": "1411",
+        "name": "Swarm"
+      },
+      "scorer": "#16 - Scott  Kuehn",
+      "assist1": "#75 - Jeff  Koka",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1409",
+        "name": "Ducks"
+      },
+      "scorer": "#2 - Ricki  Clark",
+      "assist1": "#18 - Sean  Gallucci",
+      "assist2": "#91 - Rob  Fischer"
+    },
+    {
+      "period": "3",
+      "time": "00:02:58",
+      "team": {
+        "teamId": "1409",
+        "name": "Ducks"
+      },
+      "scorer": "#13 - Brian  Patterson",
+      "assist1": "#28 - Art  Stevens",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:25",
+      "team": {
+        "teamId": "1409",
+        "name": "Ducks"
+      },
+      "player": "#12 - Jonathan  Gregor",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:25",
+      "team": {
+        "teamId": "1411",
+        "name": "Swarm"
+      },
+      "player": "#16 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:08",
+      "team": {
+        "teamId": "1409",
+        "name": "Ducks"
+      },
+      "player": "#13 - Brian  Patterson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:18",
+      "team": {
+        "teamId": "1409",
+        "name": "Ducks"
+      },
+      "player": "#18 - Sean  Gallucci",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:18",
+      "team": {
+        "teamId": "1409",
+        "name": "Ducks"
+      },
+      "player": "#18 - Sean  Gallucci",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:41",
+      "team": {
+        "teamId": "1409",
+        "name": "Ducks"
+      },
+      "player": "#73 - Mike  Carew",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:41",
+      "team": {
+        "teamId": "1411",
+        "name": "Swarm"
+      },
+      "player": "#75 - Jeff  Koka",
+      "pim": 4,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:42",
+      "team": {
+        "teamId": "1411",
+        "name": "Swarm"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:19:36.083Z"
+}

@@ -1,0 +1,180 @@
+{
+  "gameId": "11861",
+  "date": "2018-07-23",
+  "divId": 184,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1169",
+    "name": "Bushwood"
+  },
+  "away": {
+    "teamId": "1168",
+    "name": "North Stars"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#77 - Jeff  Carter",
+      "assist1": "#6 - Matt  Dwyer",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:57",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": "#61 - Tero  Moberg",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:26",
+      "team": {
+        "teamId": "1169",
+        "name": "Bushwood"
+      },
+      "scorer": "#56 - Jason  Surrencey",
+      "assist1": "#5 - Doug  Maskuri",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:13",
+      "team": {
+        "teamId": "1169",
+        "name": "Bushwood"
+      },
+      "scorer": "#16 - Wayne  Storm",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#42 - Adam  Russell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:24",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#42 - Adam  Russell",
+      "assist1": "#6 - Matt  Dwyer",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "1169",
+        "name": "Bushwood"
+      },
+      "player": "#5 - Doug  Maskuri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:54",
+      "team": {
+        "teamId": "1169",
+        "name": "Bushwood"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:17",
+      "team": {
+        "teamId": "1169",
+        "name": "Bushwood"
+      },
+      "player": "#40 - Claudia  Salem",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1169",
+        "name": "Bushwood"
+      },
+      "player": "#18 - Jimmy  Brooks",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1169",
+        "name": "Bushwood"
+      },
+      "player": "#15 - Gregg  Gellman",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:35:03.921Z"
+}

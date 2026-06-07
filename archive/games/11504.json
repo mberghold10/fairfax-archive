@@ -1,0 +1,82 @@
+{
+  "gameId": "11504",
+  "date": "2018-03-24",
+  "divId": 174,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1110",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1109",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1109",
+        "name": "Kings"
+      },
+      "scorer": "#8 - Paul  Balcerzak",
+      "assist1": "#26 - Erik  Hovland",
+      "assist2": "#64 - Derek  Bluth"
+    },
+    {
+      "period": "2",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "1109",
+        "name": "Kings"
+      },
+      "scorer": "#55 - Chris  Yoko",
+      "assist1": "#8 - Paul  Balcerzak",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:01",
+      "team": {
+        "teamId": "1109",
+        "name": "Kings"
+      },
+      "scorer": "#26 - Erik  Hovland",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "1110",
+        "name": "Outlaws"
+      },
+      "player": "#17 - Adam  Lee",
+      "pim": 2,
+      "offense": "Holding",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:23:05.690Z"
+}

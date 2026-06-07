@@ -1,0 +1,230 @@
+{
+  "gameId": "13573",
+  "date": "2020-01-18",
+  "divId": 211,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1337",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1334",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:27",
+      "team": {
+        "teamId": "1337",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#9 - Julien  Degrandpre",
+      "assist1": "#24 - Harry  Nicholakos",
+      "assist2": "#16 - Dave  Smith"
+    },
+    {
+      "period": "1",
+      "time": "00:13:59",
+      "team": {
+        "teamId": "1334",
+        "name": "Dragons"
+      },
+      "scorer": "#88 - Maddy  Padgett",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1337",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#89 - Sid  Han",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "1337",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#89 - Sid  Han",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:54",
+      "team": {
+        "teamId": "1337",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#20 - Brent  Jefferson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "1337",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#22 - Charlie  Campbell",
+      "assist1": "#20 - Brent  Jefferson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:53",
+      "team": {
+        "teamId": "1334",
+        "name": "Dragons"
+      },
+      "scorer": "#94 - Michael  Starego",
+      "assist1": "#68 - Matt  Taylor",
+      "assist2": "#88 - Maddy  Padgett"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:24",
+      "team": {
+        "teamId": "1334",
+        "name": "Dragons"
+      },
+      "player": "#94 - Michael  Starego",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:39",
+      "team": {
+        "teamId": "1337",
+        "name": "Blackskimmers"
+      },
+      "player": "#38 - Mike  Andrien",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:02",
+      "team": {
+        "teamId": "1334",
+        "name": "Dragons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:43",
+      "team": {
+        "teamId": "1334",
+        "name": "Dragons"
+      },
+      "player": "#42 - David  Hagemeier",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1337",
+        "name": "Blackskimmers"
+      },
+      "player": "#89 - Sid  Han",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:59",
+      "team": {
+        "teamId": "1337",
+        "name": "Blackskimmers"
+      },
+      "player": "#15 - Jim  Lane",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:58",
+      "team": {
+        "teamId": "1334",
+        "name": "Dragons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:57",
+      "team": {
+        "teamId": "1337",
+        "name": "Blackskimmers"
+      },
+      "player": "#89 - Sid  Han",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:19",
+      "team": {
+        "teamId": "1334",
+        "name": "Dragons"
+      },
+      "player": "#42 - David  Hagemeier",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:07:55.268Z"
+}

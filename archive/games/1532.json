@@ -1,0 +1,202 @@
+{
+  "gameId": "1532",
+  "date": "2025-06-16",
+  "divId": 303,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1862",
+    "name": "Toronto"
+  },
+  "away": {
+    "teamId": "1864",
+    "name": "Bottle Caps"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 4,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:08",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#81 - David  Culverhouse",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:49",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#19 - Colin  Bartlett",
+      "assist1": "#34 - William  Happ",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:28",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#89 - Brandon  Barhorst",
+      "assist1": "#20 - Bao  Pham",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#13 - Duane  Stefaniak",
+      "assist1": "#42 - Julian  Stapleton",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#34 - William  Happ",
+      "assist1": "#1 - Thomas  Newberg",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:49",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:33",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#13 - Duane  Stefaniak",
+      "assist1": "#19 - Colin  Bartlett",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:33",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#81 - David  Culverhouse",
+      "assist1": "#34 - William  Happ",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:36",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "player": "#19 - Bryan  Moffett",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "player": "#1 - Thomas  Newberg",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:23",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "player": "#19 - Bryan  Moffett",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "player": "#75 - Paul  Barber",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:36",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "hold the stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "player": "#13 - Duane  Stefaniak",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:41:48.125Z"
+}

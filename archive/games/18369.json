@@ -1,0 +1,150 @@
+{
+  "gameId": "18369",
+  "date": "2025-10-05",
+  "divId": 318,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1947",
+    "name": "Roughnecks"
+  },
+  "away": {
+    "teamId": "1952",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "scorer": "#50 - Lorin  Randall",
+      "assist1": "#33 - Mark  Hall",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:40",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "scorer": "#17 - Will  Murphy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "1947",
+        "name": "Roughnecks"
+      },
+      "scorer": "#88 - Mark  Griffith",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "scorer": "#17 - Will  Murphy",
+      "assist1": "#90 - Phil  Cunningham",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:08",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "scorer": "#17 - Will  Murphy",
+      "assist1": "#33 - Mark  Hall",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:15",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:50",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "scorer": "#31 - John  Marciano",
+      "assist1": "#12 - Kevin  James",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:00",
+      "team": {
+        "teamId": "1947",
+        "name": "Roughnecks"
+      },
+      "scorer": "#42 - Drew  Carbone",
+      "assist1": "#8 - Jared  Gronoman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "1947",
+        "name": "Roughnecks"
+      },
+      "player": "#81 - Sean  Murphy",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "1947",
+        "name": "Roughnecks"
+      },
+      "player": "#81 - Sean  Murphy",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:57:32.856Z"
+}

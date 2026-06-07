@@ -1,0 +1,241 @@
+{
+  "gameId": "11086",
+  "date": "2017-11-29",
+  "divId": 174,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1109",
+    "name": "Kings"
+  },
+  "away": {
+    "teamId": "1112",
+    "name": "Blackhawks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1109",
+        "name": "Kings"
+      },
+      "scorer": "#26 - Erik  Hovland",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:21",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#8 - Brendan  Millice",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:59",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": "#77 - Scott  Peterson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:06",
+      "team": {
+        "teamId": "1109",
+        "name": "Kings"
+      },
+      "scorer": "#26 - Erik  Hovland",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#7 - Tyler  Kniaz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:58",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#29 - Sean  Weddel",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1109",
+        "name": "Kings"
+      },
+      "player": "#25 - James  Murtha",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1109",
+        "name": "Kings"
+      },
+      "player": "#25 - James  Murtha",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "player": "#27 - David  McAndrews",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "player": "#27 - David  McAndrews",
+      "pim": 5,
+      "offense": "spear",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "player": "#27 - David  McAndrews",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:51",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "player": "#56 - Ryan  Tyler",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "1109",
+        "name": "Kings"
+      },
+      "player": "#28 - Chris  Marotta",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "1109",
+        "name": "Kings"
+      },
+      "player": "#7 - Mike  Hoard",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:22:29.580Z"
+}

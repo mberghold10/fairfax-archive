@@ -1,0 +1,132 @@
+{
+  "gameId": "14018",
+  "date": "2021-04-18",
+  "divId": 227,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1426",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "1423",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1423",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#20 - Mike  Neas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:16",
+      "team": {
+        "teamId": "1423",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#44 - Jeff  Marciano",
+      "assist1": "#21 - Joshua  Vichness",
+      "assist2": "#55 - Andrew  Mayen"
+    },
+    {
+      "period": "3",
+      "time": "00:07:02",
+      "team": {
+        "teamId": "1426",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#0 - Ruben  Garcia",
+      "assist1": "#39 - Alex  Cimon",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:01",
+      "team": {
+        "teamId": "1423",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#20 - Mike  Neas",
+      "assist1": "#24 - Brian  Davies",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:03",
+      "team": {
+        "teamId": "1423",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#55 - Andrew  Mayen",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:46",
+      "team": {
+        "teamId": "1423",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#9 - Greg  Sibley",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:29",
+      "team": {
+        "teamId": "1423",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:13",
+      "team": {
+        "teamId": "1426",
+        "name": "Mad Dogs"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:21:29.811Z"
+}

@@ -1,0 +1,160 @@
+{
+  "gameId": "10119",
+  "date": "2016-11-13",
+  "divId": 160,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1025",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "1027",
+    "name": "Sparks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:15:30",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "scorer": "#8 - Chris  Christou",
+      "assist1": "#7 - Ian  Stack",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:02",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#25 - Neil  DSouza",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": "#9 - Paul  Moretti"
+    },
+    {
+      "period": "3",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "scorer": "#12 - John  Porvaznik",
+      "assist1": "#5 - Zac  Graber",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "player": "#41 - Randy  Warren",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:51",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "player": "#37 - Christal  Cudworth",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "player": "#11 - Cynthia  Huber",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "player": "#22 - Amir  Tahani",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:35",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "player": "#36 - Brian  Lusby",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:29",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "player": "#27 - Andrew  Sundelin",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:44",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "player": "#7 - Ian  Stack",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:42:54.719Z"
+}

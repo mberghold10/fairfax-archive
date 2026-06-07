@@ -1,0 +1,160 @@
+{
+  "gameId": "9926",
+  "date": "2016-09-25",
+  "divId": 156,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1000",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1003",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:40",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#20 - Jeff  Carter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:47",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "scorer": "#9 - Rick  Cole",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "player": "#24 - Brian  Crossin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "player": "#43 - Bryan  Bentrott",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "player": "#33 - Paul  Flood",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:12",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "player": "#33 - Lee  Morgan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:23",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:23",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "player": "#77 - Gary  Adler",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:00:03.347Z"
+}

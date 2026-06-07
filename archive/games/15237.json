@@ -1,0 +1,161 @@
+{
+  "gameId": "15237",
+  "date": "2022-09-10",
+  "divId": 253,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1563",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "1561",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#22 - Chris  Balsey",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:48",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#6 - Kevin  Elfenbein",
+      "assist2": "#8 - Brenden  Millice"
+    },
+    {
+      "period": "1",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#78 - Noe  Hatchuel",
+      "assist1": "#41 - Erik  Kniaz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "scorer": "#93 - Bob  Banasik",
+      "assist1": "#46 - Wilson  Korol",
+      "assist2": "#70 - David  Fitzgerald"
+    },
+    {
+      "period": "1",
+      "time": "00:14:13",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#18 - Samson  Chu",
+      "assist2": "#78 - Noe  Hatchuel"
+    },
+    {
+      "period": "2",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "scorer": "#5 - Peter  Boone",
+      "assist1": "#22 - Chris  Balsey",
+      "assist2": "#3 - Kareem  El-Alaily"
+    },
+    {
+      "period": "2",
+      "time": "00:13:31",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "scorer": "#19 - Andrew  Grose",
+      "assist1": "#65 - Bobby  Woods-Corwin",
+      "assist2": "#10 - Justin  Arbes"
+    },
+    {
+      "period": "3",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "scorer": "#46 - Wilson  Korol",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": "#22 - Chris  Balsey"
+    },
+    {
+      "period": "3",
+      "time": "00:13:01",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#78 - Noe  Hatchuel",
+      "assist1": "#36 - William  Ludke",
+      "assist2": "#6 - Kevin  Elfenbein"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:15",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "player": "#36 - William  Ludke",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:45:18.085Z"
+}

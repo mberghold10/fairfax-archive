@@ -1,0 +1,154 @@
+{
+  "gameId": "12042",
+  "date": "2018-09-09",
+  "divId": 185,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1175",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1176",
+    "name": "Pharaohs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:25",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#20 - Ben  Fonarov",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1175",
+        "name": "Red Devils"
+      },
+      "scorer": "#5 - Joel  Dever",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:04",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#23 - Seth  Wayne",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#23 - Seth  Wayne",
+      "assist1": "#89 - Brandon  Barhorst",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:59",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#19 - Otto  Noffsinger",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:03",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#19 - Otto  Noffsinger",
+      "assist1": "#7 - Samantha  Miller",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "player": "#5 - Chris  Maroon",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:26",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "player": "#89 - Brandon  Barhorst",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:13",
+      "team": {
+        "teamId": "1175",
+        "name": "Red Devils"
+      },
+      "player": "#6 - Faraz  Izadi",
+      "pim": 2,
+      "offense": "head contact",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:13",
+      "team": {
+        "teamId": "1175",
+        "name": "Red Devils"
+      },
+      "player": "#6 - Faraz  Izadi",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:36:41.522Z"
+}

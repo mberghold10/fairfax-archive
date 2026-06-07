@@ -1,0 +1,117 @@
+{
+  "gameId": "14653",
+  "date": "2022-02-05",
+  "divId": 243,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1503",
+    "name": "Capitals"
+  },
+  "away": {
+    "teamId": "1502",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "1503",
+        "name": "Capitals"
+      },
+      "scorer": "#16 - Dan  Rebman",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:29",
+      "team": {
+        "teamId": "1503",
+        "name": "Capitals"
+      },
+      "scorer": "#70 - Dan  Ellert",
+      "assist1": "#24 - Michael  Sheridan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:11",
+      "team": {
+        "teamId": "1502",
+        "name": "Dragons"
+      },
+      "scorer": "#4 - Josiah  Renton",
+      "assist1": "#61 - Tommy  Ripke",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "1503",
+        "name": "Capitals"
+      },
+      "scorer": "#9 - Eric  Hass",
+      "assist1": "#24 - Michael  Sheridan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:22",
+      "team": {
+        "teamId": "1503",
+        "name": "Capitals"
+      },
+      "scorer": "#9 - Eric  Hass",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1502",
+        "name": "Dragons"
+      },
+      "player": "#54 - Philip  Dos Santos",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:32",
+      "team": {
+        "teamId": "1502",
+        "name": "Dragons"
+      },
+      "player": "#4 - Josiah  Renton",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:33:12.104Z"
+}

@@ -1,0 +1,152 @@
+{
+  "gameId": "18533",
+  "date": "2025-09-28",
+  "divId": 312,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1910",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1907",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1910",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#91 - Michael  Clarke",
+      "assist1": "#17 - Kevin  Roehner",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1910",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#91 - Michael  Clarke",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "1910",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#32 - Rob  Stewart",
+      "assist1": "#88 - Matt  Tiede",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1910",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#32 - Rob  Stewart",
+      "assist1": "#12 - Jonah  Lucey",
+      "assist2": "#29 - Sean  Weddell"
+    },
+    {
+      "period": "3",
+      "time": "00:04:11",
+      "team": {
+        "teamId": "1910",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#29 - Sean  Weddell",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": "#91 - Michael  Clarke"
+    },
+    {
+      "period": "3",
+      "time": "00:10:59",
+      "team": {
+        "teamId": "1907",
+        "name": "Angry Moose"
+      },
+      "scorer": "#470 - Jeff  Urlwin",
+      "assist1": "#17 - Anthony  Vitucci",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:30",
+      "team": {
+        "teamId": "1907",
+        "name": "Angry Moose"
+      },
+      "scorer": "#74 - Raymond  Jakubowski",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1907",
+        "name": "Angry Moose"
+      },
+      "player": "#21 - Kevin  Lockland",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:04",
+      "team": {
+        "teamId": "1910",
+        "name": "Blue Crabs"
+      },
+      "player": "#17 - Kevin  Roehner",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:04",
+      "team": {
+        "teamId": "1907",
+        "name": "Angry Moose"
+      },
+      "player": "#74 - Raymond  Jakubowski",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:49:58.332Z"
+}

@@ -1,0 +1,222 @@
+{
+  "gameId": "17782",
+  "date": "2025-03-02",
+  "divId": 299,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1839",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1842",
+    "name": "Screaming Eagles"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:01",
+      "team": {
+        "teamId": "1839",
+        "name": "Chiefs"
+      },
+      "scorer": "#15 - David  Eyre",
+      "assist1": "#0 - Curt  Tucker",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:01",
+      "team": {
+        "teamId": "1839",
+        "name": "Chiefs"
+      },
+      "scorer": "#24 - Thomas  Langpaul",
+      "assist1": "#42 - Dave  Hagemeier",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#28 - Jake  Combs",
+      "assist1": "#98 - Bob  Valdes",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#28 - Jake  Combs",
+      "assist1": "#96 - Jared  Elder",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:52",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#81 - Bryan  Getson",
+      "assist1": "#33 - Dan  Williams",
+      "assist2": "#91 - Oleg  Kolodin"
+    },
+    {
+      "period": "2",
+      "time": "00:11:41",
+      "team": {
+        "teamId": "1839",
+        "name": "Chiefs"
+      },
+      "scorer": "#12 - Chris  Yoko",
+      "assist1": "#42 - Dave  Hagemeier",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:01",
+      "team": {
+        "teamId": "1839",
+        "name": "Chiefs"
+      },
+      "scorer": "#18 - Michael  Dewhirst",
+      "assist1": "#16 - Ralph  Rinaldi",
+      "assist2": "#3 - Bobby  Woods-Corwin"
+    },
+    {
+      "period": "3",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#91 - Oleg  Kolodin",
+      "assist1": "#88 - Evan  Wojtowicz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:44",
+      "team": {
+        "teamId": "1839",
+        "name": "Chiefs"
+      },
+      "scorer": "#18 - Michael  Dewhirst",
+      "assist1": "#4 - Dave  Sinniger",
+      "assist2": "#13 - Trevor  Wallace"
+    },
+    {
+      "period": "3",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "1839",
+        "name": "Chiefs"
+      },
+      "scorer": "#42 - Dave  Hagemeier",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:58",
+      "team": {
+        "teamId": "1839",
+        "name": "Chiefs"
+      },
+      "scorer": "#12 - Chris  Yoko",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:08",
+      "team": {
+        "teamId": "1839",
+        "name": "Chiefs"
+      },
+      "player": "#4 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "1839",
+        "name": "Chiefs"
+      },
+      "player": "#12 - Chris  Yoko",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:08",
+      "team": {
+        "teamId": "1839",
+        "name": "Chiefs"
+      },
+      "player": "#30 - Bill  Campbell",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:08",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "player": "#96 - Jared  Elder",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:19",
+      "team": {
+        "teamId": "1839",
+        "name": "Chiefs"
+      },
+      "player": "#0 - Curt  Tucker",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:36:34.231Z"
+}

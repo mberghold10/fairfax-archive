@@ -1,0 +1,178 @@
+{
+  "gameId": "10584",
+  "date": "2017-05-14",
+  "divId": 166,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1061",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1065",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "1061",
+        "name": "Avalanche"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:52",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#77 - Kirsten  Domingo",
+      "assist1": "#19 - Colin  Million",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:58",
+      "team": {
+        "teamId": "1061",
+        "name": "Avalanche"
+      },
+      "scorer": "#99 - Jon  Davoren",
+      "assist1": "#900 - Kyle  Eng",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:56",
+      "team": {
+        "teamId": "1061",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:03",
+      "team": {
+        "teamId": "1061",
+        "name": "Avalanche"
+      },
+      "scorer": "#900 - Kyle  Eng",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:19",
+      "team": {
+        "teamId": "1061",
+        "name": "Avalanche"
+      },
+      "scorer": "# -",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#88 - Brian  Ray",
+      "assist1": "#19 - Colin  Million",
+      "assist2": "#91 - Chris  Callanan"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "player": "#88 - Brian  Ray",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:15",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "player": "#88 - Brian  Ray",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:33",
+      "team": {
+        "teamId": "1061",
+        "name": "Avalanche"
+      },
+      "player": "#18 - Pete  Poczatek",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1061",
+        "name": "Avalanche"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:13",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "player": "#52 - Evan  Weisel",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:13:03.218Z"
+}

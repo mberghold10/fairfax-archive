@@ -1,0 +1,147 @@
+{
+  "gameId": "10695",
+  "date": "2017-07-16",
+  "divId": 162,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1039",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "1083",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1083",
+        "name": "Ducks"
+      },
+      "scorer": "#18 - Sean  Gallucci",
+      "assist1": "#59 - John  Saluga",
+      "assist2": "#10 - Bruce  McLeod"
+    },
+    {
+      "period": "3",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1083",
+        "name": "Ducks"
+      },
+      "scorer": "#91 - Robert  Fischer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:14",
+      "team": {
+        "teamId": "1083",
+        "name": "Ducks"
+      },
+      "scorer": "#10 - Bruce  McLeod",
+      "assist1": "#18 - Sean  Gallucci",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:39",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "player": "#28 - Alex  Henry",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:39",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "player": "#28 - Alex  Henry",
+      "pim": 2,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:41",
+      "team": {
+        "teamId": "1083",
+        "name": "Ducks"
+      },
+      "player": "#19 - Chris  Blevins",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:37",
+      "team": {
+        "teamId": "1083",
+        "name": "Ducks"
+      },
+      "player": "#270 - Laurent  Depouilly",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:49",
+      "team": {
+        "teamId": "1083",
+        "name": "Ducks"
+      },
+      "player": "#4 - Bruce  Baltas",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:14",
+      "team": {
+        "teamId": "1083",
+        "name": "Ducks"
+      },
+      "player": "#59 - John  Saluga",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:08:17.799Z"
+}

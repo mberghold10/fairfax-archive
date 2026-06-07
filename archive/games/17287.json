@@ -1,0 +1,139 @@
+{
+  "gameId": "17287",
+  "date": "2024-08-25",
+  "divId": 289,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1775",
+    "name": "Busch League"
+  },
+  "away": {
+    "teamId": "1777",
+    "name": "Red Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:31",
+      "team": {
+        "teamId": "1775",
+        "name": "Busch League"
+      },
+      "scorer": "#1 - Thomas  Newberg",
+      "assist1": "#77 - Trevor  Boynton",
+      "assist2": "#5 - Stan  Doerrer"
+    },
+    {
+      "period": "2",
+      "time": "00:01:49",
+      "team": {
+        "teamId": "1775",
+        "name": "Busch League"
+      },
+      "scorer": "#5 - Stan  Doerrer",
+      "assist1": "#19 - Colin  Bartlett",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:07",
+      "team": {
+        "teamId": "1777",
+        "name": "Red Dragons"
+      },
+      "scorer": "#71 - Robie  Raymond",
+      "assist1": "#56 - Daniel  Meaux",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:42",
+      "team": {
+        "teamId": "1777",
+        "name": "Red Dragons"
+      },
+      "scorer": "#7 - Connor  Anderson",
+      "assist1": "#12 - Scott  Borders",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "1775",
+        "name": "Busch League"
+      },
+      "scorer": "#1 - Thomas  Newberg",
+      "assist1": "#33 - Matt  Ponzurick",
+      "assist2": "#17 - Marc  Patience"
+    },
+    {
+      "period": "3",
+      "time": "00:06:55",
+      "team": {
+        "teamId": "1777",
+        "name": "Red Dragons"
+      },
+      "scorer": "#21 - Brandon  Jones",
+      "assist1": "#12 - Scott  Borders",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:08",
+      "team": {
+        "teamId": "1777",
+        "name": "Red Dragons"
+      },
+      "scorer": "#7 - Connor  Anderson",
+      "assist1": "#71 - Robie  Raymond",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:48",
+      "team": {
+        "teamId": "1777",
+        "name": "Red Dragons"
+      },
+      "player": "#94 - Michael  Starego",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1777",
+        "name": "Red Dragons"
+      },
+      "player": "#65 - Stuart  Hoffman",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:26:43.579Z"
+}

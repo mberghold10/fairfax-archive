@@ -1,0 +1,276 @@
+{
+  "gameId": "1280",
+  "date": "2023-05-01",
+  "divId": 259,
+  "seasonName": "Winter 2022",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1592",
+    "name": "Punishers HC"
+  },
+  "away": {
+    "teamId": "1595",
+    "name": "North Stars"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 5,
+      "p3": 1,
+      "ot": 0,
+      "final": 8
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:50",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "scorer": "#8 - Grant  Dougans",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": "#62 - Phil  Tivel"
+    },
+    {
+      "period": "1",
+      "time": "00:14:35",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": "#12 - Dave  OMally",
+      "assist2": "#27 - Dave  Lin"
+    },
+    {
+      "period": "2",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "scorer": "#4 - Patrick  Smith",
+      "assist1": "#29 - Brian  Mehnert",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:12",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "scorer": "#29 - Brian  Mehnert",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:03",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#1 - Matt  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:53",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "scorer": "#8 - Grant  Dougans",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": "#27 - Dave  Lin"
+    },
+    {
+      "period": "3",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "scorer": "#22 - Joseph  Ney",
+      "assist1": "#61 - Tero  Moberg",
+      "assist2": "#42 - Adam  Russell"
+    },
+    {
+      "period": "3",
+      "time": "00:06:52",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "scorer": "#12 - Dave  OMally",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:26",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "scorer": "#17 - Talon  Ribsam",
+      "assist1": "#12 - Matt  Diamond",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:56",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "player": "#5 - Ben  Malakoff",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "player": "#29 - Brian  Mehnert",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "player": "#21 - Gordon  Scott",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:33",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "player": "#28 - Jacob  Combs",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "player": "#12 - Dave  OMally",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "player": "#10 - Mario  Constantinou",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:13",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:13",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "player": "#5 - Ben  Malakoff",
+      "pim": 2,
+      "offense": "g int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:19",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "player": "#21 - Gordon  Scott",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:58",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "player": "#12 - Dave  OMally",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:52:11.935Z"
+}

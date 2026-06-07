@@ -1,0 +1,130 @@
+{
+  "gameId": "15308",
+  "date": "2022-08-07",
+  "divId": 256,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1580",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1579",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:02:12",
+      "team": {
+        "teamId": "1580",
+        "name": "Red Wings"
+      },
+      "scorer": "#74 - David  Urlwin",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#77 - Jeff  Wilken",
+      "assist1": "#72 - Matthew  Wilken",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:32",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#28 - Steve  Begin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:06",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#72 - Matthew  Wilken",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:54",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#28 - Steve  Begin",
+      "assist1": "#22 - Amir  Tahami",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1580",
+        "name": "Red Wings"
+      },
+      "player": "#22 - Trevor  Blair",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1580",
+        "name": "Red Wings"
+      },
+      "player": "#25 - James  Chu",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:04",
+      "team": {
+        "teamId": "1580",
+        "name": "Red Wings"
+      },
+      "player": "#74 - David  Urlwin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:48:40.858Z"
+}

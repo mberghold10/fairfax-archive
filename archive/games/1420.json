@@ -1,0 +1,128 @@
+{
+  "gameId": "1420",
+  "date": "2024-05-19",
+  "divId": 280,
+  "seasonName": "Winter 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1722",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1723",
+    "name": "Toronto"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#13 - Joe  Carroll",
+      "assist1": "#16 - Cullen  Finley",
+      "assist2": "#74 - Matt  Santos"
+    },
+    {
+      "period": "1",
+      "time": "00:14:06",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#88 - Jason  Searight",
+      "assist1": "#21 - Joe  Rhodes",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:34",
+      "team": {
+        "teamId": "1723",
+        "name": "Toronto"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "1723",
+        "name": "Toronto"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#28 - Harry  Nicholakos",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:42",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#4 - Rob  Ryan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:32",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#13 - Joe  Carroll",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:12:07",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#42 - Maureen  OSullivan",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#88 - Jason  Searight",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:17:10.311Z"
+}

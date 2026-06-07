@@ -1,0 +1,130 @@
+{
+  "gameId": "18107",
+  "date": "2025-07-06",
+  "divId": 311,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1905",
+    "name": "D 4th Liners"
+  },
+  "away": {
+    "teamId": "1900",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:52",
+      "team": {
+        "teamId": "1900",
+        "name": "Nortec"
+      },
+      "scorer": "#40 - Mikail  Serebrennikov",
+      "assist1": "#44 - Bob  Arnold",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:12",
+      "team": {
+        "teamId": "1900",
+        "name": "Nortec"
+      },
+      "scorer": "#92 - Ilya  Kosolapov",
+      "assist1": "#44 - Bob  Arnold",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "1905",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#8 - Jordan  Walerstein",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:16",
+      "team": {
+        "teamId": "1900",
+        "name": "Nortec"
+      },
+      "scorer": "#8 - Mike  Carr",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1900",
+        "name": "Nortec"
+      },
+      "scorer": "#68 - Jeff  Gilmore",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:39",
+      "team": {
+        "teamId": "1900",
+        "name": "Nortec"
+      },
+      "player": "#40 - Mikail  Serebrennikov",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:34",
+      "team": {
+        "teamId": "1900",
+        "name": "Nortec"
+      },
+      "player": "#21 - Mark  Johnston",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:55",
+      "team": {
+        "teamId": "1900",
+        "name": "Nortec"
+      },
+      "player": "#40 - Mikail  Serebrennikov",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:48:14.588Z"
+}

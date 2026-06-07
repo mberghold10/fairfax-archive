@@ -1,0 +1,141 @@
+{
+  "gameId": "13144",
+  "date": "2019-08-31",
+  "divId": 206,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1302",
+    "name": "Triassic Puck"
+  },
+  "away": {
+    "teamId": "1306",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:36",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "scorer": "#34 - Cameron  Wilson",
+      "assist1": "#68 - Matt  Taylor",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:06",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#7 - Michael  Ambrosino",
+      "assist1": "#79 - Tristan  Heyn",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#10 - Radoslaw  Kaczor",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "scorer": "#11 - Emma  Alperin",
+      "assist1": "#91 - Graham  Jackson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#10 - Radoslaw  Kaczor",
+      "assist1": "#38 - Keith  Forsythe",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:34",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#27 - Mike  Fullen",
+      "assist1": "#7 - Michael  Ambrosino",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "player": "#42 - David  Hagemeier",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:39",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "player": "#42 - David  Hagemeier",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "player": "#7 - Michael  Ambrosino",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:02:16.424Z"
+}

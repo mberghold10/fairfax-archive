@@ -1,0 +1,152 @@
+{
+  "gameId": "1018",
+  "date": "2019-10-05",
+  "divId": 203,
+  "seasonName": "Summer 2019",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1287",
+    "name": "Bluejacket Capitals"
+  },
+  "away": {
+    "teamId": "1290",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:04",
+      "team": {
+        "teamId": "1287",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#70 - Dan  Ellert",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:58",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": "#17 - Allen  Preville",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:37",
+      "team": {
+        "teamId": "1287",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#27 - Mark  Rudnicki",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:36",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#88 - Brian  Ray",
+      "assist1": "#17 - Allen  Preville",
+      "assist2": "#91 - Chris  Callanan"
+    },
+    {
+      "period": "3",
+      "time": "00:04:25",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#9 - Jon  Goldstein",
+      "assist1": "#88 - Brian  Ray",
+      "assist2": "#29 - Michael  Carzoli"
+    },
+    {
+      "period": "3",
+      "time": "00:05:33",
+      "team": {
+        "teamId": "1287",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#77 - Erik  Bergman",
+      "assist1": "#27 - Mark  Rudnicki",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:55",
+      "team": {
+        "teamId": "1287",
+        "name": "Bluejacket Capitals"
+      },
+      "player": "#15 - Bob  Guckian",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1287",
+        "name": "Bluejacket Capitals"
+      },
+      "player": "#25 - Stan  Torgovitsky",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:16",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "player": "#44 - Jack  Wilmer",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:58:55.381Z"
+}

@@ -1,0 +1,139 @@
+{
+  "gameId": "12979",
+  "date": "2019-07-28",
+  "divId": 200,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1268",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1269",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:21",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": "#99 - Jon  Davoren",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:12",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#34 - Jim  Morgan",
+      "assist1": "#44 - Greg  Powers",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:06",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#99 - Jon  Davoren",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:44",
+      "team": {
+        "teamId": "1268",
+        "name": "Flying Circus"
+      },
+      "scorer": "#8 - Dan  Brehm",
+      "assist1": "#12 - Adam  Jungdahl",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "1268",
+        "name": "Flying Circus"
+      },
+      "scorer": "#21 - Trevor  Wallace",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:58",
+      "team": {
+        "teamId": "1268",
+        "name": "Flying Circus"
+      },
+      "scorer": "#21 - Trevor  Wallace",
+      "assist1": "#15 - Mike  Hempen",
+      "assist2": "#55 - Joel  Whitney"
+    },
+    {
+      "period": "3",
+      "time": "00:05:53",
+      "team": {
+        "teamId": "1268",
+        "name": "Flying Circus"
+      },
+      "scorer": "#17 - John  Kemprowski",
+      "assist1": "#12 - Adam  Jungdahl",
+      "assist2": "#55 - Joel  Whitney"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "player": "#10 - Mike  Brahmey",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:42",
+      "team": {
+        "teamId": "1268",
+        "name": "Flying Circus"
+      },
+      "player": "#12 - Adam  Jungdahl",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:55:20.372Z"
+}

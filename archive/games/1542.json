@@ -1,0 +1,163 @@
+{
+  "gameId": "1542",
+  "date": "2025-06-12",
+  "divId": 306,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1879",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1875",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:01",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#54 - Dan  Bagley",
+      "assist1": "#99 - Jon  Davoren",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:18",
+      "team": {
+        "teamId": "1879",
+        "name": "Islanders"
+      },
+      "scorer": "#79 - Dave  Gerstner",
+      "assist1": "#77 - Joe  Berret",
+      "assist2": "#93 - Jeff  Nauer"
+    },
+    {
+      "period": "2",
+      "time": "00:00:52",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#54 - Dan  Bagley",
+      "assist1": "#5 - Oleg  Kolodin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": "#23 - Mike  OBrien",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#54 - Dan  Bagley",
+      "assist2": "#35 - Ross  Kuhn"
+    },
+    {
+      "period": "3",
+      "time": "00:02:55",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#77 - Dan  Miller",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": "#54 - Dan  Bagley"
+    },
+    {
+      "period": "3",
+      "time": "00:13:18",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#54 - Dan  Bagley",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:38",
+      "team": {
+        "teamId": "1879",
+        "name": "Islanders"
+      },
+      "player": "#74 - Mike  Brewin",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "player": "#23 - Mike  OBrien",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:45",
+      "team": {
+        "teamId": "1879",
+        "name": "Islanders"
+      },
+      "player": "#76 - John  Ellison",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:44:57.179Z"
+}

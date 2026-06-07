@@ -1,0 +1,213 @@
+{
+  "gameId": "10067",
+  "date": "2016-11-07",
+  "divId": 158,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1016",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1013",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#8 - Zach  Angeline",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:49",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#7 - Mike  Cardarelli",
+      "assist1": "#5 - James  Miller",
+      "assist2": "#63 - Jeff  Hoffner"
+    },
+    {
+      "period": "1",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#63 - Jeff  Hoffner",
+      "assist1": "#8 - Zach  Angeline",
+      "assist2": "#17 - Rich  Wagner"
+    },
+    {
+      "period": "2",
+      "time": "00:02:17",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#6 - Mike  Benyo",
+      "assist1": "#8 - Zach  Angeline",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:06",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#8 - Zach  Angeline",
+      "assist1": "#5 - James  Miller",
+      "assist2": "#63 - Jeff  Hoffner"
+    },
+    {
+      "period": "3",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#6 - Faraz  Izadi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:25",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": "#17 - Rich  Wagner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:06",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": "#18 - Jeff  Rummel",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:09",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "player": "#5 - James  Miller",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "player": "#22 - JongJae  Yoo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:54",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "player": "#18 - Jeff  Rummel",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:54",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "player": "#63 - Jeff  Hoffner",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:04",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "player": "#92 - Matt  Frazza",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:36",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:02:54.042Z"
+}

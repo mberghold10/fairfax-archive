@@ -1,0 +1,139 @@
+{
+  "gameId": "10951",
+  "date": "2017-09-26",
+  "divId": 173,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1104",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1105",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "scorer": "#13 - Phil  Wind",
+      "assist1": "#57 - Howard  Uman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:19",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "scorer": "#57 - Howard  Uman",
+      "assist1": "#13 - Phil  Wind",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:34",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "scorer": "#13 - Phil  Wind",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:09",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "scorer": "#13 - Phil  Wind",
+      "assist1": "#5 - Alex  Talalayevsky",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "1104",
+        "name": "Wolves"
+      },
+      "scorer": "#9 - Shannon  Karner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1104",
+        "name": "Wolves"
+      },
+      "scorer": "#71 - Mike  McLeahan",
+      "assist1": "#9 - Shannon  Karner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:58",
+      "team": {
+        "teamId": "1104",
+        "name": "Wolves"
+      },
+      "scorer": "#10 - Rich  Scigaj",
+      "assist1": "#68 - Jeff  Robins",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:02:42",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "player": "#10 - Matt  Johnson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:04",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "player": "#13 - Phil  Wind",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:21:08.864Z"
+}

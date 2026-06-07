@@ -1,0 +1,156 @@
+{
+  "gameId": "10717",
+  "date": "2017-07-06",
+  "divId": 163,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1047",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1043",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:55",
+      "team": {
+        "teamId": "1043",
+        "name": "Penguins"
+      },
+      "scorer": "#13 - Bob  Seal",
+      "assist1": "#11 - Darren  Wellner",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:04",
+      "team": {
+        "teamId": "1043",
+        "name": "Penguins"
+      },
+      "scorer": "#11 - Darren  Wellner",
+      "assist1": "#25 - Jeff  Wojtala",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1047",
+        "name": "Islanders"
+      },
+      "scorer": "#13 - Tim  Cremen",
+      "assist1": "#4 - Stew  Gitler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "1047",
+        "name": "Islanders"
+      },
+      "scorer": "#31 - Jason  Apergis",
+      "assist1": "#52 - Chris  Czernia",
+      "assist2": "#6 - Jon  Lauder"
+    },
+    {
+      "period": "3",
+      "time": "00:12:55",
+      "team": {
+        "teamId": "1043",
+        "name": "Penguins"
+      },
+      "scorer": "#26 - Andy  Stickel",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:23",
+      "team": {
+        "teamId": "1043",
+        "name": "Penguins"
+      },
+      "player": "#44 - George  Cassidy",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:43",
+      "team": {
+        "teamId": "1043",
+        "name": "Penguins"
+      },
+      "player": "#44 - George  Cassidy",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:46",
+      "team": {
+        "teamId": "1043",
+        "name": "Penguins"
+      },
+      "player": "#28 - Geoff  Storchan",
+      "pim": 2,
+      "offense": "g int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:24",
+      "team": {
+        "teamId": "1043",
+        "name": "Penguins"
+      },
+      "player": "#25 - Jeff  Wojtala",
+      "pim": 2,
+      "offense": "g int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:47",
+      "team": {
+        "teamId": "1043",
+        "name": "Penguins"
+      },
+      "player": "#28 - Geoff  Storchan",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:09:31.980Z"
+}

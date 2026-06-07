@@ -1,0 +1,141 @@
+{
+  "gameId": "18617",
+  "date": "2025-12-13",
+  "divId": 321,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1968",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1965",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#11 - Scott  Choronzy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#4 - Sean  Courtney",
+      "assist1": "#2 - Ari  Loggia",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#28 - Jason  Liebel",
+      "assist1": "#91 - Jake  Barnett",
+      "assist2": "#25 - Bob  Banasik"
+    },
+    {
+      "period": "2",
+      "time": "00:05:04",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#20 - Mike  McLenahan",
+      "assist1": "#2 - Ari  Loggia",
+      "assist2": "#71 - Charlie  Tourbaf"
+    },
+    {
+      "period": "2",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#20 - Mike  McLenahan",
+      "assist1": "#71 - Charlie  Tourbaf",
+      "assist2": "#2 - Ari  Loggia"
+    },
+    {
+      "period": "3",
+      "time": "00:14:01",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#28 - Jason  Liebel",
+      "assist1": "#40 - Mikail  Serebrennikov",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:18",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "player": "#71 - Charlie  Tourbaf",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:24",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "player": "#11 - Scott  Choronzy",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:01",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "player": "#4 - Sean  Courtney",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:37:39.581Z"
+}

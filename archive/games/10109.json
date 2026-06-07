@@ -1,0 +1,143 @@
+{
+  "gameId": "10109",
+  "date": "2016-10-22",
+  "divId": 160,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1030",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1028",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:46",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": "#3 - Will  Caito",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:16:32",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#14 - David  Fisher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:40",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#14 - David  Fisher",
+      "assist1": "#67 - Brian  Landers",
+      "assist2": "#44 - John  Burke"
+    },
+    {
+      "period": "2",
+      "time": "00:13:23",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#67 - Brian  Landers",
+      "assist1": "#16 - Nicole  Chapman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#25 - Jack  Hur",
+      "assist1": "#19 - Nick  Adamonis",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:17",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#66 - Steven  Spector",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:06",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#54 - Brian  Hensel",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:15:31",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#50 - Steve  Bennett",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:46",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#44 - George  Cernica",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:42:44.699Z"
+}

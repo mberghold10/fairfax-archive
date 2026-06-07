@@ -1,0 +1,93 @@
+{
+  "gameId": "15915",
+  "date": "2023-07-16",
+  "divId": 269,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1660",
+    "name": "D Punishers"
+  },
+  "away": {
+    "teamId": "1662",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:48",
+      "team": {
+        "teamId": "1662",
+        "name": "Angry Moose"
+      },
+      "scorer": "#15 - Kevin  Szczepanski",
+      "assist1": "#10 - Howie  Schulman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:05",
+      "team": {
+        "teamId": "1660",
+        "name": "D Punishers"
+      },
+      "scorer": "#89 - Jay  Gobeil",
+      "assist1": "#37 - Nick  Desport",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:13",
+      "team": {
+        "teamId": "1662",
+        "name": "Angry Moose"
+      },
+      "scorer": "#51 - Bob  Sagusti",
+      "assist1": "#71 - Josh  Savitch",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:49",
+      "team": {
+        "teamId": "1662",
+        "name": "Angry Moose"
+      },
+      "scorer": "#9 - Jason  Benedict",
+      "assist1": "#15 - Kevin  Szczepanski",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1660",
+        "name": "D Punishers"
+      },
+      "player": "#91 - Rick  Cole",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:03:43.899Z"
+}

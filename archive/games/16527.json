@@ -1,0 +1,117 @@
+{
+  "gameId": "16527",
+  "date": "2024-01-10",
+  "divId": 280,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1722",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1723",
+    "name": "Toronto"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:47",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#13 - Joe  Carroll",
+      "assist1": "#33 - Scott  Coco",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#5 - Mike  Fottrell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:10",
+      "team": {
+        "teamId": "1723",
+        "name": "Toronto"
+      },
+      "scorer": "#74 - David  Urlwin",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:56",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#5 - Mike  Fottrell",
+      "assist1": "#33 - Scott  Coco",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:05",
+      "team": {
+        "teamId": "1723",
+        "name": "Toronto"
+      },
+      "scorer": "#8 - Elliott  Yang",
+      "assist1": "#20 - Bao  Pham",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:56",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:16:41.170Z"
+}

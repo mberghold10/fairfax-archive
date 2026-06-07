@@ -1,0 +1,121 @@
+{
+  "gameId": "1136",
+  "date": "2021-07-26",
+  "divId": 227,
+  "seasonName": "Spring 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1423",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1427",
+    "name": "Hitmen"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1427",
+        "name": "Hitmen"
+      },
+      "scorer": "#19 - Joe  Phillips",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:52",
+      "team": {
+        "teamId": "1423",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#44 - Jeff  Marciano",
+      "assist1": "#4 - Sam  Hauslohner",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:07:06",
+      "team": {
+        "teamId": "1427",
+        "name": "Hitmen"
+      },
+      "scorer": "#5 - Chris  Oman",
+      "assist1": "#17 - James  Ciskanik",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:48",
+      "team": {
+        "teamId": "1427",
+        "name": "Hitmen"
+      },
+      "player": "#4 - Augie  Savarese",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:44",
+      "team": {
+        "teamId": "1423",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#24 - Brian  Davies",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:06",
+      "team": {
+        "teamId": "1427",
+        "name": "Hitmen"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:17",
+      "team": {
+        "teamId": "1423",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#24 - Brian  Davies",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:22:04.404Z"
+}

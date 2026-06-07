@@ -1,0 +1,139 @@
+{
+  "gameId": "14586",
+  "date": "2022-03-05",
+  "divId": 241,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1491",
+    "name": "Redhawks"
+  },
+  "away": {
+    "teamId": "1490",
+    "name": "Englewood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:02:08",
+      "team": {
+        "teamId": "1491",
+        "name": "Redhawks"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#18 - Samson  Chu",
+      "assist2": "#8 - Brenden  Millice"
+    },
+    {
+      "period": "2",
+      "time": "00:07:11",
+      "team": {
+        "teamId": "1491",
+        "name": "Redhawks"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#66 - Sean  Magrann",
+      "assist2": "#3 - Jeff  Regan"
+    },
+    {
+      "period": "2",
+      "time": "00:11:48",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": "#12 - Brian  Dix"
+    },
+    {
+      "period": "2",
+      "time": "00:13:12",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:26",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#14 - Dennis  Nayandin",
+      "assist1": "#21 - Steve  Chan",
+      "assist2": "#6 - Derek  Morrissette"
+    },
+    {
+      "period": "3",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#6 - Derek  Morrissette",
+      "assist2": "#14 - Dennis  Nayandin"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:31",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:34",
+      "team": {
+        "teamId": "1491",
+        "name": "Redhawks"
+      },
+      "player": "#18 - Samson  Chu",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:30:37.405Z"
+}

@@ -1,0 +1,132 @@
+{
+  "gameId": "14521",
+  "date": "2021-11-28",
+  "divId": 246,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1521",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1522",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "scorer": "#55 - Ken  Alm",
+      "assist1": "#5 - Andy  Loggia",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:34",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "scorer": "#3 - Bill  Schultheiss",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:13",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "scorer": "#900 - Aaron  Dobbs",
+      "assist1": "#24 - Max  Alexeev",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "player": "#3 - Bill  Schultheiss",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:05",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "player": "#64 - Joe  Trahey",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:16",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "player": "#43 - Ryan  ODriscoll",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:12",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:36:15.567Z"
+}

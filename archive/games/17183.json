@@ -1,0 +1,93 @@
+{
+  "gameId": "17183",
+  "date": "2024-08-04",
+  "divId": 294,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1801",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1799",
+    "name": "Gold Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:21",
+      "team": {
+        "teamId": "1799",
+        "name": "Gold Goats"
+      },
+      "scorer": "#18 - Sam  Bressi",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": "#93 - Chris  Conley"
+    },
+    {
+      "period": "2",
+      "time": "00:05:12",
+      "team": {
+        "teamId": "1801",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#47 - Jeff  Urlwin",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:50",
+      "team": {
+        "teamId": "1801",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#16 - Greg  Thomas",
+      "assist1": "#89 - Brandon  Barhorst",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:52",
+      "team": {
+        "teamId": "1801",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#47 - Jeff  Urlwin",
+      "assist1": "#48 - Randy  Sasai",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:04",
+      "team": {
+        "teamId": "1799",
+        "name": "Gold Goats"
+      },
+      "player": "#62 - Phil  Tivel",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:31:45.166Z"
+}

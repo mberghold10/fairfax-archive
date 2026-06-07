@@ -1,0 +1,200 @@
+{
+  "gameId": "10055",
+  "date": "2016-10-09",
+  "divId": 158,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1016",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1012",
+    "name": "North Stars"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:58",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": "#7 - Evan  Wojtowicz",
+      "assist2": "#5 - Joseph  Ney"
+    },
+    {
+      "period": "1",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "scorer": "#27 - Joe  Molosky",
+      "assist1": "#6 - Matt  Dwyer",
+      "assist2": "#61 - Tero  Moberg"
+    },
+    {
+      "period": "1",
+      "time": "00:12:25",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#18 - Jeff  Rummel",
+      "assist1": "#12 - James  Bratsos",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": "#7 - Evan  Wojtowicz",
+      "assist2": "#42 - Adam  Russell"
+    },
+    {
+      "period": "2",
+      "time": "00:12:56",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "scorer": "#27 - Joe  Molosky",
+      "assist1": "#61 - Tero  Moberg",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:49",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": "#3 - Brien  Haigley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:35",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": "#7 - Evan  Wojtowicz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:25",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "scorer": "#21 - John  Peterman",
+      "assist1": "#61 - Tero  Moberg",
+      "assist2": "#27 - Joe  Molosky"
+    },
+    {
+      "period": "3",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#12 - James  Bratsos",
+      "assist1": "#18 - Jeff  Rummel",
+      "assist2": "#10 - Chris  Chagnon"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:46",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:25",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "player": "#5 - Joseph  Ney",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "player": "#12 - James  Bratsos",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:58",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "player": "#6 - Faraz  Izadi",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:58",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "player": "#6 - Matt  Dwyer",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:02:41.627Z"
+}

@@ -1,0 +1,95 @@
+{
+  "gameId": "10066",
+  "date": "2016-11-06",
+  "divId": 158,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1012",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1015",
+    "name": "Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:11",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "scorer": "#27 - Joe  Molosky",
+      "assist1": "#6 - Matt  Dwyer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#18 - Steve  Percival",
+      "assist2": "#90 - Shawn  McEvoy"
+    },
+    {
+      "period": "3",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "scorer": "#12 - Matt  Diamond",
+      "assist1": "#21 - John  Peterman",
+      "assist2": "#7 - Evan  Wojtowicz"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "player": "#6 - Bob  Gutierrez",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "player": "#13 - Matt  Jenkins",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:02:52.932Z"
+}

@@ -1,0 +1,141 @@
+{
+  "gameId": "10617",
+  "date": "2017-06-12",
+  "divId": 167,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1070",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1067",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:09",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#37 - Craig  Richardson",
+      "assist1": "#91 - Matt  Vossekuil",
+      "assist2": "#2 - Dennis  Valentine"
+    },
+    {
+      "period": "1",
+      "time": "00:03:45",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#53 - Robert  Hutchinson",
+      "assist1": "#42 - Dan  Schwind",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:54",
+      "team": {
+        "teamId": "1070",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#21 - Austin  Orchard",
+      "assist1": "#48 - Randy  Sasai",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:49",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": "#0 - Jory  Rubenstein",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:08",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#14 - Rachel  Sullivan",
+      "assist1": "#91 - Matt  Vossekuil",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:45",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#91 - Matt  Vossekuil",
+      "assist1": "#2 - Dennis  Valentine",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:33",
+      "team": {
+        "teamId": "1070",
+        "name": "Maple Leafs"
+      },
+      "player": "#2 - JP  Gardner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "player": "#42 - Dan  Schwind",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "1070",
+        "name": "Maple Leafs"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:14:29.162Z"
+}

@@ -1,0 +1,160 @@
+{
+  "gameId": "15420",
+  "date": "2022-10-29",
+  "divId": 260,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1605",
+    "name": "Hitmen"
+  },
+  "away": {
+    "teamId": "1602",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:32",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "scorer": "#5 - Chris  Oman",
+      "assist1": "#3 - Charlie  Beekman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:31",
+      "team": {
+        "teamId": "1602",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": "#10 - Radislaw  Kaczor",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:53",
+      "team": {
+        "teamId": "1602",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#22 - Patrick  Smith",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "player": "#99 - Jeff  Snow",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "player": "#91 - Josh  Wilson",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:58",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "player": "#91 - Josh  Wilson",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "player": "#4 - Augie  Savarese",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:16",
+      "team": {
+        "teamId": "1602",
+        "name": "Jurassic Puck"
+      },
+      "player": "#15 - Mike  Lowe",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "1602",
+        "name": "Jurassic Puck"
+      },
+      "player": "#15 - Mike  Lowe",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:52:26.314Z"
+}

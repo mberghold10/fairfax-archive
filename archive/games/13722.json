@@ -1,0 +1,106 @@
+{
+  "gameId": "13722",
+  "date": "2020-01-12",
+  "divId": 216,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1365",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1368",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:09",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#33 - Mark  Hall",
+      "assist1": "#23 - Nicholas  Karsten",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:09",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#33 - Mark  Hall",
+      "assist1": "#12 - Gus  Anderson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:48",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "scorer": "#75 - Danny  Normandeau",
+      "assist1": "#31 - Zack  Furness",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#2 - JP  Gardner",
+      "assist1": "#12 - Gus  Anderson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "player": "#74 - David  Urlwin",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:50",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "player": "#12 - Gus  Anderson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:14:17.351Z"
+}

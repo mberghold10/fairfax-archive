@@ -1,0 +1,150 @@
+{
+  "gameId": "1472",
+  "date": "2024-11-09",
+  "divId": 295,
+  "seasonName": "Summer 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1803",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1805",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:51",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "scorer": "#29 - James  Kim",
+      "assist1": "#21 - Brendan  Williams",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:24",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#13 - Alex  Rudulph",
+      "assist1": "#20 - Steve  Ahart",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#77 - Jeff  Wilken",
+      "assist1": "#4 - Jeff  Goldberg",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:25",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "scorer": "#47 - Dave  LeKuch",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "scorer": "#47 - Dave  LeKuch",
+      "assist1": "#29 - James  Kim",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#18 - Lee  Freedman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#18 - Lee  Freedman",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:36",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "player": "#95 - Patrick  OConnor",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "player": "#47 - Dave  LeKuch",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:33:35.419Z"
+}

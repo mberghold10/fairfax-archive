@@ -1,0 +1,139 @@
+{
+  "gameId": "17642",
+  "date": "2025-01-19",
+  "divId": 303,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1860",
+    "name": "Junkyard Dogs"
+  },
+  "away": {
+    "teamId": "1861",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:11",
+      "team": {
+        "teamId": "1860",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#91 - Jason  Ross",
+      "assist1": "#88 - Matt  Tiede",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:52",
+      "team": {
+        "teamId": "1861",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#14 - Lee  Molina",
+      "assist1": "#4 - Rob  Ryan",
+      "assist2": "#99 - Jonathan  Carter"
+    },
+    {
+      "period": "1",
+      "time": "00:12:08",
+      "team": {
+        "teamId": "1861",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#43 - Alex  Langsam",
+      "assist1": "#15 - Christopher  Abbott",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:37",
+      "team": {
+        "teamId": "1861",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#4 - Rob  Ryan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:43",
+      "team": {
+        "teamId": "1861",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#99 - Jonathan  Carter",
+      "assist1": "#14 - Lee  Molina",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:02",
+      "team": {
+        "teamId": "1861",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#4 - Rob  Ryan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:36",
+      "team": {
+        "teamId": "1861",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#99 - Jonathan  Carter",
+      "assist1": "#4 - Rob  Ryan",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1860",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#5 - Matt  Jenkins",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:49",
+      "team": {
+        "teamId": "1861",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#21 - Joe  Rhodes",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:40:57.970Z"
+}

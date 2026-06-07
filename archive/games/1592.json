@@ -1,0 +1,126 @@
+{
+  "gameId": "1592",
+  "date": "2025-11-29",
+  "divId": 317,
+  "seasonName": "Summer 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1945",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1944",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "1944",
+        "name": "Hurricanes"
+      },
+      "scorer": "#2 - Mark  Jesten",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:11",
+      "team": {
+        "teamId": "1944",
+        "name": "Hurricanes"
+      },
+      "scorer": "#41 - David  Armstrong",
+      "assist1": "#81 - Pete  Poczatek",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:49",
+      "team": {
+        "teamId": "1944",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#19 - Jason  Long",
+      "assist2": "#41 - David  Armstrong"
+    },
+    {
+      "period": "2",
+      "time": "00:02:09",
+      "team": {
+        "teamId": "1944",
+        "name": "Hurricanes"
+      },
+      "scorer": "#41 - David  Armstrong",
+      "assist1": "#19 - Jason  Long",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "1944",
+        "name": "Hurricanes"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": "#2 - Mark  Jesten",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "1945",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#20 - Bao  Pham",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:28",
+      "team": {
+        "teamId": "1944",
+        "name": "Hurricanes"
+      },
+      "scorer": "#25 - Greg  Reece",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:34",
+      "team": {
+        "teamId": "1945",
+        "name": "Maple Leafs"
+      },
+      "player": "#77 - Paul  Cicchetti",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:56:42.697Z"
+}

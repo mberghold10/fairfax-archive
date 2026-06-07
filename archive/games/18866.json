@@ -1,0 +1,117 @@
+{
+  "gameId": "18866",
+  "date": "2026-03-07",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2004",
+    "name": "Hershey Beers"
+  },
+  "away": {
+    "teamId": "2006",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:44",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#37 - Joe  Heindrich",
+      "assist1": "#44 - Venka  Ashtakala",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:14",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#87 - Feng  Lan",
+      "assist1": "#88 - Afshawn  Towfighi",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:35",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#16 - Wei  Wang",
+      "assist1": "#7 - Art  Supsiri",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:47",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#76 - Peter  Schaffer",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:19:07",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "player": "#23 - Mark  Cappello",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:44",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "player": "#45 - Amanda  Strickland",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:08:27.768Z"
+}

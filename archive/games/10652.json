@@ -1,0 +1,84 @@
+{
+  "gameId": "10652",
+  "date": "2017-05-14",
+  "divId": 169,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1080",
+    "name": "Sparks"
+  },
+  "away": {
+    "teamId": "1082",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1080",
+        "name": "Sparks"
+      },
+      "scorer": "#8 - Chris  Christou",
+      "assist1": "#23 - Eric  Vanhove",
+      "assist2": "#4 - Matt  Gelman"
+    },
+    {
+      "period": "3",
+      "time": "00:02:27",
+      "team": {
+        "teamId": "1080",
+        "name": "Sparks"
+      },
+      "scorer": "#22 - Nick  Kolovos",
+      "assist1": "#11 - Jason  McKay",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "1082",
+        "name": "Red Wings"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:19",
+      "team": {
+        "teamId": "1080",
+        "name": "Sparks"
+      },
+      "player": "#4 - Matt  Gelman",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:16:33.093Z"
+}

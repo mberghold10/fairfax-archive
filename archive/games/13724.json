@@ -1,0 +1,154 @@
+{
+  "gameId": "13724",
+  "date": "2020-01-18",
+  "divId": 216,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1368",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1367",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:42",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#18 - Lee  Freedman",
+      "assist1": "#2 - John  Ganoe",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#39 - John  Martinez",
+      "assist1": "#54 - Tom  Montanio",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:51",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#19 - Tristan  Anderson",
+      "assist1": "#12 - Gus  Anderson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:48",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#17 - Justin  Cade",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:01",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "player": "#42 - Connor  Overend",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "player": "#100 - Goalie  Subtitute",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "player": "#12 - Gus  Anderson",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:14:19.372Z"
+}

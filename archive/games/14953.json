@@ -1,0 +1,108 @@
+{
+  "gameId": "14953",
+  "date": "2022-06-19",
+  "divId": 250,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1544",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1545",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:22",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#16 - Greg  Pomeroy",
+      "assist1": "#12 - Steven  Courson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "1544",
+        "name": "Avalanche"
+      },
+      "scorer": "#84 - Austin  Golden",
+      "assist1": "#87 - Stanislav  Kolodin",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#16 - Greg  Pomeroy",
+      "assist1": "#14 - Paul  Tourbaf",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:10",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "player": "#16 - Greg  Pomeroy",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "player": "#27 - David  McAndrews",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:35",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:40:55.717Z"
+}

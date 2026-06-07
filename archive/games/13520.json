@@ -1,0 +1,321 @@
+{
+  "gameId": "13520",
+  "date": "2020-01-20",
+  "divId": 209,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1320",
+    "name": "Moose"
+  },
+  "away": {
+    "teamId": "1322",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:15",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "scorer": "#9 - Mitch  Federman",
+      "assist1": "#13 - Brian  Harmon",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:25",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "scorer": "#3 - Eric  Baltas",
+      "assist1": "#24 - Brian  Kelly",
+      "assist2": "#12 - Kevin  Bowser"
+    },
+    {
+      "period": "1",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "scorer": "#91 - Sean  Morrow",
+      "assist1": "#72 - Bea  Morrow",
+      "assist2": "#12 - Chris  Yoko"
+    },
+    {
+      "period": "2",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "scorer": "#91 - Sean  Morrow",
+      "assist1": "#15 - David  Eyre",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:38",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "scorer": "#15 - David  Eyre",
+      "assist1": "#71 - Dennis  Salvadore",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:24",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "scorer": "#72 - Bea  Morrow",
+      "assist1": "#91 - Sean  Morrow",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:10",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "scorer": "#12 - Kevin  Bowser",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "player": "#24 - Brian  Kelly",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "player": "#9 - Mitch  Federman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "player": "#21 - Drew  Scarfo",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "player": "#21 - Drew  Scarfo",
+      "pim": 5,
+      "offense": "major cross check",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "player": "#21 - Drew  Scarfo",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "player": "#12 - Chris  Yoko",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:19",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "player": "#21 - Drew  Scarfo",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:24",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "player": "#2 - Sam  Ziesler",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "player": "#3 - Eric  Baltas",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "player": "#12 - Kevin  Bowser",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "player": "#74 - Jason  Vaillancourt",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "player": "#72 - Bea  Morrow",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "player": "#91 - Sean  Morrow",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "player": "#12 - Kevin  Bowser",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:49",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "player": "#71 - Dennis  Salvadore",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:49",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "player": "#12 - Kevin  Bowser",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:05:24.313Z"
+}

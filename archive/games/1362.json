@@ -1,0 +1,143 @@
+{
+  "gameId": "1362",
+  "date": "2023-10-15",
+  "divId": 272,
+  "seasonName": "Summer 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1682",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1681",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "scorer": "#76 - John  Ellison",
+      "assist1": "#25 - Greg  Reece",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:06",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "scorer": "#47 - Talbot  Black",
+      "assist1": "#76 - Mike  Floyd",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:06",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "scorer": "#27 - C  Cashin",
+      "assist1": "#47 - Talbot  Black",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:55",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:31",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "scorer": "#16 - Carlos  Novoa",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:02",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:55",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "player": "#18 - Mike  Sharp",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:08:25.587Z"
+}

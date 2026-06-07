@@ -1,0 +1,121 @@
+{
+  "gameId": "15545",
+  "date": "2022-11-20",
+  "divId": 264,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1628",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1626",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:03",
+      "team": {
+        "teamId": "1626",
+        "name": "Wolves"
+      },
+      "scorer": "#2 - Jen  Grotpeter",
+      "assist1": "#65 - Stuart  Hoffman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:41",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#81 - Pete  Poczatek",
+      "assist2": "#12 - Adam  Olsen"
+    },
+    {
+      "period": "2",
+      "time": "00:13:55",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "scorer": "#25 - Greg  Reece",
+      "assist1": "#52 - Chris  Czernia",
+      "assist2": "#1 - Chris  Beach"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:35",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "player": "#52 - Chris  Czernia",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1626",
+        "name": "Wolves"
+      },
+      "player": "#15 - Pete  Thomas",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "1626",
+        "name": "Wolves"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:11",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "player": "#52 - Chris  Czernia",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:58:09.305Z"
+}

@@ -1,0 +1,134 @@
+{
+  "gameId": "842",
+  "date": "2017-09-16",
+  "divId": 169,
+  "seasonName": "Summer 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1077",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1079",
+    "name": "Steamed Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "scorer": "# -",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:30",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "scorer": "# -",
+      "assist1": "#23 - Collin  Hunt",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1079",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#3 - Matthew  White",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:14",
+      "team": {
+        "teamId": "1079",
+        "name": "Steamed Crabs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "player": "#2 - Bryan  Stabbe",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1079",
+        "name": "Steamed Crabs"
+      },
+      "player": "#9 - Dave  Baker",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:40",
+      "team": {
+        "teamId": "1079",
+        "name": "Steamed Crabs"
+      },
+      "player": "#50 - Scott  Houghton",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:16",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:17:25.653Z"
+}

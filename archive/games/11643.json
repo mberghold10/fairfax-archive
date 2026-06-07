@@ -1,0 +1,222 @@
+{
+  "gameId": "11643",
+  "date": "2018-06-03",
+  "divId": 184,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1171",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1168",
+    "name": "North Stars"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "scorer": "#8 - Henry  Wakeman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:49",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:25",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "scorer": "#99 - Jon  Davoren",
+      "assist1": "#11 - Andrew  Jones",
+      "assist2": "#24 - Thomas  OConnor"
+    },
+    {
+      "period": "1",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "scorer": "#11 - Andrew  Jones",
+      "assist1": "#8 - Henry  Wakeman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:12",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": "#42 - Adam  Russell",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#13 - Matt  Jenkins",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:53",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": "#64 - Bob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:47",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "scorer": "#12 - Jason  Wakeman",
+      "assist1": "#77 - Caleb  Sohl",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:04",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#8 - Henry  Wakeman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:23",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#42 - Adam  Russell",
+      "assist1": "#81 - Bryan  Getson",
+      "assist2": "#7 - Evan  Wojtowicz"
+    },
+    {
+      "period": "3",
+      "time": "00:13:58",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": "#13 - Matt  Jenkins",
+      "assist2": "#42 - Adam  Russell"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "player": "#35 - Ross  Kuhn",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:23",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:56",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "player": "#6 - Matt  Dwyer",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:54",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "player": "#13 - Matt  Jenkins",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "player": "#24 - Thomas  OConnor",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:34:42.981Z"
+}

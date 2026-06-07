@@ -1,0 +1,71 @@
+{
+  "gameId": "14158",
+  "date": "2021-08-06",
+  "divId": 238,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1488",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1487",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:32",
+      "team": {
+        "teamId": "1488",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#42 - Conor  Overend",
+      "assist1": "#0 - Ruben  Garcia",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1488",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#21 - Steve  Kaplan",
+      "assist1": "#77 - Jeff  Wilken",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:11",
+      "team": {
+        "teamId": "1488",
+        "name": "Blue Dogs"
+      },
+      "player": "#33 - Brandon  Boling",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:29:23.088Z"
+}

@@ -1,0 +1,161 @@
+{
+  "gameId": "12292",
+  "date": "2018-12-16",
+  "divId": 195,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1235",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1236",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 1,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "scorer": "#8 - Dan  Brehm",
+      "assist1": "#22 - Ed  Gulakowski",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:13",
+      "team": {
+        "teamId": "1236",
+        "name": "Team USA"
+      },
+      "scorer": "#99 - Jon  Davoren",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:45",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "scorer": "#17 - John  Kemprowski",
+      "assist1": "#7 - Brendan  Ford",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:39",
+      "team": {
+        "teamId": "1236",
+        "name": "Team USA"
+      },
+      "scorer": "#34 - Jim  Morgan",
+      "assist1": "#23 - Mike  OBrien",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:52",
+      "team": {
+        "teamId": "1236",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": "#23 - Mike  OBrien",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:48",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "scorer": "#24 - Jim  Behrend",
+      "assist1": "#7 - Brendan  Ford",
+      "assist2": "#3 - Matt  Coose"
+    },
+    {
+      "period": "2",
+      "time": "00:10:59",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "scorer": "#17 - John  Kemprowski",
+      "assist1": "#23 - Greg  Thomas",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:49",
+      "team": {
+        "teamId": "1236",
+        "name": "Team USA"
+      },
+      "scorer": "# -",
+      "assist1": "#7 - Ed  Weiner",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "scorer": "#23 - Greg  Thomas",
+      "assist1": "#31 - Dan  Jenkins",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:23",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "player": "#23 - Greg  Thomas",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:54",
+      "team": {
+        "teamId": "1236",
+        "name": "Team USA"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:48:56.502Z"
+}

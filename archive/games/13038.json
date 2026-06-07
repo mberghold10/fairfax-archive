@@ -1,0 +1,121 @@
+{
+  "gameId": "13038",
+  "date": "2019-07-28",
+  "divId": 202,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1281",
+    "name": "Divorced Men"
+  },
+  "away": {
+    "teamId": "1285",
+    "name": "Redhawks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1285",
+        "name": "Redhawks"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1281",
+        "name": "Divorced Men"
+      },
+      "scorer": "#42 - Grant  Peters",
+      "assist1": "#29 - Zachary  Shiohama",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:09",
+      "team": {
+        "teamId": "1285",
+        "name": "Redhawks"
+      },
+      "scorer": "#36 - Bill  Ludke",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:59",
+      "team": {
+        "teamId": "1285",
+        "name": "Redhawks"
+      },
+      "player": "#24 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1281",
+        "name": "Divorced Men"
+      },
+      "player": "#33 - Steven  Burnette",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1281",
+        "name": "Divorced Men"
+      },
+      "player": "#64 - Stephen  Arthur",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:17",
+      "team": {
+        "teamId": "1281",
+        "name": "Divorced Men"
+      },
+      "player": "#93 - Tyler  Canniff",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:57:40.160Z"
+}

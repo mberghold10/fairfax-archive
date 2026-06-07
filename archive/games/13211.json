@@ -1,0 +1,152 @@
+{
+  "gameId": "13211",
+  "date": "2019-09-21",
+  "divId": 205,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1298",
+    "name": "Crabs"
+  },
+  "away": {
+    "teamId": "1296",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "scorer": "#6 - Eric  Rhoden",
+      "assist1": "#1 - Mike  Moran",
+      "assist2": "#12 - Dave  Lean"
+    },
+    {
+      "period": "1",
+      "time": "00:13:45",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "scorer": "#33 - Mike  Wagner",
+      "assist1": "#12 - Dave  Lean",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:20",
+      "team": {
+        "teamId": "1298",
+        "name": "Crabs"
+      },
+      "scorer": "#5 - Steve  Denis",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1298",
+        "name": "Crabs"
+      },
+      "scorer": "#4 - Mike  Donnelly",
+      "assist1": "#5 - Steve  Denis",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:57",
+      "team": {
+        "teamId": "1298",
+        "name": "Crabs"
+      },
+      "scorer": "#2 - Elliott  Yang",
+      "assist1": "#4 - Mike  Donnelly",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "scorer": "#14 - Harvey  Denison",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:18",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "scorer": "#33 - Mike  Wagner",
+      "assist1": "#67 - Neil  Fitzpatrick",
+      "assist2": "#11 - Corbin  Neiberline"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "player": "#14 - Harvey  Denison",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:28",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "player": "#91 - Steve  Chernoff",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:32",
+      "team": {
+        "teamId": "1298",
+        "name": "Crabs"
+      },
+      "player": "#27 - Adam  Bacon",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:01:14.837Z"
+}

@@ -1,0 +1,152 @@
+{
+  "gameId": "11770",
+  "date": "2018-08-19",
+  "divId": 179,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1145",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1143",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:08",
+      "team": {
+        "teamId": "1145",
+        "name": "Jacks"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#38 - Shane  Kehl",
+      "assist2": "#2 - Rod  Wade"
+    },
+    {
+      "period": "1",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "1145",
+        "name": "Jacks"
+      },
+      "scorer": "#28 - Jason  Abkowitz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:50",
+      "team": {
+        "teamId": "1143",
+        "name": "Bruins"
+      },
+      "scorer": "#2 - Peter  OKeefe",
+      "assist1": "#28 - Pete  Sandnes",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:41",
+      "team": {
+        "teamId": "1145",
+        "name": "Jacks"
+      },
+      "scorer": "#18 - Dave  Leadston",
+      "assist1": "#21 - Steve  Chan",
+      "assist2": "#66 - Sean  Magrann"
+    },
+    {
+      "period": "3",
+      "time": "00:02:20",
+      "team": {
+        "teamId": "1145",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#28 - Jason  Abkowitz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:53",
+      "team": {
+        "teamId": "1143",
+        "name": "Bruins"
+      },
+      "scorer": "#22 - John  West",
+      "assist1": "#9 - Tony  Cusumano",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:43",
+      "team": {
+        "teamId": "1143",
+        "name": "Bruins"
+      },
+      "scorer": "#28 - Pete  Sandnes",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:47",
+      "team": {
+        "teamId": "1143",
+        "name": "Bruins"
+      },
+      "player": "#57 - Derek  Morrissette",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1143",
+        "name": "Bruins"
+      },
+      "player": "#24 - Jamie  Belcastro",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:41",
+      "team": {
+        "teamId": "1143",
+        "name": "Bruins"
+      },
+      "player": "#24 - Jamie  Belcastro",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:29:38.291Z"
+}

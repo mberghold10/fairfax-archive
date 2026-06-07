@@ -1,0 +1,174 @@
+{
+  "gameId": "12732",
+  "date": "2019-07-03",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1263",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1266",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 4,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 8
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:07",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#22 - Nate  Harrison",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#71 - Colin  Shin",
+      "assist1": "#9 - Sam  Ziesler",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:34",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#55 - Mark  Chapman",
+      "assist1": "#550 - Bill  MacIntyre",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#4 - Bruce  Baltas",
+      "assist1": "#10 - Bruce  McLeod",
+      "assist2": "#8 - Jeff  Meyer"
+    },
+    {
+      "period": "2",
+      "time": "00:02:16",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#91 - Rob  Fischer",
+      "assist1": "#71 - Colin  Shin",
+      "assist2": "#55 - Mark  Chapman"
+    },
+    {
+      "period": "2",
+      "time": "00:13:26",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#55 - Mark  Chapman",
+      "assist1": "#71 - Colin  Shin",
+      "assist2": "#10 - Bruce  McLeod"
+    },
+    {
+      "period": "3",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#71 - Colin  Shin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:04",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:14",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#22 - Nate  Harrison",
+      "assist1": "#4 - Bruce  Baltas",
+      "assist2": "#10 - Bruce  McLeod"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:59",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#10 - Bruce  McLeod",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:09",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#91 - Rob  Fischer",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:37",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:53:36.245Z"
+}

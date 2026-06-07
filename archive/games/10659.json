@@ -1,0 +1,93 @@
+{
+  "gameId": "10659",
+  "date": "2017-05-27",
+  "divId": 169,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1082",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1079",
+    "name": "Steamed Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:10:17",
+      "team": {
+        "teamId": "1082",
+        "name": "Red Wings"
+      },
+      "scorer": "#27 - Nick  Montfort",
+      "assist1": "#39 - John  Martinez",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:50",
+      "team": {
+        "teamId": "1082",
+        "name": "Red Wings"
+      },
+      "scorer": "#10 - Owen  Schaefer",
+      "assist1": "#27 - Nick  Montfort",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1082",
+        "name": "Red Wings"
+      },
+      "scorer": "#10 - Owen  Schaefer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:35",
+      "team": {
+        "teamId": "1082",
+        "name": "Red Wings"
+      },
+      "scorer": "#10 - Owen  Schaefer",
+      "assist1": "#27 - Nick  Montfort",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:51",
+      "team": {
+        "teamId": "1082",
+        "name": "Red Wings"
+      },
+      "player": "#27 - Nick  Montfort",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:16:40.079Z"
+}

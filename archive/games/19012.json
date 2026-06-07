@@ -1,0 +1,163 @@
+{
+  "gameId": "19012",
+  "date": "2026-05-23",
+  "divId": 324,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1987",
+    "name": "Puckaneers"
+  },
+  "away": {
+    "teamId": "1989",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1989",
+        "name": "Lightning"
+      },
+      "scorer": "#16 - Tom  Plourde",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:37",
+      "team": {
+        "teamId": "1989",
+        "name": "Lightning"
+      },
+      "scorer": "#24 - Mike  Plourde",
+      "assist1": "#20 - Eric  Nelson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#7 - Greg  Watchman",
+      "assist1": "#16 - Kiran  Manakarnika",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:59",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#39 - Andrew  Hancher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:52",
+      "team": {
+        "teamId": "1989",
+        "name": "Lightning"
+      },
+      "scorer": "#61 - Nick  Johnston",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#16 - Kiran  Manakarnika",
+      "assist1": "#11 - Sean  Burke",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:34",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#91 - Sean  Andrada",
+      "assist1": "#27 - Dave  Lin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:15",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#16 - Kiran  Manakarnika",
+      "assist1": "#7 - Greg  Watchman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "1989",
+        "name": "Lightning"
+      },
+      "player": "#36 - Mo  Efimba",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:52",
+      "team": {
+        "teamId": "1989",
+        "name": "Lightning"
+      },
+      "player": "#77 - Steven  Baugh",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:27",
+      "team": {
+        "teamId": "1989",
+        "name": "Lightning"
+      },
+      "player": "#36 - Mo  Efimba",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:03:56.684Z"
+}

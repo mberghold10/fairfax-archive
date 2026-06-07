@@ -1,0 +1,200 @@
+{
+  "gameId": "14235",
+  "date": "2021-09-01",
+  "divId": 235,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1470",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1468",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1470",
+        "name": "Nortec"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:58",
+      "team": {
+        "teamId": "1468",
+        "name": "Swarm"
+      },
+      "scorer": "#75 - Jeff  Koka",
+      "assist1": "#8 - Brendan  Millice",
+      "assist2": "#10 - Matt  Galen"
+    },
+    {
+      "period": "2",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1468",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": "#6 - Kevin  Elfenbein",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:51",
+      "team": {
+        "teamId": "1468",
+        "name": "Swarm"
+      },
+      "scorer": "#56 - Ryan  Tyler",
+      "assist1": "#8 - Brendan  Millice",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1470",
+        "name": "Nortec"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#3 - Kareem  El-Alaily",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1468",
+        "name": "Swarm"
+      },
+      "scorer": "#75 - Jeff  Koka",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:59",
+      "team": {
+        "teamId": "1470",
+        "name": "Nortec"
+      },
+      "scorer": "#85 - Denis  Leckovich",
+      "assist1": "#69 - Aaron  Domnitch",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1468",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "1470",
+        "name": "Nortec"
+      },
+      "scorer": "#85 - Denis  Leckovich",
+      "assist1": "#69 - Aaron  Domnitch",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1470",
+        "name": "Nortec"
+      },
+      "player": "#14 - Jude  Corina",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:50",
+      "team": {
+        "teamId": "1468",
+        "name": "Swarm"
+      },
+      "player": "#75 - Jeff  Koka",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "1468",
+        "name": "Swarm"
+      },
+      "player": "#16 - Scott  Keuhn",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1468",
+        "name": "Swarm"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "1468",
+        "name": "Swarm"
+      },
+      "player": "#18 - Sam  Chu",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:27:14.737Z"
+}

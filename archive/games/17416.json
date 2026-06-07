@@ -1,0 +1,60 @@
+{
+  "gameId": "17416",
+  "date": "2024-09-01",
+  "divId": 295,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1805",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1804",
+    "name": "Hershey Beers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#20 - Steve  Ahart",
+      "assist1": "#77 - Jeff  Wilken",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:06",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "player": "#44 - Ben  Thomas",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:33:01.851Z"
+}

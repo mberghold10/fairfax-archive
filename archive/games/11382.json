@@ -1,0 +1,278 @@
+{
+  "gameId": "11382",
+  "date": "2018-02-11",
+  "divId": 175,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1113",
+    "name": "Bushwood"
+  },
+  "away": {
+    "teamId": "1115",
+    "name": "North Stars"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 1,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:41",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#5 - Joseph  Ney",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:28",
+      "team": {
+        "teamId": "1113",
+        "name": "Bushwood"
+      },
+      "scorer": "#32 - Jack  Donoue",
+      "assist1": "#4 - Mike  Diszik",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:33",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": "#64 - Bob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:42",
+      "team": {
+        "teamId": "1113",
+        "name": "Bushwood"
+      },
+      "scorer": "#56 - Jason  Surrencey",
+      "assist1": "#32 - Jack  Donoue",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "1113",
+        "name": "Bushwood"
+      },
+      "scorer": "#14 - Matthew  MacVicar",
+      "assist1": "#74 - Bryan  Canfil",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:13",
+      "team": {
+        "teamId": "1113",
+        "name": "Bushwood"
+      },
+      "scorer": "#56 - Jason  Surrencey",
+      "assist1": "#33 - Todd  Petit",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:38",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:48",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#42 - Adam  Russell",
+      "assist1": "#7 - Evan  Wojtowicz",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:57",
+      "team": {
+        "teamId": "1113",
+        "name": "Bushwood"
+      },
+      "player": "#32 - Jack  Donoue",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:59",
+      "team": {
+        "teamId": "1113",
+        "name": "Bushwood"
+      },
+      "player": "#33 - Todd  Petit",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:14",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "player": "#61 - Tero  Moberg",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:03",
+      "team": {
+        "teamId": "1113",
+        "name": "Bushwood"
+      },
+      "player": "#4 - Mike  Diszik",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:25",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "player": "#11 - Daniel  Ferrucci",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:28",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "player": "#88 - Todd  Mariano",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:25",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "player": "#11 - Daniel  Ferrucci",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:25",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "player": "#11 - Daniel  Ferrucci",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:28",
+      "team": {
+        "teamId": "1113",
+        "name": "Bushwood"
+      },
+      "player": "#33 - Todd  Petit",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:28",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "player": "#88 - Todd  Mariano",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:25",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "player": "#11 - Daniel  Ferrucci",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:24:19.876Z"
+}

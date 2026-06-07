@@ -1,0 +1,104 @@
+{
+  "gameId": "14705",
+  "date": "2022-03-12",
+  "divId": 244,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1511",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1513",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1511",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#19 - Nate  Rozelle",
+      "assist1": "#46 - Ian  Stack",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "1511",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#74 - Eric  Peterson",
+      "assist1": "#89 - Sid  Han",
+      "assist2": "#11 - Josh  Gilman"
+    },
+    {
+      "period": "2",
+      "time": "00:08:36",
+      "team": {
+        "teamId": "1511",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#19 - Nate  Rozelle",
+      "assist1": "#89 - Sid  Han",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:35",
+      "team": {
+        "teamId": "1511",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#11 - Josh  Gilman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:52",
+      "team": {
+        "teamId": "1511",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#71 - Francis  Aul",
+      "assist1": "#12 - Joe  DeCarlo",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1513",
+        "name": "Mad Dogs"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:34:42.327Z"
+}

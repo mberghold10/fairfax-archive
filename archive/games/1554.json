@@ -1,0 +1,121 @@
+{
+  "gameId": "1554",
+  "date": "2025-06-14",
+  "divId": 309,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1887",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1888",
+    "name": "Hershey Beers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#88 - Afshawn  Towfighi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "scorer": "#40 - Brendan  Sweezea",
+      "assist1": "#65 - Howard  Ludwig",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#55 - Evan  Martin",
+      "assist1": "#88 - Afshawn  Towfighi",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:14",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "player": "#39 - Jim  DeLaet",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "player": "#47 - Dave  LeKuch",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "player": "#18 - Sam  Bressi",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:46",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "player": "#40 - Brendan  Sweezea",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:47:14.325Z"
+}

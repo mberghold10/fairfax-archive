@@ -1,0 +1,150 @@
+{
+  "gameId": "16061",
+  "date": "2023-05-30",
+  "divId": 273,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1685",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1684",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:26",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "scorer": "#77 - Mark  Zarember",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#47 - David  Hitchcook",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:13",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "scorer": "#21 - Greg  Lauer",
+      "assist1": "#47 - James  Kim",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "scorer": "#47 - James  Kim",
+      "assist1": "#94 - Michael  Starego",
+      "assist2": "#14 - Scott  Borders"
+    },
+    {
+      "period": "3",
+      "time": "00:01:53",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#31 - Sam  Branham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:14",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "scorer": "#21 - Greg  Lauer",
+      "assist1": "#47 - James  Kim",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "scorer": "#22 - Mark  Rayder",
+      "assist1": "#68 - Mark  Ries",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "scorer": "#68 - Mark  Ries",
+      "assist1": "#94 - Michael  Starego",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:11",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "player": "#21 - Greg  Lauer",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "player": "#77 - Mark  Zarember",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:08:43.992Z"
+}

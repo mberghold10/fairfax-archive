@@ -1,0 +1,141 @@
+{
+  "gameId": "13210",
+  "date": "2019-09-20",
+  "divId": 205,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1300",
+    "name": "Jurassic Puck"
+  },
+  "away": {
+    "teamId": "1299",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "1300",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#92 - Caleb  Adams",
+      "assist1": "#7 - Mike  Ambrosino",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:32",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#5 - Jimmy  Park",
+      "assist1": "#6 - JB  Merritt",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1300",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#28 - Michael  Berghold",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:29",
+      "team": {
+        "teamId": "1300",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#28 - Michael  Berghold",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:09",
+      "team": {
+        "teamId": "1300",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#92 - Caleb  Adams",
+      "assist1": "#7 - Mike  Ambrosino",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#34 - Cameron  Wilson",
+      "assist1": "#67 - Brian  Landers",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#67 - Brian  Landers",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#6 - JB  Merritt",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:36",
+      "team": {
+        "teamId": "1300",
+        "name": "Jurassic Puck"
+      },
+      "player": "#17 - Zephan  Keehner",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:01:13.814Z"
+}

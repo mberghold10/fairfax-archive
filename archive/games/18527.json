@@ -1,0 +1,154 @@
+{
+  "gameId": "18527",
+  "date": "2025-11-16",
+  "divId": 313,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1919",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1953",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:11",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#89 - Sid  Han",
+      "assist1": "#22 - Adam  Bacon",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:59",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#9 - Scott  Peterson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#10 - Steve  Daniels",
+      "assist1": "#89 - Sid  Han",
+      "assist2": "#11 - Josh  Gilman"
+    },
+    {
+      "period": "2",
+      "time": "00:08:19",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#11 - Josh  Gilman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:18",
+      "team": {
+        "teamId": "1953",
+        "name": "Rink Rats"
+      },
+      "scorer": "#13 - John  Bereza",
+      "assist1": "#33 - Zach  Sowinski",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1953",
+        "name": "Rink Rats"
+      },
+      "scorer": "#34 - Evan  Tierney",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:57",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "player": "#10 - Steve  Daniels",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:05",
+      "team": {
+        "teamId": "1953",
+        "name": "Rink Rats"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "Too Many Men",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "player": "#10 - Steve  Daniels",
+      "pim": 2,
+      "offense": "Body",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:28",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "player": "#19 - Nate  Rozelle",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:51:38.363Z"
+}

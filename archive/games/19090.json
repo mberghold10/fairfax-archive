@@ -1,0 +1,104 @@
+{
+  "gameId": "19090",
+  "date": "2026-03-17",
+  "divId": 327,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2018",
+    "name": "Gold Goats"
+  },
+  "away": {
+    "teamId": "2016",
+    "name": "Fossils"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:09",
+      "team": {
+        "teamId": "2018",
+        "name": "Gold Goats"
+      },
+      "scorer": "#7 - Greg  Watchman",
+      "assist1": "#20 - Steve  Maccio",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "2018",
+        "name": "Gold Goats"
+      },
+      "scorer": "#20 - Steve  Maccio",
+      "assist1": "#7 - Greg  Watchman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:30",
+      "team": {
+        "teamId": "2016",
+        "name": "Fossils"
+      },
+      "scorer": "#14 - Andrew  Pranter",
+      "assist1": "#21 - Joe  Rhodes",
+      "assist2": "#33 - Scot  Coco"
+    },
+    {
+      "period": "2",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "2018",
+        "name": "Gold Goats"
+      },
+      "scorer": "#94 - Dave  Sinniger",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "2018",
+        "name": "Gold Goats"
+      },
+      "scorer": "#44 - Sean  Cullen",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "2016",
+        "name": "Fossils"
+      },
+      "player": "#24 - George  Stocker",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:07:14.579Z"
+}

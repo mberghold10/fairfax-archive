@@ -1,0 +1,295 @@
+{
+  "gameId": "17024",
+  "date": "2024-08-11",
+  "divId": 287,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1763",
+    "name": "Screaming Eagles"
+  },
+  "away": {
+    "teamId": "1760",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:46",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "scorer": "#4 - Dave  Sinniger",
+      "assist1": "#26 - Jeremy  Whang",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:39",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "scorer": "#7 - Alex  Rinaldi",
+      "assist1": "#3 - Bobby  Woods-Corwin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "scorer": "#7 - Alex  Rinaldi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#33 - Dan  Williams",
+      "assist1": "#67 - Conrad  Qu",
+      "assist2": "#96 - Jared  Elder"
+    },
+    {
+      "period": "3",
+      "time": "00:05:59",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#10 - Mario  Constantinou",
+      "assist1": "#67 - Conrad  Qu",
+      "assist2": "#96 - Jared  Elder"
+    },
+    {
+      "period": "3",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "scorer": "#7 - Alex  Rinaldi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:20",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#28 - Jake  Combs",
+      "assist1": "#10 - Mario  Constantinou",
+      "assist2": "#67 - Conrad  Qu"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:21",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "player": "#94 - Trygve  Olson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:11",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 4,
+      "offense": "slash/unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "player": "#5 - Ben  Malakoff",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "player": "#15 - David  Eyre",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:55",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "player": "#96 - Jared  Elder",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "player": "#10 - Mario  Constantinou",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "player": "#10 - Mario  Constantinou",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "player": "#13 - Trevor  Wallace",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "player": "#13 - Trevor  Wallace",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "player": "#13 - Trevor  Wallace",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:29",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "player": "#26 - Jeremy  Whang",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:49",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "player": "#98 - Bob  Valdes",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:34",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "player": "#13 - Trevor  Wallace",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:24:19.679Z"
+}

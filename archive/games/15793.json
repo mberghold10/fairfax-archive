@@ -1,0 +1,104 @@
+{
+  "gameId": "15793",
+  "date": "2023-01-22",
+  "divId": 264,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1626",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1628",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#89 - Frank  Congel",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "scorer": "#89 - Frank  Congel",
+      "assist1": "#1 - Chris  Beach",
+      "assist2": "#26 - Jim  Silbermann"
+    },
+    {
+      "period": "2",
+      "time": "00:09:45",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#89 - Frank  Congel",
+      "assist2": "#93 - Jeff  Nauer"
+    },
+    {
+      "period": "2",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "1626",
+        "name": "Wolves"
+      },
+      "scorer": "#10 - Rich  Scigaj",
+      "assist1": "#71 - Mike  McLenahan",
+      "assist2": "#65 - Stuart  Hoffman"
+    },
+    {
+      "period": "3",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "1626",
+        "name": "Wolves"
+      },
+      "scorer": "#86 - Pat  McMahon",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:08",
+      "team": {
+        "teamId": "1626",
+        "name": "Wolves"
+      },
+      "player": "#94 - Mike  Starego",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:58:29.548Z"
+}

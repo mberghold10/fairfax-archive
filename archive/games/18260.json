@@ -1,0 +1,121 @@
+{
+  "gameId": "18260",
+  "date": "2025-06-28",
+  "divId": 316,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1936",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1937",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:23",
+      "team": {
+        "teamId": "1936",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:42",
+      "team": {
+        "teamId": "1936",
+        "name": "Team USA"
+      },
+      "scorer": "#98 - Matt  Criscolo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:57",
+      "team": {
+        "teamId": "1937",
+        "name": "Coyotes"
+      },
+      "scorer": "#77 - Jeff  Wilken",
+      "assist1": "#78 - Bill  Ezekiel",
+      "assist2": "#56 - Ryan  Tyler"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:39",
+      "team": {
+        "teamId": "1936",
+        "name": "Team USA"
+      },
+      "player": "#10 - Mike  Brahmey",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "1936",
+        "name": "Team USA"
+      },
+      "player": "#27 - Jesse  Brand",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:45",
+      "team": {
+        "teamId": "1937",
+        "name": "Coyotes"
+      },
+      "player": "#4 - Paul  Cicchetti",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:34",
+      "team": {
+        "teamId": "1937",
+        "name": "Coyotes"
+      },
+      "player": "#4 - Paul  Cicchetti",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:54:18.991Z"
+}

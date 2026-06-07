@@ -1,0 +1,200 @@
+{
+  "gameId": "1503",
+  "date": "2025-06-02",
+  "divId": 299,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1895",
+    "name": "Smoke Wagon"
+  },
+  "away": {
+    "teamId": "1843",
+    "name": "Outlaws"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:32",
+      "team": {
+        "teamId": "1843",
+        "name": "Outlaws"
+      },
+      "scorer": "#91 - Alan  Weeden",
+      "assist1": "#19 - Jason  Young",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:52",
+      "team": {
+        "teamId": "1895",
+        "name": "Smoke Wagon"
+      },
+      "scorer": "#77 - Caleb  Sohl",
+      "assist1": "#8 - Justin  Jerardo",
+      "assist2": "#83 - Eric  Wu"
+    },
+    {
+      "period": "1",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "1895",
+        "name": "Smoke Wagon"
+      },
+      "scorer": "#8 - Justin  Jerardo",
+      "assist1": "#47 - Andrew  Kent",
+      "assist2": "#13 - Trevor  Wallace"
+    },
+    {
+      "period": "2",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1843",
+        "name": "Outlaws"
+      },
+      "scorer": "#21 - Alex  Vanscoy",
+      "assist1": "#15 - Sean  Casey",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:57",
+      "team": {
+        "teamId": "1895",
+        "name": "Smoke Wagon"
+      },
+      "scorer": "#47 - Andrew  Kent",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "1895",
+        "name": "Smoke Wagon"
+      },
+      "scorer": "#91 - Kyle  Weitzman",
+      "assist1": "#47 - Andrew  Kent",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "1843",
+        "name": "Outlaws"
+      },
+      "scorer": "#15 - Sean  Casey",
+      "assist1": "#13 - Ben  Mangel",
+      "assist2": "#91 - Alan  Weeden"
+    },
+    {
+      "period": "3",
+      "time": "00:14:39",
+      "team": {
+        "teamId": "1843",
+        "name": "Outlaws"
+      },
+      "scorer": "#21 - Alex  Vanscoy",
+      "assist1": "#14 - Jason  Brue",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1895",
+        "name": "Smoke Wagon"
+      },
+      "scorer": "#13 - Trevor  Wallace",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:10:35",
+      "team": {
+        "teamId": "1843",
+        "name": "Outlaws"
+      },
+      "player": "#43 - Mike  Barnes",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "1895",
+        "name": "Smoke Wagon"
+      },
+      "player": "#47 - Andrew  Kent",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:01:31",
+      "team": {
+        "teamId": "1895",
+        "name": "Smoke Wagon"
+      },
+      "player": "#47 - Andrew  Kent",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:01:31",
+      "team": {
+        "teamId": "1843",
+        "name": "Outlaws"
+      },
+      "player": "#43 - Mike  Barnes",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "1843",
+        "name": "Outlaws"
+      },
+      "player": "#29 - Dylan  Santos",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:37:27.406Z"
+}

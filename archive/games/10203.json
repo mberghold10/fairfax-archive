@@ -1,0 +1,82 @@
+{
+  "gameId": "10203",
+  "date": "2016-12-22",
+  "divId": 155,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "992",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "994",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "994",
+        "name": "Penguins"
+      },
+      "scorer": "#13 - Bob  Seal",
+      "assist1": "#19 - Gary  McMahon",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "994",
+        "name": "Penguins"
+      },
+      "scorer": "#22 - Rich  Silberman",
+      "assist1": "#25 - Jeff  Wojtala",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:51",
+      "team": {
+        "teamId": "994",
+        "name": "Penguins"
+      },
+      "scorer": "#13 - Bob  Seal",
+      "assist1": "#19 - Gary  McMahon",
+      "assist2": "#81 - Chris  Holden"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:19",
+      "team": {
+        "teamId": "992",
+        "name": "Flying Circus"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:59:14.792Z"
+}

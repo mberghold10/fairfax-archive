@@ -1,0 +1,97 @@
+{
+  "gameId": "10100",
+  "date": "2016-11-20",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1020",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1017",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:04:12",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#5 - Regina  Hart",
+      "assist1": "#78 - Andrew  Caulk",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:59",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#12 - Kirsten  Evans",
+      "assist1": "#5 - Regina  Hart",
+      "assist2": "#1 - Paul  Parkinson"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:00",
+      "team": {
+        "teamId": "1017",
+        "name": "Dragons"
+      },
+      "player": "#5 - Sam  Bryce",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "player": "#44 - Jim  McGovern",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:58",
+      "team": {
+        "teamId": "1017",
+        "name": "Dragons"
+      },
+      "player": "#34 - Joe  Pantella",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:04:23.980Z"
+}

@@ -1,0 +1,141 @@
+{
+  "gameId": "10921",
+  "date": "2017-09-16",
+  "divId": 166,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1061",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1062",
+    "name": "BlueJacket Capitals"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:41",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#8 - Chris  White",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:21",
+      "team": {
+        "teamId": "1061",
+        "name": "Avalanche"
+      },
+      "scorer": "#99 - Jon  Davoren",
+      "assist1": "#24 - Thomas  OConnor",
+      "assist2": "#72 - Jack  Walsh"
+    },
+    {
+      "period": "1",
+      "time": "00:07:29",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#77 - Erik  Bergman",
+      "assist1": "#8 - Chris  White",
+      "assist2": "#15 - Bob  Guckian"
+    },
+    {
+      "period": "2",
+      "time": "00:07:38",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#8 - Chris  White",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:43",
+      "team": {
+        "teamId": "1061",
+        "name": "Avalanche"
+      },
+      "scorer": "#99 - Jon  Davoren",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:54",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#77 - Erik  Bergman",
+      "assist1": "#52 - Allan  Dappen",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#77 - Erik  Bergman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:51",
+      "team": {
+        "teamId": "1061",
+        "name": "Avalanche"
+      },
+      "player": "#18 - Pete  Poczatek",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "1061",
+        "name": "Avalanche"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:13:59.536Z"
+}

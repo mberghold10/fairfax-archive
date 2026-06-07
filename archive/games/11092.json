@@ -1,0 +1,189 @@
+{
+  "gameId": "11092",
+  "date": "2017-10-08",
+  "divId": 175,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1118",
+    "name": "River Rats"
+  },
+  "away": {
+    "teamId": "1120",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:06",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#88 - Brian  Ray",
+      "assist1": "#91 - Chris  Callanan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:24",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "scorer": "#81 - Sean  Murphy",
+      "assist1": "#20 - Paul  Flood",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "scorer": "#42 - Jon  Coley",
+      "assist1": "#43 - Bill  Picard",
+      "assist2": "#47 - Robert  Schumann"
+    },
+    {
+      "period": "2",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#88 - Brian  Ray",
+      "assist1": "#17 - Allen  Preville",
+      "assist2": "#73 - Joshua  Schmand"
+    },
+    {
+      "period": "2",
+      "time": "00:12:47",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#88 - Brian  Ray",
+      "assist1": "#15 - Tom  Budris",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:03",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "scorer": "#3 - John  Rancourt",
+      "assist1": "#40 - Brandon  Honeycutt",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:16",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "scorer": "#3 - John  Rancourt",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "player": "#20 - Paul  Flood",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "player": "#42 - Jon  Coley",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:53",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "player": "#16 - Cooper  Branham",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "player": "#73 - Joshua  Schmand",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:44",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "player": "#91 - Chris  Callanan",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:23:31.835Z"
+}

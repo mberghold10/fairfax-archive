@@ -1,0 +1,93 @@
+{
+  "gameId": "11713",
+  "date": "2018-05-12",
+  "divId": 187,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1190",
+    "name": "Triassic Puck"
+  },
+  "away": {
+    "teamId": "1195",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:15:12",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "scorer": "#12 - Gus  Anderson",
+      "assist1": "#27 - Nick  Montfort",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:01",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "scorer": "#27 - Nick  Montfort",
+      "assist1": "#13 - Kelly  Urlwin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:48",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#51 - Mike  McGeever",
+      "assist1": "#74 - Matthew  Santos",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:17:32",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "scorer": "#12 - Gus  Anderson",
+      "assist1": "#27 - Nick  Montfort",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "player": "#47 - Jeff  Urlwin",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:38:54.093Z"
+}

@@ -1,0 +1,130 @@
+{
+  "gameId": "15306",
+  "date": "2022-07-31",
+  "divId": 256,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1579",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1577",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:53",
+      "team": {
+        "teamId": "1577",
+        "name": "Thunder"
+      },
+      "scorer": "#60 - Conor  McGrath",
+      "assist1": "#11 - Mark  Boyd",
+      "assist2": "#18 - Nathan  Rozelle"
+    },
+    {
+      "period": "2",
+      "time": "00:13:55",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#34 - Josh  Davis",
+      "assist1": "#77 - Jeff  Wilken",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#34 - Josh  Davis",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:43",
+      "team": {
+        "teamId": "1577",
+        "name": "Thunder"
+      },
+      "scorer": "#21 - Brendan  Williams",
+      "assist1": "#18 - Nathan  Rozelle",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:02:26",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#33 - Brandon  Boling",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:16",
+      "team": {
+        "teamId": "1577",
+        "name": "Thunder"
+      },
+      "player": "#11 - Mark  Boyd",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:16:07",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "player": "#34 - Josh  Davis",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:59",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "player": "#34 - Josh  Davis",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:48:38.862Z"
+}

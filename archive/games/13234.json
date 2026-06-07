@@ -1,0 +1,141 @@
+{
+  "gameId": "13234",
+  "date": "2019-10-13",
+  "divId": 214,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1355",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1356",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "scorer": "#21 - Grant  Gibbons",
+      "assist1": "#14 - Matt  Lewis",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "scorer": "#11 - David  Officer",
+      "assist1": "#21 - Grant  Gibbons",
+      "assist2": "#54 - Jerry  Gibbons"
+    },
+    {
+      "period": "2",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "scorer": "#21 - Grant  Gibbons",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#38 - Ted  Satterthwaite",
+      "assist2": "#77 - Joe  Berret"
+    },
+    {
+      "period": "2",
+      "time": "00:12:03",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": "#93 - Jeff  Nauer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:04",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "scorer": "#42 - Christian  Gibbons",
+      "assist1": "#5 - John  Lewandoski",
+      "assist2": "#11 - David  Officer"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "player": "#93 - Jeff  Nauer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:34",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:26",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "player": "#11 - David  Officer",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:10:55.914Z"
+}

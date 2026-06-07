@@ -1,0 +1,104 @@
+{
+  "gameId": "18377",
+  "date": "2025-10-19",
+  "divId": 318,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1947",
+    "name": "Roughnecks"
+  },
+  "away": {
+    "teamId": "1950",
+    "name": "Hershey Beers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:24",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#92 - Jeffrey  Rendler",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:51",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#66 - Ed  Deegan",
+      "assist1": "#43 - James J Kim",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "1947",
+        "name": "Roughnecks"
+      },
+      "scorer": "#21 - Finn  Devans",
+      "assist1": "#97 - Lee  Alexander",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:39",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#27 - Adam  Nadel",
+      "assist1": "#18 - Sam  Bressi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:28",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#87 - Feng  Lan",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "player": "#43 - James J Kim",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:57:40.810Z"
+}

@@ -1,0 +1,108 @@
+{
+  "gameId": "13005",
+  "date": "2019-09-12",
+  "divId": 200,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1270",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1273",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "scorer": "#15 - Mark  Rudnicki",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:50",
+      "team": {
+        "teamId": "1273",
+        "name": "Grey Goons"
+      },
+      "scorer": "#49 - Greg  Mullen",
+      "assist1": "#21 - Grant  Gibbons",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1273",
+        "name": "Grey Goons"
+      },
+      "scorer": "#19 - Joe  Dunn",
+      "assist1": "#49 - Greg  Mullen",
+      "assist2": "#42 - Christian  Gibbons"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1273",
+        "name": "Grey Goons"
+      },
+      "player": "#19 - Joe  Dunn",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:38",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "player": "#7 - Dan  Ellert",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:49",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "player": "#13 - Bob  Seal",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:55:46.354Z"
+}

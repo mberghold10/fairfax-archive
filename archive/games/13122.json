@@ -1,0 +1,117 @@
+{
+  "gameId": "13122",
+  "date": "2019-09-01",
+  "divId": 205,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1296",
+    "name": "Lightning"
+  },
+  "away": {
+    "teamId": "1298",
+    "name": "Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:18",
+      "team": {
+        "teamId": "1298",
+        "name": "Crabs"
+      },
+      "scorer": "#2 - Elliott  Yang",
+      "assist1": "#19 - Angelo  Ponirakis",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:28",
+      "team": {
+        "teamId": "1298",
+        "name": "Crabs"
+      },
+      "scorer": "#74 - Russell  Smith",
+      "assist1": "#14 - Roger  Jordan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:03",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "scorer": "#30 - Brandon  Heiner",
+      "assist1": "#20 - Eric  Nelson",
+      "assist2": "#6 - Eric  Rhoden"
+    },
+    {
+      "period": "3",
+      "time": "00:09:12",
+      "team": {
+        "teamId": "1298",
+        "name": "Crabs"
+      },
+      "scorer": "#14 - Roger  Jordan",
+      "assist1": "#27 - Adam  Bacon",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:15",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "scorer": "#4 - Matt  Gelman",
+      "assist1": "#30 - Brandon  Heiner",
+      "assist2": "#22 - Chris  Simmons"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:21",
+      "team": {
+        "teamId": "1298",
+        "name": "Crabs"
+      },
+      "player": "#22 - Trevor  Blair",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "player": "#4 - Matt  Gelman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:01:08.806Z"
+}

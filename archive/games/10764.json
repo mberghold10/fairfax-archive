@@ -1,0 +1,220 @@
+{
+  "gameId": "10764",
+  "date": "2017-08-22",
+  "divId": 164,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1053",
+    "name": "Hooligans"
+  },
+  "away": {
+    "teamId": "1052",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 3,
+      "p3": 4,
+      "ot": 0,
+      "final": 10
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#27 - Ryan  Croley",
+      "assist1": "#6 - Jon  Lauder",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:38",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#6 - Jon  Lauder",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:57",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": "#27 - Ryan  Croley",
+      "assist2": "#22 - Chad  Muse"
+    },
+    {
+      "period": "2",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": "#2 - Mark  Jesten",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:51",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#27 - Ryan  Croley",
+      "assist1": "#9 - Rick  Cole",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:37",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "scorer": "#12 - Wade  Cleland",
+      "assist1": "#91 - Ken  Degrave",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#93 - Jeff  Nauer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:02",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": "#27 - Ryan  Croley"
+    },
+    {
+      "period": "3",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#27 - Ryan  Croley",
+      "assist1": "#6 - Jon  Lauder",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:37",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:31",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": "#27 - Ryan  Croley",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:05",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "player": "#91 - Ken  Degrave",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:55",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "player": "#22 - Chad  Muse",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:25",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "player": "#93 - Rob  Cheron",
+      "pim": 5,
+      "offense": "check from behind",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:25",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "player": "#93 - Rob  Cheron",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:11:12.128Z"
+}

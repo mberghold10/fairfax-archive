@@ -1,0 +1,169 @@
+{
+  "gameId": "18008",
+  "date": "2025-04-27",
+  "divId": 306,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1873",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "1877",
+    "name": "Anonymous"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "scorer": "#11 - Tom  Fergus",
+      "assist1": "#16 - Brian  Booker",
+      "assist2": "#13 - Sean  McGarry"
+    },
+    {
+      "period": "2",
+      "time": "00:01:18",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": "#11 - Dave  Brown",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:16",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "scorer": "#21 - Mark  Johnston",
+      "assist1": "#49 - Greg  Mullen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:39",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "scorer": "#43 - Dave  Hagemeier",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:46",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:41",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "player": "#11 - Dave  Brown",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:55",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:06",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "player": "#86 - Tom  Anwyll",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:43",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "player": "#42 - Jeff  Lovett",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:28",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "player": "#76 - Mike  Floyd",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:44:36.281Z"
+}

@@ -1,0 +1,139 @@
+{
+  "gameId": "11061",
+  "date": "2017-11-07",
+  "divId": 173,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1106",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1107",
+    "name": "Hooligans"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:54",
+      "team": {
+        "teamId": "1106",
+        "name": "Hurricanes"
+      },
+      "scorer": "#17 - John  Wallace",
+      "assist1": "#6 - Jon  Lauder",
+      "assist2": "#7 - Dave  Neri"
+    },
+    {
+      "period": "1",
+      "time": "00:08:56",
+      "team": {
+        "teamId": "1106",
+        "name": "Hurricanes"
+      },
+      "scorer": "#27 - Ryan  Croley",
+      "assist1": "#2 - Mark  Jesten",
+      "assist2": "#6 - Jon  Lauder"
+    },
+    {
+      "period": "1",
+      "time": "00:10:17",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "scorer": "#18 - Peter  Poczatek",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "scorer": "#9 - Joe  Tierney",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:09",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "scorer": "#7 - Allen  Lassinger",
+      "assist1": "#9 - Joe  Tierney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:52",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "scorer": "#25 - Dave  Halsted",
+      "assist1": "#86 - John  Persinger",
+      "assist2": "#12 - Wade  Cleland"
+    },
+    {
+      "period": "3",
+      "time": "00:12:13",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "scorer": "#12 - Wade  Cleland",
+      "assist1": "#91 - Ken  Degrave",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:02",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "player": "#25 - Dave  Halsted",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:19",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "player": "#21 - Jeff  Chistolini",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:21:20.900Z"
+}

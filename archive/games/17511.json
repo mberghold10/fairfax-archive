@@ -1,0 +1,84 @@
+{
+  "gameId": "17511",
+  "date": "2024-11-17",
+  "divId": 299,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1840",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1841",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": "#20 - Mike  McLenahan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:33",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#12 - Steven  Courson",
+      "assist1": "#6 - Kyle  Herring",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:18",
+      "team": {
+        "teamId": "1841",
+        "name": "Dragons"
+      },
+      "player": "#7 - Connor  Anderson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:02",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "player": "#5 - Andy  Loggia",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:35:53.610Z"
+}

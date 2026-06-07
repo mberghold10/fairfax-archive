@@ -1,0 +1,143 @@
+{
+  "gameId": "18179",
+  "date": "2025-07-28",
+  "divId": 313,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1915",
+    "name": "Windbreakers"
+  },
+  "away": {
+    "teamId": "1916",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "1916",
+        "name": "Old Goats"
+      },
+      "scorer": "#72 - Alex  Cordone",
+      "assist1": "#34 - Marty  Gryski",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:08",
+      "team": {
+        "teamId": "1915",
+        "name": "Windbreakers"
+      },
+      "scorer": "#69 - Alex  Zurbach",
+      "assist1": "#27 - James  Fothergill",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1915",
+        "name": "Windbreakers"
+      },
+      "scorer": "#27 - James  Fothergill",
+      "assist1": "#4 - Christopher  Fothergill",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:41",
+      "team": {
+        "teamId": "1916",
+        "name": "Old Goats"
+      },
+      "scorer": "#27 - Dave  Lin",
+      "assist1": "#22 - Ken  Oschner",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1915",
+        "name": "Windbreakers"
+      },
+      "scorer": "#27 - James  Fothergill",
+      "assist1": "#33 - Juliana  Brotzman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:24",
+      "team": {
+        "teamId": "1916",
+        "name": "Old Goats"
+      },
+      "player": "#17 - Dan  Pol",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:26",
+      "team": {
+        "teamId": "1915",
+        "name": "Windbreakers"
+      },
+      "player": "#33 - Juliana  Brotzman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1916",
+        "name": "Old Goats"
+      },
+      "player": "#89 - Jay  Gobeil",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:52",
+      "team": {
+        "teamId": "1916",
+        "name": "Old Goats"
+      },
+      "player": "#44 - Sean  Cullen",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:50:40.336Z"
+}

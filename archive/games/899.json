@@ -1,0 +1,136 @@
+{
+  "gameId": "899",
+  "date": "2018-04-09",
+  "divId": 177,
+  "seasonName": "Winter 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1131",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1132",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "1132",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "1132",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#28 - Ed  Holleran",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:23",
+      "team": {
+        "teamId": "1131",
+        "name": "Dragons"
+      },
+      "player": "#16 - Bart  Lucas",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:01",
+      "team": {
+        "teamId": "1131",
+        "name": "Dragons"
+      },
+      "player": "#91 - James  DeBolt",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:49",
+      "team": {
+        "teamId": "1132",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#77 - Dennis  Valentine",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1132",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#67 - Brian  Landers",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:42",
+      "team": {
+        "teamId": "1132",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#54 - Brian  Hensel",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:36",
+      "team": {
+        "teamId": "1132",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#8 - AJ  Ellis",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:27:43.385Z"
+}

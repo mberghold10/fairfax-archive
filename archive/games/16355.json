@@ -1,0 +1,130 @@
+{
+  "gameId": "16355",
+  "date": "2023-08-12",
+  "divId": 274,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1692",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1689",
+    "name": "Hershey"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#7 - Vadim  Sokolov",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "1692",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#21 - Steve  Kaplan",
+      "assist1": "#19 - Troy  Edwards",
+      "assist2": "#47 - David  Hitchcock"
+    },
+    {
+      "period": "1",
+      "time": "00:11:26",
+      "team": {
+        "teamId": "1692",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#19 - Troy  Edwards",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1692",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#19 - Troy  Edwards",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:12",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#77 - Trevor  Boynton",
+      "assist1": "#7 - Vadim  Sokolov",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "player": "#11 - Gregory  Wilburn",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:51",
+      "team": {
+        "teamId": "1692",
+        "name": "Blue Dogs"
+      },
+      "player": "#2 - John  Ganoe",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:29",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "player": "#43 - James  Kim",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:10:19.796Z"
+}

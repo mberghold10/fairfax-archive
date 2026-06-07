@@ -1,0 +1,176 @@
+{
+  "gameId": "12258",
+  "date": "2018-11-28",
+  "divId": 194,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1231",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1234",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#12 - Jon  Gregor",
+      "assist1": "#15 - Todd  Martin",
+      "assist2": "#13 - Mike  Carew"
+    },
+    {
+      "period": "1",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#12 - Jon  Gregor",
+      "assist1": "#4 - Bruce  Baltas",
+      "assist2": "#18 - Sean  Gallucci"
+    },
+    {
+      "period": "2",
+      "time": "00:04:06",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#9 - Sam  Ziesler",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1231",
+        "name": "Englewood"
+      },
+      "scorer": "#7 - Joe  Hull",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#24 - Steve  Dolski",
+      "assist1": "#18 - Sean  Gallucci",
+      "assist2": "#15 - Todd  Martin"
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1231",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:57",
+      "team": {
+        "teamId": "1231",
+        "name": "Englewood"
+      },
+      "scorer": "#4 - Mark  Sullivan",
+      "assist1": "#15 - John  Cushing",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:33",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#18 - Sean  Gallucci",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "1231",
+        "name": "Englewood"
+      },
+      "player": "#27 - John  Hitesman",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "player": "#13 - Mike  Carew",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:33",
+      "team": {
+        "teamId": "1231",
+        "name": "Englewood"
+      },
+      "player": "#27 - John  Hitesman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:00",
+      "team": {
+        "teamId": "1231",
+        "name": "Englewood"
+      },
+      "player": "#77 - Oleg  Nayandin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:47:25.684Z"
+}

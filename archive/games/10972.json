@@ -1,0 +1,152 @@
+{
+  "gameId": "10972",
+  "date": "2017-10-03",
+  "divId": 173,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1103",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1105",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:56",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#79 - Jeffrey  Vandenberghe",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#20 - Paul  Flood",
+      "assist1": "#67 - Andrew  Miller",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:16",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "scorer": "#15 - Tom  Sgroi",
+      "assist1": "#10 - Matt  Johnson",
+      "assist2": "#27 - Dave  Lin"
+    },
+    {
+      "period": "2",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "scorer": "#22 - Charlie  Campbell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:42",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#13 - Phil  Wind",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:29",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#57 - Howard  Uman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#21 - Steve  Kaplan",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:26",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "player": "#22 - Charlie  Campbell",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:57",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "player": "#12 - David  OMalley",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:21:09.873Z"
+}

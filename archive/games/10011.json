@@ -1,0 +1,185 @@
+{
+  "gameId": "10011",
+  "date": "2016-11-17",
+  "divId": 155,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "996",
+    "name": "Old Goats"
+  },
+  "away": {
+    "teamId": "993",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:54",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": "#10 - Mike  Brahmey",
+      "assist2": "#23 - Mike  OBrien"
+    },
+    {
+      "period": "1",
+      "time": "00:10:58",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "scorer": "#10 - Mike  Brahmey",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:51",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": "#10 - Mike  Brahmey"
+    },
+    {
+      "period": "2",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": "#15 - Chuck  McKeever",
+      "assist2": "#27 - Jesse  Brand"
+    },
+    {
+      "period": "2",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "scorer": "#10 - Mike  Brahmey",
+      "assist1": "#8 - Matt  Tourville",
+      "assist2": "#18 - Pete  Poczatek"
+    },
+    {
+      "period": "2",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "996",
+        "name": "Old Goats"
+      },
+      "scorer": "#20 - Matt  Michelson",
+      "assist1": "#21 - Mike  Hawthorne",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:44",
+      "team": {
+        "teamId": "996",
+        "name": "Old Goats"
+      },
+      "scorer": "#39 - Alex  Talalayevsky",
+      "assist1": "#23 - Dale  Cooper",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "996",
+        "name": "Old Goats"
+      },
+      "scorer": "#33 - Jim  Van Dyke",
+      "assist1": "#39 - Alex  Talalayevsky",
+      "assist2": "#19 - Ira  Keltz"
+    },
+    {
+      "period": "3",
+      "time": "00:09:43",
+      "team": {
+        "teamId": "996",
+        "name": "Old Goats"
+      },
+      "scorer": "#5 - Howie  Uman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:29",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": "#10 - Mike  Brahmey",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:21",
+      "team": {
+        "teamId": "996",
+        "name": "Old Goats"
+      },
+      "player": "#21 - Mike  Hawthorne",
+      "pim": 2,
+      "offense": "g int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:33",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "player": "#17 - Jim  Freely",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:02",
+      "team": {
+        "teamId": "996",
+        "name": "Old Goats"
+      },
+      "player": "#39 - Alex  Talalayevsky",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:58:59.880Z"
+}

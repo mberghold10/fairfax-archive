@@ -1,0 +1,119 @@
+{
+  "gameId": "13739",
+  "date": "2020-03-07",
+  "divId": 216,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1367",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1365",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:02:54",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#30 - Brent  Bolin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#0 - Ruben  Garcia",
+      "assist1": "#19 - Troy  Edwards",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:55",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "scorer": "#79 - Sean  Longanecker",
+      "assist1": "#55 - Nick  Cioffi",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:13",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:06",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "player": "#28 - Steve  Begin",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:14:34.341Z"
+}

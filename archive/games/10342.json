@@ -1,0 +1,108 @@
+{
+  "gameId": "10342",
+  "date": "2017-02-13",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1017",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1018",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:06:47",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "scorer": "#91 - Matt  Vossekuil",
+      "assist1": "#14 - Rachel  Sullivan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:24",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "player": "#19 - Eli  Zink",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:16",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "player": "#25 - David  Halsted",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:19",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "player": "#37 - Craig  Richardson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:04:58.245Z"
+}

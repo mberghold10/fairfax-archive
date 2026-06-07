@@ -1,0 +1,176 @@
+{
+  "gameId": "18069",
+  "date": "2025-05-25",
+  "divId": 309,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1889",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1890",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:06",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#93 - Robert  Wagner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:24",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#87 - Ryan  Young",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:35",
+      "team": {
+        "teamId": "1890",
+        "name": "Red Wings"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": "#17 - Will  Murphy"
+    },
+    {
+      "period": "2",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": "#20 - Steve  Ahart",
+      "assist2": "#87 - Ryan  Young"
+    },
+    {
+      "period": "2",
+      "time": "00:05:42",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#93 - Robert  Wagner",
+      "assist1": "#33 - Brandon  Boling",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:47",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": "#87 - Ryan  Young",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:45",
+      "team": {
+        "teamId": "1890",
+        "name": "Red Wings"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": "#0 - Phil  Cunningham",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1890",
+        "name": "Red Wings"
+      },
+      "scorer": "#17 - Will  Murphy",
+      "assist1": "#0 - Phil  Cunningham",
+      "assist2": "#47 - Jeff  Urlwin"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:41",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "player": "#93 - Robert  Wagner",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:17:29",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:47",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "player": "#77 - Jeff  Wilken",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:00",
+      "team": {
+        "teamId": "1890",
+        "name": "Red Wings"
+      },
+      "player": "#47 - Jeff  Urlwin",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:47:03.845Z"
+}

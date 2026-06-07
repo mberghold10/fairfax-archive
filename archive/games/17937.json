@@ -1,0 +1,82 @@
+{
+  "gameId": "17937",
+  "date": "2025-05-11",
+  "divId": 303,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1862",
+    "name": "Toronto"
+  },
+  "away": {
+    "teamId": "1860",
+    "name": "Junkyard Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:24",
+      "team": {
+        "teamId": "1860",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#91 - Jason  Ross",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:36",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:10",
+      "team": {
+        "teamId": "1860",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#44 - Carlos  Gautier",
+      "assist1": "#91 - Jason  Ross",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "1860",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#92 - Daniel  Horner",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:41:28.932Z"
+}

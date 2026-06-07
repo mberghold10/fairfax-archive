@@ -1,0 +1,117 @@
+{
+  "gameId": "11299",
+  "date": "2018-03-11",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1097",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1102",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1102",
+        "name": "Islanders"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": "#15 - Mark  Yawornicky"
+    },
+    {
+      "period": "1",
+      "time": "00:08:35",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#7 - Ed  Wiener",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:35",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#98 - Matthew  Criscuolo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:43",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Peter  Poczatek",
+      "assist1": "#12 - Jason  Wakeman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:49",
+      "team": {
+        "teamId": "1102",
+        "name": "Islanders"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": "#71 - John  Buhler"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:11:37",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "player": "#10 - Michael  Brahmey",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:20:45.128Z"
+}

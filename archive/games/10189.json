@@ -1,0 +1,99 @@
+{
+  "gameId": "10189",
+  "date": "2016-11-27",
+  "divId": 155,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "998",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "994",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "994",
+        "name": "Penguins"
+      },
+      "scorer": "#11 - Darren  Wellner",
+      "assist1": "#81 - Chris  Holden",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:13",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "player": "#31 - Jason  Apergis",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:53",
+      "team": {
+        "teamId": "994",
+        "name": "Penguins"
+      },
+      "player": "#25 - Jeff  Wojtala",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:35",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "player": "#26 - Jim  Silbermann",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "994",
+        "name": "Penguins"
+      },
+      "player": "#7 - Dan  Ellert",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:59:02.747Z"
+}

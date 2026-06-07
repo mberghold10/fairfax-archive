@@ -1,0 +1,134 @@
+{
+  "gameId": "13149",
+  "date": "2019-09-09",
+  "divId": 206,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1305",
+    "name": "Sparks"
+  },
+  "away": {
+    "teamId": "1306",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:10:51",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "scorer": "#42 - David  Hagemeier",
+      "assist1": "#94 - Michael  Starego",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:16",
+      "team": {
+        "teamId": "1305",
+        "name": "Sparks"
+      },
+      "scorer": "#88 - Dan  Lange",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:16",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "scorer": "#94 - Michael  Starego",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:18",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "player": "#12 - Scott  Borders",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "player": "#9 - Kim  Sherrock",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1305",
+        "name": "Sparks"
+      },
+      "player": "#22 - Nick  Kolovos",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:52",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "player": "#13 - Jeff  Willard",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:45",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "player": "#42 - David  Hagemeier",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:02:21.397Z"
+}

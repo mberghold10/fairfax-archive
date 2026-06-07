@@ -1,0 +1,139 @@
+{
+  "gameId": "13966",
+  "date": "2021-04-17",
+  "divId": 225,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1414",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1413",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 1,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "1413",
+        "name": "Kings"
+      },
+      "scorer": "#15 - Stephen  Fitts",
+      "assist1": "#14 - Dominic  Pistolessi",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:06",
+      "team": {
+        "teamId": "1414",
+        "name": "Outlaws"
+      },
+      "scorer": "#77 - Eric  Kniaz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:49",
+      "team": {
+        "teamId": "1414",
+        "name": "Outlaws"
+      },
+      "scorer": "#12 - Joe  Zwickl",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1414",
+        "name": "Outlaws"
+      },
+      "scorer": "#41 - Tony  Gorney",
+      "assist1": "#91 - Matt  Weeden",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:25",
+      "team": {
+        "teamId": "1413",
+        "name": "Kings"
+      },
+      "scorer": "#14 - Dominic  Pistolessi",
+      "assist1": "#6 - Anthony  Federico",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:28",
+      "team": {
+        "teamId": "1413",
+        "name": "Kings"
+      },
+      "scorer": "#15 - Stephen  Fitts",
+      "assist1": "#6 - Anthony  Federico",
+      "assist2": "#28 - Chris  Marotta"
+    },
+    {
+      "period": "4",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "1413",
+        "name": "Kings"
+      },
+      "scorer": "#6 - Anthony  Federico",
+      "assist1": "#14 - Dominic  Pistolessi",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1414",
+        "name": "Outlaws"
+      },
+      "player": "#14 - Jason  Brue",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:02:06",
+      "team": {
+        "teamId": "1414",
+        "name": "Outlaws"
+      },
+      "player": "#14 - Jason  Brue",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:19:34.855Z"
+}

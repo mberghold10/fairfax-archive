@@ -1,0 +1,128 @@
+{
+  "gameId": "11784",
+  "date": "2018-08-08",
+  "divId": 180,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1148",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1146",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 4,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:31",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:05",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "scorer": "#8 - Arturas  Vorobjovas",
+      "assist1": "#40 - Mikhail  Serebrennikov",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "scorer": "#8 - Arturas  Vorobjovas",
+      "assist1": "#5 - Peter  Boone",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:41",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#44 - Bob  Arnold",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#92 - Matt  Frazza",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "3",
+      "time": "00:10:25",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "scorer": "#8 - Arturas  Vorobjovas",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:31",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "player": "#5 - Peter  Boone",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:30:26.300Z"
+}

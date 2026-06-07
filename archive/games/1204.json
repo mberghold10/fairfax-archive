@@ -1,0 +1,152 @@
+{
+  "gameId": "1204",
+  "date": "2022-04-22",
+  "divId": 244,
+  "seasonName": "Winter 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1512",
+    "name": "Red Dragons"
+  },
+  "away": {
+    "teamId": "1511",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1512",
+        "name": "Red Dragons"
+      },
+      "scorer": "#34 - Howard  Uman",
+      "assist1": null,
+      "assist2": "#3 - Ilana  Bell"
+    },
+    {
+      "period": "1",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "1511",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#12 - Joe  DeCarlo",
+      "assist1": "#7 - Will  Weiler",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:08",
+      "team": {
+        "teamId": "1512",
+        "name": "Red Dragons"
+      },
+      "scorer": "#61 - Tommy  Ripke",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:19",
+      "team": {
+        "teamId": "1511",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#19 - Nate  Rozelle",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:29",
+      "team": {
+        "teamId": "1512",
+        "name": "Red Dragons"
+      },
+      "scorer": "#34 - Howard  Uman",
+      "assist1": "#84 - Mike  Lowe",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:33",
+      "team": {
+        "teamId": "1511",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#12 - Joe  DeCarlo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:07:10",
+      "team": {
+        "teamId": "1512",
+        "name": "Red Dragons"
+      },
+      "scorer": "#12 - Scott  Borders",
+      "assist1": "#61 - Tommy  Ripke",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1512",
+        "name": "Red Dragons"
+      },
+      "player": "#20 - David  Goldstein",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:25",
+      "team": {
+        "teamId": "1511",
+        "name": "Blackskimmers"
+      },
+      "player": "#22 - Adam  Bacon",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:33",
+      "team": {
+        "teamId": "1512",
+        "name": "Red Dragons"
+      },
+      "player": "#84 - Mike  Lowe",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:34:58.730Z"
+}

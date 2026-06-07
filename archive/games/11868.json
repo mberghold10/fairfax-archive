@@ -1,0 +1,115 @@
+{
+  "gameId": "11868",
+  "date": "2018-08-05",
+  "divId": 184,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1172",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1170",
+    "name": "BlueJacket Capitals"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1172",
+        "name": "Chiefs"
+      },
+      "scorer": "#7 - Mike  Cardarelli",
+      "assist1": "#10 - Tim  Winters",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#92 - Darren  Wellner",
+      "assist1": "#17 - Bill  Demasso",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:29",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#15 - Bob  Guckian",
+      "assist1": "#52 - Alan  Dappen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:57",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#77 - Erik  Bergman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:44",
+      "team": {
+        "teamId": "1172",
+        "name": "Chiefs"
+      },
+      "scorer": "#6 - Mike  Benyo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:38",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#17 - Bill  Demasso",
+      "assist1": "#52 - Alan  Dappen",
+      "assist2": "#11 - Mark  OConnell"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#17 - Bill  Demasso",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:35:10.863Z"
+}

@@ -1,0 +1,143 @@
+{
+  "gameId": "17639",
+  "date": "2025-01-11",
+  "divId": 303,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1861",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1864",
+    "name": "Bottle Caps"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:59",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#9 - Kyle  Dedrick",
+      "assist1": "#10 - Dana  Kaufman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:06",
+      "team": {
+        "teamId": "1861",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#14 - Lee  Molina",
+      "assist1": "#990 - James  Hall",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:42",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#83 - Michael  Milazzo",
+      "assist1": "#29 - Chris  Dunn",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:27",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#6 - Andy  Lindsey",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:23",
+      "team": {
+        "teamId": "1861",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#88 - Jason  Searight",
+      "assist1": "#35 - Peter  Molnar",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:43",
+      "team": {
+        "teamId": "1861",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#43 - Alex  Langsam",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "1861",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#990 - James  Hall",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "1861",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#7 - Graham  Eddy",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:15",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "player": "#34 - William  Happ",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:40:55.962Z"
+}

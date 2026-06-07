@@ -1,0 +1,165 @@
+{
+  "gameId": "10221",
+  "date": "2016-12-11",
+  "divId": 157,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1006",
+    "name": "Kings"
+  },
+  "away": {
+    "teamId": "1010",
+    "name": "Blackhawks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:54",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "scorer": "#15 - Sean  Maniuszko",
+      "assist1": "#11 - Joel  Bosch",
+      "assist2": "#14 - Samuel  Marchio"
+    },
+    {
+      "period": "1",
+      "time": "00:11:55",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "scorer": "#12 - Tyler  Lovejoy",
+      "assist1": "#74 - Eric  Peterson",
+      "assist2": "#24 - Scott  Kuehn"
+    },
+    {
+      "period": "1",
+      "time": "00:12:51",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "scorer": "#22 - Cody  Reinitz",
+      "assist1": "#12 - Tyler  Lovejoy",
+      "assist2": "#74 - Eric  Peterson"
+    },
+    {
+      "period": "2",
+      "time": "00:06:50",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "scorer": "#93 - Patrick  Gage",
+      "assist1": "#21 - Andy  Heckmann",
+      "assist2": "#20 - Stephen  Arthur"
+    },
+    {
+      "period": "2",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:16",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "scorer": "#8 - Paul  Balcerzak",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "scorer": "#8 - Paul  Balcerzak",
+      "assist1": "#93 - Patrick  Gage",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "player": "#17 - Nick  Ford",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "player": "#17 - Nick  Ford",
+      "pim": 4,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "player": "#17 - Nick  Ford",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "player": "#22 - Cody  Reinitz",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:01:50.227Z"
+}

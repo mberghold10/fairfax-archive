@@ -1,0 +1,126 @@
+{
+  "gameId": "14482",
+  "date": "2021-11-15",
+  "divId": 244,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1512",
+    "name": "Red Dragons"
+  },
+  "away": {
+    "teamId": "1509",
+    "name": "Toronto"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:27",
+      "team": {
+        "teamId": "1512",
+        "name": "Red Dragons"
+      },
+      "scorer": "#61 - Tommy  Ripke",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:12",
+      "team": {
+        "teamId": "1509",
+        "name": "Toronto"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#49 - Romano  Dickerson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1509",
+        "name": "Toronto"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#97 - Brian  Rollins",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "1512",
+        "name": "Red Dragons"
+      },
+      "scorer": "#15 - Tom  Sgroi",
+      "assist1": "#9 - Kim  Sherrock",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:51",
+      "team": {
+        "teamId": "1509",
+        "name": "Toronto"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#3 - Frank  Thomason",
+      "assist2": "#49 - Romano  Dickerson"
+    },
+    {
+      "period": "2",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "1509",
+        "name": "Toronto"
+      },
+      "scorer": "#49 - Romano  Dickerson",
+      "assist1": "#32 - Brian  Freeman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:33",
+      "team": {
+        "teamId": "1509",
+        "name": "Toronto"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "1509",
+        "name": "Toronto"
+      },
+      "player": "#50 - Lorin  Randell",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:34:10.350Z"
+}

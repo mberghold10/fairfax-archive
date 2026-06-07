@@ -1,0 +1,141 @@
+{
+  "gameId": "11336",
+  "date": "2018-01-07",
+  "divId": 174,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1111",
+    "name": "DeYoung Money"
+  },
+  "away": {
+    "teamId": "1112",
+    "name": "Blackhawks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "scorer": "#56 - Ryan  Tyler",
+      "assist1": "#8 - Brendan  Millice",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "scorer": "#77 - Scott  Peterson",
+      "assist1": "#22 - Cody  Reinitz",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:55",
+      "team": {
+        "teamId": "1111",
+        "name": "DeYoung Money"
+      },
+      "scorer": "#94 - Calvin  Shade",
+      "assist1": "#25 - Nick  Strunk",
+      "assist2": "#96 - Alex  DeYoung"
+    },
+    {
+      "period": "2",
+      "time": "00:06:40",
+      "team": {
+        "teamId": "1111",
+        "name": "DeYoung Money"
+      },
+      "scorer": "#17 - Jeffrey  Carter",
+      "assist1": "#96 - Alex  DeYoung",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:08",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "scorer": "#74 - Eric  Peterson",
+      "assist1": "#8 - Brendan  Millice",
+      "assist2": "#24 - Scott  Kuehn"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1111",
+        "name": "DeYoung Money"
+      },
+      "player": "#36 - Jodel  Shade",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:25",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "player": "#22 - Cody  Reinitz",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:18",
+      "team": {
+        "teamId": "1111",
+        "name": "DeYoung Money"
+      },
+      "player": "#88 - Chris  Peterkin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:22:35.547Z"
+}

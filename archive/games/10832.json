@@ -1,0 +1,222 @@
+{
+  "gameId": "10832",
+  "date": "2017-08-14",
+  "divId": 167,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1084",
+    "name": "Pharaohs"
+  },
+  "away": {
+    "teamId": "1067",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 4,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:42",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#91 - Matt  Vossekuil",
+      "assist1": "#11 - Dan  Wilson",
+      "assist2": "#44 - Trish  Waller"
+    },
+    {
+      "period": "1",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "1084",
+        "name": "Pharaohs"
+      },
+      "scorer": "#66 - Steven  Spector",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:57",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": "#11 - Dan  Wilson",
+      "assist2": "#14 - Rachel  Sullivan"
+    },
+    {
+      "period": "1",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#91 - Matt  Vossekuil",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:04",
+      "team": {
+        "teamId": "1084",
+        "name": "Pharaohs"
+      },
+      "scorer": "#55 - Joel  Dever",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1084",
+        "name": "Pharaohs"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": "#66 - Steven  Spector",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:54",
+      "team": {
+        "teamId": "1084",
+        "name": "Pharaohs"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": "#11 - Dan  Owens",
+      "assist2": "#22 - Sully  Sullivan"
+    },
+    {
+      "period": "3",
+      "time": "00:01:51",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#11 - Dan  Wilson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#53 - Robert  Hutchinson",
+      "assist1": "#68 - Napoleon  Laughner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:32",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#4 - Ryan  Cantwell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:05",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#53 - Robert  Hutchinson",
+      "assist1": "#28 - Doug  Branton",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1084",
+        "name": "Pharaohs"
+      },
+      "player": "#22 - Sully  Sullivan",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:55",
+      "team": {
+        "teamId": "1084",
+        "name": "Pharaohs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "1084",
+        "name": "Pharaohs"
+      },
+      "player": "#83 - Jared  DiCioccio",
+      "pim": 2,
+      "offense": "charge",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "1084",
+        "name": "Pharaohs"
+      },
+      "player": "#83 - Jared  DiCioccio",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:22",
+      "team": {
+        "teamId": "1084",
+        "name": "Pharaohs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:14:48.223Z"
+}

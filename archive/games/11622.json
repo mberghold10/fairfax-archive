@@ -1,0 +1,235 @@
+{
+  "gameId": "11622",
+  "date": "2018-06-09",
+  "divId": 183,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1162",
+    "name": "Bulldogs"
+  },
+  "away": {
+    "teamId": "1166",
+    "name": "Divorced Men"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 6,
+      "p3": 1,
+      "ot": 0,
+      "final": 9
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:49",
+      "team": {
+        "teamId": "1166",
+        "name": "Divorced Men"
+      },
+      "scorer": "#77 - Dennis  Nayandin",
+      "assist1": "#17 - PD  Abati",
+      "assist2": "#25 - Nick  Strunk"
+    },
+    {
+      "period": "1",
+      "time": "00:03:12",
+      "team": {
+        "teamId": "1166",
+        "name": "Divorced Men"
+      },
+      "scorer": "#29 - Zachary  Shiohama",
+      "assist1": "#25 - Nick  Strunk",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "1166",
+        "name": "Divorced Men"
+      },
+      "scorer": "#77 - Dennis  Nayandin",
+      "assist1": "#82 - Alex  Strunk",
+      "assist2": "# -"
+    },
+    {
+      "period": "2",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "1166",
+        "name": "Divorced Men"
+      },
+      "scorer": "#96 - Alexander  DeYoung",
+      "assist1": "#88 - Chris  Peterkin",
+      "assist2": "#77 - Dennis  Nayandin"
+    },
+    {
+      "period": "2",
+      "time": "00:06:02",
+      "team": {
+        "teamId": "1166",
+        "name": "Divorced Men"
+      },
+      "scorer": "#77 - Dennis  Nayandin",
+      "assist1": "#82 - Alex  Strunk",
+      "assist2": "#4 - Brett  Gauthier"
+    },
+    {
+      "period": "2",
+      "time": "00:07:06",
+      "team": {
+        "teamId": "1166",
+        "name": "Divorced Men"
+      },
+      "scorer": "# -",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:27",
+      "team": {
+        "teamId": "1166",
+        "name": "Divorced Men"
+      },
+      "scorer": "#25 - Nick  Strunk",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:37",
+      "team": {
+        "teamId": "1166",
+        "name": "Divorced Men"
+      },
+      "scorer": "#17 - PD  Abati",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:10",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#88 - Matt  Tiede",
+      "assist1": "#19 - Jon  Forrester",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:12",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#88 - Matt  Tiede",
+      "assist1": "#11 - Mike  Dumont",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:48",
+      "team": {
+        "teamId": "1166",
+        "name": "Divorced Men"
+      },
+      "scorer": "#25 - Nick  Strunk",
+      "assist1": "#17 - PD  Abati",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:06:19",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "player": "#28 - Jack  Wilmer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:24",
+      "team": {
+        "teamId": "1166",
+        "name": "Divorced Men"
+      },
+      "player": "#96 - Alexander  DeYoung",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:24",
+      "team": {
+        "teamId": "1166",
+        "name": "Divorced Men"
+      },
+      "player": "#96 - Alexander  DeYoung",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1166",
+        "name": "Divorced Men"
+      },
+      "player": "#96 - Alexander  DeYoung",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "player": "#12 - Dan  Butala",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:07",
+      "team": {
+        "teamId": "1166",
+        "name": "Divorced Men"
+      },
+      "player": "#7 - Philipp  Hanslovsky",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:33:33.285Z"
+}

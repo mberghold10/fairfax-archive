@@ -1,0 +1,195 @@
+{
+  "gameId": "13634",
+  "date": "2020-02-08",
+  "divId": 213,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1343",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "1346",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:38",
+      "team": {
+        "teamId": "1343",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#21 - Jesse  Semenza",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:09",
+      "team": {
+        "teamId": "1343",
+        "name": "Bruins"
+      },
+      "scorer": "#28 - Pete  Sandness",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "1343",
+        "name": "Bruins"
+      },
+      "scorer": "#21 - Jesse  Semenza",
+      "assist1": "#25 - Bob  Banasik",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1343",
+        "name": "Bruins"
+      },
+      "scorer": "#21 - Jesse  Semenza",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1343",
+        "name": "Bruins"
+      },
+      "player": "#28 - Pete  Sandness",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "1343",
+        "name": "Bruins"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:33",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "player": "#18 - Sam  Chu",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:15",
+      "team": {
+        "teamId": "1343",
+        "name": "Bruins"
+      },
+      "player": "#28 - Pete  Sandness",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1343",
+        "name": "Bruins"
+      },
+      "player": "#11 - Brian  Maloney",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "player": "#51 - Tyler  Kniaz",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:49",
+      "team": {
+        "teamId": "1343",
+        "name": "Bruins"
+      },
+      "player": "#22 - John  West",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "1343",
+        "name": "Bruins"
+      },
+      "player": "#28 - Pete  Sandness",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:10:21.169Z"
+}

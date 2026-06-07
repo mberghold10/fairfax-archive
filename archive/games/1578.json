@@ -1,0 +1,169 @@
+{
+  "gameId": "1578",
+  "date": "2025-11-30",
+  "divId": 313,
+  "seasonName": "Summer 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1918",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "1913",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:54",
+      "team": {
+        "teamId": "1913",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#4 - Sam  Hauslohner",
+      "assist1": "#24 - Brian  Davies",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "1913",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#2 - Mike  Donnelly",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:36",
+      "team": {
+        "teamId": "1918",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#881 - Frank  Tomaino",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:26",
+      "team": {
+        "teamId": "1918",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#38 - Drew  Dunn",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:09:49",
+      "team": {
+        "teamId": "1913",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#9 - Greg  Sibley",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "1913",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#20 - Mike  Neas",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:34",
+      "team": {
+        "teamId": "1918",
+        "name": "Mad Dogs"
+      },
+      "player": "#34 - Josh  Davis",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:06",
+      "team": {
+        "teamId": "1918",
+        "name": "Mad Dogs"
+      },
+      "player": "#15 - Dave  Gorman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:53",
+      "team": {
+        "teamId": "1913",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#20 - Mike  Neas",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:52",
+      "team": {
+        "teamId": "1918",
+        "name": "Mad Dogs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:08",
+      "team": {
+        "teamId": "1913",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#17 - Josh  Bliudzius",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:51:51.909Z"
+}

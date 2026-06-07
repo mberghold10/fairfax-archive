@@ -1,0 +1,143 @@
+{
+  "gameId": "10077",
+  "date": "2016-10-08",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1023",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1018",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 4,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#13 - Shane  Mitchell",
+      "assist2": "#18 - Pete  Poczatek"
+    },
+    {
+      "period": "1",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#12 - Jason  Wakeman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:49",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#4 - Pete  Van Aartrijk",
+      "assist1": "#7 - Dan  Miller",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#99 - Jon  Davoren",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#44 - John  Dandeneau",
+      "assist2": "#7 - Dan  Miller"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:29",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "player": "#7 - Dan  Miller",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "player": "#28 - Doug  Branton",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:26",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "player": "#0 - Jory  Rubenstein",
+      "pim": 2,
+      "offense": "board",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:46",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "player": "#7 - Justin  Kent",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:04:01.045Z"
+}

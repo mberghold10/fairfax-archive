@@ -1,0 +1,235 @@
+{
+  "gameId": "1423",
+  "date": "2024-05-11",
+  "divId": 281,
+  "seasonName": "Winter 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1727",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1729",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1727",
+        "name": "Swarm"
+      },
+      "scorer": "#9 - Jason  Murphy",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": "#56 - Ryan  Tyler"
+    },
+    {
+      "period": "1",
+      "time": "00:07:42",
+      "team": {
+        "teamId": "1729",
+        "name": "Bruins"
+      },
+      "scorer": "#16 - Peter  OKeefe",
+      "assist1": "#37 - Wilson  Korol",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "1729",
+        "name": "Bruins"
+      },
+      "scorer": "#16 - Peter  OKeefe",
+      "assist1": "#8 - Peter  Boone",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:15",
+      "team": {
+        "teamId": "1727",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": "#15 - Mike  Lowe"
+    },
+    {
+      "period": "2",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "1729",
+        "name": "Bruins"
+      },
+      "scorer": "#9 - Matthew  Satterly",
+      "assist1": "#16 - Peter  OKeefe",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:17",
+      "team": {
+        "teamId": "1727",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:56",
+      "team": {
+        "teamId": "1727",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "1729",
+        "name": "Bruins"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#24 - Justin  Thompson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:26",
+      "team": {
+        "teamId": "1727",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#18 - Samson  Chu",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "1727",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:47",
+      "team": {
+        "teamId": "1727",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1729",
+        "name": "Bruins"
+      },
+      "player": "#8 - Peter  Boone",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:57",
+      "team": {
+        "teamId": "1729",
+        "name": "Bruins"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "1729",
+        "name": "Bruins"
+      },
+      "player": "#9 - Matthew  Satterly",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:26",
+      "team": {
+        "teamId": "1727",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:58",
+      "team": {
+        "teamId": "1727",
+        "name": "Swarm"
+      },
+      "player": "#46 - Dan  OConnell",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:58",
+      "team": {
+        "teamId": "1729",
+        "name": "Bruins"
+      },
+      "player": "#16 - Peter  OKeefe",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:18:05.659Z"
+}

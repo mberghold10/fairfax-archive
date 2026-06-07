@@ -1,0 +1,126 @@
+{
+  "gameId": "885",
+  "date": "2018-04-21",
+  "divId": 175,
+  "seasonName": "Winter 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1117",
+    "name": "BlueJacket Capitals"
+  },
+  "away": {
+    "teamId": "1115",
+    "name": "North Stars"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:44",
+      "team": {
+        "teamId": "1117",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#9 - Steven  Hewitt",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:40",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#12 - Matt  Diamon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:38",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#12 - Matt  Diamon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": "#42 - Adam  Russell",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": "#6 - Matt  Dwyer",
+      "assist2": "#81 - Bryan  Getson"
+    },
+    {
+      "period": "3",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1117",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#92 - Darren  Wellner",
+      "assist1": "#9 - Steven  Hewitt",
+      "assist2": "#11 - Mark  OConnell"
+    },
+    {
+      "period": "3",
+      "time": "00:13:01",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": "#12 - Matt  Diamon",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:36",
+      "team": {
+        "teamId": "1117",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:24:51.428Z"
+}

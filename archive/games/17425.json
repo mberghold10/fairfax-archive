@@ -1,0 +1,134 @@
+{
+  "gameId": "17425",
+  "date": "2024-09-28",
+  "divId": 295,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1802",
+    "name": "Mesozoic Puck"
+  },
+  "away": {
+    "teamId": "1806",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1802",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#30 - Antonello  Favaro",
+      "assist1": "#11 - Pierce  Guthrie",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:45",
+      "team": {
+        "teamId": "1802",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#42 - Jonathan  Coley",
+      "assist1": "#14 - Charles  Geschiere",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "1802",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#33 - Scott  Coco",
+      "assist1": "#30 - Antonello  Favaro",
+      "assist2": "#11 - Pierce  Guthrie"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1802",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#9 - Munkhod  Dansran",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1806",
+        "name": "Red Wings"
+      },
+      "player": "#17 - Will  Murphy",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1802",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#33 - Scott  Coco",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1806",
+        "name": "Red Wings"
+      },
+      "player": "#36 - Greg  Kowalski",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:50",
+      "team": {
+        "teamId": "1802",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:33:17.644Z"
+}

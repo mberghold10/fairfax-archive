@@ -1,0 +1,115 @@
+{
+  "gameId": "16354",
+  "date": "2023-08-05",
+  "divId": 274,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1689",
+    "name": "Hershey"
+  },
+  "away": {
+    "teamId": "1691",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:15",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#34 - William  Happ",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "scorer": "#27 - Michael  Fine",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:33",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "scorer": "#16 - Patrick  OConnor",
+      "assist1": "#29 - James  Kim",
+      "assist2": "#11 - Mark  Boyd"
+    },
+    {
+      "period": "2",
+      "time": "00:05:51",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#81 - David  Culverhouse",
+      "assist1": "#15 - Jacob  DePartee",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:18",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#1 - Thomas  Newberg",
+      "assist1": "#77 - Trevor  Boynton",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:34",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#11 - Gregory  Wilburn",
+      "assist1": "#75 - Paul  Barber",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "player": "#24 - Michael  Plourde",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:10:18.793Z"
+}

@@ -1,0 +1,248 @@
+{
+  "gameId": "12420",
+  "date": "2019-01-21",
+  "divId": 191,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1214",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1213",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#200 - Paul  Flood",
+      "assist1": "#6 - Bob  Friess",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:37",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#9 - Jospeh  Tierney",
+      "assist1": "#6 - Faraz  Izadi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:05",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#200 - Paul  Flood",
+      "assist1": "#9 - Steve  Tarditi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:43",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#200 - Paul  Flood",
+      "assist1": "#77 - Joanne  Nelson",
+      "assist2": "#71 - Dan  Cosentino"
+    },
+    {
+      "period": "2",
+      "time": "00:07:55",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#22 - Jongjae  Yoo",
+      "assist1": "#17 - Wangjae  Yoo",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#23 - Aaron  Nichels",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:09",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#6 - Bob  Friess",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:44",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#9 - Jospeh  Tierney",
+      "assist1": "#6 - Faraz  Izadi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:54",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#71 - Dan  Cosentino",
+      "assist1": "#200 - Paul  Flood",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:58",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#10 - Chris  Chagnon",
+      "assist1": "#23 - Aaron  Nichels",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:50",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#71 - Dan  Cosentino",
+      "assist1": "#9 - Steve  Tarditi",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "player": "#4 - Paul  Cicchetti",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:35",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "player": "#82 - Tim  Lo",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "player": "#9 - Jospeh  Tierney",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:30",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "player": "#4 - Paul  Cicchetti",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:05",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "player": "#4 - Paul  Cicchetti",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:51",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "player": "#11 - Sam  Marchio",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:51",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "player": "#47 - Rob  Shulman",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:43:38.553Z"
+}

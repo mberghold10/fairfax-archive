@@ -1,0 +1,145 @@
+{
+  "gameId": "1439",
+  "date": "2024-05-15",
+  "divId": 285,
+  "seasonName": "Winter 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1750",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1749",
+    "name": "Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:21",
+      "team": {
+        "teamId": "1749",
+        "name": "Punishers"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#12 - Dave  OMally",
+      "assist2": "#40 - Matt  Mickelson"
+    },
+    {
+      "period": "1",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "1749",
+        "name": "Punishers"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": "#5 - Mike  Jones",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:32",
+      "team": {
+        "teamId": "1749",
+        "name": "Punishers"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": "#8 - Grant  Dougans"
+    },
+    {
+      "period": "3",
+      "time": "00:12:06",
+      "team": {
+        "teamId": "1749",
+        "name": "Punishers"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": "#12 - Dave  OMally"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "1750",
+        "name": "Nortec"
+      },
+      "player": "#5 - Peter  Boone",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:36",
+      "team": {
+        "teamId": "1750",
+        "name": "Nortec"
+      },
+      "player": "#8 - Mike  Carr",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "1750",
+        "name": "Nortec"
+      },
+      "player": "#55 - Tim  Dutcher",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:07",
+      "team": {
+        "teamId": "1750",
+        "name": "Nortec"
+      },
+      "player": "#6 - Steve  Barker",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:51",
+      "team": {
+        "teamId": "1749",
+        "name": "Punishers"
+      },
+      "player": "#1 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:22:45.198Z"
+}

@@ -1,0 +1,167 @@
+{
+  "gameId": "19064",
+  "date": "2026-04-18",
+  "divId": 326,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2010",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "2023",
+    "name": "D Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#77 - Ryan  Crook",
+      "assist1": "#8 - Jason  Eister",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "2023",
+        "name": "D Punishers"
+      },
+      "scorer": "#13 - Gabi  Wind",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": "#35 - Jeff  Colwell"
+    },
+    {
+      "period": "2",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "2023",
+        "name": "D Punishers"
+      },
+      "scorer": "#44 - Sean  Cullen",
+      "assist1": "#14 - Richard  Cole",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:45",
+      "team": {
+        "teamId": "2023",
+        "name": "D Punishers"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:15",
+      "team": {
+        "teamId": "2023",
+        "name": "D Punishers"
+      },
+      "scorer": "#72 - Alex  Cordon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:24",
+      "team": {
+        "teamId": "2023",
+        "name": "D Punishers"
+      },
+      "scorer": "#13 - Gabi  Wind",
+      "assist1": "#72 - Alex  Cordon",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "2023",
+        "name": "D Punishers"
+      },
+      "player": "#35 - Jeff  Colwell",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "2023",
+        "name": "D Punishers"
+      },
+      "player": "#72 - Alex  Cordon",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:36",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:54",
+      "team": {
+        "teamId": "2023",
+        "name": "D Punishers"
+      },
+      "player": "#14 - Richard  Cole",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:06:12.242Z"
+}

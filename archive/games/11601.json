@@ -1,0 +1,182 @@
+{
+  "gameId": "11601",
+  "date": "2018-06-19",
+  "divId": 182,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1159",
+    "name": "Senators"
+  },
+  "away": {
+    "teamId": "1158",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "scorer": "#71 - Mike  McLenahar",
+      "assist1": "#10 - Rich  Scigaj",
+      "assist2": "#92 - Bryan  Diner"
+    },
+    {
+      "period": "1",
+      "time": "00:06:40",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#22 - Charlie  Campbell",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:59",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#13 - Phil  Wind",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:56",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "scorer": "#33 - Dmirtiy  Achapkin",
+      "assist1": "#2 - Jen  Grotpeter",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:04",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#19 - Ira  Keltz",
+      "assist1": "#24 - Mike  Duell",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:45",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "player": "#50 - Lorin  Randall",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "player": "#33 - Dmirtiy  Achapkin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:58",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "player": "#92 - Bryan  Diner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:33",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "player": "#22 - Charlie  Campbell",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:45",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "player": "#62 - Phil  Tivel",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "player": "#2 - Jen  Grotpeter",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:02:43",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "player": "#98 - Bob  Shaw",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:32:27.690Z"
+}

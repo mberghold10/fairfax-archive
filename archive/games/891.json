@@ -1,0 +1,226 @@
+{
+  "gameId": "891",
+  "date": "2018-04-22",
+  "divId": 176,
+  "seasonName": "Winter 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1121",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1125",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#10 - Chris  Chagnon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:20",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#10 - Chris  Chagnon",
+      "assist1": "#72 - Kyle  Brosnan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:29",
+      "team": {
+        "teamId": "1125",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#20 - Jeff  Carter",
+      "assist1": "#42 - Adam  Russell",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#22 - Jongjae  Yoo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:24",
+      "team": {
+        "teamId": "1125",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#9 - Steve  Tarditi",
+      "assist1": "#71 - Dan  Cosentino",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#22 - Jongjae  Yoo",
+      "assist1": "#74 - Jeff  Chistolini",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:43",
+      "team": {
+        "teamId": "1125",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#9 - Steve  Tarditi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:27",
+      "team": {
+        "teamId": "1125",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#9 - Steve  Tarditi",
+      "assist1": "#6 - Bob  Friess",
+      "assist2": "#71 - Dan  Cosentino"
+    },
+    {
+      "period": "4",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#22 - Jongjae  Yoo",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "player": "#4 - John  Dandeneau",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "1125",
+        "name": "Blue Crabs"
+      },
+      "player": "#42 - Adam  Russell",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:53",
+      "team": {
+        "teamId": "1125",
+        "name": "Blue Crabs"
+      },
+      "player": "#42 - Adam  Russell",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:51",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "player": "#82 - Tim  Lo",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:43",
+      "team": {
+        "teamId": "1125",
+        "name": "Blue Crabs"
+      },
+      "player": "#16 - Nurali  Jamani",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:04:32",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "player": "#11 - Sam  Marchio",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "player": "#82 - Tim  Lo",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:26:05.931Z"
+}

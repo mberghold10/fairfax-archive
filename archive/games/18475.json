@@ -1,0 +1,121 @@
+{
+  "gameId": "18475",
+  "date": "2025-10-06",
+  "divId": 314,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1923",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1920",
+    "name": "Alers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:23",
+      "team": {
+        "teamId": "1923",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#19 - Joe  Houlsey",
+      "assist1": "#14 - Lee  Molina",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:21",
+      "team": {
+        "teamId": "1923",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#14 - Lee  Molina",
+      "assist1": "#27 - Steven  Darrow",
+      "assist2": "#35 - Peter  Molnar"
+    },
+    {
+      "period": "3",
+      "time": "00:02:17",
+      "team": {
+        "teamId": "1920",
+        "name": "Alers"
+      },
+      "scorer": "#34 - William  Happ",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "1923",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#16 - Cullen  Finley",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:46",
+      "team": {
+        "teamId": "1923",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#11 - Gary  Caley",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:43",
+      "team": {
+        "teamId": "1920",
+        "name": "Alers"
+      },
+      "player": "#8 - Tim  Lo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:48",
+      "team": {
+        "teamId": "1923",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#14 - Lee  Molina",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:52:44.238Z"
+}

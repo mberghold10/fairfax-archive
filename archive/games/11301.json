@@ -1,0 +1,93 @@
+{
+  "gameId": "11301",
+  "date": "2018-03-15",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1096",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1095",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:25",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "scorer": "#25 - Malcolm  Hyson",
+      "assist1": "#8 - Dan  Brehm",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:49",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Andy  Taylor",
+      "assist1": "#25 - Malcolm  Hyson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:13",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Andy  Taylor",
+      "assist1": "#55 - Joel  Whitney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:56",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "scorer": "#7 - Brendan  Ford",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:27",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "player": "#32 - Phil  Antoun",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:20:47.095Z"
+}

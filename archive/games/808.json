@@ -1,0 +1,130 @@
+{
+  "gameId": "808",
+  "date": "2017-04-01",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1023",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1024",
+    "name": "Bad Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:28",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#99 - Jon  Davoren",
+      "assist1": "#18 - Pete  Poczatek",
+      "assist2": "#77 - Caleb  Sohl"
+    },
+    {
+      "period": "1",
+      "time": "00:06:59",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#33 - Morgan  Freeman",
+      "assist1": "#24 - Thomas  OConnor",
+      "assist2": "#44 - John  Dandeneau"
+    },
+    {
+      "period": "2",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "scorer": "#3 - Frank  Thomason",
+      "assist1": "#49 - Romano  Dickerson",
+      "assist2": "#47 - Jeff  Urlwin"
+    },
+    {
+      "period": "3",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#24 - Thomas  OConnor",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:03",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#13 - Shane  Mitchell",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:49",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "player": "#13 - Shane  Mitchell",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "player": "#32 - Brian  Freeman",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "player": "#32 - Brian  Freeman",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:05:22.178Z"
+}

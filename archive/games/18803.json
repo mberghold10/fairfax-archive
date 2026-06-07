@@ -1,0 +1,202 @@
+{
+  "gameId": "18803",
+  "date": "2026-02-08",
+  "divId": 326,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2009",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "2015",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "2015",
+        "name": "Islanders"
+      },
+      "scorer": "#41 - Dave  Armstrong",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "scorer": "#24 - Grant  Moher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "scorer": "#15 - Mike  Hempen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:27",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "scorer": "#66 - Chris  Yoko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "2015",
+        "name": "Islanders"
+      },
+      "scorer": "#79 - Dave  Gerstner",
+      "assist1": "#39 - Toby  Hedger",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "scorer": "#24 - Grant  Moher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:55",
+      "team": {
+        "teamId": "2015",
+        "name": "Islanders"
+      },
+      "scorer": "#41 - Dave  Armstrong",
+      "assist1": "#39 - Toby  Hedger",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:31",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "scorer": "#25 - Malcolm  Hyson",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:54",
+      "team": {
+        "teamId": "2015",
+        "name": "Islanders"
+      },
+      "player": "#74 - Mike  Brewin",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:03",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "player": "#57 - Chris  McNabney",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:32",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "player": "#66 - Chris  Yoko",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "player": "#66 - Chris  Yoko",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "2015",
+        "name": "Islanders"
+      },
+      "player": "#9 - Rick  Cole",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:05:43.188Z"
+}

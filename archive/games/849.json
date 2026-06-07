@@ -1,0 +1,158 @@
+{
+  "gameId": "849",
+  "date": "2018-04-13",
+  "divId": 170,
+  "seasonName": "Winter 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1086",
+    "name": "ers"
+  },
+  "away": {
+    "teamId": "1089",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:01",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "scorer": "#48 - Arturas  Vovobjovas",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "scorer": "#18 - Dave  Leadston",
+      "assist1": "#14 - Dennis  Nayandin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "scorer": "#16 - Bill  Thompson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "scorer": "#7 - John  Dagley",
+      "assist1": "#21 - Mark  Johnston",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "player": "#41 - Eugene  Livsics",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:37",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "player": "#41 - Eugene  Livsics",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:54",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "player": "#16 - Bill  Thompson",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:37",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "player": "#66 - Sean  Magrann",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "player": "#7 - John  Dagley",
+      "pim": 5,
+      "offense": "intent to injure",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "player": "#7 - John  Dagley",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:18:20.661Z"
+}

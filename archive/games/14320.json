@@ -1,0 +1,128 @@
+{
+  "gameId": "14320",
+  "date": "2021-09-18",
+  "divId": 234,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1460",
+    "name": "Toronto"
+  },
+  "away": {
+    "teamId": "1458",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 4,
+      "p3": 0,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "1458",
+        "name": "Lightning"
+      },
+      "scorer": "#55 - Nate  Rozelle",
+      "assist1": "#7 - Ian  Stack",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:02",
+      "team": {
+        "teamId": "1458",
+        "name": "Lightning"
+      },
+      "scorer": "#4 - Matt  Gelman",
+      "assist1": "#46 - Charlie  Fancher",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:49",
+      "team": {
+        "teamId": "1458",
+        "name": "Lightning"
+      },
+      "scorer": "#88 - Dan  Lange",
+      "assist1": "#33 - Mike  Wagner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:45",
+      "team": {
+        "teamId": "1458",
+        "name": "Lightning"
+      },
+      "scorer": "#25 - Pat  McMahon",
+      "assist1": "#36 - Mo  Efimba",
+      "assist2": "#55 - Nate  Rozelle"
+    },
+    {
+      "period": "2",
+      "time": "00:04:24",
+      "team": {
+        "teamId": "1458",
+        "name": "Lightning"
+      },
+      "scorer": "#25 - Pat  McMahon",
+      "assist1": "#36 - Mo  Efimba",
+      "assist2": "#10 - Bud  DaRin"
+    },
+    {
+      "period": "2",
+      "time": "00:08:12",
+      "team": {
+        "teamId": "1458",
+        "name": "Lightning"
+      },
+      "scorer": "#88 - Dan  Lange",
+      "assist1": "#46 - Charlie  Fancher",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:51",
+      "team": {
+        "teamId": "1458",
+        "name": "Lightning"
+      },
+      "player": "#10 - Bud  DaRin",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:00",
+      "team": {
+        "teamId": "1460",
+        "name": "Toronto"
+      },
+      "player": "#19 - Bryan  Moffett",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:26:35.021Z"
+}

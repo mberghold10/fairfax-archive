@@ -1,0 +1,198 @@
+{
+  "gameId": "11233",
+  "date": "2018-02-23",
+  "divId": 170,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1087",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "1088",
+    "name": "Georgetown"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:31",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "scorer": "#24 - Jamie  Belcastro",
+      "assist1": "#2 - Peter  OKeefe",
+      "assist2": "#93 - Trygve  Olson"
+    },
+    {
+      "period": "1",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "1088",
+        "name": "Georgetown"
+      },
+      "scorer": "#3 - Alex  Oster",
+      "assist1": "#44 - Mark  Spencer",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "scorer": "#25 - Bob  Banasik",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1088",
+        "name": "Georgetown"
+      },
+      "scorer": "#10 - Jeremy  Altman",
+      "assist1": "#68 - Daniel  Milzman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1088",
+        "name": "Georgetown"
+      },
+      "scorer": "#23 - Lucas  Karron",
+      "assist1": "#65 - Sydney  Karnovsky",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:16",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#2 - Peter  OKeefe",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:43",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "scorer": "#18 - Peter  Dimmick",
+      "assist1": "#2 - Peter  OKeefe",
+      "assist2": "#93 - Trygve  Olson"
+    },
+    {
+      "period": "3",
+      "time": "00:08:10",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "scorer": "#24 - Jamie  Belcastro",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:31",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "scorer": "#19 - Michael  Carr",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:59",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "player": "#27 - Chris  Balsley",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "player": "#2 - Peter  OKeefe",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:58",
+      "team": {
+        "teamId": "1088",
+        "name": "Georgetown"
+      },
+      "player": "#10 - Jeremy  Altman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1088",
+        "name": "Georgetown"
+      },
+      "player": "#3 - Alex  Oster",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:18:07.617Z"
+}

@@ -1,0 +1,189 @@
+{
+  "gameId": "15131",
+  "date": "2022-08-01",
+  "divId": 250,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1545",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1544",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:17",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": "#68 - Tommy  Reynolds",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:08",
+      "team": {
+        "teamId": "1544",
+        "name": "Avalanche"
+      },
+      "scorer": "#70 - John  Dagley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:09",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#82 - Justin  MacDonald",
+      "assist1": "#68 - Tommy  Reynolds",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "1544",
+        "name": "Avalanche"
+      },
+      "scorer": "#33 - Steven  Terenzlo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#6 - Kyle  Herring",
+      "assist1": "#68 - Tommy  Reynolds",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:34",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:04",
+      "team": {
+        "teamId": "1544",
+        "name": "Avalanche"
+      },
+      "scorer": "#33 - Steven  Terenzlo",
+      "assist1": "#70 - John  Dagley",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:58",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "player": "#16 - Greg  Pomeroy",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:54",
+      "team": {
+        "teamId": "1544",
+        "name": "Avalanche"
+      },
+      "player": "#84 - Austin  Golden",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:11",
+      "team": {
+        "teamId": "1544",
+        "name": "Avalanche"
+      },
+      "player": "#70 - John  Dagley",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:11",
+      "team": {
+        "teamId": "1544",
+        "name": "Avalanche"
+      },
+      "player": "#70 - John  Dagley",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "player": "#6 - Kyle  Herring",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:41:14.729Z"
+}

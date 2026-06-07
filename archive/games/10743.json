@@ -1,0 +1,104 @@
+{
+  "gameId": "10743",
+  "date": "2017-07-08",
+  "divId": 164,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1053",
+    "name": "Hooligans"
+  },
+  "away": {
+    "teamId": "1049",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:02:10",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#20 - Paul  Flood",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "scorer": "#8 - Phil  Antoun",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "scorer": "#8 - Phil  Antoun",
+      "assist1": "#28 - Doug  Branton",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:03",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "scorer": "#4 - Peter  Van Aartrijk",
+      "assist1": "#18 - Peter  Poczatek",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": "#91 - Ken  Degrave",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:37",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "player": "#24 - Brian  Crossin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:10:50.997Z"
+}

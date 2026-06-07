@@ -1,0 +1,82 @@
+{
+  "gameId": "18854",
+  "date": "2026-01-31",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2004",
+    "name": "Hershey Beers"
+  },
+  "away": {
+    "teamId": "2003",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "scorer": "#44 - Matt  Waggoner",
+      "assist1": "#10 - John  Wainwright",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:01",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#14 - Mohan  Sud",
+      "assist1": "#87 - Feng  Lan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:12",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "scorer": "#77 - Steven  Baugh",
+      "assist1": "#93 - Chris  Conley",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:02",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "player": "#24 - Mike  Plourde",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:08:06.283Z"
+}

@@ -1,0 +1,180 @@
+{
+  "gameId": "16522",
+  "date": "2023-12-01",
+  "divId": 280,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1722",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1725",
+    "name": "Bottle Caps"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:48",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#13 - Joe  Carroll",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:36",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#13 - Joe  Carroll",
+      "assist1": "#16 - Cullen  Finley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#5 - Mike  Fottrell",
+      "assist1": "#13 - Joe  Carroll",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1725",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#20 - David  Goldstein",
+      "assist1": "#19 - Colin  Bartlett",
+      "assist2": "#77 - Trevor  Boynton"
+    },
+    {
+      "period": "2",
+      "time": "00:11:09",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#7 - Graham  Eddy",
+      "assist1": "#13 - Joe  Carroll",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:57",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#5 - Mike  Fottrell",
+      "assist1": "#33 - Scott  Coco",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#16 - Cullen  Finley",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:53",
+      "team": {
+        "teamId": "1725",
+        "name": "Bottle Caps"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#16 - Cullen  Finley",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#88 - Jason  Searight",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1725",
+        "name": "Bottle Caps"
+      },
+      "player": "#17 - Marc  Patience",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:06",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#43 - Alex  Langsam",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:16:32.213Z"
+}

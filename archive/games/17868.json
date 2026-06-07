@@ -1,0 +1,263 @@
+{
+  "gameId": "17868",
+  "date": "2025-03-10",
+  "divId": 301,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1850",
+    "name": "Windbreakers"
+  },
+  "away": {
+    "teamId": "1851",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 5,
+      "p3": 1,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "scorer": "#72 - Alex  Cardon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "1850",
+        "name": "Windbreakers"
+      },
+      "scorer": "#13 - Brian  Harmon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:53",
+      "team": {
+        "teamId": "1850",
+        "name": "Windbreakers"
+      },
+      "scorer": "#13 - Brian  Harmon",
+      "assist1": "#44 - Kyle  McGraw",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:54",
+      "team": {
+        "teamId": "1850",
+        "name": "Windbreakers"
+      },
+      "scorer": "#44 - Kyle  McGraw",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:09",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "scorer": "#72 - Alex  Cardon",
+      "assist1": "#17 - Dan  Pol",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:46",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "scorer": "#17 - Dan  Pol",
+      "assist1": "#15 - Tom  Sgroi",
+      "assist2": "#22 - Ken  Oschner"
+    },
+    {
+      "period": "2",
+      "time": "00:07:56",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": "#72 - Alex  Cardon",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:49",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:23",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#72 - Alex  Cardon",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:31",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "scorer": "#72 - Alex  Cardon",
+      "assist1": "#15 - Tom  Sgroi",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "1850",
+        "name": "Windbreakers"
+      },
+      "player": "#44 - Kyle  McGraw",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:42",
+      "team": {
+        "teamId": "1850",
+        "name": "Windbreakers"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:33",
+      "team": {
+        "teamId": "1850",
+        "name": "Windbreakers"
+      },
+      "player": "#44 - Kyle  McGraw",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:33",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "player": "#12 - David  OMalley",
+      "pim": 5,
+      "offense": "head contact",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:33",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "player": "#12 - David  OMalley",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1850",
+        "name": "Windbreakers"
+      },
+      "player": "#92 - Maddy  Padgett",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "player": "#44 - Sean  Cullen",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "1850",
+        "name": "Windbreakers"
+      },
+      "player": "#33 - Juliana  Brotzman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:43",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "player": "#44 - Sean  Cullen",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:39:06.844Z"
+}

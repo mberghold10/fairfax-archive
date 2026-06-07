@@ -1,0 +1,165 @@
+{
+  "gameId": "18831",
+  "date": "2026-03-03",
+  "divId": 327,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2020",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "2017",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:50",
+      "team": {
+        "teamId": "2017",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#81 - Rob  Katz",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "2017",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#81 - Rob  Katz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:01",
+      "team": {
+        "teamId": "2020",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#77 - Paul  Cicchetti",
+      "assist1": "#79 - Jonah  Goobic",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:09",
+      "team": {
+        "teamId": "2017",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#5 - Andy  Loggia",
+      "assist2": "#67 - Drew  Miller"
+    },
+    {
+      "period": "3",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "2017",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#25 - Neil  Dsouza",
+      "assist2": "#44 - Carlos  Gaither"
+    },
+    {
+      "period": "3",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "2017",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#29 - Bill  Heyse",
+      "assist1": "#44 - Carlos  Gaither",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "2017",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#81 - Rob  Katz",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:54",
+      "team": {
+        "teamId": "2020",
+        "name": "Maple Leafs"
+      },
+      "player": "#8 - Elliott  Yang",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "2020",
+        "name": "Maple Leafs"
+      },
+      "player": "#23 - Trevor  Blair",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "2020",
+        "name": "Maple Leafs"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:08",
+      "team": {
+        "teamId": "2017",
+        "name": "Ice Dogs"
+      },
+      "player": "#5 - Andy  Loggia",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:07:11.623Z"
+}

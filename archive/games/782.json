@@ -1,0 +1,189 @@
+{
+  "gameId": "782",
+  "date": "2017-03-25",
+  "divId": 156,
+  "seasonName": "Winter 2016",
+  "mode": "playoff",
+  "home": {
+    "teamId": "999",
+    "name": "Crabs"
+  },
+  "away": {
+    "teamId": "1002",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:41",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#20 - Scott  Forbes",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#24 - Mike  Duell",
+      "assist1": "#98 - Bob  Shaw",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:58",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#19 - Ira  Keltz",
+      "assist1": "#37 - Nick  Desport",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#24 - Mike  Duell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:30",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#24 - Mike  Duell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#10 - Matt  Johnson",
+      "assist1": "#57 - Howard  Uman",
+      "assist2": "#24 - Mike  Duell"
+    },
+    {
+      "period": "3",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "999",
+        "name": "Crabs"
+      },
+      "scorer": "#99 - Jason  Hernandez",
+      "assist1": "#36 - Gisle  Sorli",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:33",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#52 - Alan  Dappen",
+      "assist1": "#20 - Scott  Forbes",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "999",
+        "name": "Crabs"
+      },
+      "player": "#74 - Russell  Smith",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "999",
+        "name": "Crabs"
+      },
+      "player": "#40 - Hank  Kim",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "999",
+        "name": "Crabs"
+      },
+      "player": "#19 - Angelo  Ponirakis",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#8 - Bob  Shay",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:53",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#98 - Bob  Shaw",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:01:09.385Z"
+}

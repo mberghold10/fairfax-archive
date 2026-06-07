@@ -1,0 +1,160 @@
+{
+  "gameId": "12135",
+  "date": "2018-12-05",
+  "divId": 189,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1201",
+    "name": "Kings"
+  },
+  "away": {
+    "teamId": "1202",
+    "name": "Outlaws"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:44",
+      "team": {
+        "teamId": "1201",
+        "name": "Kings"
+      },
+      "scorer": "#88 - Chris  Peterkin",
+      "assist1": "#7 - Mike  Hoard",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:00",
+      "team": {
+        "teamId": "1201",
+        "name": "Kings"
+      },
+      "scorer": "#88 - Chris  Peterkin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:43",
+      "team": {
+        "teamId": "1201",
+        "name": "Kings"
+      },
+      "scorer": "#13 - Vincent  Coffey",
+      "assist1": "#5 - Andy  Craighill",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "1202",
+        "name": "Outlaws"
+      },
+      "player": "#10 - Mike  Boyajian",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:09",
+      "team": {
+        "teamId": "1202",
+        "name": "Outlaws"
+      },
+      "player": "#0 - Trey  Perrone",
+      "pim": 2,
+      "offense": "board",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:09",
+      "team": {
+        "teamId": "1202",
+        "name": "Outlaws"
+      },
+      "player": "#0 - Trey  Perrone",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:24",
+      "team": {
+        "teamId": "1202",
+        "name": "Outlaws"
+      },
+      "player": "#21 - Jerry  Achatz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1202",
+        "name": "Outlaws"
+      },
+      "player": "#21 - Jerry  Achatz",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "1201",
+        "name": "Kings"
+      },
+      "player": "#64 - Derek  Bluth",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:19",
+      "team": {
+        "teamId": "1202",
+        "name": "Outlaws"
+      },
+      "player": "#19 - Jason  Young",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:41:02.070Z"
+}

@@ -1,0 +1,252 @@
+{
+  "gameId": "13186",
+  "date": "2019-09-25",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1264",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1262",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 1,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:41",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#92 - Matt  Frazza",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#18 - Samson  Chu",
+      "assist2": "#51 - Tyler  Kniaz"
+    },
+    {
+      "period": "1",
+      "time": "00:12:48",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#36 - Bill  Ludke",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:36",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": "#96 - Nick  Salvado",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:23",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "scorer": "#13 - Kevin  Trac",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": "#9 - Jason  Murphy"
+    },
+    {
+      "period": "3",
+      "time": "00:07:53",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#19 - Joe  Dunn",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:19",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#28 - Alex  Henry",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#23 - Gordon  Scott",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:03",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#24 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "player": "#8 - Brenden  Millice",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:44",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#38 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:14",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#38 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:50",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#38 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:54",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "player": "#14 - Royce  Walters",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:54:17.294Z"
+}

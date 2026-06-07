@@ -1,0 +1,93 @@
+{
+  "gameId": "12144",
+  "date": "2018-11-03",
+  "divId": 190,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1209",
+    "name": "Canucks"
+  },
+  "away": {
+    "teamId": "1204",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1204",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": "#18 - Michael  Dewhirst",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:16",
+      "team": {
+        "teamId": "1204",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:26",
+      "team": {
+        "teamId": "1204",
+        "name": "Chiefs"
+      },
+      "scorer": "#41 - Jeff  Goff",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:13",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "scorer": "#91 - Chris  Callanan",
+      "assist1": "#87 - Nate  Morello",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:36",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "player": "#4 - Lou  Mayo",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:41:50.062Z"
+}

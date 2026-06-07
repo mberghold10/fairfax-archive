@@ -1,0 +1,117 @@
+{
+  "gameId": "12499",
+  "date": "2019-02-24",
+  "divId": 193,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1224",
+    "name": "Triassic Puck"
+  },
+  "away": {
+    "teamId": "1226",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1224",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#10 - Radoslaw  Kaczor",
+      "assist1": "#82 - Chris  Richter",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:36",
+      "team": {
+        "teamId": "1224",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#10 - Radoslaw  Kaczor",
+      "assist1": "#82 - Chris  Richter",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:38",
+      "team": {
+        "teamId": "1224",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#82 - Chris  Richter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:48",
+      "team": {
+        "teamId": "1224",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#82 - Chris  Richter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:43",
+      "team": {
+        "teamId": "1224",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#7 - Michael  Ambrosino",
+      "assist1": "#10 - Radoslaw  Kaczor",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:38",
+      "team": {
+        "teamId": "1224",
+        "name": "Triassic Puck"
+      },
+      "player": "#10 - Radoslaw  Kaczor",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1224",
+        "name": "Triassic Puck"
+      },
+      "player": "#10 - Radoslaw  Kaczor",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:46:38.680Z"
+}

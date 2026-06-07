@@ -1,0 +1,145 @@
+{
+  "gameId": "18275",
+  "date": "2025-07-24",
+  "divId": 316,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1932",
+    "name": "Boston"
+  },
+  "away": {
+    "teamId": "1937",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:35",
+      "team": {
+        "teamId": "1932",
+        "name": "Boston"
+      },
+      "scorer": "#19 - Mike  Carr",
+      "assist1": "#110 - Brian  Maloney",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:35",
+      "team": {
+        "teamId": "1932",
+        "name": "Boston"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#91 - Rob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1932",
+        "name": "Boston"
+      },
+      "scorer": "#91 - Rob  Fischer",
+      "assist1": "#19 - Mike  Carr",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:56",
+      "team": {
+        "teamId": "1932",
+        "name": "Boston"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#110 - Brian  Maloney",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1937",
+        "name": "Coyotes"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:33",
+      "team": {
+        "teamId": "1937",
+        "name": "Coyotes"
+      },
+      "player": "#4 - Paul  Cicchetti",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1932",
+        "name": "Boston"
+      },
+      "player": "#33 - Jarrad  Brovost",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1937",
+        "name": "Coyotes"
+      },
+      "player": "#44 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "1937",
+        "name": "Coyotes"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:54:34.019Z"
+}

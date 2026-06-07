@@ -1,0 +1,119 @@
+{
+  "gameId": "12780",
+  "date": "2019-05-28",
+  "divId": 201,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1280",
+    "name": "Beltway Butchers"
+  },
+  "away": {
+    "teamId": "1279",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:36",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "scorer": "#6 - Kelly  Harmon",
+      "assist1": "#13 - Brian  Harmon",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#88 - TJ  Doherty",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "scorer": "#13 - Brian  Harmon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:13",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#87 - Erik  Haas",
+      "assist1": "#88 - TJ  Doherty",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "player": "#10 - Cody  Brickey",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "player": "#13 - Brian  Harmon",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:00:34",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "player": "#10 - Cody  Brickey",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:56:18.266Z"
+}

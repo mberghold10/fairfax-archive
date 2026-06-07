@@ -1,0 +1,310 @@
+/*
+ * Fairfax Ice Arena Archive - Global Styles
+ *
+ * Imports theme.css for color variables and base resets.
+ * Adds responsive layout, typography scaling, utility classes,
+ * table and form base styles.
+ *
+ * No logos or team-specific imagery — purely typographic design.
+ */
+
+@import './theme.css';
+
+/* ===== Responsive Breakpoints Reference =====
+ * Mobile:    320px – 767px
+ * Tablet:    768px – 1023px
+ * Desktop:   1024px – 1439px
+ * Large:     1440px – 2559px
+ * Ultrawide: 2560px+
+ */
+
+/* ===== Layout Container ===== */
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin-inline: auto;
+  padding-inline: var(--spacing-md);
+}
+
+@media (min-width: 768px) {
+  .container {
+    padding-inline: var(--spacing-lg);
+  }
+}
+
+@media (min-width: 1440px) {
+  .container {
+    padding-inline: var(--spacing-xl);
+  }
+}
+
+/* ===== Responsive Typography Scaling ===== */
+
+/* Mobile-first base (320px+) */
+html {
+  font-size: 14px;
+}
+
+/* Tablet (768px+) */
+@media (min-width: 768px) {
+  html {
+    font-size: 15px;
+  }
+}
+
+/* Desktop (1024px+) */
+@media (min-width: 1024px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+/* Large (1440px+) */
+@media (min-width: 1440px) {
+  html {
+    font-size: 17px;
+  }
+}
+
+/* Ultrawide (2560px+) */
+@media (min-width: 2560px) {
+  html {
+    font-size: 18px;
+  }
+}
+
+/* Responsive heading sizes for mobile */
+@media (max-width: 767px) {
+  h1 { font-size: var(--font-size-2xl); }
+  h2 { font-size: var(--font-size-xl); }
+  h3 { font-size: var(--font-size-lg); }
+  h4 { font-size: var(--font-size-base); }
+}
+
+/* ===== Accessibility Utility Classes ===== */
+
+/* Screen reader only — visually hidden but accessible to assistive tech */
+.sr-only,
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* ===== Focus Styles ===== */
+:focus-visible {
+  outline: 2px solid var(--color-brand-blue);
+  outline-offset: 2px;
+}
+
+/* ===== Skip to Content Link ===== */
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: var(--spacing-md);
+  padding: var(--spacing-sm) var(--spacing-md);
+  background: var(--color-button-bg);
+  color: var(--color-button-text);
+  border-radius: var(--radius-md);
+  z-index: 9999;
+  font-weight: var(--font-weight-semibold);
+  transition: top var(--transition-fast);
+}
+
+.skip-link:focus {
+  top: var(--spacing-sm);
+}
+
+/* ===== Table Base Styles ===== */
+
+/* Responsive table wrapper with horizontal scroll */
+.table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--font-size-sm);
+  white-space: nowrap;
+}
+
+thead {
+  background-color: var(--color-table-header-bg);
+  color: var(--color-table-header-text);
+}
+
+th {
+  padding: var(--spacing-sm) var(--spacing-md);
+  text-align: left;
+  font-weight: var(--font-weight-semibold);
+  font-size: var(--font-size-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+td {
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-bottom: 1px solid var(--color-table-border);
+}
+
+tbody tr:nth-child(even) {
+  background-color: var(--color-table-row-alt);
+}
+
+tbody tr:hover {
+  background-color: var(--color-bg-hover);
+}
+
+/* Numeric columns right-aligned */
+th[data-type="number"],
+td[data-type="number"] {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ===== Form Input Base Styles ===== */
+
+input,
+select,
+textarea {
+  font-family: inherit;
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-base);
+  color: var(--color-text-primary);
+  background-color: var(--color-bg-primary);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: var(--spacing-sm) var(--spacing-md);
+  transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  border-color: var(--color-brand-blue);
+  box-shadow: 0 0 0 3px rgba(0, 63, 127, 0.15);
+  outline: none;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: var(--color-text-muted);
+}
+
+/* Search input */
+input[type="search"] {
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+input[type="search"]::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+}
+
+/* Disabled state */
+input:disabled,
+select:disabled,
+textarea:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  background-color: var(--color-bg-secondary);
+}
+
+/* ===== Button Base ===== */
+
+button {
+  font-family: inherit;
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  line-height: var(--line-height-base);
+  padding: var(--spacing-sm) var(--spacing-md);
+  border: none;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: background-color var(--transition-fast), color var(--transition-fast);
+}
+
+button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* Primary button */
+.btn-primary {
+  background-color: var(--color-button-bg);
+  color: var(--color-button-text);
+}
+
+.btn-primary:hover:not(:disabled) {
+  background-color: var(--color-button-hover);
+}
+
+/* Secondary/outline button */
+.btn-secondary {
+  background-color: transparent;
+  color: var(--color-brand-blue);
+  border: 1px solid var(--color-brand-blue);
+}
+
+.btn-secondary:hover:not(:disabled) {
+  background-color: var(--color-brand-blue);
+  color: var(--color-button-text);
+}
+
+/* ===== Responsive Utilities ===== */
+
+/* Hide on mobile */
+@media (max-width: 767px) {
+  .hide-mobile {
+    display: none;
+  }
+}
+
+/* Hide on desktop */
+@media (min-width: 768px) {
+  .hide-desktop {
+    display: none;
+  }
+}
+
+/* ===== Page Layout ===== */
+
+.page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.page-content {
+  flex: 1;
+  padding-block: var(--spacing-xl);
+}
+
+@media (max-width: 767px) {
+  .page-content {
+    padding-block: var(--spacing-lg);
+  }
+}
+
+/* ===== Reduced Motion ===== */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "gameId": "10581",
+  "date": "2017-05-08",
+  "divId": 166,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1065",
+    "name": "Canucks"
+  },
+  "away": {
+    "teamId": "1062",
+    "name": "BlueJacket Capitals"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:59",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#68 - Bill  Houston",
+      "assist1": "#80 - Matt  Rogers",
+      "assist2": "#88 - Brian  Ray"
+    },
+    {
+      "period": "1",
+      "time": "00:04:56",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": "#19 - JP  Klousia",
+      "assist2": "#25 - Stan  Torgovitsky"
+    },
+    {
+      "period": "1",
+      "time": "00:12:19",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#88 - Brian  Ray",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#17 - Bill  DeMaso",
+      "assist1": "#92 - Darren  Wellner",
+      "assist2": "#12 - Trent  Papke"
+    },
+    {
+      "period": "2",
+      "time": "00:04:54",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#19 - JP  Klousia",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:08",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#17 - Bill  DeMaso",
+      "assist1": "#92 - Darren  Wellner",
+      "assist2": "#15 - Bob  Guckian"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:01",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "player": "#68 - Bill  Houston",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "player": "#91 - Chris  Callanan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:08",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#77 - Erik  Bergman",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#12 - Trent  Papke",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:58",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#92 - Darren  Wellner",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:26",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#52 - Allan  Dappen",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:13:00.238Z"
+}

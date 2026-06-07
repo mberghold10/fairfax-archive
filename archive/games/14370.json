@@ -1,0 +1,152 @@
+{
+  "gameId": "14370",
+  "date": "2021-09-26",
+  "divId": 238,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1488",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1486",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:54",
+      "team": {
+        "teamId": "1488",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#18 - Lee  Freedman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:51",
+      "team": {
+        "teamId": "1488",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:43",
+      "team": {
+        "teamId": "1486",
+        "name": "Thunder"
+      },
+      "scorer": "#29 - James  Kim",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1486",
+        "name": "Thunder"
+      },
+      "scorer": "#5 - Zac  Graber",
+      "assist1": "#45 - Justin  Marks",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1486",
+        "name": "Thunder"
+      },
+      "scorer": "#31 - Zach  Furness",
+      "assist1": "#79 - Sean  Longanecker",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:41",
+      "team": {
+        "teamId": "1486",
+        "name": "Thunder"
+      },
+      "scorer": "#31 - Zach  Furness",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "1486",
+        "name": "Thunder"
+      },
+      "scorer": "#21 - Brendan  Williams",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:36",
+      "team": {
+        "teamId": "1486",
+        "name": "Thunder"
+      },
+      "player": "#45 - Justin  Marks",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:52",
+      "team": {
+        "teamId": "1486",
+        "name": "Thunder"
+      },
+      "player": "#5 - Zac  Graber",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1488",
+        "name": "Blue Dogs"
+      },
+      "player": "#6 - Armand  Alacbay",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:29:42.154Z"
+}

@@ -1,0 +1,106 @@
+{
+  "gameId": "16086",
+  "date": "2023-05-28",
+  "divId": 274,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1691",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1690",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:18:29",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#11 - George  Cernica",
+      "assist1": "#7 - Graham  Eddy",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "scorer": "#71 - Matthew  Robertson",
+      "assist1": "#11 - Mark  Boyd",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:56",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "scorer": "#24 - Michael  Plourde",
+      "assist1": "#37 - Christal  Cudworth",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:59",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "scorer": "#20 - Brendan  Furness",
+      "assist1": "#31 - Zach  Furness",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:36",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "player": "#24 - Michael  Plourde",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:15",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "player": "#23 - Eric  Vanhove",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:09:55.766Z"
+}

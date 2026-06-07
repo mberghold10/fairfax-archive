@@ -1,0 +1,163 @@
+{
+  "gameId": "11230",
+  "date": "2018-02-09",
+  "divId": 170,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1087",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "1086",
+    "name": "ers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:29",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "scorer": "#19 - Joe  Dunn",
+      "assist1": "#24 - Mike  Giardina",
+      "assist2": "#66 - Andy  Heckmann"
+    },
+    {
+      "period": "1",
+      "time": "00:02:55",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:52",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "scorer": "#24 - Jamie  Belcastro",
+      "assist1": "#9 - Tony  Cusumano",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "scorer": "#13 - Mike  Ferrone",
+      "assist1": "#24 - Mike  Giardina",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:56",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "scorer": "#13 - Mike  Ferrone",
+      "assist1": "#15 - Todd  Martin",
+      "assist2": "#21 - Mark  Johnston"
+    },
+    {
+      "period": "2",
+      "time": "00:12:31",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "scorer": "#13 - Mike  Ferrone",
+      "assist1": "#94 - Ken  Braverman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:18",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "scorer": "#44 - Brian  Dutton",
+      "assist1": "#8 - Mark  Chapman",
+      "assist2": "#94 - Ken  Braverman"
+    },
+    {
+      "period": "3",
+      "time": "00:11:55",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "scorer": "#24 - Mike  Giardina",
+      "assist1": "#13 - Mike  Ferrone",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:12",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "player": "#9 - Tony  Cusumano",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "player": "#19 - Joe  Dunn",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:18:05.571Z"
+}

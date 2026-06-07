@@ -1,0 +1,174 @@
+{
+  "gameId": "16839",
+  "date": "2024-04-04",
+  "divId": 282,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1735",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1737",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:16",
+      "team": {
+        "teamId": "1735",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": "#54 - Dan  Bagley"
+    },
+    {
+      "period": "1",
+      "time": "00:06:28",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "scorer": "#79 - Dave  Gerstner",
+      "assist1": "#39 - Steve  Hedger",
+      "assist2": "#93 - Jeff  Nauer"
+    },
+    {
+      "period": "1",
+      "time": "00:08:05",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "scorer": "#77 - Joe  Berret",
+      "assist1": "#39 - Steve  Hedger",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:47",
+      "team": {
+        "teamId": "1735",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#54 - Dan  Bagley",
+      "assist2": "#35 - Ross  Kuhn"
+    },
+    {
+      "period": "2",
+      "time": "00:01:48",
+      "team": {
+        "teamId": "1735",
+        "name": "Team USA"
+      },
+      "scorer": "#54 - Dan  Bagley",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1735",
+        "name": "Team USA"
+      },
+      "scorer": "#54 - Dan  Bagley",
+      "assist1": "#5 - Oleg  Kolodin",
+      "assist2": "#10 - Mike  Brahmey"
+    },
+    {
+      "period": "3",
+      "time": "00:04:19",
+      "team": {
+        "teamId": "1735",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "scorer": "#79 - Dave  Gerstner",
+      "assist1": "#39 - Steve  Hedger",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:41",
+      "team": {
+        "teamId": "1735",
+        "name": "Team USA"
+      },
+      "scorer": "#54 - Dan  Bagley",
+      "assist1": "#35 - Ross  Kuhn",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "1735",
+        "name": "Team USA"
+      },
+      "player": "#10 - Mike  Brahmey",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:47",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "player": "#72 - Josh  Epstein",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "1735",
+        "name": "Team USA"
+      },
+      "player": "#77 - Dan  Miller",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:19:26.086Z"
+}

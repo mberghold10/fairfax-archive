@@ -1,0 +1,82 @@
+{
+  "gameId": "10429",
+  "date": "2017-04-22",
+  "divId": 168,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1074",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1075",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "1075",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": "#89 - Chris  Casselman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:53",
+      "team": {
+        "teamId": "1074",
+        "name": "Dragons"
+      },
+      "scorer": "#15 - Chad  Hargrove",
+      "assist1": "#77 - Dylan  Gerhard",
+      "assist2": "#46 - Chris  Moore"
+    },
+    {
+      "period": "3",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1075",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": "#8 - AJ  Ellis",
+      "assist2": "#54 - Brian  Hensel"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:51",
+      "team": {
+        "teamId": "1074",
+        "name": "Dragons"
+      },
+      "player": "#13 - Jeff  Willard",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:15:14.464Z"
+}

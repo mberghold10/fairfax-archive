@@ -1,0 +1,60 @@
+{
+  "gameId": "10182",
+  "date": "2016-12-10",
+  "divId": 154,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "988",
+    "name": "Knights"
+  },
+  "away": {
+    "teamId": "987",
+    "name": "Englewood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#3 - Mario  Regan",
+      "assist2": "#13 - Bob  Chagnot"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:33",
+      "team": {
+        "teamId": "988",
+        "name": "Knights"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:57:53.255Z"
+}

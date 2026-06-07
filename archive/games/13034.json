@@ -1,0 +1,187 @@
+{
+  "gameId": "13034",
+  "date": "2019-09-10",
+  "divId": 201,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1279",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1280",
+    "name": "Beltway Butchers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 4,
+      "p3": 0,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:04",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "scorer": "#6 - Kelly  Harmon",
+      "assist1": "#13 - Brian  Harmon",
+      "assist2": "#10 - Cody  Brickey"
+    },
+    {
+      "period": "1",
+      "time": "00:10:39",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "scorer": "#10 - Cody  Brickey",
+      "assist1": "#6 - Kelly  Harmon",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:48",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "scorer": "#13 - Brian  Harmon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "scorer": "#12 - Kevin  Bowser",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:50",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "scorer": "#13 - Brian  Harmon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:03",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#23 - Ken  Degrave",
+      "assist1": "#21 - John  Elliott",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:20",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "scorer": "#13 - Brian  Harmon",
+      "assist1": "#12 - Kevin  Bowser",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:33",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#23 - Ken  Degrave",
+      "assist1": "#21 - John  Elliott",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:23",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#18 - Peter  Poczatek",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:24",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "player": "#10 - Cody  Brickey",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:47",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:27",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "player": "#18 - Peter  Poczatek",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:19",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "player": "#21 - John  Elliott",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:57:02.333Z"
+}

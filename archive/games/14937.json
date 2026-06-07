@@ -1,0 +1,119 @@
+{
+  "gameId": "14937",
+  "date": "2022-05-15",
+  "divId": 250,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1545",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1543",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:06:39",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#24 - Brian  Crossin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#16 - Greg  Pomeroy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:52",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#80 - Ryan  Schafer",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": "#24 - Brian  Crossin"
+    },
+    {
+      "period": "3",
+      "time": "00:06:13",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#80 - Ryan  Schafer",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "player": "#80 - Ryan  Schafer",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "player": "#24 - Brian  Crossin",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "player": "#92 - Lens  Desrouleaux",
+      "pim": 2,
+      "offense": "Delay",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:40:40.664Z"
+}

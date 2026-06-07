@@ -1,0 +1,121 @@
+{
+  "gameId": "10663",
+  "date": "2017-06-04",
+  "divId": 169,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1077",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1081",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:16",
+      "team": {
+        "teamId": "1081",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#28 - Michael  Berghold",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:16:09",
+      "team": {
+        "teamId": "1081",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#51 - Michael  McGeever",
+      "assist1": "#38 - Keigh  Forsythe",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:48",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "scorer": "#22 - Patrick  Creamer",
+      "assist1": "#23 - Collin  Hunt",
+      "assist2": "#13 - Jeff  Willard"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:54",
+      "team": {
+        "teamId": "1081",
+        "name": "Jurassic Puck"
+      },
+      "player": "#88 - Jason  Searight",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:49",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "player": "#81 - Sean  Murphy",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "player": "#23 - Collin  Hunt",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1081",
+        "name": "Jurassic Puck"
+      },
+      "player": "#88 - Jason  Searight",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:16:44.085Z"
+}

@@ -1,0 +1,95 @@
+{
+  "gameId": "15770",
+  "date": "2023-03-02",
+  "divId": 263,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1619",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1622",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:09",
+      "team": {
+        "teamId": "1622",
+        "name": "Grey Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": "#54 - Jerry  Gibbons",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1622",
+        "name": "Grey Goons"
+      },
+      "scorer": "#42 - Christian  Gibbons",
+      "assist1": "#26 - Eric  Mastromatteo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:41",
+      "team": {
+        "teamId": "1619",
+        "name": "Penguins"
+      },
+      "scorer": "#34 - Chad  Fisher",
+      "assist1": "#19 - Mike  Carr",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:23",
+      "team": {
+        "teamId": "1622",
+        "name": "Grey Goons"
+      },
+      "player": "#76 - Mike  Floyd",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:12",
+      "team": {
+        "teamId": "1622",
+        "name": "Grey Goons"
+      },
+      "player": "#47 - Talbot  Black",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:57:11.847Z"
+}

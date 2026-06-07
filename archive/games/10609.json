@@ -1,0 +1,156 @@
+{
+  "gameId": "10609",
+  "date": "2017-05-15",
+  "divId": 167,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1068",
+    "name": "Lightning"
+  },
+  "away": {
+    "teamId": "1067",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1068",
+        "name": "Lightning"
+      },
+      "scorer": "#67 - Neil  Fitzpatrick",
+      "assist1": "#18 - Frank  Lord",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:36",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#22 - Mike  Treme",
+      "assist1": "#5 - John  Bennett",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:54",
+      "team": {
+        "teamId": "1068",
+        "name": "Lightning"
+      },
+      "scorer": "#8 - Mike  Dmytrewycz",
+      "assist1": "#20 - George  Whelan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "1068",
+        "name": "Lightning"
+      },
+      "scorer": "#18 - Frank  Lord",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:58",
+      "team": {
+        "teamId": "1068",
+        "name": "Lightning"
+      },
+      "scorer": "#33 - Mike  Wagner",
+      "assist1": "#16 - Marc  Tohir",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "player": "#7 - Justin  Kent",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:46",
+      "team": {
+        "teamId": "1068",
+        "name": "Lightning"
+      },
+      "player": "#27 - Andrew  Sundelin",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1068",
+        "name": "Lightning"
+      },
+      "player": "#32 - Clayton  Clyburn",
+      "pim": 4,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "player": "#20 - Jeremy  Davis",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:47",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "player": "#7 - Justin  Kent",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:14:21.123Z"
+}

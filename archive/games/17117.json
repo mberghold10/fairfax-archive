@@ -1,0 +1,115 @@
+{
+  "gameId": "17117",
+  "date": "2024-07-31",
+  "divId": 291,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1785",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1783",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1785",
+        "name": "Jacks"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#3 - Jeff  Regan",
+      "assist2": "#41 - Eugene  Livsics"
+    },
+    {
+      "period": "2",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1785",
+        "name": "Jacks"
+      },
+      "scorer": "#36 - Jon  Stehle",
+      "assist1": "#33 - Sergey  Kuznetsov",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "1785",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:41",
+      "team": {
+        "teamId": "1785",
+        "name": "Jacks"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:49",
+      "team": {
+        "teamId": "1783",
+        "name": "Ducks"
+      },
+      "scorer": "#7 - Andrew  Golomb",
+      "assist1": "#12 - Jon  Gregor",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:52",
+      "team": {
+        "teamId": "1785",
+        "name": "Jacks"
+      },
+      "scorer": "#7 - Joseph  Hull",
+      "assist1": "#36 - Jon  Stehle",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:12:50",
+      "team": {
+        "teamId": "1783",
+        "name": "Ducks"
+      },
+      "player": "#15 - Jonathan  Vu",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:28:38.257Z"
+}

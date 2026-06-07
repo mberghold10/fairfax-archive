@@ -1,0 +1,115 @@
+{
+  "gameId": "10290",
+  "date": "2017-02-18",
+  "divId": 156,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "999",
+    "name": "Crabs"
+  },
+  "away": {
+    "teamId": "1001",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:45",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "scorer": "#14 - Paul  Tourbaf",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:32",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "scorer": "#14 - Paul  Tourbaf",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "scorer": "#10 - Rich  Scigaj",
+      "assist1": "#61 - Mike  Prame",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:11",
+      "team": {
+        "teamId": "999",
+        "name": "Crabs"
+      },
+      "scorer": "#15 - Thomas  Allen",
+      "assist1": "#47 - Corey  Mercurio",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:32",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "scorer": "#14 - Paul  Tourbaf",
+      "assist1": "#4 - Seth  Johnson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "scorer": "#4 - Seth  Johnson",
+      "assist1": "#10 - Rich  Scigaj",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "999",
+        "name": "Crabs"
+      },
+      "player": "#27 - Adam  Bacon",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:00:54.495Z"
+}

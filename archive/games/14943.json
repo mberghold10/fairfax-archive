@@ -1,0 +1,132 @@
+{
+  "gameId": "14943",
+  "date": "2022-05-28",
+  "divId": 250,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1545",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1541",
+    "name": "Punishers HC"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:51",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#69 - Noah  Loggia",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:03",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:06",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "scorer": "#88 - Matt  Zipper",
+      "assist1": "#8 - Grant  Dougans",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:59",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#28 - Carrick  Randall",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:16",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "player": "#24 - Mike  Duell",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:37",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:29",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "player": "#8 - Grant  Dougans",
+      "pim": 2,
+      "offense": "Hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:28",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "player": "#22 - Cody  Reinitz",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:40:46.686Z"
+}

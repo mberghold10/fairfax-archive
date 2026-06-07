@@ -1,0 +1,130 @@
+{
+  "gameId": "1108",
+  "date": "2021-02-20",
+  "divId": 224,
+  "seasonName": "Fall 2020",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1403",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1406",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1406",
+        "name": "Red Wings"
+      },
+      "scorer": "#6 - Darcel  Carver",
+      "assist1": "#40 - Matt  Mowery",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:34",
+      "team": {
+        "teamId": "1406",
+        "name": "Red Wings"
+      },
+      "scorer": "#9 - Jon  Hulecki",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "1406",
+        "name": "Red Wings"
+      },
+      "scorer": "#9 - Jon  Hulecki",
+      "assist1": "#67 - John  Krotzer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "1406",
+        "name": "Red Wings"
+      },
+      "scorer": "#10 - Owen  Schaefer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:47",
+      "team": {
+        "teamId": "1403",
+        "name": "Thunder"
+      },
+      "scorer": "#29 - James  Kim",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:44",
+      "team": {
+        "teamId": "1406",
+        "name": "Red Wings"
+      },
+      "player": "#16 - Wei  Wang",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1406",
+        "name": "Red Wings"
+      },
+      "player": "#4 - Gene  Martin",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:56",
+      "team": {
+        "teamId": "1403",
+        "name": "Thunder"
+      },
+      "player": "#21 - Brendan  Williams",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:19:17.965Z"
+}

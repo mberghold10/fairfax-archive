@@ -1,0 +1,200 @@
+{
+  "gameId": "15672",
+  "date": "2023-04-09",
+  "divId": 260,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1602",
+    "name": "Jurassic Puck"
+  },
+  "away": {
+    "teamId": "1603",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1602",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": "#17 - Zephan  Keehner",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "1602",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#10 - Radislaw  Kaczor",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:44",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "scorer": "#4 - Ryan  Cantwell",
+      "assist1": "#15 - Kevin  Szczepanski",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:53",
+      "team": {
+        "teamId": "1602",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#84 - Devon  Thomas",
+      "assist1": "#10 - Radislaw  Kaczor",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:28",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "scorer": "#93 - Peter  Lee",
+      "assist1": "#17 - Anthony  Vitucci",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:54",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "scorer": "#4 - Ryan  Cantwell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:45",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "scorer": "#51 - Bob  Sagusgi",
+      "assist1": "#42 - Dan  Schwind",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "scorer": "#53 - Robert  Hutchinson",
+      "assist1": "#10 - Howard  Kim",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "scorer": "#51 - Bob  Sagusgi",
+      "assist1": "#4 - Ryan  Cantwell",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:39",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "player": "#93 - Peter  Lee",
+      "pim": 2,
+      "offense": "High Stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1602",
+        "name": "Jurassic Puck"
+      },
+      "player": "#65 - Jordan  Etter",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:00",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "player": "#42 - Dan  Schwind",
+      "pim": 2,
+      "offense": "Cross Check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:15",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "player": "#11 - Dan  Wilson",
+      "pim": 2,
+      "offense": "Rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "player": "#15 - Kevin  Szczepanski",
+      "pim": 2,
+      "offense": "Hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:53:38.484Z"
+}

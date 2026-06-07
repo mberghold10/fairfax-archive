@@ -1,0 +1,141 @@
+{
+  "gameId": "14088",
+  "date": "2021-06-30",
+  "divId": 225,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1410",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1414",
+    "name": "Outlaws"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 4,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:36",
+      "team": {
+        "teamId": "1410",
+        "name": "Englewood"
+      },
+      "scorer": "#8 - Rod  Wade",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": "#14 - Dennis  Nayandin"
+    },
+    {
+      "period": "2",
+      "time": "00:02:49",
+      "team": {
+        "teamId": "1410",
+        "name": "Englewood"
+      },
+      "scorer": "#14 - Dennis  Nayandin",
+      "assist1": "#8 - Rod  Wade",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:18",
+      "team": {
+        "teamId": "1410",
+        "name": "Englewood"
+      },
+      "scorer": "#28 - Charles  Hale",
+      "assist1": "#44 - Greg  Hanson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "1410",
+        "name": "Englewood"
+      },
+      "scorer": "#13 - Randy  Foster",
+      "assist1": "#44 - Greg  Hanson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:56",
+      "team": {
+        "teamId": "1410",
+        "name": "Englewood"
+      },
+      "scorer": "#44 - Greg  Hanson",
+      "assist1": "#14 - Dennis  Nayandin",
+      "assist2": "#7 - Joe  Hull"
+    },
+    {
+      "period": "3",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1410",
+        "name": "Englewood"
+      },
+      "scorer": "#14 - Dennis  Nayandin",
+      "assist1": "#28 - Charles  Hale",
+      "assist2": "#36 - Jon  Stehle"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1414",
+        "name": "Outlaws"
+      },
+      "player": "#77 - Eric  Kniaz",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:58",
+      "team": {
+        "teamId": "1410",
+        "name": "Englewood"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:32",
+      "team": {
+        "teamId": "1410",
+        "name": "Englewood"
+      },
+      "player": "#44 - Greg  Hanson",
+      "pim": 2,
+      "offense": "g int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:19:58.889Z"
+}

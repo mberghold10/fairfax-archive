@@ -1,0 +1,247 @@
+{
+  "gameId": "864",
+  "date": "2018-04-19",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1099",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1098",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:34",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "scorer": "#6 - Rob  Kocher",
+      "assist1": "#22 - Rich  Silberman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "scorer": "#34 - Chad  Fisher",
+      "assist1": "#23 - Rick  Gorgone",
+      "assist2": "#28 - Geoff  Storchan"
+    },
+    {
+      "period": "2",
+      "time": "00:11:56",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "scorer": "#20 - Brent  Jefferson",
+      "assist1": "#64 - Bob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:27",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "scorer": "#13 - Mike  Carew",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "scorer": "#34 - Chad  Fisher",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "player": "#25 - Steve  Tamburo",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "player": "#34 - Chad  Fisher",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:15",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "player": "#44 - George  Cassidy",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:47",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "player": "#13 - Bob  Seal",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:18",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "player": "#27 - Jamie  Prime",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:54",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "player": "#44 - George  Cassidy",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:19",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "player": "#25 - Steve  Tamburo",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:57",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "player": "#34 - Chad  Fisher",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "player": "#13 - Mike  Carew",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "player": "#25 - Jeff  Wojtala",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:07:57",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "player": "#13 - Mike  Carew",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "player": "#19 - Gary  McMahon",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:21:03.002Z"
+}

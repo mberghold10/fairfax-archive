@@ -1,0 +1,200 @@
+{
+  "gameId": "11367",
+  "date": "2017-12-16",
+  "divId": 175,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1113",
+    "name": "Bushwood"
+  },
+  "away": {
+    "teamId": "1120",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:22",
+      "team": {
+        "teamId": "1113",
+        "name": "Bushwood"
+      },
+      "scorer": "#32 - Jack  Donoue",
+      "assist1": "#33 - Todd  Petit",
+      "assist2": "#12 - Ed  Donohue"
+    },
+    {
+      "period": "1",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": "#13 - Steve  Schooner",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1113",
+        "name": "Bushwood"
+      },
+      "scorer": "#32 - Jack  Donoue",
+      "assist1": "#33 - Todd  Petit",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1113",
+        "name": "Bushwood"
+      },
+      "scorer": "#10 - Tim  Strickler",
+      "assist1": "#32 - Jack  Donoue",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#87 - Nate  Morello",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:08",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#88 - Brian  Ray",
+      "assist1": "#91 - Chris  Callanan",
+      "assist2": "#29 - Michael  Carzoli"
+    },
+    {
+      "period": "2",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#91 - Chris  Callanan",
+      "assist1": "#29 - Michael  Carzoli",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:16",
+      "team": {
+        "teamId": "1113",
+        "name": "Bushwood"
+      },
+      "scorer": "#16 - Wayne  Storm",
+      "assist1": "#10 - Tim  Strickler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": "#91 - Chris  Callanan",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:35",
+      "team": {
+        "teamId": "1113",
+        "name": "Bushwood"
+      },
+      "player": "#10 - Tim  Strickler",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:36",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "player": "#88 - Brian  Ray",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:56",
+      "team": {
+        "teamId": "1113",
+        "name": "Bushwood"
+      },
+      "player": "#7 - Liam  Conolly",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:46",
+      "team": {
+        "teamId": "1113",
+        "name": "Bushwood"
+      },
+      "player": "#10 - Tim  Strickler",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:36",
+      "team": {
+        "teamId": "1113",
+        "name": "Bushwood"
+      },
+      "player": "#12 - Ed  Donohue",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:24:04.834Z"
+}

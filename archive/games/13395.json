@@ -1,0 +1,108 @@
+{
+  "gameId": "13395",
+  "date": "2020-01-05",
+  "divId": 213,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1347",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1344",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:38",
+      "team": {
+        "teamId": "1347",
+        "name": "Nortec"
+      },
+      "scorer": "#83 - Joseph  Tierney",
+      "assist1": "#2 - Bill  Morris",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "scorer": "#21 - Mark  Johnston",
+      "assist1": "#38 - Chris  Lettieri",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:05:35",
+      "team": {
+        "teamId": "1347",
+        "name": "Nortec"
+      },
+      "player": "#2 - Bill  Morris",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:36",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "player": "#44 - Mick  Ellsworth",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:23",
+      "team": {
+        "teamId": "1347",
+        "name": "Nortec"
+      },
+      "player": "#5 - Peter  Boone",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:10:07.062Z"
+}

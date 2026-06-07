@@ -1,0 +1,195 @@
+{
+  "gameId": "11220",
+  "date": "2018-01-05",
+  "divId": 170,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1086",
+    "name": "ers"
+  },
+  "away": {
+    "teamId": "1089",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "scorer": "#48 - Arturas  Vovobjovas",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "scorer": "#13 - Mike  Ferrone",
+      "assist1": "#24 - Mike  Giardina",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:49",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "scorer": "#24 - Mike  Giardina",
+      "assist1": "# -",
+      "assist2": "#17 - Ryan  Bradshaw"
+    },
+    {
+      "period": "2",
+      "time": "00:14:53",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#15 - John  Cushing",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:02:13",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "scorer": "#6 - Jeff  Cullen",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:51",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "player": "#48 - Arturas  Vovobjovas",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "player": "#0 - Stephen  Arthur",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:39",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "player": "#17 - Ryan  Bradshaw",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:29",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:05",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "player": "#17 - Ryan  Bradshaw",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:16",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "player": "#17 - Ryan  Bradshaw",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:17:55.606Z"
+}

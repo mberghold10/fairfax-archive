@@ -1,0 +1,139 @@
+{
+  "gameId": "10181",
+  "date": "2016-12-07",
+  "divId": 154,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "986",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "989",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:28",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#47 - Talbot  Black",
+      "assist1": "#28 - Alex  Henry",
+      "assist2": "#22 - Brian  Dutton"
+    },
+    {
+      "period": "1",
+      "time": "00:12:08",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:26",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#75 - Jeff  Koka",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:43",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#2 - Jim  Smalley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:32",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:17",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#61 - Fabian  Olaya",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "player": "#28 - Alex  Henry",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:15:00",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "player": "#23 - Scott  Gordon",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:57:52.313Z"
+}

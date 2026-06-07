@@ -1,0 +1,152 @@
+{
+  "gameId": "10551",
+  "date": "2017-04-30",
+  "divId": 165,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1055",
+    "name": "Kings"
+  },
+  "away": {
+    "teamId": "1057",
+    "name": "Outlaws"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:02",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#18 - John  Boland",
+      "assist1": "#82 - Caleb  Sohl",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:19",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#15 - Sean  Maniuszko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#15 - Sean  Maniuszko",
+      "assist1": "#27 - John  Dove",
+      "assist2": "#55 - Chris  Yoko"
+    },
+    {
+      "period": "2",
+      "time": "00:13:47",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#15 - Sean  Maniuszko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1057",
+        "name": "Outlaws"
+      },
+      "scorer": "#17 - Adam  Lee",
+      "assist1": "#91 - Matt  Weeden",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#55 - Chris  Yoko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "1057",
+        "name": "Outlaws"
+      },
+      "scorer": "#17 - Adam  Lee",
+      "assist1": "#91 - Matt  Weeden",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:24",
+      "team": {
+        "teamId": "1057",
+        "name": "Outlaws"
+      },
+      "player": "#0 - Trey  Perrone",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:39",
+      "team": {
+        "teamId": "1057",
+        "name": "Outlaws"
+      },
+      "player": "#43 - Mike  Barnes",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "player": "#22 - Chuck  LeDoux",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:11:36.722Z"
+}

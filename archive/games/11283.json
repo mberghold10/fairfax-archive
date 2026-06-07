@@ -1,0 +1,143 @@
+{
+  "gameId": "11283",
+  "date": "2018-01-28",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1097",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1095",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:51",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:54",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": "#12 - Paul  Zalocha",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#20 - Richard  Utano",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:41",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#32 - Phil  Antoun",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:19",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "player": "#7 - Ed  Wiener",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:59",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "player": "#99 - Jon  Davoren",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "player": "#32 - Phil  Antoun",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:01",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "player": "#32 - Phil  Antoun",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:20:28.122Z"
+}

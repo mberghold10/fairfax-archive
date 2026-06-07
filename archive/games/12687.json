@@ -1,0 +1,180 @@
+{
+  "gameId": "12687",
+  "date": "2019-05-12",
+  "divId": 201,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1277",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1279",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "scorer": "#13 - Brian  Harmon",
+      "assist1": "#10 - Cody  Brickey",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:49",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "scorer": "#89 - Frank  Congel",
+      "assist1": "#93 - Jeff  Nauer",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:42",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#13 - Brian  Harmon",
+      "assist2": "#12 - Kevin  Bowser"
+    },
+    {
+      "period": "1",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#71 - Mike  McLenahar",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:18",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#10 - Cody  Brickey",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:28",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#33 - Dmitriy  Achapkin",
+      "assist1": "#92 - Bryan  Diner",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:36",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "player": "#65 - Stuart  Hoffman",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:14",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "player": "#24 - Jeff  Robins",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:14",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "player": "#28 - Chris  Marotta",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:18",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "player": "#7 - John  Koester",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:36",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "player": "#89 - Frank  Congel",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:56:10.290Z"
+}

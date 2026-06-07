@@ -1,0 +1,95 @@
+{
+  "gameId": "16748",
+  "date": "2024-02-23",
+  "divId": 279,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1720",
+    "name": "Red Dragons"
+  },
+  "away": {
+    "teamId": "1721",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1721",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#19 - Troy  Edwards",
+      "assist1": "#39 - Alex  Cimon",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1721",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#14 - Chukie  Ezike",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1721",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#39 - Alex  Cimon",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1721",
+        "name": "Mad Dogs"
+      },
+      "player": "#19 - Troy  Edwards",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1720",
+        "name": "Red Dragons"
+      },
+      "player": "#17 - Nic  Van Tol",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:15:55.949Z"
+}

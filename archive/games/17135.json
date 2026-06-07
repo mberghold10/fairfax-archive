@@ -1,0 +1,128 @@
+{
+  "gameId": "17135",
+  "date": "2024-07-28",
+  "divId": 292,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1788",
+    "name": "Ers"
+  },
+  "away": {
+    "teamId": "1787",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:25",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "scorer": "#96 - Chris  Beck",
+      "assist1": "#24 - Tom  Spiewak",
+      "assist2": "#23 - Gordon  Scott"
+    },
+    {
+      "period": "1",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "scorer": "#20 - Edward  Holleran",
+      "assist1": "#96 - Chris  Beck",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:34",
+      "team": {
+        "teamId": "1787",
+        "name": "Team USA"
+      },
+      "scorer": "#10 - Mike  Brahmey",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": "#23 - Gordon  Scott",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:27",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "scorer": "#96 - Chris  Beck",
+      "assist1": "#55 - Mike  McKenney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1787",
+        "name": "Team USA"
+      },
+      "scorer": "#12 - Jason  Wakeman",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": "#18 - Pete  Poczatek"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:51",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "player": "#96 - Chris  Beck",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "player": "#28 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:29:31.637Z"
+}

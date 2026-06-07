@@ -1,0 +1,121 @@
+{
+  "gameId": "11261",
+  "date": "2018-03-18",
+  "divId": 171,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1091",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1092",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:06:19",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#14 - Mike  Ferrone",
+      "assist1": "#12 - Peter  Plampin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#14 - Mike  Ferrone",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#12 - Peter  Plampin",
+      "assist1": "#23 - Gordon  Scott",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "player": "#18 - Samson  Chu",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "player": "#74 - Alex  Elcoric",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "player": "#19 - Joe  Dunn",
+      "pim": 2,
+      "offense": "check from behind",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "player": "#19 - Joe  Dunn",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:19:12.553Z"
+}

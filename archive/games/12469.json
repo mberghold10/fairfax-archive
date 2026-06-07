@@ -1,0 +1,187 @@
+{
+  "gameId": "12469",
+  "date": "2019-03-03",
+  "divId": 192,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1222",
+    "name": "Jurassic Puck"
+  },
+  "away": {
+    "teamId": "1221",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:12",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#7 - Brian  Ebert",
+      "assist1": "#11 - George  Cernica",
+      "assist2": "#92 - Caleb  Adams"
+    },
+    {
+      "period": "1",
+      "time": "00:10:30",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "# -",
+      "assist1": "#92 - Caleb  Adams",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:37",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#4 - Sam  Hausolhner",
+      "assist1": "#6 - JB  Merritt",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:26",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#67 - Brian  Landers",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#67 - Brian  Landers",
+      "assist1": "#5 - Jimmy  Park",
+      "assist2": "#28 - Ed  Holleran"
+    },
+    {
+      "period": "2",
+      "time": "00:08:44",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#28 - Michael  Berghold",
+      "assist1": "#7 - Brian  Ebert",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:12",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#22 - Patrick  Smith",
+      "assist1": "#14 - Andrew  Prantner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:02",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#4 - Sam  Hausolhner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:36",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#11 - George  Cernica",
+      "assist1": "#83 - Jared  DiCioccio",
+      "assist2": "#28 - Michael  Berghold"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:03",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "player": "#30 - Dan  Owens",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:03",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#67 - Brian  Landers",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#28 - Ed  Holleran",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:28",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#5 - Jimmy  Park",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:45:20.869Z"
+}

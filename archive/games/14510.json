@@ -1,0 +1,143 @@
+{
+  "gameId": "14510",
+  "date": "2021-11-07",
+  "divId": 246,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1524",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1522",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:38",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "scorer": "#43 - Ryan  ODriscoll",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1524",
+        "name": "Grey Goons"
+      },
+      "scorer": "#25 - Christopher  Litteri",
+      "assist1": "#11 - Dave  Brown",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:47",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "scorer": "#38 - Mike  Andrein",
+      "assist1": "#13 - Mike  Carew",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:05",
+      "team": {
+        "teamId": "1524",
+        "name": "Grey Goons"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "scorer": "#64 - Bob  Fischer",
+      "assist1": "#13 - Mike  Carew",
+      "assist2": "#38 - Mike  Andrein"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "1524",
+        "name": "Grey Goons"
+      },
+      "player": "#2 - James  Marlowe",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "player": "#13 - Mike  Carew",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1524",
+        "name": "Grey Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:38",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:36:04.559Z"
+}

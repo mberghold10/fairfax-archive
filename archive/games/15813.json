@@ -1,0 +1,139 @@
+{
+  "gameId": "15813",
+  "date": "2023-03-21",
+  "divId": 264,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1625",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1627",
+    "name": "Gold Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:33",
+      "team": {
+        "teamId": "1625",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#31 - Sam  Branham",
+      "assist1": "#88 - Matt  Tiede",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "1625",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#25 - Neil  Dsouza",
+      "assist1": "#31 - Sam  Branham",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:37",
+      "team": {
+        "teamId": "1627",
+        "name": "Gold Goats"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#38 - Howard  Uman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1625",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#78 - Bill  Ezekiel",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": "#54 - Matt  Gallagher"
+    },
+    {
+      "period": "2",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "1627",
+        "name": "Gold Goats"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1625",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "1625",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#79 - Jeff  Vandenberghe",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:50",
+      "team": {
+        "teamId": "1627",
+        "name": "Gold Goats"
+      },
+      "player": "#3 - Dick  Deitos",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:25",
+      "team": {
+        "teamId": "1625",
+        "name": "Ice Dogs"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:58:49.564Z"
+}

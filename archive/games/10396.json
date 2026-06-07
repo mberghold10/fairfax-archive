@@ -1,0 +1,117 @@
+{
+  "gameId": "10396",
+  "date": "2017-03-05",
+  "divId": 158,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1015",
+    "name": "Bulldogs"
+  },
+  "away": {
+    "teamId": "1012",
+    "name": "North Stars"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:24",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#90 - Shawn  McEvoy",
+      "assist1": "#19 - Jon  Forrester",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#18 - Steve  Percival",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#18 - Steve  Percival",
+      "assist2": "#42 - Bill  Hardy"
+    },
+    {
+      "period": "2",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#90 - Shawn  McEvoy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:59",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "scorer": "#61 - Tero  Moberg",
+      "assist1": "#55 - Ben  Malakoff",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "player": "#90 - Shawn  McEvoy",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "player": "#7 - Evan  Wojtowicz",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:03:33.006Z"
+}

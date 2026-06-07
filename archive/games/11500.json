@@ -1,0 +1,152 @@
+{
+  "gameId": "11500",
+  "date": "2018-03-02",
+  "divId": 175,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1117",
+    "name": "BlueJacket Capitals"
+  },
+  "away": {
+    "teamId": "1116",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1117",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#5 - Rob  Kelty",
+      "assist1": "#11 - Mark  OConnell",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1116",
+        "name": "Avalanche"
+      },
+      "scorer": "#11 - Andrew  Jones",
+      "assist1": "#20 - Rich  Utano",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:58",
+      "team": {
+        "teamId": "1117",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#9 - Steven  Hewitt",
+      "assist1": "#33 - Rob  Kocher",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "1117",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#8 - Chris  White",
+      "assist1": "#5 - Rob  Kelty",
+      "assist2": "#11 - Mark  OConnell"
+    },
+    {
+      "period": "2",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1117",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#9 - Steven  Hewitt",
+      "assist1": "#33 - Rob  Kocher",
+      "assist2": "#11 - Mark  OConnell"
+    },
+    {
+      "period": "3",
+      "time": "00:04:06",
+      "team": {
+        "teamId": "1117",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#8 - Chris  White",
+      "assist1": "#9 - Steven  Hewitt",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:37",
+      "team": {
+        "teamId": "1116",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": "#10 - Chris  Greenough",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:14:28",
+      "team": {
+        "teamId": "1117",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#33 - Rob  Kocher",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:45",
+      "team": {
+        "teamId": "1116",
+        "name": "Avalanche"
+      },
+      "player": "#20 - Rich  Utano",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:25",
+      "team": {
+        "teamId": "1117",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#33 - Rob  Kocher",
+      "pim": 2,
+      "offense": "g int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:24:26.821Z"
+}

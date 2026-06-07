@@ -1,0 +1,241 @@
+{
+  "gameId": "12740",
+  "date": "2019-07-14",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1260",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1264",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 5,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "scorer": "#71 - Dan  Cosentino",
+      "assist1": "#5 - Ben  Malakoff",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:49",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "scorer": "#88 - Evan  Wojtowicz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "scorer": "#78 - Noe  Hatchuel",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#36 - Bill  Ludke",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:32",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "scorer": "#14 - Royce  Walters",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": "#10 - Matt  Galen"
+    },
+    {
+      "period": "1",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:25",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:07",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "scorer": "#78 - Noe  Hatchuel",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:40",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#5 - Ben  Malakoff",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "player": "#78 - Noe  Hatchuel",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#61 - Tero  Moberg",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:53",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#61 - Tero  Moberg",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:05",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#5 - Ben  Malakoff",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:35",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:27",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#6 - Matt  Dwyer",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:27",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "player": "#92 - Matt  Frazza",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:53:43.281Z"
+}

@@ -1,0 +1,95 @@
+{
+  "gameId": "12628",
+  "date": "2019-03-03",
+  "divId": 197,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1248",
+    "name": "Roughnecks"
+  },
+  "away": {
+    "teamId": "1252",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1252",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#2 - John  Ganoe",
+      "assist1": "#33 - Brandon  Boling",
+      "assist2": "#14 - Mike  Ezike"
+    },
+    {
+      "period": "2",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1252",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#6 - Armand  Alacbay",
+      "assist1": "#14 - Mike  Ezike",
+      "assist2": "#30 - Brent  Bolin"
+    },
+    {
+      "period": "2",
+      "time": "00:12:30",
+      "team": {
+        "teamId": "1248",
+        "name": "Roughnecks"
+      },
+      "scorer": "#21 - Erik  Haas",
+      "assist1": "#88 - Joe  Phillips",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:59",
+      "team": {
+        "teamId": "1248",
+        "name": "Roughnecks"
+      },
+      "player": "#85 - Jake  Shively",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:29",
+      "team": {
+        "teamId": "1252",
+        "name": "Blue Dogs"
+      },
+      "player": "#30 - Brent  Bolin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:52:03.596Z"
+}

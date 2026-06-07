@@ -1,0 +1,156 @@
+{
+  "gameId": "16870",
+  "date": "2024-04-02",
+  "divId": 283,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1743",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1739",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:43",
+      "team": {
+        "teamId": "1739",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#4 - Don  Sussman",
+      "assist1": "#81 - Rob  Katz",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:17",
+      "team": {
+        "teamId": "1739",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#16 - Brian  Murphy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:34",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#8 - Elliott  Yang",
+      "assist1": "#31 - Alex  Brown",
+      "assist2": "#77 - Paul  Cicchetti"
+    },
+    {
+      "period": "3",
+      "time": "00:06:28",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#22 - Jimmy  Nguyen",
+      "assist1": "#23 - Trevor  Blair",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#23 - Trevor  Blair",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:41",
+      "team": {
+        "teamId": "1739",
+        "name": "Ice Dogs"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:14",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:34",
+      "team": {
+        "teamId": "1739",
+        "name": "Ice Dogs"
+      },
+      "player": "#81 - Rob  Katz",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "1739",
+        "name": "Ice Dogs"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:20:44.145Z"
+}

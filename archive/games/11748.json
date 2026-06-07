@@ -1,0 +1,211 @@
+{
+  "gameId": "11748",
+  "date": "2018-07-07",
+  "divId": 184,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1168",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1171",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 4,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:25",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "scorer": "#20 - Richard  Utano",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:10",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "scorer": "#12 - Jason  Wakeman",
+      "assist1": "#20 - Richard  Utano",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": "#55 - Ben  Malakoff",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#20 - Richard  Utano",
+      "assist2": "# -"
+    },
+    {
+      "period": "2",
+      "time": "00:07:55",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "scorer": "#99 - Jon  Davoren",
+      "assist1": "#20 - Richard  Utano",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#21 - John  Peterman",
+      "assist1": "#55 - Ben  Malakoff",
+      "assist2": "#81 - Bryan  Getson"
+    },
+    {
+      "period": "3",
+      "time": "00:02:48",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#61 - Tero  Moberg",
+      "assist1": "#64 - Bob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": "#81 - Bryan  Getson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:36",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:01",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:52",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "player": "#21 - John  Peterman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:46",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:55",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "player": "#29 - Alex  Eng",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:34:57.949Z"
+}

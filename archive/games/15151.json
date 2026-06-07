@@ -1,0 +1,180 @@
+{
+  "gameId": "15151",
+  "date": "2022-09-10",
+  "divId": 250,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1543",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1546",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:09",
+      "team": {
+        "teamId": "1546",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1546",
+        "name": "Chiefs"
+      },
+      "scorer": "#88 - Nolan  Campbell",
+      "assist1": "#16 - Ralph  Rinaldi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1546",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#9 - Alex  Cimon",
+      "assist1": "#17 - Kevin  Roehner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#20 - Jeff  Carter",
+      "assist1": "#92 - Lens  Desrouleaux",
+      "assist2": "#9 - Alex  Cimon"
+    },
+    {
+      "period": "3",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1546",
+        "name": "Chiefs"
+      },
+      "scorer": "#42 - Dave  Hagemeier",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1546",
+        "name": "Chiefs"
+      },
+      "player": "#12 - Chris  Yoko",
+      "pim": 2,
+      "offense": "g int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "1546",
+        "name": "Chiefs"
+      },
+      "player": "#33 - Adam  Bartholomew",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:32",
+      "team": {
+        "teamId": "1546",
+        "name": "Chiefs"
+      },
+      "player": "#0 - Curt  Tucker",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:46",
+      "team": {
+        "teamId": "1546",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:24",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "player": "#17 - Kevin  Roehner",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:24",
+      "team": {
+        "teamId": "1546",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:41:36.734Z"
+}

@@ -1,0 +1,117 @@
+{
+  "gameId": "14933",
+  "date": "2022-05-07",
+  "divId": 250,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1540",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1541",
+    "name": "Punishers HC"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:02",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "scorer": "#5 - Ben  Malakoff",
+      "assist1": "#96 - Jared  Elder",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:53",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": "#26 - Bill  Motzko",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:13",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "scorer": "#21 - Gordon  Scott",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "scorer": "#42 - Adam  Russell",
+      "assist1": "#81 - Bryan  Getson",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "scorer": "#61 - Tero  Moberg",
+      "assist1": "#81 - Bryan  Getson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:14",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "player": "#26 - Bill  Motzko",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:11",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "player": "#21 - Gordon  Scott",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:40:36.668Z"
+}

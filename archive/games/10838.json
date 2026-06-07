@@ -1,0 +1,95 @@
+{
+  "gameId": "10838",
+  "date": "2017-07-09",
+  "divId": 168,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1075",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1074",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:11:55",
+      "team": {
+        "teamId": "1074",
+        "name": "Dragons"
+      },
+      "scorer": "#88 - Maddy  Padgett",
+      "assist1": "#5 - Sam  Bryce",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:11",
+      "team": {
+        "teamId": "1074",
+        "name": "Dragons"
+      },
+      "scorer": "#77 - Dylan  Gerhard",
+      "assist1": "#11 - Andrew  Jones",
+      "assist2": "#4 - Andy  Menke"
+    },
+    {
+      "period": "3",
+      "time": "00:11:46",
+      "team": {
+        "teamId": "1074",
+        "name": "Dragons"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:27",
+      "team": {
+        "teamId": "1074",
+        "name": "Dragons"
+      },
+      "player": "#13 - Jeff  Willard",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:47",
+      "team": {
+        "teamId": "1075",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#9 - Greg  Sibley",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:15:42.490Z"
+}

@@ -1,0 +1,115 @@
+{
+  "gameId": "16097",
+  "date": "2023-07-02",
+  "divId": 274,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1692",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1690",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:18",
+      "team": {
+        "teamId": "1692",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#19 - Troy  Edwards",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:27",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#21 - Joe  Rhodes",
+      "assist1": "#4 - Rob  Ryan",
+      "assist2": "#33 - Scott  Coco"
+    },
+    {
+      "period": "2",
+      "time": "00:06:10",
+      "team": {
+        "teamId": "1692",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#0 - Ruben  Garcia",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1692",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#33 - Brandon  Boling",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "1692",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#19 - Troy  Edwards",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:08",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#7 - Graham  Eddy",
+      "assist1": "#9 - Alex  Mench",
+      "assist2": "#74 - Matt  Santos"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:35",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#33 - Scott  Coco",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:10:06.797Z"
+}

@@ -1,0 +1,165 @@
+{
+  "gameId": "18728",
+  "date": "2025-12-22",
+  "divId": 324,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1987",
+    "name": "Puckaneers"
+  },
+  "away": {
+    "teamId": "1986",
+    "name": "Junkyard Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 1,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "1986",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#28 - Alex  Rudolph",
+      "assist1": "#92 - Dan  Horner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:59",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:44",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#12 - Alex  Lewis",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:26",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#16 - Kiran  Manakarnika",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:03",
+      "team": {
+        "teamId": "1986",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#15 - Dave  Gorman",
+      "assist1": "#25 - Neil  Dsouza",
+      "assist2": "#22 - Amir  Tahami"
+    },
+    {
+      "period": "3",
+      "time": "00:10:13",
+      "team": {
+        "teamId": "1986",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#23 - Brian  Ladd",
+      "assist1": "#93 - Robert  Wagner",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:02:46",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#27 - Dave  Lin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:27",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "player": "#0 - Jackie  Dolan",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:28",
+      "team": {
+        "teamId": "1986",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:05",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "player": "#2 - Dick  Deitos",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:03:09.585Z"
+}

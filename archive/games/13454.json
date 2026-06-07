@@ -1,0 +1,152 @@
+{
+  "gameId": "13454",
+  "date": "2019-11-26",
+  "divId": 215,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1361",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1362",
+    "name": "Beltway Butchers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:49",
+      "team": {
+        "teamId": "1361",
+        "name": "Hurricanes"
+      },
+      "scorer": "#27 - Jeff  Alton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:47",
+      "team": {
+        "teamId": "1361",
+        "name": "Hurricanes"
+      },
+      "scorer": "#93 - Jeff  Nauer",
+      "assist1": "#1 - Chris  Beach",
+      "assist2": "#27 - Jeff  Alton"
+    },
+    {
+      "period": "2",
+      "time": "00:09:47",
+      "team": {
+        "teamId": "1362",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#18 - Peter  Poczatek",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:58",
+      "team": {
+        "teamId": "1361",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#93 - Jeff  Nauer",
+      "assist2": "#26 - Jim  Silbermann"
+    },
+    {
+      "period": "3",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1361",
+        "name": "Hurricanes"
+      },
+      "scorer": "#27 - Jeff  Alton",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:47",
+      "team": {
+        "teamId": "1362",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#12 - Joe  DeCarlo",
+      "assist1": "#88 - TJ  Doherty",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "1361",
+        "name": "Hurricanes"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": "#1 - Chris  Beach",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:17",
+      "team": {
+        "teamId": "1361",
+        "name": "Hurricanes"
+      },
+      "player": "#25 - Greg  Reece",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:47",
+      "team": {
+        "teamId": "1362",
+        "name": "Beltway Butchers"
+      },
+      "player": "#18 - Peter  Poczatek",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:15",
+      "team": {
+        "teamId": "1361",
+        "name": "Hurricanes"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:12:53.028Z"
+}

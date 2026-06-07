@@ -1,0 +1,93 @@
+{
+  "gameId": "10348",
+  "date": "2017-01-14",
+  "divId": 160,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1026",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1025",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#91 - Stephen  Tarditi",
+      "assist1": "#25 - Neil  DSouza",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:44",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#9 - Paul  Moretti",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1026",
+        "name": "Rink Rats"
+      },
+      "scorer": "#90 - Byron  Howe",
+      "assist1": "#36 - Nicholas  Fishter",
+      "assist2": "#9 - Maddy  Padgett"
+    },
+    {
+      "period": "3",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#36 - Brian  Lusby",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:19:04",
+      "team": {
+        "teamId": "1026",
+        "name": "Rink Rats"
+      },
+      "player": "#23 - Collin  Hunt",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:43:14.698Z"
+}

@@ -1,0 +1,130 @@
+{
+  "gameId": "16521",
+  "date": "2023-11-26",
+  "divId": 280,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1723",
+    "name": "Toronto"
+  },
+  "away": {
+    "teamId": "1722",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#13 - Joe  Carroll",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:04",
+      "team": {
+        "teamId": "1723",
+        "name": "Toronto"
+      },
+      "scorer": "#96 - Wei  Wang",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": "#28 - Harry  Nicholakos"
+    },
+    {
+      "period": "2",
+      "time": "00:08:49",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#13 - Joe  Carroll",
+      "assist1": "#16 - Cullen  Finley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:46",
+      "team": {
+        "teamId": "1723",
+        "name": "Toronto"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#8 - Elliott  Yang",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:49",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#13 - Joe  Carroll",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:39",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#21 - Joe  Rhodes",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "1723",
+        "name": "Toronto"
+      },
+      "player": "#89 - Brandon  Barhorst",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:41",
+      "team": {
+        "teamId": "1723",
+        "name": "Toronto"
+      },
+      "player": "#44 - Jim  McGovern",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:16:31.170Z"
+}

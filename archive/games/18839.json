@@ -1,0 +1,108 @@
+{
+  "gameId": "18839",
+  "date": "2025-12-21",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2001",
+    "name": "Slashing Pumpkins"
+  },
+  "away": {
+    "teamId": "2004",
+    "name": "Hershey Beers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:06",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#86 - Nathan  Gray",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#26 - Chris  Anderson",
+      "assist1": "#8 - Tim  Lo",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#20 - Nate  Radke",
+      "assist1": "#75 - Tim  Witkiewicz",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:50",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "player": "#16 - Jacob  Kohls",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:26",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "player": "#16 - Jacob  Kohls",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:03",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "player": "#75 - Tim  Witkiewicz",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:07:55.205Z"
+}

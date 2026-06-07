@@ -1,0 +1,117 @@
+{
+  "gameId": "10107",
+  "date": "2016-10-15",
+  "divId": 160,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1026",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1030",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "1026",
+        "name": "Rink Rats"
+      },
+      "scorer": "#40 - Brandon  Honeycutt",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:40",
+      "team": {
+        "teamId": "1026",
+        "name": "Rink Rats"
+      },
+      "scorer": "#68 - Matthew  Taylor",
+      "assist1": "#9 - Maddy  Padgett",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": "#18 - Jimmy  Feeney",
+      "assist2": "#54 - Brian  Hensel"
+    },
+    {
+      "period": "2",
+      "time": "00:10:50",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": "#18 - Jimmy  Feeney",
+      "assist2": "#54 - Brian  Hensel"
+    },
+    {
+      "period": "3",
+      "time": "00:10:25",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:57",
+      "team": {
+        "teamId": "1026",
+        "name": "Rink Rats"
+      },
+      "player": "#60 - Ed  Sugrue",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:35",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#67 - Brian  Landers",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:42:42.678Z"
+}

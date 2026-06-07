@@ -1,0 +1,106 @@
+{
+  "gameId": "15870",
+  "date": "2023-05-14",
+  "divId": 274,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1689",
+    "name": "Hershey"
+  },
+  "away": {
+    "teamId": "1693",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:52",
+      "team": {
+        "teamId": "1693",
+        "name": "Red Wings"
+      },
+      "scorer": "#36 - Greg  Kowalski",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:42",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#77 - Trevor  Boynton",
+      "assist1": "#43 - James  Kim",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1693",
+        "name": "Red Wings"
+      },
+      "scorer": "#8 - Brian  Merritt",
+      "assist1": "#19 - Gus  Anderson",
+      "assist2": "#24 - Jake  Middel"
+    },
+    {
+      "period": "2",
+      "time": "00:09:27",
+      "team": {
+        "teamId": "1693",
+        "name": "Red Wings"
+      },
+      "scorer": "#36 - Greg  Kowalski",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "player": "#1 - Thomas  Newberg",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:01",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "player": "#8 - Timothy  Lo",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:09:50.783Z"
+}

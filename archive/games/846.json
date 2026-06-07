@@ -1,0 +1,176 @@
+{
+  "gameId": "846",
+  "date": "2018-03-23",
+  "divId": 170,
+  "seasonName": "Winter 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1087",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "1089",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#36 - Jon  Stehle",
+      "assist2": "#15 - John  Cushing"
+    },
+    {
+      "period": "1",
+      "time": "00:04:01",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#18 - Dave  Leadston",
+      "assist2": "#15 - John  Cushing"
+    },
+    {
+      "period": "1",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "scorer": "#36 - Jon  Stehle",
+      "assist1": "#14 - Dennis  Nayandin",
+      "assist2": "#18 - Dave  Leadston"
+    },
+    {
+      "period": "2",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#18 - Dave  Leadston",
+      "assist2": "#48 - Arturas  Vovobjovas"
+    },
+    {
+      "period": "2",
+      "time": "00:10:26",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#9 - Tony  Cusumano",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:50",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "scorer": "#27 - Chris  Balsley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:01",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "scorer": "#18 - Dave  Leadston",
+      "assist1": "#14 - Dennis  Nayandin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:24",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "scorer": "#9 - Tony  Cusumano",
+      "assist1": "#11 - Bryan  Malone",
+      "assist2": "#57 - Derek  Morrissette"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:57",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "player": "#48 - Arturas  Vovobjovas",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:44",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "player": "#77 - Oleg  Nayandin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:18:17.689Z"
+}

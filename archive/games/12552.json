@@ -1,0 +1,134 @@
+{
+  "gameId": "12552",
+  "date": "2019-03-14",
+  "divId": 195,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1241",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1238",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:05:35",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "scorer": "#71 - John  Buhler",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:39",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:14",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "scorer": "#49 - Bob  Desrosiers",
+      "assist1": "#71 - John  Buhler",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:48",
+      "team": {
+        "teamId": "1238",
+        "name": "Coyotes"
+      },
+      "player": "#3 - Bill  Schulteiss",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "player": "#9 - Rick  Cole",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "1238",
+        "name": "Coyotes"
+      },
+      "player": "#47 - Rob  Schumann",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:49",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "player": "#71 - John  Buhler",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:49",
+      "team": {
+        "teamId": "1238",
+        "name": "Coyotes"
+      },
+      "player": "#3 - Bill  Schulteiss",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:49:29.432Z"
+}

@@ -1,0 +1,130 @@
+{
+  "gameId": "17909",
+  "date": "2025-04-28",
+  "divId": 302,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1856",
+    "name": "Busch League"
+  },
+  "away": {
+    "teamId": "1857",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:39",
+      "team": {
+        "teamId": "1857",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#22 - Andrew  Irving",
+      "assist1": "#89 - Sid  Han",
+      "assist2": "#19 - Nate  Rozelle"
+    },
+    {
+      "period": "1",
+      "time": "00:09:50",
+      "team": {
+        "teamId": "1857",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#89 - Sid  Han",
+      "assist1": "#77 - Paul  Cicchetti",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:02",
+      "team": {
+        "teamId": "1857",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#15 - Mike  Munoz",
+      "assist1": "#71 - Francis  Aul",
+      "assist2": "#46 - Ian  Stack"
+    },
+    {
+      "period": "3",
+      "time": "00:01:01",
+      "team": {
+        "teamId": "1857",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#15 - Mike  Munoz",
+      "assist1": "#11 - Josh  Gilman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:09",
+      "team": {
+        "teamId": "1856",
+        "name": "Busch League"
+      },
+      "scorer": "#1 - Thomas  Newberg",
+      "assist1": "#17 - Marc  Patience",
+      "assist2": "#33 - Matt  Ponzurick"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1856",
+        "name": "Busch League"
+      },
+      "player": "#81 - David  Culverhouse",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "1857",
+        "name": "Blackskimmers"
+      },
+      "player": "#15 - Mike  Munoz",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:16",
+      "team": {
+        "teamId": "1857",
+        "name": "Blackskimmers"
+      },
+      "player": "#71 - Francis  Aul",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:40:22.236Z"
+}

@@ -1,0 +1,174 @@
+{
+  "gameId": "1530",
+  "date": "2025-06-14",
+  "divId": 303,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1892",
+    "name": "Red Dragons"
+  },
+  "away": {
+    "teamId": "1862",
+    "name": "Toronto"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:09",
+      "team": {
+        "teamId": "1892",
+        "name": "Red Dragons"
+      },
+      "scorer": "#57 - Dylan  Thomas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:52",
+      "team": {
+        "teamId": "1892",
+        "name": "Red Dragons"
+      },
+      "scorer": "#11 - Rob  Ryan",
+      "assist1": "#10 - John  Kolman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:19",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#28 - Harry  Nicholakos",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#8 - Elliott  Yang",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:09",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#54 - Tom  Montanio",
+      "assist1": "#28 - Harry  Nicholakos",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:04",
+      "team": {
+        "teamId": "1892",
+        "name": "Red Dragons"
+      },
+      "scorer": "#57 - Dylan  Thomas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:33",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#33 - Greg  Kowalski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:02",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#28 - Harry  Nicholakos",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:16",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#18 - Russ  Smith",
+      "assist2": "#48 - Randy  Sasai"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:58",
+      "team": {
+        "teamId": "1892",
+        "name": "Red Dragons"
+      },
+      "player": "#57 - Dylan  Thomas",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "1892",
+        "name": "Red Dragons"
+      },
+      "player": "#10 - John  Kolman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:37",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "player": "#8 - Elliott  Yang",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:41:46.028Z"
+}

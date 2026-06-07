@@ -1,0 +1,121 @@
+{
+  "gameId": "18707",
+  "date": "2026-01-12",
+  "divId": 323,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1984",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1982",
+    "name": "Horne Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1984",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#12 - Drew  Carbone",
+      "assist1": "#23 - Sal  St Thomas",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#28 - Alex  Rudulph",
+      "assist1": "#27 - Jamie  Prime",
+      "assist2": "#15 - Dave  Gorman"
+    },
+    {
+      "period": "3",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#25 - Neil  Dsouza",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:51",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:42",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "1984",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#11 - Gary  Caley",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:52",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "player": "#15 - Dave  Gorman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:02:16.700Z"
+}

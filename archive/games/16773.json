@@ -1,0 +1,95 @@
+{
+  "gameId": "16773",
+  "date": "2024-03-17",
+  "divId": 280,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1724",
+    "name": "Triassic Puck"
+  },
+  "away": {
+    "teamId": "1722",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:37",
+      "team": {
+        "teamId": "1724",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#21 - Chris  Beach",
+      "assist1": "#16 - Bailey  Robertory",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "1724",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#17 - Jonathan  Keeney",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:11",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#43 - Alex  Langsam",
+      "assist1": "#10 - Peter  McClusky",
+      "assist2": "#96 - Jeff  Moore"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "1722",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#42 - Maureen  OSullivan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:59",
+      "team": {
+        "teamId": "1724",
+        "name": "Triassic Puck"
+      },
+      "player": "#84 - Devon  Thomas",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:16:53.164Z"
+}

@@ -1,0 +1,165 @@
+{
+  "gameId": "1077",
+  "date": "2020-08-15",
+  "divId": 214,
+  "seasonName": "Winter 2019",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1352",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1355",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:39",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "scorer": "#47 - Talbot  Black",
+      "assist1": "#28 - Alex  Henry",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:27",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#2 - Shawn  Hatch",
+      "assist1": "#55 - Tim  Dutcher",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#24 - Max  Alexeev",
+      "assist1": "#1 - Bob  Arnold",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:00",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "scorer": "#76 - Scott  Raimist",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#37 - Mike  Przybyla",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:05:29",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:26",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:51",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "player": "#28 - Alex  Henry",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:45",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#15 - Mark  Rudnicki",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:15",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#25 - Jeff  Wojtala",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:12:25.896Z"
+}

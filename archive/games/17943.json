@@ -1,0 +1,187 @@
+{
+  "gameId": "17943",
+  "date": "2025-05-31",
+  "divId": 303,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1863",
+    "name": "Triassic Pucks"
+  },
+  "away": {
+    "teamId": "1862",
+    "name": "Toronto"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:42",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#18 - Russ  Smith",
+      "assist1": "#17 - John  Wallace",
+      "assist2": "#44 - Jim  McGovern"
+    },
+    {
+      "period": "1",
+      "time": "00:08:49",
+      "team": {
+        "teamId": "1863",
+        "name": "Triassic Pucks"
+      },
+      "scorer": "#62 - Michael  Coady",
+      "assist1": "#56 - George  Cernica",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:04",
+      "team": {
+        "teamId": "1863",
+        "name": "Triassic Pucks"
+      },
+      "scorer": "#89 - Dylan  Thomas",
+      "assist1": "#62 - Michael  Coady",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:08",
+      "team": {
+        "teamId": "1863",
+        "name": "Triassic Pucks"
+      },
+      "scorer": "#21 - Brody  Walkinshaw",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:28",
+      "team": {
+        "teamId": "1863",
+        "name": "Triassic Pucks"
+      },
+      "scorer": "#88 - Joe  Janiak",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:16",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:32",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#89 - Brandon  Barhorst",
+      "assist1": "#20 - Bao  Pham",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:19",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#48 - Randy  Sasai",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "player": "#32 - Brian  Freeman",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:34",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "player": "#6 - Matt  Johnson",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:48",
+      "team": {
+        "teamId": "1863",
+        "name": "Triassic Pucks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "Too Many Men",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:14",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "player": "#32 - Brian  Freeman",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:41:35.033Z"
+}

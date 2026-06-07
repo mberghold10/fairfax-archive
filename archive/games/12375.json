@@ -1,0 +1,206 @@
+{
+  "gameId": "12375",
+  "date": "2019-02-23",
+  "divId": 189,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1203",
+    "name": "Blackhawks"
+  },
+  "away": {
+    "teamId": "1201",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1201",
+        "name": "Kings"
+      },
+      "scorer": "#3 - Jude  Buckholz",
+      "assist1": "#88 - Chris  Peterkin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:52",
+      "team": {
+        "teamId": "1201",
+        "name": "Kings"
+      },
+      "scorer": "#88 - Chris  Peterkin",
+      "assist1": "#24 - Alex  Strunk",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:26",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": "#74 - Eric  Peterson",
+      "assist2": "#60 - Darryl  Drevna"
+    },
+    {
+      "period": "2",
+      "time": "00:09:56",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#22 - Cody  Reinitz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:23",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:49",
+      "team": {
+        "teamId": "1201",
+        "name": "Kings"
+      },
+      "player": "#3 - Jude  Buckholz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1201",
+        "name": "Kings"
+      },
+      "player": "#11 - Joel  Bosch",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "player": "#7 - Tyler  Kniaz",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:27",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "player": "#47 - Talbot  Black",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:52",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "player": "#22 - Cody  Reinitz",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:52",
+      "team": {
+        "teamId": "1201",
+        "name": "Kings"
+      },
+      "player": "#7 - Mike  Hoard",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:04",
+      "team": {
+        "teamId": "1201",
+        "name": "Kings"
+      },
+      "player": "#64 - Derek  Bluth",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:41:18.150Z"
+}

@@ -1,0 +1,204 @@
+{
+  "gameId": "10786",
+  "date": "2017-08-19",
+  "divId": 165,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1055",
+    "name": "Kings"
+  },
+  "away": {
+    "teamId": "1057",
+    "name": "Outlaws"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:13",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#27 - John  Dove",
+      "assist1": "#55 - Chris  Yoko",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#55 - Chris  Yoko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "1057",
+        "name": "Outlaws"
+      },
+      "scorer": "#10 - Mike  Boyajian",
+      "assist1": "#41 - Tony  Gorney",
+      "assist2": "#43 - Mike  Barnes"
+    },
+    {
+      "period": "3",
+      "time": "00:05:38",
+      "team": {
+        "teamId": "1057",
+        "name": "Outlaws"
+      },
+      "scorer": "#91 - Matt  Weeden",
+      "assist1": "#41 - Tony  Gorney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:10",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#21 - Andy  Heckmann",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:19",
+      "team": {
+        "teamId": "1057",
+        "name": "Outlaws"
+      },
+      "scorer": "#43 - Mike  Barnes",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:57",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#21 - Andy  Heckmann",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:01",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "player": "#27 - John  Dove",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:18",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "player": "#21 - Andy  Heckmann",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:47",
+      "team": {
+        "teamId": "1057",
+        "name": "Outlaws"
+      },
+      "player": "#10 - Mike  Boyajian",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "player": "#14 - Sam  Marchio",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "1057",
+        "name": "Outlaws"
+      },
+      "player": "#41 - Tony  Gorney",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:50",
+      "team": {
+        "teamId": "1057",
+        "name": "Outlaws"
+      },
+      "player": "#21 - Jerry  Achatz",
+      "pim": 5,
+      "offense": "charge",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:50",
+      "team": {
+        "teamId": "1057",
+        "name": "Outlaws"
+      },
+      "player": "#21 - Jerry  Achatz",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:12:22.681Z"
+}

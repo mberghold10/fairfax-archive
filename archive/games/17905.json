@@ -1,0 +1,112 @@
+{
+  "gameId": "17905",
+  "date": "2025-04-07",
+  "divId": 302,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1856",
+    "name": "Busch League"
+  },
+  "away": {
+    "teamId": "1859",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:15:00",
+      "team": {
+        "teamId": "1856",
+        "name": "Busch League"
+      },
+      "scorer": "#6 - Andy  Lindsey",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:59",
+      "team": {
+        "teamId": "1859",
+        "name": "Mad Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:32",
+      "team": {
+        "teamId": "1859",
+        "name": "Mad Dogs"
+      },
+      "player": "#34 - Josh  Davis",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:04",
+      "team": {
+        "teamId": "1859",
+        "name": "Mad Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:28",
+      "team": {
+        "teamId": "1859",
+        "name": "Mad Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "1859",
+        "name": "Mad Dogs"
+      },
+      "player": "#34 - Josh  Davis",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:40:18.189Z"
+}

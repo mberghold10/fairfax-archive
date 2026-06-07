@@ -1,0 +1,73 @@
+{
+  "gameId": "16622",
+  "date": "2023-11-05",
+  "divId": 284,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1746",
+    "name": "Hershey"
+  },
+  "away": {
+    "teamId": "1744",
+    "name": "Mesozoic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "4",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "1746",
+        "name": "Hershey"
+      },
+      "scorer": "#34 - William  Happ",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:35",
+      "team": {
+        "teamId": "1746",
+        "name": "Hershey"
+      },
+      "player": "#15 - Jacob  DePartee",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:21:09.679Z"
+}

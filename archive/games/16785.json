@@ -1,0 +1,215 @@
+{
+  "gameId": "16785",
+  "date": "2024-02-07",
+  "divId": 281,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1729",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "1727",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 4,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:01",
+      "team": {
+        "teamId": "1727",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1727",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:23",
+      "team": {
+        "teamId": "1729",
+        "name": "Bruins"
+      },
+      "scorer": "#16 - Peter  OKeefe",
+      "assist1": "#65 - Bobby  Woods-Corwin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:16",
+      "team": {
+        "teamId": "1727",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:39",
+      "team": {
+        "teamId": "1729",
+        "name": "Bruins"
+      },
+      "scorer": "#16 - Peter  OKeefe",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "1729",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#16 - Peter  OKeefe",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "1729",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#24 - Justin  Thompson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:25",
+      "team": {
+        "teamId": "1729",
+        "name": "Bruins"
+      },
+      "scorer": "#37 - Wilson  Korol",
+      "assist1": "#24 - Justin  Thompson",
+      "assist2": "#57 - Derek  Morrissette"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:25",
+      "team": {
+        "teamId": "1727",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:41",
+      "team": {
+        "teamId": "1729",
+        "name": "Bruins"
+      },
+      "player": "#24 - Justin  Thompson",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1727",
+        "name": "Swarm"
+      },
+      "player": "#41 - Erik  Kniaz",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:42",
+      "team": {
+        "teamId": "1729",
+        "name": "Bruins"
+      },
+      "player": "#16 - Peter  OKeefe",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "1729",
+        "name": "Bruins"
+      },
+      "player": "#37 - Wilson  Korol",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:23",
+      "team": {
+        "teamId": "1727",
+        "name": "Swarm"
+      },
+      "player": "#15 - Mike  Lowe",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "1729",
+        "name": "Bruins"
+      },
+      "player": "#85 - Aaron  Dobbs",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:17:38.286Z"
+}

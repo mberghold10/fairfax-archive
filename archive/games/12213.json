@@ -1,0 +1,244 @@
+{
+  "gameId": "12213",
+  "date": "2018-12-22",
+  "divId": 192,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1217",
+    "name": "Lightning"
+  },
+  "away": {
+    "teamId": "1222",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:56",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "scorer": "#34 - Jim  Kennedy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#71 - Jay  Yoon",
+      "assist1": "#92 - Caleb  Adams",
+      "assist2": "#9 - Tristan  Heyn"
+    },
+    {
+      "period": "1",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#7 - Brian  Ebert",
+      "assist1": "#92 - Caleb  Adams",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:36",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#71 - Jay  Yoon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:34",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "scorer": "#8 - Mike  Dmytrewycz",
+      "assist1": "#2 - Mitch  Levinson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:34",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "scorer": "#2 - Mitch  Levinson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:20",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "scorer": "#34 - Jim  Kennedy",
+      "assist1": "#2 - Mitch  Levinson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "scorer": "#22 - Chris  Simmons",
+      "assist1": "#91 - Steve  Chernoff",
+      "assist2": "#34 - Jim  Kennedy"
+    },
+    {
+      "period": "2",
+      "time": "00:11:20",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#92 - Caleb  Adams",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:50",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "scorer": "#2 - Mitch  Levinson",
+      "assist1": "#34 - Jim  Kennedy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:57",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#71 - Jay  Yoon",
+      "assist1": "#16 - Bailey  Robertory",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:37",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "scorer": "#2 - Mitch  Levinson",
+      "assist1": "#8 - Mike  Dmytrewycz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:19",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#16 - Bailey  Robertory",
+      "assist1": "#71 - Jay  Yoon",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "player": "#42 - Ryan  Bruun",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "player": "#42 - Ryan  Bruun",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "player": "#7 - Brian  Ebert",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "player": "#34 - Jim  Kennedy",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:58",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "player": "#33 - Mike  Wagner",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:44:51.929Z"
+}

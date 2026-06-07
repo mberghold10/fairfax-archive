@@ -1,0 +1,132 @@
+{
+  "gameId": "12269",
+  "date": "2018-10-25",
+  "divId": 195,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1235",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1236",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1236",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#98 - Matt  Criscuolo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:57",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "scorer": "#21 - Trevor  Wallace",
+      "assist1": "#18 - Chris  Kelly",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1236",
+        "name": "Team USA"
+      },
+      "scorer": "#20 - Rich  Utano",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": "#12 - Jason  Wakeman"
+    },
+    {
+      "period": "3",
+      "time": "00:11:41",
+      "team": {
+        "teamId": "1236",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:06",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "player": "#23 - Greg  Thomas",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:07",
+      "team": {
+        "teamId": "1236",
+        "name": "Team USA"
+      },
+      "player": "#44 - Greg  Powers",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:46",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "player": "#15 - Mike  Hempen",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:28",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "player": "#18 - Chris  Kelly",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:48:33.434Z"
+}

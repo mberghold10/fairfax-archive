@@ -1,0 +1,117 @@
+{
+  "gameId": "12455",
+  "date": "2019-02-03",
+  "divId": 192,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1221",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1218",
+    "name": "Turtle Power"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#8 - AJ  Ellis",
+      "assist1": "#67 - Brian  Landers",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#14 - David  Fisher",
+      "assist1": "#67 - Brian  Landers",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#72 - Dmitri  Ryutov",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:47",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#4 - Sam  Hausolhner",
+      "assist1": "#9 - Greg  Sisley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:24",
+      "team": {
+        "teamId": "1218",
+        "name": "Turtle Power"
+      },
+      "scorer": "#42 - Sean  Rankin",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:12",
+      "team": {
+        "teamId": "1218",
+        "name": "Turtle Power"
+      },
+      "player": "#42 - Sean  Rankin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#54 - Brian  Hensley",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:45:05.829Z"
+}

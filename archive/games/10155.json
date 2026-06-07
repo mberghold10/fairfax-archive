@@ -1,0 +1,154 @@
+{
+  "gameId": "10155",
+  "date": "2016-12-11",
+  "divId": 160,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1025",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "1028",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#28 - Michael  Berghold",
+      "assist1": "#4 - Kevin  Via",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#91 - Stephen  Tarditi",
+      "assist1": "#93 - David  Taves",
+      "assist2": "#16 - Brian  Murphy"
+    },
+    {
+      "period": "1",
+      "time": "00:13:46",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#91 - Stephen  Tarditi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:16:42",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#28 - Michael  Berghold",
+      "assist1": "#22 - Steven  Sullivan",
+      "assist2": "#74 - Matthew  Santos"
+    },
+    {
+      "period": "3",
+      "time": "00:01:26",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#22 - Steven  Sullivan",
+      "assist1": "#44 - George  Cernica",
+      "assist2": "#25 - Jack  Hur"
+    },
+    {
+      "period": "3",
+      "time": "00:11:25",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#25 - Neil  DSouza",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "player": "#16 - Brian  Murphy",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:01:57",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#22 - Steven  Sullivan",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#22 - Steven  Sullivan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:21",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#66 - Steven  Spector",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:43:05.890Z"
+}

@@ -1,0 +1,265 @@
+{
+  "gameId": "1486",
+  "date": "2024-11-11",
+  "divId": 289,
+  "seasonName": "Summer 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1777",
+    "name": "Red Dragons"
+  },
+  "away": {
+    "teamId": "1776",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1777",
+        "name": "Red Dragons"
+      },
+      "scorer": "#7 - Connor  Anderson",
+      "assist1": "#83 - Zach  Spencer",
+      "assist2": "#71 - Robie  Raymond"
+    },
+    {
+      "period": "1",
+      "time": "00:01:43",
+      "team": {
+        "teamId": "1776",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#11 - Josh  Gilman",
+      "assist1": "#86 - Pat  McMahon",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "1776",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#10 - Scott  Peterson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:33",
+      "team": {
+        "teamId": "1776",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#19 - Nate  Rozelle",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:56",
+      "team": {
+        "teamId": "1777",
+        "name": "Red Dragons"
+      },
+      "scorer": "#71 - Robie  Raymond",
+      "assist1": "#7 - Connor  Anderson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:37",
+      "team": {
+        "teamId": "1776",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#15 - Mike  Munoz",
+      "assist1": "#71 - Francis  Aul",
+      "assist2": "#24 - Conor  Woods"
+    },
+    {
+      "period": "3",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1777",
+        "name": "Red Dragons"
+      },
+      "scorer": "#71 - Robie  Raymond",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:52",
+      "team": {
+        "teamId": "1777",
+        "name": "Red Dragons"
+      },
+      "scorer": "#4 - Josiah  Renton",
+      "assist1": "#7 - Connor  Anderson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:57",
+      "team": {
+        "teamId": "1777",
+        "name": "Red Dragons"
+      },
+      "scorer": "#4 - Josiah  Renton",
+      "assist1": "#20 - Charlie  Curia",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:49",
+      "team": {
+        "teamId": "1776",
+        "name": "Blackskimmers"
+      },
+      "player": "#86 - Pat  McMahon",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "1777",
+        "name": "Red Dragons"
+      },
+      "player": "#34 - Howard  Uman",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:33",
+      "team": {
+        "teamId": "1777",
+        "name": "Red Dragons"
+      },
+      "player": "#7 - Connor  Anderson",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:33",
+      "team": {
+        "teamId": "1777",
+        "name": "Red Dragons"
+      },
+      "player": "#7 - Connor  Anderson",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:42",
+      "team": {
+        "teamId": "1776",
+        "name": "Blackskimmers"
+      },
+      "player": "#10 - Scott  Peterson",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1776",
+        "name": "Blackskimmers"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1776",
+        "name": "Blackskimmers"
+      },
+      "player": "#15 - Mike  Munoz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:24",
+      "team": {
+        "teamId": "1776",
+        "name": "Blackskimmers"
+      },
+      "player": "#17 - JP  Christophe",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:42",
+      "team": {
+        "teamId": "1777",
+        "name": "Red Dragons"
+      },
+      "player": "#7 - Connor  Anderson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:06",
+      "team": {
+        "teamId": "1776",
+        "name": "Blackskimmers"
+      },
+      "player": "#10 - Scott  Peterson",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:27:08.878Z"
+}

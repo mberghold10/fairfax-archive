@@ -1,0 +1,154 @@
+{
+  "gameId": "12033",
+  "date": "2018-09-15",
+  "divId": 183,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1164",
+    "name": "Kings"
+  },
+  "away": {
+    "teamId": "1162",
+    "name": "Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:32",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#18 - Steve  Percival",
+      "assist2": "#28 - Jack  Wilmer"
+    },
+    {
+      "period": "2",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#55 - Dan  Middleton",
+      "assist1": "#20 - Jeff  Carter",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:14",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#79 - Jeff  Vandenberghe",
+      "assist1": "#24 - Brian  Crossin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "scorer": "#13 - Vincent  Coffey",
+      "assist1": "#21 - Andy  Heckmann",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#18 - Steve  Percival",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:42",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "scorer": "#21 - Andy  Heckmann",
+      "assist1": "#20 - Nico  Felice",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:06",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "player": "#12 - Dan  Butala",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:05",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "player": "#28 - Chris  Marotta",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:16",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "player": "#13 - Vincent  Coffey",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:56",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "player": "#18 - Steve  Percival",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:34:16.218Z"
+}

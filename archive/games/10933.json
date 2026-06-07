@@ -1,0 +1,141 @@
+{
+  "gameId": "10933",
+  "date": "2017-09-10",
+  "divId": 168,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1073",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1085",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:35",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#6 - Matt  Johnson",
+      "assist2": "#24 - Harry  Nicholakos"
+    },
+    {
+      "period": "1",
+      "time": "00:09:02",
+      "team": {
+        "teamId": "1085",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "# -",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#3 - Steven  Schooner",
+      "assist1": "#27 - Jamie  Prime",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:27",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#6 - Matt  Johnson",
+      "assist1": "#3 - Steven  Schooner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#6 - Matt  Johnson",
+      "assist1": "#16 - Dave  Smith",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:50",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#96 - Geoffrey  Ackerman",
+      "assist1": "#27 - Jamie  Prime",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "player": "#16 - Dave  Smith",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:12",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "player": "#6 - Matt  Johnson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:04",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "player": "#6 - Matt  Johnson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:16:09.794Z"
+}

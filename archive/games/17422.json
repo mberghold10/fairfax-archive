@@ -1,0 +1,143 @@
+{
+  "gameId": "17422",
+  "date": "2024-09-21",
+  "divId": 295,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1802",
+    "name": "Mesozoic Puck"
+  },
+  "away": {
+    "teamId": "1805",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:15:30",
+      "team": {
+        "teamId": "1802",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#0 - Connor  Dwyer",
+      "assist1": "#9 - Munkhod  Dansran",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:20",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#13 - Alex  Rudulph",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:30",
+      "team": {
+        "teamId": "1802",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#42 - Jonathan  Coley",
+      "assist1": "#33 - Scott  Coco",
+      "assist2": "#21 - Joe  Rhodes"
+    },
+    {
+      "period": "3",
+      "time": "00:03:55",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#93 - Robert  Wagner",
+      "assist1": "#15 - Dave  Gorman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:17:40",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#13 - Alex  Rudulph",
+      "assist1": "#41 - Alessio  Evangelista",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "player": "#19 - Troy  Edwards",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:27",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "player": "#15 - Dave  Gorman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:00",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "player": "#18 - Lee  Freedman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "player": "#6 - Armand  Alacbay",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:33:07.932Z"
+}

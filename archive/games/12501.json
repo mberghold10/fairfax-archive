@@ -1,0 +1,154 @@
+{
+  "gameId": "12501",
+  "date": "2019-03-04",
+  "divId": 193,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1224",
+    "name": "Triassic Puck"
+  },
+  "away": {
+    "teamId": "1225",
+    "name": "Steamed Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "1225",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#77 - Alex  Wang",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:50",
+      "team": {
+        "teamId": "1225",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#18 - Craig  McCall",
+      "assist1": "#3 - Mat  White",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:02",
+      "team": {
+        "teamId": "1224",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#27 - Mike  Fullen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "1225",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#67 - John F Krotzer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:43",
+      "team": {
+        "teamId": "1225",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#40 - Hank  Kim",
+      "assist1": "#43 - Steve  Sincavage",
+      "assist2": "#61 - Jake  Middel"
+    },
+    {
+      "period": "3",
+      "time": "00:12:49",
+      "team": {
+        "teamId": "1224",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#10 - Radoslaw  Kaczor",
+      "assist1": "#27 - Mike  Fullen",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "1224",
+        "name": "Triassic Puck"
+      },
+      "player": "#11 - George  Cernica",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:52",
+      "team": {
+        "teamId": "1225",
+        "name": "Steamed Crabs"
+      },
+      "player": "#77 - Alex  Wang",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1225",
+        "name": "Steamed Crabs"
+      },
+      "player": "#77 - Alex  Wang",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1225",
+        "name": "Steamed Crabs"
+      },
+      "player": "#22 - Trevor  Blair",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:46:40.692Z"
+}

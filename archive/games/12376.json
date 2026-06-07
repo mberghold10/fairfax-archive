@@ -1,0 +1,161 @@
+{
+  "gameId": "12376",
+  "date": "2019-02-24",
+  "divId": 189,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1203",
+    "name": "Blackhawks"
+  },
+  "away": {
+    "teamId": "1200",
+    "name": "Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 1,
+      "ot": 1,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "scorer": "#18 - Steve  Percival",
+      "assist1": "#11 - Mike  Dumont",
+      "assist2": "#90 - Shawn  McEvoy"
+    },
+    {
+      "period": "2",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "scorer": "#90 - Shawn  McEvoy",
+      "assist1": "#15 - Doug  Vanderbilt",
+      "assist2": "#79 - Jeff  Vandenberghe"
+    },
+    {
+      "period": "2",
+      "time": "00:08:09",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "scorer": "#90 - Shawn  McEvoy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "scorer": "#36 - Bill  Ludke",
+      "assist1": "#31 - Alex  Deyoung",
+      "assist2": "#8 - Brenden  Millice"
+    },
+    {
+      "period": "2",
+      "time": "00:12:35",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:33",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:52",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "scorer": "#90 - Shawn  McEvoy",
+      "assist1": "#15 - Doug  Vanderbilt",
+      "assist2": "#79 - Jeff  Vandenberghe"
+    },
+    {
+      "period": "3",
+      "time": "00:12:24",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "scorer": "#18 - Steve  Percival",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:12:45",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "player": "#18 - Steve  Percival",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:04",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "player": "#90 - Shawn  McEvoy",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:41:19.125Z"
+}

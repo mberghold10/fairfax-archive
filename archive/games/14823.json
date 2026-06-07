@@ -1,0 +1,139 @@
+{
+  "gameId": "14823",
+  "date": "2022-02-06",
+  "divId": 248,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1532",
+    "name": "Roughnecks"
+  },
+  "away": {
+    "teamId": "1534",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:52",
+      "team": {
+        "teamId": "1534",
+        "name": "Red Wings"
+      },
+      "scorer": "#16 - Wei  Wang",
+      "assist1": "#11 - Greg  Kowalski",
+      "assist2": "#25 - James  Chu"
+    },
+    {
+      "period": "1",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1532",
+        "name": "Roughnecks"
+      },
+      "scorer": "#63 - Chris  Delew",
+      "assist1": "#11 - Carl  Froemming",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1534",
+        "name": "Red Wings"
+      },
+      "scorer": "#11 - Greg  Kowalski",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:19:21",
+      "team": {
+        "teamId": "1532",
+        "name": "Roughnecks"
+      },
+      "scorer": "#13 - Dzastina  Haislmaier",
+      "assist1": "#11 - Carl  Froemming",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:23",
+      "team": {
+        "teamId": "1534",
+        "name": "Red Wings"
+      },
+      "scorer": "#25 - James  Chu",
+      "assist1": "#11 - Greg  Kowalski",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:40",
+      "team": {
+        "teamId": "1532",
+        "name": "Roughnecks"
+      },
+      "scorer": "#85 - David  Goldstein",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1532",
+        "name": "Roughnecks"
+      },
+      "scorer": "#13 - Dzastina  Haislmaier",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:48",
+      "team": {
+        "teamId": "1534",
+        "name": "Red Wings"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "1532",
+        "name": "Roughnecks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:39:07.387Z"
+}

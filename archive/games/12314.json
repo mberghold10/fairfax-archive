@@ -1,0 +1,152 @@
+{
+  "gameId": "12314",
+  "date": "2018-12-08",
+  "divId": 196,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1247",
+    "name": "Beltway Butchers"
+  },
+  "away": {
+    "teamId": "1242",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:10:36",
+      "team": {
+        "teamId": "1242",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": "#32 - Brian  Freeman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:06",
+      "team": {
+        "teamId": "1242",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": "#31 - Alex  Brown",
+      "assist2": "#49 - Romano  Dickerson"
+    },
+    {
+      "period": "2",
+      "time": "00:13:52",
+      "team": {
+        "teamId": "1242",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#3 - Frank  Thomason",
+      "assist1": "#20 - Bao  Pham",
+      "assist2": "#22 - Jimmy  Nguyen"
+    },
+    {
+      "period": "3",
+      "time": "00:00:04",
+      "team": {
+        "teamId": "1242",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#13 - Trevor  Wallace",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:29",
+      "team": {
+        "teamId": "1242",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#22 - Jimmy  Nguyen",
+      "assist1": "#20 - Bao  Pham",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "1247",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#3 - Jeff  Alton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "1247",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#86 - John  Persinger",
+      "assist1": "#4 - Peter  van Aartrijk",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:06:24",
+      "team": {
+        "teamId": "1247",
+        "name": "Beltway Butchers"
+      },
+      "player": "#23 - Ken  Degrave",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:35",
+      "team": {
+        "teamId": "1247",
+        "name": "Beltway Butchers"
+      },
+      "player": "#23 - Ken  Degrave",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:48",
+      "team": {
+        "teamId": "1242",
+        "name": "Maple Leafs"
+      },
+      "player": "#31 - Alex  Brown",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:50:17.095Z"
+}

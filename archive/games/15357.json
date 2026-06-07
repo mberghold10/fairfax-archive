@@ -1,0 +1,115 @@
+{
+  "gameId": "15357",
+  "date": "2022-10-18",
+  "divId": 258,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1591",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1590",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "1590",
+        "name": "Kings"
+      },
+      "scorer": "#2 - Anders  Gleason",
+      "assist1": "#64 - Derek  Bluth",
+      "assist2": "#43 - Anthony  Federico"
+    },
+    {
+      "period": "1",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "1590",
+        "name": "Kings"
+      },
+      "scorer": "#2 - Anders  Gleason",
+      "assist1": "#43 - Anthony  Federico",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:04",
+      "team": {
+        "teamId": "1590",
+        "name": "Kings"
+      },
+      "scorer": "#2 - Anders  Gleason",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:55",
+      "team": {
+        "teamId": "1591",
+        "name": "Outlaws"
+      },
+      "scorer": "#91 - Matt  Weeden",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:01",
+      "team": {
+        "teamId": "1590",
+        "name": "Kings"
+      },
+      "scorer": "#3 - Dylan  Tureff",
+      "assist1": "#2 - Anders  Gleason",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:54",
+      "team": {
+        "teamId": "1590",
+        "name": "Kings"
+      },
+      "scorer": "#8 - David  Satagaj",
+      "assist1": "#2 - Anders  Gleason",
+      "assist2": "#3 - Dylan  Tureff"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:11:38",
+      "team": {
+        "teamId": "1590",
+        "name": "Kings"
+      },
+      "player": "#43 - Anthony  Federico",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:49:47.862Z"
+}

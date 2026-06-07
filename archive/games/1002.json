@@ -1,0 +1,171 @@
+{
+  "gameId": "1002",
+  "date": "2019-04-20",
+  "divId": 197,
+  "seasonName": "Winter 2018",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1249",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1251",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:06",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "scorer": "#81 - Sean  Murphy",
+      "assist1": "#11 - Aaron  Pollon",
+      "assist2": "#9 - Maddy  Padgett"
+    },
+    {
+      "period": "2",
+      "time": "00:07:48",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "scorer": "#81 - Sean  Murphy",
+      "assist1": "#68 - Matt  Taylor",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:44",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "scorer": "#79 - Igor  Helman",
+      "assist1": "#17 - Michael  Bagnall",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:41",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "scorer": "#81 - Sean  Murphy",
+      "assist1": "#9 - Maddy  Padgett",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "player": "#40 - Brandon  Honeycutt",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:37",
+      "team": {
+        "teamId": "1249",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#4 - Jonathan  Carter",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:13",
+      "team": {
+        "teamId": "1249",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#12 - Cailin  OConnell",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "player": "#81 - Sean  Murphy",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "player": "#81 - Sean  Murphy",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:53",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "player": "#94 - Michael  Starego",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:52:21.269Z"
+}

@@ -1,0 +1,139 @@
+{
+  "gameId": "18353",
+  "date": "2025-08-30",
+  "divId": 318,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1946",
+    "name": "Valor Puckaneers"
+  },
+  "away": {
+    "teamId": "1952",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:41",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": "#24 - Jake  Middel",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:38",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "scorer": "#24 - Jake  Middel",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": "#12 - Kevin  James"
+    },
+    {
+      "period": "1",
+      "time": "00:09:54",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "scorer": "#85 - Dan  Katt",
+      "assist1": "#3 - Alex  Naranjo",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:18:20",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": "#24 - Jake  Middel"
+    },
+    {
+      "period": "3",
+      "time": "00:01:13",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "scorer": "#16 - Wei  Wang",
+      "assist1": "#12 - Kevin  James",
+      "assist2": "#14 - David  Fisher"
+    },
+    {
+      "period": "3",
+      "time": "00:10:24",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "scorer": "#12 - Alex  Lewis",
+      "assist1": "#13 - Justin  Leonard",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "scorer": "#72 - Joseph  DeWolfe",
+      "assist1": "#27 - David  Lin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:15:04",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "player": "#4 - Gugene  Martin",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:57:16.898Z"
+}

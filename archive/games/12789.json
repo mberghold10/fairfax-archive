@@ -1,0 +1,161 @@
+{
+  "gameId": "12789",
+  "date": "2019-06-23",
+  "divId": 201,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1280",
+    "name": "Beltway Butchers"
+  },
+  "away": {
+    "teamId": "1278",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 4,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 8
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#37 - Nick  Desport",
+      "assist2": "#71 - Dan  Pol"
+    },
+    {
+      "period": "1",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#10 - Matt  Johnson",
+      "assist1": "#24 - Mike  Duell",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:38",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#10 - Matt  Johnson",
+      "assist1": "#22 - Charlie  Campbell",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:28",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#10 - Matt  Johnson",
+      "assist1": "#98 - Bob  Shaw",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#24 - Mike  Duell",
+      "assist1": "#71 - Dan  Pol",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:33",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#22 - Charlie  Campbell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:01",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#21 - John  Elliott",
+      "assist1": "#88 - TJ  Doherty",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:01",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:34",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#57 - Howard  Uman",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:48",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "player": "#57 - Howard  Uman",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "player": "#57 - Howard  Uman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:56:27.347Z"
+}

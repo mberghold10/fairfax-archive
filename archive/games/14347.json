@@ -1,0 +1,191 @@
+{
+  "gameId": "14347",
+  "date": "2021-09-23",
+  "divId": 236,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1471",
+    "name": "Anonymous"
+  },
+  "away": {
+    "teamId": "1475",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:36",
+      "team": {
+        "teamId": "1475",
+        "name": "Coyotes"
+      },
+      "scorer": "#55 - Ken  Alm",
+      "assist1": "#900 - Rob  Wittman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:41",
+      "team": {
+        "teamId": "1471",
+        "name": "Anonymous"
+      },
+      "scorer": "#77 - Erik  Bergman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "1471",
+        "name": "Anonymous"
+      },
+      "scorer": "#3 - Bill  Kang",
+      "assist1": "#89 - Andrew  Grose",
+      "assist2": "#15 - Bob  Guckian"
+    },
+    {
+      "period": "2",
+      "time": "00:08:32",
+      "team": {
+        "teamId": "1475",
+        "name": "Coyotes"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": "#5 - Andy  Loggia",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:14",
+      "team": {
+        "teamId": "1475",
+        "name": "Coyotes"
+      },
+      "scorer": "#900 - Rob  Wittman",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:56",
+      "team": {
+        "teamId": "1471",
+        "name": "Anonymous"
+      },
+      "scorer": "#53 - Don  Modder",
+      "assist1": "#89 - Andrew  Grose",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "1475",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#25 - Steve  Tamburo",
+      "assist2": "#900 - Rob  Wittman"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "1471",
+        "name": "Anonymous"
+      },
+      "player": "#17 - Bill  Demaso",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1471",
+        "name": "Anonymous"
+      },
+      "player": "#15 - Bob  Guckian",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:58",
+      "team": {
+        "teamId": "1475",
+        "name": "Coyotes"
+      },
+      "player": "#4 - Paul  Cicchetti",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:35",
+      "team": {
+        "teamId": "1475",
+        "name": "Coyotes"
+      },
+      "player": "#55 - Ken  Alm",
+      "pim": 5,
+      "offense": "cross check",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:35",
+      "team": {
+        "teamId": "1475",
+        "name": "Coyotes"
+      },
+      "player": "#55 - Ken  Alm",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:33",
+      "team": {
+        "teamId": "1471",
+        "name": "Anonymous"
+      },
+      "player": "#77 - Erik  Bergman",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:28:13.989Z"
+}

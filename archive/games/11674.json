@@ -1,0 +1,139 @@
+{
+  "gameId": "11674",
+  "date": "2018-06-17",
+  "divId": 185,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1179",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1175",
+    "name": "Red Devils"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:15",
+      "team": {
+        "teamId": "1179",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#51 - Pat  Nealon",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "1175",
+        "name": "Red Devils"
+      },
+      "scorer": "#6 - Faraz  Izadi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:10",
+      "team": {
+        "teamId": "1175",
+        "name": "Red Devils"
+      },
+      "scorer": "#6 - Faraz  Izadi",
+      "assist1": "#5 - Joel  Dever",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:09",
+      "team": {
+        "teamId": "1175",
+        "name": "Red Devils"
+      },
+      "scorer": "#6 - Faraz  Izadi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1179",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#6 - Bob  Friess",
+      "assist1": "#71 - Dan  Cosentino",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:36",
+      "team": {
+        "teamId": "1179",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#20 - Jeff  Carter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:59",
+      "team": {
+        "teamId": "1179",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#51 - Pat  Nealon",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "1179",
+        "name": "Blue Crabs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1175",
+        "name": "Red Devils"
+      },
+      "player": "#7 - Sam  Hauslohner",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:36:03.558Z"
+}

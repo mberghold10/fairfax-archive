@@ -1,0 +1,117 @@
+{
+  "gameId": "12562",
+  "date": "2019-02-24",
+  "divId": 195,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1239",
+    "name": "Old Goats"
+  },
+  "away": {
+    "teamId": "1240",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:20",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": "#19 - Joe  Dunn",
+      "assist2": "#28 - Alex  Henry"
+    },
+    {
+      "period": "1",
+      "time": "00:12:09",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": "#12 - Paul  Zalocha",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "scorer": "#44 - Mick  Ellsworth",
+      "assist1": "#69 - Ron  Fishbeck",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "scorer": "#32 - Phil  Antoun",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "scorer": "#69 - Ron  Fishbeck",
+      "assist1": "#47 - Talbot  Black",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:07:49",
+      "team": {
+        "teamId": "1239",
+        "name": "Old Goats"
+      },
+      "player": "#6 - Brad  Seibert",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:04",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "player": "#9 - Brian  Mehnert",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:49:22.454Z"
+}

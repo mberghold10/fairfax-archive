@@ -1,0 +1,93 @@
+{
+  "gameId": "11452",
+  "date": "2018-02-18",
+  "divId": 177,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1130",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1132",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:29",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#65 - Steve  Roeseler",
+      "assist1": "#96 - Geoff  Ackerman",
+      "assist2": "#44 - Jim  McGovern"
+    },
+    {
+      "period": "2",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1132",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#28 - Ed  Holleran",
+      "assist1": "#67 - Brian  Landers",
+      "assist2": "#71 - Mark  Saucer"
+    },
+    {
+      "period": "2",
+      "time": "00:08:06",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#96 - Geoff  Ackerman",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1132",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#77 - Dennis  Valentine",
+      "assist1": "#4 - Sam  Hauslohner",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:33",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "player": "#24 - Harry  Nicholakos",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:27:14.525Z"
+}

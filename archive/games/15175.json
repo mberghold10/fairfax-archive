@@ -1,0 +1,178 @@
+{
+  "gameId": "15175",
+  "date": "2022-08-15",
+  "divId": 251,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1551",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1549",
+    "name": "D Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:48",
+      "team": {
+        "teamId": "1549",
+        "name": "D Punishers"
+      },
+      "scorer": "#25 - Eli  Beinke",
+      "assist1": "#37 - Nick  Desport",
+      "assist2": "#38 - Mike  Andrien"
+    },
+    {
+      "period": "2",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1549",
+        "name": "D Punishers"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": "#25 - Eli  Beinke",
+      "assist2": "#38 - Mike  Andrien"
+    },
+    {
+      "period": "2",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "1551",
+        "name": "Angry Moose"
+      },
+      "scorer": "#53 - Robert  Hutchinson",
+      "assist1": "#28 - Doug  Branton",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:29",
+      "team": {
+        "teamId": "1551",
+        "name": "Angry Moose"
+      },
+      "scorer": "#16 - Ben  Huff",
+      "assist1": "#53 - Robert  Hutchinson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:52",
+      "team": {
+        "teamId": "1549",
+        "name": "D Punishers"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:56",
+      "team": {
+        "teamId": "1551",
+        "name": "Angry Moose"
+      },
+      "scorer": "#1 - Ryan  Gardiner",
+      "assist1": "#28 - Doug  Branton",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:08",
+      "team": {
+        "teamId": "1551",
+        "name": "Angry Moose"
+      },
+      "scorer": "#17 - Anthony  Vitucci",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:28",
+      "team": {
+        "teamId": "1549",
+        "name": "D Punishers"
+      },
+      "player": "#38 - Mike  Andrien",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:38",
+      "team": {
+        "teamId": "1551",
+        "name": "Angry Moose"
+      },
+      "player": "#88 - Pete  Lee",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:07",
+      "team": {
+        "teamId": "1549",
+        "name": "D Punishers"
+      },
+      "player": "#29 - Brian  Mehnert",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "1549",
+        "name": "D Punishers"
+      },
+      "player": "#12 - Dave  OMalley",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:47",
+      "team": {
+        "teamId": "1549",
+        "name": "D Punishers"
+      },
+      "player": "#27 - Dave  Lin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:42:50.614Z"
+}

@@ -1,0 +1,233 @@
+{
+  "gameId": "14505",
+  "date": "2022-04-06",
+  "divId": 245,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1516",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1515",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 4,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 8
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:01",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#78 - Noe  Hatchuel",
+      "assist2": "#8 - Brendan  Millice"
+    },
+    {
+      "period": "1",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:19",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "scorer": "#28 - Charles  Hale",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": "#2 - Tim  Commerford"
+    },
+    {
+      "period": "1",
+      "time": "00:10:14",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "scorer": "#78 - Noe  Hatchuel",
+      "assist1": "#8 - Brendan  Millice",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:35",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#75 - Jeff  Koka",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:12",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:17",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "scorer": "#18 - Samson  Chu",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:26",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "scorer": "#78 - Noe  Hatchuel",
+      "assist1": "#8 - Brendan  Millice",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#8 - Rod  Wade",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:41",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "scorer": "#78 - Noe  Hatchuel",
+      "assist1": "#8 - Brendan  Millice",
+      "assist2": "#67 - Chris  Dour"
+    },
+    {
+      "period": "3",
+      "time": "00:04:58",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "scorer": "#28 - Charles  Hale",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": "#8 - Rod  Wade"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:05",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "player": "#28 - Charles  Hale",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:34",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "player": "#15 - John  Cushing",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:54",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "player": "#32 - Carl  Wojcik",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:47",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "player": "#2 - Tim  Commerford",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "player": "#36 - William  Ludke",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:35:45.018Z"
+}

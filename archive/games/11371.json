@@ -1,0 +1,143 @@
+{
+  "gameId": "11371",
+  "date": "2018-01-07",
+  "divId": 175,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1115",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1120",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#9 - Jon  Goldstein",
+      "assist1": "#29 - Michael  Carzoli",
+      "assist2": "#73 - Joshua  Schmand"
+    },
+    {
+      "period": "1",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#64 - Bob  Fischer",
+      "assist1": "#63 - Steven  Yu",
+      "assist2": "#5 - Joseph  Ney"
+    },
+    {
+      "period": "1",
+      "time": "00:14:20",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#64 - Bob  Fischer",
+      "assist1": "#11 - Daniel  Ferrucci",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#42 - Adam  Russell",
+      "assist1": "#16 - Nurali  Jamani",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:32",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#73 - Joshua  Schmand",
+      "assist1": "#1 - Sam  Crowley",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "player": "#15 - Tom  Budris",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:59",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "player": "#88 - Todd  Mariano",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:00",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "player": "#6 - Matt  Dwyer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:24:08.796Z"
+}

@@ -1,0 +1,154 @@
+{
+  "gameId": "14306",
+  "date": "2021-09-19",
+  "divId": 233,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1453",
+    "name": "Jurassic Puck"
+  },
+  "away": {
+    "teamId": "1454",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "scorer": "#87 - Scott  Fausneaucht",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1453",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#22 - Patrick  Smith",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:41",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "scorer": "#4 - Ryan  Cantwell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:59",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "scorer": "#22 - Mike  Treme",
+      "assist1": "#9 - Jason  Benedict",
+      "assist2": "#0 - Jory  Rubenstein"
+    },
+    {
+      "period": "2",
+      "time": "00:09:14",
+      "team": {
+        "teamId": "1453",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#50 - Steve  Lavery",
+      "assist1": "#3 - Michael  Berghold",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "scorer": "#47 - Jeff  Urlwin",
+      "assist1": "#21 - Kevin  Lockland",
+      "assist2": "#87 - Scott  Fausneaucht"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:58",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "player": "#9 - Jason  Benedict",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "player": "#42 - Dan  Schwind",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1453",
+        "name": "Jurassic Puck"
+      },
+      "player": "#14 - Andrew  Prantner",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "player": "#42 - Dan  Schwind",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:25:43.640Z"
+}

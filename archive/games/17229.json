@@ -1,0 +1,84 @@
+{
+  "gameId": "17229",
+  "date": "2024-09-16",
+  "divId": 287,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1762",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1761",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:16",
+      "team": {
+        "teamId": "1761",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#11 - Scott  Choronzy",
+      "assist1": "#14 - Paul  Tourbaf",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:52",
+      "team": {
+        "teamId": "1761",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#23 - Mark  Rodemoyer",
+      "assist1": "#14 - Paul  Tourbaf",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:14:28",
+      "team": {
+        "teamId": "1761",
+        "name": "British Bulldogs"
+      },
+      "player": "#2 - Ari  Loggia",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "1762",
+        "name": "Dragons"
+      },
+      "player": "#56 - Daniel  Meaux",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:24:31.528Z"
+}

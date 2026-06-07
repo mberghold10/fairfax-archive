@@ -1,0 +1,265 @@
+{
+  "gameId": "17590",
+  "date": "2024-12-23",
+  "divId": 301,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1850",
+    "name": "Windbreakers"
+  },
+  "away": {
+    "teamId": "1852",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1852",
+        "name": "Rink Rats"
+      },
+      "scorer": "#22 - Matthew  Thrasher",
+      "assist1": "#25 - Dave  Brown",
+      "assist2": "#34 - Evan  Tierney"
+    },
+    {
+      "period": "1",
+      "time": "00:02:21",
+      "team": {
+        "teamId": "1850",
+        "name": "Windbreakers"
+      },
+      "scorer": "#3 - Mitch  Federman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:56",
+      "team": {
+        "teamId": "1852",
+        "name": "Rink Rats"
+      },
+      "scorer": "#34 - Evan  Tierney",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1852",
+        "name": "Rink Rats"
+      },
+      "scorer": "#34 - Evan  Tierney",
+      "assist1": "#9 - Chris  ORear",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:20",
+      "team": {
+        "teamId": "1852",
+        "name": "Rink Rats"
+      },
+      "scorer": "#22 - Matthew  Thrasher",
+      "assist1": "#34 - Evan  Tierney",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:22",
+      "team": {
+        "teamId": "1850",
+        "name": "Windbreakers"
+      },
+      "scorer": "#47 - Peter  Vesley",
+      "assist1": "#86 - Chris  Zimmer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:54",
+      "team": {
+        "teamId": "1850",
+        "name": "Windbreakers"
+      },
+      "scorer": "#6 - Kelly  Harmon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:41",
+      "team": {
+        "teamId": "1852",
+        "name": "Rink Rats"
+      },
+      "scorer": "#22 - Matthew  Thrasher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:54",
+      "team": {
+        "teamId": "1850",
+        "name": "Windbreakers"
+      },
+      "scorer": "#3 - Mitch  Federman",
+      "assist1": "#86 - Chris  Zimmer",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1850",
+        "name": "Windbreakers"
+      },
+      "player": "#69 - Alex  Zurbach",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1850",
+        "name": "Windbreakers"
+      },
+      "player": "#902 - Joey  Latona",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1850",
+        "name": "Windbreakers"
+      },
+      "player": "#902 - Joey  Latona",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1850",
+        "name": "Windbreakers"
+      },
+      "player": "#93 - Bill  Kang",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1852",
+        "name": "Rink Rats"
+      },
+      "player": "#22 - Matthew  Thrasher",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "1850",
+        "name": "Windbreakers"
+      },
+      "player": "#44 - Kyle  McGraw",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "1850",
+        "name": "Windbreakers"
+      },
+      "player": "#44 - Kyle  McGraw",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "1852",
+        "name": "Rink Rats"
+      },
+      "player": "#59 - Jared  Trevethan",
+      "pim": 2,
+      "offense": "charge",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "1852",
+        "name": "Rink Rats"
+      },
+      "player": "#59 - Jared  Trevethan",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1852",
+        "name": "Rink Rats"
+      },
+      "player": "#25 - Dave  Brown",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:38:48.594Z"
+}

@@ -1,0 +1,167 @@
+{
+  "gameId": "16971",
+  "date": "2024-06-09",
+  "divId": 292,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1787",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1790",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:54",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "scorer": "#4 - John  Conmy",
+      "assist1": "#27 - Aemon  Cashin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:17",
+      "team": {
+        "teamId": "1787",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:18",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "scorer": "#50 - Matt  Cerce",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:15",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": "#49 - Greg  Mullen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "scorer": "#27 - Aemon  Cashin",
+      "assist1": "#4 - John  Conmy",
+      "assist2": "#47 - Talbot  Black"
+    },
+    {
+      "period": "3",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "1787",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#5 - Oleg  Kolodin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:28",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "player": "#4 - John  Conmy",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:51",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:00",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "player": "#18 - Mike  Sharp",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "player": "#27 - Aemon  Cashin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:29",
+      "team": {
+        "teamId": "1787",
+        "name": "Team USA"
+      },
+      "player": "#9 - Ken  Fritzke",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:29:17.644Z"
+}

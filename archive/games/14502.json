@@ -1,0 +1,156 @@
+{
+  "gameId": "14502",
+  "date": "2021-12-01",
+  "divId": 245,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1515",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1516",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "scorer": "#18 - Samson  Chu",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:16",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#8 - Rod  Wade",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:34",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "scorer": "#28 - Charles  Hale",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:12",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": "#7 - Joseph  Hull"
+    },
+    {
+      "period": "2",
+      "time": "00:13:16",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "scorer": "#7 - Joseph  Hull",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": "#15 - John  Cushing"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:07",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "player": "#77 - Oleg  Nayandin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:27",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "player": "#16 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:27",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "player": "#2 - Tim  Commerford",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "player": "#15 - John  Cushing",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:35:15.667Z"
+}

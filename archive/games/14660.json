@@ -1,0 +1,150 @@
+{
+  "gameId": "14660",
+  "date": "2022-02-19",
+  "divId": 243,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1501",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1506",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:57",
+      "team": {
+        "teamId": "1501",
+        "name": "Rink Rats"
+      },
+      "scorer": "#11 - Aaron  Pollon",
+      "assist1": "#59 - Jared  Trevethan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:33",
+      "team": {
+        "teamId": "1501",
+        "name": "Rink Rats"
+      },
+      "scorer": "#59 - Jared  Trevethan",
+      "assist1": "#12 - Kieran  McQuilkin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:28",
+      "team": {
+        "teamId": "1506",
+        "name": "Angry Moose"
+      },
+      "scorer": "#1 - Ryan  Gardiner",
+      "assist1": "#27 - Jeff  Alton",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "1506",
+        "name": "Angry Moose"
+      },
+      "scorer": "#4 - Ryan  Cantwell",
+      "assist1": "#17 - Anthony  Vitucci",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:49",
+      "team": {
+        "teamId": "1501",
+        "name": "Rink Rats"
+      },
+      "scorer": "#12 - Kieran  McQuilkin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:15",
+      "team": {
+        "teamId": "1506",
+        "name": "Angry Moose"
+      },
+      "scorer": "#21 - Kevin  Lockland",
+      "assist1": "#17 - Anthony  Vitucci",
+      "assist2": "#4 - Ryan  Cantwell"
+    },
+    {
+      "period": "3",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1501",
+        "name": "Rink Rats"
+      },
+      "scorer": "#25 - Dave  Brown",
+      "assist1": "#11 - Aaron  Pollon",
+      "assist2": "#31 - Zach  Furness"
+    },
+    {
+      "period": "3",
+      "time": "00:11:01",
+      "team": {
+        "teamId": "1501",
+        "name": "Rink Rats"
+      },
+      "scorer": "#11 - Aaron  Pollon",
+      "assist1": "#25 - Dave  Brown",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:16",
+      "team": {
+        "teamId": "1506",
+        "name": "Angry Moose"
+      },
+      "player": "#21 - Kevin  Lockland",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:54",
+      "team": {
+        "teamId": "1506",
+        "name": "Angry Moose"
+      },
+      "player": "#27 - Jeff  Alton",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:33:18.153Z"
+}

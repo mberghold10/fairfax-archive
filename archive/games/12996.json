@@ -1,0 +1,117 @@
+{
+  "gameId": "12996",
+  "date": "2019-08-24",
+  "divId": 200,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1268",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1273",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:49",
+      "team": {
+        "teamId": "1273",
+        "name": "Grey Goons"
+      },
+      "scorer": "#32 - Phil  Antoun",
+      "assist1": "#49 - Greg  Mullen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:01",
+      "team": {
+        "teamId": "1273",
+        "name": "Grey Goons"
+      },
+      "scorer": "#21 - Grant  Gibbons",
+      "assist1": "#44 - Mick  Ellsworth",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:20",
+      "team": {
+        "teamId": "1273",
+        "name": "Grey Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": "#42 - Christian  Gibbons",
+      "assist2": "#44 - Mick  Ellsworth"
+    },
+    {
+      "period": "2",
+      "time": "00:11:25",
+      "team": {
+        "teamId": "1273",
+        "name": "Grey Goons"
+      },
+      "scorer": "#21 - Grant  Gibbons",
+      "assist1": "#42 - Christian  Gibbons",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:13",
+      "team": {
+        "teamId": "1273",
+        "name": "Grey Goons"
+      },
+      "scorer": "#54 - Jerry  Gibbons",
+      "assist1": "#49 - Greg  Mullen",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:06:26",
+      "team": {
+        "teamId": "1268",
+        "name": "Flying Circus"
+      },
+      "player": "#12 - Adam  Jungdahl",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:21",
+      "team": {
+        "teamId": "1273",
+        "name": "Grey Goons"
+      },
+      "player": "#32 - Phil  Antoun",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:55:37.366Z"
+}

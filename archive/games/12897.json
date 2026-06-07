@@ -1,0 +1,104 @@
+{
+  "gameId": "12897",
+  "date": "2019-06-29",
+  "divId": 206,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1315",
+    "name": "Turtle Power"
+  },
+  "away": {
+    "teamId": "1302",
+    "name": "Triassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:02:48",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#35 - Brian  Embley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#87 - James  Page",
+      "assist1": "#7 - Michael  Ambrosino",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#7 - Michael  Ambrosino",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#7 - Michael  Ambrosino",
+      "assist1": "#24 - Jonathan  Rowny",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:10",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#9 - Greg  Sybersma",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "1315",
+        "name": "Turtle Power"
+      },
+      "player": "#19 - Jackson  Smith",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:01:52.375Z"
+}

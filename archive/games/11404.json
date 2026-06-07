@@ -1,0 +1,152 @@
+{
+  "gameId": "11404",
+  "date": "2018-01-06",
+  "divId": 176,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1121",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1126",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:56",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#22 - Jongjae  Yoo",
+      "assist1": "#6 - Faraz  Izadi",
+      "assist2": "#11 - Sam  Marchio"
+    },
+    {
+      "period": "1",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#6 - Faraz  Izadi",
+      "assist1": "#11 - Sam  Marchio",
+      "assist2": "#10 - Chris  Chagnon"
+    },
+    {
+      "period": "1",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#72 - Kyle  Brosnan",
+      "assist1": "#18 - Jeff  Rummel",
+      "assist2": "#10 - Chris  Chagnon"
+    },
+    {
+      "period": "2",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#21 - Graham  Pough",
+      "assist1": "#6 - Faraz  Izadi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#6 - Faraz  Izadi",
+      "assist1": "#72 - Kyle  Brosnan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1126",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#25 - Ethan  Isleib",
+      "assist1": "#2 - JP  Gardner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:01",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#22 - Jongjae  Yoo",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:53",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "player": "#4 - John  Dandeneau",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1126",
+        "name": "Maple Leafs"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:16",
+      "team": {
+        "teamId": "1126",
+        "name": "Maple Leafs"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:25:31.399Z"
+}

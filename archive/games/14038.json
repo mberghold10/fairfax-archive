@@ -1,0 +1,178 @@
+{
+  "gameId": "14038",
+  "date": "2021-05-01",
+  "divId": 228,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1431",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1430",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "1431",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#23 - Mike  OBrien",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:06",
+      "team": {
+        "teamId": "1431",
+        "name": "Team USA"
+      },
+      "scorer": "#54 - Dan  Bagley",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:52",
+      "team": {
+        "teamId": "1431",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:48",
+      "team": {
+        "teamId": "1430",
+        "name": "Coyotes"
+      },
+      "scorer": "#1 - Brian  Freeman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1431",
+        "name": "Team USA"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": "#77 - Dan  Miller",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:54",
+      "team": {
+        "teamId": "1430",
+        "name": "Coyotes"
+      },
+      "scorer": "#16 - Hung  Pham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:28",
+      "team": {
+        "teamId": "1431",
+        "name": "Team USA"
+      },
+      "scorer": "#10 - Mike  Brahmey",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "1431",
+        "name": "Team USA"
+      },
+      "player": "#77 - Dan  Miller",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:37",
+      "team": {
+        "teamId": "1431",
+        "name": "Team USA"
+      },
+      "player": "#10 - Mike  Brahmey",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1430",
+        "name": "Coyotes"
+      },
+      "player": "#55 - Ken  Alm",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "1431",
+        "name": "Team USA"
+      },
+      "player": "#4 - Jeff  Bloom",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "1430",
+        "name": "Coyotes"
+      },
+      "player": "#1 - Brian  Freeman",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:22:20.320Z"
+}

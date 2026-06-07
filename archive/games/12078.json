@@ -1,0 +1,191 @@
+{
+  "gameId": "12078",
+  "date": "2018-10-08",
+  "divId": 190,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1204",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1205",
+    "name": "North Stars"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 5,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:45",
+      "team": {
+        "teamId": "1204",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:32",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "scorer": "#12 - Matt  Diamond",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "scorer": "#12 - Matt  Diamond",
+      "assist1": "#7 - Evan  Wojtowicz",
+      "assist2": "#24 - Pertti  Jaakola"
+    },
+    {
+      "period": "2",
+      "time": "00:10:19",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "scorer": "#12 - Matt  Diamond",
+      "assist1": "#7 - Evan  Wojtowicz",
+      "assist2": "#6 - Matt  Dwyer"
+    },
+    {
+      "period": "2",
+      "time": "00:10:50",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "scorer": "#12 - Matt  Diamond",
+      "assist1": "#7 - Evan  Wojtowicz",
+      "assist2": "#55 - Ben  Malakoff"
+    },
+    {
+      "period": "2",
+      "time": "00:12:15",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "scorer": "#61 - Tero  Moberg",
+      "assist1": "#42 - Adam  Russell",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:55",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": "#24 - Pertti  Jaakola",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:47",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "player": "#24 - Pertti  Jaakola",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "player": "#61 - Tero  Moberg",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:31",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "player": "#24 - Pertti  Jaakola",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1204",
+        "name": "Chiefs"
+      },
+      "player": "#4 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:17",
+      "team": {
+        "teamId": "1204",
+        "name": "Chiefs"
+      },
+      "player": "#6 - Michael  Benyo",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:17",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "player": "#7 - Evan  Wojtowicz",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:41:42.162Z"
+}

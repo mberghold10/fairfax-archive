@@ -1,0 +1,189 @@
+{
+  "gameId": "12989",
+  "date": "2019-08-15",
+  "divId": 200,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1269",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1272",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": "#98 - Matt  Criscuolo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:18",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": "#98 - Matt  Criscuolo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:39",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#98 - Matt  Criscuolo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:52",
+      "team": {
+        "teamId": "1272",
+        "name": "Old Goats"
+      },
+      "scorer": "#4 - Steve  Bradley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": "#99 - Jon  Davoren",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:34",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#34 - Jim  Morgan",
+      "assist1": "#99 - Jon  Davoren",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:41",
+      "team": {
+        "teamId": "1272",
+        "name": "Old Goats"
+      },
+      "scorer": "#24 - Michael  Duell",
+      "assist1": "#26 - Bob  Shay",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:23",
+      "team": {
+        "teamId": "1272",
+        "name": "Old Goats"
+      },
+      "scorer": "#26 - Bob  Shay",
+      "assist1": "#3 - Dick  Deitos",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "player": "#34 - Jim  Morgan",
+      "pim": 2,
+      "offense": "g int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:16",
+      "team": {
+        "teamId": "1272",
+        "name": "Old Goats"
+      },
+      "player": "#52 - Alan  Dappen",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "player": "#10 - Mike  Brahmey",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:49",
+      "team": {
+        "teamId": "1272",
+        "name": "Old Goats"
+      },
+      "player": "#24 - Michael  Duell",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:29",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "player": "#7 - Ed  Weiner",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:55:30.425Z"
+}

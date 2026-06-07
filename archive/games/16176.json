@@ -1,0 +1,171 @@
+{
+  "gameId": "16176",
+  "date": "2023-09-24",
+  "divId": 268,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1653",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1654",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:56",
+      "team": {
+        "teamId": "1653",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#23 - Mark  Rodemoyer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:08",
+      "team": {
+        "teamId": "1654",
+        "name": "Chiefs"
+      },
+      "scorer": "#33 - Adam  Bartholomew",
+      "assist1": "#42 - Dave  Hagemeier",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:00",
+      "team": {
+        "teamId": "1653",
+        "name": "British Bulldogs"
+      },
+      "scorer": "# -",
+      "assist1": "#4 - Sean  Courtney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1653",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1654",
+        "name": "Chiefs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:14",
+      "team": {
+        "teamId": "1654",
+        "name": "Chiefs"
+      },
+      "player": "#4 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:03",
+      "team": {
+        "teamId": "1653",
+        "name": "British Bulldogs"
+      },
+      "player": "#44 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:09",
+      "team": {
+        "teamId": "1654",
+        "name": "Chiefs"
+      },
+      "player": "#33 - Adam  Bartholomew",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1654",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:52",
+      "team": {
+        "teamId": "1653",
+        "name": "British Bulldogs"
+      },
+      "player": "#44 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1654",
+        "name": "Chiefs"
+      },
+      "player": "#17 - Maxim  Rinaldi",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:02:39.351Z"
+}

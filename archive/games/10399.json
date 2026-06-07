@@ -1,0 +1,73 @@
+{
+  "gameId": "10399",
+  "date": "2017-02-26",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1022",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1017",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:43",
+      "team": {
+        "teamId": "1017",
+        "name": "Dragons"
+      },
+      "scorer": "#46 - Chris  Moore",
+      "assist1": "#11 - Andy  Jones",
+      "assist2": "#13 - Jeff  Willard"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:26",
+      "team": {
+        "teamId": "1022",
+        "name": "Blue Crabs"
+      },
+      "player": "#20 - Jeff  Carter",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:09",
+      "team": {
+        "teamId": "1022",
+        "name": "Blue Crabs"
+      },
+      "player": "#20 - Jeff  Carter",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:05:02.213Z"
+}

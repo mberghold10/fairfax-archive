@@ -1,0 +1,117 @@
+{
+  "gameId": "13172",
+  "date": "2019-09-01",
+  "divId": 207,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1311",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1310",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "scorer": "#2 - Sam  Bressi",
+      "assist1": "#13 - John  Bereza",
+      "assist2": "#79 - Igor  Helman"
+    },
+    {
+      "period": "1",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1310",
+        "name": "Thunder"
+      },
+      "scorer": "#16 - Josh  Brown",
+      "assist1": "#9 - Shannon  Karner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "scorer": "#79 - Igor  Helman",
+      "assist1": "#18 - Kyle  Dedrick",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1310",
+        "name": "Thunder"
+      },
+      "scorer": "#5 - Zac  Graber",
+      "assist1": "#27 - Michael  Fine",
+      "assist2": "#40 - Claudia  Salem"
+    },
+    {
+      "period": "3",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "scorer": "#2 - Sam  Bressi",
+      "assist1": "#79 - Igor  Helman",
+      "assist2": "#15 - Seth  Kumpf"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "player": "#2 - Sam  Bressi",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "player": "#13 - John  Bereza",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:03:29.827Z"
+}

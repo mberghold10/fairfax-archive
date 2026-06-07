@@ -1,0 +1,82 @@
+{
+  "gameId": "18841",
+  "date": "2026-01-04",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2004",
+    "name": "Hershey Beers"
+  },
+  "away": {
+    "teamId": "2002",
+    "name": "Megalosaurus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#26 - Chris  Anderson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:15",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#33 - Scott  Coco",
+      "assist1": "#22 - Terry  Saad",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#14 - George  Stocker",
+      "assist1": "#33 - Scott  Coco",
+      "assist2": "#37 - Michael  Wisniewski"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:43",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "player": "#23 - Mark  Cappello",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:07:57.187Z"
+}

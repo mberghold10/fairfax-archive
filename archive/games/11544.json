@@ -1,0 +1,143 @@
+{
+  "gameId": "11544",
+  "date": "2018-05-25",
+  "divId": 179,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1145",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1142",
+    "name": "ers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:05:29",
+      "team": {
+        "teamId": "1142",
+        "name": "ers"
+      },
+      "scorer": "#9 - Matt  Ellison",
+      "assist1": "#15 - Todd  Martin",
+      "assist2": "#66 - Andy  Heckmann"
+    },
+    {
+      "period": "3",
+      "time": "00:08:47",
+      "team": {
+        "teamId": "1145",
+        "name": "Jacks"
+      },
+      "scorer": "#14 - Dennis  Nayandin",
+      "assist1": "#28 - Jason  Abkowitz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:54",
+      "team": {
+        "teamId": "1142",
+        "name": "ers"
+      },
+      "scorer": "#66 - Andy  Heckmann",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:39",
+      "team": {
+        "teamId": "1142",
+        "name": "ers"
+      },
+      "scorer": "#19 - Joe  Dunn",
+      "assist1": "#9 - Matt  Ellison",
+      "assist2": "#15 - Todd  Martin"
+    },
+    {
+      "period": "3",
+      "time": "00:13:17",
+      "team": {
+        "teamId": "1145",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": "#28 - Jason  Abkowitz"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:13",
+      "team": {
+        "teamId": "1145",
+        "name": "Jacks"
+      },
+      "player": "#16 - Bill  Thompson",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1142",
+        "name": "ers"
+      },
+      "player": "#44 - Sam  Ziesler",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1142",
+        "name": "ers"
+      },
+      "player": "#11 - Nate  Harrison",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:51",
+      "team": {
+        "teamId": "1145",
+        "name": "Jacks"
+      },
+      "player": "#3 - Jeff  Regan",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:29:13.285Z"
+}

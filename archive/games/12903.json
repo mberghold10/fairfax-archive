@@ -1,0 +1,130 @@
+{
+  "gameId": "12903",
+  "date": "2019-05-19",
+  "divId": 207,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1310",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1312",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1312",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#41 - Alessio  Evangelista",
+      "assist1": "#22 - Amir  Tahami",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:08",
+      "team": {
+        "teamId": "1310",
+        "name": "Thunder"
+      },
+      "scorer": "#27 - Michael  Fine",
+      "assist1": "#41 - Randy  Warren",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1310",
+        "name": "Thunder"
+      },
+      "scorer": "#7 - Ian  Stack",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1312",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#77 - Jeff  Wilkin",
+      "assist1": "#6 - Armand  Alacbay",
+      "assist2": "#30 - Brent  Bolin"
+    },
+    {
+      "period": "4",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "1310",
+        "name": "Thunder"
+      },
+      "scorer": "#12 - John  Porvaznik",
+      "assist1": "#55 - Nick  Cioffi",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:19:25",
+      "team": {
+        "teamId": "1310",
+        "name": "Thunder"
+      },
+      "player": "#41 - Randy  Warren",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:50",
+      "team": {
+        "teamId": "1310",
+        "name": "Thunder"
+      },
+      "player": "#27 - Michael  Fine",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:02",
+      "team": {
+        "teamId": "1310",
+        "name": "Thunder"
+      },
+      "player": "#41 - Randy  Warren",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:02:46.769Z"
+}

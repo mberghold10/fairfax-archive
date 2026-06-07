@@ -1,0 +1,104 @@
+{
+  "gameId": "15781",
+  "date": "2023-03-19",
+  "divId": 263,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1621",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1622",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "1621",
+        "name": "Team USA"
+      },
+      "scorer": "#54 - Dan  Bagley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1621",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1621",
+        "name": "Team USA"
+      },
+      "scorer": "#54 - Dan  Bagley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:40",
+      "team": {
+        "teamId": "1621",
+        "name": "Team USA"
+      },
+      "scorer": "#9 - Ken  Fritzke",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "1622",
+        "name": "Grey Goons"
+      },
+      "scorer": "#76 - Mike  Floyd",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:02",
+      "team": {
+        "teamId": "1622",
+        "name": "Grey Goons"
+      },
+      "player": "#28 - Alex  Henry",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:57:22.831Z"
+}

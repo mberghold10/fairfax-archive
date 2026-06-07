@@ -1,0 +1,128 @@
+{
+  "gameId": "10768",
+  "date": "2017-07-09",
+  "divId": 165,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1059",
+    "name": "Blackhawks"
+  },
+  "away": {
+    "teamId": "1058",
+    "name": "North Stars"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": "#0 - Jude  Buckholz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1058",
+        "name": "North Stars"
+      },
+      "scorer": "#6 - Matt  Dwyer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:43",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "scorer": "#0 - Jude  Buckholz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:13",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "scorer": "#56 - Ryan  Tyler",
+      "assist1": "#47 - Talbot  Black",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "scorer": "#0 - Jude  Buckholz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "1058",
+        "name": "North Stars"
+      },
+      "scorer": "#63 - Steven  Yu",
+      "assist1": "#6 - Matt  Dwyer",
+      "assist2": "#21 - John  Peterman"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "player": "#77 - Scott  Peterson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:52",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "player": "#8 - Brendan  Millice",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:12:04.682Z"
+}

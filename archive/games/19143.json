@@ -1,0 +1,117 @@
+{
+  "gameId": "19143",
+  "date": "2026-05-24",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2004",
+    "name": "Hershey Beers"
+  },
+  "away": {
+    "teamId": "2003",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "scorer": "#11 - Mark  Boyd",
+      "assist1": "#47 - Dave  LeKuch",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:15",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "scorer": "#61 - Nick  Johnston",
+      "assist1": "#11 - Mark  Boyd",
+      "assist2": "#50 - Tommy  Plourde"
+    },
+    {
+      "period": "2",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#44 - Venka  Ashtakala",
+      "assist1": "#39 - Jim  DeLaet",
+      "assist2": "#24 - Adeline  Carbo"
+    },
+    {
+      "period": "3",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "scorer": "#77 - Steven  Baugh",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:01",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "scorer": "#61 - Nick  Johnston",
+      "assist1": "#24 - Mike  Plourde",
+      "assist2": "#2 - Jen  Grotpeter"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:17:40",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:28",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "player": "#47 - Dave  LeKuch",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:08:56.744Z"
+}

@@ -1,0 +1,93 @@
+{
+  "gameId": "16723",
+  "date": "2024-03-18",
+  "divId": 278,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1713",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1710",
+    "name": "D Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:34",
+      "team": {
+        "teamId": "1713",
+        "name": "Angry Moose"
+      },
+      "scorer": "#51 - Bob  Sagusti",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "1710",
+        "name": "D Punishers"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:08",
+      "team": {
+        "teamId": "1713",
+        "name": "Angry Moose"
+      },
+      "scorer": "#91 - Dutchy  Vossekuil",
+      "assist1": "#1 - Ryan  Gardiner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "1710",
+        "name": "D Punishers"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:23",
+      "team": {
+        "teamId": "1710",
+        "name": "D Punishers"
+      },
+      "player": "#31 - Rick  Hathway",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:14:45.997Z"
+}

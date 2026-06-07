@@ -1,0 +1,134 @@
+{
+  "gameId": "13704",
+  "date": "2020-02-15",
+  "divId": 215,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1361",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1359",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:19",
+      "team": {
+        "teamId": "1361",
+        "name": "Hurricanes"
+      },
+      "scorer": "#27 - Jeff  Alton",
+      "assist1": "#71 - John  Buhler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1359",
+        "name": "Wolves"
+      },
+      "scorer": "#6 - Jon  Alford",
+      "assist1": "#2 - Jen  Grotpeter",
+      "assist2": "#26 - Philip  Hogan"
+    },
+    {
+      "period": "3",
+      "time": "00:08:10",
+      "team": {
+        "teamId": "1361",
+        "name": "Hurricanes"
+      },
+      "scorer": "#18 - Heather  LeFever",
+      "assist1": "#9 - Rick  Cole",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "1359",
+        "name": "Wolves"
+      },
+      "player": "#16 - Marc  Franciszkov",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "1361",
+        "name": "Hurricanes"
+      },
+      "player": "#71 - John  Buhler",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1361",
+        "name": "Hurricanes"
+      },
+      "player": "#89 - Frank  Congel",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1361",
+        "name": "Hurricanes"
+      },
+      "player": "#71 - John  Buhler",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1359",
+        "name": "Wolves"
+      },
+      "player": "#34 - Bobby  Grohs",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:13:18.939Z"
+}

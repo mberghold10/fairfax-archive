@@ -1,0 +1,115 @@
+{
+  "gameId": "16091",
+  "date": "2023-06-16",
+  "divId": 274,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1693",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1689",
+    "name": "Hershey"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "1693",
+        "name": "Red Wings"
+      },
+      "scorer": "#54 - Tom  Montanio",
+      "assist1": "#44 - Pat  Love",
+      "assist2": "#4 - Gene  Martin"
+    },
+    {
+      "period": "1",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#43 - James  Kim",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:10",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#43 - James  Kim",
+      "assist1": "#24 - Josh  Smith",
+      "assist2": "#77 - Trevor  Boynton"
+    },
+    {
+      "period": "2",
+      "time": "00:12:29",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#77 - Trevor  Boynton",
+      "assist1": "#9 - Kyle  Dedrick",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#7 - Vadim  Sokolov",
+      "assist1": "#15 - Jacob  DePartee",
+      "assist2": "#9 - Kyle  Dedrick"
+    },
+    {
+      "period": "3",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#24 - Josh  Smith",
+      "assist1": "#8 - Timothy  Lo",
+      "assist2": "#43 - James  Kim"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:16:30",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "player": "#7 - Vadim  Sokolov",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:10:00.813Z"
+}

@@ -1,0 +1,154 @@
+{
+  "gameId": "10441",
+  "date": "2017-04-17",
+  "divId": 166,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1063",
+    "name": "River Rats"
+  },
+  "away": {
+    "teamId": "1062",
+    "name": "BlueJacket Capitals"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#12 - Trent  Papke",
+      "assist1": "#42 - Jeff  Lovett",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:16",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#92 - Darren  Wellner",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "scorer": "#42 - Jon  Coley",
+      "assist1": "#24 - Austin  Ford",
+      "assist2": "#81 - Sean  Murphy"
+    },
+    {
+      "period": "2",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#19 - JP  Klousia",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:02",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#77 - Erik  Bergman",
+      "assist1": "#19 - JP  Klousia",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:17",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#17 - Bill  DeMaso",
+      "assist1": "#42 - Jeff  Lovett",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "player": "#32 - Justin  OConnell",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:06",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "player": "#12 - William  Howe",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:45",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "player": "#42 - Jon  Coley",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:56",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#21 - Tim  Dutcher",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:12:54.184Z"
+}

@@ -1,0 +1,134 @@
+{
+  "gameId": "19133",
+  "date": "2026-05-03",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2007",
+    "name": "Roccos"
+  },
+  "away": {
+    "teamId": "2005",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:16:16",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "scorer": "#67 - Kiet  Vu",
+      "assist1": "#9 - Kirsten  Kumpf",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "scorer": "#49 - Jacob  Sigler",
+      "assist1": "#4 - Zainab  Sayeed",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:04",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#11 - Matt  Velin",
+      "assist1": "#33 - Brandon  Boling",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:31",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "player": "#88 - Nicolas  Miramontes",
+      "pim": 2,
+      "offense": "Tripping",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "player": "#33 - Brandon  Boling",
+      "pim": 2,
+      "offense": "Roughing",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "player": "#900 - YungShin  Chen",
+      "pim": 2,
+      "offense": "Rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:56",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "player": "#67 - Kiet  Vu",
+      "pim": 2,
+      "offense": "Delay of Game",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:48",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "player": "#37 - David  McAndrews",
+      "pim": 2,
+      "offense": "Roughing",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:08:46.716Z"
+}

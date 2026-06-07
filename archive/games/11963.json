@@ -1,0 +1,152 @@
+{
+  "gameId": "11963",
+  "date": "2018-09-01",
+  "divId": 185,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1176",
+    "name": "Pharaohs"
+  },
+  "away": {
+    "teamId": "1179",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:35",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#12 - Han  Woon",
+      "assist1": "#17 - Zephan  Keehner",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#14 - Jay  Woon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:51",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#11 - Dan  Owens",
+      "assist1": "#19 - Otto  Noffsinger",
+      "assist2": "#71 - Matt  Renton"
+    },
+    {
+      "period": "2",
+      "time": "00:08:29",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#11 - Dan  Owens",
+      "assist1": "#28 - Michael  Berghold",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "1179",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#5 - Luke  Streng",
+      "assist1": "#71 - Dan  Cosentino",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#28 - Michael  Berghold",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:19",
+      "team": {
+        "teamId": "1179",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "player": "#11 - Dan  Owens",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "1179",
+        "name": "Blue Crabs"
+      },
+      "player": "#15 - Curt  Eastman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:28",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:36:38.606Z"
+}

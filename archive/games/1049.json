@@ -1,0 +1,204 @@
+{
+  "gameId": "1049",
+  "date": "2020-08-16",
+  "divId": 210,
+  "seasonName": "Winter 2019",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1331",
+    "name": "Punishers"
+  },
+  "away": {
+    "teamId": "1327",
+    "name": "Whalers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "scorer": "#31 - Craig  Kabis",
+      "assist1": "#42 - Chris  Guastaferro",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": "#1 - Matt  ODriscoll"
+    },
+    {
+      "period": "3",
+      "time": "00:06:29",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#37 - Nick  Desport",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:27",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "scorer": "#31 - Craig  Kabis",
+      "assist1": "#2 - Steve  Sondheimer",
+      "assist2": "#96 - Alex  Deyoung"
+    },
+    {
+      "period": "3",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "scorer": "#42 - Chris  Guastaferro",
+      "assist1": "#21 - John  Miles",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": "#25 - Hung  Pham",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:59",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "scorer": "#96 - Alex  Deyoung",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:23",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "player": "#6 - Jon  Lauder",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:56",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "player": "#42 - Chris  Guastaferro",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:56",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "player": "#1 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "player": "#96 - Alex  Deyoung",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "player": "#6 - Jon  Lauder",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:44",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "player": "#33 - Stephen  Burnette",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:59",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "player": "#12 - David  OMalley",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:07:11.104Z"
+}

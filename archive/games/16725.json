@@ -1,0 +1,108 @@
+{
+  "gameId": "16725",
+  "date": "2024-03-25",
+  "divId": 278,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1713",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1714",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:07:28",
+      "team": {
+        "teamId": "1714",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#9 - Greg  Sibley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:12",
+      "team": {
+        "teamId": "1713",
+        "name": "Angry Moose"
+      },
+      "scorer": "#47 - Jeff  Urlwin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:31",
+      "team": {
+        "teamId": "1714",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#44 - Jeff  Marciano",
+      "assist1": "#36 - Dave  Kim",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1713",
+        "name": "Angry Moose"
+      },
+      "player": "#4 - Ryan  Cantwell",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:12",
+      "team": {
+        "teamId": "1714",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#10 - Angelo  Ponirakis",
+      "pim": 2,
+      "offense": "board",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:12",
+      "team": {
+        "teamId": "1714",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#10 - Angelo  Ponirakis",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:14:48.008Z"
+}

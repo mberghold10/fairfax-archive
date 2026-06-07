@@ -1,0 +1,152 @@
+{
+  "gameId": "17681",
+  "date": "2025-01-09",
+  "divId": 305,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1871",
+    "name": "Jacks GreyBeards"
+  },
+  "away": {
+    "teamId": "1872",
+    "name": "Boston"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 4,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1872",
+        "name": "Boston"
+      },
+      "scorer": "#25 - Bob  Banasik",
+      "assist1": "#10 - Justin  Arbes",
+      "assist2": "#11 - Dave  Wilson"
+    },
+    {
+      "period": "1",
+      "time": "00:09:40",
+      "team": {
+        "teamId": "1871",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#28 - Charles  Hale",
+      "assist1": "#27 - Andy  Rieger",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "1871",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#27 - Andy  Rieger",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1872",
+        "name": "Boston"
+      },
+      "scorer": "#65 - Bobby  Woods-Corwin",
+      "assist1": "#71 - Jeff  Meyer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:48",
+      "team": {
+        "teamId": "1872",
+        "name": "Boston"
+      },
+      "scorer": "#25 - Bob  Banasik",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "1872",
+        "name": "Boston"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:07",
+      "team": {
+        "teamId": "1872",
+        "name": "Boston"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#8 - Peter  Boone",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:47",
+      "team": {
+        "teamId": "1871",
+        "name": "Jacks GreyBeards"
+      },
+      "player": "#4 - Mark  Sullivan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1871",
+        "name": "Jacks GreyBeards"
+      },
+      "player": "#27 - Andy  Rieger",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:44",
+      "team": {
+        "teamId": "1872",
+        "name": "Boston"
+      },
+      "player": "#8 - Peter  Boone",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:42:55.984Z"
+}

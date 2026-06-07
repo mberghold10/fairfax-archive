@@ -1,0 +1,163 @@
+{
+  "gameId": "13524",
+  "date": "2020-01-26",
+  "divId": 209,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1324",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1320",
+    "name": "Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 4,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:18",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#10 - Mike  Carew",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:49",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#16 - Greg  Pomeroy",
+      "assist1": "#10 - Mike  Carew",
+      "assist2": "#64 - Bob  Fisher"
+    },
+    {
+      "period": "2",
+      "time": "00:06:15",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "scorer": "#9 - Mitch  Federman",
+      "assist1": "#17 - Alexandra  Skopes",
+      "assist2": "#6 - Kelly  Harmon"
+    },
+    {
+      "period": "2",
+      "time": "00:08:17",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#10 - Mike  Carew",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#42 - Ryan  ODriscoll",
+      "assist1": "#16 - Greg  Pomeroy",
+      "assist2": "#6 - Kyle  Herring"
+    },
+    {
+      "period": "3",
+      "time": "00:12:56",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#10 - Mike  Carew",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": "#64 - Bob  Fisher",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:10",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#6 - Kyle  Herring",
+      "assist1": "#42 - Ryan  ODriscoll",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "player": "#10 - Mike  Carew",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:00",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "player": "#16 - Greg  Pomeroy",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "player": "#16 - Greg  Pomeroy",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:05:28.395Z"
+}

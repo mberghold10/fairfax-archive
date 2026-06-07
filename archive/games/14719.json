@@ -1,0 +1,154 @@
+{
+  "gameId": "14719",
+  "date": "2022-01-26",
+  "divId": 245,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1514",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1516",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:45",
+      "team": {
+        "teamId": "1514",
+        "name": "Ducks"
+      },
+      "scorer": "#71 - Colin  Shin",
+      "assist1": "#25 - Derek  Bluth",
+      "assist2": "#2 - Ricki  Clark"
+    },
+    {
+      "period": "1",
+      "time": "00:09:23",
+      "team": {
+        "teamId": "1514",
+        "name": "Ducks"
+      },
+      "scorer": "#25 - Derek  Bluth",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:19",
+      "team": {
+        "teamId": "1514",
+        "name": "Ducks"
+      },
+      "scorer": "#2 - Ricki  Clark",
+      "assist1": "#22 - Justin  Moriarty",
+      "assist2": "#71 - Colin  Shin"
+    },
+    {
+      "period": "2",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "scorer": "#32 - Carl  Wojcik",
+      "assist1": "#33 - Sergey  Kuzentsov",
+      "assist2": "#4 - Mark  Sullivan"
+    },
+    {
+      "period": "3",
+      "time": "00:05:34",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "scorer": "#8 - Rod  Wade",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": "#12 - Brian  Dix"
+    },
+    {
+      "period": "3",
+      "time": "00:12:58",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#8 - Rod  Wade",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:20",
+      "team": {
+        "teamId": "1514",
+        "name": "Ducks"
+      },
+      "player": "#15 - Micah ` Lillard",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:20",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "player": "#13 - Randy  Foster",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "1514",
+        "name": "Ducks"
+      },
+      "player": "#37 - Tom  Okeefe",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:32",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "player": "#8 - Rod  Wade",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:35:25.646Z"
+}

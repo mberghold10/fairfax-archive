@@ -1,0 +1,189 @@
+{
+  "gameId": "1170",
+  "date": "2021-10-20",
+  "divId": 235,
+  "seasonName": "Summer 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1470",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1467",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "1467",
+        "name": "Ducks"
+      },
+      "scorer": "#22 - Justin  Moriarty",
+      "assist1": "#13 - Brian  Patterson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:53",
+      "team": {
+        "teamId": "1467",
+        "name": "Ducks"
+      },
+      "scorer": "#22 - Justin  Moriarty",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:28",
+      "team": {
+        "teamId": "1470",
+        "name": "Nortec"
+      },
+      "scorer": "#5 - Peter  Boone",
+      "assist1": "#69 - Aaron  Domnitch",
+      "assist2": "#12 - Sami  Kymalainen"
+    },
+    {
+      "period": "2",
+      "time": "00:09:39",
+      "team": {
+        "teamId": "1470",
+        "name": "Nortec"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#16 - Peter  OKeefe",
+      "assist2": "#99 - Tony  Cusumano"
+    },
+    {
+      "period": "2",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "1470",
+        "name": "Nortec"
+      },
+      "scorer": "#99 - Tony  Cusumano",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:57",
+      "team": {
+        "teamId": "1470",
+        "name": "Nortec"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#49 - Aaron  Dobbs",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "1467",
+        "name": "Ducks"
+      },
+      "scorer": "#13 - Brian  Patterson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:41",
+      "team": {
+        "teamId": "1470",
+        "name": "Nortec"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#9 - Mark  Rudnicki",
+      "assist2": "#16 - Peter  OKeefe"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1467",
+        "name": "Ducks"
+      },
+      "player": "#91 - Rob  Fischer",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "1470",
+        "name": "Nortec"
+      },
+      "player": "#9 - Mark  Rudnicki",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:35",
+      "team": {
+        "teamId": "1470",
+        "name": "Nortec"
+      },
+      "player": "#4 - Tad  Jose",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:15",
+      "team": {
+        "teamId": "1470",
+        "name": "Nortec"
+      },
+      "player": "#16 - Peter  OKeefe",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:35",
+      "team": {
+        "teamId": "1470",
+        "name": "Nortec"
+      },
+      "player": "#4 - Tad  Jose",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:27:35.842Z"
+}

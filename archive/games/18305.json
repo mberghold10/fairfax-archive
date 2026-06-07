@@ -1,0 +1,139 @@
+{
+  "gameId": "18305",
+  "date": "2025-07-12",
+  "divId": 317,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1944",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1942",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1944",
+        "name": "Hurricanes"
+      },
+      "scorer": "#81 - Pete  Poczatek",
+      "assist1": "#2 - Mark  Jesten",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:38",
+      "team": {
+        "teamId": "1944",
+        "name": "Hurricanes"
+      },
+      "scorer": "#81 - Pete  Poczatek",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#92 - Dan  Horner",
+      "assist1": "#78 - Bill  Ezekiel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:09",
+      "team": {
+        "teamId": "1944",
+        "name": "Hurricanes"
+      },
+      "scorer": "#11 - Brendan  Ford",
+      "assist1": "#18 - Mark  Boyd",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "1944",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#19 - Jason  Long",
+      "assist2": "#81 - Pete  Poczatek"
+    },
+    {
+      "period": "2",
+      "time": "00:13:31",
+      "team": {
+        "teamId": "1944",
+        "name": "Hurricanes"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": "#1 - Chris  Beach",
+      "assist2": "#11 - Brendan  Ford"
+    },
+    {
+      "period": "2",
+      "time": "00:13:56",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#92 - Dan  Horner",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1944",
+        "name": "Hurricanes"
+      },
+      "player": "#81 - Pete  Poczatek",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "player": "#92 - Dan  Horner",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:55:55.257Z"
+}

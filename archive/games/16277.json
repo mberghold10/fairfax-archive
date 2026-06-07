@@ -1,0 +1,150 @@
+{
+  "gameId": "16277",
+  "date": "2023-09-24",
+  "divId": 271,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1671",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1672",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:41",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "scorer": "#32 - Carl  Wojick",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "1671",
+        "name": "Swarm"
+      },
+      "scorer": "#41 - Erik  Kniaz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "scorer": "#36 - Jon  Stehle",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:28",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "scorer": "#28 - Charles  Hale",
+      "assist1": "#36 - Jon  Stehle",
+      "assist2": "#7 - Joseph  Hull"
+    },
+    {
+      "period": "3",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "scorer": "#32 - Carl  Wojick",
+      "assist1": "#36 - Jon  Stehle",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:13",
+      "team": {
+        "teamId": "1671",
+        "name": "Swarm"
+      },
+      "scorer": "#41 - Erik  Kniaz",
+      "assist1": "#56 - Ryan  Tyler",
+      "assist2": "#46 - Dan  OConnell"
+    },
+    {
+      "period": "3",
+      "time": "00:12:44",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:33",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "scorer": "#7 - Joseph  Hull",
+      "assist1": "#15 - John  Cushing",
+      "assist2": "#12 - Brian  Dix"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "1671",
+        "name": "Swarm"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:03",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "player": "#28 - Charles  Hale",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:06:37.334Z"
+}

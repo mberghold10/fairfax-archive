@@ -1,0 +1,73 @@
+{
+  "gameId": "19096",
+  "date": "2026-05-30",
+  "divId": 327,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2019",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "2018",
+    "name": "Gold Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:10:11",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "scorer": "#3 - Ed  Gulakowski",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": "#1 - Chris  Beach"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:12",
+      "team": {
+        "teamId": "2018",
+        "name": "Gold Goats"
+      },
+      "player": "#34 - Marty  Gryski",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:43",
+      "team": {
+        "teamId": "2018",
+        "name": "Gold Goats"
+      },
+      "player": "#34 - Marty  Gryski",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:07:36.535Z"
+}

@@ -1,0 +1,178 @@
+{
+  "gameId": "14170",
+  "date": "2021-08-08",
+  "divId": 237,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1480",
+    "name": "Capitals"
+  },
+  "away": {
+    "teamId": "1483",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:17",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#17 - Bill  DeMaso",
+      "assist1": "#81 - Chris  Holden",
+      "assist2": "#16 - Dan  Rebman"
+    },
+    {
+      "period": "1",
+      "time": "00:10:23",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:37",
+      "team": {
+        "teamId": "1483",
+        "name": "Hurricanes"
+      },
+      "scorer": "#93 - Jeff  Nauer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#5 - Bob  Kelty",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:45",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#52 - Alan  Dappen",
+      "assist1": "#16 - Dan  Rebman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:06",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#16 - Dan  Rebman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1483",
+        "name": "Hurricanes"
+      },
+      "scorer": "#0 - Ruben  Garcia",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "1483",
+        "name": "Hurricanes"
+      },
+      "player": "#0 - Ruben  Garcia",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "1483",
+        "name": "Hurricanes"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:14",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "player": "#16 - Dan  Rebman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:15",
+      "team": {
+        "teamId": "1483",
+        "name": "Hurricanes"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "player": "#15 - Bob  Guckian",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:28:41.752Z"
+}

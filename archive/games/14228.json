@@ -1,0 +1,145 @@
+{
+  "gameId": "14228",
+  "date": "2021-08-13",
+  "divId": 235,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1466",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "1468",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:49",
+      "team": {
+        "teamId": "1468",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": "#9 - Jason  Murphy"
+    },
+    {
+      "period": "2",
+      "time": "00:03:28",
+      "team": {
+        "teamId": "1468",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:53",
+      "team": {
+        "teamId": "1468",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#9 - Jason  Murphy",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "3",
+      "time": "00:08:29",
+      "team": {
+        "teamId": "1468",
+        "name": "Swarm"
+      },
+      "scorer": "#75 - Jeff  Koka",
+      "assist1": "#78 - Noe  Hatchuel",
+      "assist2": "#33 - Hung  Pham"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:39",
+      "team": {
+        "teamId": "1468",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:12",
+      "team": {
+        "teamId": "1466",
+        "name": "Goons"
+      },
+      "player": "#48 - Mike  Giardina",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "1466",
+        "name": "Goons"
+      },
+      "player": "#7 - John  Dagley",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:36",
+      "team": {
+        "teamId": "1466",
+        "name": "Goons"
+      },
+      "player": "#48 - Mike  Giardina",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:34",
+      "team": {
+        "teamId": "1466",
+        "name": "Goons"
+      },
+      "player": "#38 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:27:07.698Z"
+}

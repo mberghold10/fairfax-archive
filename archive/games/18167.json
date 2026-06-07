@@ -1,0 +1,141 @@
+{
+  "gameId": "18167",
+  "date": "2025-07-07",
+  "divId": 313,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1916",
+    "name": "Old Goats"
+  },
+  "away": {
+    "teamId": "1917",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:03",
+      "team": {
+        "teamId": "1916",
+        "name": "Old Goats"
+      },
+      "scorer": "#72 - Alex  Cordone",
+      "assist1": "#17 - Dan  Pol",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:43",
+      "team": {
+        "teamId": "1916",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1916",
+        "name": "Old Goats"
+      },
+      "scorer": "#14 - John  Kohler",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:59",
+      "team": {
+        "teamId": "1917",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#21 - Brody  Walkinshaw",
+      "assist1": "#89 - Dylan  Thomas",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:42",
+      "team": {
+        "teamId": "1916",
+        "name": "Old Goats"
+      },
+      "scorer": "#89 - Jay  Gobeil",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "1917",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#89 - Dylan  Thomas",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:58",
+      "team": {
+        "teamId": "1916",
+        "name": "Old Goats"
+      },
+      "player": "#89 - Jay  Gobeil",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "1917",
+        "name": "Jurassic Puck"
+      },
+      "player": "#0 - Rohan  Muthukumar",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:39",
+      "team": {
+        "teamId": "1917",
+        "name": "Jurassic Puck"
+      },
+      "player": "#0 - Rohan  Muthukumar",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:50:27.303Z"
+}

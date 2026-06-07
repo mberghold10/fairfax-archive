@@ -1,0 +1,128 @@
+{
+  "gameId": "16529",
+  "date": "2024-01-01",
+  "divId": 280,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1723",
+    "name": "Toronto"
+  },
+  "away": {
+    "teamId": "1724",
+    "name": "Triassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1723",
+        "name": "Toronto"
+      },
+      "scorer": "#40 - Howie  Ehrlich",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "1724",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#62 - Michael  Coady",
+      "assist1": "#99 - Wayne  Jacobs",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:26",
+      "team": {
+        "teamId": "1723",
+        "name": "Toronto"
+      },
+      "scorer": "#26 - Patrick  Love",
+      "assist1": "#96 - Wei  Wang",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:31",
+      "team": {
+        "teamId": "1724",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#99 - Wayne  Jacobs",
+      "assist1": "#37 - John  Holland",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:34",
+      "team": {
+        "teamId": "1723",
+        "name": "Toronto"
+      },
+      "scorer": "#26 - Patrick  Love",
+      "assist1": "#6 - Matt  Johnson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:13",
+      "team": {
+        "teamId": "1724",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": "#16 - Bailey  Robertory",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "1723",
+        "name": "Toronto"
+      },
+      "player": "#32 - Brian  Freeman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:31",
+      "team": {
+        "teamId": "1724",
+        "name": "Triassic Puck"
+      },
+      "player": "#73 - Brendan  Keeports",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:16:38.186Z"
+}

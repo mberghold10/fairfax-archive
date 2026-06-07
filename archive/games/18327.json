@@ -1,0 +1,143 @@
+{
+  "gameId": "18327",
+  "date": "2025-06-29",
+  "divId": 318,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1949",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1950",
+    "name": "Hershey Beers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1949",
+        "name": "Thunder"
+      },
+      "scorer": "#93 - Chris  Conley",
+      "assist1": "#44 - Matt  Waggoner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:34",
+      "team": {
+        "teamId": "1949",
+        "name": "Thunder"
+      },
+      "scorer": "#71 - Matt  Roberson",
+      "assist1": "#93 - Chris  Conley",
+      "assist2": "#40 - Brandon  Sweezea"
+    },
+    {
+      "period": "2",
+      "time": "00:07:33",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#96 - Billy  Tauzin",
+      "assist1": "#29 - Chris  Dunn",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:24",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#78 - Ramzi  Farah",
+      "assist1": "#54 - Scott  Knisley",
+      "assist2": "#88 - Afshawn  Towfighi"
+    },
+    {
+      "period": "4",
+      "time": "00:03:47",
+      "team": {
+        "teamId": "1949",
+        "name": "Thunder"
+      },
+      "scorer": "#29 - James  Kim",
+      "assist1": "#93 - Chris  Conley",
+      "assist2": "#61 - Nick  Johnston"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:20",
+      "team": {
+        "teamId": "1949",
+        "name": "Thunder"
+      },
+      "player": "#2 - Jen  Grotpeter",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1949",
+        "name": "Thunder"
+      },
+      "player": "#47 - Dave  LeKuch",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:08",
+      "team": {
+        "teamId": "1949",
+        "name": "Thunder"
+      },
+      "player": "#37 - Christal  Cudworth",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:08",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "player": "#96 - Billy  Tauzin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:56:50.876Z"
+}

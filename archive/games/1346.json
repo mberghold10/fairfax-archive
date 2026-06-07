@@ -1,0 +1,200 @@
+{
+  "gameId": "1346",
+  "date": "2023-10-15",
+  "divId": 274,
+  "seasonName": "Summer 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1693",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1691",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 5,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "scorer": "#71 - Matthew  Robertson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:11",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "scorer": "#29 - James  Kim",
+      "assist1": "#71 - Matthew  Robertson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "scorer": "#42 - Julian  Stapleton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:19",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "scorer": "#71 - Matthew  Robertson",
+      "assist1": "#27 - Michael  Fine",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1693",
+        "name": "Red Wings"
+      },
+      "scorer": "#22 - Trevor  Blair",
+      "assist1": "#20 - David  Humes",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:19",
+      "team": {
+        "teamId": "1693",
+        "name": "Red Wings"
+      },
+      "scorer": "#22 - Trevor  Blair",
+      "assist1": "#20 - David  Humes",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:15",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "scorer": "#27 - Michael  Fine",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:03",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "scorer": "#44 - Matthew  Waggoner",
+      "assist1": "#27 - Michael  Fine",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "scorer": "#27 - Michael  Fine",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:34",
+      "team": {
+        "teamId": "1693",
+        "name": "Red Wings"
+      },
+      "player": "#20 - David  Humes",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:41",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "player": "#42 - Julian  Stapleton",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:18",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "player": "#41 - Jim  Friel",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:31",
+      "team": {
+        "teamId": "1693",
+        "name": "Red Wings"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:46",
+      "team": {
+        "teamId": "1693",
+        "name": "Red Wings"
+      },
+      "player": "#22 - Trevor  Blair",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:10:45.217Z"
+}

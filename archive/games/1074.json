@@ -1,0 +1,154 @@
+{
+  "gameId": "1074",
+  "date": "2020-08-06",
+  "divId": 214,
+  "seasonName": "Winter 2019",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1349",
+    "name": "Rustico Flames"
+  },
+  "away": {
+    "teamId": "1355",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:09",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": "#21 - Grant  Gibbons",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:01",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "scorer": "#5 - John  Lewandoski",
+      "assist1": "#47 - Talbot  Black",
+      "assist2": "#2 - James  Marlowe"
+    },
+    {
+      "period": "2",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#44 - Mick  Ellsworth",
+      "assist2": "#19 - Joe  Dunn"
+    },
+    {
+      "period": "2",
+      "time": "00:11:56",
+      "team": {
+        "teamId": "1349",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#88 - Peter  Dallman",
+      "assist1": "#53 - Don  Modder",
+      "assist2": "#63 - Bill  Linzey"
+    },
+    {
+      "period": "3",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#19 - Joe  Dunn",
+      "assist2": "#44 - Mick  Ellsworth"
+    },
+    {
+      "period": "3",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "1349",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#53 - Don  Modder",
+      "assist1": "#63 - Bill  Linzey",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "1349",
+        "name": "Rustico Flames"
+      },
+      "player": "#55 - Scott  Dullea",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:38",
+      "team": {
+        "teamId": "1349",
+        "name": "Rustico Flames"
+      },
+      "player": "#63 - Bill  Linzey",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:58",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "player": "#44 - Mick  Ellsworth",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:59",
+      "team": {
+        "teamId": "1349",
+        "name": "Rustico Flames"
+      },
+      "player": "#77 - Erik  Bergman",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:12:22.901Z"
+}

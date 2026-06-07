@@ -1,0 +1,145 @@
+{
+  "gameId": "14349",
+  "date": "2021-09-25",
+  "divId": 236,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1477",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1472",
+    "name": "Flying Circus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:15",
+      "team": {
+        "teamId": "1472",
+        "name": "Flying Circus"
+      },
+      "scorer": "#2 - Marc  Sheinkin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:11",
+      "team": {
+        "teamId": "1472",
+        "name": "Flying Circus"
+      },
+      "scorer": "#8 - Dan  Brehm",
+      "assist1": "#23 - Greg  Thomas",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:26",
+      "team": {
+        "teamId": "1472",
+        "name": "Flying Circus"
+      },
+      "scorer": "#18 - Chris  Kelly",
+      "assist1": "#8 - Dan  Brehm",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:46",
+      "team": {
+        "teamId": "1477",
+        "name": "Grey Goons"
+      },
+      "scorer": "#25 - Christopher  Litteri",
+      "assist1": "#19 - Joe  Dunn",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:51",
+      "team": {
+        "teamId": "1472",
+        "name": "Flying Circus"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:51",
+      "team": {
+        "teamId": "1477",
+        "name": "Grey Goons"
+      },
+      "player": "#19 - Joe  Dunn",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:51",
+      "team": {
+        "teamId": "1477",
+        "name": "Grey Goons"
+      },
+      "player": "#19 - Joe  Dunn",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:51",
+      "team": {
+        "teamId": "1472",
+        "name": "Flying Circus"
+      },
+      "player": "#17 - John  Kemprowski",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:49",
+      "team": {
+        "teamId": "1472",
+        "name": "Flying Circus"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:28:15.900Z"
+}

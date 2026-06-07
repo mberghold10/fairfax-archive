@@ -1,0 +1,139 @@
+{
+  "gameId": "12946",
+  "date": "2019-07-24",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1265",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1263",
+    "name": "Englewood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "scorer": "#9 - Mark  Rudnicki",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "scorer": "#40 - Mikhail  Serebrennikov",
+      "assist1": "#2 - Billy  Borris",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#71 - Martin  Haydon",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "scorer": "#7 - Joe  Hull",
+      "assist1": "#15 - John  Cushing",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:39",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#26 - Richard  Snively",
+      "assist2": "#4 - Mark  Sullivan"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:26",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "player": "#26 - Richard  Snively",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "player": "#4 - Tad  Jose",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:53:49.196Z"
+}

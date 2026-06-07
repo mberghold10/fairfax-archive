@@ -1,0 +1,128 @@
+{
+  "gameId": "11389",
+  "date": "2018-03-04",
+  "divId": 175,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1120",
+    "name": "Canucks"
+  },
+  "away": {
+    "teamId": "1115",
+    "name": "North Stars"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": "#61 - Tero  Moberg",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:58",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": "#61 - Tero  Moberg",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:05",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#80 - Matt  Rogers",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:31",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#91 - Chris  Callanan",
+      "assist1": "#13 - Steve  Schooner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:23",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": "#12 - Matt  Diamon",
+      "assist2": "#55 - Ben  Malakoff"
+    },
+    {
+      "period": "3",
+      "time": "00:10:40",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#61 - Tero  Moberg",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:58",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "player": "#55 - Ben  Malakoff",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "player": "#88 - Todd  Mariano",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:24:27.769Z"
+}

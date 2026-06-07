@@ -1,0 +1,160 @@
+{
+  "gameId": "10089",
+  "date": "2016-10-31",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1018",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1022",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "1022",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#16 - Nurali  Jamani",
+      "assist1": "#4 - Paul  Cicchetti",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:28",
+      "team": {
+        "teamId": "1022",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#16 - Nurali  Jamani",
+      "assist1": "#42 - Adam  Russell",
+      "assist2": "#20 - Jeff  Carter"
+    },
+    {
+      "period": "2",
+      "time": "00:07:54",
+      "team": {
+        "teamId": "1022",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": "#87 - Freddy  Barnes"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:19",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "player": "#91 - Matt  Vossekuil",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:28",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "player": "#0 - Jory  Rubenstein",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:28",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "player": "#0 - Jory  Rubenstein",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1022",
+        "name": "Blue Crabs"
+      },
+      "player": "#13 - Rob  Wittman",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "player": "#0 - Jory  Rubenstein",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1022",
+        "name": "Blue Crabs"
+      },
+      "player": "#22 - Joseph  Ney",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "player": "#7 - Justin  Kent",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:04:13.049Z"
+}

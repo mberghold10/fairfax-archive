@@ -1,0 +1,147 @@
+{
+  "gameId": "11985",
+  "date": "2018-09-08",
+  "divId": 186,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1186",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1181",
+    "name": "Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:26",
+      "team": {
+        "teamId": "1181",
+        "name": "Crabs"
+      },
+      "scorer": "#14 - Roger  Jordan",
+      "assist1": "#36 - Gisle  Sorli",
+      "assist2": "#90 - Andrew  Mayen"
+    },
+    {
+      "period": "3",
+      "time": "00:07:38",
+      "team": {
+        "teamId": "1186",
+        "name": "Dragons"
+      },
+      "scorer": "#44 - Brian  Guerrero",
+      "assist1": "#36 - Nick  Fishter",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:26",
+      "team": {
+        "teamId": "1181",
+        "name": "Crabs"
+      },
+      "scorer": "#88 - Pat  Lockett",
+      "assist1": "#32 - Dave  Garvis",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1181",
+        "name": "Crabs"
+      },
+      "player": "#32 - Dave  Garvis",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1181",
+        "name": "Crabs"
+      },
+      "player": "#90 - Andrew  Mayen",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1181",
+        "name": "Crabs"
+      },
+      "player": "#27 - Adam  Bacon",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1181",
+        "name": "Crabs"
+      },
+      "player": "#22 - Trevor  Blair",
+      "pim": 10,
+      "offense": "check from behind",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:54",
+      "team": {
+        "teamId": "1186",
+        "name": "Dragons"
+      },
+      "player": "#68 - Matt  Taylor",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1186",
+        "name": "Dragons"
+      },
+      "player": "#68 - Matt  Taylor",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:38:27.009Z"
+}

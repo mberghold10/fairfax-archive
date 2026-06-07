@@ -1,0 +1,128 @@
+{
+  "gameId": "12676",
+  "date": "2019-05-11",
+  "divId": 205,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1300",
+    "name": "Jurassic Puck"
+  },
+  "away": {
+    "teamId": "1301",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:35",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#9 - Julien  De Grandpre",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1300",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#22 - Patrick  Smith",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:46",
+      "team": {
+        "teamId": "1300",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#16 - Bailey  Robertory",
+      "assist1": "#11 - George  Cernica",
+      "assist2": "#14 - Andrew  Prantner"
+    },
+    {
+      "period": "1",
+      "time": "00:10:14",
+      "team": {
+        "teamId": "1300",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#17 - Zephan  Keehner",
+      "assist1": "#22 - Patrick  Smith",
+      "assist2": "#9 - Tristan  Heyn"
+    },
+    {
+      "period": "1",
+      "time": "00:11:03",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#9 - Julien  De Grandpre",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#9 - Julien  De Grandpre",
+      "assist1": "#16 - Dave  Smith",
+      "assist2": "#24 - Harry  Nicholakos"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "player": "#7 - Will  Weiler",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "player": "#16 - Dave  Smith",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:00:18.850Z"
+}

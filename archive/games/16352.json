@@ -1,0 +1,71 @@
+{
+  "gameId": "16352",
+  "date": "2023-07-30",
+  "divId": 274,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1692",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1693",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:03:49",
+      "team": {
+        "teamId": "1692",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#44 - Carlos  Gautier",
+      "assist1": "#27 - Jamie  Prime",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:58",
+      "team": {
+        "teamId": "1692",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#27 - Jamie  Prime",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1693",
+        "name": "Red Wings"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:10:16.747Z"
+}

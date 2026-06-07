@@ -1,0 +1,165 @@
+{
+  "gameId": "13871",
+  "date": "2020-12-06",
+  "divId": 223,
+  "seasonName": "Fall 2020",
+  "mode": "regular",
+  "home": {
+    "teamId": "1400",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1398",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "1400",
+        "name": "Hurricanes"
+      },
+      "scorer": "#81 - Pete  Poczatek",
+      "assist1": "#93 - Jeff  Nauer",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:07",
+      "team": {
+        "teamId": "1398",
+        "name": "Wolves"
+      },
+      "scorer": "#5 - Steve  Crespy",
+      "assist1": "#29 - Ron  Szatmary",
+      "assist2": "#26 - Philip  Hogan"
+    },
+    {
+      "period": "1",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "1398",
+        "name": "Wolves"
+      },
+      "scorer": "#5 - Steve  Crespy",
+      "assist1": "#29 - Ron  Szatmary",
+      "assist2": "#12 - Jim  Schoff"
+    },
+    {
+      "period": "2",
+      "time": "00:03:32",
+      "team": {
+        "teamId": "1400",
+        "name": "Hurricanes"
+      },
+      "scorer": "#9 - Rick  Cole",
+      "assist1": "#19 - Jason  Long",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:56",
+      "team": {
+        "teamId": "1398",
+        "name": "Wolves"
+      },
+      "scorer": "#33 - Dmitriy  Achapkin",
+      "assist1": "#14 - Paul  Tourbaf",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:13",
+      "team": {
+        "teamId": "1398",
+        "name": "Wolves"
+      },
+      "scorer": "#14 - Paul  Tourbaf",
+      "assist1": "#23 - Alan  Stiffler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "1398",
+        "name": "Wolves"
+      },
+      "scorer": "#7 - John  Koester",
+      "assist1": "#12 - Jim  Schoff",
+      "assist2": "#25 - Joe  DeNoyior"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:16",
+      "team": {
+        "teamId": "1398",
+        "name": "Wolves"
+      },
+      "player": "#33 - Dmitriy  Achapkin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:51",
+      "team": {
+        "teamId": "1400",
+        "name": "Hurricanes"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1400",
+        "name": "Hurricanes"
+      },
+      "player": "#30 - Jeff  Lucas",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:17",
+      "team": {
+        "teamId": "1400",
+        "name": "Hurricanes"
+      },
+      "player": "#16 - Carlos  Novoa",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:18:30.874Z"
+}

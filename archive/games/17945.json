@@ -1,0 +1,219 @@
+{
+  "gameId": "17945",
+  "date": "2025-05-31",
+  "divId": 303,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1892",
+    "name": "Red Dragons"
+  },
+  "away": {
+    "teamId": "1893",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1892",
+        "name": "Red Dragons"
+      },
+      "scorer": "#11 - Rob  Ryan",
+      "assist1": "#57 - Dylan  Thomas",
+      "assist2": "#47 - Raymond  Jakubowski"
+    },
+    {
+      "period": "2",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1892",
+        "name": "Red Dragons"
+      },
+      "scorer": "#57 - Dylan  Thomas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "1892",
+        "name": "Red Dragons"
+      },
+      "scorer": "#57 - Dylan  Thomas",
+      "assist1": "#34 - Scott  Vecchione",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:51",
+      "team": {
+        "teamId": "1893",
+        "name": "Wolves"
+      },
+      "scorer": "#43 - Dan  Miller",
+      "assist1": "#94 - Mike  Starego",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:16",
+      "team": {
+        "teamId": "1892",
+        "name": "Red Dragons"
+      },
+      "scorer": "#57 - Dylan  Thomas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1892",
+        "name": "Red Dragons"
+      },
+      "scorer": "#12 - Scott  Borders",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:29",
+      "team": {
+        "teamId": "1892",
+        "name": "Red Dragons"
+      },
+      "player": "#47 - Raymond  Jakubowski",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:55",
+      "team": {
+        "teamId": "1893",
+        "name": "Wolves"
+      },
+      "player": "#62 - Ben  Fernandes",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1892",
+        "name": "Red Dragons"
+      },
+      "player": "#65 - Stuart  Hoffman",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1892",
+        "name": "Red Dragons"
+      },
+      "player": "# -",
+      "pim": 5,
+      "offense": "check",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1892",
+        "name": "Red Dragons"
+      },
+      "player": "#65 - Stuart  Hoffman",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:32",
+      "team": {
+        "teamId": "1892",
+        "name": "Red Dragons"
+      },
+      "player": "#65 - Stuart  Hoffman",
+      "pim": 2,
+      "offense": "unsoprt",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "1892",
+        "name": "Red Dragons"
+      },
+      "player": "#57 - Dylan  Thomas",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "1892",
+        "name": "Red Dragons"
+      },
+      "player": "#34 - Scott  Vecchione",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:41",
+      "team": {
+        "teamId": "1892",
+        "name": "Red Dragons"
+      },
+      "player": "#12 - Scott  Borders",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:41:37.021Z"
+}

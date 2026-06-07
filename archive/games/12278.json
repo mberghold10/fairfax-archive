@@ -1,0 +1,234 @@
+{
+  "gameId": "12278",
+  "date": "2018-11-15",
+  "divId": 195,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1240",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1241",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "scorer": "#13 - Tim  Cremen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": "#8 - Jason  Eister",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "scorer": "#49 - Greg  Mullen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:11",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "scorer": "#9 - Rick  Cole",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:52",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "scorer": "#44 - Mick  Ellsworth",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:21",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "player": "#9 - Brian  Mehnert",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "player": "#49 - Greg  Mullen",
+      "pim": 2,
+      "offense": "check from behind",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "player": "#49 - Greg  Mullen",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "player": "#37 - Tom  Taylor",
+      "pim": 5,
+      "offense": "spearing",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "player": "#37 - Tom  Taylor",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:36",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:28",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:59",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:10",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "player": "#22 - Brian  Dutton",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "player": "#9 - Brian  Mehnert",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:48:42.473Z"
+}

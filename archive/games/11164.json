@@ -1,0 +1,104 @@
+{
+  "gameId": "11164",
+  "date": "2017-10-27",
+  "divId": 177,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1130",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1131",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#96 - Geoff  Ackerman",
+      "assist1": "#24 - Harry  Nicholakos",
+      "assist2": "#20 - Brent  Jefferson"
+    },
+    {
+      "period": "1",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#27 - Jamie  Prime",
+      "assist2": "#96 - Geoff  Ackerman"
+    },
+    {
+      "period": "2",
+      "time": "00:05:53",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#6 - Matt  Johnson",
+      "assist2": "#27 - Jamie  Prime"
+    },
+    {
+      "period": "2",
+      "time": "00:07:51",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#20 - Brent  Jefferson",
+      "assist1": "#11 - Adam  Bartholomew",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:26",
+      "team": {
+        "teamId": "1131",
+        "name": "Dragons"
+      },
+      "scorer": "#16 - Bart  Lucas",
+      "assist1": "#77 - Dylan  Gerhard",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:12",
+      "team": {
+        "teamId": "1131",
+        "name": "Dragons"
+      },
+      "player": "#22 - Daivd  Norley",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:26:28.516Z"
+}

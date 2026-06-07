@@ -1,0 +1,150 @@
+{
+  "gameId": "13153",
+  "date": "2019-07-20",
+  "divId": 207,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1309",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1313",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1309",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#7 - James  Waddick",
+      "assist1": "#9 - Dan  McCormick",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1309",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#7 - James  Waddick",
+      "assist1": "#9 - Dan  McCormick",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:19:22",
+      "team": {
+        "teamId": "1309",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#9 - Dan  McCormick",
+      "assist1": "#44 - George  Cernica",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1313",
+        "name": "Red Wings"
+      },
+      "scorer": "#25 - James  Chu",
+      "assist1": "#12 - Gus  Anderson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:08",
+      "team": {
+        "teamId": "1309",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#44 - George  Cernica",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1309",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#44 - George  Cernica",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:56",
+      "team": {
+        "teamId": "1313",
+        "name": "Red Wings"
+      },
+      "scorer": "#25 - James  Chu",
+      "assist1": "#28 - Tom  Montanio",
+      "assist2": "#29 - Regina  Hart"
+    },
+    {
+      "period": "3",
+      "time": "00:10:57",
+      "team": {
+        "teamId": "1309",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#9 - Dan  McCormick",
+      "assist1": "#44 - George  Cernica",
+      "assist2": "#42 - Mo  OSullivan"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:21",
+      "team": {
+        "teamId": "1309",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#10 - John  Foley",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1309",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#7 - James  Waddick",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:03:10.811Z"
+}

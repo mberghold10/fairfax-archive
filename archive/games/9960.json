@@ -1,0 +1,139 @@
+{
+  "gameId": "9960",
+  "date": "2016-10-07",
+  "divId": 153,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "985",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "983",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 4,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#21 - Steve  Chan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:59",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#41 - Eugene  Livsics",
+      "assist2": "#91 - Zane  Ziebell"
+    },
+    {
+      "period": "1",
+      "time": "00:09:47",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#41 - Eugene  Livsics",
+      "assist2": "#21 - Steve  Chan"
+    },
+    {
+      "period": "2",
+      "time": "00:06:29",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#21 - Steve  Chan",
+      "assist2": "#66 - Sean  McGrann"
+    },
+    {
+      "period": "2",
+      "time": "00:10:52",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#91 - Zane  Ziebell",
+      "assist1": "#6 - Jeff  Cullen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:26",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#91 - Zane  Ziebell",
+      "assist2": "#77 - Oleg  Nayandin"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:23",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "player": "#41 - Eugene  Livsics",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "983",
+        "name": "Bruins"
+      },
+      "player": "#24 - Jamie  Belcastro",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:56:21.188Z"
+}

@@ -1,0 +1,336 @@
+{
+  "gameId": "12944",
+  "date": "2019-07-21",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1262",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "1264",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:54",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#18 - Samson  Chu",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": "#82 - Neil  Schoenthaler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:44",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#14 - Mike  Ferrone",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "scorer": "#10 - Matt  Galen",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#82 - Neil  Schoenthaler",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "scorer": "#56 - Ryan  Tyler",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#24 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:21",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:28",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:35",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#38 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:44",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "player": "#92 - Matt  Frazza",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:01",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "player": "#92 - Matt  Frazza",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:12",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#19 - Joe  Dunn",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#38 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#24 - Tom  Spiewak",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:26",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#82 - Neil  Schoenthaler",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#11 - Kevin  Powers",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "bench minor",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:04",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#24 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:04",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#11 - Kevin  Powers",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:12",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#82 - Neil  Schoenthaler",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:12",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "player": "#16 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:53:47.305Z"
+}

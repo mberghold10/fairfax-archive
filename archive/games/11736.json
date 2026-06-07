@@ -1,0 +1,139 @@
+{
+  "gameId": "11736",
+  "date": "2018-06-30",
+  "divId": 187,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1190",
+    "name": "Triassic Puck"
+  },
+  "away": {
+    "teamId": "1191",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#9 - Greg  Sybersma",
+      "assist1": "#38 - Keith  Forsythe",
+      "assist2": "#25 - Jack  Hur"
+    },
+    {
+      "period": "1",
+      "time": "00:01:31",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#9 - Greg  Sybersma",
+      "assist1": "#44 - George  Cernica",
+      "assist2": "#13 - Aaron  Kirsch"
+    },
+    {
+      "period": "1",
+      "time": "00:11:25",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#25 - Jack  Hur",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#9 - Greg  Sybersma",
+      "assist1": "#13 - Aaron  Kirsch",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#13 - Aaron  Kirsch",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:15:02",
+      "team": {
+        "teamId": "1191",
+        "name": "Thunder"
+      },
+      "scorer": "#11 - Jason  McKay",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#13 - Aaron  Kirsch",
+      "assist1": "#9 - Greg  Sybersma",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "player": "#13 - Aaron  Kirsch",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "player": "#13 - Aaron  Kirsch",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:39:17.215Z"
+}

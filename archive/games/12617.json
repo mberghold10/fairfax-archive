@@ -1,0 +1,106 @@
+{
+  "gameId": "12617",
+  "date": "2019-01-27",
+  "divId": 197,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1253",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1250",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1250",
+        "name": "Thunder"
+      },
+      "scorer": "#79 - Sean  Longanecker",
+      "assist1": "#5 - Zac  Graber",
+      "assist2": "#41 - Randy  Warren"
+    },
+    {
+      "period": "1",
+      "time": "00:11:21",
+      "team": {
+        "teamId": "1250",
+        "name": "Thunder"
+      },
+      "scorer": "#46 - Charles  Fancher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:36",
+      "team": {
+        "teamId": "1250",
+        "name": "Thunder"
+      },
+      "scorer": "#5 - Zac  Graber",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:45",
+      "team": {
+        "teamId": "1253",
+        "name": "Red Wings"
+      },
+      "scorer": "#24 - Harry  Nicholakos",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:03",
+      "team": {
+        "teamId": "1250",
+        "name": "Thunder"
+      },
+      "player": "#79 - Sean  Longanecker",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:25",
+      "team": {
+        "teamId": "1253",
+        "name": "Red Wings"
+      },
+      "player": "#22 - Matthew  Allen",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:51:52.591Z"
+}

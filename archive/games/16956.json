@@ -1,0 +1,139 @@
+{
+  "gameId": "16956",
+  "date": "2024-06-07",
+  "divId": 288,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1768",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1770",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:34",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Jack  Ettinger",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:51",
+      "team": {
+        "teamId": "1770",
+        "name": "Rink Rats"
+      },
+      "scorer": "#12 - Kieran  McQuilkin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:34",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "scorer": "#17 - Brandon  Soyer",
+      "assist1": "#28 - Bryce  Coughlin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:49",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Jack  Ettinger",
+      "assist1": "#83 - Eric  Wu",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:09",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "scorer": "#32 - Elliott  Metzler",
+      "assist1": "#58 - Luke  Hartley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:39",
+      "team": {
+        "teamId": "1770",
+        "name": "Rink Rats"
+      },
+      "scorer": "#34 - Evan  Tierney",
+      "assist1": "#13 - John  Bereza",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "scorer": "#11 - Thomas  Bailey",
+      "assist1": "#43 - Jack  Ettinger",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:33",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:17",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "player": "#8 - Justin  Jerardo",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:25:05.025Z"
+}

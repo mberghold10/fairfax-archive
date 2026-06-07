@@ -1,0 +1,110 @@
+{
+  "gameId": "14365",
+  "date": "2021-09-11",
+  "divId": 238,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1485",
+    "name": "Roughnecks"
+  },
+  "away": {
+    "teamId": "1489",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:16:39",
+      "team": {
+        "teamId": "1489",
+        "name": "Red Wings"
+      },
+      "scorer": "#16 - Wei  Wang",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:18:42",
+      "team": {
+        "teamId": "1489",
+        "name": "Red Wings"
+      },
+      "scorer": "#24 - Jake  Middel",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": "#54 - Tom  Montanio"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1485",
+        "name": "Roughnecks"
+      },
+      "player": "#84 - David  Goldsrein",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:23",
+      "team": {
+        "teamId": "1485",
+        "name": "Roughnecks"
+      },
+      "player": "#84 - David  Goldsrein",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:16",
+      "team": {
+        "teamId": "1489",
+        "name": "Red Wings"
+      },
+      "player": "#24 - Jake  Middel",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1485",
+        "name": "Roughnecks"
+      },
+      "player": "#17 - Peter  Cassell",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:29:37.114Z"
+}

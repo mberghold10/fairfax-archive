@@ -1,0 +1,126 @@
+{
+  "gameId": "19093",
+  "date": "2026-03-29",
+  "divId": 327,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2016",
+    "name": "Fossils"
+  },
+  "away": {
+    "teamId": "2020",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "2020",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#4 - Carl  Fairbank",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:07",
+      "team": {
+        "teamId": "2016",
+        "name": "Fossils"
+      },
+      "scorer": "#44 - George  Cernica",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:57",
+      "team": {
+        "teamId": "2020",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#4 - Carl  Fairbank",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:47",
+      "team": {
+        "teamId": "2020",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#16 - Greg  Thomas",
+      "assist1": "#20 - Bao  Pham",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:48",
+      "team": {
+        "teamId": "2016",
+        "name": "Fossils"
+      },
+      "scorer": "#5 - Rob  Kelty",
+      "assist1": "#14 - Andrew  Pranter",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "2020",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#16 - Greg  Thomas",
+      "assist1": "#47 - Jeff  Urlwin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "2016",
+        "name": "Fossils"
+      },
+      "scorer": "#24 - George  Stocker",
+      "assist1": "#46 - Mark  Tobias",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:11:26",
+      "team": {
+        "teamId": "2016",
+        "name": "Fossils"
+      },
+      "player": "#14 - Andrew  Pranter",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:07:17.587Z"
+}

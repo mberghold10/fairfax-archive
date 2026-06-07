@@ -1,0 +1,228 @@
+{
+  "gameId": "11830",
+  "date": "2018-08-14",
+  "divId": 182,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1159",
+    "name": "Senators"
+  },
+  "away": {
+    "teamId": "1160",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#13 - Phil  Wind",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": "#89 - Frank  Congel",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": "#6 - Jon  Lauder",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:42",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "scorer": "#93 - Jeff  Nauer",
+      "assist1": "#71 - John  Buhler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:07",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": "#2 - Mark  Jesten",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:12",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "scorer": "#93 - Jeff  Nauer",
+      "assist1": "#89 - Frank  Congel",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:15",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#27 - Dave  Lin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:25",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:49",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "player": "#8 - Bob  Shay",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "player": "#12 - David  OMalley",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:14",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "player": "#17 - John  Wallace",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "player": "#47 - Josh  Epstein",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "player": "#89 - Frank  Congel",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:32:50.742Z"
+}

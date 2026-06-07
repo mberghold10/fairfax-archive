@@ -1,0 +1,141 @@
+{
+  "gameId": "18092",
+  "date": "2025-07-26",
+  "divId": 310,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1897",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1896",
+    "name": "4th Liners"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "1896",
+        "name": "4th Liners"
+      },
+      "scorer": "#0 - Brendan  Horgas",
+      "assist1": "#7 - Nick  Pierano",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:09",
+      "team": {
+        "teamId": "1896",
+        "name": "4th Liners"
+      },
+      "scorer": "#15 - Matthew  Martin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1896",
+        "name": "4th Liners"
+      },
+      "scorer": "#21 - Jake  Truhlar",
+      "assist1": "#170 - Mark  Politor",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "1897",
+        "name": "Englewood"
+      },
+      "scorer": "#25 - Gavin  Reiger",
+      "assist1": "#9 - Mitch  Bourgerie",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "1896",
+        "name": "4th Liners"
+      },
+      "scorer": "#6 - Zach  Adams",
+      "assist1": "#2 - Jake  Lockerby",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:35",
+      "team": {
+        "teamId": "1897",
+        "name": "Englewood"
+      },
+      "scorer": "#25 - Gavin  Reiger",
+      "assist1": "#2 - Jason  Abkowitz",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1896",
+        "name": "4th Liners"
+      },
+      "player": "#15 - Matthew  Martin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "1896",
+        "name": "4th Liners"
+      },
+      "player": "#170 - Mark  Politor",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1896",
+        "name": "4th Liners"
+      },
+      "player": "#4 - Campbell  Burns",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:47:30.272Z"
+}

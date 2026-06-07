@@ -1,0 +1,106 @@
+{
+  "gameId": "15186",
+  "date": "2022-09-11",
+  "divId": 251,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1550",
+    "name": "Jurassic Puck"
+  },
+  "away": {
+    "teamId": "1551",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#18 - Chukie  Ezike",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#22 - Patrick  Smith",
+      "assist1": "#28 - Michael  Berghold",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:47",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:16",
+      "team": {
+        "teamId": "1551",
+        "name": "Angry Moose"
+      },
+      "scorer": "#15 - Kevin  Szczepanski",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1551",
+        "name": "Angry Moose"
+      },
+      "player": "#88 - Pete  Lee",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:40",
+      "team": {
+        "teamId": "1551",
+        "name": "Angry Moose"
+      },
+      "player": "#88 - Pete  Lee",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:43:03.540Z"
+}

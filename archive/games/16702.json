@@ -1,0 +1,128 @@
+{
+  "gameId": "16702",
+  "date": "2024-04-29",
+  "divId": 277,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1705",
+    "name": "Screaming Eagles"
+  },
+  "away": {
+    "teamId": "1709",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "1709",
+        "name": "Chiefs"
+      },
+      "scorer": "#42 - Dave  Hagemeier",
+      "assist1": "#21 - Scott  Frauenknecht",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:45",
+      "team": {
+        "teamId": "1705",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#17 - Talon  Ribsom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1709",
+        "name": "Chiefs"
+      },
+      "scorer": "#91 - Sean  Morrow",
+      "assist1": "#6 - Mike  Benyo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "1705",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#5 - Ben  Malakoff",
+      "assist1": "#81 - Bryan  Getson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1705",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#88 - Evan  Wojtowicz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:26",
+      "team": {
+        "teamId": "1705",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#5 - Ben  Malakoff",
+      "assist1": "#88 - Evan  Wojtowicz",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1709",
+        "name": "Chiefs"
+      },
+      "player": "#18 - Michael  Dewhirst",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:41",
+      "team": {
+        "teamId": "1705",
+        "name": "Screaming Eagles"
+      },
+      "player": "#61 - Tero  Moberg",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:13:35.566Z"
+}

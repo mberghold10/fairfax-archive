@@ -1,0 +1,128 @@
+{
+  "gameId": "12434",
+  "date": "2019-03-01",
+  "divId": 191,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1215",
+    "name": "Whalers"
+  },
+  "away": {
+    "teamId": "1210",
+    "name": "Pharaohs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:16",
+      "team": {
+        "teamId": "1210",
+        "name": "Pharaohs"
+      },
+      "scorer": "#19 - Otto  Noffsinger",
+      "assist1": "#17 - Zepahn  Keehner",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "1210",
+        "name": "Pharaohs"
+      },
+      "scorer": "#23 - Seth  Wayne",
+      "assist1": "#11 - Dan  Owens",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:00",
+      "team": {
+        "teamId": "1215",
+        "name": "Whalers"
+      },
+      "scorer": "#15 - Chris  Vasilas",
+      "assist1": "#37 - Casey  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:50",
+      "team": {
+        "teamId": "1210",
+        "name": "Pharaohs"
+      },
+      "scorer": "#19 - Otto  Noffsinger",
+      "assist1": "#11 - Dan  Owens",
+      "assist2": "#23 - Seth  Wayne"
+    },
+    {
+      "period": "3",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "1215",
+        "name": "Whalers"
+      },
+      "scorer": "#23 - Brian  McCarthy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:28",
+      "team": {
+        "teamId": "1210",
+        "name": "Pharaohs"
+      },
+      "scorer": "#14 - Jay  Woon",
+      "assist1": "#15 - Brian  Ebert",
+      "assist2": "#28 - `Michael  Berghold"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:50",
+      "team": {
+        "teamId": "1210",
+        "name": "Pharaohs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:14",
+      "team": {
+        "teamId": "1215",
+        "name": "Whalers"
+      },
+      "player": "#10 - Chris  Greenought",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:43:52.469Z"
+}

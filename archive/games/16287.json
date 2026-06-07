@@ -1,0 +1,104 @@
+{
+  "gameId": "16287",
+  "date": "2023-08-05",
+  "divId": 272,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1682",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1678",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "scorer": "#88 - Anthony  DeJohn",
+      "assist1": "#83 - Brandon  Berhorst",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:32",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "scorer": "#88 - Anthony  DeJohn",
+      "assist1": "#83 - Brandon  Berhorst",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "scorer": "#40 - Mike  Serebrennikov",
+      "assist1": "#55 - Tim  Dutcher",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:19",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "scorer": "#28 - Geoff  Storchan",
+      "assist1": "#3 - John  Niemiec",
+      "assist2": "#9 - Aaron  Dobbs"
+    },
+    {
+      "period": "3",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "scorer": "#41 - Dave  Armstrong",
+      "assist1": "#88 - Anthony  DeJohn",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "player": "#72 - Josh  Epstein",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:07:44.258Z"
+}

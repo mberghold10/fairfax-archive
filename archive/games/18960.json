@@ -1,0 +1,156 @@
+{
+  "gameId": "18960",
+  "date": "2026-05-29",
+  "divId": 322,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1975",
+    "name": "Windbreakers"
+  },
+  "away": {
+    "teamId": "1978",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:34",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#36 - Brian  Lusby",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:34",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#29 - Frank  Tomaino",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:55",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#63 - Forrest  Hitchcock",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#69 - Mark  Gillam",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:02",
+      "team": {
+        "teamId": "1975",
+        "name": "Windbreakers"
+      },
+      "scorer": "#11 - James  Litz",
+      "assist1": "#27 - James  Fothergill",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:26",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "player": "#25 - Neil  Dsouza",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:53",
+      "team": {
+        "teamId": "1975",
+        "name": "Windbreakers"
+      },
+      "player": "#27 - James  Fothergill",
+      "pim": 2,
+      "offense": "High Stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:06",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "player": "#44 - Carlos  Gautier",
+      "pim": 2,
+      "offense": "High Stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "player": "#44 - Carlos  Gautier",
+      "pim": 2,
+      "offense": "Rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:19",
+      "team": {
+        "teamId": "1975",
+        "name": "Windbreakers"
+      },
+      "player": "#11 - James  Litz",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:01:48.653Z"
+}

@@ -1,0 +1,86 @@
+{
+  "gameId": "10825",
+  "date": "2017-07-29",
+  "divId": 167,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1067",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1070",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#0 - Jory  Rubenstein",
+      "assist1": "#13 - Nick  Burton",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "player": "#2 - Dennis  Valentine",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:41",
+      "team": {
+        "teamId": "1070",
+        "name": "Maple Leafs"
+      },
+      "player": "#13 - Trevor  Wallace",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:56",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "player": "#2 - Dennis  Valentine",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:14:41.092Z"
+}

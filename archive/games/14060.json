@@ -1,0 +1,187 @@
+{
+  "gameId": "14060",
+  "date": "2021-05-23",
+  "divId": 229,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1434",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1435",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "1435",
+        "name": "Old Goats"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#6 - Brad  Seibert",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:39",
+      "team": {
+        "teamId": "1435",
+        "name": "Old Goats"
+      },
+      "scorer": "#77 - Dave  Lin",
+      "assist1": "#24 - Michael  Duell",
+      "assist2": "#21 - Michael  Hawthorne"
+    },
+    {
+      "period": "1",
+      "time": "00:10:49",
+      "team": {
+        "teamId": "1434",
+        "name": "Wolves"
+      },
+      "scorer": "#94 - Mike  Starego",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:14",
+      "team": {
+        "teamId": "1434",
+        "name": "Wolves"
+      },
+      "scorer": "#17 - Chris  Watroba",
+      "assist1": "#65 - Stuart  Hoffman",
+      "assist2": "#33 - Dmitriy  Achapkin"
+    },
+    {
+      "period": "2",
+      "time": "00:09:02",
+      "team": {
+        "teamId": "1435",
+        "name": "Old Goats"
+      },
+      "scorer": "#77 - Dave  Lin",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "1434",
+        "name": "Wolves"
+      },
+      "scorer": "#33 - Dmitriy  Achapkin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "1435",
+        "name": "Old Goats"
+      },
+      "scorer": "#17 - Dan  Pol",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:43",
+      "team": {
+        "teamId": "1435",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#19 - Ira  Keltz",
+      "assist2": "#26 - Bob  Shay"
+    },
+    {
+      "period": "3",
+      "time": "00:11:38",
+      "team": {
+        "teamId": "1435",
+        "name": "Old Goats"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#77 - Dave  Lin",
+      "assist2": "#21 - Michael  Hawthorne"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "1434",
+        "name": "Wolves"
+      },
+      "player": "#65 - Stuart  Hoffman",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "1434",
+        "name": "Wolves"
+      },
+      "player": "#94 - Mike  Starego",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:16",
+      "team": {
+        "teamId": "1434",
+        "name": "Wolves"
+      },
+      "player": "#65 - Stuart  Hoffman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:15",
+      "team": {
+        "teamId": "1435",
+        "name": "Old Goats"
+      },
+      "player": "#19 - Ira  Keltz",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:23:07.441Z"
+}

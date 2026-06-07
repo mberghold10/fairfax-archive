@@ -1,0 +1,284 @@
+{
+  "gameId": "13407",
+  "date": "2019-10-24",
+  "divId": 214,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1352",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1356",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:10",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#280 - Konstantin  Silov",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:48",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#24 - Max  Alexeev",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:03",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "scorer": "#23 - Scott  Richard",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:39",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "scorer": "#23 - Scott  Richard",
+      "assist1": "#9 - Rick  Cole",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "scorer": "#9 - Rick  Cole",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:50",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "scorer": "#23 - Scott  Richard",
+      "assist1": "#37 - Tom  Taylor",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#55 - Tim  Dutcher",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:10",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:10",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "player": "#19 - Jason  Long",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "player": "#71 - John  Buhler",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:53",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "player": "#71 - John  Buhler",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "player": "#23 - Scott  Richard",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:48",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#55 - Tim  Dutcher",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:46",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#55 - Tim  Dutcher",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#15 - Mark  Rudnicki",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#30 - Fritz  McDougall",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#30 - Fritz  McDougall",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:10:59.939Z"
+}

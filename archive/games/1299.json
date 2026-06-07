@@ -1,0 +1,230 @@
+{
+  "gameId": "1299",
+  "date": "2023-04-19",
+  "divId": 262,
+  "seasonName": "Winter 2022",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1613",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1612",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": "#41 - Erik  Kniaz"
+    },
+    {
+      "period": "2",
+      "time": "00:02:58",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#78 - Noe  Hatchuel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:51",
+      "team": {
+        "teamId": "1612",
+        "name": "Ducks"
+      },
+      "scorer": "#6 - David  Satagaj",
+      "assist1": "#7 - Andrew  Golomb",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:52",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#13 - Ben  Aring",
+      "assist1": "#41 - Erik  Kniaz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "1612",
+        "name": "Ducks"
+      },
+      "scorer": "#6 - David  Satagaj",
+      "assist1": "#25 - Derek  Bluth",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#18 - Samson  Chu",
+      "assist1": "#78 - Noe  Hatchuel",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:09",
+      "team": {
+        "teamId": "1612",
+        "name": "Ducks"
+      },
+      "scorer": "#7 - Andrew  Golomb",
+      "assist1": "#6 - David  Satagaj",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "player": "#36 - William  Ludke",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1612",
+        "name": "Ducks"
+      },
+      "player": "#3 - Brian  Sharkey",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:03",
+      "team": {
+        "teamId": "1612",
+        "name": "Ducks"
+      },
+      "player": "#91 - Rob  Fischer",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:31",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:31",
+      "team": {
+        "teamId": "1612",
+        "name": "Ducks"
+      },
+      "player": "#25 - Derek  Bluth",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1612",
+        "name": "Ducks"
+      },
+      "player": "#7 - Andrew  Golomb",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "player": "#78 - Noe  Hatchuel",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:28",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1612",
+        "name": "Ducks"
+      },
+      "player": "#3 - Brian  Sharkey",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:56:02.559Z"
+}

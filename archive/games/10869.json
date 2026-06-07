@@ -1,0 +1,71 @@
+{
+  "gameId": "10869",
+  "date": "2017-07-23",
+  "divId": 169,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1080",
+    "name": "Sparks"
+  },
+  "away": {
+    "teamId": "1079",
+    "name": "Steamed Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:05",
+      "team": {
+        "teamId": "1080",
+        "name": "Sparks"
+      },
+      "scorer": "#4 - Matt  Gelman",
+      "assist1": "#19 - Christopher  Chlosta",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:34",
+      "team": {
+        "teamId": "1080",
+        "name": "Sparks"
+      },
+      "scorer": "#47 - David  LeKuch",
+      "assist1": "#4 - Matt  Gelman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:08:39",
+      "team": {
+        "teamId": "1079",
+        "name": "Steamed Crabs"
+      },
+      "player": "#24 - Mark  Paolicelli",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:17:00.056Z"
+}

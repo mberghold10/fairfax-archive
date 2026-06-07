@@ -1,0 +1,169 @@
+{
+  "gameId": "14300",
+  "date": "2021-10-02",
+  "divId": 232,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1451",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1452",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:54",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#6 - Kyle  Herring",
+      "assist1": "#27 - David  McAndrews",
+      "assist2": "#12 - Steven  Courson"
+    },
+    {
+      "period": "2",
+      "time": "00:10:25",
+      "team": {
+        "teamId": "1452",
+        "name": "Chiefs"
+      },
+      "scorer": "#42 - Dave  Hagemeier",
+      "assist1": "#0 - Curt  Tucker",
+      "assist2": "#57 - Jack  Conlin"
+    },
+    {
+      "period": "3",
+      "time": "00:04:05",
+      "team": {
+        "teamId": "1452",
+        "name": "Chiefs"
+      },
+      "scorer": "#57 - Jack  Conlin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:26",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": "#14 - Paul  Tourbaf",
+      "assist2": "#10 - Mike  Carew"
+    },
+    {
+      "period": "4",
+      "time": "00:03:40",
+      "team": {
+        "teamId": "1452",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:04",
+      "team": {
+        "teamId": "1452",
+        "name": "Chiefs"
+      },
+      "player": "#0 - Curt  Tucker",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:55",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "player": "#9 - James  Boland",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:32",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "player": "#16 - Greg  Pomeroy",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:26",
+      "team": {
+        "teamId": "1452",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "1452",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:25",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "player": "#14 - Paul  Tourbaf",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:25:09.452Z"
+}

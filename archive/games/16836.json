@@ -1,0 +1,150 @@
+{
+  "gameId": "16836",
+  "date": "2024-03-24",
+  "divId": 282,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1735",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1736",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:56",
+      "team": {
+        "teamId": "1736",
+        "name": "Grey Goons"
+      },
+      "scorer": "#12 - Paul  Zalocha",
+      "assist1": "#4 - John  Conmy",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1736",
+        "name": "Grey Goons"
+      },
+      "scorer": "#4 - John  Conmy",
+      "assist1": "#12 - Paul  Zalocha",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "1735",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": "#35 - Ross  Kuhn",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:31",
+      "team": {
+        "teamId": "1736",
+        "name": "Grey Goons"
+      },
+      "scorer": "#6 - Tom  Fording",
+      "assist1": "#29 - Don  Sussman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:57",
+      "team": {
+        "teamId": "1735",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": "#44 - Greg  Powers",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "1735",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "1736",
+        "name": "Grey Goons"
+      },
+      "scorer": "#42 - Christian  Gibbons",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:31",
+      "team": {
+        "teamId": "1736",
+        "name": "Grey Goons"
+      },
+      "scorer": "#27 - Aemon  Cashin",
+      "assist1": "#29 - Don  Sussman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:30",
+      "team": {
+        "teamId": "1735",
+        "name": "Team USA"
+      },
+      "player": "#77 - Dan  Miller",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "1736",
+        "name": "Grey Goons"
+      },
+      "player": "#21 - Grant  Gibbons",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:19:23.041Z"
+}

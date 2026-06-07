@@ -1,0 +1,130 @@
+{
+  "gameId": "16751",
+  "date": "2024-03-02",
+  "divId": 279,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1719",
+    "name": "Old Goats"
+  },
+  "away": {
+    "teamId": "1718",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1719",
+        "name": "Old Goats"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:38",
+      "team": {
+        "teamId": "1719",
+        "name": "Old Goats"
+      },
+      "scorer": "#34 - Marty  Gryski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1719",
+        "name": "Old Goats"
+      },
+      "scorer": "#8 - Curt  Tucker",
+      "assist1": "#5 - Brad  Seibert",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:37",
+      "team": {
+        "teamId": "1718",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#89 - Sid  Han",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:43",
+      "team": {
+        "teamId": "1719",
+        "name": "Old Goats"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1719",
+        "name": "Old Goats"
+      },
+      "player": "#40 - Matt  Mickelson",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "1719",
+        "name": "Old Goats"
+      },
+      "player": "#66 - Steven  Bennett",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:39",
+      "team": {
+        "teamId": "1718",
+        "name": "Blackskimmers"
+      },
+      "player": "#10 - Scott  Peterson",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:15:58.994Z"
+}

@@ -1,0 +1,130 @@
+{
+  "gameId": "1200",
+  "date": "2022-04-25",
+  "divId": 243,
+  "seasonName": "Winter 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1507",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1506",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:32",
+      "team": {
+        "teamId": "1507",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#4 - Sam  Hauslohner",
+      "assist1": "#20 - Mike  Neas",
+      "assist2": "#6 - JB  Merritt"
+    },
+    {
+      "period": "2",
+      "time": "00:02:46",
+      "team": {
+        "teamId": "1506",
+        "name": "Angry Moose"
+      },
+      "scorer": "#87 - Scott  Fausneaucht",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1506",
+        "name": "Angry Moose"
+      },
+      "scorer": "#1 - Ryan  Gardiner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "1506",
+        "name": "Angry Moose"
+      },
+      "scorer": "#87 - Scott  Fausneaucht",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:58",
+      "team": {
+        "teamId": "1507",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:41",
+      "team": {
+        "teamId": "1507",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#77 - Chris  Casselman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:41",
+      "team": {
+        "teamId": "1506",
+        "name": "Angry Moose"
+      },
+      "player": "#17 - Anthony  Vitucci",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:35",
+      "team": {
+        "teamId": "1506",
+        "name": "Angry Moose"
+      },
+      "player": "#17 - Anthony  Vitucci",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:33:55.454Z"
+}

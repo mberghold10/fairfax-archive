@@ -1,0 +1,71 @@
+{
+  "gameId": "13410",
+  "date": "2019-10-31",
+  "divId": 214,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1350",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1349",
+    "name": "Rustico Flames"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:35",
+      "team": {
+        "teamId": "1350",
+        "name": "Flying Circus"
+      },
+      "scorer": "#8 - Dan  Brehm",
+      "assist1": "#55 - Joel  Whitney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:42",
+      "team": {
+        "teamId": "1350",
+        "name": "Flying Circus"
+      },
+      "scorer": "#17 - John  Kemprowski",
+      "assist1": "#24 - Jim  Behrend",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "1350",
+        "name": "Flying Circus"
+      },
+      "player": "#24 - Jim  Behrend",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:11:02.809Z"
+}

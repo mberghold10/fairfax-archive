@@ -1,0 +1,73 @@
+{
+  "gameId": "17940",
+  "date": "2025-05-17",
+  "divId": 303,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1863",
+    "name": "Triassic Pucks"
+  },
+  "away": {
+    "teamId": "1892",
+    "name": "Red Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:15:00",
+      "team": {
+        "teamId": "1863",
+        "name": "Triassic Pucks"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:57",
+      "team": {
+        "teamId": "1892",
+        "name": "Red Dragons"
+      },
+      "player": "#47 - Raymond  Jakubowski",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:07",
+      "team": {
+        "teamId": "1892",
+        "name": "Red Dragons"
+      },
+      "player": "#47 - Raymond  Jakubowski",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:41:31.911Z"
+}

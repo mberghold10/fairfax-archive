@@ -1,0 +1,176 @@
+{
+  "gameId": "1028",
+  "date": "2019-10-06",
+  "divId": 201,
+  "seasonName": "Summer 2019",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1277",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1278",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:15",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#24 - Mike  Duell",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:59",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#34 - Marty  Gryski",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:35",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#15 - Tom  Sgroi",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:50",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#16 - Marc  Franciszkov",
+      "assist1": "#14 - Paul  Tourbaf",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:41",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#24 - Mike  Duell",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:39",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#9 - Kim  Sherrock",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:51",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "player": "#65 - Stuart  Hoffman",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:46",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:35",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:52",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "player": "#27 - Dave  Lin",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:57:12.773Z"
+}

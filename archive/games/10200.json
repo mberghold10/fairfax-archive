@@ -1,0 +1,156 @@
+{
+  "gameId": "10200",
+  "date": "2016-12-17",
+  "divId": 155,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "998",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "997",
+    "name": "Rustico Flames"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#66 - Pete  Petchadick",
+      "assist1": "#8 - Chris  White",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#8 - Chris  White",
+      "assist1": "#66 - Pete  Petchadick",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:11",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#66 - Pete  Petchadick",
+      "assist1": "#8 - Chris  White",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#26 - Jim  Silbermann",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:36",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#88 - Peter  Dallman",
+      "assist1": "#24 - Mike  Sheridan",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "player": "#4 - Stew  Gitler",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "player": "#51 - Brendan  Bernat",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:52",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "player": "#31 - Jason  Apergis",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:59:11.839Z"
+}

@@ -1,0 +1,93 @@
+{
+  "gameId": "10010",
+  "date": "2016-11-17",
+  "divId": 155,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "992",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "998",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:19",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": "#31 - Jason  Apergis",
+      "assist2": "#13 - Tim  Cremen"
+    },
+    {
+      "period": "1",
+      "time": "00:07:26",
+      "team": {
+        "teamId": "992",
+        "name": "Flying Circus"
+      },
+      "scorer": "#17 - John  Kemprowski",
+      "assist1": "#15 - Mike  Hempen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "992",
+        "name": "Flying Circus"
+      },
+      "scorer": "#21 - Trevor  Wallace",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:02",
+      "team": {
+        "teamId": "992",
+        "name": "Flying Circus"
+      },
+      "scorer": "#23 - Greg  Thomas",
+      "assist1": "#9 - Jason  Hess",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "player": "#52 - Chris  Czernia",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:58:58.762Z"
+}

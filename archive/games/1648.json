@@ -1,0 +1,165 @@
+{
+  "gameId": "1648",
+  "date": "2026-06-04",
+  "divId": 326,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "2014",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "2011",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:34",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#2 - Shawn  Hatch",
+      "assist1": "#17 - Diron  Insley",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#68 - Jeff  Gilmore",
+      "assist1": "#17 - Diron  Insley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#43 - Henry  Weisiger",
+      "assist1": "#40 - Misha  Serebrennikov",
+      "assist2": "#44 - Bob  Arnold"
+    },
+    {
+      "period": "2",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "2011",
+        "name": "Team USA"
+      },
+      "scorer": "#8 - Jamie  Sengheiser",
+      "assist1": "#77 - Dan  Miller",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#26 - Bob  Banasik",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:38",
+      "team": {
+        "teamId": "2011",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": "#8 - Jamie  Sengheiser"
+    },
+    {
+      "period": "3",
+      "time": "00:12:49",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#19 - Mike  Carr",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:57",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "player": "#15 - Mark  Rudnicki",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:35",
+      "team": {
+        "teamId": "2011",
+        "name": "Team USA"
+      },
+      "player": "#98 - Matt  Criscolo",
+      "pim": 2,
+      "offense": "board",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:35",
+      "team": {
+        "teamId": "2011",
+        "name": "Team USA"
+      },
+      "player": "#98 - Matt  Criscolo",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "player": "#44 - Bob  Arnold",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:06:41.728Z"
+}

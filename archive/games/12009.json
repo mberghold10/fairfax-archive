@@ -1,0 +1,252 @@
+{
+  "gameId": "12009",
+  "date": "2018-09-08",
+  "divId": 180,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1147",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1146",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 3,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#18 - Samson  Chu",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:11",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:52",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#16 - Scott  Kuehn",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "2",
+      "time": "00:02:15",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "scorer": "#26 - Rich  Snively",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": "#34 - Marty  Hayden"
+    },
+    {
+      "period": "2",
+      "time": "00:04:03",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#78 - Noe  Natchuel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:47",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "scorer": "#7 - Joe  Hull",
+      "assist1": "#2 - Rod  Wade",
+      "assist2": "#15 - John  Cushing"
+    },
+    {
+      "period": "2",
+      "time": "00:10:40",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#0 - Ron  Szatmary",
+      "assist1": "#11 - Sam  Marchio",
+      "assist2": "#78 - Noe  Natchuel"
+    },
+    {
+      "period": "3",
+      "time": "00:04:41",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "scorer": "#26 - Rich  Snively",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:26",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "player": "#13 - Bob  Chagnot",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:57",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#11 - Sam  Marchio",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:01",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "player": "#26 - Rich  Snively",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:56",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:31",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "player": "#44 - Greg  Hanson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#11 - Sam  Marchio",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:25",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:30:36.393Z"
+}

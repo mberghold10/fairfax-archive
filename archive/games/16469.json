@@ -1,0 +1,152 @@
+{
+  "gameId": "16469",
+  "date": "2024-03-03",
+  "divId": 278,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1712",
+    "name": "Jurassic Puck"
+  },
+  "away": {
+    "teamId": "1711",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "1712",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#22 - Jacob  Willis",
+      "assist1": "#16 - Bailey  Robertory",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:09",
+      "team": {
+        "teamId": "1712",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#16 - Bailey  Robertory",
+      "assist1": "#15 - Carlos  Novoa",
+      "assist2": "#2 - Payton  Oliveri"
+    },
+    {
+      "period": "1",
+      "time": "00:12:07",
+      "team": {
+        "teamId": "1711",
+        "name": "Rink Rats"
+      },
+      "scorer": "#12 - Kieran  McQuilkin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1712",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#37 - Greg  Van Houten",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1711",
+        "name": "Rink Rats"
+      },
+      "scorer": "#31 - Zach  Furness",
+      "assist1": "#59 - Jared  Trevethan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:06",
+      "team": {
+        "teamId": "1712",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#42 - Travis  Wheeler",
+      "assist1": "#6 - Ian  Dillner",
+      "assist2": "#37 - Greg  Van Houten"
+    },
+    {
+      "period": "3",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1711",
+        "name": "Rink Rats"
+      },
+      "scorer": "#23 - Dan  Bardo",
+      "assist1": "#12 - Kieran  McQuilkin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:00",
+      "team": {
+        "teamId": "1711",
+        "name": "Rink Rats"
+      },
+      "player": "#900 - TJ  Wolf",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1711",
+        "name": "Rink Rats"
+      },
+      "player": "#59 - Jared  Trevethan",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:24",
+      "team": {
+        "teamId": "1712",
+        "name": "Jurassic Puck"
+      },
+      "player": "#22 - Jacob  Willis",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:14:38.081Z"
+}

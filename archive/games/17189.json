@@ -1,0 +1,134 @@
+{
+  "gameId": "17189",
+  "date": "2024-06-30",
+  "divId": 295,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1802",
+    "name": "Mesozoic Puck"
+  },
+  "away": {
+    "teamId": "1805",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "1802",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#33 - Scott  Coco",
+      "assist1": "#0 - Connor  Dwyer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:32",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#20 - Steve  Ahart",
+      "assist1": "#4 - Jeff  Goldberg",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1802",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#71 - Ronan  Valdesuso",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:15:22",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:46",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "player": "#44 - Ben  Thomas",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "player": "#15 - Dave  Gorman",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "1802",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#11 - Pierce  Guthrie",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "player": "#4 - Jeff  Goldberg",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:32:39.920Z"
+}

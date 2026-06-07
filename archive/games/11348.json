@@ -1,0 +1,145 @@
+{
+  "gameId": "11348",
+  "date": "2018-02-11",
+  "divId": 174,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1109",
+    "name": "Kings"
+  },
+  "away": {
+    "teamId": "1112",
+    "name": "Blackhawks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:15",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:18",
+      "team": {
+        "teamId": "1109",
+        "name": "Kings"
+      },
+      "scorer": "#14 - Sam  Marchio",
+      "assist1": "#5 - Andy  Craighill",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:37",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1109",
+        "name": "Kings"
+      },
+      "scorer": "#27 - John  Dove",
+      "assist1": "#11 - Joel  Bosch",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1109",
+        "name": "Kings"
+      },
+      "player": "#64 - Derek  Bluth",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "1109",
+        "name": "Kings"
+      },
+      "player": "#7 - Mike  Hoard",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:01:42",
+      "team": {
+        "teamId": "1109",
+        "name": "Kings"
+      },
+      "player": "#11 - Joel  Bosch",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1109",
+        "name": "Kings"
+      },
+      "player": "#7 - Mike  Hoard",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:22:48.539Z"
+}

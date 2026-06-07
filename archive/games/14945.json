@@ -1,0 +1,252 @@
+{
+  "gameId": "14945",
+  "date": "2022-06-05",
+  "divId": 250,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1540",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1543",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:21",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:42",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#80 - Ryan  Schafer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "scorer": "#22 - Joe  Ney",
+      "assist1": "#6 - Matt  Dwyer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "scorer": "#81 - Bryan  Getson",
+      "assist1": "#5 - Ben  Malakoff",
+      "assist2": "#22 - Joe  Ney"
+    },
+    {
+      "period": "2",
+      "time": "00:07:45",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "scorer": "#88 - Evan  Wojtowicz",
+      "assist1": "#5 - Ben  Malakoff",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:19",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": "#80 - Ryan  Schafer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#80 - Ryan  Schafer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "scorer": "#22 - Joe  Ney",
+      "assist1": "#4 - Todd  Mariano",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:43",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "scorer": "#81 - Bryan  Getson",
+      "assist1": "#88 - Evan  Wojtowicz",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:02",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "player": "#38 - Will  Schafer",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:13",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "player": "#19 - Steve  Tarditi",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "player": "#88 - Evan  Wojtowicz",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:37",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "player": "#17 - Kevin  Roehner",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:57",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "player": "#13 - Rob  Wittman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "player": "#17 - Kevin  Roehner",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:33",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "player": "#81 - Bryan  Getson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:43",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "player": "#22 - Joe  Ney",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:43",
+      "team": {
+        "teamId": "1543",
+        "name": "Blue Crabs"
+      },
+      "player": "#80 - Ryan  Schafer",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:40:48.782Z"
+}

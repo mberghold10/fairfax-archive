@@ -1,0 +1,165 @@
+{
+  "gameId": "16075",
+  "date": "2023-07-02",
+  "divId": 273,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1684",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1685",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:56",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "scorer": "#21 - Greg  Lauer",
+      "assist1": "#65 - Stuart  Hoffman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "scorer": "#22 - Mark  Rayder",
+      "assist1": "#21 - Greg  Lauer",
+      "assist2": "#65 - Stuart  Hoffman"
+    },
+    {
+      "period": "1",
+      "time": "00:04:43",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "scorer": "#21 - Greg  Lauer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:10",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": "#4 - Don  Sussman",
+      "assist2": "#43 - Bill  Picard"
+    },
+    {
+      "period": "2",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "scorer": "#21 - Greg  Lauer",
+      "assist1": "#77 - Mark  Zarember",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#43 - Bill  Picard",
+      "assist1": "#200 - Tom  Keith",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:20",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "scorer": "#21 - Greg  Lauer",
+      "assist1": "#77 - Mark  Zarember",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:40",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "player": "#21 - Greg  Lauer",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:39",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "player": "#3 - Gary  Smith",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:08:58.028Z"
+}

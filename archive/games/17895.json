@@ -1,0 +1,112 @@
+{
+  "gameId": "17895",
+  "date": "2025-05-26",
+  "divId": 301,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1852",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1853",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1852",
+        "name": "Rink Rats"
+      },
+      "scorer": "#92 - Ryan  VanDenheuval",
+      "assist1": "#79 - Igor  Helman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:41",
+      "team": {
+        "teamId": "1853",
+        "name": "Jurassic Puck"
+      },
+      "player": "#38 - Keith  Forsythe",
+      "pim": 2,
+      "offense": "High Stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "1852",
+        "name": "Rink Rats"
+      },
+      "player": "#25 - Dave  Brown",
+      "pim": 2,
+      "offense": "High Stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:42",
+      "team": {
+        "teamId": "1852",
+        "name": "Rink Rats"
+      },
+      "player": "#8 - Joey  McDonald",
+      "pim": 2,
+      "offense": "High Stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:56",
+      "team": {
+        "teamId": "1853",
+        "name": "Jurassic Puck"
+      },
+      "player": "#44 - Mark  Tobias",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:39",
+      "team": {
+        "teamId": "1853",
+        "name": "Jurassic Puck"
+      },
+      "player": "#20 - Ricci  Miranda",
+      "pim": 2,
+      "offense": "Rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:39:32.701Z"
+}

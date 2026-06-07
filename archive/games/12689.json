@@ -1,0 +1,141 @@
+{
+  "gameId": "12689",
+  "date": "2019-05-12",
+  "divId": 206,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1306",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1305",
+    "name": "Sparks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "scorer": "#42 - David  Hagemeier",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "1305",
+        "name": "Sparks"
+      },
+      "scorer": "#75 - Dany  Normandeau",
+      "assist1": "#33 - Mike  Wagner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:20",
+      "team": {
+        "teamId": "1305",
+        "name": "Sparks"
+      },
+      "scorer": "#75 - Dany  Normandeau",
+      "assist1": "#33 - Mike  Wagner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:09",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "scorer": "#5 - Sam  Bryce",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "scorer": "#95 - Mick  Starego",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:36",
+      "team": {
+        "teamId": "1305",
+        "name": "Sparks"
+      },
+      "scorer": "#16 - Josh  Brown",
+      "assist1": "#4 - matt  Gelman",
+      "assist2": "#22 - Nick  Kolovos"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:29",
+      "team": {
+        "teamId": "1305",
+        "name": "Sparks"
+      },
+      "player": "#34 - Mike  Zaneis",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:14",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "player": "#5 - Sam  Bryce",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:53",
+      "team": {
+        "teamId": "1306",
+        "name": "Dragons"
+      },
+      "player": "#5 - Sam  Bryce",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:01:34.386Z"
+}

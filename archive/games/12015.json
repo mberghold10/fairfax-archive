@@ -1,0 +1,200 @@
+{
+  "gameId": "12015",
+  "date": "2018-09-08",
+  "divId": 181,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1156",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1152",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 6,
+      "p3": 1,
+      "ot": 0,
+      "final": 8
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:40",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "# -",
+      "assist1": "#20 - Richard  Utano",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#7 - Ed  Wiener",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:18",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#98 - Matthew  Crisculol",
+      "assist1": "#6 - John  Dubeck",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:53",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#16 - Tom  Rodeheaver",
+      "assist1": "#10 - Michael  Brahmey",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#12 - Jason  Wakeman",
+      "assist2": "#17 - Jim  Freely"
+    },
+    {
+      "period": "2",
+      "time": "00:11:49",
+      "team": {
+        "teamId": "1156",
+        "name": "Islanders"
+      },
+      "scorer": "#71 - John  Buhler",
+      "assist1": "#19 - Jason  Long",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:23",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Peter  Poczatek",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:31",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#7 - Ed  Wiener",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:58",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#7 - Ed  Wiener",
+      "assist1": "#16 - Tom  Rodeheaver",
+      "assist2": "#99 - Jon  Davoren"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:05",
+      "team": {
+        "teamId": "1156",
+        "name": "Islanders"
+      },
+      "player": "#38 - Ted  Satterthwaite",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:53",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "player": "#17 - Jim  Freely",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "1156",
+        "name": "Islanders"
+      },
+      "player": "#71 - John  Buhler",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:31",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "player": "#7 - Ed  Wiener",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1156",
+        "name": "Islanders"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:31:56.024Z"
+}

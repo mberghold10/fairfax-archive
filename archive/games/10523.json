@@ -1,0 +1,115 @@
+{
+  "gameId": "10523",
+  "date": "2017-06-22",
+  "divId": 163,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1044",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1047",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "1047",
+        "name": "Islanders"
+      },
+      "scorer": "#13 - Tim  Cremen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:29",
+      "team": {
+        "teamId": "1044",
+        "name": "Coyotes"
+      },
+      "scorer": "#7 - Paul  Flood",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1044",
+        "name": "Coyotes"
+      },
+      "scorer": "#5 - Andy  Loggia",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:35",
+      "team": {
+        "teamId": "1047",
+        "name": "Islanders"
+      },
+      "scorer": "#13 - Tim  Cremen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:33",
+      "team": {
+        "teamId": "1044",
+        "name": "Coyotes"
+      },
+      "scorer": "#7 - Paul  Flood",
+      "assist1": "#38 - Michael  Andrien",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:52",
+      "team": {
+        "teamId": "1044",
+        "name": "Coyotes"
+      },
+      "scorer": "#27 - Jamie  Prime",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "1047",
+        "name": "Islanders"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:09:25.884Z"
+}

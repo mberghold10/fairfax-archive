@@ -1,0 +1,119 @@
+{
+  "gameId": "13129",
+  "date": "2019-07-27",
+  "divId": 206,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1303",
+    "name": "Steamed Crabs"
+  },
+  "away": {
+    "teamId": "1305",
+    "name": "Sparks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:06",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#10 - Matthew  Allen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:42",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#43 - Steve  Sincavage",
+      "assist1": "#22 - Trevor  Blair",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:29",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#11 - Joe  Janiak",
+      "assist1": "#43 - Steve  Sincavage",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:53",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#92 - Jamie  Street",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:19",
+      "team": {
+        "teamId": "1305",
+        "name": "Sparks"
+      },
+      "player": "#30 - Brandon  Heiner",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "player": "#10 - Matthew  Allen",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1305",
+        "name": "Sparks"
+      },
+      "player": "#22 - Nick  Kolovos",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:02:01.388Z"
+}

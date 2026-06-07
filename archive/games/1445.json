@@ -1,0 +1,130 @@
+{
+  "gameId": "1445",
+  "date": "2024-05-17",
+  "divId": 284,
+  "seasonName": "Winter 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1744",
+    "name": "Mesozoic Puck"
+  },
+  "away": {
+    "teamId": "1748",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:52",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#44 - George  Cernica",
+      "assist1": "#30 - Antonello  Favaro",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1748",
+        "name": "Red Wings"
+      },
+      "scorer": "#8 - Brian  Merritt",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:25",
+      "team": {
+        "teamId": "1748",
+        "name": "Red Wings"
+      },
+      "scorer": "#33 - Mark  Hall",
+      "assist1": "#54 - Tom  Montanio",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:36",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#44 - George  Cernica",
+      "assist1": "#14 - Charles  Geschiere",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:08:59",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#33 - Scott  Coco",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:08",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#33 - Scott  Coco",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:38",
+      "team": {
+        "teamId": "1748",
+        "name": "Red Wings"
+      },
+      "player": "#29 - Regina  Hart",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:39",
+      "team": {
+        "teamId": "1748",
+        "name": "Red Wings"
+      },
+      "player": "#25 - James  Chu",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:22:05.169Z"
+}

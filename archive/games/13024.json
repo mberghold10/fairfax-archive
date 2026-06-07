@@ -1,0 +1,218 @@
+{
+  "gameId": "13024",
+  "date": "2019-08-20",
+  "divId": 201,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1280",
+    "name": "Beltway Butchers"
+  },
+  "away": {
+    "teamId": "1277",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 3,
+      "p2": 3,
+      "p3": 3,
+      "ot": 0,
+      "final": 9
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#20 - Dave  Humes",
+      "assist1": "#16 - Marc  Franciszkov",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#92 - Bryan  Diner",
+      "assist1": "#20 - Dave  Humes",
+      "assist2": "#23 - Alan  Stiffler"
+    },
+    {
+      "period": "1",
+      "time": "00:05:59",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#92 - Bryan  Diner",
+      "assist1": "#24 - Jeff  Robins",
+      "assist2": "#26 - Philip  Hogan"
+    },
+    {
+      "period": "1",
+      "time": "00:09:20",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#27 - Jeff  Alton",
+      "assist1": "#99 - Santiago  Garcia",
+      "assist2": "#88 - TJ  Doherty"
+    },
+    {
+      "period": "2",
+      "time": "00:01:51",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#20 - Dave  Humes",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:21",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#25 - Joe  Denoyior",
+      "assist1": "#33 - Dmitriy  Achapkin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:26",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#26 - Philip  Hogan",
+      "assist1": "#12 - Jim  Schoff",
+      "assist2": "#18 - Jeff  Paget"
+    },
+    {
+      "period": "2",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#23 - Ken  Degrave",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:16",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#88 - TJ  Doherty",
+      "assist1": "#27 - Jeff  Alton",
+      "assist2": "#77 - David  Fulcher"
+    },
+    {
+      "period": "2",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#23 - Ken  Degrave",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:12",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#24 - Jeff  Robins",
+      "assist1": "#26 - Philip  Hogan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#20 - Dave  Humes",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#18 - Jeff  Paget",
+      "assist1": "#33 - Dmitriy  Achapkin",
+      "assist2": "#23 - Alan  Stiffler"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:48",
+      "team": {
+        "teamId": "1280",
+        "name": "Beltway Butchers"
+      },
+      "player": "#34 - Ron  Szatmary",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:37",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "player": "#33 - Dmitriy  Achapkin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:49",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "player": "#12 - Jim  Schoff",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:56:52.372Z"
+}

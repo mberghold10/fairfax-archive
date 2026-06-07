@@ -1,0 +1,167 @@
+{
+  "gameId": "16133",
+  "date": "2023-07-28",
+  "divId": 267,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1646",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1647",
+    "name": "Redhawks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:11",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "scorer": "#91 - Oleg  Kolodin",
+      "assist1": "#7 - Tyler  Kniaz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "scorer": "#18 - Samson  Chu",
+      "assist1": "#71 - Stephen  Henley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:39",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#2 - Jason  Abkowitz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:06",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#2 - Jason  Abkowitz",
+      "assist1": "#52 - Billy  Fisher",
+      "assist2": "#48 - Isaac  Hale"
+    },
+    {
+      "period": "3",
+      "time": "00:03:09",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:36",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#52 - Billy  Fisher",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:57",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "player": "#18 - Samson  Chu",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "player": "#52 - Billy  Fisher",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "player": "#18 - Samson  Chu",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:34",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "player": "#71 - Stephen  Henley",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:04",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "player": "#52 - Billy  Fisher",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:01:08.899Z"
+}

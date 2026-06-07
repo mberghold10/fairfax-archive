@@ -1,0 +1,233 @@
+{
+  "gameId": "1066",
+  "date": "2020-08-05",
+  "divId": 213,
+  "seasonName": "Winter 2019",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1344",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "1348",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": "#90 - Mark  Chapman",
+      "assist2": "#15 - Todd  Martin"
+    },
+    {
+      "period": "1",
+      "time": "00:07:25",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "scorer": "#18 - Sean  Gallucci",
+      "assist1": "#21 - Andy  Heckmann",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "scorer": "#91 - Rob  Fischer",
+      "assist1": "#21 - Andy  Heckmann",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:58",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:45",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#9 - Brian  Mehnert",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "scorer": "#4 - Bruce  Baltas",
+      "assist1": "#18 - Sean  Gallucci",
+      "assist2": "#21 - Andy  Heckmann"
+    },
+    {
+      "period": "2",
+      "time": "00:14:09",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "scorer": "#21 - Andy  Heckmann",
+      "assist1": "#91 - Rob  Fischer",
+      "assist2": "#4 - Bruce  Baltas"
+    },
+    {
+      "period": "3",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "scorer": "#91 - Rob  Fischer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:31",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "scorer": "#59 - John  Saluga",
+      "assist1": "#91 - Rob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:15",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:23",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": "#90 - Mark  Chapman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:31",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "scorer": "#4 - Bruce  Baltas",
+      "assist1": "#21 - Andy  Heckmann",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "player": "#18 - Sean  Gallucci",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "player": "#4 - Bruce  Baltas",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:53",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "player": "#18 - Sean  Gallucci",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:32",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "player": "#4 - Bruce  Baltas",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:23",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "player": "#59 - John  Saluga",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:10:43.574Z"
+}

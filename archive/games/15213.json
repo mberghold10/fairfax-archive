@@ -1,0 +1,117 @@
+{
+  "gameId": "15213",
+  "date": "2022-09-02",
+  "divId": 252,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1558",
+    "name": "Red Dragons"
+  },
+  "away": {
+    "teamId": "1555",
+    "name": "Toronto"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:44",
+      "team": {
+        "teamId": "1555",
+        "name": "Toronto"
+      },
+      "scorer": "#40 - Howard  Ehrlich",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": "#29 - Dave  Boyer"
+    },
+    {
+      "period": "2",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1555",
+        "name": "Toronto"
+      },
+      "scorer": "#40 - Howard  Ehrlich",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": "#61 - Chris  Holbert"
+    },
+    {
+      "period": "2",
+      "time": "00:03:59",
+      "team": {
+        "teamId": "1555",
+        "name": "Toronto"
+      },
+      "scorer": "#32 - Brian  Freeman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1558",
+        "name": "Red Dragons"
+      },
+      "scorer": "#7 - Connor  Anderson",
+      "assist1": "#22 - Joseph  Janiak",
+      "assist2": "#3 - Ilana  Bell"
+    },
+    {
+      "period": "3",
+      "time": "00:10:35",
+      "team": {
+        "teamId": "1558",
+        "name": "Red Dragons"
+      },
+      "scorer": "#909 - Zac  Shoewalter",
+      "assist1": "#4 - Josh  Renton",
+      "assist2": "#21 - Brandon  Jones"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1555",
+        "name": "Toronto"
+      },
+      "player": "#100 - Goalie  Substitue",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:45",
+      "team": {
+        "teamId": "1555",
+        "name": "Toronto"
+      },
+      "player": "#32 - Brian  Freeman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:44:17.558Z"
+}

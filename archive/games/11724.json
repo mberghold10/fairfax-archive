@@ -1,0 +1,169 @@
+{
+  "gameId": "11724",
+  "date": "2018-06-03",
+  "divId": 187,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1194",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1190",
+    "name": "Triassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1194",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#41 - Alessio  Evangelista",
+      "assist1": "#22 - Amir  Tahami",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:17:17",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#44 - George  Cernica",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:04",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#44 - George  Cernica",
+      "assist1": "#74 - Matthew  Santos",
+      "assist2": "#88 - Jason  Searight"
+    },
+    {
+      "period": "3",
+      "time": "00:00:21",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#25 - Jack  Hur",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#74 - Matthew  Santos",
+      "assist1": "#43 - Dexter  Thompson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1194",
+        "name": "Blue Dogs"
+      },
+      "player": "#30 - Brent  Bolin",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:32",
+      "team": {
+        "teamId": "1194",
+        "name": "Blue Dogs"
+      },
+      "player": "#12 - Elizabeth  Waxler",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:17:03",
+      "team": {
+        "teamId": "1194",
+        "name": "Blue Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "player": "#96 - Jonathan  Kurzinger",
+      "pim": 4,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "player": "#43 - Dexter  Thompson",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1190",
+        "name": "Triassic Puck"
+      },
+      "player": "#55 - Tool  Jampathom",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:39:05.170Z"
+}

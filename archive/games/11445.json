@@ -1,0 +1,106 @@
+{
+  "gameId": "11445",
+  "date": "2018-01-21",
+  "divId": 177,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1127",
+    "name": "Crabs"
+  },
+  "away": {
+    "teamId": "1130",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:46",
+      "team": {
+        "teamId": "1127",
+        "name": "Crabs"
+      },
+      "scorer": "#47 - Corey  Mercurio",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "1127",
+        "name": "Crabs"
+      },
+      "scorer": "#47 - Corey  Mercurio",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#27 - Jamie  Prime",
+      "assist1": "#96 - Geoff  Ackerman",
+      "assist2": "#38 - Mike  Andrien"
+    },
+    {
+      "period": "3",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#24 - Harry  Nicholakos",
+      "assist1": "#20 - Brent  Jefferson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "1127",
+        "name": "Crabs"
+      },
+      "player": "#27 - Adam  Bacon",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:46",
+      "team": {
+        "teamId": "1127",
+        "name": "Crabs"
+      },
+      "player": "#47 - Corey  Mercurio",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:27:07.494Z"
+}

@@ -1,0 +1,60 @@
+{
+  "gameId": "19149",
+  "date": "2026-04-22",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2004",
+    "name": "Hershey Beers"
+  },
+  "away": {
+    "teamId": "2002",
+    "name": "Megalosaurus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#33 - Scott  Coco",
+      "assist1": "#22 - Terry  Saad",
+      "assist2": "#11 - Brian  Deska"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:03",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "player": "#89 - Jim  Rathbone",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:08:44.676Z"
+}

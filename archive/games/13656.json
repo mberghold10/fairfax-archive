@@ -1,0 +1,130 @@
+{
+  "gameId": "13656",
+  "date": "2020-01-12",
+  "divId": 214,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1352",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1350",
+    "name": "Flying Circus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:25",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#22 - Rich  Silberman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:34",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#92 - Ilya  Kosolapov",
+      "assist1": "#22 - Rich  Silberman",
+      "assist2": "#55 - Tim  Dutcher"
+    },
+    {
+      "period": "2",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1350",
+        "name": "Flying Circus"
+      },
+      "scorer": "#7 - Brendan  Ford",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:10",
+      "team": {
+        "teamId": "1350",
+        "name": "Flying Circus"
+      },
+      "scorer": "#2 - Marc  Sheinkin",
+      "assist1": "#17 - John  Kemprowski",
+      "assist2": "#22 - Ed  Gulakowski"
+    },
+    {
+      "period": "4",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:32",
+      "team": {
+        "teamId": "1350",
+        "name": "Flying Circus"
+      },
+      "player": "#22 - Ed  Gulakowski",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:52",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#22 - Rich  Silberman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:27",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#22 - Rich  Silberman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:11:39.073Z"
+}

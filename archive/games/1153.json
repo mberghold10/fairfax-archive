@@ -1,0 +1,187 @@
+{
+  "gameId": "1153",
+  "date": "2021-10-17",
+  "divId": 232,
+  "seasonName": "Summer 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1450",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1451",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:51",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#10 - Mike  Carew",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": "#16 - Greg  Pomeroy"
+    },
+    {
+      "period": "1",
+      "time": "00:11:46",
+      "team": {
+        "teamId": "1450",
+        "name": "Avalanche"
+      },
+      "scorer": "#8 - Geoff  Carstairs",
+      "assist1": "#5 - Oleg  Kolodin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:05",
+      "team": {
+        "teamId": "1450",
+        "name": "Avalanche"
+      },
+      "scorer": "#99 - Jon  Dadoren",
+      "assist1": "#87 - Stan  Kolodin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:56",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#10 - Mike  Carew",
+      "assist1": "#16 - Greg  Pomeroy",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:13",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:13",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#16 - Greg  Pomeroy",
+      "assist1": "#10 - Mike  Carew",
+      "assist2": "#9 - James  Boland"
+    },
+    {
+      "period": "3",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#6 - Kyle  Herring",
+      "assist1": "#82 - Justin  MacDonald",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:04",
+      "team": {
+        "teamId": "1450",
+        "name": "Avalanche"
+      },
+      "scorer": "#87 - Stan  Kolodin",
+      "assist1": "#8 - Geoff  Carstairs",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "1450",
+        "name": "Avalanche"
+      },
+      "player": "#9 - Ann  Nosek",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "player": "#6 - Kyle  Herring",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:50",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "player": "#100 - Goalie  Substitue",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:11",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "player": "#82 - Justin  MacDonald",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:25:20.768Z"
+}

@@ -1,0 +1,95 @@
+{
+  "gameId": "11357",
+  "date": "2018-02-28",
+  "divId": 174,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1141",
+    "name": "Bulldogs"
+  },
+  "away": {
+    "teamId": "1108",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:58",
+      "team": {
+        "teamId": "1108",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#17 - Paul  Flood",
+      "assist1": "#15 - Scott  McConnell",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:57",
+      "team": {
+        "teamId": "1141",
+        "name": "Bulldogs"
+      },
+      "scorer": "#79 - Jeff  Vandenberghe",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:36",
+      "team": {
+        "teamId": "1108",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#15 - Scott  McConnell",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": "#12 - Steven  Courson"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:51",
+      "team": {
+        "teamId": "1108",
+        "name": "British Bulldogs"
+      },
+      "player": "#5 - Andy  Loggia",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:19",
+      "team": {
+        "teamId": "1108",
+        "name": "British Bulldogs"
+      },
+      "player": "#15 - Scott  McConnell",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:22:57.704Z"
+}

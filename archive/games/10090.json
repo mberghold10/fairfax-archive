@@ -1,0 +1,137 @@
+{
+  "gameId": "10090",
+  "date": "2016-10-31",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1019",
+    "name": "Turtle Power"
+  },
+  "away": {
+    "teamId": "1020",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#64 - Evgenii  Vaniukov",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:36",
+      "team": {
+        "teamId": "1019",
+        "name": "Turtle Power"
+      },
+      "scorer": "#24 - James  Grasselli",
+      "assist1": "#26 - Danny  Meaux",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:50",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#1 - Paul  Parkinson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#16 - Dave  Smith",
+      "assist1": "#1 - Paul  Parkinson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:59",
+      "team": {
+        "teamId": "1019",
+        "name": "Turtle Power"
+      },
+      "scorer": "#24 - James  Grasselli",
+      "assist1": "#26 - Danny  Meaux",
+      "assist2": "#4 - Evan  Thaler"
+    },
+    {
+      "period": "2",
+      "time": "00:11:05",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#16 - Dave  Smith",
+      "assist1": "#27 - Jamie  Prime",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#1 - Paul  Parkinson",
+      "assist1": "#16 - Dave  Smith",
+      "assist2": "#27 - Jamie  Prime"
+    },
+    {
+      "period": "3",
+      "time": "00:12:31",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#16 - Dave  Smith",
+      "assist1": "#27 - Jamie  Prime",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:25",
+      "team": {
+        "teamId": "1019",
+        "name": "Turtle Power"
+      },
+      "player": "#33 - Sean  Haglund",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:04:14.073Z"
+}

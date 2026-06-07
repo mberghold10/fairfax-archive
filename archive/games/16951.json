@@ -1,0 +1,178 @@
+{
+  "gameId": "16951",
+  "date": "2024-06-04",
+  "divId": 286,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1759",
+    "name": "Kings"
+  },
+  "away": {
+    "teamId": "1756",
+    "name": "4th Liners"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:29",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "scorer": "#71 - Colin  Shin",
+      "assist1": "#17 - Andrew  Golomb",
+      "assist2": "#3 - Colin  Ray"
+    },
+    {
+      "period": "2",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "scorer": "#71 - Colin  Shin",
+      "assist1": "#14 - Alex  Bronson",
+      "assist2": "#170 - Nick  Peraino"
+    },
+    {
+      "period": "3",
+      "time": "00:01:43",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "scorer": "#2 - Jake  Lockerby",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:33",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "scorer": "#14 - Alex  Bronson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "scorer": "#17 - Brandon  Nolan",
+      "assist1": "#3 - Dylan  Turff",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:11",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "scorer": "#82 - Caleb  Sohl",
+      "assist1": "#43 - Anthony  Federico",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:37",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "scorer": "#7 - Jonny  Vu",
+      "assist1": "#14 - Alex  Bronson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "player": "#3 - Colin  Ray",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "player": "#3 - Colin  Ray",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "player": "#66 - Nick  Petrus",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:22:55.137Z"
+}

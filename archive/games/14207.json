@@ -1,0 +1,156 @@
+{
+  "gameId": "14207",
+  "date": "2021-08-28",
+  "divId": 233,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1455",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1454",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:42",
+      "team": {
+        "teamId": "1455",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:52",
+      "team": {
+        "teamId": "1455",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#21 - Josh  Vichness",
+      "assist1": "#19 - Alex  Wang",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "scorer": "#1 - Ryan  Gardiner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1455",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#15 - Jimmy  Park",
+      "assist1": "#6 - JB  Merritt",
+      "assist2": "#9 - Greg  Sibley"
+    },
+    {
+      "period": "3",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "scorer": "#1 - Ryan  Gardiner",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:23",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "player": "#42 - Dan  Schwind",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:46",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "player": "#87 - Scott  Fausneaucht",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:59",
+      "team": {
+        "teamId": "1455",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#9 - Greg  Sibley",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1455",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#79 - Scott  Yates",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "player": "#42 - Dan  Schwind",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:25:36.608Z"
+}

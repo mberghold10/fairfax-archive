@@ -1,0 +1,174 @@
+{
+  "gameId": "11269",
+  "date": "2017-12-31",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1098",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1100",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:11",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "scorer": "#24 - Michael  Duell",
+      "assist1": "#44 - David  Zeigler",
+      "assist2": "#20 - Matt  Michelson"
+    },
+    {
+      "period": "1",
+      "time": "00:08:45",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "scorer": "#19 - Ira  Keltz",
+      "assist1": "#20 - Matt  Michelson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:13",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "scorer": "#25 - Jeff  Wojtala",
+      "assist1": "#19 - Gary  McMahon",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:00",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "scorer": "#7 - Dan  Ellert",
+      "assist1": "#81 - Chris  Holden",
+      "assist2": "#23 - Rick  Gorgone"
+    },
+    {
+      "period": "2",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:53",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": "#7 - Dan  Ellert",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:38",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "scorer": "#20 - Matt  Michelson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:41",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "scorer": "#7 - Greg  Watchman",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:51",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "scorer": "#24 - Michael  Duell",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "player": "#14 - Charlie  Campbell",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:41",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "player": "#14 - Charlie  Campbell",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:20:15.169Z"
+}

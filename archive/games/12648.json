@@ -1,0 +1,145 @@
+{
+  "gameId": "12648",
+  "date": "2019-04-28",
+  "divId": 207,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1312",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1311",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "scorer": "#11 - Aaron  Pollon",
+      "assist1": "#17 - Michael  Bagnall",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "scorer": "#94 - Michael  Starego",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:55",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "scorer": "#15 - Seth  Kumpf",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "scorer": "#10 - Kelly  Schoolmeester",
+      "assist1": "#6 - Hugo  Guzman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:11:59",
+      "team": {
+        "teamId": "1312",
+        "name": "Blue Dogs"
+      },
+      "player": "#5 - Lars  Hjelm",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "1312",
+        "name": "Blue Dogs"
+      },
+      "player": "#3 - Johnny  Vanore",
+      "pim": 2,
+      "offense": "board",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "1312",
+        "name": "Blue Dogs"
+      },
+      "player": "#3 - Johnny  Vanore",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "player": "#13 - John  Bereza",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:55",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "player": "#17 - Michael  Bagnall",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:02:41.766Z"
+}

@@ -1,0 +1,71 @@
+{
+  "gameId": "14733",
+  "date": "2022-03-15",
+  "divId": 245,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1516",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1515",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "scorer": "#28 - Charles  Hale",
+      "assist1": "#2 - Tim  Commerford",
+      "assist2": "#12 - Brian  Dix"
+    },
+    {
+      "period": "3",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#18 - Samson  Chu",
+      "assist2": "#33 - Hung  Pham"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "player": "#28 - Charles  Hale",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:35:38.846Z"
+}

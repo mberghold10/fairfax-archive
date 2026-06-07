@@ -1,0 +1,106 @@
+{
+  "gameId": "12028",
+  "date": "2018-09-05",
+  "divId": 183,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1162",
+    "name": "Bulldogs"
+  },
+  "away": {
+    "teamId": "1166",
+    "name": "Divorced Men"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:35",
+      "team": {
+        "teamId": "1166",
+        "name": "Divorced Men"
+      },
+      "scorer": "#11 - Stephen  Arthur",
+      "assist1": "#4 - Brett  Gauthier",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1166",
+        "name": "Divorced Men"
+      },
+      "scorer": "#89 - Brandon  Barhorst",
+      "assist1": "#67 - Jamie  McAuliffe",
+      "assist2": "#82 - Alex  Strunk"
+    },
+    {
+      "period": "3",
+      "time": "00:02:42",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#90 - Shawn  McEvoy",
+      "assist1": null,
+      "assist2": "#20 - Jeff  Carter"
+    },
+    {
+      "period": "3",
+      "time": "00:08:43",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#90 - Shawn  McEvoy",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "player": "#19 - Jon  Forrester",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:30",
+      "team": {
+        "teamId": "1166",
+        "name": "Divorced Men"
+      },
+      "player": "#4 - Brett  Gauthier",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:34:11.166Z"
+}

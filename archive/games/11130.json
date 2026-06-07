@@ -1,0 +1,104 @@
+{
+  "gameId": "11130",
+  "date": "2017-10-16",
+  "divId": 176,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1124",
+    "name": "Lightning"
+  },
+  "away": {
+    "teamId": "1126",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:48",
+      "team": {
+        "teamId": "1126",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": "#32 - Brian  Freeman"
+    },
+    {
+      "period": "3",
+      "time": "00:04:34",
+      "team": {
+        "teamId": "1126",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": "#1 - Chris  Beach",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:02",
+      "team": {
+        "teamId": "1126",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#21 - Austin  Orchard",
+      "assist1": "#3 - Frank  Thomason",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "1126",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#21 - Austin  Orchard",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:56",
+      "team": {
+        "teamId": "1124",
+        "name": "Lightning"
+      },
+      "scorer": "#13 - John  Kosak",
+      "assist1": "#10 - Tony  Hensler",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "1124",
+        "name": "Lightning"
+      },
+      "player": "#11 - Corbin  Neiberline",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:25:04.328Z"
+}

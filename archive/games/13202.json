@@ -1,0 +1,95 @@
+{
+  "gameId": "13202",
+  "date": "2019-09-29",
+  "divId": 202,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1283",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1284",
+    "name": "Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:07",
+      "team": {
+        "teamId": "1283",
+        "name": "Outlaws"
+      },
+      "scorer": "#91 - Matt  Weeden",
+      "assist1": "#41 - Tony  Gorney",
+      "assist2": "#17 - Adam  Lee"
+    },
+    {
+      "period": "3",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1284",
+        "name": "Bulldogs"
+      },
+      "scorer": "#28 - Jack  Wilmer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1283",
+        "name": "Outlaws"
+      },
+      "scorer": "#17 - Adam  Lee",
+      "assist1": "#41 - Tony  Gorney",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "1283",
+        "name": "Outlaws"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:38",
+      "team": {
+        "teamId": "1283",
+        "name": "Outlaws"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:57:58.161Z"
+}

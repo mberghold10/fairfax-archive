@@ -1,0 +1,209 @@
+{
+  "gameId": "1305",
+  "date": "2023-04-16",
+  "divId": 263,
+  "seasonName": "Winter 2022",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1617",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1616",
+    "name": "Anonymous"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:28",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "scorer": "#12 - Adam  Jungdahl",
+      "assist1": "#17 - Jeff  Johnson",
+      "assist2": "#7 - Brendan  Ford"
+    },
+    {
+      "period": "1",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "1616",
+        "name": "Anonymous"
+      },
+      "scorer": "#19 - Dave  Hagemeier",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "scorer": "#17 - Jeff  Johnson",
+      "assist1": "#16 - Joe  Denoyer",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "scorer": "#7 - Brendan  Ford",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:53",
+      "team": {
+        "teamId": "1616",
+        "name": "Anonymous"
+      },
+      "scorer": "#24 - Mike  Sheridan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1616",
+        "name": "Anonymous"
+      },
+      "scorer": "#16 - Dan  Rebmann",
+      "assist1": "#19 - Dave  Hagemeier",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:58",
+      "team": {
+        "teamId": "1616",
+        "name": "Anonymous"
+      },
+      "scorer": "#16 - Dan  Rebmann",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "scorer": "#25 - Malcolm  Hyson",
+      "assist1": "#12 - Adam  Jungdahl",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:43",
+      "team": {
+        "teamId": "1616",
+        "name": "Anonymous"
+      },
+      "scorer": "#24 - Mike  Sheridan",
+      "assist1": "#7 - Peter  Grose",
+      "assist2": "#77 - Erik  Bergman"
+    },
+    {
+      "period": "3",
+      "time": "00:13:16",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "scorer": "#25 - Malcolm  Hyson",
+      "assist1": "#8 - Dan  Brehm",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1616",
+        "name": "Anonymous"
+      },
+      "scorer": "#15 - Bob  Guckian",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "1616",
+        "name": "Anonymous"
+      },
+      "player": "#24 - Mike  Sheridan",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:55",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "player": "#21 - Trevor  Wallace",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1616",
+        "name": "Anonymous"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "bench",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1616",
+        "name": "Anonymous"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:57:40.016Z"
+}

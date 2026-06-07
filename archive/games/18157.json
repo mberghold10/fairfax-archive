@@ -1,0 +1,130 @@
+{
+  "gameId": "18157",
+  "date": "2025-08-31",
+  "divId": 312,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1911",
+    "name": "Pharoahs"
+  },
+  "away": {
+    "teamId": "1909",
+    "name": "DPunishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:49",
+      "team": {
+        "teamId": "1909",
+        "name": "DPunishers"
+      },
+      "scorer": "#89 - Jay  Gobeil",
+      "assist1": "#17 - Dan  Pol",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "1909",
+        "name": "DPunishers"
+      },
+      "scorer": "#2 - Doug  Harke",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:44",
+      "team": {
+        "teamId": "1909",
+        "name": "DPunishers"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:25",
+      "team": {
+        "teamId": "1909",
+        "name": "DPunishers"
+      },
+      "scorer": "#27 - Dave  Lin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:37",
+      "team": {
+        "teamId": "1909",
+        "name": "DPunishers"
+      },
+      "scorer": "#19 - Ira  Keltz",
+      "assist1": "#17 - Dan  Pol",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1909",
+        "name": "DPunishers"
+      },
+      "player": "#89 - Jay  Gobeil",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:49",
+      "team": {
+        "teamId": "1911",
+        "name": "Pharoahs"
+      },
+      "player": "#7 - Bob  Welland",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:28",
+      "team": {
+        "teamId": "1911",
+        "name": "Pharoahs"
+      },
+      "player": "#47 - Dexter  Thompson",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:49:47.268Z"
+}

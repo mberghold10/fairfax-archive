@@ -1,0 +1,163 @@
+{
+  "gameId": "767",
+  "date": "2017-03-22",
+  "divId": 154,
+  "seasonName": "Winter 2016",
+  "mode": "playoff",
+  "home": {
+    "teamId": "990",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "987",
+    "name": "Englewood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:59",
+      "team": {
+        "teamId": "990",
+        "name": "Nortec"
+      },
+      "scorer": "#19 - Andrew  Grose",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:18",
+      "team": {
+        "teamId": "990",
+        "name": "Nortec"
+      },
+      "scorer": "#16 - Scott  Forbes",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "990",
+        "name": "Nortec"
+      },
+      "scorer": "#15 - Chris  Yoko",
+      "assist1": "#23 - Bruce  Baltas",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "990",
+        "name": "Nortec"
+      },
+      "scorer": "#3 - Kareem  El-Alaily",
+      "assist1": "#16 - Scott  Forbes",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:38",
+      "team": {
+        "teamId": "990",
+        "name": "Nortec"
+      },
+      "scorer": "#7 - Peter  Grose",
+      "assist1": "#16 - Scott  Forbes",
+      "assist2": "#28 - Maxim  Alexeev"
+    },
+    {
+      "period": "3",
+      "time": "00:09:25",
+      "team": {
+        "teamId": "990",
+        "name": "Nortec"
+      },
+      "scorer": "#24 - Michael  Sheridan",
+      "assist1": "#27 - Rob  Blum",
+      "assist2": "#14 - Jude  Corina"
+    },
+    {
+      "period": "3",
+      "time": "00:10:30",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#4 - Mark  Sullivan",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": "#7 - Joe  Hull"
+    },
+    {
+      "period": "3",
+      "time": "00:11:52",
+      "team": {
+        "teamId": "990",
+        "name": "Nortec"
+      },
+      "scorer": "#10 - Justin  Arbes",
+      "assist1": "#22 - Charlie  Campbell",
+      "assist2": "#23 - Bruce  Baltas"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:16",
+      "team": {
+        "teamId": "990",
+        "name": "Nortec"
+      },
+      "player": "#28 - Maxim  Alexeev",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:12",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "player": "#12 - Brian  Dix",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:30",
+      "team": {
+        "teamId": "990",
+        "name": "Nortec"
+      },
+      "player": "#27 - Rob  Blum",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:58:27.794Z"
+}

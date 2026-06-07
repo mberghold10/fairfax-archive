@@ -1,0 +1,176 @@
+{
+  "gameId": "11310",
+  "date": "2018-01-09",
+  "divId": 173,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1107",
+    "name": "Hooligans"
+  },
+  "away": {
+    "teamId": "1105",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 4,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "scorer": "#21 - Mike  Hawthorne",
+      "assist1": "#9 - Kim  Sherrock",
+      "assist2": "#98 - Bob  Shaw"
+    },
+    {
+      "period": "1",
+      "time": "00:08:59",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "scorer": "#52 - Alen  Dappen",
+      "assist1": "#34 - Marty  Gryski",
+      "assist2": "#21 - Mike  Hawthorne"
+    },
+    {
+      "period": "1",
+      "time": "00:09:18",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "scorer": "#34 - Marty  Gryski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:15",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "scorer": "#13 - Dan  Rogers",
+      "assist1": "#18 - Peter  Poczatek",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "scorer": "# -",
+      "assist1": "#15 - Tom  Sgroi",
+      "assist2": "#71 - Dan  Pol"
+    },
+    {
+      "period": "2",
+      "time": "00:13:01",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "scorer": "#15 - Tom  Sgroi",
+      "assist1": "#71 - Dan  Pol",
+      "assist2": "#52 - Alen  Dappen"
+    },
+    {
+      "period": "3",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#15 - Tom  Sgroi",
+      "assist2": "#71 - Dan  Pol"
+    },
+    {
+      "period": "3",
+      "time": "00:13:25",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "scorer": "#4 - Peter  van Aartrijk",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:49",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "player": "#86 - John  Persinger",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:15",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:21:37.947Z"
+}

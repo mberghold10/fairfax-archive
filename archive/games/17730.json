@@ -1,0 +1,143 @@
+{
+  "gameId": "17730",
+  "date": "2024-12-03",
+  "divId": 307,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1883",
+    "name": "Gold Goats"
+  },
+  "away": {
+    "teamId": "1884",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:26",
+      "team": {
+        "teamId": "1883",
+        "name": "Gold Goats"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#34 - Marty  Gryski",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1883",
+        "name": "Gold Goats"
+      },
+      "scorer": "#52 - Alan  Dappen",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": "#34 - Marty  Gryski"
+    },
+    {
+      "period": "3",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "scorer": "#3 - Ed  Gulakowski",
+      "assist1": "#1 - Chris  Beach",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:49",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "scorer": "#23 - Chris  Howard",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:29",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "scorer": "#23 - Chris  Howard",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:35",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:23",
+      "team": {
+        "teamId": "1883",
+        "name": "Gold Goats"
+      },
+      "player": "#93 - Chris  Conley",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "1883",
+        "name": "Gold Goats"
+      },
+      "player": "#42 - Jeff  Brooks",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "1883",
+        "name": "Gold Goats"
+      },
+      "player": "#42 - Jeff  Brooks",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:45:10.043Z"
+}

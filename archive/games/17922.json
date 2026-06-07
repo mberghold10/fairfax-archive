@@ -1,0 +1,84 @@
+{
+  "gameId": "17922",
+  "date": "2025-03-22",
+  "divId": 303,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1860",
+    "name": "Junkyard Dogs"
+  },
+  "away": {
+    "teamId": "1862",
+    "name": "Toronto"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#89 - Brandon  Barhorst",
+      "assist1": "#54 - Tom  Montanio",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:42",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#96 - Wei  Wang",
+      "assist2": "#5 - Dave  Neri"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:54",
+      "team": {
+        "teamId": "1860",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1860",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#44 - Carlos  Gautier",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:41:13.938Z"
+}

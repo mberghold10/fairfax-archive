@@ -1,0 +1,156 @@
+{
+  "gameId": "18471",
+  "date": "2025-09-29",
+  "divId": 314,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1922",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1924",
+    "name": "Toronto"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:54",
+      "team": {
+        "teamId": "1924",
+        "name": "Toronto"
+      },
+      "scorer": "#32 - Brian  Freeman",
+      "assist1": "#54 - Tom  Montanio",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:01",
+      "team": {
+        "teamId": "1924",
+        "name": "Toronto"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "1922",
+        "name": "Wolves"
+      },
+      "scorer": "#22 - Mark  Rayder",
+      "assist1": "#62 - Andrew  Hancher",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1924",
+        "name": "Toronto"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#5 - Dave  Neri",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:59",
+      "team": {
+        "teamId": "1924",
+        "name": "Toronto"
+      },
+      "scorer": "#28 - Harry  Nicholakos",
+      "assist1": "#33 - Greg  Kowalksi",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:03",
+      "team": {
+        "teamId": "1924",
+        "name": "Toronto"
+      },
+      "player": "#5 - Dave  Neri",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "1924",
+        "name": "Toronto"
+      },
+      "player": "#32 - Brian  Freeman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1922",
+        "name": "Wolves"
+      },
+      "player": "#94 - Mike  Starego",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1924",
+        "name": "Toronto"
+      },
+      "player": "#32 - Brian  Freeman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "1922",
+        "name": "Wolves"
+      },
+      "player": "#43 - Dan  Miller",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:52:40.263Z"
+}

@@ -1,0 +1,128 @@
+{
+  "gameId": "15616",
+  "date": "2023-03-24",
+  "divId": 258,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1588",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1590",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:49",
+      "team": {
+        "teamId": "1590",
+        "name": "Kings"
+      },
+      "scorer": "#43 - Anthony  Federico",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:01",
+      "team": {
+        "teamId": "1588",
+        "name": "Englewood"
+      },
+      "scorer": "#8 - Rod  Wade",
+      "assist1": "#26 - Carl  Wojick",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1588",
+        "name": "Englewood"
+      },
+      "scorer": "#8 - Rod  Wade",
+      "assist1": "#2 - Jason  Abkowitz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1590",
+        "name": "Kings"
+      },
+      "scorer": "#82 - Caleb  Sohl",
+      "assist1": "#14 - Dominic  Pistolessi",
+      "assist2": "#18 - Coleman  Ward"
+    },
+    {
+      "period": "3",
+      "time": "00:02:51",
+      "team": {
+        "teamId": "1588",
+        "name": "Englewood"
+      },
+      "scorer": "#26 - Carl  Wojick",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": "#14 - Dennis  Nayandin"
+    },
+    {
+      "period": "3",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1590",
+        "name": "Kings"
+      },
+      "scorer": "#43 - Anthony  Federico",
+      "assist1": "#14 - Dominic  Pistolessi",
+      "assist2": "#12 - Chris  Yoko"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:07:26",
+      "team": {
+        "teamId": "1590",
+        "name": "Kings"
+      },
+      "player": "#33 - Steven  Terenzlo",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1588",
+        "name": "Englewood"
+      },
+      "player": "#2 - Jason  Abkowitz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:50:39.896Z"
+}

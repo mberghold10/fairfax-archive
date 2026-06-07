@@ -1,0 +1,132 @@
+{
+  "gameId": "18618",
+  "date": "2025-12-19",
+  "divId": 321,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1966",
+    "name": "Punishers HC"
+  },
+  "away": {
+    "teamId": "1969",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "scorer": "#2 - Doug  Harke",
+      "assist1": "#1 - Matt  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "scorer": "#16 - Zach  Gonyea",
+      "assist1": "#25 - Kyle  Brubaker",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "1969",
+        "name": "Dragons"
+      },
+      "scorer": "#89 - AJ  Saleh",
+      "assist1": "#55 - Griffin  Bryce",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "scorer": "#14 - Richard  Cole",
+      "assist1": "#1 - Matt  ODriscoll",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "1969",
+        "name": "Dragons"
+      },
+      "player": "#94 - Mike  Starego",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1969",
+        "name": "Dragons"
+      },
+      "player": "#40 - Brendan  Wallace",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1969",
+        "name": "Dragons"
+      },
+      "player": "#96 - Zack  Starego",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "player": "#10 - Rob  Cobb",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:37:40.573Z"
+}

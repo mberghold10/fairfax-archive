@@ -1,0 +1,204 @@
+{
+  "gameId": "13026",
+  "date": "2019-08-24",
+  "divId": 201,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1276",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1278",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#8 - Bob  Shay",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:31",
+      "team": {
+        "teamId": "1276",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#7 - Daniel  Fleshner",
+      "assist1": "#21 - Steve  Kaplan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:56",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#27 - Dave  Lin",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1276",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:27",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#71 - Dan  Pol",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:56",
+      "team": {
+        "teamId": "1276",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#2 - Tom  Keith",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:24",
+      "team": {
+        "teamId": "1276",
+        "name": "Ice Dogs"
+      },
+      "player": "#0 - Ruben  Garcia",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:01:24",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "player": "#71 - Dan  Pol",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:50",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1276",
+        "name": "Ice Dogs"
+      },
+      "player": "#18 - Lee  Freedman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1276",
+        "name": "Ice Dogs"
+      },
+      "player": "#18 - Lee  Freedman",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "1276",
+        "name": "Ice Dogs"
+      },
+      "player": "#2 - Tom  Keith",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:34",
+      "team": {
+        "teamId": "1276",
+        "name": "Ice Dogs"
+      },
+      "player": "#0 - Ruben  Garcia",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:56:54.336Z"
+}

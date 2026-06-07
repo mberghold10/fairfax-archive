@@ -1,0 +1,134 @@
+{
+  "gameId": "17218",
+  "date": "2024-08-16",
+  "divId": 287,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1760",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1763",
+    "name": "Screaming Eagles"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#17 - Talon  Ribsom",
+      "assist1": "#88 - Evan  Wojtowicz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:21",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "scorer": "#15 - David  Eyre",
+      "assist1": "#4 - Dave  Sinniger",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:36",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#33 - Dan  Williams",
+      "assist1": "#17 - Talon  Ribsom",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:57",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "player": "#17 - Talon  Ribsom",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:52",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "player": "#88 - Evan  Wojtowicz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "player": "#12 - Chris  Yoko",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "player": "#94 - Trygve  Olson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:11",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "player": "#22 - Joseph  Ney",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:24:20.547Z"
+}

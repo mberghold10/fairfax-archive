@@ -1,0 +1,158 @@
+{
+  "gameId": "11808",
+  "date": "2018-08-05",
+  "divId": 181,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1150",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1154",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:32",
+      "team": {
+        "teamId": "1154",
+        "name": "Coyotes"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": "#7 - Paul  Flood",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:05",
+      "team": {
+        "teamId": "1154",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": "#20 - Brent  Jefferson"
+    },
+    {
+      "period": "3",
+      "time": "00:01:58",
+      "team": {
+        "teamId": "1150",
+        "name": "Grey Goons"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": "#49 - Greg  Mullen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:24",
+      "team": {
+        "teamId": "1154",
+        "name": "Coyotes"
+      },
+      "scorer": "#3 - Bill  Schultheiss",
+      "assist1": "#27 - Jamie  Prime",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1150",
+        "name": "Grey Goons"
+      },
+      "player": "#49 - Greg  Mullen",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:07",
+      "team": {
+        "teamId": "1154",
+        "name": "Coyotes"
+      },
+      "player": "#78 - Sonny  Gupta",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:53",
+      "team": {
+        "teamId": "1154",
+        "name": "Coyotes"
+      },
+      "player": "#14 - John  Pace",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1154",
+        "name": "Coyotes"
+      },
+      "player": "#3 - Bill  Schultheiss",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:46",
+      "team": {
+        "teamId": "1150",
+        "name": "Grey Goons"
+      },
+      "player": "#19 - Joe  Dunn",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "1150",
+        "name": "Grey Goons"
+      },
+      "player": "#5 - John  Lewandoski",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:31:40.995Z"
+}

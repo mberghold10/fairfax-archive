@@ -1,0 +1,156 @@
+{
+  "gameId": "18481",
+  "date": "2025-10-25",
+  "divId": 314,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1920",
+    "name": "Alers"
+  },
+  "away": {
+    "teamId": "1921",
+    "name": "Junkyard Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:47",
+      "team": {
+        "teamId": "1920",
+        "name": "Alers"
+      },
+      "scorer": "#21 - Larry  Silver",
+      "assist1": "#81 - David  Culverhouse",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:37",
+      "team": {
+        "teamId": "1921",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#88 - Matt  Tiede",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:51",
+      "team": {
+        "teamId": "1920",
+        "name": "Alers"
+      },
+      "scorer": "#34 - William  Happ",
+      "assist1": "#21 - Larry  Silver",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1920",
+        "name": "Alers"
+      },
+      "scorer": "#81 - David  Culverhouse",
+      "assist1": "#34 - William  Happ",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "1920",
+        "name": "Alers"
+      },
+      "scorer": "#85 - Eric  Wu",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1920",
+        "name": "Alers"
+      },
+      "player": "#8 - Tim  Lo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1921",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:53",
+      "team": {
+        "teamId": "1921",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:59",
+      "team": {
+        "teamId": "1920",
+        "name": "Alers"
+      },
+      "player": "#8 - Tim  Lo",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:59",
+      "team": {
+        "teamId": "1921",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:52:50.265Z"
+}

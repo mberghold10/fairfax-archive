@@ -1,0 +1,143 @@
+{
+  "gameId": "12404",
+  "date": "2019-03-02",
+  "divId": 190,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1205",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1209",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "scorer": "#88 - Brian  Ray",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "scorer": "#12 - Matt  Diamond",
+      "assist1": "#21 - John  Peterman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:56",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "scorer": "#24 - Pertti  Jaakola",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:26",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "scorer": "#61 - Tero  Moberg",
+      "assist1": "#77 - Jeff  Carter",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:26",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "scorer": "#12 - Matt  Diamond",
+      "assist1": "#7 - Evan  Wojtowicz",
+      "assist2": "#21 - John  Peterman"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "player": "#40 - Sean  Oneil",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "player": "#77 - Jeff  Carter",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:13",
+      "team": {
+        "teamId": "1205",
+        "name": "North Stars"
+      },
+      "player": "#12 - Matt  Diamond",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:56",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "player": "#88 - Brian  Ray",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:42:29.133Z"
+}

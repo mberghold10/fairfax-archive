@@ -1,0 +1,169 @@
+{
+  "gameId": "10350",
+  "date": "2017-01-22",
+  "divId": 160,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1028",
+    "name": "Jurassic Puck"
+  },
+  "away": {
+    "teamId": "1030",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:28",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#14 - David  Fisher",
+      "assist1": "#6 - JB  Merritt",
+      "assist2": "#8 - AJ  Ellis"
+    },
+    {
+      "period": "2",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#66 - Steven  Spector",
+      "assist1": "#57 - Anne  Bennett",
+      "assist2": "#28 - Michael  Berghold"
+    },
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": "#16 - Nicole  Chapman",
+      "assist2": "#67 - Brian  Landers"
+    },
+    {
+      "period": "3",
+      "time": "00:11:56",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#77 - Dennis  Valentine",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#3 - Will  Caito",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:15",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#22 - Steven  Sullivan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#11 - Dan  Owens",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#6 - JB  Merritt",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#6 - JB  Merritt",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:34",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#66 - Steven  Spector",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#4 - Kevin  Via",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:43:16.750Z"
+}

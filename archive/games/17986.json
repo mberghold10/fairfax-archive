@@ -1,0 +1,117 @@
+{
+  "gameId": "17986",
+  "date": "2025-02-27",
+  "divId": 306,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1876",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1874",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:26",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": "#56 - Ryan  Tyler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#38 - Dave  Wilson",
+      "assist1": "#19 - Mike  Carr",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:27",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#19 - Mike  Carr",
+      "assist1": "#38 - Dave  Wilson",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:24",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#68 - Jeff  Gilmore",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:00",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "player": "#44 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:17",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "player": "#38 - Dave  Wilson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:44:14.250Z"
+}

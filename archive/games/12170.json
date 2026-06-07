@@ -1,0 +1,132 @@
+{
+  "gameId": "12170",
+  "date": "2018-11-02",
+  "divId": 191,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1212",
+    "name": "River Rats"
+  },
+  "away": {
+    "teamId": "1210",
+    "name": "Pharaohs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1212",
+        "name": "River Rats"
+      },
+      "scorer": "#36 - Evan  Clinton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "1212",
+        "name": "River Rats"
+      },
+      "scorer": "#42 - Jon  Coley",
+      "assist1": "#19 - Kevin  Stammetti",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:33",
+      "team": {
+        "teamId": "1210",
+        "name": "Pharaohs"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": "#83 - Jared  Dicioccio",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:02",
+      "team": {
+        "teamId": "1210",
+        "name": "Pharaohs"
+      },
+      "scorer": "#14 - Jay  Woon",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:12",
+      "team": {
+        "teamId": "1212",
+        "name": "River Rats"
+      },
+      "player": "#36 - Evan  Clinton",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:30",
+      "team": {
+        "teamId": "1210",
+        "name": "Pharaohs"
+      },
+      "player": "#17 - Zepahn  Keehner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "1212",
+        "name": "River Rats"
+      },
+      "player": "#2 - Tom  Keith",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:14",
+      "team": {
+        "teamId": "1210",
+        "name": "Pharaohs"
+      },
+      "player": "#23 - Seth  Wayne",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:43:14.419Z"
+}

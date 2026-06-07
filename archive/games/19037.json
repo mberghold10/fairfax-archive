@@ -1,0 +1,174 @@
+{
+  "gameId": "19037",
+  "date": "2026-05-20",
+  "divId": 325,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1991",
+    "name": "Ers"
+  },
+  "away": {
+    "teamId": "1995",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:53",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#96 - Chris  Beck",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:52",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#20 - David  Kantter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#3 - Matt  Cerce",
+      "assist1": "#96 - Chris  Beck",
+      "assist2": "#24 - Tom  Spiewak"
+    },
+    {
+      "period": "2",
+      "time": "00:12:30",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#7 - Matt  ODriscoll",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#68 - Jeff  Gilmore",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:34",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#96 - Chris  Beck",
+      "assist1": "#24 - Tom  Spiewak",
+      "assist2": "#3 - Matt  Cerce"
+    },
+    {
+      "period": "3",
+      "time": "00:06:10",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#69 - Aaron  Domnitch",
+      "assist2": "#93 - Trygve  Olson"
+    },
+    {
+      "period": "3",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#96 - Chris  Beck",
+      "assist1": "#3 - Matt  Cerce",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:34",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "player": "#74 - Paul  Sechser",
+      "pim": 2,
+      "offense": "High Stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:25",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "player": "#28 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "Hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "player": "#28 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:04:56.341Z"
+}

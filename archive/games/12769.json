@@ -1,0 +1,147 @@
+{
+  "gameId": "12769",
+  "date": "2019-07-07",
+  "divId": 200,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1274",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1270",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:18",
+      "team": {
+        "teamId": "1274",
+        "name": "Islanders"
+      },
+      "scorer": "#71 - John  Buhler",
+      "assist1": "#93 - Jeff  Nauer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:49",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "scorer": "#115 - Casey  Whittaker",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:36",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "scorer": "#2 - Shawn  Hatch",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "player": "#44 - George  Cassidy",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1274",
+        "name": "Islanders"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "1274",
+        "name": "Islanders"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1274",
+        "name": "Islanders"
+      },
+      "player": "#4 - Stew  Gitler",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:15",
+      "team": {
+        "teamId": "1274",
+        "name": "Islanders"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:24",
+      "team": {
+        "teamId": "1274",
+        "name": "Islanders"
+      },
+      "player": "#4 - Stew  Gitler",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:55:08.348Z"
+}

@@ -1,0 +1,117 @@
+{
+  "gameId": "10850",
+  "date": "2017-08-07",
+  "divId": 168,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1074",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1072",
+    "name": "Turtle Power"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:57",
+      "team": {
+        "teamId": "1072",
+        "name": "Turtle Power"
+      },
+      "scorer": "#23 - Eric  Vanhove",
+      "assist1": "#53 - Meg  Grasselli",
+      "assist2": "#24 - James  Grasselli"
+    },
+    {
+      "period": "1",
+      "time": "00:13:23",
+      "team": {
+        "teamId": "1074",
+        "name": "Dragons"
+      },
+      "scorer": "#11 - Andrew  Jones",
+      "assist1": "#27 - Philip  Brooks",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1072",
+        "name": "Turtle Power"
+      },
+      "scorer": "#17 - Ben  Rivelis",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "1072",
+        "name": "Turtle Power"
+      },
+      "scorer": "#24 - James  Grasselli",
+      "assist1": "#53 - Meg  Grasselli",
+      "assist2": "#26 - Danny  Meaux"
+    },
+    {
+      "period": "3",
+      "time": "00:09:28",
+      "team": {
+        "teamId": "1072",
+        "name": "Turtle Power"
+      },
+      "scorer": "#24 - James  Grasselli",
+      "assist1": "#53 - Meg  Grasselli",
+      "assist2": "#95 - Brian  Rubens"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "1072",
+        "name": "Turtle Power"
+      },
+      "player": "#24 - James  Grasselli",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:49",
+      "team": {
+        "teamId": "1074",
+        "name": "Dragons"
+      },
+      "player": "#27 - Philip  Brooks",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:15:54.523Z"
+}

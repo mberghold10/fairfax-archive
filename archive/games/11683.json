@@ -1,0 +1,220 @@
+{
+  "gameId": "11683",
+  "date": "2018-05-13",
+  "divId": 186,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1187",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1189",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 5,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 9
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#28 - Ed  Holleran",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#67 - Brian  Landers",
+      "assist1": "#3 - Jeff  Ruby",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:45",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#67 - Brian  Landers",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:33",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#54 - Brian  Hensel",
+      "assist1": "#67 - Brian  Landers",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#4 - Sam  Hauslohner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:48",
+      "team": {
+        "teamId": "1189",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#93 - David  Taves",
+      "assist1": "#41 - Alessio  Evangelista",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "1189",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#20 - Paul  Flood",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#67 - Brian  Landers",
+      "assist1": "#3 - Jeff  Ruby",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:12",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#4 - Sam  Hauslohner",
+      "assist1": "#16 - Nichole  Chapman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:48",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#18 - Jimmy  Feeney",
+      "assist1": "#28 - Ed  Holleran",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#3 - Jeff  Ruby",
+      "assist1": "#67 - Brian  Landers",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:50",
+      "team": {
+        "teamId": "1189",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#93 - David  Taves",
+      "assist1": "#0 - Ruben  Garcia",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:44",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#4 - Sam  Hauslohner",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:43",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#62 - Jim  Jewell",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:24",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#18 - Jimmy  Feeney",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:56",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#9 - Greg  Sibley",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:37:14.104Z"
+}

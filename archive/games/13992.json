@@ -1,0 +1,213 @@
+{
+  "gameId": "13992",
+  "date": "2021-04-19",
+  "divId": 226,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1422",
+    "name": "Bluejacket Capitals"
+  },
+  "away": {
+    "teamId": "1415",
+    "name": "Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:43",
+      "team": {
+        "teamId": "1422",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#20 - Scott  Forbes",
+      "assist1": "#92 - Darren  Wellner",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "scorer": "#21 - Brian  Dutton",
+      "assist1": "#19 - Brian  Mehnert",
+      "assist2": "#40 - Matt  Mickelson"
+    },
+    {
+      "period": "1",
+      "time": "00:13:49",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#40 - Matt  Mickelson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:07",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "scorer": "#21 - Brian  Dutton",
+      "assist1": "#19 - Brian  Mehnert",
+      "assist2": "#7 - Kevin  Brooks"
+    },
+    {
+      "period": "3",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1422",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#16 - Dan  Rebmann",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:26",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "scorer": "#19 - Brian  Mehnert",
+      "assist1": "#7 - Kevin  Brooks",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:27",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#6 - Jon  Lauder",
+      "assist2": "#27 - David  Lin"
+    },
+    {
+      "period": "3",
+      "time": "00:08:37",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": "#27 - David  Lin",
+      "assist2": "#62 - Phil  Tivel"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "player": "#7 - Kevin  Brooks",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "player": "#1 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "player": "#12 - David  OMalley",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "1422",
+        "name": "Bluejacket Capitals"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 5,
+      "offense": "board",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "1422",
+        "name": "Bluejacket Capitals"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:43",
+      "team": {
+        "teamId": "1422",
+        "name": "Bluejacket Capitals"
+      },
+      "player": "#92 - Darren  Wellner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:20:28.320Z"
+}

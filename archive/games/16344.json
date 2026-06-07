@@ -1,0 +1,82 @@
+{
+  "gameId": "16344",
+  "date": "2023-09-19",
+  "divId": 273,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1686",
+    "name": "Gold Goats"
+  },
+  "away": {
+    "teamId": "1685",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:18",
+      "team": {
+        "teamId": "1686",
+        "name": "Gold Goats"
+      },
+      "scorer": "#22 - Ken  Ochsner",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:55",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "scorer": "#17 - Chris  Watroba",
+      "assist1": "#23 - Ken  DeGrave",
+      "assist2": "#65 - Stuart  Hoffman"
+    },
+    {
+      "period": "4",
+      "time": "00:01:18",
+      "team": {
+        "teamId": "1686",
+        "name": "Gold Goats"
+      },
+      "scorer": "#8 - Curt  Tucker",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:20",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "player": "#65 - Stuart  Hoffman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:09:29.216Z"
+}

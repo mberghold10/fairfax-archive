@@ -1,0 +1,104 @@
+{
+  "gameId": "17412",
+  "date": "2024-08-17",
+  "divId": 295,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1805",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1806",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:15:00",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#41 - Alessio  Evangelista",
+      "assist1": "#33 - Brandon  Boling",
+      "assist2": "#3 - Darr  Gerscovich"
+    },
+    {
+      "period": "1",
+      "time": "00:16:40",
+      "team": {
+        "teamId": "1806",
+        "name": "Red Wings"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": "#54 - Tom  Montanio",
+      "assist2": "#14 - Dave  Fisher"
+    },
+    {
+      "period": "2",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#3 - Darr  Gerscovich",
+      "assist1": "#41 - Alessio  Evangelista",
+      "assist2": "#20 - Steve  Ahart"
+    },
+    {
+      "period": "2",
+      "time": "00:13:00",
+      "team": {
+        "teamId": "1806",
+        "name": "Red Wings"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#93 - Robert  Wagner",
+      "assist1": "#13 - Alex  Rudulph",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "player": "#33 - Brandon  Boling",
+      "pim": 2,
+      "offense": "Rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:32:57.936Z"
+}

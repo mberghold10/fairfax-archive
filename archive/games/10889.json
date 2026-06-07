@@ -1,0 +1,158 @@
+{
+  "gameId": "10889",
+  "date": "2017-09-03",
+  "divId": 162,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1036",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1083",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:51",
+      "team": {
+        "teamId": "1083",
+        "name": "Ducks"
+      },
+      "scorer": "#19 - Chris  Blevins",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:58",
+      "team": {
+        "teamId": "1036",
+        "name": "Swarm"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:34",
+      "team": {
+        "teamId": "1083",
+        "name": "Ducks"
+      },
+      "scorer": "#59 - John  Saluga",
+      "assist1": "#12 - Jon  Gregor",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:49",
+      "team": {
+        "teamId": "1083",
+        "name": "Ducks"
+      },
+      "scorer": "#91 - Robert  Fischer",
+      "assist1": "#18 - Sean  Gallucci",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:06",
+      "team": {
+        "teamId": "1083",
+        "name": "Ducks"
+      },
+      "player": "#55 - Bill  MacIntyre",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:51",
+      "team": {
+        "teamId": "1083",
+        "name": "Ducks"
+      },
+      "player": "#11 - Nate  Greenberg",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:19",
+      "team": {
+        "teamId": "1083",
+        "name": "Ducks"
+      },
+      "player": "#55 - Bill  MacIntyre",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:33",
+      "team": {
+        "teamId": "1036",
+        "name": "Swarm"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:03",
+      "team": {
+        "teamId": "1083",
+        "name": "Ducks"
+      },
+      "player": "#19 - Chris  Blevins",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:49",
+      "team": {
+        "teamId": "1036",
+        "name": "Swarm"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:08:38.772Z"
+}

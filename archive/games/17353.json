@@ -1,0 +1,141 @@
+{
+  "gameId": "17353",
+  "date": "2024-10-18",
+  "divId": 292,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1787",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1790",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "1787",
+        "name": "Team USA"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": "#54 - Dan  Bagley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:01",
+      "team": {
+        "teamId": "1787",
+        "name": "Team USA"
+      },
+      "scorer": "#54 - Dan  Bagley",
+      "assist1": "#8 - Geoff  Carstairs",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:16",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "scorer": "#11 - Dave  Brown",
+      "assist1": "#76 - Mike  Floyd",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:31",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "scorer": "#35 - Dan  Sheehan",
+      "assist1": "#49 - Greg  Mullen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:51",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "scorer": "#35 - Dan  Sheehan",
+      "assist1": "#12 - Paul  Zalocha",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "player": "#19 - Brian  Compagnone",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:38",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "player": "#25 - Chris  Lettieri",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "1787",
+        "name": "Team USA"
+      },
+      "player": "#8 - Geoff  Carstairs",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:29:56.632Z"
+}

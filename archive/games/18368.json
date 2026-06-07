@@ -1,0 +1,117 @@
+{
+  "gameId": "18368",
+  "date": "2025-09-28",
+  "divId": 318,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1946",
+    "name": "Valor Puckaneers"
+  },
+  "away": {
+    "teamId": "1948",
+    "name": "Mesozoic Pucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "1948",
+        "name": "Mesozoic Pucks"
+      },
+      "scorer": "#62 - Sam  Munson",
+      "assist1": "#900 - West  Bielebi",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:15:07",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "scorer": "#11 - Sean  Burke",
+      "assist1": "#23 - McKenzie  Pochiro",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "scorer": "#39 - Andrew  Hancher",
+      "assist1": "#22 - Mickey  Walsh",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:59",
+      "team": {
+        "teamId": "1948",
+        "name": "Mesozoic Pucks"
+      },
+      "scorer": "#37 - Michael  Wisniewski",
+      "assist1": "#33 - Scott  Coco",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:29",
+      "team": {
+        "teamId": "1948",
+        "name": "Mesozoic Pucks"
+      },
+      "scorer": "#37 - Michael  Wisniewski",
+      "assist1": "#33 - Scott  Coco",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:32",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "player": "#39 - Andrew  Hancher",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:32",
+      "team": {
+        "teamId": "1948",
+        "name": "Mesozoic Pucks"
+      },
+      "player": "#89 - Jim  Rathbone",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:57:31.825Z"
+}

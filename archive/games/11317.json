@@ -1,0 +1,126 @@
+{
+  "gameId": "11317",
+  "date": "2018-02-03",
+  "divId": 173,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1104",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1103",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#33 - Andrew  Scharnweber",
+      "assist1": "#20 - Paul  Flood",
+      "assist2": "#24 - Brian  Crossin"
+    },
+    {
+      "period": "2",
+      "time": "00:00:04",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": "#13 - Lazer  Wittman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:51",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#20 - Paul  Flood",
+      "assist1": "#13 - Lazer  Wittman",
+      "assist2": "#67 - Andrew  Miller"
+    },
+    {
+      "period": "2",
+      "time": "00:07:14",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#13 - Lazer  Wittman",
+      "assist1": "#24 - Brian  Crossin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:39",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#88 - Matt  Tiede",
+      "assist1": "#67 - Andrew  Miller",
+      "assist2": "#0 - Ruben  Garcia"
+    },
+    {
+      "period": "3",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1104",
+        "name": "Wolves"
+      },
+      "scorer": "#98 - Barret  Hildebrand",
+      "assist1": "#12 - Jim  Schoff",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#330 - Kurt  Frulla",
+      "assist1": "#33 - Andrew  Scharnweber",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "player": "#33 - Andrew  Scharnweber",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:21:44.910Z"
+}

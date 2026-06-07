@@ -1,0 +1,204 @@
+{
+  "gameId": "834",
+  "date": "2017-09-17",
+  "divId": 166,
+  "seasonName": "Summer 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1065",
+    "name": "Canucks"
+  },
+  "away": {
+    "teamId": "1062",
+    "name": "BlueJacket Capitals"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#8 - Chris  White",
+      "assist1": "#33 - Rob  Kotcher",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:06",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#8 - Chris  White",
+      "assist2": "#33 - Rob  Kotcher"
+    },
+    {
+      "period": "1",
+      "time": "00:09:01",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#33 - Rob  Kotcher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:23",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#17 - Allen  Preville",
+      "assist1": "#91 - Chris  Callanan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:25",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#33 - Rob  Kotcher",
+      "assist1": "#11 - Mark  OConnell",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:39",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#33 - Rob  Kotcher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:19",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#19 - JP  Klousia",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "player": "#19 - Colin  Million",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#77 - Erik  Bergman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:58",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#4 - Peter  van Aartrijk",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#25 - Stan  Torgovitsky",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:47",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "player": "#25 - Greg  Reece",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#7 - Gary  McMahon",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:14",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "player": "#80 - Matt  Rogers",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:14:08.316Z"
+}

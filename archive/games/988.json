@@ -1,0 +1,165 @@
+{
+  "gameId": "988",
+  "date": "2019-04-18",
+  "divId": 195,
+  "seasonName": "Winter 2018",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1236",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1240",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:07",
+      "team": {
+        "teamId": "1236",
+        "name": "Team USA"
+      },
+      "scorer": "#20 - Rich  Utano",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "1236",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": "#99 - Jon  Davoren",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:54",
+      "team": {
+        "teamId": "1236",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "1236",
+        "name": "Team USA"
+      },
+      "scorer": "#34 - Jim  Morgan",
+      "assist1": "#23 - Mike  OBrien",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:18",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "scorer": "#44 - Mick  Ellsworth",
+      "assist1": "#21 - Grant  Gibbons",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:36",
+      "team": {
+        "teamId": "1236",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:01",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "scorer": "#21 - Grant  Gibbons",
+      "assist1": "#32 - Phil  Antoun",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "player": "#25 - Chris  Lettieri",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:26",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "player": "#19 - Joe  Dunn",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "player": "#44 - Mick  Ellsworth",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:50",
+      "team": {
+        "teamId": "1240",
+        "name": "Grey Goons"
+      },
+      "player": "#32 - Phil  Antoun",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:49:47.226Z"
+}

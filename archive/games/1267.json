@@ -1,0 +1,134 @@
+{
+  "gameId": "1267",
+  "date": "2022-10-09",
+  "divId": 256,
+  "seasonName": "Summer 2022",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1577",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1579",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:52",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": "#18 - Lee  Freedman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:07",
+      "team": {
+        "teamId": "1577",
+        "name": "Thunder"
+      },
+      "scorer": "#45 - Justin  Marks",
+      "assist1": "#29 - James  Kim",
+      "assist2": "#79 - Sean  Longanecker"
+    },
+    {
+      "period": "2",
+      "time": "00:10:06",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#37 - John  Bachman",
+      "assist1": "#77 - Jeff  Wilken",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:28",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "player": "#33 - Brandon  Boling",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:18",
+      "team": {
+        "teamId": "1577",
+        "name": "Thunder"
+      },
+      "player": "#21 - Brendan  Williams",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:53",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "player": "#34 - Josh  Davis",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:52",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:29",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "player": "#17 - Justin  Cade",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:49:02.000Z"
+}

@@ -1,0 +1,117 @@
+{
+  "gameId": "13088",
+  "date": "2019-08-19",
+  "divId": 204,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1307",
+    "name": "Whalers"
+  },
+  "away": {
+    "teamId": "1314",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:59",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "scorer": "#13 - Shane  Mitchell",
+      "assist1": "#12 - Jason  Wakeman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:26",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "scorer": "#8 - Peter  Lee",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:08",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "scorer": "#47 - Talbot  Black",
+      "assist1": "#18 - Nada  Gibbon",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:55",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#43 - Alex  Utano",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:31",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "player": "#10 - Chris  Greenough",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:29",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "player": "#87 - Stanislaw  Kolodin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:59:48.271Z"
+}

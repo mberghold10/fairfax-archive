@@ -1,0 +1,261 @@
+{
+  "gameId": "16515",
+  "date": "2024-01-29",
+  "divId": 279,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1719",
+    "name": "Old Goats"
+  },
+  "away": {
+    "teamId": "1720",
+    "name": "Red Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 4,
+      "p3": 0,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:39",
+      "team": {
+        "teamId": "1719",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#40 - Matt  Mickelson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:38",
+      "team": {
+        "teamId": "1719",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#40 - Matt  Mickelson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:38",
+      "team": {
+        "teamId": "1720",
+        "name": "Red Dragons"
+      },
+      "scorer": "#3 - Ilana  Bell",
+      "assist1": "#83 - Zach  Spencer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:56",
+      "team": {
+        "teamId": "1719",
+        "name": "Old Goats"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:36",
+      "team": {
+        "teamId": "1719",
+        "name": "Old Goats"
+      },
+      "scorer": "#17 - Dan  Pol",
+      "assist1": "#12 - David  OMalley",
+      "assist2": "#40 - Matt  Mickelson"
+    },
+    {
+      "period": "2",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "1720",
+        "name": "Red Dragons"
+      },
+      "scorer": "#83 - Zach  Spencer",
+      "assist1": "#4 - Josiah  Renton",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:48",
+      "team": {
+        "teamId": "1719",
+        "name": "Old Goats"
+      },
+      "scorer": "#52 - Alan  Dappen",
+      "assist1": "#34 - Marty  Gryski",
+      "assist2": "#15 - Tom  Sgroi"
+    },
+    {
+      "period": "2",
+      "time": "00:13:33",
+      "team": {
+        "teamId": "1719",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#40 - Matt  Mickelson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:56",
+      "team": {
+        "teamId": "1720",
+        "name": "Red Dragons"
+      },
+      "scorer": "#71 - Raymond  Robie",
+      "assist1": "#20 - Charlie  Curia",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:06",
+      "team": {
+        "teamId": "1720",
+        "name": "Red Dragons"
+      },
+      "scorer": "#4 - Josiah  Renton",
+      "assist1": "#20 - Charlie  Curia",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:25",
+      "team": {
+        "teamId": "1720",
+        "name": "Red Dragons"
+      },
+      "scorer": "#16 - Jason  Showalter",
+      "assist1": "#83 - Zach  Spencer",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1719",
+        "name": "Old Goats"
+      },
+      "player": "#66 - Steven  Bennett",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:56",
+      "team": {
+        "teamId": "1720",
+        "name": "Red Dragons"
+      },
+      "player": "#17 - Nic  Van Tol",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "1720",
+        "name": "Red Dragons"
+      },
+      "player": "#16 - Jason  Showalter",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1719",
+        "name": "Old Goats"
+      },
+      "player": "#17 - Dan  Pol",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1719",
+        "name": "Old Goats"
+      },
+      "player": "#44 - Sean  Cullen",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1719",
+        "name": "Old Goats"
+      },
+      "player": "#44 - Sean  Cullen",
+      "pim": 10,
+      "offense": "game msiconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1720",
+        "name": "Red Dragons"
+      },
+      "player": "#16 - Jason  Showalter",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1720",
+        "name": "Red Dragons"
+      },
+      "player": "#16 - Jason  Showalter",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:15:51.108Z"
+}

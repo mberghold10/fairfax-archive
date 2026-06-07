@@ -1,0 +1,121 @@
+{
+  "gameId": "13612",
+  "date": "2020-02-28",
+  "divId": 212,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1341",
+    "name": "Sparks"
+  },
+  "away": {
+    "teamId": "1340",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1340",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#14 - Chuckie  Ezike",
+      "assist1": "#34 - Josh  Davis",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "scorer": "#34 - Mike  Zaneis",
+      "assist1": "#33 - Mike  Wagner",
+      "assist2": "#7 - Ian  Stack"
+    },
+    {
+      "period": "2",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "scorer": "#33 - Mike  Wagner",
+      "assist1": "#23 - Eric  Vanhove",
+      "assist2": "#7 - Ian  Stack"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "player": "#42 - Ryan  Bruun",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "player": "#34 - Mike  Zaneis",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "player": "#33 - Mike  Wagner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:41",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "player": "#46 - Charlie  Fancher",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:09:14.768Z"
+}

@@ -1,0 +1,156 @@
+{
+  "gameId": "1012",
+  "date": "2019-10-02",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1263",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1266",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:54",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "scorer": "#44 - Greg  Hansen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:28",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#71 - Colin  Shin",
+      "assist1": "#6 - David  Dechslein",
+      "assist2": "#22 - Nate  Harrison"
+    },
+    {
+      "period": "1",
+      "time": "00:08:36",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#13 - Randy  Foster",
+      "assist2": "#28 - Charles  Hale"
+    },
+    {
+      "period": "2",
+      "time": "00:05:38",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#55 - Mark  Chapman",
+      "assist1": "#15 - Todd  Martin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:11",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#22 - Nate  Harrison",
+      "assist1": "#55 - Mark  Chapman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "player": "#35 - Tom  Flynn",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:25",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "player": "#13 - Randy  Foster",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:49",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#6 - David  Dechslein",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:58",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "player": "#12 - Brian  Dix",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "player": "#13 - Randy  Foster",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:54:27.879Z"
+}

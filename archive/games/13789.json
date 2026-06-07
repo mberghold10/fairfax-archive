@@ -1,0 +1,246 @@
+{
+  "gameId": "13789",
+  "date": "2020-11-25",
+  "divId": 217,
+  "seasonName": "Fall 2020",
+  "mode": "regular",
+  "home": {
+    "teamId": "1374",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1370",
+    "name": "Englewood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 4,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "1374",
+        "name": "Outlaws"
+      },
+      "scorer": "#19 - John  Bruckman",
+      "assist1": "#14 - Jason  Brue",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:56",
+      "team": {
+        "teamId": "1370",
+        "name": "Englewood"
+      },
+      "scorer": "#41 - Eugene  Livsics",
+      "assist1": "#28 - Charles  Hale",
+      "assist2": "#40 - Kareem  El-Alaily"
+    },
+    {
+      "period": "2",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1374",
+        "name": "Outlaws"
+      },
+      "scorer": "#77 - Erik  Kniaz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1370",
+        "name": "Englewood"
+      },
+      "scorer": "#2 - Jason  Abvowitz",
+      "assist1": "#40 - Kareem  El-Alaily",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:15",
+      "team": {
+        "teamId": "1370",
+        "name": "Englewood"
+      },
+      "scorer": "#7 - Joe  Hull",
+      "assist1": "#28 - Charles  Hale",
+      "assist2": "#8 - Rod  Wade"
+    },
+    {
+      "period": "2",
+      "time": "00:13:31",
+      "team": {
+        "teamId": "1374",
+        "name": "Outlaws"
+      },
+      "scorer": "#16 - Mike  Lodispoto",
+      "assist1": "#14 - Jason  Brue",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:31",
+      "team": {
+        "teamId": "1374",
+        "name": "Outlaws"
+      },
+      "scorer": "#41 - Tony  Gorney",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:42",
+      "team": {
+        "teamId": "1370",
+        "name": "Englewood"
+      },
+      "scorer": "#41 - Eugene  Livsics",
+      "assist1": "#8 - Rod  Wade",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:17",
+      "team": {
+        "teamId": "1370",
+        "name": "Englewood"
+      },
+      "scorer": "#2 - Jason  Abvowitz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1370",
+        "name": "Englewood"
+      },
+      "scorer": "#2 - Jason  Abvowitz",
+      "assist1": "#21 - Steve  Chan",
+      "assist2": "#28 - Charles  Hale"
+    },
+    {
+      "period": "3",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1374",
+        "name": "Outlaws"
+      },
+      "scorer": "#16 - Mike  Lodispoto",
+      "assist1": "#19 - John  Bruckman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:33",
+      "team": {
+        "teamId": "1370",
+        "name": "Englewood"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": "#28 - Charles  Hale"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:02",
+      "team": {
+        "teamId": "1374",
+        "name": "Outlaws"
+      },
+      "player": "#77 - Erik  Kniaz",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:01",
+      "team": {
+        "teamId": "1374",
+        "name": "Outlaws"
+      },
+      "player": "#14 - Jason  Brue",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:54",
+      "team": {
+        "teamId": "1374",
+        "name": "Outlaws"
+      },
+      "player": "#41 - Tony  Gorney",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:14",
+      "team": {
+        "teamId": "1374",
+        "name": "Outlaws"
+      },
+      "player": "#55 - Mike  Pearlstein",
+      "pim": 4,
+      "offense": "slash/rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:14",
+      "team": {
+        "teamId": "1370",
+        "name": "Englewood"
+      },
+      "player": "#40 - Kareem  El-Alaily",
+      "pim": 4,
+      "offense": "slash/rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "1374",
+        "name": "Outlaws"
+      },
+      "player": "#55 - Mike  Pearlstein",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:15:10.703Z"
+}

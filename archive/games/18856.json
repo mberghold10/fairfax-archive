@@ -1,0 +1,117 @@
+{
+  "gameId": "18856",
+  "date": "2026-02-13",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2002",
+    "name": "Megalosaurus"
+  },
+  "away": {
+    "teamId": "2006",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:33",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#22 - Terry  Saad",
+      "assist1": "#33 - Scott  Coco",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:19:30",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#37 - Michael  Wisniewski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:14",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#28 - Chris  Pirisino",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:24",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#28 - Chris  Pirisino",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:37",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#89 - Jim  Rathbone",
+      "assist1": "#10 - Ed  Hillard",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "player": "#37 - Michael  Wisniewski",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:43",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "player": "#90 - Phil  Cunningham",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:08:09.219Z"
+}

@@ -1,0 +1,117 @@
+{
+  "gameId": "16578",
+  "date": "2023-12-28",
+  "divId": 282,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1737",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1735",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1735",
+        "name": "Team USA"
+      },
+      "scorer": "#99 - Jon  Davoren",
+      "assist1": "#54 - Dan  Bagley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1735",
+        "name": "Team USA"
+      },
+      "scorer": "#34 - Jim  Morgan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:11",
+      "team": {
+        "teamId": "1735",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#28 - Howard  Schumann",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:28",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "scorer": "#88 - Anthony  DeJohn",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:25",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "scorer": "#88 - Anthony  DeJohn",
+      "assist1": "#25 - Greg  Reece",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "1735",
+        "name": "Team USA"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:44",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "player": "#9 - Rick  Cole",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:18:41.977Z"
+}

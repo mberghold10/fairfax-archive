@@ -1,0 +1,143 @@
+{
+  "gameId": "12279",
+  "date": "2018-11-15",
+  "divId": 195,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1237",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1239",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1237",
+        "name": "Penguins"
+      },
+      "scorer": "#15 - Mark  Rudnicki",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1237",
+        "name": "Penguins"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": "#15 - Mark  Rudnicki",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:59",
+      "team": {
+        "teamId": "1239",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#20 - Matt  Michelson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "1237",
+        "name": "Penguins"
+      },
+      "scorer": "#15 - Mark  Rudnicki",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:25",
+      "team": {
+        "teamId": "1239",
+        "name": "Old Goats"
+      },
+      "scorer": "#28 - Marty  Gryski",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1239",
+        "name": "Old Goats"
+      },
+      "player": "#37 - Nick  Desport",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:11",
+      "team": {
+        "teamId": "1239",
+        "name": "Old Goats"
+      },
+      "player": "#4 - Steve  Bradley",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "1237",
+        "name": "Penguins"
+      },
+      "player": "#25 - Jeff  Wojtala",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:33",
+      "team": {
+        "teamId": "1239",
+        "name": "Old Goats"
+      },
+      "player": "#5 - Howie  Uman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:48:43.436Z"
+}

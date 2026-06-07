@@ -1,0 +1,163 @@
+{
+  "gameId": "11239",
+  "date": "2018-01-03",
+  "divId": 171,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1092",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "1090",
+    "name": "Englewood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:04",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#16 - Bill  Thompson",
+      "assist1": "#34 - marty  Hayden",
+      "assist2": "#99 - Jarmo  Tarvainen"
+    },
+    {
+      "period": "1",
+      "time": "00:09:41",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#10 - Patrick  Robichaud",
+      "assist2": "#18 - Ari  Fingeroth"
+    },
+    {
+      "period": "1",
+      "time": "00:12:30",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#29 - Brian  Young",
+      "assist2": "#8 - Jason  Eister"
+    },
+    {
+      "period": "2",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#15 - Kevin  Powers",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": "#8 - Jason  Eister"
+    },
+    {
+      "period": "2",
+      "time": "00:07:19",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#14 - Mike  Ferrone",
+      "assist1": "#8 - Jason  Eister",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:21",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#7 - Joe  Hull",
+      "assist2": "#27 - John  Hitesman"
+    },
+    {
+      "period": "3",
+      "time": "00:09:05",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#27 - John  Hitesman",
+      "assist1": "#28 - Charles  Hale",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:30",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#29 - Brian  Young",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:19",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "player": "#23 - Gordon  Scott",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "player": "#3 - Mario  Regan",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "player": "#16 - Bill  Thompson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:18:51.653Z"
+}

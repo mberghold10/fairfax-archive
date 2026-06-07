@@ -1,0 +1,132 @@
+{
+  "gameId": "13100",
+  "date": "2019-07-21",
+  "divId": 205,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1299",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1301",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#18 - Jimmy  Feeney",
+      "assist1": "#6 - JB  Merritt",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:00",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#4 - Sam  Hauslohner",
+      "assist1": "#67 - Brian  Landers",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:09",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#9 - Julien  De Grandpre",
+      "assist1": "#4 - Derek  Langdon",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:51",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#21 - Joshua  Vichness",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:16",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#28 - Ed  Holleran",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:42",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:34",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#37 - Mike  Martineau",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "player": "#44 - Jim  McGovern",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:00:46.808Z"
+}

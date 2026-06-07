@@ -1,0 +1,115 @@
+{
+  "gameId": "16812",
+  "date": "2024-02-08",
+  "divId": 282,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1736",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1735",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:29",
+      "team": {
+        "teamId": "1735",
+        "name": "Team USA"
+      },
+      "scorer": "#10 - Mike  Brahmey",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": "#23 - Mike  OBrien"
+    },
+    {
+      "period": "2",
+      "time": "00:00:39",
+      "team": {
+        "teamId": "1735",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": "#99 - Jon  Davoren"
+    },
+    {
+      "period": "2",
+      "time": "00:04:05",
+      "team": {
+        "teamId": "1736",
+        "name": "Grey Goons"
+      },
+      "scorer": "#81 - Nate  Breton",
+      "assist1": "#27 - Aemon  Cashin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1736",
+        "name": "Grey Goons"
+      },
+      "scorer": "#27 - Aemon  Cashin",
+      "assist1": "#4 - John  Conmy",
+      "assist2": "#50 - Matt  Cerce"
+    },
+    {
+      "period": "3",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1736",
+        "name": "Grey Goons"
+      },
+      "scorer": "#81 - Nate  Breton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:14",
+      "team": {
+        "teamId": "1736",
+        "name": "Grey Goons"
+      },
+      "scorer": "#50 - Matt  Cerce",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1735",
+        "name": "Team USA"
+      },
+      "player": "#23 - Mike  OBrien",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:18:59.007Z"
+}

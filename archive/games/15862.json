@@ -1,0 +1,143 @@
+{
+  "gameId": "15862",
+  "date": "2023-05-13",
+  "divId": 268,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1649",
+    "name": "Punishers HC"
+  },
+  "away": {
+    "teamId": "1654",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:28",
+      "team": {
+        "teamId": "1649",
+        "name": "Punishers HC"
+      },
+      "scorer": "#27 - Dave  Lin",
+      "assist1": "#26 - Alex  Cordon",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:45",
+      "team": {
+        "teamId": "1649",
+        "name": "Punishers HC"
+      },
+      "scorer": "#21 - Gordon  Scott",
+      "assist1": "#8 - Grant  Dougans",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1654",
+        "name": "Chiefs"
+      },
+      "scorer": "#81 - Matthew  Gaffney",
+      "assist1": "#91 - Sean  Morrow",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:01",
+      "team": {
+        "teamId": "1654",
+        "name": "Chiefs"
+      },
+      "scorer": "#33 - Adam  Bartholomew",
+      "assist1": "#4 - Dave  Sinniger",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:23",
+      "team": {
+        "teamId": "1649",
+        "name": "Punishers HC"
+      },
+      "scorer": "#5 - Mike  Jones",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1649",
+        "name": "Punishers HC"
+      },
+      "player": "#5 - Mike  Jones",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:39",
+      "team": {
+        "teamId": "1654",
+        "name": "Chiefs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:47",
+      "team": {
+        "teamId": "1649",
+        "name": "Punishers HC"
+      },
+      "player": "#21 - Gordon  Scott",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1649",
+        "name": "Punishers HC"
+      },
+      "player": "#37 - Nick  Desport",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:01:42.293Z"
+}

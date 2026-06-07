@@ -1,0 +1,128 @@
+{
+  "gameId": "14283",
+  "date": "2021-09-10",
+  "divId": 231,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1444",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1443",
+    "name": "Redhawks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:55",
+      "team": {
+        "teamId": "1443",
+        "name": "Redhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "1444",
+        "name": "Englewood"
+      },
+      "scorer": "#2 - Jason  Abkowitz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:19",
+      "team": {
+        "teamId": "1444",
+        "name": "Englewood"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1444",
+        "name": "Englewood"
+      },
+      "scorer": "#2 - Jason  Abkowitz",
+      "assist1": "#21 - Steve  Chan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:33",
+      "team": {
+        "teamId": "1444",
+        "name": "Englewood"
+      },
+      "scorer": "#17 - Dominic  Gurshman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:33",
+      "team": {
+        "teamId": "1444",
+        "name": "Englewood"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:22",
+      "team": {
+        "teamId": "1443",
+        "name": "Redhawks"
+      },
+      "player": "#46 - Steve  Walker",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:54",
+      "team": {
+        "teamId": "1444",
+        "name": "Englewood"
+      },
+      "player": "#8 - Rod  Wade",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:24:24.367Z"
+}

@@ -1,0 +1,165 @@
+{
+  "gameId": "15058",
+  "date": "2022-05-05",
+  "divId": 254,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1564",
+    "name": "Anonymous"
+  },
+  "away": {
+    "teamId": "1569",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "scorer": "#77 - Erik  Bergman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:16",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "scorer": "#7 - Peter  Grose",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": "#11 - Tom  Fergus"
+    },
+    {
+      "period": "2",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "1569",
+        "name": "Team USA"
+      },
+      "scorer": "#34 - Jim  Morgan",
+      "assist1": "#44 - Greg  Powers",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:54",
+      "team": {
+        "teamId": "1569",
+        "name": "Team USA"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": "#10 - Mike  Brahamey",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:08",
+      "team": {
+        "teamId": "1569",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": "#27 - Jessie  Brand",
+      "assist2": "#18 - Pete  Poczatek"
+    },
+    {
+      "period": "3",
+      "time": "00:11:32",
+      "team": {
+        "teamId": "1569",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": "#44 - Greg  Powers"
+    },
+    {
+      "period": "3",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "1569",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#44 - Greg  Powers",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "player": "#53 - Don  Modder",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "player": "#5 - Eddy  Lucas",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "player": "#77 - Erik  Bergman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:27",
+      "team": {
+        "teamId": "1569",
+        "name": "Team USA"
+      },
+      "player": "#8 - Jamie  Sengheiser",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:45:35.674Z"
+}

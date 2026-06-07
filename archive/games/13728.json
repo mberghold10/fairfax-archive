@@ -1,0 +1,115 @@
+{
+  "gameId": "13728",
+  "date": "2020-02-01",
+  "divId": 216,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1363",
+    "name": "Roughnecks"
+  },
+  "away": {
+    "teamId": "1367",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:21",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#16 - Chris  Holbert",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:09",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#5 - Chris  Oman",
+      "assist1": "#28 - Richard  Pettey",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:45",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#41 - Alessio  Evangelista",
+      "assist1": "#5 - Lars  Hjelm",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#55 - Chad  Daniels",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#6 - Armand  Alacbay",
+      "assist2": "#33 - Brandon  Boling"
+    },
+    {
+      "period": "3",
+      "time": "00:09:50",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#28 - Richard  Pettey",
+      "assist1": "#74 - Mik  Berwin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:09",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "player": "#28 - Richard  Pettey",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:14:23.363Z"
+}

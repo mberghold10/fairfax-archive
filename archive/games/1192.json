@@ -1,0 +1,202 @@
+{
+  "gameId": "1192",
+  "date": "2022-04-18",
+  "divId": 242,
+  "seasonName": "Winter 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1498",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1499",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:50",
+      "team": {
+        "teamId": "1498",
+        "name": "Avalanche"
+      },
+      "scorer": "#6 - Tom  Gleason",
+      "assist1": "#3 - Dylan  Tureff",
+      "assist2": "#43 - Alex  Utano"
+    },
+    {
+      "period": "2",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "1499",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#10 - Mike  Carew",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:55",
+      "team": {
+        "teamId": "1498",
+        "name": "Avalanche"
+      },
+      "scorer": "#33 - Steven  Terenzlo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:54",
+      "team": {
+        "teamId": "1498",
+        "name": "Avalanche"
+      },
+      "scorer": "#33 - Steven  Terenzlo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:48",
+      "team": {
+        "teamId": "1499",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": "#10 - Mike  Carew",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "1498",
+        "name": "Avalanche"
+      },
+      "scorer": "#77 - Caleb  Sohl",
+      "assist1": "#43 - Alex  Utano",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:43",
+      "team": {
+        "teamId": "1498",
+        "name": "Avalanche"
+      },
+      "scorer": "#33 - Steven  Terenzlo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:11",
+      "team": {
+        "teamId": "1499",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#12 - Steven  Courson",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "1499",
+        "name": "British Bulldogs"
+      },
+      "player": "#16 - Greg  Pomeroy",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:03",
+      "team": {
+        "teamId": "1498",
+        "name": "Avalanche"
+      },
+      "player": "#19 - James  Howe",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:53",
+      "team": {
+        "teamId": "1499",
+        "name": "British Bulldogs"
+      },
+      "player": "#68 - Tommy  Reynolds",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:19",
+      "team": {
+        "teamId": "1499",
+        "name": "British Bulldogs"
+      },
+      "player": "#10 - Mike  Carew",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1499",
+        "name": "British Bulldogs"
+      },
+      "player": "#100 - Goalie  Substitue",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "1498",
+        "name": "Avalanche"
+      },
+      "player": "#33 - Steven  Terenzlo",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:32:16.755Z"
+}

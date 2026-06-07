@@ -1,0 +1,150 @@
+{
+  "gameId": "13310",
+  "date": "2019-12-16",
+  "divId": 209,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1321",
+    "name": "Bulldogs"
+  },
+  "away": {
+    "teamId": "1322",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 4,
+      "p3": 0,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "1321",
+        "name": "Bulldogs"
+      },
+      "scorer": "#90 - Shawn  McEvoy",
+      "assist1": "#79 - Jeff  Vandenberghe",
+      "assist2": "#9 - Cliff  Wilts"
+    },
+    {
+      "period": "1",
+      "time": "00:02:17",
+      "team": {
+        "teamId": "1321",
+        "name": "Bulldogs"
+      },
+      "scorer": "#7 - Jimmy  Shelton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1321",
+        "name": "Bulldogs"
+      },
+      "scorer": "#79 - Jeff  Vandenberghe",
+      "assist1": "#90 - Shawn  McEvoy",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:35",
+      "team": {
+        "teamId": "1321",
+        "name": "Bulldogs"
+      },
+      "scorer": "#7 - Jimmy  Shelton",
+      "assist1": "#24 - Brian  Crossin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "1321",
+        "name": "Bulldogs"
+      },
+      "scorer": "#79 - Jeff  Vandenberghe",
+      "assist1": "#9 - Cliff  Wilts",
+      "assist2": "#90 - Shawn  McEvoy"
+    },
+    {
+      "period": "2",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "scorer": "#12 - Chris  Yoko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:35",
+      "team": {
+        "teamId": "1321",
+        "name": "Bulldogs"
+      },
+      "scorer": "#5 - Chris  Howard",
+      "assist1": "#7 - Jimmy  Shelton",
+      "assist2": "#24 - Brian  Crossin"
+    },
+    {
+      "period": "2",
+      "time": "00:09:52",
+      "team": {
+        "teamId": "1321",
+        "name": "Bulldogs"
+      },
+      "scorer": "#7 - Jimmy  Shelton",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "player": "#55 - Scott  Dullea",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "player": "#12 - Chris  Yoko",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:05:14.276Z"
+}

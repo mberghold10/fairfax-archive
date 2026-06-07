@@ -1,0 +1,217 @@
+{
+  "gameId": "18802",
+  "date": "2026-02-08",
+  "divId": 326,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2010",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "2008",
+    "name": "Jacks GreyBeards"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 4,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#8 - Rod  Wade",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:20",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#15 - John  Cushing",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:01",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#8 - Rod  Wade",
+      "assist1": "#77 - Oleg  Nayndin",
+      "assist2": "#21 - Steve  Chan"
+    },
+    {
+      "period": "3",
+      "time": "00:07:14",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#25 - Chris  Lettieri",
+      "assist1": "#8 - Jason  Eister",
+      "assist2": "#49 - Greg  Mullen"
+    },
+    {
+      "period": "3",
+      "time": "00:09:13",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": "#18 - Mike  Sharp",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:05",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#49 - Greg  Mullen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:54",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#55 - Brian  Compagnone",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:20",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#49 - Greg  Mullen",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:36",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "player": "#13 - Bob  Chagnot",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:56",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "player": "#68 - Steve  Vereb",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:08",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "player": "#15 - John  Cushing",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:02",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "player": "#15 - John  Cushing",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:05:42.261Z"
+}

@@ -1,0 +1,167 @@
+{
+  "gameId": "13456",
+  "date": "2019-11-30",
+  "divId": 215,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1357",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1358",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:34",
+      "team": {
+        "teamId": "1358",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#24 - Brian  Crossin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1358",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#21 - Steve  Kaplan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:47",
+      "team": {
+        "teamId": "1358",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#20 - Paul  Flood",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:09",
+      "team": {
+        "teamId": "1357",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#13 - Trevor  Wallace",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:24",
+      "team": {
+        "teamId": "1358",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#20 - Paul  Flood",
+      "assist2": "#21 - Steve  Kaplan"
+    },
+    {
+      "period": "3",
+      "time": "00:14:09",
+      "team": {
+        "teamId": "1357",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#22 - Jimmy  Nguyen",
+      "assist1": "#48 - Randy  Sasai",
+      "assist2": "#49 - Romano  Dickerson"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:56",
+      "team": {
+        "teamId": "1357",
+        "name": "Maple Leafs"
+      },
+      "player": "#19 - Bryan  Moffett",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "1358",
+        "name": "Ice Dogs"
+      },
+      "player": "#24 - Brian  Crossin",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "1358",
+        "name": "Ice Dogs"
+      },
+      "player": "#0 - Ruben  Garcia",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:00",
+      "team": {
+        "teamId": "1357",
+        "name": "Maple Leafs"
+      },
+      "player": "#49 - Romano  Dickerson",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:10",
+      "team": {
+        "teamId": "1357",
+        "name": "Maple Leafs"
+      },
+      "player": "#13 - Trevor  Wallace",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:12:54.836Z"
+}

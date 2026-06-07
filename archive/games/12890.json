@@ -1,0 +1,117 @@
+{
+  "gameId": "12890",
+  "date": "2019-06-09",
+  "divId": 206,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1304",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "1303",
+    "name": "Steamed Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:20",
+      "team": {
+        "teamId": "1304",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#36 - Brian  Lusby",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#16 - Wei  Wang",
+      "assist1": "#67 - John F Krotzer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:42",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#10 - Matthew  Allen",
+      "assist1": "#61 - Jake  Middel",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#61 - Jake  Middel",
+      "assist1": "#92 - Jamie  Street",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:37",
+      "team": {
+        "teamId": "1304",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#29 - Nick  Fishter",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1304",
+        "name": "Mad Dogs"
+      },
+      "player": "#18 - Lee  Freedman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1304",
+        "name": "Mad Dogs"
+      },
+      "player": "#33 - Jory  Rubenstein",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:01:45.412Z"
+}

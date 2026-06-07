@@ -1,0 +1,82 @@
+{
+  "gameId": "10405",
+  "date": "2017-03-12",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1021",
+    "name": "Lightning"
+  },
+  "away": {
+    "teamId": "1017",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:39",
+      "team": {
+        "teamId": "1017",
+        "name": "Dragons"
+      },
+      "scorer": "#11 - Andy  Jones",
+      "assist1": "#77 - Dylan  Gerhard",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:25",
+      "team": {
+        "teamId": "1017",
+        "name": "Dragons"
+      },
+      "scorer": "#46 - Chris  Moore",
+      "assist1": "#77 - Dylan  Gerhard",
+      "assist2": "#11 - Andy  Jones"
+    },
+    {
+      "period": "3",
+      "time": "00:07:31",
+      "team": {
+        "teamId": "1017",
+        "name": "Dragons"
+      },
+      "scorer": "#7 - Dave  Fudeman",
+      "assist1": "#46 - Chris  Moore",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:03:03",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#47 - Dave  LeKuch",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:05:08.244Z"
+}

@@ -1,0 +1,161 @@
+{
+  "gameId": "1045",
+  "date": "2020-08-01",
+  "divId": 210,
+  "seasonName": "Winter 2019",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1329",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1331",
+    "name": "Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 8
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:44",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#25 - Hung  Pham",
+      "assist1": "#6 - Jon  Lauder",
+      "assist2": "#40 - Matt  Mickelson"
+    },
+    {
+      "period": "1",
+      "time": "00:10:29",
+      "team": {
+        "teamId": "1329",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#42 - Adam  Russell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:47",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:35",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#40 - Matt  Mickelson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:04",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": "#12 - David  OMalley",
+      "assist2": "#37 - Nick  Desport"
+    },
+    {
+      "period": "2",
+      "time": "00:14:27",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#6 - Jon  Lauder",
+      "assist2": "#1 - Matt  ODriscoll"
+    },
+    {
+      "period": "3",
+      "time": "00:05:29",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": "#37 - Nick  Desport"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:00",
+      "team": {
+        "teamId": "1329",
+        "name": "Blue Crabs"
+      },
+      "player": "#36 - Brian  Lusby",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:45",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "player": "#37 - Nick  Desport",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:07:07.070Z"
+}

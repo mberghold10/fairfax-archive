@@ -1,0 +1,119 @@
+{
+  "gameId": "16361",
+  "date": "2023-09-01",
+  "divId": 274,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1690",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1691",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#4 - Rob  Ryan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#21 - Joe  Rhodes",
+      "assist1": "#5 - Mike  Fottrell",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:10",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "scorer": "#29 - James  Kim",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#77 - Scott  Peterson",
+      "assist1": "#9 - Alex  Mench",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#96 - Jeff  Moore",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:10",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "player": "#29 - James  Kim",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#11 - George  Cernica",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:10:25.789Z"
+}

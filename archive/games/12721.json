@@ -1,0 +1,169 @@
+{
+  "gameId": "12721",
+  "date": "2019-06-09",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1262",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "1263",
+    "name": "Englewood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "scorer": "#13 - Randy  Foster",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:26",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": "#82 - Neil  Schoenthaler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:36",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#23 - Gordon  Scott",
+      "assist1": "#24 - Tom  Spiewak",
+      "assist2": "#82 - Neil  Schoenthaler"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:55",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "player": "#4 - Mark  Sullivan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "player": "#16 - Bill  Thompson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#24 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "player": "#13 - Randy  Foster",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:46",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "player": "#3 - Jeff  Regan",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:34",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#82 - Neil  Schoenthaler",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:53:26.205Z"
+}

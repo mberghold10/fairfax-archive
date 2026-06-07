@@ -1,0 +1,152 @@
+{
+  "gameId": "14723",
+  "date": "2022-02-09",
+  "divId": 245,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1516",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1517",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": "#4 - Mark  Sullivan"
+    },
+    {
+      "period": "1",
+      "time": "00:07:46",
+      "team": {
+        "teamId": "1517",
+        "name": "Nortec"
+      },
+      "scorer": "#10 - Justin  Arbes",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:36",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "scorer": "#7 - Joseph  Hull",
+      "assist1": "#13 - Randy  Foster",
+      "assist2": "#33 - Sergey  Kuzentsov"
+    },
+    {
+      "period": "2",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1517",
+        "name": "Nortec"
+      },
+      "scorer": "#12 - Sami  Kymalainen",
+      "assist1": "#85 - Aaron  Dobbs",
+      "assist2": "#4 - Tad  Jose"
+    },
+    {
+      "period": "3",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "scorer": "#36 - Jon  Stehle",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#36 - Jon  Stehle",
+      "assist2": "#33 - Sergey  Kuzentsov"
+    },
+    {
+      "period": "3",
+      "time": "00:10:58",
+      "team": {
+        "teamId": "1517",
+        "name": "Nortec"
+      },
+      "scorer": "#12 - Sami  Kymalainen",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1517",
+        "name": "Nortec"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:39",
+      "team": {
+        "teamId": "1517",
+        "name": "Nortec"
+      },
+      "player": "#2 - Bobby  Mervine",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:57",
+      "team": {
+        "teamId": "1516",
+        "name": "Jacks"
+      },
+      "player": "#2 - Tim  Commerford",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:35:29.630Z"
+}

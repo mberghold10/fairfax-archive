@@ -1,0 +1,215 @@
+{
+  "gameId": "12735",
+  "date": "2019-07-07",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1266",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1262",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": "#28 - Alex  Henry"
+    },
+    {
+      "period": "1",
+      "time": "00:04:49",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#55 - Mark  Chapman",
+      "assist1": "#9 - Sam  Ziesler",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#82 - Neil  Schoenthaler",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:11",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#0 - Robert  Richard",
+      "assist1": "#22 - Nate  Harrison",
+      "assist2": "#6 - David  Dechslein"
+    },
+    {
+      "period": "2",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#0 - Robert  Richard",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#0 - Robert  Richard",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:49",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#23 - Gordon  Scott",
+      "assist1": "#82 - Neil  Schoenthaler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:29",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#71 - Colin  Shin",
+      "assist1": "#9 - Sam  Ziesler",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#22 - Nate  Harrison",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:45",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#55 - Mark  Chapman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:14",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:06",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#6 - David  Dechslein",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:33",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#19 - Joe  Dunn",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:37",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#82 - Neil  Schoenthaler",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:53:38.263Z"
+}

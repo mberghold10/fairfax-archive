@@ -1,0 +1,165 @@
+{
+  "gameId": "10225",
+  "date": "2017-01-02",
+  "divId": 157,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1007",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1006",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "scorer": "#15 - Sean  Maniuszko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1007",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#12 - Steven  Courson",
+      "assist1": "#24 - Jeff  Robins",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:43",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "scorer": "#0 - Tommy  Meaux",
+      "assist1": "#64 - Derek  Bluth",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:28",
+      "team": {
+        "teamId": "1007",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#12 - Steven  Courson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:34",
+      "team": {
+        "teamId": "1007",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#16 - Chris  Kelly",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "scorer": "#15 - Sean  Maniuszko",
+      "assist1": "#0 - Tommy  Meaux",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:15",
+      "team": {
+        "teamId": "1007",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#21 - Brent  Jefferson",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:44",
+      "team": {
+        "teamId": "1007",
+        "name": "British Bulldogs"
+      },
+      "player": "#43 - Bill  Picard",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:46",
+      "team": {
+        "teamId": "1007",
+        "name": "British Bulldogs"
+      },
+      "player": "#5 - Andy  Loggia",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:19",
+      "team": {
+        "teamId": "1007",
+        "name": "British Bulldogs"
+      },
+      "player": "#16 - Chris  Kelly",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:19",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "player": "#14 - Samuel  Marchio",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:01:54.223Z"
+}

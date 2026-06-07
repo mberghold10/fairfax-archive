@@ -1,0 +1,73 @@
+{
+  "gameId": "13956",
+  "date": "2021-03-28",
+  "divId": 230,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1442",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1440",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:13:17",
+      "team": {
+        "teamId": "1440",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#12 - Bert  Huser",
+      "assist1": "#7 - James  Waddick",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "1442",
+        "name": "Red Wings"
+      },
+      "player": "#40 - Howard  Ehrlich",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1442",
+        "name": "Red Wings"
+      },
+      "player": "#10 - Owen  Schaefer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:23:32.374Z"
+}

@@ -1,0 +1,141 @@
+{
+  "gameId": "17418",
+  "date": "2024-09-08",
+  "divId": 295,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1806",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1804",
+    "name": "Hershey Beers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1804",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#8 - Tim  Lo",
+      "assist1": "#87 - Feng  Lan",
+      "assist2": "#23 - Mark  Cappello"
+    },
+    {
+      "period": "1",
+      "time": "00:12:20",
+      "team": {
+        "teamId": "1806",
+        "name": "Red Wings"
+      },
+      "scorer": "#36 - Greg  Kowalski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1806",
+        "name": "Red Wings"
+      },
+      "scorer": "#36 - Greg  Kowalski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:12",
+      "team": {
+        "teamId": "1804",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#87 - Feng  Lan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:34",
+      "team": {
+        "teamId": "1806",
+        "name": "Red Wings"
+      },
+      "scorer": "#20 - David  Humes",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "1806",
+        "name": "Red Wings"
+      },
+      "scorer": "#25 - James  Chu",
+      "assist1": "#0 - Brody  Walkinshaw",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "1804",
+        "name": "Hershey Beers"
+      },
+      "player": "#87 - Feng  Lan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:00",
+      "team": {
+        "teamId": "1804",
+        "name": "Hershey Beers"
+      },
+      "player": "#8 - Tim  Lo",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1804",
+        "name": "Hershey Beers"
+      },
+      "player": "#23 - Mark  Cappello",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:33:03.923Z"
+}

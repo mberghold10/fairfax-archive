@@ -1,0 +1,167 @@
+{
+  "gameId": "17239",
+  "date": "2024-10-19",
+  "divId": 287,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1760",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1762",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "scorer": "#7 - Alex  Rinaldi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:35",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "1762",
+        "name": "Dragons"
+      },
+      "scorer": "#47 - Raymond  Jakubowski",
+      "assist1": "#89 - AJ  Saleh",
+      "assist2": "#3 - Ilana  Bell"
+    },
+    {
+      "period": "2",
+      "time": "00:14:12",
+      "team": {
+        "teamId": "1762",
+        "name": "Dragons"
+      },
+      "scorer": "#3 - Ilana  Bell",
+      "assist1": "#7 - Connor  Anderson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:53",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:06",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "scorer": "#12 - Chris  Yoko",
+      "assist1": "#7 - Alex  Rinaldi",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:20",
+      "team": {
+        "teamId": "1762",
+        "name": "Dragons"
+      },
+      "player": "#7 - Connor  Anderson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:58",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "player": "#4 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "player": "#15 - David  Eyre",
+      "pim": 4,
+      "offense": "cross check/unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:13",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:01",
+      "team": {
+        "teamId": "1762",
+        "name": "Dragons"
+      },
+      "player": "#82 - Caleb  Sohl",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:24:41.583Z"
+}

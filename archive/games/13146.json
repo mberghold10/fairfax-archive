@@ -1,0 +1,167 @@
+{
+  "gameId": "13146",
+  "date": "2019-08-31",
+  "divId": 206,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1304",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "1315",
+    "name": "Turtle Power"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:41",
+      "team": {
+        "teamId": "1315",
+        "name": "Turtle Power"
+      },
+      "scorer": "#21 - Jonathan  Miller",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:07",
+      "team": {
+        "teamId": "1315",
+        "name": "Turtle Power"
+      },
+      "scorer": "#21 - Jonathan  Miller",
+      "assist1": "#7 - Emily  Hautbois",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1315",
+        "name": "Turtle Power"
+      },
+      "scorer": "#26 - Dan  Meaux",
+      "assist1": "#41 - Jason  Stewart",
+      "assist2": "#21 - Jonathan  Miller"
+    },
+    {
+      "period": "2",
+      "time": "00:03:46",
+      "team": {
+        "teamId": "1304",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#41 - Alessio  Evangelista",
+      "assist1": "#29 - Nick  Fishter",
+      "assist2": "#34 - Josh  Davis"
+    },
+    {
+      "period": "2",
+      "time": "00:14:47",
+      "team": {
+        "teamId": "1304",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#29 - Nick  Fishter",
+      "assist1": "#34 - Josh  Davis",
+      "assist2": "#41 - Alessio  Evangelista"
+    },
+    {
+      "period": "3",
+      "time": "00:03:26",
+      "team": {
+        "teamId": "1304",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": "#11 - Cynthia  Huber",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1315",
+        "name": "Turtle Power"
+      },
+      "player": "#7 - Emily  Hautbois",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:09",
+      "team": {
+        "teamId": "1315",
+        "name": "Turtle Power"
+      },
+      "player": "#7 - Emily  Hautbois",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:52",
+      "team": {
+        "teamId": "1304",
+        "name": "Mad Dogs"
+      },
+      "player": "#18 - Lee  Freedman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:38",
+      "team": {
+        "teamId": "1315",
+        "name": "Turtle Power"
+      },
+      "player": "#41 - Jason  Stewart",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1315",
+        "name": "Turtle Power"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:02:18.453Z"
+}

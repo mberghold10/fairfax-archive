@@ -1,0 +1,161 @@
+{
+  "gameId": "10125",
+  "date": "2016-11-26",
+  "divId": 158,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1016",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1014",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 1,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:19",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#10 - Chris  Chagnon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "scorer": "#80 - Matt  Rogers",
+      "assist1": "#19 - Colin  Million",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:56",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "scorer": "#88 - Brian  Ray",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:01",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#22 - JongJae  Yoo",
+      "assist1": "#11 - Sam  Marchio",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:29",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#6 - Faraz  Izadi",
+      "assist1": "#10 - Chris  Chagnon",
+      "assist2": "#11 - Sam  Marchio"
+    },
+    {
+      "period": "3",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "scorer": "#21 - Jim  Callow",
+      "assist1": "#80 - Matt  Rogers",
+      "assist2": "#91 - Chris  Callanan"
+    },
+    {
+      "period": "3",
+      "time": "00:05:33",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#74 - Jeff  Chistolini",
+      "assist1": "#18 - Jeff  Rummel",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "scorer": "#19 - Colin  Million",
+      "assist1": "#88 - Brian  Ray",
+      "assist2": "#17 - Steve  Schooner"
+    },
+    {
+      "period": "4",
+      "time": "00:03:32",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "scorer": "#19 - Colin  Million",
+      "assist1": "#88 - Brian  Ray",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:01",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "player": "#88 - Brian  Ray",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "player": "#90 - Justin  MacDonald",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:03:02.996Z"
+}

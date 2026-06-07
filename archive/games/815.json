@@ -1,0 +1,121 @@
+{
+  "gameId": "815",
+  "date": "2017-04-02",
+  "divId": 160,
+  "seasonName": "Winter 2016",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1028",
+    "name": "Jurassic Puck"
+  },
+  "away": {
+    "teamId": "1025",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#91 - Stephen  Tarditi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:12",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#50 - Steve  Bennett",
+      "assist1": "#25 - Jack  Hur",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:11",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#21 - Steve  Kaplan",
+      "assist1": "#93 - David  Taves",
+      "assist2": "#9 - Paul  Moretti"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:48",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#11 - Dan  Owens",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#88 - Jason  Searight",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#57 - Anne  Bennett",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:27",
+      "team": {
+        "teamId": "1025",
+        "name": "Mad Dogs"
+      },
+      "player": "#16 - Brian  Murphy",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:43:41.212Z"
+}

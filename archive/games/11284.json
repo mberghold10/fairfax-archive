@@ -1,0 +1,163 @@
+{
+  "gameId": "11284",
+  "date": "2018-02-01",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1095",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1100",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#12 - Paul  Zalocha",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#21 - Grant  Gibbons",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:19",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "scorer": "#21 - Mike  Hawthorne",
+      "assist1": "#20 - Matt  Michelson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:47",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "scorer": "#17 - Dan  Pol",
+      "assist1": "#20 - Matt  Michelson",
+      "assist2": "#21 - Mike  Hawthorne"
+    },
+    {
+      "period": "3",
+      "time": "00:01:42",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#55 - Gig  Mikell",
+      "assist1": "#69 - Ron  Fishbeck",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "scorer": "#21 - Mike  Hawthorne",
+      "assist1": "#20 - Matt  Michelson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:11",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#49 - Greg  Mullen",
+      "assist1": "#55 - Gig  Mikell",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:03",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#49 - Greg  Mullen",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "player": "#28 - Alex  Henry",
+      "pim": 4,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:48",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "player": "#21 - Mike  Hawthorne",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:38",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "player": "#21 - Grant  Gibbons",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:20:29.168Z"
+}

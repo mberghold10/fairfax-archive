@@ -1,0 +1,165 @@
+{
+  "gameId": "12983",
+  "date": "2019-08-04",
+  "divId": 200,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1269",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1274",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": "#23 - Mike  OBrien",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:27",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#18 - Pete  Poczatek",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:11",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#44 - Greg  Powers",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:33",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#44 - Greg  Powers",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:51",
+      "team": {
+        "teamId": "1274",
+        "name": "Islanders"
+      },
+      "scorer": "#14 - Kevin  Bowser",
+      "assist1": "#77 - Joseph  Berret",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:58",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": "#12 - Jason  Wakeman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "1274",
+        "name": "Islanders"
+      },
+      "scorer": "#14 - Kevin  Bowser",
+      "assist1": "#77 - Joseph  Berret",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:55",
+      "team": {
+        "teamId": "1274",
+        "name": "Islanders"
+      },
+      "player": "#14 - Kevin  Bowser",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1274",
+        "name": "Islanders"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:03",
+      "team": {
+        "teamId": "1274",
+        "name": "Islanders"
+      },
+      "player": "#1 - Chris  Beach",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:19",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "player": "#16 - Tom  Rodeheaver",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:55:24.402Z"
+}

@@ -1,0 +1,160 @@
+{
+  "gameId": "10345",
+  "date": "2017-01-08",
+  "divId": 160,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1027",
+    "name": "Sparks"
+  },
+  "away": {
+    "teamId": "1028",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#19 - Nick  Adamonis",
+      "assist1": "#44 - George  Cernica",
+      "assist2": "#66 - Steven  Spector"
+    },
+    {
+      "period": "1",
+      "time": "00:02:35",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#66 - Steven  Spector",
+      "assist1": "#88 - Jason  Searight",
+      "assist2": "#19 - Nick  Adamonis"
+    },
+    {
+      "period": "1",
+      "time": "00:17:06",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#11 - Dan  Owens",
+      "assist1": "#19 - Nick  Adamonis",
+      "assist2": "#88 - Jason  Searight"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:29",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "player": "#5 - Zac  Graber",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:00",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "player": "#5 - Zac  Graber",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:35",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#25 - Jack  Hur",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "player": "#4 - Matt  Gelman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "player": "#33 - Mike  Wagner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#66 - Steven  Spector",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:58",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "player": "#12 - John  Porvaznik",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:43:11.813Z"
+}

@@ -1,0 +1,150 @@
+{
+  "gameId": "1545",
+  "date": "2025-06-19",
+  "divId": 306,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1874",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1875",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#23 - Rick  Gorgone",
+      "assist1": "#18 - Dominic  Pistolessi",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:29",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#17 - Diron  Insley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": "#18 - Pete  Poczatek",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:56",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#17 - Diron  Insley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#18 - Pete  Poczatek",
+      "assist2": "#5 - Oleg  Kolodin"
+    },
+    {
+      "period": "3",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": "#54 - Dan  Bagley",
+      "assist2": "#99 - Jon  Davoren"
+    },
+    {
+      "period": "3",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#19 - Mike  Carr",
+      "assist1": "#7 - Dan  Ellert",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#13 - Bob  Seal",
+      "assist1": "#40 - Misha  Serebrennikov",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:13",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "player": "#26 - Bob  Banasik",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:24",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "player": "#18 - Pete  Poczatek",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:45:00.180Z"
+}

@@ -1,0 +1,143 @@
+{
+  "gameId": "11653",
+  "date": "2018-06-23",
+  "divId": 184,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1168",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1172",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:19",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#21 - John  Peterman",
+      "assist1": "#5 - Joseph  Ney",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:51",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": "#21 - John  Peterman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:39",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#77 - Jeff  Carter",
+      "assist1": "#16 - Nurali  Jamani",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#77 - Jeff  Carter",
+      "assist1": "#64 - Bob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:23",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#21 - John  Peterman",
+      "assist1": "#5 - Joseph  Ney",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1172",
+        "name": "Chiefs"
+      },
+      "player": "#5 - James  Miller",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:24",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "player": "#13 - Matt  Jenkins",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:27",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "player": "#88 - Todd  Mariano",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:27",
+      "team": {
+        "teamId": "1172",
+        "name": "Chiefs"
+      },
+      "player": "#63 - Jeff  Hoffner",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:34:52.874Z"
+}

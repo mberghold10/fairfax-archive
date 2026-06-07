@@ -1,0 +1,165 @@
+{
+  "gameId": "12354",
+  "date": "2019-02-24",
+  "divId": 188,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1199",
+    "name": "ers"
+  },
+  "away": {
+    "teamId": "1197",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:27",
+      "team": {
+        "teamId": "1197",
+        "name": "Jacks"
+      },
+      "scorer": "#36 - Jon  Stehle",
+      "assist1": "#26 - Tony  Cusumano",
+      "assist2": "#15 - John  Cushing"
+    },
+    {
+      "period": "1",
+      "time": "00:07:46",
+      "team": {
+        "teamId": "1199",
+        "name": "ers"
+      },
+      "scorer": "#19 - Sean  Burke",
+      "assist1": "#20 - Gordie  Ruohoniemi",
+      "assist2": "#90 - Mark  Chapman"
+    },
+    {
+      "period": "1",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1197",
+        "name": "Jacks"
+      },
+      "scorer": "#26 - Tony  Cusumano",
+      "assist1": "#36 - Jon  Stehle",
+      "assist2": "#16 - Bill  Thompson"
+    },
+    {
+      "period": "2",
+      "time": "00:08:17",
+      "team": {
+        "teamId": "1199",
+        "name": "ers"
+      },
+      "scorer": "#90 - Mark  Chapman",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": "#71 - Mike  Hoard"
+    },
+    {
+      "period": "2",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "1197",
+        "name": "Jacks"
+      },
+      "scorer": "#41 - Eugene  Livsics",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:35",
+      "team": {
+        "teamId": "1197",
+        "name": "Jacks"
+      },
+      "scorer": "#18 - Dave  Leadston",
+      "assist1": "#21 - Steve  Chan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:32",
+      "team": {
+        "teamId": "1199",
+        "name": "ers"
+      },
+      "scorer": "#20 - Gordie  Ruohoniemi",
+      "assist1": "#19 - Sean  Burke",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "1197",
+        "name": "Jacks"
+      },
+      "player": "#18 - Dave  Leadston",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "1197",
+        "name": "Jacks"
+      },
+      "player": "#26 - Tony  Cusumano",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:06",
+      "team": {
+        "teamId": "1199",
+        "name": "ers"
+      },
+      "player": "#90 - Mark  Chapman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:39",
+      "team": {
+        "teamId": "1197",
+        "name": "Jacks"
+      },
+      "player": "#26 - Tony  Cusumano",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:40:25.102Z"
+}

@@ -1,0 +1,141 @@
+{
+  "gameId": "16681",
+  "date": "2024-03-10",
+  "divId": 277,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1708",
+    "name": "Pharaohs"
+  },
+  "away": {
+    "teamId": "1709",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:09",
+      "team": {
+        "teamId": "1708",
+        "name": "Pharaohs"
+      },
+      "scorer": "#11 - Dan  Owens",
+      "assist1": "#67 - John  Holt",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1708",
+        "name": "Pharaohs"
+      },
+      "scorer": "#3 - Jack  Wilmer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:15",
+      "team": {
+        "teamId": "1709",
+        "name": "Chiefs"
+      },
+      "scorer": "#42 - Dave  Hagemeier",
+      "assist1": "#88 - Nolan  Campbell",
+      "assist2": "#26 - Jeremy  Whang"
+    },
+    {
+      "period": "2",
+      "time": "00:10:25",
+      "team": {
+        "teamId": "1709",
+        "name": "Chiefs"
+      },
+      "scorer": "#42 - Dave  Hagemeier",
+      "assist1": "#15 - David  Eyre",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:16",
+      "team": {
+        "teamId": "1709",
+        "name": "Chiefs"
+      },
+      "scorer": "#26 - Jeremy  Whang",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:48",
+      "team": {
+        "teamId": "1708",
+        "name": "Pharaohs"
+      },
+      "scorer": "#67 - John  Holt",
+      "assist1": "#11 - Dan  Owens",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:29",
+      "team": {
+        "teamId": "1708",
+        "name": "Pharaohs"
+      },
+      "player": "#14 - Andrew  Prantner",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:17",
+      "team": {
+        "teamId": "1708",
+        "name": "Pharaohs"
+      },
+      "player": "#3 - Jack  Wilmer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:02:54",
+      "team": {
+        "teamId": "1709",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:13:13.552Z"
+}

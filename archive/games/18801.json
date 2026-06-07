@@ -1,0 +1,239 @@
+{
+  "gameId": "18801",
+  "date": "2026-02-05",
+  "divId": 326,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2012",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "2013",
+    "name": "Black Sheep"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:44",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "scorer": "#26 - Garrett  Burns",
+      "assist1": "#86 - Tom  Anwyll",
+      "assist2": "#11 - Tom  Fergus"
+    },
+    {
+      "period": "1",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "scorer": "#43 - Dave  Hagemeier",
+      "assist1": "#12 - Brian  Booker",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:15",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "scorer": "#68 - Samson  Chu",
+      "assist1": "#34 - Mike  McLaughlin",
+      "assist2": "#13 - Scott  Peterson"
+    },
+    {
+      "period": "1",
+      "time": "00:14:41",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "scorer": "#68 - Samson  Chu",
+      "assist1": "#42 - Adam  Russell",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "scorer": "#68 - Samson  Chu",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "scorer": "#10 - Rob  Kocher",
+      "assist1": "#43 - Dave  Hagemeier",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:02",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "scorer": "#68 - Samson  Chu",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "scorer": "#42 - Adam  Russell",
+      "assist1": "#56 - Ryan  Tyler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:33",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "scorer": "#86 - Tom  Anwyll",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:29",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "player": "#44 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "player": "#4 - Erik  Bergman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "player": "#68 - Samson  Chu",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "player": "#4 - Erik  Bergman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "player": "#42 - Adam  Russell",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "player": "#11 - Tom  Fergus",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "player": "#26 - Garrett  Burns",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:05:41.246Z"
+}

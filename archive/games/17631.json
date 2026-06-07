@@ -1,0 +1,93 @@
+{
+  "gameId": "17631",
+  "date": "2024-12-01",
+  "divId": 303,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1860",
+    "name": "Junkyard Dogs"
+  },
+  "away": {
+    "teamId": "1862",
+    "name": "Toronto"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1860",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#19 - Troy  Edwards",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:57",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": "#17 - John  Wallace",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#28 - Harry  Nicholakos",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:01",
+      "team": {
+        "teamId": "1860",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#44 - Carlos  Gautier",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:05",
+      "team": {
+        "teamId": "1860",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#44 - Carlos  Gautier",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:40:47.915Z"
+}

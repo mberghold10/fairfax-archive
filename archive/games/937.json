@@ -1,0 +1,199 @@
+{
+  "gameId": "937",
+  "date": "2019-04-05",
+  "divId": 188,
+  "seasonName": "Winter 2018",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1199",
+    "name": "ers"
+  },
+  "away": {
+    "teamId": "1197",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "1199",
+        "name": "ers"
+      },
+      "scorer": "#90 - Mark  Chapman",
+      "assist1": "#66 - Andy  Heckmann",
+      "assist2": "#19 - Sean  Burke"
+    },
+    {
+      "period": "2",
+      "time": "00:13:51",
+      "team": {
+        "teamId": "1197",
+        "name": "Jacks"
+      },
+      "scorer": "#18 - Dave  Leadston",
+      "assist1": "#14 - Dennis  Nayandin",
+      "assist2": "#10 - Konstantin  Silov"
+    },
+    {
+      "period": "3",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "1197",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#14 - Dennis  Nayandin",
+      "assist2": "#18 - Dave  Leadston"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1199",
+        "name": "ers"
+      },
+      "player": "#15 - Todd  Martin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1197",
+        "name": "Jacks"
+      },
+      "player": "#10 - Konstantin  Silov",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:51",
+      "team": {
+        "teamId": "1199",
+        "name": "ers"
+      },
+      "player": "#82 - Caleb  Sohl",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:12",
+      "team": {
+        "teamId": "1197",
+        "name": "Jacks"
+      },
+      "player": "#41 - Eugene  Livsics",
+      "pim": 2,
+      "offense": "check from behind",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:12",
+      "team": {
+        "teamId": "1197",
+        "name": "Jacks"
+      },
+      "player": "#41 - Eugene  Livsics",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:47",
+      "team": {
+        "teamId": "1197",
+        "name": "Jacks"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 2,
+      "offense": "check from behind",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:47",
+      "team": {
+        "teamId": "1197",
+        "name": "Jacks"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1197",
+        "name": "Jacks"
+      },
+      "player": "#10 - Konstantin  Silov",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "1197",
+        "name": "Jacks"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1197",
+        "name": "Jacks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:40:38.226Z"
+}

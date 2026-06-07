@@ -1,0 +1,95 @@
+{
+  "gameId": "10854",
+  "date": "2017-08-13",
+  "divId": 168,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1072",
+    "name": "Turtle Power"
+  },
+  "away": {
+    "teamId": "1073",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:01",
+      "team": {
+        "teamId": "1072",
+        "name": "Turtle Power"
+      },
+      "scorer": "#53 - Meg  Grasselli",
+      "assist1": "#9 - Alex  Lassinger",
+      "assist2": "#17 - Ben  Rivelis"
+    },
+    {
+      "period": "1",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1072",
+        "name": "Turtle Power"
+      },
+      "scorer": "#9 - Alex  Lassinger",
+      "assist1": "#26 - Danny  Meaux",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#6 - Matt  Johnson",
+      "assist1": "#16 - Dave  Smith",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:04:34",
+      "team": {
+        "teamId": "1072",
+        "name": "Turtle Power"
+      },
+      "player": "#9 - Alex  Lassinger",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:34",
+      "team": {
+        "teamId": "1072",
+        "name": "Turtle Power"
+      },
+      "player": "#9 - Alex  Lassinger",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:15:58.485Z"
+}

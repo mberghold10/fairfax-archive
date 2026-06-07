@@ -1,0 +1,200 @@
+{
+  "gameId": "12998",
+  "date": "2019-09-01",
+  "divId": 200,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1269",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1270",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 4,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:06",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": "#12 - Jason  Wakeman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:29",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "scorer": "#280 - Konstantin  Silov",
+      "assist1": "#15 - Mark  Rudnicki",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:08",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "scorer": "#15 - Mark  Rudnicki",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "scorer": "#34 - Chad  Fisher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "scorer": "#34 - Chad  Fisher",
+      "assist1": "#23 - Rick  Gorgone",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:17",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:29",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "scorer": "#14 - Charlie  Campbell",
+      "assist1": "#55 - Tim  Dutcher",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "player": "#44 - Greg  Powers",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "player": "#44 - George  Cassidy",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "player": "#7 - Ed  Weiner",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:26",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "player": "#14 - Charlie  Campbell",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:26",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "player": "#34 - Chad  Fisher",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:55:39.404Z"
+}

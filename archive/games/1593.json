@@ -1,0 +1,169 @@
+{
+  "gameId": "1593",
+  "date": "2025-11-21",
+  "divId": 318,
+  "seasonName": "Summer 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1952",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1947",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:21",
+      "team": {
+        "teamId": "1947",
+        "name": "Roughnecks"
+      },
+      "scorer": "#20 - Nate  Radke",
+      "assist1": "#81 - Sean  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:51",
+      "team": {
+        "teamId": "1947",
+        "name": "Roughnecks"
+      },
+      "scorer": "#42 - Drew  Carbone",
+      "assist1": "#27 - Tim  Witkiewicz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": "#24 - Jake  Middel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:52",
+      "team": {
+        "teamId": "1947",
+        "name": "Roughnecks"
+      },
+      "scorer": "#27 - Tim  Witkiewicz",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1947",
+        "name": "Roughnecks"
+      },
+      "player": "#21 - Finn  Devans",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "player": "#76 - Peter  Schaffer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:57",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "player": "#14 - David  Fisher",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1947",
+        "name": "Roughnecks"
+      },
+      "player": "#42 - Drew  Carbone",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1947",
+        "name": "Roughnecks"
+      },
+      "player": "#80 - Alek  Santos",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:11",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "player": "#8 - Brian  Merritt",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:57:56.655Z"
+}

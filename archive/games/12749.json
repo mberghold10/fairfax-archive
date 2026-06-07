@@ -1,0 +1,174 @@
+{
+  "gameId": "12749",
+  "date": "2019-06-01",
+  "divId": 200,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1268",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1270",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1268",
+        "name": "Flying Circus"
+      },
+      "scorer": "#15 - Mike  Hempen",
+      "assist1": "#55 - Joel  Whitney",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:19",
+      "team": {
+        "teamId": "1268",
+        "name": "Flying Circus"
+      },
+      "scorer": "#7 - Brendan  Ford",
+      "assist1": "#17 - John  Kemprowski",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:27",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "scorer": "#34 - Chad  Fisher",
+      "assist1": "#15 - Mark  Rudnicki",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "scorer": "#15 - Mark  Rudnicki",
+      "assist1": "#56 - John  Figlear",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:25",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "scorer": "#34 - Chad  Fisher",
+      "assist1": "#14 - Charlie  Campbell",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:41",
+      "team": {
+        "teamId": "1268",
+        "name": "Flying Circus"
+      },
+      "scorer": "#2 - Marc  Sheinkin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:24",
+      "team": {
+        "teamId": "1268",
+        "name": "Flying Circus"
+      },
+      "scorer": "#17 - John  Kemprowski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:26",
+      "team": {
+        "teamId": "1268",
+        "name": "Flying Circus"
+      },
+      "scorer": "#21 - Trevor  Wallace",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:22",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "scorer": "#28 - Geoff  Storchan",
+      "assist1": "#44 - George  Cassidy",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "player": "#44 - George  Cassidy",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:15:00",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "player": "#14 - Charlie  Campbell",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:57",
+      "team": {
+        "teamId": "1270",
+        "name": "Penguins"
+      },
+      "player": "#15 - Mark  Rudnicki",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:54:49.410Z"
+}

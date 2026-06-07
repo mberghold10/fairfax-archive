@@ -1,0 +1,106 @@
+{
+  "gameId": "11172",
+  "date": "2017-11-10",
+  "divId": 177,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1128",
+    "name": "Sparks"
+  },
+  "away": {
+    "teamId": "1130",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#6 - Matt  Johnson",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": "#15 - Tara  Day"
+    },
+    {
+      "period": "2",
+      "time": "00:08:06",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#3 - Steve  Schooner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:44",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:46",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:54",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "player": "#7 - Will  Weiler",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:01",
+      "team": {
+        "teamId": "1128",
+        "name": "Sparks"
+      },
+      "player": "#30 - Brandon  Heiner",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:26:36.493Z"
+}

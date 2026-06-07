@@ -1,0 +1,141 @@
+{
+  "gameId": "13935",
+  "date": "2021-03-15",
+  "divId": 226,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1416",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1415",
+    "name": "Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": "#7 - Kevin  Brooks",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1416",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": "#16 - Greg  Pomeroy",
+      "assist2": "#82 - Justin  MacDonald"
+    },
+    {
+      "period": "2",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1416",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#16 - Greg  Pomeroy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:12",
+      "team": {
+        "teamId": "1416",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#91 - Scott  Emerick",
+      "assist1": "#14 - Paul  Tourbaf",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "1416",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#5 - Andy  Loggia",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:02",
+      "team": {
+        "teamId": "1416",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#16 - Greg  Pomeroy",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:51",
+      "team": {
+        "teamId": "1416",
+        "name": "British Bulldogs"
+      },
+      "player": "#44 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1416",
+        "name": "British Bulldogs"
+      },
+      "player": "#19 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:39",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "player": "#40 - Matt  Mickelson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:20:15.198Z"
+}

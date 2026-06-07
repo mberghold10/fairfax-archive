@@ -1,0 +1,104 @@
+{
+  "gameId": "18343",
+  "date": "2025-08-09",
+  "divId": 318,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1950",
+    "name": "Hershey Beers"
+  },
+  "away": {
+    "teamId": "1951",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:21",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#23 - Mark  Cappello",
+      "assist1": "#16 - Kun  Zhao",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:56",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#54 - Scott  Knisley",
+      "assist1": "#8 - Tim  Lo",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#18 - Sam  Bressi",
+      "assist1": "#16 - Kun  Zhao",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#3 - Darr  Gerscovich",
+      "assist1": "#47 - David  Hitchcock",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:14",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#54 - Scott  Knisley",
+      "assist1": "#23 - Mark  Cappello",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:14:00",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:57:06.870Z"
+}

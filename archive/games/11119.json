@@ -1,0 +1,161 @@
+{
+  "gameId": "11119",
+  "date": "2017-11-26",
+  "divId": 175,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1120",
+    "name": "Canucks"
+  },
+  "away": {
+    "teamId": "1118",
+    "name": "River Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 1,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:09",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#91 - Chris  Callanan",
+      "assist1": "#88 - Brian  Ray",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:59",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "scorer": "#11 - Mike  Pamplin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:29",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": "#17 - Allen  Preville",
+      "assist2": "#80 - Matt  Rogers"
+    },
+    {
+      "period": "2",
+      "time": "00:05:08",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "scorer": "#11 - Mike  Pamplin",
+      "assist1": "#20 - Paul  Flood",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "scorer": "#40 - Brandon  Honeycutt",
+      "assist1": "#16 - Cooper  Branham",
+      "assist2": "#10 - Colin  Ligon"
+    },
+    {
+      "period": "2",
+      "time": "00:12:57",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#17 - Allen  Preville",
+      "assist1": "#80 - Matt  Rogers",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:44",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "scorer": "#42 - Jon  Coley",
+      "assist1": "#19 - Kevin  Stammetti",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:06",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#13 - Steve  Schooner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:02:29",
+      "team": {
+        "teamId": "1120",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "player": "#43 - Bill  Picard",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:23:57.795Z"
+}

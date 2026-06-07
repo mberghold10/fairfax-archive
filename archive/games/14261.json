@@ -1,0 +1,228 @@
+{
+  "gameId": "14261",
+  "date": "2021-09-21",
+  "divId": 237,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1482",
+    "name": "Gold Goats"
+  },
+  "away": {
+    "teamId": "1480",
+    "name": "Capitals"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#12 - Trent  Papke",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:11",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#25 - Ken  Chin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:39",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#20 - Scott  Forbes",
+      "assist1": "#25 - Ken  Chin",
+      "assist2": "#13 - Sean  McGarry"
+    },
+    {
+      "period": "2",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1482",
+        "name": "Gold Goats"
+      },
+      "scorer": "#25 - Dave  Brown",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": "#9 - Erik  Hass",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#15 - Bob  Guckian",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:42",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#70 - Dan  Ellert",
+      "assist1": "#15 - Bob  Guckian",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:01",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "scorer": "#17 - Bill  DeMaso",
+      "assist1": "#5 - Bob  Kelty",
+      "assist2": "#15 - Bob  Guckian"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:28",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "player": "#17 - Bill  DeMaso",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1482",
+        "name": "Gold Goats"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "player": "#25 - Ken  Chin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:56",
+      "team": {
+        "teamId": "1482",
+        "name": "Gold Goats"
+      },
+      "player": "#57 - Howard  Uman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:14",
+      "team": {
+        "teamId": "1482",
+        "name": "Gold Goats"
+      },
+      "player": "#7 - Greg  Watchman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:14",
+      "team": {
+        "teamId": "1480",
+        "name": "Capitals"
+      },
+      "player": "#12 - Trent  Papke",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:57",
+      "team": {
+        "teamId": "1482",
+        "name": "Gold Goats"
+      },
+      "player": "#3 - Jim  Van Dyke",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:41",
+      "team": {
+        "teamId": "1482",
+        "name": "Gold Goats"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:29:01.832Z"
+}

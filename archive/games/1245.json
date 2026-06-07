@@ -1,0 +1,138 @@
+{
+  "gameId": "1245",
+  "date": "2022-10-09",
+  "divId": 251,
+  "seasonName": "Summer 2022",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1552",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1551",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1551",
+        "name": "Angry Moose"
+      },
+      "scorer": "#4 - Ryan  Cantwell",
+      "assist1": "#15 - Kevin  Szczepanski",
+      "assist2": "#28 - Doug  Branton"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:41",
+      "team": {
+        "teamId": "1552",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#17 - Josh  Bliudzius",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1551",
+        "name": "Angry Moose"
+      },
+      "player": "#2 - Dennis  Valentine",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:28",
+      "team": {
+        "teamId": "1552",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#14 - David  Fisher",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:13",
+      "team": {
+        "teamId": "1552",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#79 - Scott  Yates",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1551",
+        "name": "Angry Moose"
+      },
+      "player": "#80 - Cinnamon  Melchor",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:23",
+      "team": {
+        "teamId": "1552",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#24 - Brian  Davies",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:37",
+      "team": {
+        "teamId": "1552",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#79 - Scott  Yates",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:43:22.578Z"
+}

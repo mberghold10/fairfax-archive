@@ -1,0 +1,143 @@
+{
+  "gameId": "10795",
+  "date": "2017-07-15",
+  "divId": 166,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1060",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1062",
+    "name": "BlueJacket Capitals"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#7 - Gary  McMahon",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:50",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "scorer": "#31 - Brian  Meighan",
+      "assist1": "#22 - JongJae  Yoo",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:27",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#61 - Sean  McGarry",
+      "assist1": "#15 - Bob  Guckian",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:57",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#92 - Darren  Wellner",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:27",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#7 - Gary  McMahon",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#4 - Peter  van Aartrijk",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:32",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "player": "#22 - JongJae  Yoo",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:19",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "player": "#23 - Alex  DeYoung",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#77 - Erik  Bergman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:13:30.205Z"
+}

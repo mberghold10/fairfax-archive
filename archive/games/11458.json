@@ -1,0 +1,93 @@
+{
+  "gameId": "11458",
+  "date": "2018-03-03",
+  "divId": 177,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1130",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1131",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:13",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#27 - Jamie  Prime",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#27 - Jamie  Prime",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:29",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#24 - Harry  Nicholakos",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:34",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#20 - Brent  Jefferson",
+      "assist1": "#6 - Matt  Johnson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:40",
+      "team": {
+        "teamId": "1131",
+        "name": "Dragons"
+      },
+      "player": "#96 - Pat  Mitchell",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:27:20.500Z"
+}

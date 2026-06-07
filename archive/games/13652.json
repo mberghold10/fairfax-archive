@@ -1,0 +1,117 @@
+{
+  "gameId": "13652",
+  "date": "2020-01-05",
+  "divId": 214,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1350",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1356",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:51",
+      "team": {
+        "teamId": "1350",
+        "name": "Flying Circus"
+      },
+      "scorer": "#23 - Greg  Thomas",
+      "assist1": "#12 - Adam  Jungdahl",
+      "assist2": "#17 - John  Kemprowski"
+    },
+    {
+      "period": "1",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "1350",
+        "name": "Flying Circus"
+      },
+      "scorer": "#18 - Chris  Kelly",
+      "assist1": "#55 - Joel  Whitney",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "1350",
+        "name": "Flying Circus"
+      },
+      "scorer": "#24 - Jim  Behrend",
+      "assist1": "#33 - Andy  Taylor",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:10",
+      "team": {
+        "teamId": "1350",
+        "name": "Flying Circus"
+      },
+      "scorer": "#12 - Adam  Jungdahl",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:30",
+      "team": {
+        "teamId": "1350",
+        "name": "Flying Circus"
+      },
+      "scorer": "#23 - Greg  Thomas",
+      "assist1": "#18 - Chris  Kelly",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1350",
+        "name": "Flying Circus"
+      },
+      "player": "#33 - Andy  Taylor",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:30",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "player": "#71 - John  Buhler",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:11:35.077Z"
+}

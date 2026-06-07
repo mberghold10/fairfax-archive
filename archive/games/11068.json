@@ -1,0 +1,130 @@
+{
+  "gameId": "11068",
+  "date": "2017-11-28",
+  "divId": 173,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1107",
+    "name": "Hooligans"
+  },
+  "away": {
+    "teamId": "1105",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "scorer": "#13 - Phil  Wind",
+      "assist1": "#15 - Tom  Sgroi",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:32",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "scorer": "#86 - John  Persinger",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "scorer": "#7 - Allen  Lassinger",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "scorer": "#86 - John  Persinger",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "player": "#12 - David  OMalley",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "player": "#86 - John  Persinger",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:23",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "player": "#12 - Wade  Cleland",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:21:27.887Z"
+}

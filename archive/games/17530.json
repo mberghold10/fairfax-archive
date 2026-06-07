@@ -1,0 +1,128 @@
+{
+  "gameId": "17530",
+  "date": "2024-12-29",
+  "divId": 299,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1842",
+    "name": "Screaming Eagles"
+  },
+  "away": {
+    "teamId": "1837",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#98 - Bob  Valdes",
+      "assist1": "#88 - Evan  Wojtowicz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:41",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "scorer": "#5 - Peter  Boone",
+      "assist1": "#91 - Jake  Barnett",
+      "assist2": "#92 - Ilya  Kosolapov"
+    },
+    {
+      "period": "2",
+      "time": "00:04:49",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "scorer": "#91 - Jake  Barnett",
+      "assist1": "#92 - Ilya  Kosolapov",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:53",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "scorer": "#91 - Jake  Barnett",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:58",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "scorer": "#91 - Jake  Barnett",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:23",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "scorer": "#7 - Peter  Grose",
+      "assist1": "#68 - Jeff  Gilmore",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:12:41",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "player": "#61 - Tero  Moberg",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "player": "#28 - Jake  Combs",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:36:12.112Z"
+}

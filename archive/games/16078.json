@@ -1,0 +1,145 @@
+{
+  "gameId": "16078",
+  "date": "2023-07-11",
+  "divId": 273,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1684",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1687",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#55 - Steve  Tamburo",
+      "assist1": "#79 - Jeff  Vandenberghe",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#55 - Steve  Tamburo",
+      "assist1": "#79 - Jeff  Vandenberghe",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:21",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#47 - David  Hitchcook",
+      "assist1": "#9 - Paul  Moretti",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1687",
+        "name": "Hurricanes"
+      },
+      "scorer": "#16 - Carlos  Novoa",
+      "assist1": "#22 - Ed  Gulakowski",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:34",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "player": "#8 - Reid  Maki",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:09",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "player": "#13 - Rob  Katz",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:26",
+      "team": {
+        "teamId": "1687",
+        "name": "Hurricanes"
+      },
+      "player": "#17 - John  Wallace",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1687",
+        "name": "Hurricanes"
+      },
+      "player": "#2 - Mark  Jetsen",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:46",
+      "team": {
+        "teamId": "1687",
+        "name": "Hurricanes"
+      },
+      "player": "#52 - Chris  Czernia",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:09:00.969Z"
+}

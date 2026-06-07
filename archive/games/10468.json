@@ -1,0 +1,93 @@
+{
+  "gameId": "10468",
+  "date": "2017-06-06",
+  "divId": 161,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1032",
+    "name": "ers"
+  },
+  "away": {
+    "teamId": "1031",
+    "name": "Georgetown"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:36",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "scorer": "#23 - Lucas  Karron",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:55",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "scorer": "#3 - Alex  Oster",
+      "assist1": "#23 - Lucas  Karron",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "scorer": "#44 - Mark  Spencer",
+      "assist1": "#3 - Alex  Oster",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:52",
+      "team": {
+        "teamId": "1032",
+        "name": "ers"
+      },
+      "scorer": "#8 - Mark  Chapman",
+      "assist1": "#19 - Joe  Dunn",
+      "assist2": "#27 - Stephen  Kraly"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1032",
+        "name": "ers"
+      },
+      "player": "#44 - Mick  Ellsworth",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:06:56.551Z"
+}

@@ -1,0 +1,108 @@
+{
+  "gameId": "11208",
+  "date": "2017-11-25",
+  "divId": 178,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1139",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1138",
+    "name": "Steamed Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:18:55",
+      "team": {
+        "teamId": "1139",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#36 - Brian  Lusby",
+      "assist1": "#41 - Alessio  Evangelista",
+      "assist2": "#25 - Neil  Dsouza"
+    },
+    {
+      "period": "3",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1139",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#51 - Kevin  Michie",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1139",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#41 - Alessio  Evangelista",
+      "assist1": "#32 - Marty  Langley",
+      "assist2": "#34 - Joshua  Davis"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:06",
+      "team": {
+        "teamId": "1138",
+        "name": "Steamed Crabs"
+      },
+      "player": "#19 - Angelo  Ponirakis",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:25",
+      "team": {
+        "teamId": "1139",
+        "name": "Blue Dogs"
+      },
+      "player": "#51 - Kevin  Michie",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:47",
+      "team": {
+        "teamId": "1139",
+        "name": "Blue Dogs"
+      },
+      "player": "#2 - John  Ganoe",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:28:13.318Z"
+}

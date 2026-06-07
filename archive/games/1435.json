@@ -1,0 +1,141 @@
+{
+  "gameId": "1435",
+  "date": "2024-05-18",
+  "divId": 284,
+  "seasonName": "Winter 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1745",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1744",
+    "name": "Mesozoic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#14 - Charles  Geschiere",
+      "assist1": "#37 - Michael  Wisniewski",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:13",
+      "team": {
+        "teamId": "1745",
+        "name": "Thunder"
+      },
+      "scorer": "#24 - Mike  Plourde",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1745",
+        "name": "Thunder"
+      },
+      "scorer": "#47 - Dave  LeKuch",
+      "assist1": "#31 - Zach  Furness",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#33 - Scott  Coco",
+      "assist1": "#14 - Charles  Geschiere",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#33 - Scott  Coco",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:24",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#37 - Michael  Wisniewski",
+      "assist1": "#33 - Scott  Coco",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1745",
+        "name": "Thunder"
+      },
+      "player": "#100 - Goalie  Substitue",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "1745",
+        "name": "Thunder"
+      },
+      "player": "#47 - Dave  LeKuch",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:46",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#24 - Audrey  Morrison",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:22:07.168Z"
+}

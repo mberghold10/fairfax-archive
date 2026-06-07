@@ -1,0 +1,248 @@
+{
+  "gameId": "911",
+  "date": "2018-09-29",
+  "divId": 184,
+  "seasonName": "Summer 2018",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1173",
+    "name": "Canucks"
+  },
+  "away": {
+    "teamId": "1168",
+    "name": "North Stars"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 4,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:52",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#88 - Todd  Mariano",
+      "assist1": "#24 - Pertti  Jaukula",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:41",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": "#7 - Evan  Wojtowicz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:00",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#77 - Jeff  Carter",
+      "assist1": "#55 - Ben  Malakoff",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "scorer": "#4 - Lou  Mayo",
+      "assist1": "#91 - Chris  Callanan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#6 - Matt  Dwyer",
+      "assist1": "#81 - Bryan  Getson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:47",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": "#77 - Jeff  Carter",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:15",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": "#91 - Chris  Callanan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:45",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": "#6 - Matt  Dwyer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": "#7 - Evan  Wojtowicz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "scorer": "#88 - Brian  Ray",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:01",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "player": "#5 - Joseph  Ney",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:31",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "player": "#21 - John  Peterman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "player": "#21 - John  Peterman",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "player": "#61 - Tero  Moberg",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:26",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "player": "#88 - Todd  Mariano",
+      "pim": 2,
+      "offense": "check from behind",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:26",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "player": "#88 - Todd  Mariano",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:39",
+      "team": {
+        "teamId": "1168",
+        "name": "North Stars"
+      },
+      "player": "#61 - Tero  Moberg",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:35:36.541Z"
+}

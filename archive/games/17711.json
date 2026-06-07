@@ -1,0 +1,178 @@
+{
+  "gameId": "17711",
+  "date": "2025-01-12",
+  "divId": 306,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1874",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1879",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:42",
+      "team": {
+        "teamId": "1879",
+        "name": "Islanders"
+      },
+      "scorer": "#79 - Dave  Gerstner",
+      "assist1": "#25 - Greg  Reece",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:09",
+      "team": {
+        "teamId": "1879",
+        "name": "Islanders"
+      },
+      "scorer": "#28 - Adam  Camarano",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:55",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#19 - Mike  Carr",
+      "assist1": "#17 - Diron  Insley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:18",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#17 - Diron  Insley",
+      "assist1": "#81 - Chris  Holden",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#17 - Diron  Insley",
+      "assist1": "#19 - Mike  Carr",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:03",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#17 - Diron  Insley",
+      "assist1": "#7 - Dan  Ellert",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#11 - Darren  Wellner",
+      "assist1": "#26 - Bob  Banasik",
+      "assist2": "#40 - Misha  Serebrennikov"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:24",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "player": "#7 - Dan  Ellert",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "1879",
+        "name": "Islanders"
+      },
+      "player": "#3 - Jack  Wilmer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1879",
+        "name": "Islanders"
+      },
+      "player": "#74 - Mike  Brewin",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "player": "#26 - Bob  Banasik",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "player": "#17 - Diron  Insley",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:43:57.300Z"
+}

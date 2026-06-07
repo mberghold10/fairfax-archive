@@ -1,0 +1,220 @@
+{
+  "gameId": "17950",
+  "date": "2025-03-12",
+  "divId": 304,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1866",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1868",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 4,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:08",
+      "team": {
+        "teamId": "1868",
+        "name": "Bruins"
+      },
+      "scorer": "#260 - Shawn  Pike",
+      "assist1": "#10 - Justin  Arbes",
+      "assist2": "#69 - Aaron  Domnitch"
+    },
+    {
+      "period": "1",
+      "time": "00:06:35",
+      "team": {
+        "teamId": "1868",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#16 - Peter  OKeefe",
+      "assist2": "#3 - Kareem  El-Alaily"
+    },
+    {
+      "period": "1",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1868",
+        "name": "Bruins"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#260 - Shawn  Pike",
+      "assist2": "#3 - Kareem  El-Alaily"
+    },
+    {
+      "period": "1",
+      "time": "00:09:22",
+      "team": {
+        "teamId": "1866",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#9 - Jason  Murphy",
+      "assist2": "#78 - Noe  Hatchuel"
+    },
+    {
+      "period": "1",
+      "time": "00:13:46",
+      "team": {
+        "teamId": "1868",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#16 - Peter  OKeefe",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:59",
+      "team": {
+        "teamId": "1866",
+        "name": "Swarm"
+      },
+      "scorer": "#91 - Matt  Weeden",
+      "assist1": "#9 - Jason  Murphy",
+      "assist2": "#13 - Ben  Aring"
+    },
+    {
+      "period": "2",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1866",
+        "name": "Swarm"
+      },
+      "scorer": "#360 - Jeff  Cardieo",
+      "assist1": "#9 - Jason  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "1868",
+        "name": "Bruins"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#260 - Shawn  Pike",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:09",
+      "team": {
+        "teamId": "1866",
+        "name": "Swarm"
+      },
+      "scorer": "#360 - Jeff  Cardieo",
+      "assist1": "#9 - Jason  Murphy",
+      "assist2": "#46 - Dan  OConnell"
+    },
+    {
+      "period": "3",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1868",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#16 - Peter  OKeefe",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:11",
+      "team": {
+        "teamId": "1866",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:18",
+      "team": {
+        "teamId": "1866",
+        "name": "Swarm"
+      },
+      "scorer": "#9 - Jason  Murphy",
+      "assist1": "#41 - Erik  Kniaz",
+      "assist2": "#8 - Brenden  Millice"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:23",
+      "team": {
+        "teamId": "1866",
+        "name": "Swarm"
+      },
+      "player": "#13 - Ben  Aring",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1868",
+        "name": "Bruins"
+      },
+      "player": "#70 - David  Fitzgerald",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:23",
+      "team": {
+        "teamId": "1868",
+        "name": "Bruins"
+      },
+      "player": "#16 - Peter  OKeefe",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "1868",
+        "name": "Bruins"
+      },
+      "player": "#57 - Derek  Morrissette",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:42:18.030Z"
+}

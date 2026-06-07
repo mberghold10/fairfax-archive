@@ -1,0 +1,143 @@
+{
+  "gameId": "15097",
+  "date": "2022-07-14",
+  "divId": 254,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1570",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1569",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:03",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "scorer": "#76 - Mike  Floyd",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": "#76 - Mike  Floyd",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:29",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "scorer": "#76 - Mike  Floyd",
+      "assist1": "#28 - Alex  Henry",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1569",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jessie  Brand",
+      "assist1": "#8 - Jamie  Sengheiser",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:47",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": "#14 - Carson  Dye",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "player": "#4 - John  Conmy",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "player": "#14 - Carson  Dye",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:32",
+      "team": {
+        "teamId": "1569",
+        "name": "Team USA"
+      },
+      "player": "#10 - Mike  Brahamey",
+      "pim": 2,
+      "offense": "Check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1569",
+        "name": "Team USA"
+      },
+      "player": "#8 - Jamie  Sengheiser",
+      "pim": 2,
+      "offense": "Check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:46:13.642Z"
+}

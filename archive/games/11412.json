@@ -1,0 +1,93 @@
+{
+  "gameId": "11412",
+  "date": "2018-01-28",
+  "divId": 176,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1124",
+    "name": "Lightning"
+  },
+  "away": {
+    "teamId": "1125",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:14",
+      "team": {
+        "teamId": "1125",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#6 - Bob  Friess",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:11",
+      "team": {
+        "teamId": "1125",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#33 - Paul  Flood",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1125",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#33 - Paul  Flood",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:08",
+      "team": {
+        "teamId": "1125",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#66 - Neil  Shoults",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:13:52",
+      "team": {
+        "teamId": "1124",
+        "name": "Lightning"
+      },
+      "player": "#88 - Daniel  Lange",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:25:39.312Z"
+}

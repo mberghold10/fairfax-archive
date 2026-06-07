@@ -1,0 +1,216 @@
+/*
+ * Fairfax Ice Arena Archive - Theme Variables
+ *
+ * Primary blue: #003F7F (RGB 0, 63, 127)
+ * Accent red: #BF0000 (RGB 191, 0, 0)
+ *
+ * Both modes target WCAG AA contrast ratios (4.5:1 for normal text, 3:1 for large text).
+ */
+
+/* ===== Light Mode ===== */
+[data-theme="light"] {
+  /* Backgrounds */
+  --color-bg-primary: #ffffff;
+  --color-bg-secondary: #f5f7fa;
+  --color-bg-surface: #eef2f7;
+  --color-bg-hover: #e8ecf2;
+
+  /* Text */
+  --color-text-primary: #1a1a2e;
+  --color-text-secondary: #4a4a68;
+  --color-text-muted: #6b6b85;
+
+  /* Brand colors */
+  --color-brand-blue: #003F7F;
+  --color-brand-red: #BF0000;
+
+  /* Functional colors */
+  --color-link: #003F7F;
+  --color-link-hover: #002f5f;
+  --color-heading: #003F7F;
+  --color-accent: #BF0000;
+  --color-accent-hover: #990000;
+
+  /* Borders */
+  --color-border: #d1d9e6;
+  --color-border-light: #e8ecf2;
+
+  /* Interactive elements */
+  --color-button-bg: #003F7F;
+  --color-button-text: #ffffff;
+  --color-button-hover: #002f5f;
+
+  /* Table */
+  --color-table-header-bg: #003F7F;
+  --color-table-header-text: #ffffff;
+  --color-table-row-alt: #f5f7fa;
+  --color-table-border: #d1d9e6;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.06);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* ===== Dark Mode ===== */
+[data-theme="dark"] {
+  /* Backgrounds */
+  --color-bg-primary: #0f1219;
+  --color-bg-secondary: #1a1f2e;
+  --color-bg-surface: #232a3b;
+  --color-bg-hover: #2c3548;
+
+  /* Text */
+  --color-text-primary: #e8eaf0;
+  --color-text-secondary: #b0b8c9;
+  --color-text-muted: #8891a4;
+
+  /* Brand colors (lighter variants for dark backgrounds) */
+  --color-brand-blue: #5a9fd4;
+  --color-brand-red: #e85555;
+
+  /* Functional colors */
+  --color-link: #5a9fd4;
+  --color-link-hover: #7db8e8;
+  --color-heading: #5a9fd4;
+  --color-accent: #e85555;
+  --color-accent-hover: #f07070;
+
+  /* Borders */
+  --color-border: #3a4458;
+  --color-border-light: #2c3548;
+
+  /* Interactive elements */
+  --color-button-bg: #5a9fd4;
+  --color-button-text: #0f1219;
+  --color-button-hover: #7db8e8;
+
+  /* Table */
+  --color-table-header-bg: #1a2744;
+  --color-table-header-text: #e8eaf0;
+  --color-table-row-alt: #1a1f2e;
+  --color-table-border: #3a4458;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.4);
+}
+
+/* ===== Typography Variables ===== */
+:root {
+  --font-family-base: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --font-family-mono: 'SF Mono', 'Fira Code', 'Fira Mono', Menlo, Consolas, monospace;
+
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+  --font-size-3xl: 1.875rem;
+  --font-size-4xl: 2.25rem;
+
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  --line-height-tight: 1.25;
+  --line-height-base: 1.5;
+  --line-height-relaxed: 1.75;
+
+  /* Spacing */
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-xl: 2rem;
+  --spacing-2xl: 3rem;
+  --spacing-3xl: 4rem;
+
+  /* Border radius */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.375rem;
+  --radius-lg: 0.5rem;
+  --radius-xl: 0.75rem;
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-base: 250ms ease;
+}
+
+/* ===== Base Styles ===== */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-family-base);
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-base);
+  color: var(--color-text-primary);
+  background-color: var(--color-bg-primary);
+  transition: color var(--transition-base), background-color var(--transition-base);
+}
+
+a {
+  color: var(--color-link);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+
+a:hover {
+  color: var(--color-link-hover);
+  text-decoration: underline;
+}
+
+a:focus-visible {
+  outline: 2px solid var(--color-brand-blue);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--color-heading);
+  font-weight: var(--font-weight-bold);
+  line-height: var(--line-height-tight);
+  margin: 0 0 var(--spacing-md);
+}
+
+h1 { font-size: var(--font-size-4xl); }
+h2 { font-size: var(--font-size-3xl); }
+h3 { font-size: var(--font-size-2xl); }
+h4 { font-size: var(--font-size-xl); }
+
+/* Theme toggle button base styles */
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--spacing-sm);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  background: var(--color-bg-surface);
+  color: var(--color-text-primary);
+  cursor: pointer;
+  transition: background-color var(--transition-fast), border-color var(--transition-fast);
+}
+
+.theme-toggle:hover {
+  background: var(--color-bg-hover);
+  border-color: var(--color-brand-blue);
+}
+
+.theme-toggle:focus-visible {
+  outline: 2px solid var(--color-brand-blue);
+  outline-offset: 2px;
+}

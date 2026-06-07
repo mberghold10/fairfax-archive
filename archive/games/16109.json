@@ -1,0 +1,158 @@
+{
+  "gameId": "16109",
+  "date": "2023-06-11",
+  "divId": 275,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1695",
+    "name": "Jacks Graybeards"
+  },
+  "away": {
+    "teamId": "1694",
+    "name": "Virginia Buccaneers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:02",
+      "team": {
+        "teamId": "1694",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#130 - Steve  Berry",
+      "assist1": "#0 - Justy  Holt",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:17",
+      "team": {
+        "teamId": "1695",
+        "name": "Jacks Graybeards"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1695",
+        "name": "Jacks Graybeards"
+      },
+      "scorer": "#13 - Bob  Chagnot",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:10",
+      "team": {
+        "teamId": "1695",
+        "name": "Jacks Graybeards"
+      },
+      "scorer": "#16 - Bill  Tompson",
+      "assist1": "#3 - Jeff  Regan",
+      "assist2": "#24 - Chuck  Robinson"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "1694",
+        "name": "Virginia Buccaneers"
+      },
+      "player": "#5 - Pete  Folger",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:45",
+      "team": {
+        "teamId": "1695",
+        "name": "Jacks Graybeards"
+      },
+      "player": "#13 - Bob  Chagnot",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:51",
+      "team": {
+        "teamId": "1695",
+        "name": "Jacks Graybeards"
+      },
+      "player": "#12 - Brian  Dix",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:29",
+      "team": {
+        "teamId": "1695",
+        "name": "Jacks Graybeards"
+      },
+      "player": "#4 - Mark  Sullivan",
+      "pim": 12,
+      "offense": "unsport/misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:29",
+      "team": {
+        "teamId": "1694",
+        "name": "Virginia Buccaneers"
+      },
+      "player": "#90 - Kevin  Holyfield",
+      "pim": 12,
+      "offense": "unsport/misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:07",
+      "team": {
+        "teamId": "1694",
+        "name": "Virginia Buccaneers"
+      },
+      "player": "#37 - Barry  Zweig",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:10:55.081Z"
+}

@@ -1,0 +1,241 @@
+{
+  "gameId": "1373",
+  "date": "2023-10-17",
+  "divId": 267,
+  "seasonName": "Summer 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1648",
+    "name": "Kings"
+  },
+  "away": {
+    "teamId": "1646",
+    "name": "Englewood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#8 - Rod  Wade",
+      "assist2": "#77 - Oleg  Nayandin"
+    },
+    {
+      "period": "1",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1648",
+        "name": "Kings"
+      },
+      "scorer": "#3 - Dylah  Turff",
+      "assist1": "#8 - David  Satagaj",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:25",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#9 - Mitch  Bourgerie",
+      "assist1": "#26 - Charlie  Wojick",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:36",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#9 - Mitch  Bourgerie",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:41",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#26 - Charlie  Wojick",
+      "assist1": "#48 - Isaac  Hale",
+      "assist2": "#32 - Carl  Wojick"
+    },
+    {
+      "period": "3",
+      "time": "00:05:03",
+      "team": {
+        "teamId": "1648",
+        "name": "Kings"
+      },
+      "scorer": "#8 - David  Satagaj",
+      "assist1": "#33 - Steven  Terenzlo",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "1648",
+        "name": "Kings"
+      },
+      "scorer": "#8 - David  Satagaj",
+      "assist1": "#33 - Steven  Terenzlo",
+      "assist2": "#2 - Anders  Gleason"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:38",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:15",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "player": "#9 - Mitch  Bourgerie",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "player": "#41 - Livsics  Eugene",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "player": "#41 - Livsics  Eugene",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:52",
+      "team": {
+        "teamId": "1648",
+        "name": "Kings"
+      },
+      "player": "#2 - Anders  Gleason",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:41",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "player": "#7 - Joseph  Hull",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "player": "#9 - Mitch  Bourgerie",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:53",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "player": "#8 - Rod  Wade",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:01:32.402Z"
+}

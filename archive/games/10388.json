@@ -1,0 +1,202 @@
+{
+  "gameId": "10388",
+  "date": "2017-03-01",
+  "divId": 157,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1009",
+    "name": "Phantoms"
+  },
+  "away": {
+    "teamId": "1006",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:55",
+      "team": {
+        "teamId": "1009",
+        "name": "Phantoms"
+      },
+      "scorer": "#77 - Dennis  Nayandin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:35",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "scorer": "#8 - Paul  Balcerzak",
+      "assist1": "#40 - Brandon  Honeycutt",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:49",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "scorer": "#40 - Brandon  Honeycutt",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "scorer": "#8 - Paul  Balcerzak",
+      "assist1": "#40 - Brandon  Honeycutt",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:09",
+      "team": {
+        "teamId": "1009",
+        "name": "Phantoms"
+      },
+      "scorer": "#77 - Dennis  Nayandin",
+      "assist1": "#18 - Alex  DeYoung",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:25",
+      "team": {
+        "teamId": "1009",
+        "name": "Phantoms"
+      },
+      "scorer": "#88 - Chirs  Peterkin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:41",
+      "team": {
+        "teamId": "1009",
+        "name": "Phantoms"
+      },
+      "scorer": "#77 - Dennis  Nayandin",
+      "assist1": "#25 - Malcolm  Hyson",
+      "assist2": "#41 - Dan  Hyi"
+    },
+    {
+      "period": "3",
+      "time": "00:02:42",
+      "team": {
+        "teamId": "1009",
+        "name": "Phantoms"
+      },
+      "scorer": "#77 - Dennis  Nayandin",
+      "assist1": "#55 - Joel  Dever",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:59",
+      "team": {
+        "teamId": "1009",
+        "name": "Phantoms"
+      },
+      "player": "#18 - Alex  DeYoung",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "player": "#25 - James  Murtha",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "player": "#8 - Paul  Balcerzak",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:45",
+      "team": {
+        "teamId": "1006",
+        "name": "Kings"
+      },
+      "player": "#17 - Nick  Ford",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:58",
+      "team": {
+        "teamId": "1009",
+        "name": "Phantoms"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:45",
+      "team": {
+        "teamId": "1009",
+        "name": "Phantoms"
+      },
+      "player": "#88 - Chirs  Peterkin",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:02:15.233Z"
+}

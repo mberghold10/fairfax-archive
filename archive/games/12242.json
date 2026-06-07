@@ -1,0 +1,207 @@
+{
+  "gameId": "12242",
+  "date": "2018-10-24",
+  "divId": 194,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1233",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1229",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "scorer": "#98 - Joe  Tierney",
+      "assist1": "#69 - Aaron  Domnitch",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:36",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "scorer": "#28 - Pete  Sandness",
+      "assist1": "#27 - Chris  Balsley",
+      "assist2": "#25 - Bob  Banasik"
+    },
+    {
+      "period": "1",
+      "time": "00:13:52",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "scorer": "#28 - Pete  Sandness",
+      "assist1": "#9 - Tony  Cusumano",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:24",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#49 - Aaron  Dobbs",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#28 - Maxim  Alexeev",
+      "assist2": "#98 - Joe  Tierney"
+    },
+    {
+      "period": "2",
+      "time": "00:14:13",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "scorer": "#19 - Michael  Carr",
+      "assist1": "#11 - Bryan  Maloney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "scorer": "#11 - Bryan  Maloney",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "scorer": "#4 - Tad  Jose",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "scorer": "#28 - Pete  Sandness",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": "#9 - Tony  Cusumano"
+    },
+    {
+      "period": "3",
+      "time": "00:10:44",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#28 - Pete  Sandness",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:45",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "scorer": "#49 - Aaron  Dobbs",
+      "assist1": "#19 - Andrew  Grose",
+      "assist2": "#10 - Justin  Arbes"
+    },
+    {
+      "period": "3",
+      "time": "00:14:23",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "scorer": "#28 - Pete  Sandness",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:12:59",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "player": "#98 - Joe  Tierney",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:29",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "player": "#28 - Maxim  Alexeev",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:29",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "player": "#9 - Tony  Cusumano",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:47:10.524Z"
+}

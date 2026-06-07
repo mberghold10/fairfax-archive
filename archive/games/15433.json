@@ -1,0 +1,200 @@
+{
+  "gameId": "15433",
+  "date": "2022-11-26",
+  "divId": 260,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1605",
+    "name": "Hitmen"
+  },
+  "away": {
+    "teamId": "1598",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:26",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "scorer": "#32 - Rob  Stewart",
+      "assist1": "#29 - Steve  Erickson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "scorer": "#20 - Richard  Utano",
+      "assist1": "#77 - Doug  Smith",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:13",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "scorer": "#32 - Rob  Stewart",
+      "assist1": "#5 - Oleg  Kolodin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:34",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "scorer": "#88 - Anthony  DeJohn",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:07",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "scorer": "#17 - James  Ciskanik",
+      "assist1": "#24 - Evan  Feinberg",
+      "assist2": "#27 - Jeremy  King"
+    },
+    {
+      "period": "3",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "scorer": "#7 - Dan  Miller",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:24",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "scorer": "#5 - Chris  Oman",
+      "assist1": "#27 - Jeremy  King",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:37",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:46",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": "#92 - Dylan  Santos",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:48",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "player": "#3 - Charlie  Beekman",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "player": "#32 - Rob  Stewart",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "player": "#32 - Rob  Stewart",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:29",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "player": "#88 - Anthony  DeJohn",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:24",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "player": "#5 - Oleg  Kolodin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:52:39.387Z"
+}

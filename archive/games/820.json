@@ -1,0 +1,224 @@
+{
+  "gameId": "820",
+  "date": "2017-09-26",
+  "divId": 161,
+  "seasonName": "Summer 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1033",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "1035",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 5,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:33",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#250 - Kyle  Langdon",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:16",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "scorer": "#19 - Michael  Carr",
+      "assist1": "#24 - Jamie  Belcastro",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "scorer": "#19 - Michael  Carr",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": "#27 - Chris  Balsley"
+    },
+    {
+      "period": "1",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "scorer": "#2 - Peter  OKeefe",
+      "assist1": "#9 - Tony  Cusumano",
+      "assist2": "#1 - Sean  Maniuszko"
+    },
+    {
+      "period": "1",
+      "time": "00:07:07",
+      "team": {
+        "teamId": "1035",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:36",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "scorer": "#2 - Peter  OKeefe",
+      "assist1": "#1 - Sean  Maniuszko",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:52",
+      "team": {
+        "teamId": "1035",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#48 - Arturas  Vorobjovas",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1035",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#2 - Rod  Wade",
+      "assist2": "#4 - Mark  Sullivan"
+    },
+    {
+      "period": "3",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "scorer": "#27 - Chris  Balsley",
+      "assist1": "#9 - Tony  Cusumano",
+      "assist2": "#2 - Peter  OKeefe"
+    },
+    {
+      "period": "3",
+      "time": "00:07:51",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "scorer": "#27 - Chris  Balsley",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1035",
+        "name": "Jacks"
+      },
+      "player": "#36 - Jon  Stehle",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "player": "#1 - Sean  Maniuszko",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "1035",
+        "name": "Jacks"
+      },
+      "player": "#36 - Jon  Stehle",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:18",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "player": "#2 - Peter  OKeefe",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:28",
+      "team": {
+        "teamId": "1035",
+        "name": "Jacks"
+      },
+      "player": "#41 - Eugene  Livsics",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:07:37.567Z"
+}

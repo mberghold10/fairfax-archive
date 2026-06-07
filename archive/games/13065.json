@@ -1,0 +1,130 @@
+{
+  "gameId": "13065",
+  "date": "2019-08-24",
+  "divId": 203,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1286",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1287",
+    "name": "Bluejacket Capitals"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "scorer": "#13 - Trevor  Wallace",
+      "assist1": "#18 - Michael  Dewhirst",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:24",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "scorer": "#7 - Michael  Cardarelli",
+      "assist1": "#18 - Michael  Dewhirst",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:22",
+      "team": {
+        "teamId": "1287",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": "#81 - Chris  Holden",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "scorer": "#18 - Michael  Dewhirst",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:22",
+      "team": {
+        "teamId": "1287",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#70 - Dan  Ellert",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:38",
+      "team": {
+        "teamId": "1287",
+        "name": "Bluejacket Capitals"
+      },
+      "player": "#61 - Tim  Dutcher",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "player": "#33 - Adam  Bartholomew",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "player": "#13 - Trevor  Wallace",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:58:41.199Z"
+}

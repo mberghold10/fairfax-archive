@@ -1,0 +1,128 @@
+{
+  "gameId": "14129",
+  "date": "2021-06-20",
+  "divId": 230,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1439",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1442",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "scorer": "#45 - Justin  Marks",
+      "assist1": "#20 - Brendan  Furness",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:15",
+      "team": {
+        "teamId": "1442",
+        "name": "Red Wings"
+      },
+      "scorer": "#10 - Owen  Schaefer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:43",
+      "team": {
+        "teamId": "1442",
+        "name": "Red Wings"
+      },
+      "scorer": "#16 - Wei  Wang",
+      "assist1": "#10 - Owen  Schaefer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:44",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "scorer": "#20 - Brendan  Furness",
+      "assist1": "#86 - Pat  McMahon",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "scorer": "#93 - Aaron  Asimakopoulos",
+      "assist1": "#21 - Brendan  Williams",
+      "assist2": "#31 - Zach  Furness"
+    },
+    {
+      "period": "3",
+      "time": "00:14:23",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "scorer": "#93 - Aaron  Asimakopoulos",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "1442",
+        "name": "Red Wings"
+      },
+      "player": "#95 - Keith  Crawford",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:58",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "player": "#86 - Pat  McMahon",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:23:51.396Z"
+}

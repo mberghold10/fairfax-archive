@@ -1,0 +1,128 @@
+{
+  "gameId": "10432",
+  "date": "2017-04-15",
+  "divId": 169,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1077",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1080",
+    "name": "Sparks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:12",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "scorer": "#91 - James  Debolt",
+      "assist1": "#71 - John  Kornylo",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:15",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "scorer": "#9 - Maddy  Padgett",
+      "assist1": "#91 - James  Debolt",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "1080",
+        "name": "Sparks"
+      },
+      "scorer": "#7 - Ian  Stack",
+      "assist1": "#4 - Matt  Gelman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:32",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "scorer": "#9 - Maddy  Padgett",
+      "assist1": "#81 - Sean  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "scorer": "#60 - Ed  Sugrue",
+      "assist1": "#9 - Maddy  Padgett",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "scorer": "#81 - Sean  Murphy",
+      "assist1": "#9 - Maddy  Padgett",
+      "assist2": "#60 - Ed  Sugrue"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:14:25",
+      "team": {
+        "teamId": "1080",
+        "name": "Sparks"
+      },
+      "player": "#4 - Matt  Gelman",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:55",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "player": "#91 - James  Debolt",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:16:27.143Z"
+}

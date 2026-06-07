@@ -1,0 +1,165 @@
+{
+  "gameId": "11054",
+  "date": "2017-10-15",
+  "divId": 173,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1104",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1103",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1104",
+        "name": "Wolves"
+      },
+      "scorer": "#10 - Rich  Scigaj",
+      "assist1": "#14 - Paul  Tourbaf",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:32",
+      "team": {
+        "teamId": "1104",
+        "name": "Wolves"
+      },
+      "scorer": "#68 - Jeff  Robins",
+      "assist1": "#33 - Dmitriy  Achapkin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:47",
+      "team": {
+        "teamId": "1104",
+        "name": "Wolves"
+      },
+      "scorer": "#14 - Paul  Tourbaf",
+      "assist1": "#68 - Jeff  Robins",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:43",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#88 - Matt  Tiede",
+      "assist1": "#13 - Lazer  Wittman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#88 - Matt  Tiede",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": "#5 - Lars  Hjelm",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:32",
+      "team": {
+        "teamId": "1104",
+        "name": "Wolves"
+      },
+      "scorer": "#33 - Dmitriy  Achapkin",
+      "assist1": "#9 - Shannon  Karner",
+      "assist2": "#10 - Rich  Scigaj"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "player": "#20 - Paul  Flood",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:27",
+      "team": {
+        "teamId": "1104",
+        "name": "Wolves"
+      },
+      "player": "#12 - Jim  Schoff",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:39",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "player": "#77 - Jeff  Wilken",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:11",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "player": "#20 - Paul  Flood",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:21:14.009Z"
+}

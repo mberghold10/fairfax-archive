@@ -1,0 +1,128 @@
+{
+  "gameId": "1596",
+  "date": "2025-11-29",
+  "divId": 318,
+  "seasonName": "Summer 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1946",
+    "name": "Valor Puckaneers"
+  },
+  "away": {
+    "teamId": "1951",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:58",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "scorer": "#74 - Steven  Macchio",
+      "assist1": "#12 - Alex  Lewis",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:49",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "scorer": "#27 - David  Lin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:23",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "scorer": "#12 - Alex  Lewis",
+      "assist1": "#7 - Greg  Watchman",
+      "assist2": "#42 - Matthew  Poetzinger"
+    },
+    {
+      "period": "2",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "scorer": "#7 - Greg  Watchman",
+      "assist1": "#72 - Joseph  DeWolfe",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "scorer": "#74 - Steven  Macchio",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:45",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "scorer": "#91 - Sean  Andrada",
+      "assist1": "#3 - Alex  Naranjo",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:54",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "player": "#33 - Brandon  Boling",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:11",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "player": "#33 - Brandon  Boling",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:57:59.652Z"
+}

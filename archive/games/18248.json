@@ -1,0 +1,176 @@
+{
+  "gameId": "18248",
+  "date": "2025-08-13",
+  "divId": 315,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1928",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1931",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:31",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#7 - Andrew  Golomb",
+      "assist1": "#15 - Jonathan  Vu",
+      "assist2": "#3 - Oleg  Kolodin"
+    },
+    {
+      "period": "1",
+      "time": "00:07:56",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "scorer": "#27 - Chris  Balsley",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": "#57 - Derek  Morrissette"
+    },
+    {
+      "period": "2",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#33 - Michael  Ronan",
+      "assist1": "#71 - Colin  Shin",
+      "assist2": "#3 - Oleg  Kolodin"
+    },
+    {
+      "period": "2",
+      "time": "00:12:20",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#33 - Michael  Ronan",
+      "assist1": "#78 - Paul  Mangini",
+      "assist2": "#25 - Max  Watstein"
+    },
+    {
+      "period": "3",
+      "time": "00:01:09",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:47",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": "#10 - Justin  Arbes"
+    },
+    {
+      "period": "3",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#70 - David  Fitzgerald",
+      "assist2": "#57 - Derek  Morrissette"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "player": "#12 - Sami  Symalainen",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:32",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "player": "#33 - Michael  Ronan",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "player": "#70 - David  Fitzgerald",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:53:31.067Z"
+}

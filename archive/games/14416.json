@@ -1,0 +1,106 @@
+{
+  "gameId": "14416",
+  "date": "2021-12-07",
+  "divId": 241,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1490",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1492",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#6 - Derek  Morrissette",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:35",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#2 - Jason  Abkowitz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:01",
+      "team": {
+        "teamId": "1492",
+        "name": "Kings"
+      },
+      "scorer": "#26 - Zachary  Shelnitz",
+      "assist1": "#89 - Taylor  Eavenson",
+      "assist2": "#9 - Tommy  Meaux"
+    },
+    {
+      "period": "3",
+      "time": "00:10:04",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#16 - Bill  Thompson",
+      "assist1": "#3 - Jeff  Regan",
+      "assist2": "#12 - Brian  Dix"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:02",
+      "team": {
+        "teamId": "1492",
+        "name": "Kings"
+      },
+      "player": "#82 - Caleb  Sohl",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "player": "#41 - Eugene  Livicis",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:30:19.350Z"
+}

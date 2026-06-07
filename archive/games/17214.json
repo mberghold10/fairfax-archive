@@ -1,0 +1,143 @@
+{
+  "gameId": "17214",
+  "date": "2024-07-21",
+  "divId": 296,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1807",
+    "name": "Punishers"
+  },
+  "away": {
+    "teamId": "1808",
+    "name": "Virginia Buccaneers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:17",
+      "team": {
+        "teamId": "1807",
+        "name": "Punishers"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#4 - Patrick  Smith",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:34",
+      "team": {
+        "teamId": "1807",
+        "name": "Punishers"
+      },
+      "scorer": "#12 - Dave  OMally",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:56",
+      "team": {
+        "teamId": "1807",
+        "name": "Punishers"
+      },
+      "scorer": "#12 - Dave  OMally",
+      "assist1": "#4 - Patrick  Smith",
+      "assist2": "#67 - Chris  Dour"
+    },
+    {
+      "period": "3",
+      "time": "00:08:21",
+      "team": {
+        "teamId": "1807",
+        "name": "Punishers"
+      },
+      "scorer": "#4 - Patrick  Smith",
+      "assist1": "#12 - Dave  OMally",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:21",
+      "team": {
+        "teamId": "1807",
+        "name": "Punishers"
+      },
+      "scorer": "#4 - Patrick  Smith",
+      "assist1": "#12 - Dave  OMally",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:11:09",
+      "team": {
+        "teamId": "1807",
+        "name": "Punishers"
+      },
+      "player": "#14 - Richard  Cole",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "1807",
+        "name": "Punishers"
+      },
+      "player": "#8 - Grant  Dougans",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "1808",
+        "name": "Virginia Buccaneers"
+      },
+      "player": "#88 - Anthony  DeJohn",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:15:00",
+      "team": {
+        "teamId": "1808",
+        "name": "Virginia Buccaneers"
+      },
+      "player": "#31 - Brian  West",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:33:50.509Z"
+}

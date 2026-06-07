@@ -1,0 +1,204 @@
+{
+  "gameId": "12665",
+  "date": "2019-05-06",
+  "divId": 204,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1314",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1307",
+    "name": "Whalers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "scorer": "#34 - Jim  Morgan",
+      "assist1": "#77 - Caleb  Sohl",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:27",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "scorer": "#2 - Steve  Sondheimer",
+      "assist1": "#4 - Matt  Lane",
+      "assist2": "#24 - Colin  Frament"
+    },
+    {
+      "period": "1",
+      "time": "00:08:48",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "scorer": "#2 - Steve  Sondheimer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:55",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": "#26 - Danny  Meaux",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:09",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "scorer": "#2 - Colin  Wakeman",
+      "assist1": "#9 - Henry  Wakeman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:58",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "scorer": "#99 - James  Marlowe",
+      "assist1": "#55 - Joel  Whitney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:39",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "scorer": "#8 - Peter  Lee",
+      "assist1": "#37 - KC  Murphy",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "player": "#8 - Peter  Lee",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:33",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "player": "#4 - Matt  Lane",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "player": "#81 - Chris  Lettieri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:25",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "player": "#4 - Matt  Lane",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:53",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "player": "#10 - Chris  Greenough",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "player": "#26 - Danny  Meaux",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:59:04.349Z"
+}

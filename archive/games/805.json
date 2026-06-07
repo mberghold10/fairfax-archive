@@ -1,0 +1,95 @@
+{
+  "gameId": "805",
+  "date": "2017-03-25",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1018",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1021",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:11",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": "#10 - Howie  Schulman",
+      "assist2": "#22 - Mike  Treme"
+    },
+    {
+      "period": "1",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "scorer": "#14 - Harvey  Denison",
+      "assist1": "#67 - Neil  Fitzpatrick",
+      "assist2": "#8 - Mike  Dmytrewycz"
+    },
+    {
+      "period": "3",
+      "time": "00:07:59",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "scorer": "#91 - Matt  Vossekuil",
+      "assist1": "#28 - Doug  Branton",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#27 - Andrew  Sundelin",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:51",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#91 - Steve  Chernoff",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:05:19.136Z"
+}

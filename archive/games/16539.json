@@ -1,0 +1,200 @@
+{
+  "gameId": "16539",
+  "date": "2023-11-29",
+  "divId": 281,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1727",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1726",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1727",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:59",
+      "team": {
+        "teamId": "1726",
+        "name": "Ducks"
+      },
+      "scorer": "#71 - Colin  Shin",
+      "assist1": "#15 - Jonathan  Vu",
+      "assist2": "#18 - Sean  Gallucci"
+    },
+    {
+      "period": "1",
+      "time": "00:11:56",
+      "team": {
+        "teamId": "1726",
+        "name": "Ducks"
+      },
+      "scorer": "#21 - Erik  Bergman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:26",
+      "team": {
+        "teamId": "1726",
+        "name": "Ducks"
+      },
+      "scorer": "#6 - David  Satagaj",
+      "assist1": "#21 - Erik  Bergman",
+      "assist2": "#15 - Jonathan  Vu"
+    },
+    {
+      "period": "3",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1727",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#9 - Jason  Murphy",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "3",
+      "time": "00:11:32",
+      "team": {
+        "teamId": "1727",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:13",
+      "team": {
+        "teamId": "1726",
+        "name": "Ducks"
+      },
+      "scorer": "#6 - David  Satagaj",
+      "assist1": "#15 - Jonathan  Vu",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:09",
+      "team": {
+        "teamId": "1726",
+        "name": "Ducks"
+      },
+      "scorer": "#71 - Colin  Shin",
+      "assist1": "#15 - Jonathan  Vu",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:50",
+      "team": {
+        "teamId": "1726",
+        "name": "Ducks"
+      },
+      "scorer": "#64 - Derek  Bluth",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "1726",
+        "name": "Ducks"
+      },
+      "player": "#71 - Colin  Shin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "1727",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "1726",
+        "name": "Ducks"
+      },
+      "player": "#18 - Sean  Gallucci",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:12",
+      "team": {
+        "teamId": "1726",
+        "name": "Ducks"
+      },
+      "player": "#18 - Sean  Gallucci",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:54",
+      "team": {
+        "teamId": "1727",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:17:23.271Z"
+}

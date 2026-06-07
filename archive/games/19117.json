@@ -1,0 +1,178 @@
+{
+  "gameId": "19117",
+  "date": "2026-03-22",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2006",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "2003",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "scorer": "#17 - Sean  Burke",
+      "assist1": "#77 - Steven  Baugh",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "scorer": "#93 - Chris  Conley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:01",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#33 - Mark  Hall",
+      "assist1": "#28 - Chris  Pirisino",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#36 - Greg  Kowalski",
+      "assist1": "#24 - Jake  Middel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:36",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "scorer": "#16 - Alexandra  Goetz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:13",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "scorer": "#77 - Steven  Baugh",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:26",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#24 - Jake  Middel",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:36",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "player": "#90 - Phil  Cunningham",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:17",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "player": "#17 - Sean  Burke",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "player": "#7 - Art  Supsiri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:32",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "player": "#76 - Peter  Schaffer",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:08:32.747Z"
+}

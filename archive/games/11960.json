@@ -1,0 +1,248 @@
+{
+  "gameId": "11960",
+  "date": "2018-09-01",
+  "divId": 184,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1170",
+    "name": "BlueJacket Capitals"
+  },
+  "away": {
+    "teamId": "1171",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:33",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "scorer": "#10 - Chris  Greenough",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#7 - Gary  McMahon",
+      "assist1": "#11 - Mark  OConnell",
+      "assist2": "#25 - Stan  Torgovitsky"
+    },
+    {
+      "period": "1",
+      "time": "00:08:37",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#66 - Andrew  Alix",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "scorer": "#77 - Caleb  Sohl",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": "#12 - Jason  Wakeman"
+    },
+    {
+      "period": "2",
+      "time": "00:07:04",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "scorer": "#8 - Henry  Wakeman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:36",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#12 - Trent  Papke",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#81 - Chris  Holden",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#10 - Peter  Grose",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:18",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#17 - Bill  Demasso",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:44",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#66 - Andrew  Alix",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:28",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "player": "#2 - Colin  Wakeman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:20",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#12 - Trent  Papke",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:46",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#10 - Peter  Grose",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:46",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#88 - Andrew  Grose",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:09",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "player": "#20 - Richard  Utano",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:00",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#66 - Andrew  Alix",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:35:21.016Z"
+}

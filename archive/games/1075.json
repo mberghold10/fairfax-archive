@@ -1,0 +1,93 @@
+{
+  "gameId": "1075",
+  "date": "2020-08-13",
+  "divId": 214,
+  "seasonName": "Winter 2019",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1354",
+    "name": "Old Goats"
+  },
+  "away": {
+    "teamId": "1352",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#37 - Mike  Przybyla",
+      "assist1": "#15 - Mark  Rudnicki",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "1354",
+        "name": "Old Goats"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": "#28 - Marty  Gryski",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:05",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#13 - Bob  Seal",
+      "assist1": "#37 - Mike  Przybyla",
+      "assist2": "#81 - Chris  Holden"
+    },
+    {
+      "period": "3",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#2 - Shawn  Hatch",
+      "assist1": "#25 - Jeff  Wojtala",
+      "assist2": "#37 - Mike  Przybyla"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:24",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:12:23.846Z"
+}

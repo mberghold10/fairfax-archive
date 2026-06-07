@@ -1,0 +1,106 @@
+{
+  "gameId": "16964",
+  "date": "2024-06-09",
+  "divId": 287,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1761",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1765",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1761",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#11 - Scott  Choronzy",
+      "assist1": "#23 - Mark  Rodemoyer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "1761",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#77 - Erik  Bergman",
+      "assist1": "#11 - Scott  Choronzy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:39",
+      "team": {
+        "teamId": "1761",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#83 - Jonathan  Dingle",
+      "assist1": "#11 - Scott  Choronzy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:54",
+      "team": {
+        "teamId": "1761",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": "#12 - Steven  Courson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:06",
+      "team": {
+        "teamId": "1761",
+        "name": "British Bulldogs"
+      },
+      "player": "#44 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:56",
+      "team": {
+        "teamId": "1765",
+        "name": "Blue Crabs"
+      },
+      "player": "#92 - Lens  Desrouleaux",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:23:50.525Z"
+}

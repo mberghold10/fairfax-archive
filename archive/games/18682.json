@@ -1,0 +1,117 @@
+{
+  "gameId": "18682",
+  "date": "2026-02-09",
+  "divId": 322,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1972",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1973",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:15",
+      "team": {
+        "teamId": "1972",
+        "name": "Angry Moose"
+      },
+      "scorer": "#4 - Ryan  Cantwell",
+      "assist1": "#470 - Jeff  Urlwin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1973",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#21 - Josh  Vichness",
+      "assist1": "#6 - JB  Merritt",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1972",
+        "name": "Angry Moose"
+      },
+      "scorer": "#470 - Jeff  Urlwin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "1972",
+        "name": "Angry Moose"
+      },
+      "scorer": "#1 - Ryan  Gardiner",
+      "assist1": "#4 - Ryan  Cantwell",
+      "assist2": "#470 - Jeff  Urlwin"
+    },
+    {
+      "period": "3",
+      "time": "00:06:47",
+      "team": {
+        "teamId": "1972",
+        "name": "Angry Moose"
+      },
+      "scorer": "#470 - Jeff  Urlwin",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:38",
+      "team": {
+        "teamId": "1973",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#44 - Jeff  Marciano",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:58",
+      "team": {
+        "teamId": "1972",
+        "name": "Angry Moose"
+      },
+      "player": "#10 - Howie  Schulman",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:00:54.644Z"
+}

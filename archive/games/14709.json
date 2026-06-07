@@ -1,0 +1,93 @@
+{
+  "gameId": "14709",
+  "date": "2022-03-28",
+  "divId": 244,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1510",
+    "name": "Triassic Puck"
+  },
+  "away": {
+    "teamId": "1512",
+    "name": "Red Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:24",
+      "team": {
+        "teamId": "1512",
+        "name": "Red Dragons"
+      },
+      "scorer": "#23 - Emily  Borders",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1510",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#8 - Brian  Compagnone",
+      "assist1": "#89 - Brandon  Barhorst",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:54",
+      "team": {
+        "teamId": "1512",
+        "name": "Red Dragons"
+      },
+      "scorer": "#34 - Howard  Uman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:39",
+      "team": {
+        "teamId": "1512",
+        "name": "Red Dragons"
+      },
+      "scorer": "#19 - Ira  Keltz",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:06:39",
+      "team": {
+        "teamId": "1510",
+        "name": "Triassic Puck"
+      },
+      "player": "#89 - Brandon  Barhorst",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:34:48.314Z"
+}

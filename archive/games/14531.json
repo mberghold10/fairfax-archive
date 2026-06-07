@@ -1,0 +1,139 @@
+{
+  "gameId": "14531",
+  "date": "2021-12-12",
+  "divId": 246,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1523",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1522",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:11",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "scorer": "#55 - Ken  Alm",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:37",
+      "team": {
+        "teamId": "1523",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1523",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#18 - Pete  Poczatek",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:51",
+      "team": {
+        "teamId": "1523",
+        "name": "Team USA"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": "#10 - Mike  Brahmey",
+      "assist2": "#99 - Jon  Davoren"
+    },
+    {
+      "period": "2",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1523",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": "#54 - Dan  Bagley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:34",
+      "team": {
+        "teamId": "1523",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:17",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "scorer": "#55 - Ken  Alm",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "1523",
+        "name": "Team USA"
+      },
+      "player": "#54 - Dan  Bagley",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:43",
+      "team": {
+        "teamId": "1522",
+        "name": "Coyotes"
+      },
+      "player": "#14 - John  Pace",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:36:24.584Z"
+}

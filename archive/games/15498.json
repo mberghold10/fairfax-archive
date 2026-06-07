@@ -1,0 +1,106 @@
+{
+  "gameId": "15498",
+  "date": "2022-10-27",
+  "divId": 263,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1619",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1622",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "1622",
+        "name": "Grey Goons"
+      },
+      "scorer": "#25 - Chris  Lettieri",
+      "assist1": "#49 - Greg  Mullen",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:27",
+      "team": {
+        "teamId": "1619",
+        "name": "Penguins"
+      },
+      "scorer": "#19 - Mike  Carr",
+      "assist1": "#9 - Aaron  Dobbs",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:33",
+      "team": {
+        "teamId": "1622",
+        "name": "Grey Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:48",
+      "team": {
+        "teamId": "1622",
+        "name": "Grey Goons"
+      },
+      "scorer": "#47 - Talbot  Black",
+      "assist1": "#28 - Alex  Henry",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:09:20",
+      "team": {
+        "teamId": "1619",
+        "name": "Penguins"
+      },
+      "player": "#25 - Jeff  Wojtala",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:30",
+      "team": {
+        "teamId": "1622",
+        "name": "Grey Goons"
+      },
+      "player": "#49 - Greg  Mullen",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:56:16.273Z"
+}

@@ -1,0 +1,82 @@
+{
+  "gameId": "16687",
+  "date": "2024-03-23",
+  "divId": 277,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1706",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1703",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:16",
+      "team": {
+        "teamId": "1706",
+        "name": "Outlaws"
+      },
+      "scorer": "#21 - Alex  Vanscoy",
+      "assist1": "#19 - Jason  Young",
+      "assist2": "#11 - Michelle  Plampin"
+    },
+    {
+      "period": "1",
+      "time": "00:07:50",
+      "team": {
+        "teamId": "1706",
+        "name": "Outlaws"
+      },
+      "scorer": "#15 - Sean  Casey",
+      "assist1": "#13 - Ben  Mangel",
+      "assist2": "#43 - Mike  Barnes"
+    },
+    {
+      "period": "1",
+      "time": "00:12:44",
+      "team": {
+        "teamId": "1703",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#4 - Sean  Courtney",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "1706",
+        "name": "Outlaws"
+      },
+      "player": "#15 - Sean  Casey",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:13:19.543Z"
+}

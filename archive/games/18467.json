@@ -1,0 +1,117 @@
+{
+  "gameId": "18467",
+  "date": "2025-09-20",
+  "divId": 314,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1926",
+    "name": "Bottle Caps"
+  },
+  "away": {
+    "teamId": "1922",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "1922",
+        "name": "Wolves"
+      },
+      "scorer": "#62 - Andrew  Hancher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:44",
+      "team": {
+        "teamId": "1926",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#0 - Howard  Ludwig",
+      "assist1": "#29 - Chris  Dunn",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:23",
+      "team": {
+        "teamId": "1922",
+        "name": "Wolves"
+      },
+      "scorer": "#71 - Mike  McClennan",
+      "assist1": "#18 - Kyle  Dedrick",
+      "assist2": "#62 - Andrew  Hancher"
+    },
+    {
+      "period": "2",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "1922",
+        "name": "Wolves"
+      },
+      "scorer": "#71 - Mike  McClennan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:04",
+      "team": {
+        "teamId": "1926",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#91 - Erik  Brisson",
+      "assist1": "#17 - Marc  Patience",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "1926",
+        "name": "Bottle Caps"
+      },
+      "player": "#17 - Marc  Patience",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:08",
+      "team": {
+        "teamId": "1922",
+        "name": "Wolves"
+      },
+      "player": "#71 - Mike  McClennan",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:52:36.255Z"
+}

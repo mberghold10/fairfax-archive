@@ -1,0 +1,132 @@
+{
+  "gameId": "17127",
+  "date": "2024-07-10",
+  "divId": 292,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1790",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1819",
+    "name": "Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:25",
+      "team": {
+        "teamId": "1819",
+        "name": "Punishers"
+      },
+      "scorer": "#4 - Patrick  Smith",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:40",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "scorer": "#35 - Dan  Sheehan",
+      "assist1": "#11 - Dave  Brown",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:59",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": "#11 - Dave  Brown",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:26",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "scorer": "#27 - Aemon  Cashin",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:32",
+      "team": {
+        "teamId": "1819",
+        "name": "Punishers"
+      },
+      "player": "#8 - Grant  Dougans",
+      "pim": 2,
+      "offense": "Delay of Game",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:47",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "player": "#54 - Jerry  Gibbons",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:14",
+      "team": {
+        "teamId": "1819",
+        "name": "Punishers"
+      },
+      "player": "#14 - Richard  Cole",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:39",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "player": "#35 - Dan  Sheehan",
+      "pim": 2,
+      "offense": "Hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:29:25.595Z"
+}

@@ -1,0 +1,117 @@
+{
+  "gameId": "884",
+  "date": "2018-04-15",
+  "divId": 175,
+  "seasonName": "Winter 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1117",
+    "name": "BlueJacket Capitals"
+  },
+  "away": {
+    "teamId": "1115",
+    "name": "North Stars"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": "#42 - Adam  Russell",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:44",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": "#12 - Matt  Diamon",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#21 - John  Peterman",
+      "assist1": "#64 - Bob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": "#12 - Matt  Diamon",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": "#12 - Matt  Diamon",
+      "assist2": "#7 - Evan  Wojtowicz"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:54",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "player": "#88 - Todd  Mariano",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:59",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "player": "#12 - Matt  Diamon",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:24:50.409Z"
+}

@@ -1,0 +1,228 @@
+{
+  "gameId": "17846",
+  "date": "2025-03-01",
+  "divId": 300,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1844",
+    "name": "Hitmen"
+  },
+  "away": {
+    "teamId": "1848",
+    "name": "Pharoahs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:34",
+      "team": {
+        "teamId": "1844",
+        "name": "Hitmen"
+      },
+      "scorer": "#22 - Matt  Hebron",
+      "assist1": "#32 - Andy  Gay",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "1848",
+        "name": "Pharoahs"
+      },
+      "scorer": "#57 - Dylan  Thomas",
+      "assist1": "#90 - Tim  Bowers",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:08",
+      "team": {
+        "teamId": "1848",
+        "name": "Pharoahs"
+      },
+      "scorer": "#57 - Dylan  Thomas",
+      "assist1": "#28 - Michael  Berghold",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:40",
+      "team": {
+        "teamId": "1848",
+        "name": "Pharoahs"
+      },
+      "scorer": "#28 - Michael  Berghold",
+      "assist1": "#9 - Tristan  Heyn",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:07",
+      "team": {
+        "teamId": "1848",
+        "name": "Pharoahs"
+      },
+      "scorer": "#28 - Michael  Berghold",
+      "assist1": "#57 - Dylan  Thomas",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:06",
+      "team": {
+        "teamId": "1844",
+        "name": "Hitmen"
+      },
+      "scorer": "#26 - Arseny  Bogomolov",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "1844",
+        "name": "Hitmen"
+      },
+      "scorer": "#22 - Matt  Hebron",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:58",
+      "team": {
+        "teamId": "1848",
+        "name": "Pharoahs"
+      },
+      "scorer": "#5 - Chris  Maroon",
+      "assist1": "#9 - Tristan  Heyn",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:15",
+      "team": {
+        "teamId": "1844",
+        "name": "Hitmen"
+      },
+      "player": "#11 - Brandon  Marc-Aurele",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "1848",
+        "name": "Pharoahs"
+      },
+      "player": "#28 - Michael  Berghold",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "1844",
+        "name": "Hitmen"
+      },
+      "player": "#74 - Mike  Brewin",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "1848",
+        "name": "Pharoahs"
+      },
+      "player": "#90 - Tim  Bowers",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:01",
+      "team": {
+        "teamId": "1844",
+        "name": "Hitmen"
+      },
+      "player": "#89 - Jim  Rathbone",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:33",
+      "team": {
+        "teamId": "1848",
+        "name": "Pharoahs"
+      },
+      "player": "#9 - Tristan  Heyn",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:07",
+      "team": {
+        "teamId": "1844",
+        "name": "Hitmen"
+      },
+      "player": "#26 - Arseny  Bogomolov",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:22",
+      "team": {
+        "teamId": "1844",
+        "name": "Hitmen"
+      },
+      "player": "#32 - Andy  Gay",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:38:02.307Z"
+}

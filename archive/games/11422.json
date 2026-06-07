@@ -1,0 +1,82 @@
+{
+  "gameId": "11422",
+  "date": "2018-03-04",
+  "divId": 176,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1122",
+    "name": "Pharaohs"
+  },
+  "away": {
+    "teamId": "1123",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "1122",
+        "name": "Pharaohs"
+      },
+      "scorer": "#5 - Chris  Maroon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:23",
+      "team": {
+        "teamId": "1123",
+        "name": "Angry Moose"
+      },
+      "scorer": "#37 - Craig  Richardson",
+      "assist1": "#53 - Robert  Hutchinson",
+      "assist2": "#25 - David  Halsted"
+    },
+    {
+      "period": "2",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "1122",
+        "name": "Pharaohs"
+      },
+      "scorer": "#19 - Otto  Noffsinger",
+      "assist1": "#15 - Brian  Ebert",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:16",
+      "team": {
+        "teamId": "1123",
+        "name": "Angry Moose"
+      },
+      "player": "#44 - Trish  Waller",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:25:49.323Z"
+}

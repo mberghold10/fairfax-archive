@@ -1,0 +1,150 @@
+{
+  "gameId": "12770",
+  "date": "2019-07-07",
+  "divId": 200,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1269",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1267",
+    "name": "Rustico Flames"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:33",
+      "team": {
+        "teamId": "1267",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#55 - Scott  Dullea",
+      "assist1": "#16 - Dan  Rebmann",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#12 - Jason  Wakeman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:21",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#9 - Ken  Fritzke",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:06",
+      "team": {
+        "teamId": "1267",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#24 - Mike  Sheridan",
+      "assist1": "#17 - Bill  Demaso",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:54",
+      "team": {
+        "teamId": "1267",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#55 - Scott  Dullea",
+      "assist1": "#16 - Dan  Rebmann",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:49",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#34 - Jim  Morgan",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:10",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": "#98 - Matt  Criscuolo",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:46",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:44",
+      "team": {
+        "teamId": "1267",
+        "name": "Rustico Flames"
+      },
+      "player": "#12 - Mark  OConnell",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:09",
+      "team": {
+        "teamId": "1267",
+        "name": "Rustico Flames"
+      },
+      "player": "#3 - Bill  Kang",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:55:09.382Z"
+}

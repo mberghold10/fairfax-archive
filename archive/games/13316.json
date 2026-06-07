@@ -1,0 +1,82 @@
+{
+  "gameId": "13316",
+  "date": "2019-11-03",
+  "divId": 210,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1327",
+    "name": "Whalers"
+  },
+  "away": {
+    "teamId": "1329",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:14",
+      "team": {
+        "teamId": "1329",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#9 - Steve  Tarditi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:32",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "scorer": "#1 - Sean  Grossman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1329",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#7 - Dan  Fleshner",
+      "assist1": "#71 - Dan  Cosentino",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:07:46",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "player": "#17 - Matt  Faha",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:06:12.707Z"
+}

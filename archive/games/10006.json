@@ -1,0 +1,156 @@
+{
+  "gameId": "10006",
+  "date": "2016-11-05",
+  "divId": 155,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "997",
+    "name": "Rustico Flames"
+  },
+  "away": {
+    "teamId": "998",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:15",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#14 - Josh  Peter",
+      "assist1": "#11 - Ed  OCallaghan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#4 - Peter  van Aartrijk",
+      "assist1": "#13 - Sean  McGarry",
+      "assist2": "#55 - Scott  Dullea"
+    },
+    {
+      "period": "2",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#8 - Chris  White",
+      "assist1": "#14 - Josh  Peter",
+      "assist2": "#54 - Mike  Field"
+    },
+    {
+      "period": "2",
+      "time": "00:06:39",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#8 - Chris  White",
+      "assist1": "#54 - Mike  Field",
+      "assist2": "#55 - Scott  Dullea"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "player": "#88 - Peter  Dallman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:56",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:27",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "player": "#4 - Peter  van Aartrijk",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:58:54.842Z"
+}

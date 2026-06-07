@@ -1,0 +1,117 @@
+{
+  "gameId": "10532",
+  "date": "2017-05-14",
+  "divId": 164,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1051",
+    "name": "Senators"
+  },
+  "away": {
+    "teamId": "1050",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:27",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "scorer": "#52 - Alan  Dappen",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:08",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:59",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#37 - Nick  Desport",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "scorer": "#9 - Shannon  Karner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:25",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#22 - Charlie  Campbell",
+      "assist2": "#9 - Kim  Sherrock"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:22",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "player": "#6 - Jon  Alford",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:21",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "player": "#33 - Dmitriy  Achapkin",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:10:31.042Z"
+}

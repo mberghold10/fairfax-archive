@@ -1,0 +1,169 @@
+{
+  "gameId": "908",
+  "date": "2018-04-21",
+  "divId": 178,
+  "seasonName": "Winter 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1135",
+    "name": "Triassic Puck"
+  },
+  "away": {
+    "teamId": "1137",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:23",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#25 - Jack  Hur",
+      "assist1": "#10 - Radek  Kaczor",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:54",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#25 - Jack  Hur",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:47",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#25 - Jack  Hur",
+      "assist1": "#96 - Jonathan  Kurzinger",
+      "assist2": "#74 - Matthew  Santos"
+    },
+    {
+      "period": "2",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#43 - Dexter  Thompson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:41",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#4 - Jonathan  Carter",
+      "assist1": "#88 - Jason  Searight",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:11",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "player": "#43 - Dexter  Thompson",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "1137",
+        "name": "Rink Rats"
+      },
+      "player": "#79 - Igor  Helman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:53",
+      "team": {
+        "teamId": "1137",
+        "name": "Rink Rats"
+      },
+      "player": "#21 - Joe  LaBrake",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "player": "#88 - Jason  Searight",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "player": "#10 - Radek  Kaczor",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:41",
+      "team": {
+        "teamId": "1137",
+        "name": "Rink Rats"
+      },
+      "player": "#68 - Matt  Taylor",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:29:02.392Z"
+}

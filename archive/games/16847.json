@@ -1,0 +1,119 @@
+{
+  "gameId": "16847",
+  "date": "2024-02-03",
+  "divId": 283,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1738",
+    "name": "Goon Nation"
+  },
+  "away": {
+    "teamId": "1741",
+    "name": "Gold Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:07",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "scorer": "#81 - Nate  Breton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:49",
+      "team": {
+        "teamId": "1741",
+        "name": "Gold Goats"
+      },
+      "scorer": "#38 - Howard  Uman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:56",
+      "team": {
+        "teamId": "1741",
+        "name": "Gold Goats"
+      },
+      "scorer": "#53 - Johnny  Morse",
+      "assist1": "#22 - Ken  Ochsner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:18",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "scorer": "#3 - Mark  Boyd",
+      "assist1": "#15 - Warren  Conrow",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:12",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "player": "#15 - Warren  Conrow",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:04",
+      "team": {
+        "teamId": "1741",
+        "name": "Gold Goats"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:04:23",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "player": "#15 - Warren  Conrow",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:20:22.062Z"
+}

@@ -1,0 +1,158 @@
+{
+  "gameId": "11886",
+  "date": "2018-07-30",
+  "divId": 185,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1180",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1177",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:24",
+      "team": {
+        "teamId": "1177",
+        "name": "Angry Moose"
+      },
+      "scorer": "#4 - Ryan  Cantwell",
+      "assist1": "#11 - Dan  Wilson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1180",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#32 - Brian  Freeman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "1177",
+        "name": "Angry Moose"
+      },
+      "scorer": "#8 - Elliott  Yang",
+      "assist1": "#91 - Matt  Vossekuil",
+      "assist2": "#0 - Jory  Rubenstein"
+    },
+    {
+      "period": "3",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "1177",
+        "name": "Angry Moose"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": "#11 - Dan  Wilson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1177",
+        "name": "Angry Moose"
+      },
+      "player": "#0 - Jory  Rubenstein",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "1180",
+        "name": "Maple Leafs"
+      },
+      "player": "#1 - Chris  Beach",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:22",
+      "team": {
+        "teamId": "1177",
+        "name": "Angry Moose"
+      },
+      "player": "#2 - Dennis  Valentine",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:26",
+      "team": {
+        "teamId": "1180",
+        "name": "Maple Leafs"
+      },
+      "player": "#31 - Alex  Brown",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:04",
+      "team": {
+        "teamId": "1177",
+        "name": "Angry Moose"
+      },
+      "player": "#0 - Jory  Rubenstein",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:08",
+      "team": {
+        "teamId": "1180",
+        "name": "Maple Leafs"
+      },
+      "player": "#13 - Trevor  Wallace",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:36:21.544Z"
+}

@@ -1,0 +1,167 @@
+{
+  "gameId": "11006",
+  "date": "2017-11-15",
+  "divId": 171,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1091",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1090",
+    "name": "Englewood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:43",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "scorer": "#18 - Samson  Chu",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:56",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#7 - Joe  Hull",
+      "assist1": "#29 - Randy  Foster",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#2 - Rod  Wade",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:24",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": "#2 - Rod  Wade"
+    },
+    {
+      "period": "2",
+      "time": "00:06:08",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#3 - Mario  Regan",
+      "assist1": "#2 - Rod  Wade",
+      "assist2": "#16 - Bill  Thompson"
+    },
+    {
+      "period": "3",
+      "time": "00:03:01",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#29 - Randy  Foster",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "player": "#12 - Brian  Dix",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "player": "#29 - Randy  Foster",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:23",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "player": "#44 - Greg  Hanson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "player": "#16 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:59",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:18:39.571Z"
+}

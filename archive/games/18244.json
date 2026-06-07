@@ -1,0 +1,185 @@
+{
+  "gameId": "18244",
+  "date": "2025-07-30",
+  "divId": 315,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1931",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "1928",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 3,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:57",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#26 - Jeremy  Whang",
+      "assist2": "#92 - Ilya  Kosolapov"
+    },
+    {
+      "period": "1",
+      "time": "00:11:42",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#15 - Jonathan  Vu",
+      "assist1": "#33 - Michael  Ronan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#12 - Jon  Gregor",
+      "assist1": "#91 - Rob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:36",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#12 - Jon  Gregor",
+      "assist1": "#13 - Brian  Patterson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:29",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#33 - Michael  Ronan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:10",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#15 - Jonathan  Vu",
+      "assist1": "#91 - Rob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:08",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#15 - Jonathan  Vu",
+      "assist1": "#33 - Michael  Ronan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#33 - Michael  Ronan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:24",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#27 - Chris  Balsley",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:22",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "player": "#69 - Aaron  Domnitch",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "player": "#12 - Jon  Gregor",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "player": "#33 - Michael  Ronan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:53:28.002Z"
+}

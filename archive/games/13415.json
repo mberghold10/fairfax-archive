@@ -1,0 +1,106 @@
+{
+  "gameId": "13415",
+  "date": "2019-11-07",
+  "divId": 214,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1356",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1350",
+    "name": "Flying Circus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:04",
+      "team": {
+        "teamId": "1350",
+        "name": "Flying Circus"
+      },
+      "scorer": "#7 - Brendan  Ford",
+      "assist1": "#23 - Greg  Thomas",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "scorer": "#26 - Jim  Silbermann",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "1350",
+        "name": "Flying Circus"
+      },
+      "scorer": "#7 - Brendan  Ford",
+      "assist1": "#21 - Trevor  Wallace",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:23",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "scorer": "#26 - Jim  Silbermann",
+      "assist1": "#5 - Scott  Henry",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "player": "#5 - Scott  Henry",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "player": "#71 - John  Buhler",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:11:07.862Z"
+}

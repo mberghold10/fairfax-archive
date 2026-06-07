@@ -1,0 +1,99 @@
+{
+  "gameId": "11337",
+  "date": "2018-01-07",
+  "divId": 174,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1109",
+    "name": "Kings"
+  },
+  "away": {
+    "teamId": "1110",
+    "name": "Outlaws"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:12:09",
+      "team": {
+        "teamId": "1109",
+        "name": "Kings"
+      },
+      "scorer": "#55 - Chris  Yoko",
+      "assist1": "#27 - John  Dove",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:23",
+      "team": {
+        "teamId": "1110",
+        "name": "Outlaws"
+      },
+      "player": "#41 - Tony  Gorney",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1109",
+        "name": "Kings"
+      },
+      "player": "#11 - Joel  Bosch",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:17",
+      "team": {
+        "teamId": "1109",
+        "name": "Kings"
+      },
+      "player": "#14 - Sam  Marchio",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1110",
+        "name": "Outlaws"
+      },
+      "player": "#10 - Mike  Boyajian",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:22:36.496Z"
+}

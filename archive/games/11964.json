@@ -1,0 +1,156 @@
+{
+  "gameId": "11964",
+  "date": "2018-09-02",
+  "divId": 182,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1158",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1159",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:33",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#10 - Matt  Johnson",
+      "assist1": "#24 - Mike  Duell",
+      "assist2": "#3 - Jim  Van Dyke"
+    },
+    {
+      "period": "3",
+      "time": "00:09:47",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "scorer": "#71 - Mike  McLenahar",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:00",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "scorer": "#71 - Mike  McLenahar",
+      "assist1": "#9 - Shannon  Karner",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:04",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "player": "#24 - Mike  Duell",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "player": "#9 - Shannon  Karner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:47",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "player": "#23 - Dick  Deitos",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:15",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "player": "#33 - Dmirtiy  Achapkin",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:32:55.682Z"
+}

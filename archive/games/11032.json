@@ -1,0 +1,121 @@
+{
+  "gameId": "11032",
+  "date": "2017-11-12",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1102",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1100",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "scorer": "#39 - Alex  Talalayevsky",
+      "assist1": "#24 - Michael  Duell",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#5 - Howie  Uman",
+      "assist2": "#6 - Brad  Seibert"
+    },
+    {
+      "period": "3",
+      "time": "00:10:23",
+      "team": {
+        "teamId": "1102",
+        "name": "Islanders"
+      },
+      "scorer": "#11 - Shane  Mitchell",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:02",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "player": "#98 - Robert  Shaw",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1102",
+        "name": "Islanders"
+      },
+      "player": "#6 - Jon  Lauder",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:55",
+      "team": {
+        "teamId": "1102",
+        "name": "Islanders"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:55",
+      "team": {
+        "teamId": "1102",
+        "name": "Islanders"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:19:51.102Z"
+}

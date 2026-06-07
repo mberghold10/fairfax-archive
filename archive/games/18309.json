@@ -1,0 +1,121 @@
+{
+  "gameId": "18309",
+  "date": "2025-07-26",
+  "divId": 317,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1943",
+    "name": "Gold Goats"
+  },
+  "away": {
+    "teamId": "1941",
+    "name": "Fossil Pucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "1941",
+        "name": "Fossil Pucks"
+      },
+      "scorer": "#4 - Rob  Ryan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:36",
+      "team": {
+        "teamId": "1943",
+        "name": "Gold Goats"
+      },
+      "scorer": "#26 - Bob  Shay",
+      "assist1": "#22 - Ken  Oshsner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:32",
+      "team": {
+        "teamId": "1943",
+        "name": "Gold Goats"
+      },
+      "scorer": "#93 - Chris  Conley",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1941",
+        "name": "Fossil Pucks"
+      },
+      "player": "#21 - Joe  Rhodes",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:11",
+      "team": {
+        "teamId": "1941",
+        "name": "Fossil Pucks"
+      },
+      "player": "#11 - Gary  Caley",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1941",
+        "name": "Fossil Pucks"
+      },
+      "player": "#7 - Graham  Eddy",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:18",
+      "team": {
+        "teamId": "1943",
+        "name": "Gold Goats"
+      },
+      "player": "#93 - Chris  Conley",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:55:59.233Z"
+}

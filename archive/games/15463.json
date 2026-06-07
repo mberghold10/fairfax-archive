@@ -1,0 +1,121 @@
+{
+  "gameId": "15463",
+  "date": "2022-11-14",
+  "divId": 261,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1609",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1611",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:07:04",
+      "team": {
+        "teamId": "1611",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#21 - Steve  Kaplan",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:05",
+      "team": {
+        "teamId": "1611",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#39 - Alex  Cimon",
+      "assist1": "#14 - Chukie  Ezike",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:18",
+      "team": {
+        "teamId": "1609",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#86 - Pat  McMahon",
+      "assist1": "#46 - Ian  Stack",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1609",
+        "name": "Blackskimmers"
+      },
+      "player": "#19 - Nate  Rozelle",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1609",
+        "name": "Blackskimmers"
+      },
+      "player": "#77 - Paul  Cicchetti",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1609",
+        "name": "Blackskimmers"
+      },
+      "player": "#27 - Jamie  Prime",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:46",
+      "team": {
+        "teamId": "1609",
+        "name": "Blackskimmers"
+      },
+      "player": "#46 - Ian  Stack",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:54:12.436Z"
+}

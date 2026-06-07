@@ -1,0 +1,104 @@
+{
+  "gameId": "12026",
+  "date": "2018-09-22",
+  "divId": 182,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1160",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1161",
+    "name": "Beltway Butchers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:56",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "scorer": "#93 - Jeff  Nauer",
+      "assist1": "#18 - Heather  LeFever",
+      "assist2": "#2 - Mark  Jesten"
+    },
+    {
+      "period": "1",
+      "time": "00:12:34",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:56",
+      "team": {
+        "teamId": "1161",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#86 - John  Persinger",
+      "assist1": "#8 - Jon  Swaney",
+      "assist2": "#88 - TJ  Doherty"
+    },
+    {
+      "period": "2",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1161",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#12 - Allen  Lassinger",
+      "assist1": "#21 - John  Elliott",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "scorer": "#93 - Jeff  Nauer",
+      "assist1": "#18 - Heather  LeFever",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:10",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:33:03.671Z"
+}

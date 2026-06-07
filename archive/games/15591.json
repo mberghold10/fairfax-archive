@@ -1,0 +1,95 @@
+{
+  "gameId": "15591",
+  "date": "2022-12-28",
+  "divId": 266,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1635",
+    "name": "Jacks Graybeards"
+  },
+  "away": {
+    "teamId": "1637",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:06:41",
+      "team": {
+        "teamId": "1635",
+        "name": "Jacks Graybeards"
+      },
+      "scorer": "#32 - Carl  Wojcik",
+      "assist1": "#91 - Randy  Foster",
+      "assist2": "#4 - Mark  Sullivan"
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1637",
+        "name": "Nortec"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:33",
+      "team": {
+        "teamId": "1635",
+        "name": "Jacks Graybeards"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": "#4 - Mark  Sullivan"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:52",
+      "team": {
+        "teamId": "1635",
+        "name": "Jacks Graybeards"
+      },
+      "player": "#44 - Greg  Hanson",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "1637",
+        "name": "Nortec"
+      },
+      "player": "#28 - Dave  Wilson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:00:22.437Z"
+}

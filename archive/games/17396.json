@@ -1,0 +1,106 @@
+{
+  "gameId": "17396",
+  "date": "2024-09-21",
+  "divId": 294,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1798",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1796",
+    "name": "Goon Nation"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:19",
+      "team": {
+        "teamId": "1798",
+        "name": "Wolves"
+      },
+      "scorer": "#71 - Mike  McLenahan",
+      "assist1": "#47 - James  Kim",
+      "assist2": "#31 - Zachary  Furness"
+    },
+    {
+      "period": "1",
+      "time": "00:09:32",
+      "team": {
+        "teamId": "1796",
+        "name": "Goon Nation"
+      },
+      "scorer": "#41 - Paul  Mandeville",
+      "assist1": "#44 - Scott  Vecchione",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:41",
+      "team": {
+        "teamId": "1798",
+        "name": "Wolves"
+      },
+      "scorer": "#71 - Mike  McLenahan",
+      "assist1": "#31 - Zachary  Furness",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:53",
+      "team": {
+        "teamId": "1798",
+        "name": "Wolves"
+      },
+      "scorer": "#22 - Mark  Rayder",
+      "assist1": "#71 - Mike  McLenahan",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1798",
+        "name": "Wolves"
+      },
+      "player": "#62 - Ben  Fernandes",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:45",
+      "team": {
+        "teamId": "1798",
+        "name": "Wolves"
+      },
+      "player": "#94 - Mike  Starego",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:32:02.180Z"
+}

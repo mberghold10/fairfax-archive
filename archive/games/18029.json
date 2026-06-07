@@ -1,0 +1,154 @@
+{
+  "gameId": "18029",
+  "date": "2025-04-01",
+  "divId": 307,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1884",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1885",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "1885",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#14 - Dave  Fisher",
+      "assist1": "#32 - Brian  Freeman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:34",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#3 - Ed  Gulakowski",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:39",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#41 - David  Armstrong",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "1885",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:41",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "scorer": "#12 - Adam  Olsen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:26",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "scorer": "#25 - Greg  Reece",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1885",
+        "name": "Maple Leafs"
+      },
+      "player": "#23 - Trevor  Blair",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:43",
+      "team": {
+        "teamId": "1885",
+        "name": "Maple Leafs"
+      },
+      "player": "#77 - Paul  Cicchetti",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "1885",
+        "name": "Maple Leafs"
+      },
+      "player": "#31 - Alex  Brown",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:31",
+      "team": {
+        "teamId": "1885",
+        "name": "Maple Leafs"
+      },
+      "player": "#23 - Trevor  Blair",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:45:38.264Z"
+}

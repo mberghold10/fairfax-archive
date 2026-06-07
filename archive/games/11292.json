@@ -1,0 +1,180 @@
+{
+  "gameId": "11292",
+  "date": "2018-02-15",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1098",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1102",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:29",
+      "team": {
+        "teamId": "1102",
+        "name": "Islanders"
+      },
+      "scorer": "#17 - John  Wallace",
+      "assist1": "#31 - Jason  Apergis",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "scorer": "#6 - Rob  Kocher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:28",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "scorer": "#23 - Rick  Gorgone",
+      "assist1": "#6 - Rob  Kocher",
+      "assist2": "#55 - Tim  Dutcher"
+    },
+    {
+      "period": "3",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1102",
+        "name": "Islanders"
+      },
+      "scorer": "#31 - Jason  Apergis",
+      "assist1": "#13 - Tim  Cremen",
+      "assist2": "#19 - Jason  Long"
+    },
+    {
+      "period": "3",
+      "time": "00:02:27",
+      "team": {
+        "teamId": "1102",
+        "name": "Islanders"
+      },
+      "scorer": "#17 - John  Wallace",
+      "assist1": "#93 - Jeff  Nauer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "1102",
+        "name": "Islanders"
+      },
+      "scorer": "#13 - Tim  Cremen",
+      "assist1": "#93 - Jeff  Nauer",
+      "assist2": "#15 - Mark  Yawornicky"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "player": "#25 - Jeff  Wojtala",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:31",
+      "team": {
+        "teamId": "1102",
+        "name": "Islanders"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "player": "#7 - Dan  Ellert",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:31",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "player": "#56 - John  Filgear",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "player": "#7 - Dan  Ellert",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "1102",
+        "name": "Islanders"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:20:37.171Z"
+}

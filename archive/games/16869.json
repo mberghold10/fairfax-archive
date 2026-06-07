@@ -1,0 +1,106 @@
+{
+  "gameId": "16869",
+  "date": "2024-04-02",
+  "divId": 283,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1742",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1741",
+    "name": "Gold Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "1742",
+        "name": "Hurricanes"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": "#1 - Chris  Beach",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:55",
+      "team": {
+        "teamId": "1742",
+        "name": "Hurricanes"
+      },
+      "scorer": "#20 - Mike  Hempen",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:18",
+      "team": {
+        "teamId": "1741",
+        "name": "Gold Goats"
+      },
+      "scorer": "#53 - Johnny  Morse",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "1741",
+        "name": "Gold Goats"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#17 - Dan  Pol",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "1742",
+        "name": "Hurricanes"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:04:08",
+      "team": {
+        "teamId": "1741",
+        "name": "Gold Goats"
+      },
+      "player": "#37 - Nick  Desport",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:20:43.075Z"
+}

@@ -1,0 +1,165 @@
+{
+  "gameId": "1010",
+  "date": "2019-10-01",
+  "divId": 198,
+  "seasonName": "Summer 2019",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1258",
+    "name": "ers"
+  },
+  "away": {
+    "teamId": "1256",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "1258",
+        "name": "ers"
+      },
+      "scorer": "#19 - Sean  Burke",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:19",
+      "team": {
+        "teamId": "1256",
+        "name": "Jacks"
+      },
+      "scorer": "#18 - David  Leadston",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:40",
+      "team": {
+        "teamId": "1256",
+        "name": "Jacks"
+      },
+      "scorer": "#14 - Dennis  Nayandin",
+      "assist1": "#15 - John  Cushing",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "1256",
+        "name": "Jacks"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:34",
+      "team": {
+        "teamId": "1256",
+        "name": "Jacks"
+      },
+      "scorer": "#2 - Rod  Wade",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:36",
+      "team": {
+        "teamId": "1256",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:23",
+      "team": {
+        "teamId": "1258",
+        "name": "ers"
+      },
+      "scorer": "#19 - Sean  Burke",
+      "assist1": "#90 - Mark  Chapman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1256",
+        "name": "Jacks"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:29",
+      "team": {
+        "teamId": "1258",
+        "name": "ers"
+      },
+      "player": "#10 - Caleb  Sohl",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1258",
+        "name": "ers"
+      },
+      "player": "#20 - Gordon  Ruohoniemi",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:59",
+      "team": {
+        "teamId": "1256",
+        "name": "Jacks"
+      },
+      "player": "#3 - Jeff  Regan",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:53:06.292Z"
+}

@@ -1,0 +1,228 @@
+{
+  "gameId": "18012",
+  "date": "2025-05-10",
+  "divId": 306,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1875",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1877",
+    "name": "Anonymous"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 4,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:58",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "scorer": "#43 - Dave  Hagemeier",
+      "assist1": "#11 - Tom  Fergus",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#5 - Oleg  Kolodin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#77 - Dan  Miller",
+      "assist1": "#8 - Jamie  Sengheiser",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:24",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "scorer": "#43 - Dave  Hagemeier",
+      "assist1": "#3 - Bill  Kang",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:16",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "scorer": "#86 - Tom  Anwyll",
+      "assist1": "#42 - Jeff  Lovett",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:25",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "scorer": "#44 - Matt  Smith",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": "#15 - Bob  Guckian"
+    },
+    {
+      "period": "3",
+      "time": "00:07:06",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": "#77 - Dan  Miller",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:55",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "player": "#86 - Tom  Anwyll",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:08",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "player": "#18 - Pete  Poczatek",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "player": "#11 - Tom  Fergus",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:24",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "player": "#10 - Mike  Brahmey",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "player": "#35 - Ross  Kuhn",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:15",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "player": "#35 - Ross  Kuhn",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "player": "#43 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:44:40.344Z"
+}

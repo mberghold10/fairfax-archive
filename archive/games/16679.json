@@ -1,0 +1,117 @@
+{
+  "gameId": "16679",
+  "date": "2024-03-04",
+  "divId": 277,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1753",
+    "name": "Punishers HC"
+  },
+  "away": {
+    "teamId": "1704",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "1753",
+        "name": "Punishers HC"
+      },
+      "scorer": "#88 - Matt  Zipper",
+      "assist1": "#12 - Dave  OMally",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:14",
+      "team": {
+        "teamId": "1704",
+        "name": "Dragons"
+      },
+      "scorer": "#38 - Erik  Scharnweber",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "1753",
+        "name": "Punishers HC"
+      },
+      "scorer": "#12 - Dave  OMally",
+      "assist1": "#88 - Matt  Zipper",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "1704",
+        "name": "Dragons"
+      },
+      "scorer": "#71 - Robie  Raymond",
+      "assist1": "#4 - Josiah  Renton",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:05",
+      "team": {
+        "teamId": "1753",
+        "name": "Punishers HC"
+      },
+      "scorer": "#88 - Matt  Zipper",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1704",
+        "name": "Dragons"
+      },
+      "player": "#55 - Griffin  Bryce",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:15",
+      "team": {
+        "teamId": "1704",
+        "name": "Dragons"
+      },
+      "player": "#7 - Connor  Anderson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:13:11.538Z"
+}

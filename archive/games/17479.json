@@ -1,0 +1,169 @@
+{
+  "gameId": "17479",
+  "date": "2024-09-01",
+  "divId": 292,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1788",
+    "name": "Ers"
+  },
+  "away": {
+    "teamId": "1789",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "scorer": "#44 - Mick  Ellsworth",
+      "assist1": "#21 - Mark  Johnston",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:45",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "scorer": "#55 - Mike  McKenney",
+      "assist1": "#44 - Mick  Ellsworth",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#96 - Chris  Beck",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:42",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "scorer": "#96 - Chris  Beck",
+      "assist1": "#74 - Paul  Sechser",
+      "assist2": "#24 - Tom  Spiewak"
+    },
+    {
+      "period": "3",
+      "time": "00:14:02",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "scorer": "#55 - Mike  McKenney",
+      "assist1": "#20 - Edward  Holleran",
+      "assist2": "#44 - Mick  Ellsworth"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1789",
+        "name": "Penguins"
+      },
+      "player": "#25 - Jeff  Wojtala",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:03",
+      "team": {
+        "teamId": "1789",
+        "name": "Penguins"
+      },
+      "player": "#25 - Jeff  Wojtala",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:24",
+      "team": {
+        "teamId": "1789",
+        "name": "Penguins"
+      },
+      "player": "#57 - Derek  Morrissette",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1789",
+        "name": "Penguins"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:28",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "player": "#74 - Paul  Sechser",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:01",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "player": "#9 - Brian  Mehnert",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:29:44.644Z"
+}

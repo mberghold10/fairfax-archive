@@ -1,0 +1,86 @@
+{
+  "gameId": "17184",
+  "date": "2024-08-04",
+  "divId": 294,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1798",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1800",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:15:00",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#25 - Greg  Reece",
+      "assist2": "#38 - Keith  Forsythe"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "player": "#17 - John  Wallace",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:24",
+      "team": {
+        "teamId": "1798",
+        "name": "Wolves"
+      },
+      "player": "#910 - Jim  Shaw",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:37",
+      "team": {
+        "teamId": "1798",
+        "name": "Wolves"
+      },
+      "player": "#43 - Dan  Miller",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:31:46.140Z"
+}

@@ -1,0 +1,71 @@
+{
+  "gameId": "16627",
+  "date": "2023-11-26",
+  "divId": 284,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1745",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1746",
+    "name": "Hershey"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:02:20",
+      "team": {
+        "teamId": "1746",
+        "name": "Hershey"
+      },
+      "scorer": "#54 - Scott  Knisley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "1746",
+        "name": "Hershey"
+      },
+      "scorer": "#22 - Jeff  Dunn",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:55",
+      "team": {
+        "teamId": "1746",
+        "name": "Hershey"
+      },
+      "player": "#81 - David  Culberhouse",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:21:14.636Z"
+}

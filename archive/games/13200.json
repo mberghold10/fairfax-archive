@@ -1,0 +1,154 @@
+{
+  "gameId": "13200",
+  "date": "2019-09-25",
+  "divId": 202,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1284",
+    "name": "Bulldogs"
+  },
+  "away": {
+    "teamId": "1281",
+    "name": "Divorced Men"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "1284",
+        "name": "Bulldogs"
+      },
+      "scorer": "#1 - Nick  Oleski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:34",
+      "team": {
+        "teamId": "1284",
+        "name": "Bulldogs"
+      },
+      "scorer": "#90 - Shawn  McEvoy",
+      "assist1": "#33 - Dan  Middleton",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:56",
+      "team": {
+        "teamId": "1284",
+        "name": "Bulldogs"
+      },
+      "scorer": "#90 - Shawn  McEvoy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:13",
+      "team": {
+        "teamId": "1281",
+        "name": "Divorced Men"
+      },
+      "scorer": "#29 - Zachary  Shiohama",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:24",
+      "team": {
+        "teamId": "1284",
+        "name": "Bulldogs"
+      },
+      "scorer": "#26 - Michael  Curzol",
+      "assist1": "#33 - Dan  Middleton",
+      "assist2": "#90 - Shawn  McEvoy"
+    },
+    {
+      "period": "3",
+      "time": "00:06:39",
+      "team": {
+        "teamId": "1284",
+        "name": "Bulldogs"
+      },
+      "scorer": "#1 - Nick  Oleski",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1284",
+        "name": "Bulldogs"
+      },
+      "player": "#1 - Nick  Oleski",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1281",
+        "name": "Divorced Men"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:19",
+      "team": {
+        "teamId": "1284",
+        "name": "Bulldogs"
+      },
+      "player": "#1 - Nick  Oleski",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:19",
+      "team": {
+        "teamId": "1281",
+        "name": "Divorced Men"
+      },
+      "player": "#64 - Stephen  Arthur",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:57:56.222Z"
+}

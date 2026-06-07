@@ -1,0 +1,106 @@
+{
+  "gameId": "19142",
+  "date": "2026-05-24",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2005",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "2002",
+    "name": "Megalosaurus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:10",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#10 - Ed  Hillard",
+      "assist1": "#10 - Ed  Hillard",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:17:00",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#35 - Peter  Molnar",
+      "assist1": "#62 - Sam  Munson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:16",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#61 - Wes  Bieliek",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:46",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#27 - Jamie  Prime",
+      "assist1": "#92 - Daniel  Horner",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:26",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "player": "#30 - Antonello  Favaro",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "player": "#11 - Brian  Deska",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:08:55.708Z"
+}

@@ -1,0 +1,139 @@
+{
+  "gameId": "13283",
+  "date": "2019-12-03",
+  "divId": 208,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1318",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1316",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1316",
+        "name": "Kings"
+      },
+      "scorer": "#7 - Mike  Hoard",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "1318",
+        "name": "Jacks"
+      },
+      "scorer": "#2 - Jason  Abkowitz",
+      "assist1": "#15 - John  Cushing",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "1318",
+        "name": "Jacks"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#2 - Jason  Abkowitz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:44",
+      "team": {
+        "teamId": "1318",
+        "name": "Jacks"
+      },
+      "scorer": "#16 - Bill  Thompson",
+      "assist1": "#3 - Jeff  Regan",
+      "assist2": "#7 - Joe  Hall"
+    },
+    {
+      "period": "3",
+      "time": "00:12:01",
+      "team": {
+        "teamId": "1318",
+        "name": "Jacks"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#7 - Joe  Hall",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:14",
+      "team": {
+        "teamId": "1318",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:09",
+      "team": {
+        "teamId": "1316",
+        "name": "Kings"
+      },
+      "scorer": "#8 - Paul  Balcerzak",
+      "assist1": "#27 - John  Dove",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:23",
+      "team": {
+        "teamId": "1318",
+        "name": "Jacks"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 2,
+      "offense": "charge",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:23",
+      "team": {
+        "teamId": "1318",
+        "name": "Jacks"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:04:07.149Z"
+}

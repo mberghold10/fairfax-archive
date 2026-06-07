@@ -1,0 +1,93 @@
+{
+  "gameId": "14829",
+  "date": "2022-03-06",
+  "divId": 248,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1534",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1532",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "1532",
+        "name": "Roughnecks"
+      },
+      "scorer": "#10 - Dana  Kaufman",
+      "assist1": "#16 - Christopher  Holbert",
+      "assist2": "#9 - Kyle  Dedrick"
+    },
+    {
+      "period": "1",
+      "time": "00:13:11",
+      "team": {
+        "teamId": "1534",
+        "name": "Red Wings"
+      },
+      "scorer": "#11 - Greg  Kowalski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:52",
+      "team": {
+        "teamId": "1534",
+        "name": "Red Wings"
+      },
+      "scorer": "#11 - Greg  Kowalski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1532",
+        "name": "Roughnecks"
+      },
+      "scorer": "#5 - Paul  Barber",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:13:03",
+      "team": {
+        "teamId": "1534",
+        "name": "Red Wings"
+      },
+      "player": "#4 - Gene  Martin",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:39:13.344Z"
+}

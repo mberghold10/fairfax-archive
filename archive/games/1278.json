@@ -1,0 +1,178 @@
+{
+  "gameId": "1278",
+  "date": "2023-04-17",
+  "divId": 259,
+  "seasonName": "Winter 2022",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1592",
+    "name": "Punishers HC"
+  },
+  "away": {
+    "teamId": "1594",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:05:07",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "scorer": "#88 - Matt  Zipper",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:35",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "scorer": "#88 - Matt  Zipper",
+      "assist1": "#4 - Patrick  Smith",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:52",
+      "team": {
+        "teamId": "1594",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#20 - Jeff  Carter",
+      "assist1": "#17 - Kevin  Roehner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:19",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": "#12 - Dave  OMally",
+      "assist2": "#27 - Dave  Lin"
+    },
+    {
+      "period": "3",
+      "time": "00:05:02",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "scorer": "#27 - Dave  Lin",
+      "assist1": "#88 - Matt  Zipper",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:39",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": "#12 - Dave  OMally",
+      "assist2": "#15 - Phil  Wind"
+    },
+    {
+      "period": "3",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": "#12 - Dave  OMally",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "player": "#27 - Dave  Lin",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "player": "#8 - Grant  Dougans",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:52",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "player": "#27 - Dave  Lin",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:52",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "player": "#27 - Dave  Lin",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:07",
+      "team": {
+        "teamId": "1594",
+        "name": "Blue Crabs"
+      },
+      "player": "#20 - Jeff  Carter",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:52:09.870Z"
+}

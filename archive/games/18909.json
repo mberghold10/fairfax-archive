@@ -1,0 +1,261 @@
+{
+  "gameId": "18909",
+  "date": "2026-05-17",
+  "divId": 321,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1967",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1964",
+    "name": "D 4th Liners"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 5,
+      "p3": 4,
+      "ot": 0,
+      "final": 10
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:36",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#17 - Nicholas  Peraino",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "scorer": "#7 - Alex  Rinaldi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#28 - Parker  Condit",
+      "assist1": "#7 - Steven  Roessler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:55",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#88 - John  Jepson",
+      "assist1": "#33 - Tanner  Paul",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:47",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#33 - Tanner  Paul",
+      "assist1": "#10 - Jeremy  Riccio",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:14",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#17 - Nicholas  Peraino",
+      "assist1": "#10 - Jeremy  Riccio",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:29",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#88 - John  Jepson",
+      "assist1": "#10 - Jeremy  Riccio",
+      "assist2": "#33 - Tanner  Paul"
+    },
+    {
+      "period": "3",
+      "time": "00:06:35",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#12 - Nic  Westing",
+      "assist1": "#7 - Steven  Roessler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:37",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#33 - Tanner  Paul",
+      "assist1": "#9 - Ryan  Day",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#10 - Jeremy  Riccio",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:33",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#33 - Tanner  Paul",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#17 - Maxim  Rinaldi",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:47",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "player": "#7 - Steven  Roessler",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#30 - Bill  Campbell",
+      "pim": 5,
+      "offense": "spear",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#30 - Bill  Campbell",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#7 - Alex  Rinaldi",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:35",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "player": "#88 - John  Jepson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:49",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "player": "#17 - Nicholas  Peraino",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:29",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#17 - Maxim  Rinaldi",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:38:51.238Z"
+}

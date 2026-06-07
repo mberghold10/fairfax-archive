@@ -1,0 +1,165 @@
+{
+  "gameId": "11558",
+  "date": "2018-05-26",
+  "divId": 180,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1147",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1149",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:34",
+      "team": {
+        "teamId": "1149",
+        "name": "Ducks"
+      },
+      "scorer": "#22 - Nate  Harrison",
+      "assist1": "#55 - Mark  Chapman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:26",
+      "team": {
+        "teamId": "1149",
+        "name": "Ducks"
+      },
+      "scorer": "#91 - Rob  Fischer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:30",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "scorer": "#28 - Charles  Hale",
+      "assist1": "#3 - Mario  Regan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:08",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "scorer": "#16 - Bill  Thompson",
+      "assist1": "#3 - Mario  Regan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "scorer": "#16 - Bill  Thompson",
+      "assist1": "#28 - Charles  Hale",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:01",
+      "team": {
+        "teamId": "1149",
+        "name": "Ducks"
+      },
+      "scorer": "#55 - Mark  Chapman",
+      "assist1": "#91 - Rob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "1149",
+        "name": "Ducks"
+      },
+      "scorer": "#55 - Mark  Chapman",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:17",
+      "team": {
+        "teamId": "1149",
+        "name": "Ducks"
+      },
+      "player": "#0 - Robert  Richard",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "player": "#12 - Brian  Dix",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:50",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "player": "#3 - Mario  Regan",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "player": "#44 - Greg  Hanson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:30:05.320Z"
+}

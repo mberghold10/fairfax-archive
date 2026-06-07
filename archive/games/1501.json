@@ -1,0 +1,134 @@
+{
+  "gameId": "1501",
+  "date": "2025-06-02",
+  "divId": 299,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1842",
+    "name": "Screaming Eagles"
+  },
+  "away": {
+    "teamId": "1840",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:27",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#10 - Mario  Constantinou",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": "#6 - Kyle  Herring",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:54",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#94 - Trygve  Olson",
+      "assist1": "#28 - Jake  Combs",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:39",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "player": "#90 - Shawn  McEvoy",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:16",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "player": "#96 - Jared  Elder",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:32",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "player": "#94 - Trygve  Olson",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "player": "#83 - Jonathan  Dingle",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:59",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "player": "#94 - Trygve  Olson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:37:25.277Z"
+}

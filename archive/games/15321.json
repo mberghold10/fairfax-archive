@@ -1,0 +1,130 @@
+{
+  "gameId": "15321",
+  "date": "2022-09-24",
+  "divId": 256,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1579",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1578",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1578",
+        "name": "Roughnecks"
+      },
+      "scorer": "#12 - John  Myers",
+      "assist1": "#27 - Brian  Hunt",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:16",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#15 - Steve  Felter",
+      "assist1": "#16 - Sue  Felter",
+      "assist2": "#8 - Reid  Maki"
+    },
+    {
+      "period": "3",
+      "time": "00:07:29",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#25 - Neil  Dsouza",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:06",
+      "team": {
+        "teamId": "1578",
+        "name": "Roughnecks"
+      },
+      "scorer": "#34 - William  Happ",
+      "assist1": "#17 - Marc  Patience",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:02:12",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": "#22 - Amir  Tahami",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:34",
+      "team": {
+        "teamId": "1578",
+        "name": "Roughnecks"
+      },
+      "player": "#12 - John  Myers",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:38",
+      "team": {
+        "teamId": "1579",
+        "name": "Blue Dogs"
+      },
+      "player": "#0 - Ruben  Garcia",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:03:02",
+      "team": {
+        "teamId": "1578",
+        "name": "Roughnecks"
+      },
+      "player": "#13 - Greg  Wilburn",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:48:53.865Z"
+}

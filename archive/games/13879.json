@@ -1,0 +1,95 @@
+{
+  "gameId": "13879",
+  "date": "2020-11-01",
+  "divId": 224,
+  "seasonName": "Fall 2020",
+  "mode": "regular",
+  "home": {
+    "teamId": "1403",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1402",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:19:34",
+      "team": {
+        "teamId": "1403",
+        "name": "Thunder"
+      },
+      "scorer": "#18 - Nathan  Rozelle",
+      "assist1": "#20 - Brenadan  Furness",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:21",
+      "team": {
+        "teamId": "1402",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#61 - William  Hesler",
+      "assist1": "#2 - Darin  Martin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:18",
+      "team": {
+        "teamId": "1403",
+        "name": "Thunder"
+      },
+      "scorer": "#18 - Nathan  Rozelle",
+      "assist1": "#20 - Brenadan  Furness",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:23",
+      "team": {
+        "teamId": "1402",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#7 - James  Waddick",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:56",
+      "team": {
+        "teamId": "1402",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#17 - Jonathan  Keeney",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:18:58.791Z"
+}

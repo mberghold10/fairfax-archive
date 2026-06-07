@@ -1,0 +1,143 @@
+{
+  "gameId": "17745",
+  "date": "2025-02-01",
+  "divId": 307,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1885",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1883",
+    "name": "Gold Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:04",
+      "team": {
+        "teamId": "1883",
+        "name": "Gold Goats"
+      },
+      "scorer": "#34 - Marty  Gryski",
+      "assist1": "#15 - Tom  Sgroi",
+      "assist2": "#93 - Chris  Conley"
+    },
+    {
+      "period": "1",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "1883",
+        "name": "Gold Goats"
+      },
+      "scorer": "#42 - Jeff  Brooks",
+      "assist1": "#12 - Dave  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1883",
+        "name": "Gold Goats"
+      },
+      "scorer": "#7 - Greg  Watchman",
+      "assist1": "#18 - Sam  Bressi",
+      "assist2": "#12 - Dave  OMalley"
+    },
+    {
+      "period": "3",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1885",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#8 - Elliott  Yang",
+      "assist1": "#47 - Jeff  Urlwin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:16",
+      "team": {
+        "teamId": "1883",
+        "name": "Gold Goats"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#7 - Greg  Watchman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "1885",
+        "name": "Maple Leafs"
+      },
+      "player": "#16 - Greg  Thomas",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:45",
+      "team": {
+        "teamId": "1885",
+        "name": "Maple Leafs"
+      },
+      "player": "#16 - Greg  Thomas",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1883",
+        "name": "Gold Goats"
+      },
+      "player": "#38 - Howard  Uman",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1885",
+        "name": "Maple Leafs"
+      },
+      "player": "#31 - Alex  Brown",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:45:24.044Z"
+}

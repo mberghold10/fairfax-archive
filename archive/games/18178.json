@@ -1,0 +1,141 @@
+{
+  "gameId": "18178",
+  "date": "2025-07-27",
+  "divId": 313,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1914",
+    "name": "Red Dragons"
+  },
+  "away": {
+    "teamId": "1917",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:44",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "scorer": "#80 - Ethan  Hoffman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:29",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "scorer": "#65 - Stuart  Hoffman",
+      "assist1": "#10 - John  Kolman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "scorer": "#10 - John  Kolman",
+      "assist1": "#80 - Ethan  Hoffman",
+      "assist2": "#65 - Stuart  Hoffman"
+    },
+    {
+      "period": "2",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "scorer": "#69 - Gibb  Little",
+      "assist1": "#80 - Ethan  Hoffman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "scorer": "#10 - John  Kolman",
+      "assist1": "#37 - Josh  Robishaw",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:53",
+      "team": {
+        "teamId": "1917",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#21 - Brody  Walkinshaw",
+      "assist1": "#27 - Mike  Fullen",
+      "assist2": "#7 - Eddy  Graham"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "player": "#7 - Connor  Anderson",
+      "pim": 2,
+      "offense": "head contact",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "player": "#7 - Connor  Anderson",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:59",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "player": "#65 - Stuart  Hoffman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:50:39.350Z"
+}

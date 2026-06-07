@@ -1,0 +1,263 @@
+{
+  "gameId": "1536",
+  "date": "2025-06-15",
+  "divId": 305,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1869",
+    "name": "Virginia Buccaneers"
+  },
+  "away": {
+    "teamId": "1870",
+    "name": "Ers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 5,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 8
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:38",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#62 - Chris  Scully",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#62 - Chris  Scully",
+      "assist1": "#19 - Ray  Ciesinski",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:47",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#21 - Grant  Moher",
+      "assist1": "#67 - Kyle  Andrews",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:56",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#96 - Chris  Beck",
+      "assist1": "#9 - Brian  Mehnert",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:40",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#62 - Chris  Scully",
+      "assist1": "#20 - Kevin  Whelan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:56",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#21 - Grant  Moher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:43",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#19 - Ray  Ciesinski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:44",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#20 - Kevin  Whelan",
+      "assist1": "#62 - Chris  Scully",
+      "assist2": "#11 - Scott  Fitzpatrick"
+    },
+    {
+      "period": "2",
+      "time": "00:13:30",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#67 - Kyle  Andrews",
+      "assist1": "#11 - Scott  Fitzpatrick",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#3 - Matt  Cerce",
+      "assist1": "#96 - Chris  Beck",
+      "assist2": "#7 - Matt  ODriscoll"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "player": "#67 - Kyle  Andrews",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:50",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "player": "#19 - Ray  Ciesinski",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:18",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "player": "#96 - Chris  Beck",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:29",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "player": "#14 - Josef  Cerny",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "player": "#7 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "player": "#11 - Scott  Fitzpatrick",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "player": "#67 - Kyle  Andrews",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:15",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "player": "#9 - Brian  Mehnert",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:36",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "player": "#62 - Chris  Scully",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:43:33.147Z"
+}

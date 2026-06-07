@@ -1,0 +1,86 @@
+{
+  "gameId": "10440",
+  "date": "2017-04-16",
+  "divId": 169,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1078",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1079",
+    "name": "Steamed Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:13:49",
+      "team": {
+        "teamId": "1079",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#24 - Mark  Paolicelli",
+      "assist1": "#9 - Dave  Baker",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1079",
+        "name": "Steamed Crabs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1078",
+        "name": "Blue Dogs"
+      },
+      "player": "#34 - John  Vanore",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:17:21",
+      "team": {
+        "teamId": "1078",
+        "name": "Blue Dogs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:16:28.045Z"
+}

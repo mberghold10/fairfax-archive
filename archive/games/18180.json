@@ -1,0 +1,165 @@
+{
+  "gameId": "18180",
+  "date": "2025-07-28",
+  "divId": 313,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1919",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1913",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:42",
+      "team": {
+        "teamId": "1913",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#17 - Josh  Bliudzius",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:20",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#89 - Sid  Han",
+      "assist1": "#19 - Nate  Rozelle",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#74 - Eric  Peterson",
+      "assist1": "#89 - Sid  Han",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:47",
+      "team": {
+        "teamId": "1913",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#17 - Josh  Bliudzius",
+      "assist1": "#20 - Mike  Neas",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:24",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#11 - Josh  Gilman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:21",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#89 - Sid  Han",
+      "assist1": "#71 - Francis  Aul",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:48",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#86 - Pat  McMahon",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:56",
+      "team": {
+        "teamId": "1913",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#79 - Scott  Yates",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:16",
+      "team": {
+        "teamId": "1913",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#44 - Jeff  Marciano",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:55",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "player": "#9 - Scott  Peterson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:40",
+      "team": {
+        "teamId": "1913",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#10 - Angelo  Ponirakis",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:50:41.349Z"
+}

@@ -1,0 +1,141 @@
+{
+  "gameId": "11271",
+  "date": "2018-01-04",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1096",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1099",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "scorer": "#17 - John  Kemprowski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:24",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "scorer": "#55 - Joel  Whitney",
+      "assist1": "#24 - Jim  Behrend",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:03",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "scorer": "#20 - Brent  Jefferson",
+      "assist1": "#0 - Ruben  Garcia",
+      "assist2": "#13 - Mike  Carew"
+    },
+    {
+      "period": "2",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "scorer": "#24 - James  Grasselli",
+      "assist1": "#18 - Brian  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:06",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "scorer": "#21 - Trevor  Wallace",
+      "assist1": "#25 - Malcolm  Hyson",
+      "assist2": "#8 - Dan  Brehm"
+    },
+    {
+      "period": "3",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "scorer": "#24 - Jim  Behrend",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:37",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "player": "#5 - Andy  Loggia",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:41",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "player": "#18 - Chris  Kelly",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "player": "#17 - John  Kemprowski",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:20:17.118Z"
+}

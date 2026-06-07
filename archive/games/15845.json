@@ -1,0 +1,117 @@
+{
+  "gameId": "15845",
+  "date": "2023-04-07",
+  "divId": 265,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1633",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1631",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:11",
+      "team": {
+        "teamId": "1631",
+        "name": "Thunder"
+      },
+      "scorer": "#22 - Michael  Huston",
+      "assist1": "#37 - Christal  Cudworth",
+      "assist2": "#79 - Sean  Longanecker"
+    },
+    {
+      "period": "2",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1631",
+        "name": "Thunder"
+      },
+      "scorer": "#45 - Justin  Marks",
+      "assist1": "#22 - Michael  Huston",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:12",
+      "team": {
+        "teamId": "1631",
+        "name": "Thunder"
+      },
+      "scorer": "#22 - Michael  Huston",
+      "assist1": "#18 - Nathan  Rozelle",
+      "assist2": "#11 - Mark  Boyd"
+    },
+    {
+      "period": "3",
+      "time": "00:03:14",
+      "team": {
+        "teamId": "1633",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#19 - Troy  Edwards",
+      "assist1": "#22 - Amir  Tahami",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "1631",
+        "name": "Thunder"
+      },
+      "scorer": "#2 - Jennifer  Grotpeter",
+      "assist1": "#23 - Eric  Vanhove",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:19",
+      "team": {
+        "teamId": "1633",
+        "name": "Blue Dogs"
+      },
+      "player": "#5 - Lars  Hjelm",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:34",
+      "team": {
+        "teamId": "1631",
+        "name": "Thunder"
+      },
+      "player": "#22 - Michael  Huston",
+      "pim": 2,
+      "offense": "Rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:00:01.180Z"
+}

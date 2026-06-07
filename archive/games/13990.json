@@ -1,0 +1,143 @@
+{
+  "gameId": "13990",
+  "date": "2021-04-16",
+  "divId": 226,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1416",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1420",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:27",
+      "team": {
+        "teamId": "1416",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#71 - Charlie  Tourbaf",
+      "assist1": "#19 - Tom  Spiewak",
+      "assist2": "#43 - Bill  Picard"
+    },
+    {
+      "period": "2",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1416",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#74 - Nathan  Roehrig",
+      "assist1": "#16 - Greg  Pomeroy",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "1416",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": "#16 - Greg  Pomeroy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1416",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:47",
+      "team": {
+        "teamId": "1420",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#42 - Adam  Russell",
+      "assist1": "#20 - Jeff  Carter",
+      "assist2": "#36 - Brian  Lusby"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "1420",
+        "name": "Blue Crabs"
+      },
+      "player": "#36 - Brian  Lusby",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1420",
+        "name": "Blue Crabs"
+      },
+      "player": "#9 - Alex  Cimon",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:39",
+      "team": {
+        "teamId": "1420",
+        "name": "Blue Crabs"
+      },
+      "player": "#28 - Brad  Mills",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "1416",
+        "name": "British Bulldogs"
+      },
+      "player": "#19 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:20:27.198Z"
+}

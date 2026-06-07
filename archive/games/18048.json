@@ -1,0 +1,165 @@
+{
+  "gameId": "18048",
+  "date": "2025-03-22",
+  "divId": 309,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1890",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1888",
+    "name": "Hershey Beers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:16:26",
+      "team": {
+        "teamId": "1890",
+        "name": "Red Wings"
+      },
+      "scorer": "#17 - Will  Murphy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:17:46",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#43 - James J Kim",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:34",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#54 - Scott  Knisley",
+      "assist1": "#8 - Tim  Lo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#39 - Jim  DeLaet",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:47",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#48 - Kris  Winder",
+      "assist1": "#39 - Jim  DeLaet",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:34",
+      "team": {
+        "teamId": "1890",
+        "name": "Red Wings"
+      },
+      "scorer": "#17 - Will  Murphy",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:33",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#8 - Tim  Lo",
+      "assist1": "#54 - Scott  Knisley",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "1890",
+        "name": "Red Wings"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:58",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "player": "#8 - Tim  Lo",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:19",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "player": "#88 - Afshawn  Towfighi",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:34",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "player": "#8 - Tim  Lo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:46:42.788Z"
+}

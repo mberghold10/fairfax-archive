@@ -1,0 +1,128 @@
+{
+  "gameId": "14555",
+  "date": "2021-11-12",
+  "divId": 248,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1532",
+    "name": "Roughnecks"
+  },
+  "away": {
+    "teamId": "1534",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:26",
+      "team": {
+        "teamId": "1534",
+        "name": "Red Wings"
+      },
+      "scorer": "#11 - Greg  Kowalski",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": "#33 - Mark  Hall"
+    },
+    {
+      "period": "1",
+      "time": "00:09:20",
+      "team": {
+        "teamId": "1534",
+        "name": "Red Wings"
+      },
+      "scorer": "#11 - Greg  Kowalski",
+      "assist1": "#67 - John  Krotzer",
+      "assist2": "#54 - Tom  Montanio"
+    },
+    {
+      "period": "2",
+      "time": "00:08:00",
+      "team": {
+        "teamId": "1532",
+        "name": "Roughnecks"
+      },
+      "scorer": "#10 - Dana  Kaufman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "1534",
+        "name": "Red Wings"
+      },
+      "scorer": "#16 - Wei  Wang",
+      "assist1": "#11 - Greg  Kowalski",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1534",
+        "name": "Red Wings"
+      },
+      "scorer": "#11 - Greg  Kowalski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "1532",
+        "name": "Roughnecks"
+      },
+      "scorer": "#83 - Michael  Milazzo",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "1534",
+        "name": "Red Wings"
+      },
+      "player": "#22 - Trevor  Blair",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1532",
+        "name": "Roughnecks"
+      },
+      "player": "#36 - Andrew  Arendt",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:38:43.383Z"
+}

@@ -1,0 +1,156 @@
+{
+  "gameId": "1483",
+  "date": "2024-11-10",
+  "divId": 292,
+  "seasonName": "Summer 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1787",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1788",
+    "name": "Ers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:49",
+      "team": {
+        "teamId": "1787",
+        "name": "Team USA"
+      },
+      "scorer": "#8 - Geoff  Carstairs",
+      "assist1": "#99 - Jon  Davoren",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:54",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "scorer": "#96 - Chris  Beck",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:06",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "scorer": "#21 - Mark  Johnston",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:49",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "scorer": "#96 - Chris  Beck",
+      "assist1": "#74 - Paul  Sechser",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "scorer": "#28 - Eric  Mastromatteo",
+      "assist1": "#23 - Gordon  Scott",
+      "assist2": "#24 - Tom  Spiewak"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:09",
+      "team": {
+        "teamId": "1787",
+        "name": "Team USA"
+      },
+      "player": "#9 - Ken  Fritzke",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:40",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "player": "#24 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:58",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "player": "#28 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 5,
+      "offense": "cross check",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1788",
+        "name": "Ers"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:30:07.599Z"
+}

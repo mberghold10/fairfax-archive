@@ -1,0 +1,95 @@
+{
+  "gameId": "17348",
+  "date": "2024-09-28",
+  "divId": 292,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1789",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1790",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "1789",
+        "name": "Penguins"
+      },
+      "scorer": "#19 - Mike  Carr",
+      "assist1": "#2 - Shawn  Hatch",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:58",
+      "team": {
+        "teamId": "1789",
+        "name": "Penguins"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": "#51 - Rob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:35",
+      "team": {
+        "teamId": "1789",
+        "name": "Penguins"
+      },
+      "scorer": "#18 - Dominic  Pistolessi",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "player": "#25 - Chris  Lettieri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:08",
+      "team": {
+        "teamId": "1789",
+        "name": "Penguins"
+      },
+      "player": "#51 - Rob  Fischer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:29:51.589Z"
+}

@@ -1,0 +1,150 @@
+{
+  "gameId": "1127",
+  "date": "2021-07-19",
+  "divId": 226,
+  "seasonName": "Spring 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1422",
+    "name": "Bluejacket Capitals"
+  },
+  "away": {
+    "teamId": "1421",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:50",
+      "team": {
+        "teamId": "1422",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#25 - Ken  Chin",
+      "assist1": "#15 - Bob  Guckian",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "1421",
+        "name": "Avalanche"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": "#87 - Stan  Kolodin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:25",
+      "team": {
+        "teamId": "1422",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#16 - Dan  Rebmann",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:34",
+      "team": {
+        "teamId": "1422",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1422",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#25 - Ken  Chin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:51",
+      "team": {
+        "teamId": "1421",
+        "name": "Avalanche"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": "#87 - Stan  Kolodin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1421",
+        "name": "Avalanche"
+      },
+      "scorer": "#77 - Caleb  Sohl",
+      "assist1": "#87 - Stan  Kolodin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:18",
+      "team": {
+        "teamId": "1422",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#16 - Dan  Rebmann",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1421",
+        "name": "Avalanche"
+      },
+      "player": "#34 - James  Morgan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:51",
+      "team": {
+        "teamId": "1422",
+        "name": "Bluejacket Capitals"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:21:09.895Z"
+}

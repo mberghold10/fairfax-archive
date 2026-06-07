@@ -1,0 +1,156 @@
+{
+  "gameId": "12277",
+  "date": "2018-11-09",
+  "divId": 195,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1238",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1235",
+    "name": "Flying Circus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:44",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "scorer": "#66 - Chris  Yoko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:10",
+      "team": {
+        "teamId": "1238",
+        "name": "Coyotes"
+      },
+      "scorer": "#55 - Ken  Alm",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:52",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "scorer": "#21 - Trevor  Wallace",
+      "assist1": "#25 - Malcolm  Hyson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:06",
+      "team": {
+        "teamId": "1238",
+        "name": "Coyotes"
+      },
+      "scorer": "#55 - Ken  Alm",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "scorer": "#25 - Malcolm  Hyson",
+      "assist1": "#66 - Chris  Yoko",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "1238",
+        "name": "Coyotes"
+      },
+      "player": "#3 - Bill  Schulteiss",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "player": "#21 - Trevor  Wallace",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1238",
+        "name": "Coyotes"
+      },
+      "player": "#55 - Ken  Alm",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:06",
+      "team": {
+        "teamId": "1238",
+        "name": "Coyotes"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:48:41.452Z"
+}

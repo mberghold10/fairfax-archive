@@ -1,0 +1,130 @@
+{
+  "gameId": "13180",
+  "date": "2019-09-24",
+  "divId": 198,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1256",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1257",
+    "name": "Georgetown"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "1256",
+        "name": "Jacks"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#28 - Jason  Abkowitz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:06",
+      "team": {
+        "teamId": "1256",
+        "name": "Jacks"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#28 - Jason  Abkowitz",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1256",
+        "name": "Jacks"
+      },
+      "scorer": "#14 - Dennis  Nayandin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:45",
+      "team": {
+        "teamId": "1256",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#14 - Dennis  Nayandin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:29",
+      "team": {
+        "teamId": "1256",
+        "name": "Jacks"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:52",
+      "team": {
+        "teamId": "1257",
+        "name": "Georgetown"
+      },
+      "player": "#44 - Matt  Brown",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1256",
+        "name": "Jacks"
+      },
+      "player": "#16 - Bill  Thompson",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:32",
+      "team": {
+        "teamId": "1257",
+        "name": "Georgetown"
+      },
+      "player": "#64 - Andrew  Nellestein",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:53:00.339Z"
+}

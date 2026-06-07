@@ -1,0 +1,108 @@
+{
+  "gameId": "13737",
+  "date": "2020-03-01",
+  "divId": 216,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1363",
+    "name": "Roughnecks"
+  },
+  "away": {
+    "teamId": "1367",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#5 - Chris  Oman",
+      "assist1": "#28 - Richard  Pettey",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#74 - Mik  Berwin",
+      "assist1": "#5 - Chris  Oman",
+      "assist2": "#28 - Richard  Pettey"
+    },
+    {
+      "period": "2",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#5 - Chris  Oman",
+      "assist1": "#28 - Richard  Pettey",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:02:38",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "player": "#5 - Chris  Oman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:43",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "player": "#33 - Brandon  Boling",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:14:32.344Z"
+}

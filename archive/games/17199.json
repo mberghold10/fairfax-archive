@@ -1,0 +1,117 @@
+{
+  "gameId": "17199",
+  "date": "2024-07-28",
+  "divId": 295,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1804",
+    "name": "Hershey Beers"
+  },
+  "away": {
+    "teamId": "1805",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1804",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#88 - Afshawn  Towfighi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:00",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#20 - Steve  Ahart",
+      "assist1": "#41 - Alessio  Evangelista",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:18:27",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#3 - Darr  Gerscovich",
+      "assist1": "#20 - Steve  Ahart",
+      "assist2": "#41 - Alessio  Evangelista"
+    },
+    {
+      "period": "3",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": "#27 - Jamie  Prime",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1804",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#13 - Duane  Stefaniak",
+      "assist1": "#23 - Mark  Cappello",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:56",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "player": "#93 - Robert  Wagner",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:15:00",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "player": "#18 - Lee  Freedman",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:32:49.923Z"
+}

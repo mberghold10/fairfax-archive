@@ -1,0 +1,104 @@
+{
+  "gameId": "1094",
+  "date": "2021-02-09",
+  "divId": 223,
+  "seasonName": "Fall 2020",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1401",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1398",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:36",
+      "team": {
+        "teamId": "1398",
+        "name": "Wolves"
+      },
+      "scorer": "#77 - Dennis  Salvatore",
+      "assist1": "#6 - Jon  Alford",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:26",
+      "team": {
+        "teamId": "1398",
+        "name": "Wolves"
+      },
+      "scorer": "#14 - Paul  Tourbaf",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:41",
+      "team": {
+        "teamId": "1401",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": "#47 - Jeff  Urlwin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1398",
+        "name": "Wolves"
+      },
+      "scorer": "#5 - Steve  Crespy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:35",
+      "team": {
+        "teamId": "1398",
+        "name": "Wolves"
+      },
+      "scorer": "#77 - Dennis  Salvatore",
+      "assist1": "#10 - Rich  Scigaj",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:14:14",
+      "team": {
+        "teamId": "1401",
+        "name": "Maple Leafs"
+      },
+      "player": "#20 - Bao  Pham",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:18:43.913Z"
+}

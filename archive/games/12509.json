@@ -1,0 +1,215 @@
+{
+  "gameId": "12509",
+  "date": "2019-01-06",
+  "divId": 194,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1234",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1233",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:01",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#18 - Sean  Gallucci",
+      "assist1": "#24 - Steve  Dolski",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#12 - Jon  Gregor",
+      "assist1": "#10 - Bruce  McLeod",
+      "assist2": "#9 - Sam  Ziesler"
+    },
+    {
+      "period": "1",
+      "time": "00:12:37",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "scorer": "#44 - Bob  Arnold",
+      "assist1": "#4 - Tad  Jose",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#13 - Mike  Carew",
+      "assist1": "#18 - Sean  Gallucci",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#18 - Sean  Gallucci",
+      "assist1": "#550 - Bill  MacIntyre",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#13 - Mike  Carew",
+      "assist1": "#8 - Jeff  Meyer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#13 - Mike  Carew",
+      "assist1": "#18 - Sean  Gallucci",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#2 - Ricki  Clark",
+      "assist1": "#13 - Mike  Carew",
+      "assist2": "#22 - Nate  Harrison"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "player": "#28 - Maxim  Alexeev",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:16",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "player": "#49 - Aaron  Dobbs",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "player": "#3 - Kareem  El-Alaily",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:54",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "player": "#22 - Nate  Harrison",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:25",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "player": "#40 - Mikhail  Serebrennikov",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "player": "#18 - Sean  Gallucci",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:41",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "player": "#9 - Mark  Rudnicki",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:47:33.709Z"
+}

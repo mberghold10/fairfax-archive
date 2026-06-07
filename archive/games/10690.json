@@ -1,0 +1,117 @@
+{
+  "gameId": "10690",
+  "date": "2017-07-02",
+  "divId": 162,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1037",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1039",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "1037",
+        "name": "Englewood"
+      },
+      "scorer": "#27 - Jon  Hitesman",
+      "assist1": "#25 - Carl  Curriera",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "scorer": "#19 - Joe  Dunn",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:51",
+      "team": {
+        "teamId": "1037",
+        "name": "Englewood"
+      },
+      "scorer": "#27 - Jon  Hitesman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:43",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:47",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "scorer": "#47 - Talbot  Black",
+      "assist1": "#44 - Mick  Ellsworth",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "player": "#12 - Paul  Zalocha",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "player": "#13 - Bill  Grove",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:08:12.756Z"
+}

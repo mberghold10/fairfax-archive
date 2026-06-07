@@ -1,0 +1,117 @@
+{
+  "gameId": "14345",
+  "date": "2021-09-18",
+  "divId": 236,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1473",
+    "name": "Old Goats"
+  },
+  "away": {
+    "teamId": "1472",
+    "name": "Flying Circus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1472",
+        "name": "Flying Circus"
+      },
+      "scorer": "#18 - Chris  Kelly",
+      "assist1": "#33 - Andy  Taylor",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:15",
+      "team": {
+        "teamId": "1472",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Andy  Taylor",
+      "assist1": "#18 - Chris  Kelly",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:33",
+      "team": {
+        "teamId": "1472",
+        "name": "Flying Circus"
+      },
+      "scorer": "#66 - Chris  Yoko",
+      "assist1": "#17 - John  Kemprowski",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:57",
+      "team": {
+        "teamId": "1473",
+        "name": "Old Goats"
+      },
+      "scorer": "#20 - Matt  Michelson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "1472",
+        "name": "Flying Circus"
+      },
+      "scorer": "#2 - Marc  Sheinkin",
+      "assist1": "#66 - Chris  Yoko",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:02",
+      "team": {
+        "teamId": "1472",
+        "name": "Flying Circus"
+      },
+      "player": "#7 - Brendan  Ford",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:15",
+      "team": {
+        "teamId": "1473",
+        "name": "Old Goats"
+      },
+      "player": "#52 - Alan  Dappen",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:28:11.900Z"
+}

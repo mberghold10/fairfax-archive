@@ -1,0 +1,104 @@
+{
+  "gameId": "14886",
+  "date": "2022-07-09",
+  "divId": 256,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1577",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1578",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:19",
+      "team": {
+        "teamId": "1578",
+        "name": "Roughnecks"
+      },
+      "scorer": "#17 - Marc  Patience",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1577",
+        "name": "Thunder"
+      },
+      "scorer": "#79 - Sean  Longanecker",
+      "assist1": "#5 - Zachary  Graber",
+      "assist2": "#21 - Brendan  Williams"
+    },
+    {
+      "period": "1",
+      "time": "00:14:12",
+      "team": {
+        "teamId": "1577",
+        "name": "Thunder"
+      },
+      "scorer": "#86 - Patrick  McMahon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:23",
+      "team": {
+        "teamId": "1577",
+        "name": "Thunder"
+      },
+      "scorer": "#37 - Christal  Cudworth",
+      "assist1": "#79 - Sean  Longanecker",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:29",
+      "team": {
+        "teamId": "1577",
+        "name": "Thunder"
+      },
+      "scorer": "#21 - Brendan  Williams",
+      "assist1": "#59 - Matt  Beiriger",
+      "assist2": "#37 - Christal  Cudworth"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:26",
+      "team": {
+        "teamId": "1577",
+        "name": "Thunder"
+      },
+      "player": "#11 - Mark  Boyd",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:48:33.852Z"
+}

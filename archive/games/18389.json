@@ -1,0 +1,106 @@
+{
+  "gameId": "18389",
+  "date": "2025-09-16",
+  "divId": 317,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1942",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1943",
+    "name": "Gold Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:06",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#23 - Brian  Ladd",
+      "assist1": "#24 - Brian  Crossin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#92 - Dan  Horner",
+      "assist1": "#78 - Bill  Ezekiel",
+      "assist2": "#79 - Jeff  Vandenberghe"
+    },
+    {
+      "period": "3",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1943",
+        "name": "Gold Goats"
+      },
+      "scorer": "#20 - Steve  Macchio",
+      "assist1": "#23 - Djam  Saidmuradov",
+      "assist2": "#19 - Ira  Keltz"
+    },
+    {
+      "period": "3",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#79 - Jeff  Vandenberghe",
+      "assist1": "#78 - Bill  Ezekiel",
+      "assist2": "#93 - Robert  Wagner"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:35",
+      "team": {
+        "teamId": "1943",
+        "name": "Gold Goats"
+      },
+      "player": "#930 - Steve  Barker",
+      "pim": 2,
+      "offense": "Hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:08",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "player": "#64 - Ben  Thomas",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:56:15.248Z"
+}

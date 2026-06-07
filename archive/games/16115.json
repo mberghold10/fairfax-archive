@@ -1,0 +1,104 @@
+{
+  "gameId": "16115",
+  "date": "2023-07-05",
+  "divId": 275,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1695",
+    "name": "Jacks Graybeards"
+  },
+  "away": {
+    "teamId": "1696",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:41",
+      "team": {
+        "teamId": "1695",
+        "name": "Jacks Graybeards"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "1695",
+        "name": "Jacks Graybeards"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#8 - Rod  Wade",
+      "assist2": "#28 - Charles  Hale"
+    },
+    {
+      "period": "2",
+      "time": "00:08:10",
+      "team": {
+        "teamId": "1696",
+        "name": "Nortec"
+      },
+      "scorer": "#15 - Todd  Martin",
+      "assist1": "#11 - Tom  Fergus",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "1696",
+        "name": "Nortec"
+      },
+      "scorer": "#21 - Mark  Johnston",
+      "assist1": "#8 - Michael  Carr",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:57",
+      "team": {
+        "teamId": "1696",
+        "name": "Nortec"
+      },
+      "scorer": "#19 - Andrew  Grose",
+      "assist1": "#8 - Michael  Carr",
+      "assist2": "#44 - Bob  Arnold"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:11:44",
+      "team": {
+        "teamId": "1696",
+        "name": "Nortec"
+      },
+      "player": "#15 - Todd  Martin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:11:01.056Z"
+}

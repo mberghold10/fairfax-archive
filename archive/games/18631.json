@@ -1,0 +1,108 @@
+{
+  "gameId": "18631",
+  "date": "2026-01-19",
+  "divId": 321,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1968",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1966",
+    "name": "Punishers HC"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "scorer": "#72 - Alex  Cordon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:26",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#14 - Richard  Cole",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:29",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "player": "#72 - Alex  Cordon",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "player": "#35 - Jeff  Colwell",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:16",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "player": "#1 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:37:53.550Z"
+}

@@ -1,0 +1,128 @@
+{
+  "gameId": "15418",
+  "date": "2022-10-23",
+  "divId": 260,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1600",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1598",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:23",
+      "team": {
+        "teamId": "1600",
+        "name": "Rink Rats"
+      },
+      "scorer": "#36 - Steve  Morra",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:08",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "scorer": "#32 - Rob  Stewart",
+      "assist1": "#77 - Doug  Smith",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:57",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:04",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "scorer": "#32 - Rob  Stewart",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:07",
+      "team": {
+        "teamId": "1600",
+        "name": "Rink Rats"
+      },
+      "scorer": "#33 - Zach  Sowinski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:46",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "scorer": "#98 - Lawrence  Turner",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:53",
+      "team": {
+        "teamId": "1600",
+        "name": "Rink Rats"
+      },
+      "player": "#59 - Jared  Trevethan",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:52",
+      "team": {
+        "teamId": "1600",
+        "name": "Rink Rats"
+      },
+      "player": "#25 - Dave  Brown",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:52:24.292Z"
+}

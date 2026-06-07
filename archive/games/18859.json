@@ -1,0 +1,139 @@
+{
+  "gameId": "18859",
+  "date": "2026-02-21",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2007",
+    "name": "Roccos"
+  },
+  "away": {
+    "teamId": "2006",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:32",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "scorer": "#29 - Silas  Bruccoleri",
+      "assist1": "#97 - Johnny  Juliano",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#36 - Greg  Kowalski",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": "#28 - Chris  Pirisino"
+    },
+    {
+      "period": "1",
+      "time": "00:14:52",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#4 - Gene  Martin",
+      "assist1": "#17 - Will  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:17:30",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#36 - Greg  Kowalski",
+      "assist1": "#17 - Will  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": "#24 - Jake  Middel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:58",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#17 - Will  Murphy",
+      "assist1": "#22 - Trevor  Blair",
+      "assist2": "#16 - Wei  Wang"
+    },
+    {
+      "period": "2",
+      "time": "00:09:22",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "scorer": "#29 - Silas  Bruccoleri",
+      "assist1": "#160 - Dwain  Counts",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:10",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "player": "#4 - Gene  Martin",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "player": "#31 - John  Marciano",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:08:12.270Z"
+}

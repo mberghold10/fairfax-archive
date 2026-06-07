@@ -1,0 +1,191 @@
+{
+  "gameId": "11035",
+  "date": "2017-11-12",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1097",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1101",
+    "name": "Rustico Flames"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#34 - Jim  Morgan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:28",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#43 - John  Porado",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:23",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": "#7 - Ed  Wiener"
+    },
+    {
+      "period": "3",
+      "time": "00:07:43",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:53",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:29",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#10 - Michael  Brahmey",
+      "assist2": "#20 - Richard  Utano"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:48",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "player": "#23 - Mike  OBrien",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:46",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "player": "#11 - Ed  OCallaghan",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:49",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "player": "#4 - Jeff  Bloom",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "player": "#10 - Michael  Brahmey",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:53",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "player": "#42 - Jeff  Lovett",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "player": "#42 - Jeff  Lovett",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:19:54.226Z"
+}

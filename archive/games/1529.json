@@ -1,0 +1,119 @@
+{
+  "gameId": "1529",
+  "date": "2025-06-14",
+  "divId": 303,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1860",
+    "name": "Junkyard Dogs"
+  },
+  "away": {
+    "teamId": "1864",
+    "name": "Bottle Caps"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:52",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#34 - William  Happ",
+      "assist1": "#19 - Colin  Bartlett",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:37",
+      "team": {
+        "teamId": "1860",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#28 - Alex  Rudolph",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:34",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#19 - Colin  Bartlett",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:48",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#19 - Colin  Bartlett",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:04",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "player": "#8 - Timothy  Lo",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "player": "#1 - Thomas  Newberg",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "player": "#88 - Afshawn  Towfighi",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:41:44.972Z"
+}

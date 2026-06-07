@@ -1,0 +1,218 @@
+{
+  "gameId": "1105",
+  "date": "2021-02-18",
+  "divId": 222,
+  "seasonName": "Fall 2020",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1393",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1392",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 6,
+      "p3": 4,
+      "ot": 0,
+      "final": 11
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#24 - Max  Alexeev",
+      "assist1": "#18 - Dominic  Pistolessi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:55",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#24 - Max  Alexeev",
+      "assist1": "#18 - Dominic  Pistolessi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:36",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#24 - Max  Alexeev",
+      "assist1": "#370 - Mike  Przybyla",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#370 - Mike  Przybyla",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:39",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#11 - Darren  Wellner",
+      "assist1": "#81 - Chris  Holden",
+      "assist2": "#370 - Mike  Przybyla"
+    },
+    {
+      "period": "2",
+      "time": "00:09:34",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#17 - Marvin  Scott",
+      "assist1": "#18 - Dominic  Pistolessi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "1393",
+        "name": "Coyotes"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": "#25 - Steve  Tamburo",
+      "assist2": "#38 - Mike  Andrien"
+    },
+    {
+      "period": "2",
+      "time": "00:12:42",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#24 - Max  Alexeev",
+      "assist1": "#17 - Marvin  Scott",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:37",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#17 - Marvin  Scott",
+      "assist1": "#18 - Dominic  Pistolessi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#9 - Joe  Tierney",
+      "assist1": "#81 - Chris  Holden",
+      "assist2": "#13 - Bob  Seal"
+    },
+    {
+      "period": "3",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#18 - Dominic  Pistolessi",
+      "assist1": "#11 - Darren  Wellner",
+      "assist2": "#370 - Mike  Przybyla"
+    },
+    {
+      "period": "3",
+      "time": "00:10:49",
+      "team": {
+        "teamId": "1393",
+        "name": "Coyotes"
+      },
+      "scorer": "#13 - Mike  Carew",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": "#11 - Darren  Wellner",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "player": "#77 - Ryan  Reed",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "player": "#24 - Max  Alexeev",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "1393",
+        "name": "Coyotes"
+      },
+      "player": "#21 - Steve  Kaplan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:18:07.012Z"
+}

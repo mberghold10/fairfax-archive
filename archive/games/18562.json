@@ -1,0 +1,134 @@
+{
+  "gameId": "18562",
+  "date": "2025-10-20",
+  "divId": 311,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1903",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1901",
+    "name": "Punishers HC"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:29",
+      "team": {
+        "teamId": "1903",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#4 - Sean  Courtney",
+      "assist1": "#2 - Ari  Loggia",
+      "assist2": "#44 - Scott  Kuehn"
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1901",
+        "name": "Punishers HC"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": "#11 - Dan  Shrago",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1903",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#44 - Scott  Kuehn",
+      "assist1": "#2 - Ari  Loggia",
+      "assist2": "#69 - Noah  Loggia"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:31",
+      "team": {
+        "teamId": "1901",
+        "name": "Punishers HC"
+      },
+      "player": "#14 - Richard  Cole",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:49",
+      "team": {
+        "teamId": "1903",
+        "name": "British Bulldogs"
+      },
+      "player": "#4 - Sean  Courtney",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1903",
+        "name": "British Bulldogs"
+      },
+      "player": "#20 - Mike  McLenahan",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1901",
+        "name": "Punishers HC"
+      },
+      "player": "#14 - Richard  Cole",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:17",
+      "team": {
+        "teamId": "1901",
+        "name": "Punishers HC"
+      },
+      "player": "#32 - Chuck  Wilkens",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:49:01.758Z"
+}

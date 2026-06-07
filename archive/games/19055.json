@@ -1,0 +1,128 @@
+{
+  "gameId": "19055",
+  "date": "2026-04-02",
+  "divId": 326,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2015",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "2010",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:41",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#230 - Gordon  Scott",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:05",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#230 - Gordon  Scott",
+      "assist1": "#44 - Mick  Ellsworth",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:59",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#11 - Dave  Brown",
+      "assist1": "#44 - Mick  Ellsworth",
+      "assist2": "#5 - Sean  Mohan"
+    },
+    {
+      "period": "2",
+      "time": "00:09:33",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#49 - Greg  Mullen",
+      "assist1": "#11 - Dave  Brown",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:10",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#21 - Mark  Johnston",
+      "assist1": "#49 - Greg  Mullen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:51",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#2 - Paul  Zalocha",
+      "assist1": "#44 - Mick  Ellsworth",
+      "assist2": "#21 - Mark  Johnston"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:58",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#21 - Mark  Johnston",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:01",
+      "team": {
+        "teamId": "2015",
+        "name": "Islanders"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:06:03.196Z"
+}

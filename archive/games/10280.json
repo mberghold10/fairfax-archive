@@ -1,0 +1,165 @@
+{
+  "gameId": "10280",
+  "date": "2017-01-17",
+  "divId": 156,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "999",
+    "name": "Crabs"
+  },
+  "away": {
+    "teamId": "1003",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "scorer": "#89 - Frank  Congel",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": "#17 - John  Wallace"
+    },
+    {
+      "period": "2",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "scorer": "#17 - John  Wallace",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:14",
+      "team": {
+        "teamId": "999",
+        "name": "Crabs"
+      },
+      "scorer": "#23 - Eric  Vanhove",
+      "assist1": "#24 - Mark  Paolicelli",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:03",
+      "team": {
+        "teamId": "999",
+        "name": "Crabs"
+      },
+      "scorer": "#36 - Gisle  Sorli",
+      "assist1": "#2 - Elliott  Yang",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:43",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "scorer": "#89 - Frank  Congel",
+      "assist1": "#17 - John  Wallace",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:51",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "scorer": "#93 - Jeff  Nauer",
+      "assist1": "#17 - John  Wallace",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:24",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "scorer": "#89 - Frank  Congel",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:29",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "player": "#9 - Rick  Cole",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "player": "#9 - Rick  Cole",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:32",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "player": "#29 - Alex  Eng",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:00:44.550Z"
+}

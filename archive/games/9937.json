@@ -1,0 +1,108 @@
+{
+  "gameId": "9937",
+  "date": "2016-09-29",
+  "divId": 155,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "992",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "997",
+    "name": "Rustico Flames"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "992",
+        "name": "Flying Circus"
+      },
+      "scorer": "#22 - Ed  Gulakowski",
+      "assist1": "#9 - Jason  Hess",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:11",
+      "team": {
+        "teamId": "992",
+        "name": "Flying Circus"
+      },
+      "scorer": "#17 - John  Kemprowski",
+      "assist1": "#25 - Malcolm  Hyson",
+      "assist2": "#55 - Joel  Whitney"
+    },
+    {
+      "period": "3",
+      "time": "00:07:01",
+      "team": {
+        "teamId": "992",
+        "name": "Flying Circus"
+      },
+      "scorer": "#22 - Ed  Gulakowski",
+      "assist1": "#9 - Jason  Hess",
+      "assist2": "#8 - Dan  Brehm"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "player": "#3 - Bill  Kang",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:02",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "player": "#23 - Tom  Chiarizia",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "992",
+        "name": "Flying Circus"
+      },
+      "player": "#21 - Trevor  Wallace",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:58:39.782Z"
+}

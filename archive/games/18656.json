@@ -1,0 +1,143 @@
+{
+  "gameId": "18656",
+  "date": "2025-12-13",
+  "divId": 322,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1978",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "1974",
+    "name": "Red Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:52",
+      "team": {
+        "teamId": "1974",
+        "name": "Red Dragons"
+      },
+      "scorer": "#10 - John  Kolman",
+      "assist1": "#47 - Raymond  Jakubowski",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1974",
+        "name": "Red Dragons"
+      },
+      "scorer": "#10 - John  Kolman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#36 - Brian  Lusby",
+      "assist1": "#34 - Josh  Davis",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#38 - Drew  Dunn",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:53",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "# -",
+      "assist1": "#39 - Alex  Cimon",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:29",
+      "team": {
+        "teamId": "1974",
+        "name": "Red Dragons"
+      },
+      "player": "#80 - Ethan  Hoffman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:43",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:04",
+      "team": {
+        "teamId": "1974",
+        "name": "Red Dragons"
+      },
+      "player": "#12 - Scott  Borders",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:48",
+      "team": {
+        "teamId": "1974",
+        "name": "Red Dragons"
+      },
+      "player": "#47 - Raymond  Jakubowski",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:00:29.623Z"
+}

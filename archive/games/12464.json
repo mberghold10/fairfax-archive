@@ -1,0 +1,121 @@
+{
+  "gameId": "12464",
+  "date": "2019-02-25",
+  "divId": 192,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1221",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1216",
+    "name": "Taters"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:12:52",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": "#12 - Dave  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:26",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#3 - Jeff  Ruby",
+      "assist1": "#67 - Brian  Landers",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:34",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "player": "#40 - Matt  Mickelson",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:30",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#89 - Chris  Casselman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#67 - Brian  Landers",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#67 - Brian  Landers",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:45:14.817Z"
+}

@@ -1,0 +1,119 @@
+{
+  "gameId": "14808",
+  "date": "2022-03-20",
+  "divId": 247,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1526",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1529",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1529",
+        "name": "Hurricanes"
+      },
+      "scorer": "#8 - Steve  Urban",
+      "assist1": "#25 - Greg  Reece",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:58",
+      "team": {
+        "teamId": "1526",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": "#77 - Jeff  Wilken",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:52",
+      "team": {
+        "teamId": "1526",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#31 - Sam  Branham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "1526",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#66 - Harry  Patrinos",
+      "assist1": "#4 - Don  Sussman",
+      "assist2": "#21 - Steve  Kaplan"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1529",
+        "name": "Hurricanes"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:19",
+      "team": {
+        "teamId": "1526",
+        "name": "Ice Dogs"
+      },
+      "player": "#18 - Lee  Freedman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:00",
+      "team": {
+        "teamId": "1529",
+        "name": "Hurricanes"
+      },
+      "player": "#26 - Jim  Silbermann",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:38:18.768Z"
+}

@@ -1,0 +1,145 @@
+{
+  "gameId": "16693",
+  "date": "2024-04-06",
+  "divId": 277,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1706",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1709",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:27",
+      "team": {
+        "teamId": "1709",
+        "name": "Chiefs"
+      },
+      "scorer": "#48 - Jordan  Zelasko",
+      "assist1": "#17 - Maxim  Rinaldi",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "1706",
+        "name": "Outlaws"
+      },
+      "scorer": "#25 - Panagiotis  Jamanis",
+      "assist1": "#14 - Jason  Brue",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:32",
+      "team": {
+        "teamId": "1709",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": "#0 - Curt  Tucker",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1706",
+        "name": "Outlaws"
+      },
+      "scorer": "#11 - Michelle  Plampin",
+      "assist1": "#13 - Ben  Mangel",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "1706",
+        "name": "Outlaws"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:33",
+      "team": {
+        "teamId": "1706",
+        "name": "Outlaws"
+      },
+      "player": "#25 - Panagiotis  Jamanis",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:09",
+      "team": {
+        "teamId": "1706",
+        "name": "Outlaws"
+      },
+      "player": "#25 - Panagiotis  Jamanis",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:35",
+      "team": {
+        "teamId": "1709",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:00:59",
+      "team": {
+        "teamId": "1709",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:13:25.572Z"
+}

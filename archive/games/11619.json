@@ -1,0 +1,233 @@
+{
+  "gameId": "11619",
+  "date": "2018-06-03",
+  "divId": 183,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1167",
+    "name": "Blackhawks"
+  },
+  "away": {
+    "teamId": "1164",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "scorer": "#22 - Cody  Reinitz",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:49",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "scorer": "#47 - Talbot  Black",
+      "assist1": "#7 - Tyler  Kniaz",
+      "assist2": "#22 - Cody  Reinitz"
+    },
+    {
+      "period": "1",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "scorer": "#7 - Mike  Hoard",
+      "assist1": "#8 - Paul  Balcerzak",
+      "assist2": "#9 - Tommy  Meaux"
+    },
+    {
+      "period": "2",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "scorer": "#22 - Cody  Reinitz",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": "#7 - Tyler  Kniaz"
+    },
+    {
+      "period": "2",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#22 - Cody  Reinitz",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:12",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "scorer": "#9 - Tommy  Meaux",
+      "assist1": "#22 - Chuck  LeDoux",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "scorer": "#9 - Tommy  Meaux",
+      "assist1": "#8 - Paul  Balcerzak",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "scorer": "#8 - Paul  Balcerzak",
+      "assist1": "#9 - Tommy  Meaux",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "scorer": "#8 - Paul  Balcerzak",
+      "assist1": "#9 - Tommy  Meaux",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:49",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "scorer": "#47 - Talbot  Black",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:58",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": "#25 - Jamie  Prime",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:53",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "player": "#22 - Cody  Reinitz",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "player": "#7 - Mike  Hoard",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "player": "#55 - Chris  Yoko",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:37",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "player": "#55 - Chris  Yoko",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:48",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "player": "#7 - Mike  Hoard",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:33:30.298Z"
+}

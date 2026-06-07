@@ -1,0 +1,143 @@
+{
+  "gameId": "18925",
+  "date": "2026-03-21",
+  "divId": 322,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1973",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "2021",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "2021",
+        "name": "Old Goats"
+      },
+      "scorer": "#14 - John  Kohler",
+      "assist1": "#89 - Jay  Gobeil",
+      "assist2": "#21 - Mike  Hawthorne"
+    },
+    {
+      "period": "1",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "2021",
+        "name": "Old Goats"
+      },
+      "scorer": "#19 - Ira  Keltz",
+      "assist1": "#40 - Matt  Mickelson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:47",
+      "team": {
+        "teamId": "2021",
+        "name": "Old Goats"
+      },
+      "scorer": "#89 - Jay  Gobeil",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:28",
+      "team": {
+        "teamId": "1973",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:48",
+      "team": {
+        "teamId": "2021",
+        "name": "Old Goats"
+      },
+      "scorer": "#89 - Jay  Gobeil",
+      "assist1": "#14 - John  Kohler",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:47",
+      "team": {
+        "teamId": "1973",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#79 - Scott  Yates",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "2021",
+        "name": "Old Goats"
+      },
+      "player": "#12 - David  OMalley",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:47",
+      "team": {
+        "teamId": "2021",
+        "name": "Old Goats"
+      },
+      "player": "#44 - Sean  Cullen",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:57",
+      "team": {
+        "teamId": "1973",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#79 - Scott  Yates",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:01:13.656Z"
+}

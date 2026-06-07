@@ -1,0 +1,130 @@
+{
+  "gameId": "11363",
+  "date": "2018-03-26",
+  "divId": 174,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1110",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1112",
+    "name": "Blackhawks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "1110",
+        "name": "Outlaws"
+      },
+      "scorer": "#14 - Jason  Brue",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:12",
+      "team": {
+        "teamId": "1110",
+        "name": "Outlaws"
+      },
+      "scorer": "#41 - Tony  Gorney",
+      "assist1": "#91 - Matt  Weeden",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:24",
+      "team": {
+        "teamId": "1110",
+        "name": "Outlaws"
+      },
+      "scorer": "#91 - Matt  Weeden",
+      "assist1": "#21 - Jerry  Achatz",
+      "assist2": "#41 - Tony  Gorney"
+    },
+    {
+      "period": "2",
+      "time": "00:11:53",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "scorer": "#29 - Sean  Weddel",
+      "assist1": "#7 - Tyler  Kniaz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:03",
+      "team": {
+        "teamId": "1110",
+        "name": "Outlaws"
+      },
+      "scorer": "#41 - Tony  Gorney",
+      "assist1": "#4 - Mark  Bunal",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:41",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "player": "#36 - Bill  Ludke",
+      "pim": 2,
+      "offense": "Tripping",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:04",
+      "team": {
+        "teamId": "1110",
+        "name": "Outlaws"
+      },
+      "player": "#43 - Mike  Barnes",
+      "pim": 2,
+      "offense": "Roughing",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1110",
+        "name": "Outlaws"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "Hooking",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:23:07.747Z"
+}

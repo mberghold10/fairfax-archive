@@ -1,0 +1,128 @@
+{
+  "gameId": "15504",
+  "date": "2022-11-05",
+  "divId": 263,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1621",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1619",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:59",
+      "team": {
+        "teamId": "1619",
+        "name": "Penguins"
+      },
+      "scorer": "#250 - Bob  Banasik",
+      "assist1": "#20 - Brent  Jefferson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:09",
+      "team": {
+        "teamId": "1621",
+        "name": "Team USA"
+      },
+      "scorer": "#8 - Jamie  Sengheiser",
+      "assist1": "#5 - Oleg  Kolodin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1619",
+        "name": "Penguins"
+      },
+      "scorer": "#20 - Brent  Jefferson",
+      "assist1": "#250 - Bob  Banasik",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1621",
+        "name": "Team USA"
+      },
+      "scorer": "#8 - Jamie  Sengheiser",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": "#44 - Greg  Powers"
+    },
+    {
+      "period": "3",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1619",
+        "name": "Penguins"
+      },
+      "scorer": "#250 - Bob  Banasik",
+      "assist1": "#20 - Brent  Jefferson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:48",
+      "team": {
+        "teamId": "1621",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#5 - Oleg  Kolodin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1619",
+        "name": "Penguins"
+      },
+      "player": "#13 - Bob  Seal",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "1621",
+        "name": "Team USA"
+      },
+      "player": "#10 - Mike  Brahmey",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:56:22.319Z"
+}

@@ -1,0 +1,106 @@
+{
+  "gameId": "16925",
+  "date": "2024-05-25",
+  "divId": 287,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1762",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1760",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "scorer": "#18 - Michael  Dewhirst",
+      "assist1": "#3 - Bobby  Woods-Corwin",
+      "assist2": "#12 - Chris  Yoko"
+    },
+    {
+      "period": "1",
+      "time": "00:09:17",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "scorer": "#42 - Dave  Hagemeier",
+      "assist1": "#0 - Curt  Tucker",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:50",
+      "team": {
+        "teamId": "1762",
+        "name": "Dragons"
+      },
+      "scorer": "#94 - Mike  Starego",
+      "assist1": "#7 - Connor  Anderson",
+      "assist2": "#3 - Ilana  Bell"
+    },
+    {
+      "period": "3",
+      "time": "00:01:23",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "scorer": "#42 - Dave  Hagemeier",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:04",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "player": "#0 - Curt  Tucker",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:54",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:23:45.520Z"
+}

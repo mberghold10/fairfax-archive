@@ -1,0 +1,265 @@
+{
+  "gameId": "11282",
+  "date": "2018-03-25",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1099",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1100",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 1,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:55",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "scorer": "#7 - Paul  Flood",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "scorer": "#24 - James  Grasselli",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#52 - Alan  Dappen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:51",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "scorer": "#24 - James  Grasselli",
+      "assist1": "#7 - Paul  Flood",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:19",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:21",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "scorer": "#20 - Matt  Michelson",
+      "assist1": "#4 - Steve  Bradley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:48",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": "#44 - David  Zeigler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:01",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "scorer": "#24 - James  Grasselli",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:58",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "scorer": "#24 - James  Grasselli",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:28",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "Slashing",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "player": "#47 - Rob  Schumann",
+      "pim": 2,
+      "offense": "Tripping",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "player": "#20 - Matt  Michelson",
+      "pim": 2,
+      "offense": "Checking",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "player": "#12 - David  OMalley",
+      "pim": 2,
+      "offense": "Tripping",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:57",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "Holding",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "player": "#14 - John  Pace",
+      "pim": 2,
+      "offense": "Roughing",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:57",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "player": "#7 - Paul  Flood",
+      "pim": 2,
+      "offense": "Roughing",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:03",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "player": "#5 - Andy  Loggia",
+      "pim": 2,
+      "offense": "Roughing",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:03",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "player": "#12 - David  OMalley",
+      "pim": 2,
+      "offense": "Roughing",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:03",
+      "team": {
+        "teamId": "1100",
+        "name": "Old Goats"
+      },
+      "player": "#21 - Mike  Hawthorne",
+      "pim": 2,
+      "offense": "Cross Checking",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:20:50.267Z"
+}

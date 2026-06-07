@@ -1,0 +1,115 @@
+{
+  "gameId": "10063",
+  "date": "2016-10-29",
+  "divId": 158,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1015",
+    "name": "Bulldogs"
+  },
+  "away": {
+    "teamId": "1014",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:32",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#90 - Shawn  McEvoy",
+      "assist1": "#12 - Dan  Butala",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:43",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#67 - Andrew  Miller",
+      "assist2": "#18 - Steve  Percival"
+    },
+    {
+      "period": "2",
+      "time": "00:09:01",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#42 - Bill  Hardy",
+      "assist1": "#11 - Mike  Dumont",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:30",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#90 - Shawn  McEvoy",
+      "assist1": "#5 - Chris  Howard",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:46",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "scorer": "#77 - Kristen  Domingo",
+      "assist1": "#87 - Nate  Morello",
+      "assist2": "#6 - Carson  Evans"
+    },
+    {
+      "period": "3",
+      "time": "00:08:03",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#67 - Andrew  Miller",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:01",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "player": "#6 - Carson  Evans",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:02:49.986Z"
+}

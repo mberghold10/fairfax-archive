@@ -1,0 +1,226 @@
+{
+  "gameId": "1452",
+  "date": "2024-11-01",
+  "divId": 286,
+  "seasonName": "Summer 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1758",
+    "name": "Redhawks"
+  },
+  "away": {
+    "teamId": "1756",
+    "name": "4th Liners"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "scorer": "#2 - Jake  Lockerby",
+      "assist1": "#3 - Colin  Ray",
+      "assist2": "#71 - Colin  Shin"
+    },
+    {
+      "period": "2",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "1758",
+        "name": "Redhawks"
+      },
+      "scorer": "#25 - Jeff  Carideo",
+      "assist1": "#51 - Erik  Kniaz",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "scorer": "#17 - Andrew  Golomb",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "scorer": "#14 - Alex  Bronson",
+      "assist1": "#7 - Jonny  Vu",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:06",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "scorer": "#51 - Chris  Chase",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1758",
+        "name": "Redhawks"
+      },
+      "scorer": "#25 - Jeff  Carideo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:04",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "scorer": "#7 - Jonny  Vu",
+      "assist1": "#25 - Jared  Civarz",
+      "assist2": "#14 - Alex  Bronson"
+    },
+    {
+      "period": "3",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1758",
+        "name": "Redhawks"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1758",
+        "name": "Redhawks"
+      },
+      "scorer": "#25 - Jeff  Carideo",
+      "assist1": "#91 - Oleg  Kolodin",
+      "assist2": "#21 - Ryo  Yoshida"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:57",
+      "team": {
+        "teamId": "1758",
+        "name": "Redhawks"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "board",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:57",
+      "team": {
+        "teamId": "1758",
+        "name": "Redhawks"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1758",
+        "name": "Redhawks"
+      },
+      "player": "#910 - Evan  Prestera",
+      "pim": 4,
+      "offense": "slash/rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "player": "#51 - Chris  Chase",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "player": "#51 - Chris  Chase",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "player": "#51 - Chris  Chase",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:09",
+      "team": {
+        "teamId": "1758",
+        "name": "Redhawks"
+      },
+      "player": "#8 - Brenden  Millice",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:23:37.670Z"
+}

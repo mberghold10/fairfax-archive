@@ -1,0 +1,178 @@
+{
+  "gameId": "10251",
+  "date": "2017-02-12",
+  "divId": 154,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "989",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "986",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#61 - Fabian  Olaya",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#16 - Scott  Kuehn",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:28",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:25",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#23 - Scott  Gordon",
+      "assist1": "#54 - Gerry  Gibbons",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:01",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#61 - Fabian  Olaya",
+      "assist1": "#78 - Noe  Hatchuel",
+      "assist2": "#93 - Trygve  Olson"
+    },
+    {
+      "period": "3",
+      "time": "00:13:26",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#23 - Scott  Gordon",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:13",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "player": "#44 - Mick  Ellsworth",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:24",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "player": "#22 - Brian  Dutton",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:24",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "player": "#16 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:08",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "player": "#45 - Steve  Tamburo",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:28",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "player": "#16 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:58:10.363Z"
+}

@@ -1,0 +1,121 @@
+{
+  "gameId": "12872",
+  "date": "2019-06-21",
+  "divId": 205,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1295",
+    "name": "River Rats"
+  },
+  "away": {
+    "teamId": "1301",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "scorer": "#3 - Charlie  Beekman",
+      "assist1": "#22 - Patrick  Creamer",
+      "assist2": "#37 - Derek  Anastasiades"
+    },
+    {
+      "period": "1",
+      "time": "00:12:25",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#89 - Sid  Han",
+      "assist1": "#9 - Julien  De Grandpre",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:09",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:44",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "player": "#9 - Matt  Glassman",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:54",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "player": "#22 - Patrick  Creamer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:31",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "player": "#3 - Charlie  Beekman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:00:37.797Z"
+}

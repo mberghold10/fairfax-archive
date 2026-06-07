@@ -1,0 +1,235 @@
+{
+  "gameId": "10681",
+  "date": "2017-08-01",
+  "divId": 161,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1035",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1031",
+    "name": "Georgetown"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:01",
+      "team": {
+        "teamId": "1035",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": "#3 - Jeff  Regan"
+    },
+    {
+      "period": "1",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "scorer": "#23 - Lucas  Karron",
+      "assist1": "#5 - Ryan  LaDuke",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:41",
+      "team": {
+        "teamId": "1035",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#41 - Eugene  Livsics",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:39",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "scorer": "#64 - Andrew  Nellestein",
+      "assist1": "#90 - Ethan  Weintraub",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "scorer": "#5 - Ryan  LaDuke",
+      "assist1": "#3 - Alex  Oster",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1035",
+        "name": "Jacks"
+      },
+      "scorer": "#14 - Dennis  Nayandin",
+      "assist1": "#3 - Jeff  Regan",
+      "assist2": "#21 - Steve  Chan"
+    },
+    {
+      "period": "2",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "scorer": "#90 - Ethan  Weintraub",
+      "assist1": "#67 - Steven  Pineda",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:58",
+      "team": {
+        "teamId": "1035",
+        "name": "Jacks"
+      },
+      "scorer": "#14 - Dennis  Nayandin",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": "#3 - Jeff  Regan"
+    },
+    {
+      "period": "3",
+      "time": "00:05:04",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "scorer": "#90 - Ethan  Weintraub",
+      "assist1": "#5 - Ryan  LaDuke",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:08",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "scorer": "#64 - Andrew  Nellestein",
+      "assist1": "#90 - Ethan  Weintraub",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:18",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "scorer": "#3 - Alex  Oster",
+      "assist1": "#90 - Ethan  Weintraub",
+      "assist2": "#52 - Jeff  Strich"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1035",
+        "name": "Jacks"
+      },
+      "player": "#41 - Eugene  Livsics",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:13",
+      "team": {
+        "teamId": "1035",
+        "name": "Jacks"
+      },
+      "player": "#40 - Konstantin  Silov",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:12",
+      "team": {
+        "teamId": "1035",
+        "name": "Jacks"
+      },
+      "player": "#77 - Oleg  Nayandin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:25",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "player": "#23 - Lucas  Karron",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:09",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "player": "#52 - Jeff  Strich",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:06",
+      "team": {
+        "teamId": "1035",
+        "name": "Jacks"
+      },
+      "player": "#41 - Eugene  Livsics",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:07:12.853Z"
+}

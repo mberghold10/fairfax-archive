@@ -1,0 +1,139 @@
+{
+  "gameId": "11026",
+  "date": "2017-11-02",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1096",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1097",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:37",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "scorer": "#25 - Malcolm  Hyson",
+      "assist1": "#33 - Andy  Taylor",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:12",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#98 - Matthew  Criscuolo",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "scorer": "#8 - Dan  Brehm",
+      "assist1": "#18 - Chris  Kelly",
+      "assist2": "#23 - Greg  Thomas"
+    },
+    {
+      "period": "3",
+      "time": "00:02:38",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#98 - Matthew  Criscuolo",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:54",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": "#2 - Zach  Mural",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "scorer": "#18 - Chris  Kelly",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:02:12",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "scorer": "#15 - Mike  Hempen",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:15",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:18",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:19:45.124Z"
+}

@@ -1,0 +1,128 @@
+{
+  "gameId": "16948",
+  "date": "2024-05-31",
+  "divId": 295,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1803",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1805",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:58",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "scorer": "#21 - Brendan  Williams",
+      "assist1": "#79 - Sean  Longanecker",
+      "assist2": "#93 - Chris  Conley"
+    },
+    {
+      "period": "1",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "scorer": "#21 - Brendan  Williams",
+      "assist1": "#2 - Jennifer  Grotpeter",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:28",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#13 - Alex  Rudulph",
+      "assist1": "#4 - Jeff  Goldberg",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:15:48",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#33 - Brandon  Boling",
+      "assist1": "#41 - Alessio  Evangelista",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:17:53",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#33 - Brandon  Boling",
+      "assist1": "#93 - Robert  Wagner",
+      "assist2": "#330 - Charles  Wilkins"
+    },
+    {
+      "period": "3",
+      "time": "00:00:55",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#33 - Brandon  Boling",
+      "assist1": "#15 - Dave  Gorman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:01",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "player": "#0 - Ruben  Garcia",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:33",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "player": "#5 - Lars  Hjelm",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:32:33.923Z"
+}

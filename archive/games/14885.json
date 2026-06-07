@@ -1,0 +1,99 @@
+{
+  "gameId": "14885",
+  "date": "2022-06-26",
+  "divId": 256,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1577",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1580",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1577",
+        "name": "Thunder"
+      },
+      "scorer": "#59 - Matt  Beiriger",
+      "assist1": "#31 - Zach  Furness",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "1580",
+        "name": "Red Wings"
+      },
+      "player": "#19 - Gus  Anderson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:43",
+      "team": {
+        "teamId": "1577",
+        "name": "Thunder"
+      },
+      "player": "#29 - James  Kim",
+      "pim": 2,
+      "offense": "check from behind",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:43",
+      "team": {
+        "teamId": "1577",
+        "name": "Thunder"
+      },
+      "player": "#29 - James  Kim",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1580",
+        "name": "Red Wings"
+      },
+      "player": "#22 - Trevor  Blair",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:48:32.830Z"
+}

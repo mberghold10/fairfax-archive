@@ -1,0 +1,152 @@
+{
+  "gameId": "1451",
+  "date": "2024-10-29",
+  "divId": 294,
+  "seasonName": "Summer 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1796",
+    "name": "Goon Nation"
+  },
+  "away": {
+    "teamId": "1800",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:07",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": "#38 - Keith  Forsythe",
+      "assist2": "#1 - Chris  Beach"
+    },
+    {
+      "period": "1",
+      "time": "00:06:15",
+      "team": {
+        "teamId": "1796",
+        "name": "Goon Nation"
+      },
+      "scorer": "#5 - John  Lewandoski",
+      "assist1": "#76 - Mike  Floyd",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1796",
+        "name": "Goon Nation"
+      },
+      "scorer": "#41 - Paul  Mandeville",
+      "assist1": "#5 - John  Lewandoski",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:23",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "scorer": "#38 - Keith  Forsythe",
+      "assist1": "#25 - Greg  Reece",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:01",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "scorer": "#20 - Mike  Hempen",
+      "assist1": "#11 - Brendan  Ford",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:01",
+      "team": {
+        "teamId": "1796",
+        "name": "Goon Nation"
+      },
+      "player": "#76 - Mike  Floyd",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:27",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "player": "#25 - Greg  Reece",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1796",
+        "name": "Goon Nation"
+      },
+      "player": "#49 - Greg  Mullen",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:32:22.032Z"
+}

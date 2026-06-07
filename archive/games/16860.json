@@ -1,0 +1,169 @@
+{
+  "gameId": "16860",
+  "date": "2024-03-12",
+  "divId": 283,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1738",
+    "name": "Goon Nation"
+  },
+  "away": {
+    "teamId": "1743",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#16 - Greg  Thomas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "scorer": "#81 - Nate  Breton",
+      "assist1": "#16 - Mark  Hall",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:33",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#77 - Paul  Cicchetti",
+      "assist1": "#8 - Elliott  Yang",
+      "assist2": "#48 - Randy  Sasai"
+    },
+    {
+      "period": "3",
+      "time": "00:07:43",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#20 - Bao  Pham",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:25",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#8 - Elliott  Yang",
+      "assist1": "#48 - Randy  Sasai",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:58",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "player": "#6 - Tom  Fording",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:12",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:08",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:25",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "player": "#81 - Nate  Breton",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:25",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "player": "#81 - Nate  Breton",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:20:35.112Z"
+}

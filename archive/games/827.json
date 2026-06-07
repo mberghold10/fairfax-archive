@@ -1,0 +1,230 @@
+{
+  "gameId": "827",
+  "date": "2017-09-16",
+  "divId": 164,
+  "seasonName": "Summer 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1051",
+    "name": "Senators"
+  },
+  "away": {
+    "teamId": "1052",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:13",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#3 - Jim  Van Dyke",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#89 - Frank  Congel",
+      "assist1": "#6 - Jon  Lauder",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:21",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#93 - Jeff  Nauer",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:51",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#12 - Steve  Brady",
+      "assist1": "#93 - Jeff  Nauer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": "#2 - Mark  Jesten",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:51",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#12 - Steve  Brady",
+      "assist1": "#9 - Rick  Cole",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "scorer": "#15 - Tom  Sgroi",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:13",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "player": "#3 - Jim  Van Dyke",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:00",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "player": "#98 - Bob  Shaw",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:51",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "player": "#37 - Nick  Desport",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "player": "#15 - Tom  Sgroi",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "player": "#19 - Ira  Keltz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "player": "#22 - Charlie  Campbell",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:32",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "player": "#12 - David  OMalley",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:11:24.770Z"
+}

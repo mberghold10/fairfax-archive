@@ -1,0 +1,180 @@
+{
+  "gameId": "1491",
+  "date": "2025-05-21",
+  "divId": 304,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1866",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1867",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:54",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#55 - Brian  Merkl",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:48",
+      "team": {
+        "teamId": "1866",
+        "name": "Swarm"
+      },
+      "scorer": "#46 - Dan  OConnell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#56 - Greg  Merkl",
+      "assist1": "#36 - Jon  Stehle",
+      "assist2": "#33 - Sergey  Kuznetsov"
+    },
+    {
+      "period": "2",
+      "time": "00:02:18",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#33 - Sergey  Kuznetsov",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1866",
+        "name": "Swarm"
+      },
+      "scorer": "#56 - Ryan  Tyler",
+      "assist1": "#9 - Jason  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#41 - Eugene  Livsics",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:08",
+      "team": {
+        "teamId": "1866",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:05",
+      "team": {
+        "teamId": "1866",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:23",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "player": "#41 - Eugene  Livsics",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "player": "#37 - Josh  Savani",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:38",
+      "team": {
+        "teamId": "1866",
+        "name": "Swarm"
+      },
+      "player": "#360 - Jeff  Cardieo",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:42:39.049Z"
+}

@@ -1,0 +1,104 @@
+{
+  "gameId": "17612",
+  "date": "2024-12-15",
+  "divId": 302,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1858",
+    "name": "Red Dragons"
+  },
+  "away": {
+    "teamId": "1857",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "1857",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#74 - Eric  Peterson",
+      "assist1": "#11 - Josh  Gilman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:17",
+      "team": {
+        "teamId": "1857",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#5 - Regina  Hart",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:37",
+      "team": {
+        "teamId": "1858",
+        "name": "Red Dragons"
+      },
+      "scorer": "#20 - Charlie  Curia",
+      "assist1": "#22 - Jeffrey  Ortolano",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:46",
+      "team": {
+        "teamId": "1857",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#15 - Mike  Munoz",
+      "assist1": "#220 - Adam  Bacon",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1857",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#9 - Scott  Peterson",
+      "assist1": "#71 - Francis  Aul",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1857",
+        "name": "Blackskimmers"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:39:56.207Z"
+}

@@ -1,0 +1,174 @@
+{
+  "gameId": "19032",
+  "date": "2026-04-29",
+  "divId": 325,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1995",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "1994",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "scorer": "#55 - Brian  Merkl",
+      "assist1": "#56 - Greg  Merkl",
+      "assist2": "#10 - Konstantin  Silov"
+    },
+    {
+      "period": "2",
+      "time": "00:08:01",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "scorer": "#55 - Brian  Merkl",
+      "assist1": "#41 - Eugene  Livsics",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:00",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "scorer": "#7 - Joseph  Hull",
+      "assist1": "#36 - Jon  Stehle",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:16",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "scorer": "#18 - David  Leadston",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:50",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#65 - Bobby  Woods-Corwin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:39",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#26 - Jeremy  Whang",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:53",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "scorer": "#55 - Brian  Merkl",
+      "assist1": "#36 - Jon  Stehle",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "scorer": "#65 - Bobby  Woods-Corwin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "scorer": "#36 - Jon  Stehle",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:50",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "player": "#41 - Eugene  Livsics",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "player": "#41 - Eugene  Livsics",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:13",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "player": "#28 - Charles  Hale",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:04:51.331Z"
+}

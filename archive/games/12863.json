@@ -1,0 +1,97 @@
+{
+  "gameId": "12863",
+  "date": "2019-05-31",
+  "divId": 205,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1301",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1296",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:58",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#22 - Charlie  Campbell",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "scorer": "#8 - Mike  Dmytrewycz",
+      "assist1": "#13 - John  Kosak",
+      "assist2": "#27 - Andrew  Sundelin"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:45",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "player": "#20 - Eric  Nelson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:18",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "player": "#24 - Harry  Nicholakos",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "player": "#8 - Mike  Dmytrewycz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:00:28.762Z"
+}

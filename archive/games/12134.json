@@ -1,0 +1,178 @@
+{
+  "gameId": "12134",
+  "date": "2018-12-05",
+  "divId": 189,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1203",
+    "name": "Blackhawks"
+  },
+  "away": {
+    "teamId": "1200",
+    "name": "Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:09",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#90 - Shawn  McEvoy",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:45",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "scorer": "#72 - Matt  Eckler",
+      "assist1": "#18 - Steve  Percival",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:40",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:22",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "scorer": "#18 - Steve  Percival",
+      "assist1": "#11 - Mike  Dumont",
+      "assist2": "#90 - Shawn  McEvoy"
+    },
+    {
+      "period": "2",
+      "time": "00:10:19",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:07",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "scorer": "#72 - Matt  Eckler",
+      "assist1": "#11 - Mike  Dumont",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:48",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "player": "#7 - Tyler  Kniaz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:21",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "player": "#23 - Brian  McCarthy",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:56",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "player": "#23 - Brian  McCarthy",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:58",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "player": "#18 - Steve  Percival",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:41:01.105Z"
+}

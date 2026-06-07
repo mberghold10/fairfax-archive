@@ -1,0 +1,104 @@
+{
+  "gameId": "15309",
+  "date": "2022-08-12",
+  "divId": 256,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1580",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1578",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:50",
+      "team": {
+        "teamId": "1580",
+        "name": "Red Wings"
+      },
+      "scorer": "#22 - Trevor  Blair",
+      "assist1": "#25 - James  Chu",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:35",
+      "team": {
+        "teamId": "1578",
+        "name": "Roughnecks"
+      },
+      "scorer": "#3 - Tom  Meike",
+      "assist1": "#83 - Michael  Milazzo",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:17:49",
+      "team": {
+        "teamId": "1578",
+        "name": "Roughnecks"
+      },
+      "scorer": "#12 - John  Myers",
+      "assist1": "#26 - Thomas  Newberg",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1580",
+        "name": "Red Wings"
+      },
+      "scorer": "#22 - Trevor  Blair",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:49",
+      "team": {
+        "teamId": "1578",
+        "name": "Roughnecks"
+      },
+      "scorer": "#13 - Greg  Wilburn",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "1580",
+        "name": "Red Wings"
+      },
+      "player": "#18 - Russ  Smith",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:48:41.830Z"
+}

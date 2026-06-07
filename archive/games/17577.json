@@ -1,0 +1,106 @@
+{
+  "gameId": "17577",
+  "date": "2024-11-17",
+  "divId": 301,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1852",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1853",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1852",
+        "name": "Rink Rats"
+      },
+      "scorer": "#13 - John  Bereza",
+      "assist1": "#34 - Evan  Tierney",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "1852",
+        "name": "Rink Rats"
+      },
+      "scorer": "#13 - John  Bereza",
+      "assist1": "#34 - Evan  Tierney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1852",
+        "name": "Rink Rats"
+      },
+      "scorer": "#34 - Evan  Tierney",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:42",
+      "team": {
+        "teamId": "1852",
+        "name": "Rink Rats"
+      },
+      "scorer": "#9 - Chris  ORear",
+      "assist1": "#37 - TJ  Wolf",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:35",
+      "team": {
+        "teamId": "1853",
+        "name": "Jurassic Puck"
+      },
+      "player": "#13 - Joe  Carroll",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:37",
+      "team": {
+        "teamId": "1853",
+        "name": "Jurassic Puck"
+      },
+      "player": "#13 - Joe  Carroll",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:38:36.472Z"
+}

@@ -1,0 +1,130 @@
+{
+  "gameId": "13447",
+  "date": "2019-11-09",
+  "divId": 215,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1359",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1357",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:29",
+      "team": {
+        "teamId": "1359",
+        "name": "Wolves"
+      },
+      "scorer": "#33 - Dmitriy  Achapkin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1359",
+        "name": "Wolves"
+      },
+      "scorer": "#27 - Scott  Raimist",
+      "assist1": "#33 - Dmitriy  Achapkin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1359",
+        "name": "Wolves"
+      },
+      "scorer": "#10 - Rich  Scigaj",
+      "assist1": "#44 - Robby  Davidovits",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:55",
+      "team": {
+        "teamId": "1359",
+        "name": "Wolves"
+      },
+      "scorer": "#23 - Alan  Stiffler",
+      "assist1": "#44 - Robby  Davidovits",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:33",
+      "team": {
+        "teamId": "1359",
+        "name": "Wolves"
+      },
+      "scorer": "#44 - Robby  Davidovits",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:56",
+      "team": {
+        "teamId": "1359",
+        "name": "Wolves"
+      },
+      "player": "#27 - Scott  Raimist",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:21",
+      "team": {
+        "teamId": "1357",
+        "name": "Maple Leafs"
+      },
+      "player": "#3 - Frank  Thomason",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "1359",
+        "name": "Wolves"
+      },
+      "player": "#23 - Alan  Stiffler",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:12:45.814Z"
+}

@@ -1,0 +1,139 @@
+{
+  "gameId": "12433",
+  "date": "2019-03-01",
+  "divId": 191,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1214",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1213",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#74 - Daniel  Murray",
+      "assist1": "#10 - Chris  Chagnon",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:39",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#5 - Joel  Dever",
+      "assist1": "#72 - Kyle  Brosnan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:03",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#5 - Lucas  Streng",
+      "assist1": "#6 - Bob  Friess",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:17",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#6 - Faraz  Izadi",
+      "assist1": "#22 - Jongjae  Yoo",
+      "assist2": "#72 - Kyle  Brosnan"
+    },
+    {
+      "period": "2",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#6 - Faraz  Izadi",
+      "assist1": "#72 - Kyle  Brosnan",
+      "assist2": "#22 - Jongjae  Yoo"
+    },
+    {
+      "period": "2",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#9 - Steve  Tarditi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "1213",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#9 - Steve  Tarditi",
+      "assist1": "#7 - Dan  Fleischman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "player": "#72 - Kyle  Brosnan",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:17",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "player": "#10 - Chris  Chagnon",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:43:51.478Z"
+}

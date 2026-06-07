@@ -1,0 +1,121 @@
+{
+  "gameId": "10568",
+  "date": "2017-06-11",
+  "divId": 165,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1056",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1055",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:44",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#8 - Paul  Palcerzak",
+      "assist1": "#7 - Mike  Hoard",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#8 - Paul  Palcerzak",
+      "assist1": "#5 - Andy  Craighill",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:01",
+      "team": {
+        "teamId": "1056",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#5 - Andy  Loggia",
+      "assist1": "#11 - David  Kidd",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "1056",
+        "name": "British Bulldogs"
+      },
+      "player": "#38 - Mike  Andrien",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:01",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "player": "#22 - Chuck  LeDoux",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1056",
+        "name": "British Bulldogs"
+      },
+      "player": "#23 - Rob  Fischer",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:39",
+      "team": {
+        "teamId": "1056",
+        "name": "British Bulldogs"
+      },
+      "player": "#33 - Hung  Pham",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:11:53.656Z"
+}

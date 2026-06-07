@@ -1,0 +1,237 @@
+{
+  "gameId": "12257",
+  "date": "2018-11-28",
+  "divId": 194,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1233",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1229",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 4,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:36",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "scorer": "#11 - Bryan  Maloney",
+      "assist1": "#24 - Jamie  Belcastro",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:04",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "scorer": "#98 - Joe  Tierney",
+      "assist1": "#3 - Kareem  El-Alaily",
+      "assist2": "#15 - Chris  Yoko"
+    },
+    {
+      "period": "2",
+      "time": "00:07:28",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "scorer": "#9 - Tony  Cusumano",
+      "assist1": "#28 - Pete  Sandness",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:39",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "scorer": "#24 - Jamie  Belcastro",
+      "assist1": "#11 - Bryan  Maloney",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:57",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "scorer": "#10 - Justin  Arbes",
+      "assist1": "#15 - Chris  Yoko",
+      "assist2": "#3 - Kareem  El-Alaily"
+    },
+    {
+      "period": "3",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "scorer": "#28 - Pete  Sandness",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:15",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "scorer": "#98 - Joe  Tierney",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:29",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "scorer": "#10 - Justin  Arbes",
+      "assist1": "#98 - Joe  Tierney",
+      "assist2": "#3 - Kareem  El-Alaily"
+    },
+    {
+      "period": "3",
+      "time": "00:09:45",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "scorer": "#3 - Kareem  El-Alaily",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:14",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#5 - Peter  Boone",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:37",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "player": "#69 - Aaron  Domnitch",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "player": "#15 - Chris  Yoko",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:13",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "player": "#28 - Maxim  Alexeev",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:21",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "player": "#27 - Chris  Balsley",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:15",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "player": "#24 - Jamie  Belcastro",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:24",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "player": "#57 - Derek  Morrissette",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:02",
+      "team": {
+        "teamId": "1233",
+        "name": "Nortec"
+      },
+      "player": "#12 - Sami  Kymalainen",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:47:24.731Z"
+}

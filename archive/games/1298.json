@@ -1,0 +1,257 @@
+{
+  "gameId": "1298",
+  "date": "2023-04-12",
+  "divId": 262,
+  "seasonName": "Winter 2022",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1614",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1615",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 5,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 8
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "1614",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#15 - John  Cushing",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:37",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#16 - Peter  OKeefe",
+      "assist2": "#9 - Matt  Satterly"
+    },
+    {
+      "period": "1",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "1614",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:21",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "scorer": "#70 - David  Fitzgerald",
+      "assist1": "#10 - Justin  Arbes",
+      "assist2": "#93 - Trygve  Olson"
+    },
+    {
+      "period": "1",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "scorer": "#10 - Justin  Arbes",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": "#69 - Aaron  Domnitch"
+    },
+    {
+      "period": "1",
+      "time": "00:12:18",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#70 - David  Fitzgerald",
+      "assist2": "#12 - Sami  Kymalainen"
+    },
+    {
+      "period": "1",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#10 - Justin  Arbes",
+      "assist2": "#93 - Trygve  Olson"
+    },
+    {
+      "period": "2",
+      "time": "00:01:12",
+      "team": {
+        "teamId": "1614",
+        "name": "Jacks"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1614",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#17 - Tim  Commerford",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:37",
+      "team": {
+        "teamId": "1614",
+        "name": "Jacks"
+      },
+      "scorer": "#28 - Charles  Hale",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:46",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "scorer": "#18 - Peter  Schmick",
+      "assist1": "#27 - Chris  Balsley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:19",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "scorer": "#16 - Peter  OKeefe",
+      "assist1": "#9 - Matt  Satterly",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "scorer": "#12 - Sami  Kymalainen",
+      "assist1": "#69 - Aaron  Domnitch",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1614",
+        "name": "Jacks"
+      },
+      "player": "#12 - Brian  Dix",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:37",
+      "team": {
+        "teamId": "1614",
+        "name": "Jacks"
+      },
+      "player": "#28 - Charles  Hale",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:37",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 2,
+      "offense": "ilegal contact",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:37",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:45",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "player": "#70 - David  Fitzgerald",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:56:01.608Z"
+}

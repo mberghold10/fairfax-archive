@@ -1,0 +1,121 @@
+{
+  "gameId": "17994",
+  "date": "2025-03-16",
+  "divId": 306,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1878",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1876",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:02:08",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "scorer": "#3 - Bill  Schultheiss",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:24",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": "#88 - Josh  Gilman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:09",
+      "team": {
+        "teamId": "1878",
+        "name": "Flying Circus"
+      },
+      "scorer": "#13 - Jeff  Johnson",
+      "assist1": "#25 - Malcolm  Hyson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:14",
+      "team": {
+        "teamId": "1878",
+        "name": "Flying Circus"
+      },
+      "player": "#13 - Jeff  Johnson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:34",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "player": "#33 - Hung  Pham",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "1878",
+        "name": "Flying Circus"
+      },
+      "player": "#13 - Jeff  Johnson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "1876",
+        "name": "Coyotes"
+      },
+      "player": "#38 - Mike  Andrien",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:44:22.254Z"
+}

@@ -1,0 +1,143 @@
+{
+  "gameId": "1531",
+  "date": "2025-06-15",
+  "divId": 303,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1862",
+    "name": "Toronto"
+  },
+  "away": {
+    "teamId": "1864",
+    "name": "Bottle Caps"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#17 - John  Wallace",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:22",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": "#5 - Dave  Neri",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#28 - Harry  Nicholakos",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:26",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#60 - Will  Murphy",
+      "assist1": "#17 - John  Wallace",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:28",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "scorer": "#28 - Harry  Nicholakos",
+      "assist1": "#48 - Randy  Sasai",
+      "assist2": "#44 - Jim  McGovern"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "player": "#7 - Vadim  Sokolov",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:26",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "player": "#8 - Timothy  Lo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:26",
+      "team": {
+        "teamId": "1864",
+        "name": "Bottle Caps"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:26",
+      "team": {
+        "teamId": "1862",
+        "name": "Toronto"
+      },
+      "player": "#60 - Will  Murphy",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:41:47.029Z"
+}

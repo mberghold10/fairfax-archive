@@ -1,0 +1,226 @@
+{
+  "gameId": "11811",
+  "date": "2018-08-11",
+  "divId": 181,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1152",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1153",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:06",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "scorer": "#11 - Darren  Wellner",
+      "assist1": "#43 - Henry  Weisiger",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:56",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Peter  Poczatek",
+      "assist1": "#9 - Ken  Fritzscher",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:25",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": "#34 - Jim  Morgan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "scorer": "#24 - Max  Alexeev",
+      "assist1": "#43 - Henry  Weisiger",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:16",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "scorer": "#11 - Darren  Wellner",
+      "assist1": "#24 - Max  Alexeev",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:31",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "scorer": "#11 - Darren  Wellner",
+      "assist1": "#92 - Ilya  Kosolapov",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:42",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#16 - Tom  Rodeheaver",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": "#17 - Jim  Freely"
+    },
+    {
+      "period": "2",
+      "time": "00:14:25",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:48",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#16 - Tom  Rodeheaver",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:32",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "player": "#92 - Ilya  Kosolapov",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:52",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "player": "#4 - Jeff  Bloom",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:41",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "player": "#2 - Shawn  Hatch",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:15",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "player": "#24 - Max  Alexeev",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:53",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "player": "#43 - Henry  Weisiger",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "player": "#4 - Jeff  Bloom",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "player": "#22 - Rich  Silberman",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:31:46.063Z"
+}

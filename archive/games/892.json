@@ -1,0 +1,145 @@
+{
+  "gameId": "892",
+  "date": "2018-04-23",
+  "divId": 176,
+  "seasonName": "Winter 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1121",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1125",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#72 - Kyle  Brosnan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#22 - Jongjae  Yoo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#10 - Chris  Chagnon",
+      "assist1": "#22 - Jongjae  Yoo",
+      "assist2": "#18 - Jeff  Rummel"
+    },
+    {
+      "period": "3",
+      "time": "00:12:01",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#72 - Kyle  Brosnan",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:34",
+      "team": {
+        "teamId": "1125",
+        "name": "Blue Crabs"
+      },
+      "player": "#42 - Adam  Russell",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:55",
+      "team": {
+        "teamId": "1125",
+        "name": "Blue Crabs"
+      },
+      "player": "#14 - John  Pace",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "1125",
+        "name": "Blue Crabs"
+      },
+      "player": "#42 - Adam  Russell",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:33",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "player": "#6 - Faraz  Izadi",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "player": "#21 - Graham  Pough",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:26:06.874Z"
+}

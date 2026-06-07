@@ -1,0 +1,117 @@
+{
+  "gameId": "18420",
+  "date": "2025-10-04",
+  "divId": 316,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1936",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1933",
+    "name": "Jacks GreyBeards"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:10",
+      "team": {
+        "teamId": "1933",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#4 - Mark  Sullivan",
+      "assist2": "#27 - Andy  Rieger"
+    },
+    {
+      "period": "1",
+      "time": "00:08:58",
+      "team": {
+        "teamId": "1936",
+        "name": "Team USA"
+      },
+      "scorer": "#54 - Dan  Bagley",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "1936",
+        "name": "Team USA"
+      },
+      "scorer": "#8 - Jamie  Sengheiser",
+      "assist1": "#7 - Ed  Weiner",
+      "assist2": "#5 - Oleg  Kolodin"
+    },
+    {
+      "period": "3",
+      "time": "00:10:34",
+      "team": {
+        "teamId": "1933",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#15 - John  Cushing",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:02:41",
+      "team": {
+        "teamId": "1933",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "1936",
+        "name": "Team USA"
+      },
+      "player": "#44 - Greg  Powers",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:17",
+      "team": {
+        "teamId": "1933",
+        "name": "Jacks GreyBeards"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:55:10.036Z"
+}

@@ -1,0 +1,239 @@
+{
+  "gameId": "1541",
+  "date": "2025-06-05",
+  "divId": 306,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1879",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1873",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:18",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#21 - Mark  Johnston",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:59",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "scorer": "# -",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:36",
+      "team": {
+        "teamId": "1879",
+        "name": "Islanders"
+      },
+      "scorer": "#28 - Adam  Camarano",
+      "assist1": "#19 - Jason  Long",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:17",
+      "team": {
+        "teamId": "1879",
+        "name": "Islanders"
+      },
+      "scorer": "#28 - Adam  Camarano",
+      "assist1": "#19 - Jason  Long",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1879",
+        "name": "Islanders"
+      },
+      "scorer": "#9 - Rick  Cole",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:25",
+      "team": {
+        "teamId": "1879",
+        "name": "Islanders"
+      },
+      "scorer": "#9 - Rick  Cole",
+      "assist1": "#19 - Jason  Long",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:52",
+      "team": {
+        "teamId": "1879",
+        "name": "Islanders"
+      },
+      "scorer": "#44 - Steve  Hedger",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:33",
+      "team": {
+        "teamId": "1879",
+        "name": "Islanders"
+      },
+      "scorer": "#9 - Rick  Cole",
+      "assist1": "#19 - Jason  Long",
+      "assist2": "#93 - Jeff  Nauer"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:47",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "player": "#47 - Talbot  Black",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:57",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "player": "#25 - Chris  Lettieri",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "player": "#44 - Mick  Ellsworth",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "player": "#44 - Mick  Ellsworth",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:53",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:19",
+      "team": {
+        "teamId": "1879",
+        "name": "Islanders"
+      },
+      "player": "#28 - Adam  Camarano",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "1879",
+        "name": "Islanders"
+      },
+      "player": "#44 - Steve  Hedger",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:23",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "player": "#28 - Edward  Holleran",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:44:56.201Z"
+}

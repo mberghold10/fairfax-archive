@@ -1,0 +1,119 @@
+{
+  "gameId": "16933",
+  "date": "2024-05-26",
+  "divId": 295,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1805",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1804",
+    "name": "Hershey Beers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": "#3 - Darr  Gerscovich",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#77 - Jeff  Wilken",
+      "assist1": "#15 - Dave  Gorman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "1804",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#44 - Venka  Ashtakala",
+      "assist1": "#48 - Kris  Winder",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#27 - Jamie  Prime",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:55",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "player": "#51 - Kevin  Michie",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:32",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "player": "#93 - Robert  Wagner",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:18",
+      "team": {
+        "teamId": "1804",
+        "name": "Hershey Beers"
+      },
+      "player": "#290 - Chris  Dunn",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:32:31.941Z"
+}

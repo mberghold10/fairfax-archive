@@ -1,0 +1,139 @@
+{
+  "gameId": "10128",
+  "date": "2016-12-05",
+  "divId": 158,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1016",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1011",
+    "name": "River Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:54",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "scorer": "#36 - Evan  Clinton",
+      "assist1": "#20 - Paul  Flood",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:16",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "scorer": "#36 - Evan  Clinton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:52",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "scorer": "#10 - Colin  Ligon",
+      "assist1": "#31 - Sam  Branham",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#22 - JongJae  Yoo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:55",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:13",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "scorer": "#20 - Paul  Flood",
+      "assist1": "#11 - Michael  Plampin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:06",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#22 - JongJae  Yoo",
+      "assist1": "#90 - Justin  MacDonald",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:13",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "player": "#74 - Jeff  Chistolini",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:03:05.956Z"
+}

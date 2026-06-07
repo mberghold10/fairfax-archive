@@ -1,0 +1,130 @@
+{
+  "gameId": "14120",
+  "date": "2021-07-03",
+  "divId": 228,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1431",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1433",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "1433",
+        "name": "Islanders"
+      },
+      "scorer": "#2 - Mark  Jesten",
+      "assist1": "#1 - Chris  Beach",
+      "assist2": "#19 - Jason  Long"
+    },
+    {
+      "period": "1",
+      "time": "00:04:25",
+      "team": {
+        "teamId": "1433",
+        "name": "Islanders"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": "#1 - Chris  Beach",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:30",
+      "team": {
+        "teamId": "1433",
+        "name": "Islanders"
+      },
+      "scorer": "#9 - Rick  Cole",
+      "assist1": "#1 - Chris  Beach",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "1433",
+        "name": "Islanders"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#9 - Rick  Cole",
+      "assist2": "#44 - Jeff  Lucas"
+    },
+    {
+      "period": "2",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1433",
+        "name": "Islanders"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": "#2 - Mark  Jesten",
+      "assist2": "#1 - Chris  Beach"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:13",
+      "team": {
+        "teamId": "1433",
+        "name": "Islanders"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "1431",
+        "name": "Team USA"
+      },
+      "player": "#99 - Jon  Davoren",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1433",
+        "name": "Islanders"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:22:37.555Z"
+}

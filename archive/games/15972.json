@@ -1,0 +1,154 @@
+{
+  "gameId": "15972",
+  "date": "2023-07-23",
+  "divId": 268,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1650",
+    "name": "Pharoahs"
+  },
+  "away": {
+    "teamId": "1649",
+    "name": "Punishers HC"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "1649",
+        "name": "Punishers HC"
+      },
+      "scorer": "#4 - Patrick  Smith",
+      "assist1": "#1 - Matt  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:29",
+      "team": {
+        "teamId": "1650",
+        "name": "Pharoahs"
+      },
+      "scorer": "#28 - Michael  Berghold",
+      "assist1": "#11 - Dan  Owens",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:26",
+      "team": {
+        "teamId": "1649",
+        "name": "Punishers HC"
+      },
+      "scorer": "#4 - Patrick  Smith",
+      "assist1": "#29 - Brian  Mehnert",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:35",
+      "team": {
+        "teamId": "1649",
+        "name": "Punishers HC"
+      },
+      "scorer": "#12 - Dave  OMally",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": "#5 - Mike  Jones"
+    },
+    {
+      "period": "3",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1650",
+        "name": "Pharoahs"
+      },
+      "scorer": "#11 - Dan  Owens",
+      "assist1": "#28 - Michael  Berghold",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:58",
+      "team": {
+        "teamId": "1649",
+        "name": "Punishers HC"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#12 - Dave  OMally",
+      "assist2": "#7 - Ken  Ochsner"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:33",
+      "team": {
+        "teamId": "1649",
+        "name": "Punishers HC"
+      },
+      "player": "#1 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:09",
+      "team": {
+        "teamId": "1650",
+        "name": "Pharoahs"
+      },
+      "player": "#15 - Brian  Ebert",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:43",
+      "team": {
+        "teamId": "1650",
+        "name": "Pharoahs"
+      },
+      "player": "#15 - Brian  Ebert",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1650",
+        "name": "Pharoahs"
+      },
+      "player": "#15 - Brian  Ebert",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:02:13.366Z"
+}

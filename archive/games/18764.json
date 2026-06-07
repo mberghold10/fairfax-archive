@@ -1,0 +1,139 @@
+{
+  "gameId": "18764",
+  "date": "2026-02-11",
+  "divId": 325,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1995",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "1991",
+    "name": "Ers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#92 - TC  Rotunda",
+      "assist1": "#24 - Tom  Spiewak",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#92 - TC  Rotunda",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:16",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": "#92 - TC  Rotunda",
+      "assist2": "#7 - Matt  ODriscoll"
+    },
+    {
+      "period": "2",
+      "time": "00:14:39",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "scorer": "#65 - Bobby  Woods-Corwin",
+      "assist1": "#26 - Jeremy  Whang",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:38",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#11 - Brian  Maloney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#24 - Justin  Thompson",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#15 - Todd  Martin",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:51",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "player": "#28 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:44",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "player": "#24 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:04:29.270Z"
+}

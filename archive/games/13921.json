@@ -1,0 +1,152 @@
+{
+  "gameId": "13921",
+  "date": "2021-01-30",
+  "divId": 222,
+  "seasonName": "Fall 2020",
+  "mode": "regular",
+  "home": {
+    "teamId": "1392",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1396",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 1,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#23 - Rick  Gorgone",
+      "assist1": "#81 - Chris  Holden",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1396",
+        "name": "Islanders"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#17 - Marvin  Scott",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:33",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#18 - Dominic  Pistolessi",
+      "assist1": "#15 - Mark  Rudnicki",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "1396",
+        "name": "Islanders"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:53",
+      "team": {
+        "teamId": "1396",
+        "name": "Islanders"
+      },
+      "scorer": "#12 - Ilan  Bret",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": "#9 - Rick  Cole"
+    },
+    {
+      "period": "4",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#77 - Ryan  Reed",
+      "assist1": "#18 - Dominic  Pistolessi",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1396",
+        "name": "Islanders"
+      },
+      "player": "#19 - Jason  Long",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "player": "#77 - Ryan  Reed",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:26",
+      "team": {
+        "teamId": "1396",
+        "name": "Islanders"
+      },
+      "player": "#23 - Scott  Richard",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:17:58.467Z"
+}

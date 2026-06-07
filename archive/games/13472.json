@@ -1,0 +1,139 @@
+{
+  "gameId": "13472",
+  "date": "2019-11-23",
+  "divId": 216,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1363",
+    "name": "Roughnecks"
+  },
+  "away": {
+    "teamId": "1368",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#20 - David  Humes",
+      "assist1": "#54 - Tom  Montanio",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#74 - David  Urlwin",
+      "assist1": "#12 - Gus  Anderson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#2 - James  Kim",
+      "assist1": "#5 - Chris  Oman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:05",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#10 - owen  Schaefer",
+      "assist1": "#12 - Gus  Anderson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#12 - Gus  Anderson",
+      "assist1": "#74 - David  Urlwin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:38",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#5 - Chris  Oman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#5 - Chris  Oman",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:45",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "player": "#5 - Chris  Oman",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:15",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "player": "#13 - Frederic  Kneisel",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:14:01.386Z"
+}

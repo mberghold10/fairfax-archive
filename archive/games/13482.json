@@ -1,0 +1,128 @@
+{
+  "gameId": "13482",
+  "date": "2019-12-27",
+  "divId": 216,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1364",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1363",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 4,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:16",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#210 - Anthony  Dejohn",
+      "assist1": "#17 - James  Ciskanik",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#17 - James  Ciskanik",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:59",
+      "team": {
+        "teamId": "1364",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#7 - Gary  Adler",
+      "assist1": "#77 - Scott  Peterson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:17:36",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#3 - Charlie  Beekman",
+      "assist1": "#210 - Anthony  Dejohn",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:18:56",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#17 - James  Ciskanik",
+      "assist1": "#5 - Chris  Oman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:13",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#5 - Chris  Oman",
+      "assist1": "#13 - Frederic  Kneisel",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:11:33",
+      "team": {
+        "teamId": "1364",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#100 - Goalie  Subtitute",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:41",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "player": "#5 - Chris  Oman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:14:11.376Z"
+}

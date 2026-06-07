@@ -1,0 +1,152 @@
+{
+  "gameId": "10220",
+  "date": "2016-12-11",
+  "divId": 157,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1008",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1007",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:34",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#10 - Mike  Boyajian",
+      "assist1": "#5 - Walt  Turnes",
+      "assist2": "#14 - Jason  Brue"
+    },
+    {
+      "period": "1",
+      "time": "00:07:19",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#4 - Mark  Bunal",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "1007",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": "#24 - Jeff  Robins",
+      "assist2": "#69 - Todd  Conetta"
+    },
+    {
+      "period": "2",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1007",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#11 - David  Kidd",
+      "assist1": "#9 - James  Boland",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:54",
+      "team": {
+        "teamId": "1007",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#16 - Chris  Kelly",
+      "assist1": "#82 - Justin  MacDonald",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:34",
+      "team": {
+        "teamId": "1007",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#69 - Todd  Conetta",
+      "assist1": "#11 - David  Kidd",
+      "assist2": "#24 - Jeff  Robins"
+    },
+    {
+      "period": "3",
+      "time": "00:09:23",
+      "team": {
+        "teamId": "1007",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#24 - Jeff  Robins",
+      "assist1": "#9 - James  Boland",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "1007",
+        "name": "British Bulldogs"
+      },
+      "player": "#10 - Mike  Carew",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "1007",
+        "name": "British Bulldogs"
+      },
+      "player": "#69 - Todd  Conetta",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "player": "#31 - Kevin  Loughery",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:01:49.223Z"
+}

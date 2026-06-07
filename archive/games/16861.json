@@ -1,0 +1,130 @@
+{
+  "gameId": "16861",
+  "date": "2024-03-16",
+  "divId": 283,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1742",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1739",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1739",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#21 - Steve  Kaplan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:53",
+      "team": {
+        "teamId": "1742",
+        "name": "Hurricanes"
+      },
+      "scorer": "#12 - Adam  Olsen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "1742",
+        "name": "Hurricanes"
+      },
+      "scorer": "#12 - Adam  Olsen",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:01",
+      "team": {
+        "teamId": "1739",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#78 - Bill  Ezekiel",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1739",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#78 - Bill  Ezekiel",
+      "assist1": "#81 - Rob  Katz",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:34",
+      "team": {
+        "teamId": "1739",
+        "name": "Ice Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:22",
+      "team": {
+        "teamId": "1742",
+        "name": "Hurricanes"
+      },
+      "player": "#89 - Frank  Congel",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "1739",
+        "name": "Ice Dogs"
+      },
+      "player": "#81 - Rob  Katz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:20:36.075Z"
+}

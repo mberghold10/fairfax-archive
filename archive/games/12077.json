@@ -1,0 +1,150 @@
+{
+  "gameId": "12077",
+  "date": "2018-10-08",
+  "divId": 190,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1208",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1209",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:34",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#24 - Jeff  Robins",
+      "assist1": "#9 - James  Boland",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:05",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#16 - Chris  Kelly",
+      "assist1": "#7 - Brian  Freeman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:45",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "scorer": "#3 - Julien  De Grandpre",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:33",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:56",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#16 - Chris  Kelly",
+      "assist1": "#9 - James  Boland",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:46",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "scorer": "#88 - Brian  Ray",
+      "assist1": "#91 - Chris  Callanan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "scorer": "#88 - Brian  Ray",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:35",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "player": "#25 - Greg  Reece",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:56",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:41:41.128Z"
+}

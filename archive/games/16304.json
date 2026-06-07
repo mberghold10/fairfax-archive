@@ -1,0 +1,152 @@
+{
+  "gameId": "16304",
+  "date": "2023-09-09",
+  "divId": 272,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1682",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1681",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 3,
+      "ot": 1,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:06:27",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "scorer": "#79 - Dave  Gerstner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "scorer": "#11 - Dave  Brown",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "scorer": "#12 - Paul  Zalocha",
+      "assist1": "#11 - Dave  Brown",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:45",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": "#11 - Dave  Brown",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:03",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "scorer": "#83 - Brandon  Berhorst",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:39",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "scorer": "#79 - Dave  Gerstner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "scorer": "#27 - C  Cashin",
+      "assist1": "#11 - Dave  Brown",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:52",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:04",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "player": "#17 - Jeff  Alpher",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:08:01.285Z"
+}

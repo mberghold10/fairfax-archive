@@ -1,0 +1,163 @@
+{
+  "gameId": "16275",
+  "date": "2023-09-20",
+  "divId": 271,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1672",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1673",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 5,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1673",
+        "name": "Bruins"
+      },
+      "scorer": "#16 - Peter  OKeefe",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:36",
+      "team": {
+        "teamId": "1673",
+        "name": "Bruins"
+      },
+      "scorer": "#16 - Peter  OKeefe",
+      "assist1": "#8 - Peter  Boone",
+      "assist2": "#65 - Bobby  Woods-Corwin"
+    },
+    {
+      "period": "1",
+      "time": "00:05:52",
+      "team": {
+        "teamId": "1673",
+        "name": "Bruins"
+      },
+      "scorer": "#85 - Aaron  Dobbs",
+      "assist1": "#69 - Aaron  Domnitch",
+      "assist2": "#10 - Justin  Arbes"
+    },
+    {
+      "period": "1",
+      "time": "00:12:25",
+      "team": {
+        "teamId": "1673",
+        "name": "Bruins"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#70 - David  Fitzgerald",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:19",
+      "team": {
+        "teamId": "1673",
+        "name": "Bruins"
+      },
+      "scorer": "#70 - David  Fitzgerald",
+      "assist1": "#16 - Peter  OKeefe",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:29",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "scorer": "#45 - Mike  Stroud",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:26",
+      "team": {
+        "teamId": "1673",
+        "name": "Bruins"
+      },
+      "scorer": "#9 - Matt  Slattery",
+      "assist1": "#16 - Peter  OKeefe",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:02",
+      "team": {
+        "teamId": "1673",
+        "name": "Bruins"
+      },
+      "scorer": "#16 - Peter  OKeefe",
+      "assist1": "#70 - David  Fitzgerald",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:01",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "player": "#13 - Bob  Chagnot",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:42",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "player": "#2 - Andy  Mitchell",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "player": "#6 - Paul  Maguire",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:06:35.350Z"
+}

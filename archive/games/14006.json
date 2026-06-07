@@ -1,0 +1,128 @@
+{
+  "gameId": "14006",
+  "date": "2021-05-24",
+  "divId": 226,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1418",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1420",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:19",
+      "team": {
+        "teamId": "1420",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#42 - Adam  Russell",
+      "assist1": "#88 - Matt  Tiede",
+      "assist2": "#24 - Brian  Crossin"
+    },
+    {
+      "period": "2",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "1420",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#15 - Steve  Tardit",
+      "assist1": "#28 - Brad  Mills",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1420",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": "#42 - Adam  Russell",
+      "assist2": "#77 - Sari  Lelchook"
+    },
+    {
+      "period": "2",
+      "time": "00:13:13",
+      "team": {
+        "teamId": "1420",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#20 - Jeff  Carter",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:57",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": "#33 - Alex  Rinaldi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:47",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#33 - Alex  Rinaldi",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:05:02",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "player": "#12 - Chris  Yoko",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:54",
+      "team": {
+        "teamId": "1420",
+        "name": "Blue Crabs"
+      },
+      "player": "#36 - Brian  Lusby",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:20:42.224Z"
+}

@@ -1,0 +1,130 @@
+{
+  "gameId": "14214",
+  "date": "2021-08-14",
+  "divId": 234,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1464",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "1460",
+    "name": "Toronto"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:00",
+      "team": {
+        "teamId": "1460",
+        "name": "Toronto"
+      },
+      "scorer": "#20 - Bao  Pham",
+      "assist1": "#97 - Brian  Rollins",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:29",
+      "team": {
+        "teamId": "1464",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#0 - Ruben  Garcia",
+      "assist1": "#14 - Chukie  Ezike",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:14",
+      "team": {
+        "teamId": "1464",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#37 - John  Bachman",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:30",
+      "team": {
+        "teamId": "1460",
+        "name": "Toronto"
+      },
+      "scorer": "#96 - Wei  Wang",
+      "assist1": "#18 - Alex  Wang",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:26",
+      "team": {
+        "teamId": "1460",
+        "name": "Toronto"
+      },
+      "scorer": "#22 - Jimmy  Nguyen",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:48",
+      "team": {
+        "teamId": "1464",
+        "name": "Mad Dogs"
+      },
+      "player": "#33 - Brandon  Boling",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1464",
+        "name": "Mad Dogs"
+      },
+      "player": "#0 - Ruben  Garcia",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:31",
+      "team": {
+        "teamId": "1464",
+        "name": "Mad Dogs"
+      },
+      "player": "#33 - Brandon  Boling",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:26:16.999Z"
+}

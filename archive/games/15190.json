@@ -1,0 +1,235 @@
+{
+  "gameId": "15190",
+  "date": "2022-09-19",
+  "divId": 251,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1553",
+    "name": "Hitmen"
+  },
+  "away": {
+    "teamId": "1549",
+    "name": "D Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1549",
+        "name": "D Punishers"
+      },
+      "scorer": "#5 - Mike  Jones",
+      "assist1": "#40 - Matt  Mickelson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "scorer": "#74 - Mike  Brewin",
+      "assist1": "#10 - Ethan  Dursteler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:08",
+      "team": {
+        "teamId": "1549",
+        "name": "D Punishers"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": "#1 - Matt  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "1549",
+        "name": "D Punishers"
+      },
+      "scorer": "#88 - Matt  Zipper",
+      "assist1": "#40 - Matt  Mickelson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:57",
+      "team": {
+        "teamId": "1549",
+        "name": "D Punishers"
+      },
+      "scorer": "#5 - Mike  Jones",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:37",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "scorer": "#91 - Josh  Wilson",
+      "assist1": "#17 - James  Cisanik",
+      "assist2": "#89 - Jim  Rathbone"
+    },
+    {
+      "period": "2",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1549",
+        "name": "D Punishers"
+      },
+      "scorer": "#88 - Matt  Zipper",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "scorer": "#10 - Ethan  Dursteler",
+      "assist1": "#91 - Josh  Wilson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "scorer": "#10 - Ethan  Dursteler",
+      "assist1": "#17 - James  Cisanik",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "scorer": "#4 - Augie  Savarese",
+      "assist1": "#32 - Andrew  Gay",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:07",
+      "team": {
+        "teamId": "1549",
+        "name": "D Punishers"
+      },
+      "scorer": "#88 - Matt  Zipper",
+      "assist1": "#1 - Matt  ODriscoll",
+      "assist2": "#40 - Matt  Mickelson"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:57",
+      "team": {
+        "teamId": "1549",
+        "name": "D Punishers"
+      },
+      "player": "#1 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1549",
+        "name": "D Punishers"
+      },
+      "player": "#25 - Eli  Beinke",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:44",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "player": "#74 - Mike  Brewin",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:44",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "player": "#74 - Mike  Brewin",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:19",
+      "team": {
+        "teamId": "1549",
+        "name": "D Punishers"
+      },
+      "player": "#25 - Eli  Beinke",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:58",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "player": "#91 - Josh  Wilson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:43:07.663Z"
+}

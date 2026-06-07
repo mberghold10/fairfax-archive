@@ -1,0 +1,235 @@
+{
+  "gameId": "13545",
+  "date": "2020-01-13",
+  "divId": 210,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1331",
+    "name": "Punishers"
+  },
+  "away": {
+    "teamId": "1330",
+    "name": "Devils"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 1,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1330",
+        "name": "Devils"
+      },
+      "scorer": "#22 - Jonjae  Yoo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:02",
+      "team": {
+        "teamId": "1330",
+        "name": "Devils"
+      },
+      "scorer": "#17 - Wangjae  Yoo",
+      "assist1": "#9 - Joe  Tierney",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:47",
+      "team": {
+        "teamId": "1330",
+        "name": "Devils"
+      },
+      "scorer": "#22 - Jonjae  Yoo",
+      "assist1": "#10 - Chris  Chagnon",
+      "assist2": "#18 - Jeff  Rummel"
+    },
+    {
+      "period": "2",
+      "time": "00:04:38",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#17 - Dan  Pol",
+      "assist1": "#12 - David  OMalley",
+      "assist2": "#9 - Kim  Sherrock"
+    },
+    {
+      "period": "2",
+      "time": "00:14:27",
+      "team": {
+        "teamId": "1330",
+        "name": "Devils"
+      },
+      "scorer": "#1 - Paul  Parkinson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": "#42 - Ryan  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#28 - Marty  Gryski",
+      "assist1": "#12 - David  OMalley",
+      "assist2": "#9 - Kim  Sherrock"
+    },
+    {
+      "period": "3",
+      "time": "00:07:16",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#24 - Michael  Duell",
+      "assist1": "#9 - Kim  Sherrock",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:56",
+      "team": {
+        "teamId": "1330",
+        "name": "Devils"
+      },
+      "scorer": "#17 - Wangjae  Yoo",
+      "assist1": "#2 - Dave  Horner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:09",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": "#28 - Marty  Gryski",
+      "assist2": "#9 - Kim  Sherrock"
+    },
+    {
+      "period": "4",
+      "time": "00:04:05",
+      "team": {
+        "teamId": "1330",
+        "name": "Devils"
+      },
+      "scorer": "#22 - Jonjae  Yoo",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "player": "#24 - Michael  Duell",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:42",
+      "team": {
+        "teamId": "1330",
+        "name": "Devils"
+      },
+      "player": "#1 - Paul  Parkinson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:53",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "player": "#15 - Phil  Wind",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:39",
+      "team": {
+        "teamId": "1330",
+        "name": "Devils"
+      },
+      "player": "#2 - Dave  Horner",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "player": "#1 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "1330",
+        "name": "Devils"
+      },
+      "player": "#1 - Paul  Parkinson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:06:38.880Z"
+}

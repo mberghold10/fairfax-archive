@@ -1,0 +1,104 @@
+{
+  "gameId": "13457",
+  "date": "2019-12-03",
+  "divId": 215,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1361",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1357",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:40",
+      "team": {
+        "teamId": "1357",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": "#22 - Jimmy  Nguyen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1357",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#25 - Ethan  Isleib",
+      "assist1": "#47 - Jeff  Urlwin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1361",
+        "name": "Hurricanes"
+      },
+      "scorer": "#2 - Mark  Jesten",
+      "assist1": "#10 - Jonathan  Hoag",
+      "assist2": "#9 - Rick  Cole"
+    },
+    {
+      "period": "2",
+      "time": "00:14:20",
+      "team": {
+        "teamId": "1361",
+        "name": "Hurricanes"
+      },
+      "scorer": "#9 - Rick  Cole",
+      "assist1": "#2 - Mark  Jesten",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:38",
+      "team": {
+        "teamId": "1357",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#47 - Jeff  Urlwin",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1357",
+        "name": "Maple Leafs"
+      },
+      "player": "#32 - Brian  Freeman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:12:55.790Z"
+}

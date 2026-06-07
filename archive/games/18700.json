@@ -1,0 +1,108 @@
+{
+  "gameId": "18700",
+  "date": "2025-12-15",
+  "divId": 323,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1982",
+    "name": "Horne Dogs"
+  },
+  "away": {
+    "teamId": "1983",
+    "name": "Toronto"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:11:19",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#69 - Mark  Gillam",
+      "assist1": "#28 - Alex  Rudulph",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1983",
+        "name": "Toronto"
+      },
+      "scorer": "#28 - Harry  Nicholakos",
+      "assist1": "#32 - Brian  Freeman",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:02:06",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#87 - Ryan  Young",
+      "assist1": "#91 - Jason  Ross",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:18",
+      "team": {
+        "teamId": "1983",
+        "name": "Toronto"
+      },
+      "player": "#23 - Trevor  Blair",
+      "pim": 4,
+      "offense": "slash/trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:45",
+      "team": {
+        "teamId": "1983",
+        "name": "Toronto"
+      },
+      "player": "#44 - Jim  McGovern",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:03:48",
+      "team": {
+        "teamId": "1983",
+        "name": "Toronto"
+      },
+      "player": "#23 - Trevor  Blair",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:02:10.445Z"
+}

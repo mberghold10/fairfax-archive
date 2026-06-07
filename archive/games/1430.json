@@ -1,0 +1,152 @@
+{
+  "gameId": "1430",
+  "date": "2024-05-19",
+  "divId": 283,
+  "seasonName": "Winter 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1739",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1743",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:16",
+      "team": {
+        "teamId": "1739",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#79 - Jeff  Vandenberghe",
+      "assist1": "#6 - Bob  Friess",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#77 - Paul  Cicchetti",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#14 - Dave  Fisher",
+      "assist1": "#16 - Greg  Thomas",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:54",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#16 - Greg  Thomas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1739",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": "#79 - Jeff  Vandenberghe",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:03",
+      "team": {
+        "teamId": "1739",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": "#78 - Bill  Ezekiel",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "1739",
+        "name": "Ice Dogs"
+      },
+      "player": "#24 - Brian  Crossin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "player": "#32 - Brian  Freeman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:28",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "player": "#44 - Jim  McGovern",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:21:00.831Z"
+}

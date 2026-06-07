@@ -1,0 +1,106 @@
+{
+  "gameId": "18730",
+  "date": "2026-01-05",
+  "divId": 324,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1990",
+    "name": "Bottle Caps"
+  },
+  "away": {
+    "teamId": "1989",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:05",
+      "team": {
+        "teamId": "1990",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#17 - Marc  Patience",
+      "assist1": "#1 - Thomas  Newberg",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:01",
+      "team": {
+        "teamId": "1990",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#87 - Feng  Lan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:14",
+      "team": {
+        "teamId": "1990",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#87 - Feng  Lan",
+      "assist1": "#42 - Julian  Stapleton",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:28",
+      "team": {
+        "teamId": "1990",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#19 - Colin  Bartlett",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1989",
+        "name": "Lightning"
+      },
+      "player": "#11 - Mark  Boyd",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "1989",
+        "name": "Lightning"
+      },
+      "player": "#11 - Mark  Boyd",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:03:11.412Z"
+}

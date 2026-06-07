@@ -1,0 +1,108 @@
+{
+  "gameId": "9957",
+  "date": "2016-10-04",
+  "divId": 153,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "985",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "984",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "984",
+        "name": "Ducks"
+      },
+      "scorer": "#94 - Kamal  Kaaoush",
+      "assist1": "#22 - Art  Stevens",
+      "assist2": "#18 - Sean  Gallucci"
+    },
+    {
+      "period": "1",
+      "time": "00:13:11",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#16 - Bill  Thompson",
+      "assist1": "#6 - Jeff  Cullen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#91 - Zane  Ziebell",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:05",
+      "team": {
+        "teamId": "984",
+        "name": "Ducks"
+      },
+      "player": "#11 - Nate  Greenberg",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "984",
+        "name": "Ducks"
+      },
+      "player": "#12 - Jon  Gregor",
+      "pim": 2,
+      "offense": "board",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:50",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "player": "#66 - Sean  McGrann",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:56:20.140Z"
+}

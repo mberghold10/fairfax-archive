@@ -1,0 +1,121 @@
+{
+  "gameId": "10877",
+  "date": "2017-08-13",
+  "divId": 169,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1077",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1080",
+    "name": "Sparks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "scorer": "#91 - James  Debolt",
+      "assist1": "#71 - John  Kornylo",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "1080",
+        "name": "Sparks"
+      },
+      "scorer": "#23 - Eric  Vanhove",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:59",
+      "team": {
+        "teamId": "1080",
+        "name": "Sparks"
+      },
+      "scorer": "#300 - Jordan  Ziegler",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:28",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "player": "#22 - Patrick  Creamer",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:28",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "player": "#22 - Patrick  Creamer",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:28",
+      "team": {
+        "teamId": "1080",
+        "name": "Sparks"
+      },
+      "player": "#7 - Ian  Stack",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:14",
+      "team": {
+        "teamId": "1080",
+        "name": "Sparks"
+      },
+      "player": "#47 - David  LeKuch",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:17:08.086Z"
+}

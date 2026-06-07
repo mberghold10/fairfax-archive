@@ -1,0 +1,117 @@
+{
+  "gameId": "14975",
+  "date": "2022-05-22",
+  "divId": 251,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1548",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1551",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:10",
+      "team": {
+        "teamId": "1551",
+        "name": "Angry Moose"
+      },
+      "scorer": "#4 - Ryan  Cantwell",
+      "assist1": "#77 - Billy  OBrien",
+      "assist2": "#42 - Dan  Schwind"
+    },
+    {
+      "period": "2",
+      "time": "00:11:13",
+      "team": {
+        "teamId": "1551",
+        "name": "Angry Moose"
+      },
+      "scorer": "#77 - Billy  OBrien",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1551",
+        "name": "Angry Moose"
+      },
+      "scorer": "#88 - Pete  Lee",
+      "assist1": "#47 - Jeff  Urlwin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:43",
+      "team": {
+        "teamId": "1548",
+        "name": "Dragons"
+      },
+      "scorer": "#48 - Dan  Goldberg",
+      "assist1": "#61 - Tommy  Ripke",
+      "assist2": "#56 - Daniel  Meaux"
+    },
+    {
+      "period": "3",
+      "time": "00:12:07",
+      "team": {
+        "teamId": "1551",
+        "name": "Angry Moose"
+      },
+      "scorer": "#88 - Pete  Lee",
+      "assist1": "#16 - Ben  Huff",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:27",
+      "team": {
+        "teamId": "1548",
+        "name": "Dragons"
+      },
+      "player": "#24 - Jake  DeLozier",
+      "pim": 2,
+      "offense": "Cross Check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:29",
+      "team": {
+        "teamId": "1548",
+        "name": "Dragons"
+      },
+      "player": "#24 - Jake  DeLozier",
+      "pim": 2,
+      "offense": "Rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:42:09.560Z"
+}

@@ -1,0 +1,108 @@
+{
+  "gameId": "994",
+  "date": "2019-04-14",
+  "divId": 196,
+  "seasonName": "Winter 2018",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1246",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1242",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1246",
+        "name": "Hurricanes"
+      },
+      "scorer": "#25 - Greg  Reece",
+      "assist1": "#9 - Rick  Cole",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:28",
+      "team": {
+        "teamId": "1242",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#97 - Brian  Rollins",
+      "assist1": "#47 - Jeff  Urlwin",
+      "assist2": "#13 - Trevor  Wallace"
+    },
+    {
+      "period": "3",
+      "time": "00:08:57",
+      "team": {
+        "teamId": "1246",
+        "name": "Hurricanes"
+      },
+      "scorer": "#25 - Greg  Reece",
+      "assist1": "#2 - Mark  Jesten",
+      "assist2": "#7 - Dave  Neri"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:01",
+      "team": {
+        "teamId": "1246",
+        "name": "Hurricanes"
+      },
+      "player": "#71 - John  Buhler",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:01",
+      "team": {
+        "teamId": "1246",
+        "name": "Hurricanes"
+      },
+      "player": "#71 - John  Buhler",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "1242",
+        "name": "Maple Leafs"
+      },
+      "player": "#32 - Brian  Freeman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:51:03.472Z"
+}

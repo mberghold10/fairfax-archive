@@ -1,0 +1,156 @@
+{
+  "gameId": "10567",
+  "date": "2017-06-11",
+  "divId": 165,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1059",
+    "name": "Blackhawks"
+  },
+  "away": {
+    "teamId": "1054",
+    "name": "Phi Slama Jamma"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:37",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "scorer": "# -",
+      "assist1": "#9 - Anders  Gleason",
+      "assist2": "#16 - Kyle  Luukkonen"
+    },
+    {
+      "period": "2",
+      "time": "00:10:04",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "scorer": "#11 - Stephen  Arthur",
+      "assist1": "#29 - Skylar  Ford",
+      "assist2": "#21 - Scott  Siler"
+    },
+    {
+      "period": "3",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "scorer": "#51 - Will  Merrit",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:00",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "scorer": "#0 - Jude  Buckholz",
+      "assist1": "#8 - Brendan  Millice",
+      "assist2": "#9 - Chris  Peterkin"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "player": "#8 - Brendan  Millice",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "player": "#7 - Matt  Finsterwald",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "player": "#0 - Jude  Buckholz",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:54",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "player": "#22 - Ryan  Mosel",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:11:52.710Z"
+}

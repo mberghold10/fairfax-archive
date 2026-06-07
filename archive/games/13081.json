@@ -1,0 +1,119 @@
+{
+  "gameId": "13081",
+  "date": "2019-08-11",
+  "divId": 204,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1291",
+    "name": "Pharaohs"
+  },
+  "away": {
+    "teamId": "1307",
+    "name": "Whalers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:16",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "scorer": "#71 - Matt  Renton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:26",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": "#5 - Chris  Maroon",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "scorer": "#15 - Brian  Ebert",
+      "assist1": "#17 - Zepahn  Keener",
+      "assist2": "#10 - Jay  Yoon"
+    },
+    {
+      "period": "2",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:35",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "player": "#83 - Jared  DiCioccio",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:41",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "player": "#81 - Chris  Lettieri",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "player": "#31 - Craig  Kabis",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:59:41.283Z"
+}

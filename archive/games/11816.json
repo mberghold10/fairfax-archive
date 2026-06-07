@@ -1,0 +1,143 @@
+{
+  "gameId": "11816",
+  "date": "2018-08-23",
+  "divId": 181,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1151",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1150",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:53",
+      "team": {
+        "teamId": "1150",
+        "name": "Grey Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:32",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "scorer": "#55 - Joel  Whitney",
+      "assist1": "#0 - Sterling  McAnus",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1150",
+        "name": "Grey Goons"
+      },
+      "scorer": "#21 - Grant  Gibbons",
+      "assist1": "#32 - Phil  Antoun",
+      "assist2": "#49 - Greg  Mullen"
+    },
+    {
+      "period": "3",
+      "time": "00:10:14",
+      "team": {
+        "teamId": "1150",
+        "name": "Grey Goons"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": "#21 - Grant  Gibbons",
+      "assist2": "#49 - Greg  Mullen"
+    },
+    {
+      "period": "3",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "1150",
+        "name": "Grey Goons"
+      },
+      "scorer": "#25 - Chris  Lettieri",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:34",
+      "team": {
+        "teamId": "1150",
+        "name": "Grey Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:27",
+      "team": {
+        "teamId": "1150",
+        "name": "Grey Goons"
+      },
+      "player": "#14 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:40",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "player": "#12 - Adam  Jungdahl",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:19",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "player": "#2 - Marc  Sheinkin",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:31:50.972Z"
+}

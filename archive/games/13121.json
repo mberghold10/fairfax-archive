@@ -1,0 +1,104 @@
+{
+  "gameId": "13121",
+  "date": "2019-09-01",
+  "divId": 205,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1295",
+    "name": "River Rats"
+  },
+  "away": {
+    "teamId": "1301",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "scorer": "#37 - Derek  Anastasiades",
+      "assist1": "#20 - Paul  Flood",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:41",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#9 - Julien  De Grandpre",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:31",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "scorer": "#31 - Sam  Branham",
+      "assist1": "#2 - Tom  Keith",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:12",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#9 - Julien  De Grandpre",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:18",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#9 - Julien  De Grandpre",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:21",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "player": "#37 - Derek  Anastasiades",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:01:07.763Z"
+}

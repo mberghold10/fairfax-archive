@@ -1,0 +1,130 @@
+{
+  "gameId": "14016",
+  "date": "2021-04-05",
+  "divId": 227,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1423",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1425",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "1423",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#20 - Mike  Neas",
+      "assist1": "#6 - JB  Merritt",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:47",
+      "team": {
+        "teamId": "1425",
+        "name": "Dragons"
+      },
+      "scorer": "#32 - Rob  Stewart",
+      "assist1": "#66 - JP  Price",
+      "assist2": "#3 - Ilana  Bell"
+    },
+    {
+      "period": "2",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1423",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#4 - Sam  Hauslohner",
+      "assist1": "#6 - JB  Merritt",
+      "assist2": "#79 - Scott  Yates"
+    },
+    {
+      "period": "2",
+      "time": "00:10:02",
+      "team": {
+        "teamId": "1423",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#4 - Sam  Hauslohner",
+      "assist1": "#79 - Scott  Yates",
+      "assist2": "#6 - JB  Merritt"
+    },
+    {
+      "period": "2",
+      "time": "00:13:47",
+      "team": {
+        "teamId": "1425",
+        "name": "Dragons"
+      },
+      "scorer": "#4 - Josiah  Renton",
+      "assist1": "#3 - Ilana  Bell",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "1423",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#18 - Jimmy  Feeney",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "1425",
+        "name": "Dragons"
+      },
+      "player": "#32 - Rob  Stewart",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:15:00",
+      "team": {
+        "teamId": "1423",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#79 - Scott  Yates",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:21:27.944Z"
+}

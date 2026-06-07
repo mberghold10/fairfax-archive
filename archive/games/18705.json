@@ -1,0 +1,106 @@
+{
+  "gameId": "18705",
+  "date": "2026-01-05",
+  "divId": 323,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1985",
+    "name": "Busch League"
+  },
+  "away": {
+    "teamId": "1982",
+    "name": "Horne Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:05:38",
+      "team": {
+        "teamId": "1985",
+        "name": "Busch League"
+      },
+      "scorer": "#1 - Thomas  Newberg",
+      "assist1": "#77 - Trevor  Boynton",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1985",
+        "name": "Busch League"
+      },
+      "scorer": "#17 - Marc  Patience",
+      "assist1": "#77 - Trevor  Boynton",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#91 - Jason  Ross",
+      "assist1": "#92 - Dan  Horner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:58",
+      "team": {
+        "teamId": "1985",
+        "name": "Busch League"
+      },
+      "scorer": "#19 - Colin  Bartlett",
+      "assist1": "#34 - William  Happ",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1985",
+        "name": "Busch League"
+      },
+      "player": "#1 - Thomas  Newberg",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1985",
+        "name": "Busch League"
+      },
+      "player": "#88 - Afshawn  Towfighi",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:02:14.629Z"
+}

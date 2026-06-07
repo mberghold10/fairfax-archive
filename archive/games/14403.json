@@ -1,0 +1,136 @@
+{
+  "gameId": "14403",
+  "date": "2021-11-04",
+  "divId": 246,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1524",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1519",
+    "name": "Flying Circus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:21",
+      "team": {
+        "teamId": "1519",
+        "name": "Flying Circus"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:49",
+      "team": {
+        "teamId": "1524",
+        "name": "Grey Goons"
+      },
+      "scorer": "#11 - Dave  Brown",
+      "assist1": "#28 - Alex  Henry",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1519",
+        "name": "Flying Circus"
+      },
+      "player": "#23 - Greg  Thomas",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:56",
+      "team": {
+        "teamId": "1524",
+        "name": "Grey Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "1524",
+        "name": "Grey Goons"
+      },
+      "player": "#25 - Christopher  Litteri",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:02:34",
+      "team": {
+        "teamId": "1524",
+        "name": "Grey Goons"
+      },
+      "player": "#28 - Alex  Henry",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1524",
+        "name": "Grey Goons"
+      },
+      "player": "#19 - Joe  Dunn",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1519",
+        "name": "Flying Circus"
+      },
+      "player": "#27 - Mike  Heuple",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:36:01.536Z"
+}

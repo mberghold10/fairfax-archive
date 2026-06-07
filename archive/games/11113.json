@@ -1,0 +1,126 @@
+{
+  "gameId": "11113",
+  "date": "2017-11-11",
+  "divId": 175,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1116",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1113",
+    "name": "Bushwood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:01",
+      "team": {
+        "teamId": "1116",
+        "name": "Avalanche"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": "#43 - Alex  Utano",
+      "assist2": "#13 - Shane  Mitchell"
+    },
+    {
+      "period": "1",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "1116",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": "#20 - Rich  Utano",
+      "assist2": "#13 - Shane  Mitchell"
+    },
+    {
+      "period": "2",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1113",
+        "name": "Bushwood"
+      },
+      "scorer": "#14 - Matthew  MacVicar",
+      "assist1": "#99 - Alex  DeYoung",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "1116",
+        "name": "Avalanche"
+      },
+      "scorer": "#20 - Rich  Utano",
+      "assist1": "#43 - Alex  Utano",
+      "assist2": "#27 - Jesse  Brand"
+    },
+    {
+      "period": "3",
+      "time": "00:01:41",
+      "team": {
+        "teamId": "1116",
+        "name": "Avalanche"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#10 - Chris  Greenough",
+      "assist2": "#99 - Jon  Davoren"
+    },
+    {
+      "period": "3",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1116",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "1113",
+        "name": "Bushwood"
+      },
+      "scorer": "#14 - Matthew  MacVicar",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:12:30",
+      "team": {
+        "teamId": "1116",
+        "name": "Avalanche"
+      },
+      "player": "#18 - Pete  Poczatek",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:23:52.773Z"
+}

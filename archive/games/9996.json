@@ -1,0 +1,169 @@
+{
+  "gameId": "9996",
+  "date": "2016-10-13",
+  "divId": 155,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "998",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "995",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "995",
+        "name": "Coyotes"
+      },
+      "scorer": "#4 - Paul  Cicchetti",
+      "assist1": "#5 - Andy  Loggia",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:57",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "scorer": "#13 - Tim  Cremen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:55",
+      "team": {
+        "teamId": "995",
+        "name": "Coyotes"
+      },
+      "scorer": "#5 - Andy  Loggia",
+      "assist1": "#47 - Rob  Schumann",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:21",
+      "team": {
+        "teamId": "995",
+        "name": "Coyotes"
+      },
+      "scorer": "#5 - Andy  Loggia",
+      "assist1": "#64 - Bob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "995",
+        "name": "Coyotes"
+      },
+      "scorer": "#13 - Mike  Carew",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:12",
+      "team": {
+        "teamId": "995",
+        "name": "Coyotes"
+      },
+      "player": "#25 - Steve  Tamburo",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:33",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "player": "#71 - John  Buhler",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:18",
+      "team": {
+        "teamId": "995",
+        "name": "Coyotes"
+      },
+      "player": "#18 - Brian  Murphy",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:47",
+      "team": {
+        "teamId": "998",
+        "name": "Islanders"
+      },
+      "player": "#71 - John  Buhler",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:06",
+      "team": {
+        "teamId": "995",
+        "name": "Coyotes"
+      },
+      "player": "#47 - Rob  Schumann",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:58:44.810Z"
+}

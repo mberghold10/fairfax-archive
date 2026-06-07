@@ -1,0 +1,141 @@
+{
+  "gameId": "18985",
+  "date": "2026-05-24",
+  "divId": 323,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1982",
+    "name": "Horne Dogs"
+  },
+  "away": {
+    "teamId": "1980",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:25",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#23 - Brian  Ladd",
+      "assist1": "#69 - Mark  Gillam",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#26 - Kjell  Crooke",
+      "assist1": "#91 - Jason  Ross",
+      "assist2": "#28 - Alex  Rudulph"
+    },
+    {
+      "period": "2",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "scorer": "#16 - Kiran  Manikarnika",
+      "assist1": "#7 - John  Koester",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:55",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "scorer": "#95 - Zach  Starego",
+      "assist1": "#28 - Andrew  Hancher",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#91 - Jason  Ross",
+      "assist1": "#26 - Kjell  Crooke",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:56",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "scorer": "#28 - Andrew  Hancher",
+      "assist1": "#37 - John  Holland",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "player": "#95 - Zach  Starego",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:01",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "player": "#37 - John  Holland",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:16",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "player": "#5 - Matt  Jenkins",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:02:52.669Z"
+}

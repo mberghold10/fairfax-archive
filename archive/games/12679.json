@@ -1,0 +1,178 @@
+{
+  "gameId": "12679",
+  "date": "2019-05-11",
+  "divId": 200,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1267",
+    "name": "Rustico Flames"
+  },
+  "away": {
+    "teamId": "1269",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "1267",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#17 - Bill  Demaso",
+      "assist1": "#16 - Dan  Rebmann",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:54",
+      "team": {
+        "teamId": "1267",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#63 - Bill  Linzey",
+      "assist1": "#16 - Dan  Rebmann",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#12 - Jason  Wakeman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:11",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:18",
+      "team": {
+        "teamId": "1267",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#88 - Peter  Dallman",
+      "assist1": "#16 - Dan  Rebmann",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#99 - Jon  Davoren",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:26",
+      "team": {
+        "teamId": "1267",
+        "name": "Rustico Flames"
+      },
+      "player": "#42 - Jeff  Lovett",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "1267",
+        "name": "Rustico Flames"
+      },
+      "player": "#42 - Jeff  Lovett",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:42",
+      "team": {
+        "teamId": "1269",
+        "name": "Team USA"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:06",
+      "team": {
+        "teamId": "1267",
+        "name": "Rustico Flames"
+      },
+      "player": "#3 - Bill  Kang",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:54:39.403Z"
+}

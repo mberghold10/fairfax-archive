@@ -1,0 +1,93 @@
+{
+  "gameId": "17187",
+  "date": "2024-06-22",
+  "divId": 295,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1805",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1806",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1806",
+        "name": "Red Wings"
+      },
+      "scorer": "#17 - Will  Murphy",
+      "assist1": "#20 - David  Humes",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:02",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#0 - Ruben  Garcia",
+      "assist2": "#41 - Alessio  Evangelista"
+    },
+    {
+      "period": "3",
+      "time": "00:11:21",
+      "team": {
+        "teamId": "1806",
+        "name": "Red Wings"
+      },
+      "scorer": "#0 - Brody  Walkinshaw",
+      "assist1": "#8 - Brian  Merritt",
+      "assist2": "#33 - Mark  Hall"
+    },
+    {
+      "period": "3",
+      "time": "00:13:35",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#0 - Ruben  Garcia",
+      "assist1": "#41 - Alessio  Evangelista",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:08:34",
+      "team": {
+        "teamId": "1806",
+        "name": "Red Wings"
+      },
+      "player": "#17 - Will  Murphy",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:32:37.916Z"
+}

@@ -1,0 +1,278 @@
+{
+  "gameId": "18088",
+  "date": "2025-07-11",
+  "divId": 310,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1899",
+    "name": "Kings"
+  },
+  "away": {
+    "teamId": "1896",
+    "name": "4th Liners"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 4,
+      "p3": 2,
+      "ot": 0,
+      "final": 8
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:31",
+      "team": {
+        "teamId": "1896",
+        "name": "4th Liners"
+      },
+      "scorer": "#9 - Andrew  Lipsitz",
+      "assist1": "#21 - Jake  Truhlar",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "1896",
+        "name": "4th Liners"
+      },
+      "scorer": "#21 - Jake  Truhlar",
+      "assist1": "#4 - Campbell  Burns",
+      "assist2": "#32 - Justin  Baker"
+    },
+    {
+      "period": "2",
+      "time": "00:00:36",
+      "team": {
+        "teamId": "1896",
+        "name": "4th Liners"
+      },
+      "scorer": "#9 - Andrew  Lipsitz",
+      "assist1": "#21 - Jake  Truhlar",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1896",
+        "name": "4th Liners"
+      },
+      "scorer": "#22 - Jonny  Vu",
+      "assist1": "#6 - Zach  Adams",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:31",
+      "team": {
+        "teamId": "1896",
+        "name": "4th Liners"
+      },
+      "scorer": "#17 - Andrew  Golomb",
+      "assist1": "#21 - Jake  Truhlar",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1896",
+        "name": "4th Liners"
+      },
+      "scorer": "#17 - Andrew  Golomb",
+      "assist1": "#170 - Mark  Politor",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:49",
+      "team": {
+        "teamId": "1899",
+        "name": "Kings"
+      },
+      "scorer": "#10 - Ryan  Cox",
+      "assist1": "#88 - Chris  Peterkin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:31",
+      "team": {
+        "teamId": "1896",
+        "name": "4th Liners"
+      },
+      "scorer": "#4 - Campbell  Burns",
+      "assist1": "#32 - Justin  Baker",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "1896",
+        "name": "4th Liners"
+      },
+      "scorer": "#21 - Jake  Truhlar",
+      "assist1": "#32 - Justin  Baker",
+      "assist2": "#17 - Andrew  Golomb"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1896",
+        "name": "4th Liners"
+      },
+      "player": "#4 - Campbell  Burns",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "1899",
+        "name": "Kings"
+      },
+      "player": "#13 - Brandon  Nolan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1899",
+        "name": "Kings"
+      },
+      "player": "#14 - Dominic  Pistolessi",
+      "pim": 4,
+      "offense": "rough/unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1896",
+        "name": "4th Liners"
+      },
+      "player": "#4 - Campbell  Burns",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "1899",
+        "name": "Kings"
+      },
+      "player": "#13 - Brandon  Nolan",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:42",
+      "team": {
+        "teamId": "1899",
+        "name": "Kings"
+      },
+      "player": "#88 - Chris  Peterkin",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:06",
+      "team": {
+        "teamId": "1899",
+        "name": "Kings"
+      },
+      "player": "#10 - Ryan  Cox",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "1899",
+        "name": "Kings"
+      },
+      "player": "#88 - Chris  Peterkin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:27",
+      "team": {
+        "teamId": "1896",
+        "name": "4th Liners"
+      },
+      "player": "#4 - Campbell  Burns",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1899",
+        "name": "Kings"
+      },
+      "player": "#64 - Derek  Bluth",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:53",
+      "team": {
+        "teamId": "1899",
+        "name": "Kings"
+      },
+      "player": "#43 - Anthony  Federico",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:47:26.360Z"
+}

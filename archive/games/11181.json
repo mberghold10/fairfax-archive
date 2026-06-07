@@ -1,0 +1,128 @@
+{
+  "gameId": "11181",
+  "date": "2017-12-02",
+  "divId": 177,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1129",
+    "name": "Turtle Power"
+  },
+  "away": {
+    "teamId": "1133",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1129",
+        "name": "Turtle Power"
+      },
+      "scorer": "#0 - Stephen  Arthur",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1133",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#900 - Han  Woon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:15",
+      "team": {
+        "teamId": "1133",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#55 - Tool  Jampathom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "1129",
+        "name": "Turtle Power"
+      },
+      "scorer": "#28 - Marlon  Orozco",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:53",
+      "team": {
+        "teamId": "1133",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#87 - James  Page",
+      "assist1": "#710 - Jay  Woon",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:29",
+      "team": {
+        "teamId": "1133",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#710 - Jay  Woon",
+      "assist1": "#900 - Han  Woon",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1129",
+        "name": "Turtle Power"
+      },
+      "player": "#0 - Stephen  Arthur",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1133",
+        "name": "Jurassic Puck"
+      },
+      "player": "#24 - Roger  Stanton",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:26:45.485Z"
+}

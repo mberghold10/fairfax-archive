@@ -1,0 +1,82 @@
+{
+  "gameId": "17799",
+  "date": "2025-04-06",
+  "divId": 299,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1841",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1837",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:35",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "scorer": "#44 - Bob  Arnold",
+      "assist1": "#11 - Tom  Fergus",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:29",
+      "team": {
+        "teamId": "1841",
+        "name": "Dragons"
+      },
+      "scorer": "#82 - Caleb  Sohl",
+      "assist1": "#56 - Daniel  Meaux",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "1841",
+        "name": "Dragons"
+      },
+      "scorer": "#89 - AJ  Saleh",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:10:11",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "player": "#68 - Jeff  Gilmore",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:36:51.076Z"
+}

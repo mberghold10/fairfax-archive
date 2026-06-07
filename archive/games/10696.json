@@ -1,0 +1,152 @@
+{
+  "gameId": "10696",
+  "date": "2017-07-16",
+  "divId": 162,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1036",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1037",
+    "name": "Englewood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 1,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:04:33",
+      "team": {
+        "teamId": "1037",
+        "name": "Englewood"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#7 - Joe  Hull",
+      "assist2": "#27 - Jon  Hitesman"
+    },
+    {
+      "period": "2",
+      "time": "00:07:33",
+      "team": {
+        "teamId": "1037",
+        "name": "Englewood"
+      },
+      "scorer": "#7 - Joe  Hull",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": "#6 - Paul  McGuire"
+    },
+    {
+      "period": "2",
+      "time": "00:10:51",
+      "team": {
+        "teamId": "1036",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": "#76 - Paul  Summers",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:56",
+      "team": {
+        "teamId": "1037",
+        "name": "Englewood"
+      },
+      "scorer": "#27 - Jon  Hitesman",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1036",
+        "name": "Swarm"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:35",
+      "team": {
+        "teamId": "1036",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": "#12 - Tom  Yearwood"
+    },
+    {
+      "period": "4",
+      "time": "00:02:06",
+      "team": {
+        "teamId": "1037",
+        "name": "Englewood"
+      },
+      "scorer": "#27 - Jon  Hitesman",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:21",
+      "team": {
+        "teamId": "1036",
+        "name": "Swarm"
+      },
+      "player": "#16 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:33",
+      "team": {
+        "teamId": "1036",
+        "name": "Swarm"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:44",
+      "team": {
+        "teamId": "1037",
+        "name": "Englewood"
+      },
+      "player": "#44 - Greg  Hanson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:08:18.838Z"
+}

@@ -1,0 +1,222 @@
+{
+  "gameId": "1500",
+  "date": "2025-06-01",
+  "divId": 299,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1837",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1842",
+    "name": "Screaming Eagles"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:23",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#42 - Adam  Russell",
+      "assist1": "#61 - Tero  Moberg",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#94 - Trygve  Olson",
+      "assist1": "#88 - Evan  Wojtowicz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:25",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#91 - Jake  Barnett",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#17 - Talon  Ribsom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "scorer": "#91 - Jake  Barnett",
+      "assist1": "#81 - Chris  Holden",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:08",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#91 - Jake  Barnett",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:53",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "scorer": "#5 - Peter  Boone",
+      "assist1": "#91 - Jake  Barnett",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:23",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#17 - Talon  Ribsom",
+      "assist1": "#88 - Evan  Wojtowicz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#5 - Peter  Boone",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:18",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#94 - Trygve  Olson",
+      "assist1": "#10 - Mario  Constantinou",
+      "assist2": "#17 - Talon  Ribsom"
+    },
+    {
+      "period": "4",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#10 - Mario  Constantinou",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:33",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "player": "#55 - Matt  Jenkins",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:57",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "player": "#81 - Chris  Holden",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "player": "#40 - Mikhail  Serebrennikov",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:26",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "Too Many Men",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:37:24.546Z"
+}

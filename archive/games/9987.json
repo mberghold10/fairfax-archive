@@ -1,0 +1,200 @@
+{
+  "gameId": "9987",
+  "date": "2016-11-09",
+  "divId": 154,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "987",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "990",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 3,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:46",
+      "team": {
+        "teamId": "990",
+        "name": "Nortec"
+      },
+      "scorer": "# -",
+      "assist1": "#12 - Sami  Kymalainen",
+      "assist2": "#23 - Bruce  Baltas"
+    },
+    {
+      "period": "1",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#27 - Jonathan  Hitesma",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#28 - Charles  Hale",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "990",
+        "name": "Nortec"
+      },
+      "scorer": "#23 - Bruce  Baltas",
+      "assist1": "#11 - Wayde  Thomka",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:50",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#28 - Charles  Hale",
+      "assist1": "#7 - Joe  Hull",
+      "assist2": "#15 - John  Cushing"
+    },
+    {
+      "period": "2",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#28 - Charles  Hale",
+      "assist2": "#16 - Bill  Thompson"
+    },
+    {
+      "period": "3",
+      "time": "00:10:30",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#16 - Bill  Thompson",
+      "assist1": "#3 - Mario  Regan",
+      "assist2": "#26 - Rich  Snively"
+    },
+    {
+      "period": "3",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#28 - Charles  Hale",
+      "assist1": "#7 - Joe  Hull",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:28",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#27 - Jonathan  Hitesma",
+      "assist2": "#12 - Brian  Dix"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "player": "#16 - Bill  Thompson",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "990",
+        "name": "Nortec"
+      },
+      "player": "#3 - Kareem  El-Alaily",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "player": "#27 - Jonathan  Hitesma",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:50",
+      "team": {
+        "teamId": "990",
+        "name": "Nortec"
+      },
+      "player": "#28 - Maxim  Alexeev",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "player": "#28 - Charles  Hale",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:57:40.402Z"
+}

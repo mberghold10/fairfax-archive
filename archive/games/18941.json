@@ -1,0 +1,152 @@
+{
+  "gameId": "18941",
+  "date": "2026-04-25",
+  "divId": 322,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1977",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1978",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:46",
+      "team": {
+        "teamId": "1977",
+        "name": "Rink Rats"
+      },
+      "scorer": "#34 - Evan  Tierney",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1977",
+        "name": "Rink Rats"
+      },
+      "scorer": "#22 - Matthew  Thrasher",
+      "assist1": "#13 - John  Bereza",
+      "assist2": "#1 - Andrew  Logan"
+    },
+    {
+      "period": "1",
+      "time": "00:06:16",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#29 - Frank  Tomaino",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:19",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#29 - Frank  Tomaino",
+      "assist1": "#17 - Justin  Cade",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#38 - Drew  Dunn",
+      "assist1": "#29 - Frank  Tomaino",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:12",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#38 - Drew  Dunn",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#38 - Drew  Dunn",
+      "assist1": "#17 - Justin  Cade",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1977",
+        "name": "Rink Rats"
+      },
+      "player": "#22 - Matthew  Thrasher",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:27",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:01:29.655Z"
+}

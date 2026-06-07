@@ -1,0 +1,230 @@
+{
+  "gameId": "12385",
+  "date": "2019-03-30",
+  "divId": 190,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1208",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1204",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:09",
+      "team": {
+        "teamId": "1204",
+        "name": "Chiefs"
+      },
+      "scorer": "#4 - Dave  Sinniger",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:46",
+      "team": {
+        "teamId": "1204",
+        "name": "Chiefs"
+      },
+      "scorer": "#55 - Scott  Dullea",
+      "assist1": "#41 - Jeff  Goff",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:33",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:18",
+      "team": {
+        "teamId": "1204",
+        "name": "Chiefs"
+      },
+      "scorer": "#21 - Andrew  Scarfo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:43",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#10 - Mike  Carew",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:11",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": "#10 - Mike  Carew",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:04",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "player": "#15 - Scott  McConnell",
+      "pim": 2,
+      "offense": "check from behind",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:04",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "player": "#15 - Scott  McConnell",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "player": "#10 - Mike  Carew",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "1204",
+        "name": "Chiefs"
+      },
+      "player": "#6 - Michael  Benyo",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1204",
+        "name": "Chiefs"
+      },
+      "player": "#21 - Andrew  Scarfo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "1204",
+        "name": "Chiefs"
+      },
+      "player": "#18 - Michael  Dewhirst",
+      "pim": 2,
+      "offense": "check from behind",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "1204",
+        "name": "Chiefs"
+      },
+      "player": "#18 - Michael  Dewhirst",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1204",
+        "name": "Chiefs"
+      },
+      "player": "#4 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "1204",
+        "name": "Chiefs"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:42:39.176Z"
+}

@@ -1,0 +1,141 @@
+{
+  "gameId": "11734",
+  "date": "2018-06-30",
+  "divId": 187,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1195",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1194",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1194",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "scorer": "#20 - David  Humes",
+      "assist1": "#10 - Owen  Schaefer",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1194",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1194",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#41 - Alessio  Evangelista",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "scorer": "#74 - David  Urlwin",
+      "assist1": "#13 - Kelly  Urlwin",
+      "assist2": "#15 - Mike  Gibson"
+    },
+    {
+      "period": "3",
+      "time": "00:11:20",
+      "team": {
+        "teamId": "1194",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#33 - Brandon  Boling",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:23",
+      "team": {
+        "teamId": "1194",
+        "name": "Blue Dogs"
+      },
+      "player": "#51 - Kevin  Michie",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1194",
+        "name": "Blue Dogs"
+      },
+      "player": "#36 - Brian  Lusby",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "player": "#12 - Gus  Anderson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:39:15.123Z"
+}

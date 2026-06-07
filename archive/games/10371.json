@@ -1,0 +1,93 @@
+{
+  "gameId": "10371",
+  "date": "2017-03-12",
+  "divId": 154,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "988",
+    "name": "Knights"
+  },
+  "away": {
+    "teamId": "989",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:40",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#44 - Mick  Ellsworth",
+      "assist1": "#13 - Bill  Grove",
+      "assist2": "#8 - Jason  Eister"
+    },
+    {
+      "period": "2",
+      "time": "00:04:12",
+      "team": {
+        "teamId": "988",
+        "name": "Knights"
+      },
+      "scorer": "#7 - Arturas  Vorobjovas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "988",
+        "name": "Knights"
+      },
+      "scorer": "#7 - Arturas  Vorobjovas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:47",
+      "team": {
+        "teamId": "988",
+        "name": "Knights"
+      },
+      "scorer": "#7 - Arturas  Vorobjovas",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:08:45",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "player": "#9 - Brian  Mehnert",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:58:20.307Z"
+}

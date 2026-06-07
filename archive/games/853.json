@@ -1,0 +1,139 @@
+{
+  "gameId": "853",
+  "date": "2018-04-07",
+  "divId": 171,
+  "seasonName": "Winter 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1093",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1092",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:48",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#8 - Arturas  Vorobjovas",
+      "assist1": "#2 - Bill  Morris",
+      "assist2": "#44 - Bob  Arnold"
+    },
+    {
+      "period": "1",
+      "time": "00:04:06",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#24 - Michael  Sheridan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:24",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#23 - Gordon  Scott",
+      "assist1": "#10 - Patrick  Robichaud",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#14 - Mike  Ferrone",
+      "assist1": "#12 - Peter  Plampin",
+      "assist2": "#22 - Brian  Dutton"
+    },
+    {
+      "period": "2",
+      "time": "00:06:53",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#8 - Arturas  Vorobjovas",
+      "assist1": "#14 - Jude  Corina",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:36",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#14 - Mike  Ferrone",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:08:49",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#14 - Mike  Ferrone",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:26",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:19:22.745Z"
+}

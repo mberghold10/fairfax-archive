@@ -1,0 +1,108 @@
+{
+  "gameId": "12835",
+  "date": "2019-05-25",
+  "divId": 204,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1291",
+    "name": "Pharaohs"
+  },
+  "away": {
+    "teamId": "1307",
+    "name": "Whalers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "scorer": "#12 - Han  Yoon",
+      "assist1": "#4 - Kevin  Via",
+      "assist2": "#19 - Otto  Noffsinger"
+    },
+    {
+      "period": "2",
+      "time": "00:12:23",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": "#10 - Jay  Yoon",
+      "assist2": "#12 - Han  Yoon"
+    },
+    {
+      "period": "3",
+      "time": "00:01:52",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": "#19 - Otto  Noffsinger",
+      "assist2": "#15 - Brian  Ebert"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:27",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "player": "#12 - Han  Yoon",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:11",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "player": "#4 - Kevin  Via",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:48",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "player": "#4 - Kevin  Via",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:59:11.318Z"
+}

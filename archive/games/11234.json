@@ -1,0 +1,161 @@
+{
+  "gameId": "11234",
+  "date": "2018-02-23",
+  "divId": 170,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1089",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1086",
+    "name": "ers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:41",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "scorer": "#0 - Stephen  Arthur",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:54",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "scorer": "#13 - Mike  Ferrone",
+      "assist1": "#17 - Ryan  Bradshaw",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "scorer": "#17 - Ryan  Bradshaw",
+      "assist1": "#8 - Mark  Chapman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "scorer": "#28 - Jason  Abkowitz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:31",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#21 - Steve  Chan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:33",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#33 - Sergey  Kuznetsov",
+      "assist2": "#15 - John  Cushing"
+    },
+    {
+      "period": "3",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#2 - Rod  Wade",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "1086",
+        "name": "ers"
+      },
+      "player": "#17 - Ryan  Bradshaw",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:42",
+      "team": {
+        "teamId": "1089",
+        "name": "Jacks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:18:08.595Z"
+}

@@ -1,0 +1,193 @@
+{
+  "gameId": "11050",
+  "date": "2017-12-09",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1102",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1101",
+    "name": "Rustico Flames"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:38",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#52 - Mike  Brobeck",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:41",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#43 - John  Porado",
+      "assist1": "#63 - Bill  Linzey",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:41",
+      "team": {
+        "teamId": "1102",
+        "name": "Islanders"
+      },
+      "scorer": "#71 - John  Buhler",
+      "assist1": "#52 - Chris  Czernia",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:36",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#77 - Erik  Bergman",
+      "assist1": "#43 - John  Porado",
+      "assist2": "#16 - Dan  Rebmann"
+    },
+    {
+      "period": "2",
+      "time": "00:10:54",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#16 - Dan  Rebmann",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:42",
+      "team": {
+        "teamId": "1102",
+        "name": "Islanders"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:01",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:54",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "1102",
+        "name": "Islanders"
+      },
+      "player": "#19 - Jason  Long",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:18",
+      "team": {
+        "teamId": "1102",
+        "name": "Islanders"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:18",
+      "team": {
+        "teamId": "1102",
+        "name": "Islanders"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:18",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "player": "#43 - John  Porado",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:18",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "player": "#43 - John  Porado",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:20:08.144Z"
+}

@@ -1,0 +1,187 @@
+{
+  "gameId": "18736",
+  "date": "2026-02-01",
+  "divId": 324,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1986",
+    "name": "Junkyard Dogs"
+  },
+  "away": {
+    "teamId": "1987",
+    "name": "Puckaneers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:19",
+      "team": {
+        "teamId": "1986",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#91 - Jason  Ross",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": "#15 - Dave  Gorman"
+    },
+    {
+      "period": "2",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#74 - Steve  Macchio",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:38",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#16 - Kiran  Manakarnika",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:25",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#85 - Dan  Katt",
+      "assist1": "#39 - Andrew  Hancher",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:56",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#12 - Alex  Lewis",
+      "assist1": "#74 - Steve  Macchio",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:49",
+      "team": {
+        "teamId": "1986",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#23 - Brian  Ladd",
+      "assist1": "#25 - Neil  Dsouza",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:14",
+      "team": {
+        "teamId": "1986",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#41 - Alessio  Evangelista",
+      "assist1": "#91 - Jason  Ross",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:15",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#12 - Alex  Lewis",
+      "assist1": "#16 - Kiran  Manakarnika",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:01",
+      "team": {
+        "teamId": "1986",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#77 - Jeff  Wilken",
+      "assist1": "#87 - Ryan  Young",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:41",
+      "team": {
+        "teamId": "1986",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#77 - Jeff  Wilken",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:15",
+      "team": {
+        "teamId": "1986",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#15 - Dave  Gorman",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:15",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "player": "#16 - Kiran  Manakarnika",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "player": "#39 - Andrew  Hancher",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:03:21.756Z"
+}

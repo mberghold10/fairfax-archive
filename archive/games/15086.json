@@ -1,0 +1,235 @@
+{
+  "gameId": "15086",
+  "date": "2022-06-26",
+  "divId": 254,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1567",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1566",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 4,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#8 - Curt  Tucker",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:54",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#40 - Matt  Michelson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:06",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#3 - John  Niemec",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#27 - Dave  Lin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "scorer": "#21 - Michael  Hawthorne",
+      "assist1": "#8 - Curt  Tucker",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:56",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#23 - Rick  Gorgone",
+      "assist1": "#18 - Dominic  Pistolessi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "scorer": "#90 - Pat  Smith",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:55",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#18 - Dominic  Pistolessi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:08",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": "#55 - Tim  Dutcher",
+      "assist2": "#18 - Dominic  Pistolessi"
+    },
+    {
+      "period": "2",
+      "time": "00:10:29",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#3 - John  Niemec",
+      "assist1": "#18 - Dominic  Pistolessi",
+      "assist2": "#9 - Aaron  Dobbs"
+    },
+    {
+      "period": "3",
+      "time": "00:00:55",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#9 - Aaron  Dobbs",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "player": "#55 - Tim  Dutcher",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "player": "#27 - Dave  Lin",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "player": "#9 - Aaron  Dobbs",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:40",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "player": "#90 - Pat  Smith",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "player": "#38 - Howard  Uman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:33",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "player": "#81 - Chris  Holden",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:46:04.732Z"
+}

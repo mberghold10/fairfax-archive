@@ -1,0 +1,143 @@
+{
+  "gameId": "11477",
+  "date": "2018-01-13",
+  "divId": 178,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1136",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1137",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1137",
+        "name": "Rink Rats"
+      },
+      "scorer": "#68 - Matt  Taylor",
+      "assist1": "#52 - Richard  Smith",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:50",
+      "team": {
+        "teamId": "1137",
+        "name": "Rink Rats"
+      },
+      "scorer": "#13 - Jeff  Willard",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:21",
+      "team": {
+        "teamId": "1137",
+        "name": "Rink Rats"
+      },
+      "scorer": "#79 - Igor  Helman",
+      "assist1": "#60 - Ed  Sugrue",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:16:10",
+      "team": {
+        "teamId": "1137",
+        "name": "Rink Rats"
+      },
+      "scorer": "#79 - Igor  Helman",
+      "assist1": "#60 - Ed  Sugrue",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1137",
+        "name": "Rink Rats"
+      },
+      "scorer": "#60 - Ed  Sugrue",
+      "assist1": "#13 - Jeff  Willard",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "1137",
+        "name": "Rink Rats"
+      },
+      "player": "#60 - Ed  Sugrue",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:51",
+      "team": {
+        "teamId": "1137",
+        "name": "Rink Rats"
+      },
+      "player": "#17 - Michael  Bagnall",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:15:08",
+      "team": {
+        "teamId": "1137",
+        "name": "Rink Rats"
+      },
+      "player": "#90 - Byron  Howe",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1136",
+        "name": "Thunder"
+      },
+      "player": "#22 - Nick  Kolovos",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:28:27.331Z"
+}

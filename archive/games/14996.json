@@ -1,0 +1,128 @@
+{
+  "gameId": "14996",
+  "date": "2022-07-11",
+  "divId": 251,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1548",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1552",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:34",
+      "team": {
+        "teamId": "1552",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#44 - Jeff  Marciano",
+      "assist1": "#17 - Josh  Bliudzius",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1552",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#55 - Andrew  Mayen",
+      "assist1": "#5 - Roger  Jordan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:39",
+      "team": {
+        "teamId": "1552",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#34 - Dave  ODea",
+      "assist1": "#4 - Sam  Hauslohner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:24",
+      "team": {
+        "teamId": "1552",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#34 - Dave  ODea",
+      "assist1": "#4 - Sam  Hauslohner",
+      "assist2": "#6 - JB  Merritt"
+    },
+    {
+      "period": "2",
+      "time": "00:08:00",
+      "team": {
+        "teamId": "1552",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#21 - Josh  Vichness",
+      "assist1": "#44 - Jeff  Marciano",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:53",
+      "team": {
+        "teamId": "1548",
+        "name": "Dragons"
+      },
+      "scorer": "#11 - Emma  Alperin",
+      "assist1": "#12 - Scott  Borders",
+      "assist2": "#68 - Matt  Taylor"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:23",
+      "team": {
+        "teamId": "1548",
+        "name": "Dragons"
+      },
+      "player": "#68 - Matt  Taylor",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1552",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#6 - JB  Merritt",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:42:28.594Z"
+}

@@ -1,0 +1,130 @@
+{
+  "gameId": "12186",
+  "date": "2018-12-21",
+  "divId": 191,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1210",
+    "name": "Pharaohs"
+  },
+  "away": {
+    "teamId": "1214",
+    "name": "Red Devils"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:10",
+      "team": {
+        "teamId": "1210",
+        "name": "Pharaohs"
+      },
+      "scorer": "#20 - Ben  Fonarov",
+      "assist1": "#28 - `Michael  Berghold",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:04",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#22 - Jongjae  Yoo",
+      "assist1": "#17 - Wangjae  Yoo",
+      "assist2": "#11 - Sam  Marchio"
+    },
+    {
+      "period": "3",
+      "time": "00:03:07",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "scorer": "#11 - Sam  Marchio",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:09",
+      "team": {
+        "teamId": "1210",
+        "name": "Pharaohs"
+      },
+      "scorer": "#7 - Samantha  Miller",
+      "assist1": "#4 - Kevin  Via",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1210",
+        "name": "Pharaohs"
+      },
+      "scorer": "#19 - Otto  Noffsinger",
+      "assist1": "#14 - Jay  Woon",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "1210",
+        "name": "Pharaohs"
+      },
+      "player": "#5 - Chris  Maroon",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:27",
+      "team": {
+        "teamId": "1214",
+        "name": "Red Devils"
+      },
+      "player": "#17 - Wangjae  Yoo",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "1210",
+        "name": "Pharaohs"
+      },
+      "player": "#89 - Brandon  Barhorst",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:43:30.477Z"
+}

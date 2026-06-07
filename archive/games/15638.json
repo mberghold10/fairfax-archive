@@ -1,0 +1,130 @@
+{
+  "gameId": "15638",
+  "date": "2023-03-04",
+  "divId": 259,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1593",
+    "name": "Pharoahs"
+  },
+  "away": {
+    "teamId": "1596",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:25",
+      "team": {
+        "teamId": "1593",
+        "name": "Pharoahs"
+      },
+      "scorer": "#10 - Jay  Yoon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "1593",
+        "name": "Pharoahs"
+      },
+      "scorer": "#30 - Justin  Carpenter",
+      "assist1": "#17 - Zephan  Keehner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:33",
+      "team": {
+        "teamId": "1593",
+        "name": "Pharoahs"
+      },
+      "scorer": "#22 - Patrick  Smith",
+      "assist1": "#80 - Andrew  Dickson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:26",
+      "team": {
+        "teamId": "1593",
+        "name": "Pharoahs"
+      },
+      "scorer": "#40 - Mike  Lowe",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:28",
+      "team": {
+        "teamId": "1593",
+        "name": "Pharoahs"
+      },
+      "scorer": "#22 - Patrick  Smith",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:26",
+      "team": {
+        "teamId": "1596",
+        "name": "British Bulldogs"
+      },
+      "player": "#22 - Cody  Reinitz",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:59",
+      "team": {
+        "teamId": "1596",
+        "name": "British Bulldogs"
+      },
+      "player": "#14 - Paul  Tourbaf",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1593",
+        "name": "Pharoahs"
+      },
+      "player": "#22 - Patrick  Smith",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:51:44.306Z"
+}

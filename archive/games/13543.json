@@ -1,0 +1,117 @@
+{
+  "gameId": "13543",
+  "date": "2020-01-11",
+  "divId": 210,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1328",
+    "name": "Pharaohs"
+  },
+  "away": {
+    "teamId": "1329",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:03",
+      "team": {
+        "teamId": "1328",
+        "name": "Pharaohs"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": "#83 - Jared  DiCioccio",
+      "assist2": "#3 - Jack  Wilmer"
+    },
+    {
+      "period": "2",
+      "time": "00:05:26",
+      "team": {
+        "teamId": "1329",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#42 - Adam  Russell",
+      "assist1": "#9 - Steve  Tarditi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:59",
+      "team": {
+        "teamId": "1328",
+        "name": "Pharaohs"
+      },
+      "scorer": "#83 - Jared  DiCioccio",
+      "assist1": "#23 - Seth  Wayne",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:44",
+      "team": {
+        "teamId": "1329",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#11 - Pete  Danner",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": "#33 - Paul  Flood"
+    },
+    {
+      "period": "3",
+      "time": "00:09:34",
+      "team": {
+        "teamId": "1328",
+        "name": "Pharaohs"
+      },
+      "scorer": "#15 - Brian  Ebert",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:58",
+      "team": {
+        "teamId": "1329",
+        "name": "Blue Crabs"
+      },
+      "player": "#11 - Pete  Danner",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1329",
+        "name": "Blue Crabs"
+      },
+      "player": "#9 - Steve  Tarditi",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:06:36.813Z"
+}

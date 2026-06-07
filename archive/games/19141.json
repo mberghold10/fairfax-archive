@@ -1,0 +1,165 @@
+{
+  "gameId": "19141",
+  "date": "2026-05-24",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2006",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "2001",
+    "name": "Slashing Pumpkins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#69 - Finn  Deveans",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:37",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#28 - Chris  Pirisino",
+      "assist1": "#76 - Peter  Schaffer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#88 - Mark  Griffith",
+      "assist1": "#24 - Darcy  Rosenbaum",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#16 - Jacob  Kohls",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:10",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#75 - Tim  Witkiewicz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:49",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#88 - Mark  Griffith",
+      "assist1": "#75 - Tim  Witkiewicz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#88 - Mark  Griffith",
+      "assist1": "#81 - Sean  Murphy",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:36",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "player": "#76 - Peter  Schaffer",
+      "pim": 2,
+      "offense": "check from behind",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:36",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "player": "#76 - Peter  Schaffer",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "player": "#28 - Chris  Pirisino",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:29",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "player": "#81 - Sean  Murphy",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:08:54.758Z"
+}

@@ -1,0 +1,117 @@
+{
+  "gameId": "15574",
+  "date": "2022-12-04",
+  "divId": 265,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1632",
+    "name": "Roughnecks"
+  },
+  "away": {
+    "teamId": "1634",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:02",
+      "team": {
+        "teamId": "1634",
+        "name": "Red Wings"
+      },
+      "scorer": "#33 - Mark  Hall",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": "#25 - James  Chu"
+    },
+    {
+      "period": "1",
+      "time": "00:15:50",
+      "team": {
+        "teamId": "1632",
+        "name": "Roughnecks"
+      },
+      "scorer": "#43 - James  Kim",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:17:02",
+      "team": {
+        "teamId": "1632",
+        "name": "Roughnecks"
+      },
+      "scorer": "# -",
+      "assist1": "#43 - James  Kim",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:19:42",
+      "team": {
+        "teamId": "1634",
+        "name": "Red Wings"
+      },
+      "scorer": "#36 - Greg  Kowalski",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:06",
+      "team": {
+        "teamId": "1634",
+        "name": "Red Wings"
+      },
+      "scorer": "#33 - Mark  Hall",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": "#36 - Greg  Kowalski"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1634",
+        "name": "Red Wings"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1634",
+        "name": "Red Wings"
+      },
+      "player": "#50 - Lorin  Randall",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:59:26.160Z"
+}

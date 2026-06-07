@@ -1,0 +1,215 @@
+{
+  "gameId": "913",
+  "date": "2018-09-29",
+  "divId": 185,
+  "seasonName": "Summer 2018",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1177",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1176",
+    "name": "Pharaohs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:59",
+      "team": {
+        "teamId": "1177",
+        "name": "Angry Moose"
+      },
+      "scorer": "#91 - Matt  Vossekuil",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1177",
+        "name": "Angry Moose"
+      },
+      "scorer": "#13 - Nick  Burton",
+      "assist1": "#91 - Matt  Vossekuil",
+      "assist2": "#0 - Jory  Rubenstein"
+    },
+    {
+      "period": "2",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#19 - Otto  Noffsinger",
+      "assist1": "#20 - Ben  Fonarov",
+      "assist2": "#28 - Michael  Berghold"
+    },
+    {
+      "period": "2",
+      "time": "00:07:25",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#28 - Michael  Berghold",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "1177",
+        "name": "Angry Moose"
+      },
+      "scorer": "#13 - Nick  Burton",
+      "assist1": "#28 - Doug  Branton",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:44",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#71 - Matt  Renton",
+      "assist1": "#14 - Jay  Woon",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#15 - Brian  Ebert",
+      "assist1": "#14 - Jay  Woon",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#15 - Brian  Ebert",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:26",
+      "team": {
+        "teamId": "1177",
+        "name": "Angry Moose"
+      },
+      "player": "#15 - Kevin  Szczepanski",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "player": "#5 - Chris  Maroon",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:28",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "player": "#28 - Michael  Berghold",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:04",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "player": "#89 - Brandon  Barhorst",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:09",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "player": "#83 - Jared  Dicioccio",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:33",
+      "team": {
+        "teamId": "1177",
+        "name": "Angry Moose"
+      },
+      "player": "#5 - John  Bennett",
+      "pim": 2,
+      "offense": "head contact",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:33",
+      "team": {
+        "teamId": "1177",
+        "name": "Angry Moose"
+      },
+      "player": "#5 - John  Bennett",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:36:58.325Z"
+}

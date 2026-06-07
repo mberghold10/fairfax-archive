@@ -1,0 +1,139 @@
+{
+  "gameId": "18258",
+  "date": "2025-06-26",
+  "divId": 316,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1934",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "1939",
+    "name": "Flying Circus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:35",
+      "team": {
+        "teamId": "1934",
+        "name": "Goons"
+      },
+      "scorer": "#96 - Chris  Beck",
+      "assist1": "#50 - Matt  Cerce",
+      "assist2": "#44 - Mick  Ellsworth"
+    },
+    {
+      "period": "2",
+      "time": "00:02:55",
+      "team": {
+        "teamId": "1934",
+        "name": "Goons"
+      },
+      "scorer": "#50 - Matt  Cerce",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:35",
+      "team": {
+        "teamId": "1939",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Shaun  Sleeper",
+      "assist1": "#12 - Adam  Jngdhal",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:46",
+      "team": {
+        "teamId": "1934",
+        "name": "Goons"
+      },
+      "scorer": "#28 - Ed  Holleran",
+      "assist1": "#50 - Matt  Cerce",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "1934",
+        "name": "Goons"
+      },
+      "scorer": "#50 - Matt  Cerce",
+      "assist1": "#44 - Mick  Ellsworth",
+      "assist2": "#21 - Mark  Johnston"
+    },
+    {
+      "period": "2",
+      "time": "00:11:18",
+      "team": {
+        "teamId": "1939",
+        "name": "Flying Circus"
+      },
+      "scorer": "#25 - Malcolm  Hyson",
+      "assist1": "#22 - Ed  Gulakowski",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1934",
+        "name": "Goons"
+      },
+      "scorer": "#25 - Chris  Lettieri",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "1939",
+        "name": "Flying Circus"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1939",
+        "name": "Flying Circus"
+      },
+      "player": "#5 - Mark  DeVito",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:54:17.039Z"
+}

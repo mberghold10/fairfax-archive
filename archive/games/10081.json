@@ -1,0 +1,128 @@
+{
+  "gameId": "10081",
+  "date": "2016-10-16",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1019",
+    "name": "Turtle Power"
+  },
+  "away": {
+    "teamId": "1017",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:39",
+      "team": {
+        "teamId": "1019",
+        "name": "Turtle Power"
+      },
+      "scorer": "#26 - Danny  Meaux",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:46",
+      "team": {
+        "teamId": "1017",
+        "name": "Dragons"
+      },
+      "scorer": "#77 - Dylan  Gerhard",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1017",
+        "name": "Dragons"
+      },
+      "scorer": "#11 - Andy  Jones",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:47",
+      "team": {
+        "teamId": "1017",
+        "name": "Dragons"
+      },
+      "scorer": "#11 - Andy  Jones",
+      "assist1": "#14 - James  Miller",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "1019",
+        "name": "Turtle Power"
+      },
+      "scorer": "#26 - Danny  Meaux",
+      "assist1": "#21 - Adam  Lefkowitz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1017",
+        "name": "Dragons"
+      },
+      "scorer": "#14 - James  Miller",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "1019",
+        "name": "Turtle Power"
+      },
+      "player": "#33 - Sean  Haglund",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:33",
+      "team": {
+        "teamId": "1019",
+        "name": "Turtle Power"
+      },
+      "player": "#26 - Danny  Meaux",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:04:05.014Z"
+}

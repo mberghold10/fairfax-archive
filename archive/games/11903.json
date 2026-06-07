@@ -1,0 +1,130 @@
+{
+  "gameId": "11903",
+  "date": "2018-07-14",
+  "divId": 186,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1189",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "1187",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1189",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#42 - Brandon  Carter",
+      "assist1": "#32 - Marty  Langley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:39",
+      "team": {
+        "teamId": "1189",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#22 - Amir  Tahani",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:12",
+      "team": {
+        "teamId": "1189",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#36 - Brian  Lusby",
+      "assist1": "#18 - Lee  Freedman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:43",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#82 - Jesse  Howe",
+      "assist1": "#6 - JB  Merritt",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:49",
+      "team": {
+        "teamId": "1189",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#36 - Brian  Lusby",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:17",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#67 - Brian  Landers",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#54 - Brian  Hensel",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:48",
+      "team": {
+        "teamId": "1189",
+        "name": "Mad Dogs"
+      },
+      "player": "#18 - Lee  Freedman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:37:49.016Z"
+}

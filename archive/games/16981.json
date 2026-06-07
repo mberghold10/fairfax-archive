@@ -1,0 +1,154 @@
+{
+  "gameId": "16981",
+  "date": "2024-06-18",
+  "divId": 286,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1758",
+    "name": "Redhawks"
+  },
+  "away": {
+    "teamId": "1759",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "scorer": "#200 - William  Yao",
+      "assist1": "#17 - Brandon  Nolan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:25",
+      "team": {
+        "teamId": "1758",
+        "name": "Redhawks"
+      },
+      "scorer": "#98 - Michael  Coward",
+      "assist1": "#21 - Ryo  Yoshida",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:49",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "scorer": "#43 - Anthony  Federico",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "scorer": "#17 - Brandon  Nolan",
+      "assist1": "#200 - William  Yao",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "1758",
+        "name": "Redhawks"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#98 - Michael  Coward",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:43",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "scorer": "#17 - Brandon  Nolan",
+      "assist1": "#8 - David  Stagaj",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:48",
+      "team": {
+        "teamId": "1758",
+        "name": "Redhawks"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:41",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "player": "#77 - William  Uhr",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "player": "#43 - Anthony  Federico",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1758",
+        "name": "Redhawks"
+      },
+      "player": "#24 - John  Drummond",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:22:58.103Z"
+}

@@ -1,0 +1,165 @@
+{
+  "gameId": "12581",
+  "date": "2019-01-15",
+  "divId": 196,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1243",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1245",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "1243",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#16 - Brian  Murphy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:45",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#34 - Marty  Gryski",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1243",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#20 - Paul  Flood",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:20",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#34 - Marty  Gryski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1243",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#27 - Tim  Witkiewicz",
+      "assist1": "#21 - Steve  Kaplan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#57 - Howard  Uman",
+      "assist1": "#71 - Dan  Pol",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:02:43",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#34 - Marty  Gryski",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:34",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "player": "#34 - Marty  Gryski",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:37",
+      "team": {
+        "teamId": "1243",
+        "name": "Ice Dogs"
+      },
+      "player": "#16 - Brian  Murphy",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1243",
+        "name": "Ice Dogs"
+      },
+      "player": "#2 - Tom  Keith",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:19",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "player": "#34 - Marty  Gryski",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:50:31.085Z"
+}

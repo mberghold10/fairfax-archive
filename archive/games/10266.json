@@ -1,0 +1,108 @@
+{
+  "gameId": "10266",
+  "date": "2017-02-09",
+  "divId": 155,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "997",
+    "name": "Rustico Flames"
+  },
+  "away": {
+    "teamId": "994",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:05:49",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#8 - Chris  White",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:35",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#8 - Chris  White",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:15",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#14 - Josh  Peter",
+      "assist1": "#8 - Chris  White",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "994",
+        "name": "Penguins"
+      },
+      "player": "#24 - Max  Alexeev",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:35",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "player": "#42 - Jeff  Lovett",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:26",
+      "team": {
+        "teamId": "994",
+        "name": "Penguins"
+      },
+      "player": "#15 - Shawn  Hatch",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:59:30.777Z"
+}

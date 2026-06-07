@@ -1,0 +1,180 @@
+{
+  "gameId": "12207",
+  "date": "2018-12-08",
+  "divId": 192,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1219",
+    "name": "Crabs"
+  },
+  "away": {
+    "teamId": "1222",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:44",
+      "team": {
+        "teamId": "1219",
+        "name": "Crabs"
+      },
+      "scorer": "#43 - Steve  Sincavage",
+      "assist1": "#90 - Andrew  Mayen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#17 - Zephan  Keehner",
+      "assist1": "#92 - Caleb  Adams",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1219",
+        "name": "Crabs"
+      },
+      "scorer": "#3 - Mat  White",
+      "assist1": "#36 - Gisle  Sorli",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1219",
+        "name": "Crabs"
+      },
+      "scorer": "#88 - Pat  Lockett",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:54",
+      "team": {
+        "teamId": "1219",
+        "name": "Crabs"
+      },
+      "scorer": "#36 - Gisle  Sorli",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:54",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#92 - Caleb  Adams",
+      "assist1": "#17 - Zephan  Keehner",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:27",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "player": "#17 - Zephan  Keehner",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:35",
+      "team": {
+        "teamId": "1219",
+        "name": "Crabs"
+      },
+      "player": "#14 - Roger  Jordan",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:05",
+      "team": {
+        "teamId": "1219",
+        "name": "Crabs"
+      },
+      "player": "#88 - Pat  Lockett",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "1219",
+        "name": "Crabs"
+      },
+      "player": "#88 - Pat  Lockett",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "player": "#83 - Jared  DiCioccio",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:44:46.807Z"
+}

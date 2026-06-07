@@ -1,0 +1,150 @@
+{
+  "gameId": "10244",
+  "date": "2017-01-21",
+  "divId": 154,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "991",
+    "name": "Bluejacket Capitals"
+  },
+  "away": {
+    "teamId": "989",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "991",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:03",
+      "team": {
+        "teamId": "991",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#13 - Shawn  McGarry",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:32",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#44 - Mick  Ellsworth",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:02",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#23 - Scott  Gordon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:29",
+      "team": {
+        "teamId": "991",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#23 - Scott  Gordon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:01",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": "#12 - Paul  Zalocha",
+      "assist2": "#23 - Scott  Gordon"
+    },
+    {
+      "period": "3",
+      "time": "00:12:23",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:43",
+      "team": {
+        "teamId": "991",
+        "name": "Bluejacket Capitals"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:37",
+      "team": {
+        "teamId": "991",
+        "name": "Bluejacket Capitals"
+      },
+      "player": "#77 - Erik  Bergman",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:58:03.316Z"
+}

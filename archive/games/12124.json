@@ -1,0 +1,261 @@
+{
+  "gameId": "12124",
+  "date": "2018-10-27",
+  "divId": 189,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1200",
+    "name": "Bulldogs"
+  },
+  "away": {
+    "teamId": "1202",
+    "name": "Outlaws"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 5,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:45",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "scorer": "#33 - Dan  Middleton",
+      "assist1": "#69 - Aaron  Risdal",
+      "assist2": "#11 - Mike  Dumont"
+    },
+    {
+      "period": "2",
+      "time": "00:01:40",
+      "team": {
+        "teamId": "1202",
+        "name": "Outlaws"
+      },
+      "scorer": "#10 - Mike  Boyajian",
+      "assist1": "#43 - Mike  Barnes",
+      "assist2": "#17 - Adam  Lee"
+    },
+    {
+      "period": "2",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:52",
+      "team": {
+        "teamId": "1202",
+        "name": "Outlaws"
+      },
+      "scorer": "#0 - Trey  Perrone",
+      "assist1": "#11 - Mike  Plampin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:31",
+      "team": {
+        "teamId": "1202",
+        "name": "Outlaws"
+      },
+      "scorer": "#43 - Mike  Barnes",
+      "assist1": "#21 - Jerry  Achatz",
+      "assist2": "#11 - Mike  Plampin"
+    },
+    {
+      "period": "2",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "1202",
+        "name": "Outlaws"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#41 - Tony  Gorney",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:49",
+      "team": {
+        "teamId": "1202",
+        "name": "Outlaws"
+      },
+      "scorer": "#10 - Mike  Boyajian",
+      "assist1": "#12 - Joe  Zwickl",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1202",
+        "name": "Outlaws"
+      },
+      "scorer": "#14 - Jason  Brue",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:51",
+      "team": {
+        "teamId": "1202",
+        "name": "Outlaws"
+      },
+      "scorer": "#11 - Mike  Plampin",
+      "assist1": "#17 - Adam  Lee",
+      "assist2": "#10 - Mike  Boyajian"
+    },
+    {
+      "period": "3",
+      "time": "00:14:14",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#33 - Dan  Middleton",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1202",
+        "name": "Outlaws"
+      },
+      "player": "#41 - Tony  Gorney",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "1202",
+        "name": "Outlaws"
+      },
+      "player": "#41 - Tony  Gorney",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "1202",
+        "name": "Outlaws"
+      },
+      "player": "#41 - Tony  Gorney",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "player": "#11 - Mike  Dumont",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:12",
+      "team": {
+        "teamId": "1202",
+        "name": "Outlaws"
+      },
+      "player": "#21 - Jerry  Achatz",
+      "pim": 5,
+      "offense": "head butt",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:12",
+      "team": {
+        "teamId": "1202",
+        "name": "Outlaws"
+      },
+      "player": "#21 - Jerry  Achatz",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "player": "#42 - Bill  Hardy",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:17",
+      "team": {
+        "teamId": "1202",
+        "name": "Outlaws"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:40:51.200Z"
+}

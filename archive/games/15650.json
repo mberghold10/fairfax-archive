@@ -1,0 +1,271 @@
+{
+  "gameId": "15650",
+  "date": "2023-04-01",
+  "divId": 259,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1595",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1596",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "scorer": "#96 - Jared  Elder",
+      "assist1": "#81 - Bryan  Getson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "scorer": "#12 - Matt  Diamond",
+      "assist1": "#42 - Adam  Russell",
+      "assist2": "#81 - Bryan  Getson"
+    },
+    {
+      "period": "2",
+      "time": "00:00:39",
+      "team": {
+        "teamId": "1596",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#44 - Scott  Kuehn",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:55",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "scorer": "#4 - Todd  Mariano",
+      "assist1": "#96 - Jared  Elder",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "scorer": "#12 - Matt  Diamond",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:50",
+      "team": {
+        "teamId": "1596",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#16 - Greg  Pomeroy",
+      "assist1": "#23 - Mark  Rodemoyer",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:05",
+      "team": {
+        "teamId": "1596",
+        "name": "British Bulldogs"
+      },
+      "player": "#16 - Greg  Pomeroy",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:19",
+      "team": {
+        "teamId": "1596",
+        "name": "British Bulldogs"
+      },
+      "player": "#5 - Andy  Loggia",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "1596",
+        "name": "British Bulldogs"
+      },
+      "player": "#5 - Andy  Loggia",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:37",
+      "team": {
+        "teamId": "1596",
+        "name": "British Bulldogs"
+      },
+      "player": "#5 - Andy  Loggia",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "player": "#96 - Jared  Elder",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "player": "#96 - Jared  Elder",
+      "pim": 5,
+      "offense": "facemask",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "player": "#96 - Jared  Elder",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1596",
+        "name": "British Bulldogs"
+      },
+      "player": "#16 - Greg  Pomeroy",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1596",
+        "name": "British Bulldogs"
+      },
+      "player": "#16 - Greg  Pomeroy",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1596",
+        "name": "British Bulldogs"
+      },
+      "player": "#16 - Greg  Pomeroy",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1596",
+        "name": "British Bulldogs"
+      },
+      "player": "#16 - Greg  Pomeroy",
+      "pim": 10,
+      "offense": "match",
+      "isMajor": false,
+      "isMatch": true
+    },
+    {
+      "period": "3",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1596",
+        "name": "British Bulldogs"
+      },
+      "player": "#16 - Greg  Pomeroy",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:31",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "player": "#5 - Ben  Malakoff",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:51:56.418Z"
+}

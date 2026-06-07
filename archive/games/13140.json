@@ -1,0 +1,230 @@
+{
+  "gameId": "13140",
+  "date": "2019-08-18",
+  "divId": 206,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1302",
+    "name": "Triassic Puck"
+  },
+  "away": {
+    "teamId": "1303",
+    "name": "Steamed Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:57",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#30 - Michael  Gibson",
+      "assist1": "#67 - John F Krotzer",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#10 - Radoslaw  Kaczor",
+      "assist1": "#24 - Jonathan  Rowny",
+      "assist2": "#38 - Keith  Forsythe"
+    },
+    {
+      "period": "2",
+      "time": "00:07:36",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#10 - Radoslaw  Kaczor",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "# -",
+      "assist1": "#19 - Angelo  Ponirakis",
+      "assist2": "#15 - Dave  Fisher"
+    },
+    {
+      "period": "3",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#11 - Joe  Janiak",
+      "assist1": "#67 - John F Krotzer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#36 - Tim  Embree",
+      "assist1": "#79 - Tristan  Heyn",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:12",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#10 - Radoslaw  Kaczor",
+      "assist1": "#38 - Keith  Forsythe",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:55",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "player": "#79 - Tristan  Heyn",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:52",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "player": "#18 - Craig  McCall",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:52",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "player": "#18 - Craig  McCall",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:14",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:42",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "player": "#87 - James  Page",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:42",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "player": "#20 - William  Robitaille",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:14",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "player": "#19 - Angelo  Ponirakis",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:29",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "player": "#20 - William  Robitaille",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:49",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "player": "#19 - Angelo  Ponirakis",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:02:12.475Z"
+}

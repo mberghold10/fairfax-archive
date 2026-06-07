@@ -1,0 +1,161 @@
+{
+  "gameId": "10527",
+  "date": "2017-04-30",
+  "divId": 164,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1050",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1049",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#79 - Jeff  Vandenberghe",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "scorer": "#57 - Geoff  Akey",
+      "assist1": "#10 - Rich  Scigaj",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": "#67 - Andrew  Miller",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "scorer": "#16 - Marc  Franciszkowicz",
+      "assist1": "#30 - Jim  Van Horn",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:23",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#67 - Andrew  Miller",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:34",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#67 - Andrew  Miller",
+      "assist1": "#79 - Jeff  Vandenberghe",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#7 - Daniel  Fleshner",
+      "assist1": "#22 - Amir  Tahami",
+      "assist2": "#8 - Reid  Maki"
+    },
+    {
+      "period": "3",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "scorer": "#68 - Jeff  Robins",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:59",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "player": "#0 - Ruben  Garcia",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:33",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "player": "#30 - Jim  Van Horn",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:10:25.555Z"
+}

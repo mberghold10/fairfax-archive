@@ -1,0 +1,106 @@
+{
+  "gameId": "16732",
+  "date": "2024-04-01",
+  "divId": 278,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1713",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1715",
+    "name": "Hitmen"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:10:17",
+      "team": {
+        "teamId": "1715",
+        "name": "Hitmen"
+      },
+      "scorer": "#24 - Evan  Feinberg",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:47",
+      "team": {
+        "teamId": "1713",
+        "name": "Angry Moose"
+      },
+      "scorer": "#8 - Elliott  Yang",
+      "assist1": "#97 - Daniel  Gonzalez",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1713",
+        "name": "Angry Moose"
+      },
+      "scorer": "#97 - Daniel  Gonzalez",
+      "assist1": "#4 - Ryan  Cantwell",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1715",
+        "name": "Hitmen"
+      },
+      "scorer": "#12 - Mike  Cassidy",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "1713",
+        "name": "Angry Moose"
+      },
+      "player": "#97 - Daniel  Gonzalez",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1715",
+        "name": "Hitmen"
+      },
+      "player": "#98 - Peter  Hinman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:14:54.039Z"
+}

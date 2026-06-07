@@ -1,0 +1,180 @@
+{
+  "gameId": "13241",
+  "date": "2019-10-14",
+  "divId": 210,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1326",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1331",
+    "name": "Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "scorer": "#87 - Stan  Kolodin",
+      "assist1": "#43 - Alex  Utano",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:10",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "scorer": "#87 - Stan  Kolodin",
+      "assist1": "#43 - Alex  Utano",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:26",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "scorer": "#7 - Dan  Miller",
+      "assist1": "#43 - Alex  Utano",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:58",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:43",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "scorer": "#55 - Mike  Stawick",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:20",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#42 - Ryan  ODriscoll",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:51",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "player": "#27 - David  Lin",
+      "pim": 4,
+      "offense": "int/unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:51",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "player": "#27 - David  Lin",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:51",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "player": "#27 - David  Lin",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "player": "#27 - David  Lin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:24",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "player": "#55 - Mike  Stawick",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:14",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "player": "#6 - Jon  Lauder",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:06:04.793Z"
+}

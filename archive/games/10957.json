@@ -1,0 +1,160 @@
+{
+  "gameId": "10957",
+  "date": "2017-09-30",
+  "divId": 175,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1116",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1118",
+    "name": "River Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "scorer": "#36 - Evan  Clinton",
+      "assist1": "#31 - Sam  Branham",
+      "assist2": "#43 - Bill  Picard"
+    },
+    {
+      "period": "2",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "scorer": "#36 - Evan  Clinton",
+      "assist1": "#19 - Kevin  Stammetti",
+      "assist2": "#22 - Patrick  Creamer"
+    },
+    {
+      "period": "2",
+      "time": "00:12:24",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "scorer": "#81 - Sean  Murphy",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": "#43 - Bill  Picard"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1116",
+        "name": "Avalanche"
+      },
+      "player": "#7 - Dan  Miller",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:45",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "player": "#19 - Kevin  Stammetti",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:23",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:37",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "player": "#36 - Evan  Clinton",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:07",
+      "team": {
+        "teamId": "1116",
+        "name": "Avalanche"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "1116",
+        "name": "Avalanche"
+      },
+      "player": "#7 - Dan  Miller",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "player": "#22 - Patrick  Creamer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:23:27.775Z"
+}

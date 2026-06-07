@@ -1,0 +1,158 @@
+{
+  "gameId": "13577",
+  "date": "2020-01-26",
+  "divId": 211,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1337",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1333",
+    "name": "River Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "1333",
+        "name": "River Rats"
+      },
+      "scorer": "#11 - Kevin  Roehner",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:36",
+      "team": {
+        "teamId": "1333",
+        "name": "River Rats"
+      },
+      "scorer": "#3 - Charlie  Beekman",
+      "assist1": "#7 - Dan  Miller",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:29",
+      "team": {
+        "teamId": "1333",
+        "name": "River Rats"
+      },
+      "scorer": "#43 - Bill  Picard",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:37",
+      "team": {
+        "teamId": "1333",
+        "name": "River Rats"
+      },
+      "scorer": "#3 - Charlie  Beekman",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1337",
+        "name": "Blackskimmers"
+      },
+      "player": "#16 - Dave  Smith",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:10",
+      "team": {
+        "teamId": "1333",
+        "name": "River Rats"
+      },
+      "player": "#88 - John  Jepson",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:35",
+      "team": {
+        "teamId": "1337",
+        "name": "Blackskimmers"
+      },
+      "player": "#20 - Brent  Jefferson",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "1337",
+        "name": "Blackskimmers"
+      },
+      "player": "#6 - Matt  Johnson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:15",
+      "team": {
+        "teamId": "1333",
+        "name": "River Rats"
+      },
+      "player": "#7 - Dan  Miller",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:31",
+      "team": {
+        "teamId": "1337",
+        "name": "Blackskimmers"
+      },
+      "player": "#20 - Brent  Jefferson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:07:59.210Z"
+}

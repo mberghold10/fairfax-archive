@@ -1,0 +1,128 @@
+{
+  "gameId": "16958",
+  "date": "2024-06-08",
+  "divId": 295,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1806",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1804",
+    "name": "Hershey Beers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:28",
+      "team": {
+        "teamId": "1804",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#48 - Kris  Winder",
+      "assist1": "#42 - Julian  Stapleton",
+      "assist2": "#3 - Tom  Meike"
+    },
+    {
+      "period": "1",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1806",
+        "name": "Red Wings"
+      },
+      "scorer": "#0 - Brody  Walkinshaw",
+      "assist1": "#25 - James  Chu",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:19:37",
+      "team": {
+        "teamId": "1806",
+        "name": "Red Wings"
+      },
+      "scorer": "#0 - Brody  Walkinshaw",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:39",
+      "team": {
+        "teamId": "1806",
+        "name": "Red Wings"
+      },
+      "scorer": "#0 - Brody  Walkinshaw",
+      "assist1": "#25 - James  Chu",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1806",
+        "name": "Red Wings"
+      },
+      "scorer": "#24 - Jake  Middel",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:25",
+      "team": {
+        "teamId": "1804",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#88 - Afshawn  Towfighi",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:01",
+      "team": {
+        "teamId": "1804",
+        "name": "Hershey Beers"
+      },
+      "player": "#23 - Mark  Cappello",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1804",
+        "name": "Hershey Beers"
+      },
+      "player": "#23 - Mark  Cappello",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:32:34.928Z"
+}

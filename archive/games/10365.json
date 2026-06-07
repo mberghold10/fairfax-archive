@@ -1,0 +1,252 @@
+{
+  "gameId": "10365",
+  "date": "2017-03-14",
+  "divId": 153,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "983",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "982",
+    "name": "ers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 4,
+      "p3": 0,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:55",
+      "team": {
+        "teamId": "983",
+        "name": "Bruins"
+      },
+      "scorer": "#2 - Peter  OKeffe",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:43",
+      "team": {
+        "teamId": "983",
+        "name": "Bruins"
+      },
+      "scorer": "#9 - Tony  Cusumano",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "983",
+        "name": "Bruins"
+      },
+      "scorer": "#2 - Peter  OKeffe",
+      "assist1": "#77 - Jim  Garzione",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "983",
+        "name": "Bruins"
+      },
+      "scorer": "#570 - Kevin  Houben",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": "#2 - Peter  OKeffe"
+    },
+    {
+      "period": "2",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "scorer": "#24 - Mike  Giardina",
+      "assist1": "#44 - Mick  Ellsworth",
+      "assist2": "#17 - Ryan  Bradshaw"
+    },
+    {
+      "period": "2",
+      "time": "00:02:39",
+      "team": {
+        "teamId": "983",
+        "name": "Bruins"
+      },
+      "scorer": "#24 - Jamie  Belcastro",
+      "assist1": "#14 - Mike  Nannini",
+      "assist2": "#2 - Peter  OKeffe"
+    },
+    {
+      "period": "2",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "scorer": "#88 - Greg  Mullen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:37",
+      "team": {
+        "teamId": "983",
+        "name": "Bruins"
+      },
+      "scorer": "#9 - Tony  Cusumano",
+      "assist1": "#18 - Peter  Dimmick",
+      "assist2": "#570 - Kevin  Houben"
+    },
+    {
+      "period": "2",
+      "time": "00:14:04",
+      "team": {
+        "teamId": "983",
+        "name": "Bruins"
+      },
+      "scorer": "#9 - Tony  Cusumano",
+      "assist1": "#2 - Peter  OKeffe",
+      "assist2": "#570 - Kevin  Houben"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:05",
+      "team": {
+        "teamId": "983",
+        "name": "Bruins"
+      },
+      "player": "#2 - Peter  OKeffe",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "983",
+        "name": "Bruins"
+      },
+      "player": "#77 - Jim  Garzione",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "player": "#17 - Ryan  Bradshaw",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "player": "#24 - Mike  Giardina",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "player": "#24 - Mike  Giardina",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "player": "#24 - Mike  Giardina",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:35",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "player": "#17 - Ryan  Bradshaw",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:43",
+      "team": {
+        "teamId": "983",
+        "name": "Bruins"
+      },
+      "player": "#14 - Mike  Nannini",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:45",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "player": "#80 - Jeremy  Feldman",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:57:06.269Z"
+}

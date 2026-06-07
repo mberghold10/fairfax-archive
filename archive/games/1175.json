@@ -1,0 +1,209 @@
+{
+  "gameId": "1175",
+  "date": "2021-10-21",
+  "divId": 236,
+  "seasonName": "Summer 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1476",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1478",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 5,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:55",
+      "team": {
+        "teamId": "1478",
+        "name": "Islanders"
+      },
+      "scorer": "#9 - Rick  Cole",
+      "assist1": "#10 - Steve  Spivack",
+      "assist2": "#2 - Mark  Jesten"
+    },
+    {
+      "period": "1",
+      "time": "00:03:55",
+      "team": {
+        "teamId": "1476",
+        "name": "Team USA"
+      },
+      "scorer": "#12 - Jason  Wakeman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:36",
+      "team": {
+        "teamId": "1478",
+        "name": "Islanders"
+      },
+      "scorer": "#88 - Anthony  DeJohn",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:36",
+      "team": {
+        "teamId": "1478",
+        "name": "Islanders"
+      },
+      "scorer": "#12 - Ilan  Breit",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": "#10 - Steve  Spivack"
+    },
+    {
+      "period": "1",
+      "time": "00:09:47",
+      "team": {
+        "teamId": "1478",
+        "name": "Islanders"
+      },
+      "scorer": "#10 - Steve  Spivack",
+      "assist1": "#2 - Mark  Jesten",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:00",
+      "team": {
+        "teamId": "1478",
+        "name": "Islanders"
+      },
+      "scorer": "#12 - Ilan  Breit",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1478",
+        "name": "Islanders"
+      },
+      "scorer": "#10 - Steve  Spivack",
+      "assist1": "#25 - Greg  Reece",
+      "assist2": "#2 - Mark  Jesten"
+    },
+    {
+      "period": "3",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1476",
+        "name": "Team USA"
+      },
+      "scorer": "#10 - Mike  Brahmey",
+      "assist1": "#23 - Mike  OBrien",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1476",
+        "name": "Team USA"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": "#10 - Mike  Brahmey",
+      "assist2": "#34 - Jim  Morgan"
+    },
+    {
+      "period": "3",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "1476",
+        "name": "Team USA"
+      },
+      "scorer": "#99 - Jon  Davoren",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1478",
+        "name": "Islanders"
+      },
+      "scorer": "#10 - Steve  Spivack",
+      "assist1": "#2 - Mark  Jesten",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "1478",
+        "name": "Islanders"
+      },
+      "player": "#88 - Anthony  DeJohn",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1476",
+        "name": "Team USA"
+      },
+      "player": "#18 - Pete  Poczatek",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1476",
+        "name": "Team USA"
+      },
+      "player": "#44 - Greg  Powers",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:18",
+      "team": {
+        "teamId": "1478",
+        "name": "Islanders"
+      },
+      "player": "#25 - Greg  Reece",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:28:30.912Z"
+}

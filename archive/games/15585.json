@@ -1,0 +1,139 @@
+{
+  "gameId": "15585",
+  "date": "2023-01-14",
+  "divId": 265,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1630",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1633",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1633",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#25 - Neil  Dsouza",
+      "assist1": "#27 - Jamie  Prime",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:43",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#11 - George  Cernica",
+      "assist1": "#13 - Aaron  Kirsch",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:16:10",
+      "team": {
+        "teamId": "1633",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#0 - Ruben  Garcia",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:08",
+      "team": {
+        "teamId": "1633",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#25 - Neil  Dsouza",
+      "assist1": "#77 - Jeff  Wilken",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:54",
+      "team": {
+        "teamId": "1633",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#25 - Neil  Dsouza",
+      "assist1": "#27 - Jamie  Prime",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#88 - Jason  Searight",
+      "assist1": "#13 - Aaron  Kirsch",
+      "assist2": "#5 - Mike  Fottrell"
+    },
+    {
+      "period": "3",
+      "time": "00:08:53",
+      "team": {
+        "teamId": "1633",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#25 - Neil  Dsouza",
+      "assist1": "#77 - Jeff  Wilken",
+      "assist2": "#22 - Amir  Tahami"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:16",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#13 - Aaron  Kirsch",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:16",
+      "team": {
+        "teamId": "1633",
+        "name": "Blue Dogs"
+      },
+      "player": "#18 - Lee  Freedman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:59:36.192Z"
+}

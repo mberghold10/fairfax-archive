@@ -1,0 +1,185 @@
+{
+  "gameId": "13056",
+  "date": "2019-07-27",
+  "divId": 203,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1290",
+    "name": "Canucks"
+  },
+  "away": {
+    "teamId": "1286",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:27",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#3 - Julien  De Grandpre",
+      "assist1": "#44 - Jack  Wilmer",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "scorer": "#2 - Seth  Johnson",
+      "assist1": "#91 - Sean  Morrow",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:48",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": "#44 - Jack  Wilmer",
+      "assist2": "#25 - Greg  Reece"
+    },
+    {
+      "period": "1",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": "#25 - Greg  Reece",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:06",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "scorer": "#18 - Michael  Dewhirst",
+      "assist1": "#55 - Scott  Dullea",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:31",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "scorer": "#55 - Scott  Dullea",
+      "assist1": "#91 - Sean  Morrow",
+      "assist2": "#2 - Seth  Johnson"
+    },
+    {
+      "period": "2",
+      "time": "00:15:00",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": "#8 - Kevin  Free",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:49",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": "#8 - Kevin  Free",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "scorer": "# -",
+      "assist1": "#48 - Jordan  Zdasko",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "player": "#2 - Seth  Johnson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "player": "#25 - Greg  Reece",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "player": "#2 - Seth  Johnson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:58:32.270Z"
+}

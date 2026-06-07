@@ -1,0 +1,195 @@
+{
+  "gameId": "10028",
+  "date": "2016-11-15",
+  "divId": 156,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1000",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1002",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:51",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#32 - Dave  Frear",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#88 - Matt  Tiede",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#19 - Ira  Keltz",
+      "assist1": "#8 - Bob  Shay",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:26",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#57 - Howard  Uman",
+      "assist1": "#98 - Bob  Shaw",
+      "assist2": "#27 - Dave  Lin"
+    },
+    {
+      "period": "3",
+      "time": "00:09:33",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#57 - Howard  Uman",
+      "assist1": "#27 - Dave  Lin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:31",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "player": "#0 - Ruben  Garcia",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:02",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#27 - Dave  Lin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:49",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#24 - Mike  Duell",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#57 - Howard  Uman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#57 - Howard  Uman",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:29",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "player": "#5 - Lars-Erik  Hjelm",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:29",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#98 - Bob  Shaw",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:00:25.512Z"
+}

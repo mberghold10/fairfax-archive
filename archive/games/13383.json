@@ -1,0 +1,219 @@
+{
+  "gameId": "13383",
+  "date": "2019-10-30",
+  "divId": 213,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1347",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1348",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:11:58",
+      "team": {
+        "teamId": "1347",
+        "name": "Nortec"
+      },
+      "scorer": "#44 - Bob  Arnold",
+      "assist1": "#85 - Aaron  Dobbs",
+      "assist2": "#15 - Chris  Yoko"
+    },
+    {
+      "period": "2",
+      "time": "00:13:51",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "scorer": "#71 - Colin  Shin",
+      "assist1": "#91 - Rob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "scorer": "#22 - Nate  Harrison",
+      "assist1": "#24 - Steve  Dolski",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:47",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "scorer": "#24 - Steve  Dolski",
+      "assist1": "#5 - Chris  Marotta",
+      "assist2": "#6 - Dave  Oechslein"
+    },
+    {
+      "period": "3",
+      "time": "00:07:56",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "scorer": "#91 - Rob  Fischer",
+      "assist1": "#0 - Robert  Richard",
+      "assist2": "#9 - Sam  Ziesler"
+    },
+    {
+      "period": "3",
+      "time": "00:10:50",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "scorer": "#6 - Dave  Oechslein",
+      "assist1": "#18 - Sean  Gallucci",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:28",
+      "team": {
+        "teamId": "1347",
+        "name": "Nortec"
+      },
+      "player": "#85 - Aaron  Dobbs",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:01",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "player": "#59 - John  Saluga",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1347",
+        "name": "Nortec"
+      },
+      "player": "#40 - Mikhail  Serebrennikov",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "player": "#6 - Dave  Oechslein",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1347",
+        "name": "Nortec"
+      },
+      "player": "#15 - Chris  Yoko",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "player": "#6 - Dave  Oechslein",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "player": "#6 - Dave  Oechslein",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:51",
+      "team": {
+        "teamId": "1347",
+        "name": "Nortec"
+      },
+      "player": "#40 - Mikhail  Serebrennikov",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:11",
+      "team": {
+        "teamId": "1347",
+        "name": "Nortec"
+      },
+      "player": "#9 - Mark  Rudnicki",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:09:45.172Z"
+}

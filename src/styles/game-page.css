@@ -1,0 +1,60 @@
+/*
+ * GamePage styles
+ */
+
+.game-page {
+  padding-block: var(--spacing-lg);
+}
+
+.game-page__header {
+  margin-bottom: var(--spacing-xl);
+}
+
+.game-page__title {
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-bold);
+  margin-bottom: var(--spacing-xs);
+}
+
+.game-page__context {
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-sm);
+}
+
+.game-page__section {
+  margin-bottom: var(--spacing-xl);
+}
+
+.game-page__section-title {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  margin-bottom: var(--spacing-md);
+  padding-bottom: var(--spacing-xs);
+  border-bottom: 2px solid var(--color-brand-blue);
+}
+
+.game-page__scoring-table th:first-child,
+.game-page__scoring-table td:first-child {
+  text-align: left;
+}
+
+.game-page__penalty--severe {
+  background-color: rgba(191, 0, 0, 0.08);
+}
+
+.game-page__empty {
+  color: var(--color-text-muted);
+  font-style: italic;
+}
+
+.game-page__back-link {
+  margin-top: var(--spacing-md);
+}
+
+.game-page__back-link a {
+  color: var(--color-link);
+}
+
+.game-page__back-link a:hover {
+  color: var(--color-link-hover);
+}

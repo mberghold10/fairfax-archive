@@ -1,0 +1,174 @@
+{
+  "gameId": "11049",
+  "date": "2017-12-07",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1097",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1099",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#44 - Greg  Powers",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:58",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#98 - Matthew  Criscuolo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:23",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#44 - Greg  Powers",
+      "assist2": "#98 - Matthew  Criscuolo"
+    },
+    {
+      "period": "2",
+      "time": "00:03:29",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "scorer": "#20 - Brent  Jefferson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:17",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#34 - Jim  Morgan",
+      "assist1": "#12 - Jason  Wakeman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:03",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#10 - Michael  Brahmey",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:20",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#98 - Matthew  Criscuolo",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:43",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Peter  Poczatek",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": "#44 - Greg  Powers"
+    },
+    {
+      "period": "3",
+      "time": "00:06:33",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "scorer": "#24 - James  Grasselli",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:51",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "player": "#5 - Andy  Loggia",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:29",
+      "team": {
+        "teamId": "1097",
+        "name": "Team USA"
+      },
+      "player": "#7 - Ed  Wiener",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "1099",
+        "name": "Coyotes"
+      },
+      "player": "#34 - Johnny  Vanore",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:20:07.175Z"
+}

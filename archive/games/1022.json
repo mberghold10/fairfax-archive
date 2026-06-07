@@ -1,0 +1,182 @@
+{
+  "gameId": "1022",
+  "date": "2019-10-05",
+  "divId": 205,
+  "seasonName": "Summer 2019",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1299",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1296",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:17",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#67 - Brian  Landers",
+      "assist1": "#4 - Sam  Hauslohner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#21 - Joshua  Vichness",
+      "assist1": "#3 - Jeff  Ruby",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:24",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#4 - Sam  Hauslohner",
+      "assist1": "#16 - Chapman  Nicole",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "scorer": "#88 - Daniel  Lange",
+      "assist1": "#14 - Harvey  Denison",
+      "assist2": "#20 - Eric  Nelson"
+    },
+    {
+      "period": "3",
+      "time": "00:07:18",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": "#4 - Sam  Hauslohner",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "player": "#20 - Eric  Nelson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:38",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#34 - Cameron  Wilson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#54 - Brian  Hensel",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "player": "#27 - Andrew  Sundelin",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:38",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#54 - Brian  Hensel",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1299",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#67 - Brian  Landers",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1296",
+        "name": "Lightning"
+      },
+      "player": "#27 - Andrew  Sundelin",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:01:21.517Z"
+}

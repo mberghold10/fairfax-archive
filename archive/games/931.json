@@ -1,0 +1,93 @@
+{
+  "gameId": "931",
+  "date": "2018-09-29",
+  "divId": 186,
+  "seasonName": "Summer 2018",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1186",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1187",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:11",
+      "team": {
+        "teamId": "1186",
+        "name": "Dragons"
+      },
+      "scorer": "#7 - Steven  Fisher",
+      "assist1": "#68 - Matt  Taylor",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:38",
+      "team": {
+        "teamId": "1186",
+        "name": "Dragons"
+      },
+      "scorer": "#7 - Steven  Fisher",
+      "assist1": "#77 - Dylan  Gerhard",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:16",
+      "team": {
+        "teamId": "1186",
+        "name": "Dragons"
+      },
+      "scorer": "#36 - Nick  Fishter",
+      "assist1": "#44 - Brian  Guerrero",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#4 - Sam  Hauslohner",
+      "assist1": "#6 - JB  Merritt",
+      "assist2": "#67 - Brian  Landers"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:09:46",
+      "team": {
+        "teamId": "1186",
+        "name": "Dragons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:38:43.227Z"
+}

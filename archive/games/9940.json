@@ -1,0 +1,82 @@
+{
+  "gameId": "9940",
+  "date": "2016-10-01",
+  "divId": 160,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1030",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1027",
+    "name": "Sparks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:05",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#57 - Kevin  Snyder",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:54",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "scorer": "#41 - Randy  Warren",
+      "assist1": "#4 - Matt  Gelman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:42",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "scorer": "#7 - Ian  Stack",
+      "assist1": "#4 - Matt  Gelman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1030",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#57 - Kevin  Snyder",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:42:35.627Z"
+}

@@ -1,0 +1,117 @@
+{
+  "gameId": "18939",
+  "date": "2026-04-19",
+  "divId": 322,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1975",
+    "name": "Windbreakers"
+  },
+  "away": {
+    "teamId": "1971",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1971",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#4 - Sam  Brownell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:32",
+      "team": {
+        "teamId": "1971",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#20 - Ronan  Valdesaso",
+      "assist1": "#46 - Mark  Tobias",
+      "assist2": "#44 - George  Cernica"
+    },
+    {
+      "period": "3",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1971",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#20 - Ronan  Valdesaso",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:26",
+      "team": {
+        "teamId": "1971",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#20 - Ronan  Valdesaso",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:53",
+      "team": {
+        "teamId": "1971",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#9 - Munkhood  Dansran",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:29",
+      "team": {
+        "teamId": "1975",
+        "name": "Windbreakers"
+      },
+      "player": "#33 - Juliana  Brotzman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:11",
+      "team": {
+        "teamId": "1971",
+        "name": "Jurassic Puck"
+      },
+      "player": "#9 - Munkhood  Dansran",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:01:27.620Z"
+}

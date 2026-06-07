@@ -1,0 +1,128 @@
+{
+  "gameId": "14559",
+  "date": "2021-11-26",
+  "divId": 248,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1533",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1534",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:04",
+      "team": {
+        "teamId": "1533",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#33 - Brandon  Boling",
+      "assist1": "#77 - Jeff  Wilken",
+      "assist2": "#72 - Matthew  Wilken"
+    },
+    {
+      "period": "1",
+      "time": "00:09:01",
+      "team": {
+        "teamId": "1534",
+        "name": "Red Wings"
+      },
+      "scorer": "#67 - John  Krotzer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:17:31",
+      "team": {
+        "teamId": "1533",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#77 - Jeff  Wilken",
+      "assist1": "#17 - Justin  Cade",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:29",
+      "team": {
+        "teamId": "1533",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#33 - Brandon  Boling",
+      "assist1": "#34 - Josh  Davis",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1533",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#34 - Josh  Davis",
+      "assist1": "#33 - Brandon  Boling",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "1533",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#34 - Josh  Davis",
+      "assist1": "#33 - Brandon  Boling",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:48",
+      "team": {
+        "teamId": "1534",
+        "name": "Red Wings"
+      },
+      "player": "#22 - Trevor  Blair",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1533",
+        "name": "Blue Dogs"
+      },
+      "player": "#100 - Goalie  Substitue",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:38:47.380Z"
+}

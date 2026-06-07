@@ -1,0 +1,117 @@
+{
+  "gameId": "16609",
+  "date": "2023-12-26",
+  "divId": 283,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1739",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1738",
+    "name": "Goon Nation"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:10",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "scorer": "#15 - Warren  Conrow",
+      "assist1": "#16 - Mark  Hall",
+      "assist2": "#21 - Grant  Gibbons"
+    },
+    {
+      "period": "1",
+      "time": "00:06:08",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "scorer": "#21 - Grant  Gibbons",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "scorer": "#15 - Warren  Conrow",
+      "assist1": "#8 - Jason  Eister",
+      "assist2": "#6 - Tom  Fording"
+    },
+    {
+      "period": "2",
+      "time": "00:08:19",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "scorer": "#15 - Warren  Conrow",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "scorer": "#43 - Paul  Stolbug",
+      "assist1": "#8 - Jason  Eister",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "player": "#7 - Brian  Merritt",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "1739",
+        "name": "Ice Dogs"
+      },
+      "player": "#21 - Steve  Kaplan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:20:10.090Z"
+}

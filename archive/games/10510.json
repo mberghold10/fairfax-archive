@@ -1,0 +1,222 @@
+{
+  "gameId": "10510",
+  "date": "2017-05-25",
+  "divId": 163,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1041",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1042",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1041",
+        "name": "Flying Circus"
+      },
+      "scorer": "#18 - Chris  Kelly",
+      "assist1": "#9 - Jason  Hess",
+      "assist2": "#55 - Joel  Whitney"
+    },
+    {
+      "period": "1",
+      "time": "00:09:09",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:28",
+      "team": {
+        "teamId": "1041",
+        "name": "Flying Circus"
+      },
+      "scorer": "#17 - John  Kemprowski",
+      "assist1": "#24 - Jim  Behrend",
+      "assist2": "#25 - Malcolm  Hyson"
+    },
+    {
+      "period": "2",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1041",
+        "name": "Flying Circus"
+      },
+      "scorer": "#18 - Chris  Kelly",
+      "assist1": "#2 - Marc  Sheinkin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": "#9 - Ken  Fritzke",
+      "assist2": "#10 - Mike  Brahmey"
+    },
+    {
+      "period": "2",
+      "time": "00:06:59",
+      "team": {
+        "teamId": "1041",
+        "name": "Flying Circus"
+      },
+      "scorer": "#15 - Mike  Hempen",
+      "assist1": "#18 - Chris  Kelly",
+      "assist2": "#25 - Malcolm  Hyson"
+    },
+    {
+      "period": "2",
+      "time": "00:07:52",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#18 - Pete  Poczatek",
+      "assist2": "#44 - Greg  Powers"
+    },
+    {
+      "period": "2",
+      "time": "00:08:43",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "scorer": "#16 - Tom  Rodeheaver",
+      "assist1": "#20 - Rich  Utano",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "scorer": "#34 - Jim  Morgan",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": "#23 - Mike  OBrien"
+    },
+    {
+      "period": "3",
+      "time": "00:06:50",
+      "team": {
+        "teamId": "1041",
+        "name": "Flying Circus"
+      },
+      "scorer": "#23 - Greg  Thomas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:20",
+      "team": {
+        "teamId": "1041",
+        "name": "Flying Circus"
+      },
+      "scorer": "#15 - Mike  Hempen",
+      "assist1": "#25 - Malcolm  Hyson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:57",
+      "team": {
+        "teamId": "1041",
+        "name": "Flying Circus"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:04",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "player": "#4 - Jeff  Bloom",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:35",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "player": "#17 - Jim  Freely",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:27",
+      "team": {
+        "teamId": "1041",
+        "name": "Flying Circus"
+      },
+      "player": "#18 - Chris  Kelly",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:45",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "player": "#25 - Stan  Torgovitsky",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:09:12.757Z"
+}

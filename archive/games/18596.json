@@ -1,0 +1,220 @@
+{
+  "gameId": "18596",
+  "date": "2025-12-03",
+  "divId": 325,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1994",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1991",
+    "name": "Ers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 4,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 8
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#39 - Collin  Langdon",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#7 - Matt  ODriscoll",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#3 - Matt  Cerce",
+      "assist1": "#96 - Chris  Beck",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#11 - Adam  Sperry",
+      "assist1": "#96 - Chris  Beck",
+      "assist2": "#21 - Mark  Johnston"
+    },
+    {
+      "period": "1",
+      "time": "00:14:36",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#7 - Matt  ODriscoll",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": "#24 - Tom  Spiewak"
+    },
+    {
+      "period": "2",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#3 - Matt  Cerce",
+      "assist1": "#96 - Chris  Beck",
+      "assist2": "#74 - Paul  Sechser"
+    },
+    {
+      "period": "3",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#96 - Chris  Beck",
+      "assist1": "#92 - TC  Rotunda",
+      "assist2": "#22 - Brian  Dutton"
+    },
+    {
+      "period": "3",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "scorer": "#14 - Dennis  Nayandin",
+      "assist1": "#68 - Stephen  Vereb",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:43",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:48",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#11 - Adam  Sperry",
+      "assist1": "#3 - Matt  Cerce",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:48",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:15",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "scorer": "#11 - Adam  Sperry",
+      "assist1": "#92 - TC  Rotunda",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "player": "#22 - Brian  Dutton",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:02",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:25",
+      "team": {
+        "teamId": "1991",
+        "name": "Ers"
+      },
+      "player": "#11 - Adam  Sperry",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:11",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "player": "#68 - Stephen  Vereb",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:04:11.360Z"
+}

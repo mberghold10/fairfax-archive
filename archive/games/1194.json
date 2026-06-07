@@ -1,0 +1,191 @@
+{
+  "gameId": "1194",
+  "date": "2022-04-24",
+  "divId": 242,
+  "seasonName": "Winter 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1500",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1495",
+    "name": "Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "1495",
+        "name": "Punishers"
+      },
+      "scorer": "#16 - Patrick  Smith",
+      "assist1": "#40 - Matt  Mickelson",
+      "assist2": "#1 - Matt  ODriscoll"
+    },
+    {
+      "period": "1",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "1500",
+        "name": "Chiefs"
+      },
+      "scorer": "#67 - Ivan  Dubrovski",
+      "assist1": "#91 - Sean  Morrow",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:04",
+      "team": {
+        "teamId": "1495",
+        "name": "Punishers"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:47",
+      "team": {
+        "teamId": "1500",
+        "name": "Chiefs"
+      },
+      "scorer": "#57 - Jack  Conlin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1495",
+        "name": "Punishers"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": "#16 - Patrick  Smith",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "1500",
+        "name": "Chiefs"
+      },
+      "scorer": "#12 - Chris  Yoko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:08:48",
+      "team": {
+        "teamId": "1500",
+        "name": "Chiefs"
+      },
+      "scorer": "#15 - David  Eyre",
+      "assist1": "#57 - Jack  Conlin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:21",
+      "team": {
+        "teamId": "1500",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1500",
+        "name": "Chiefs"
+      },
+      "player": "#17 - Maxim  Rinaldi",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:42",
+      "team": {
+        "teamId": "1495",
+        "name": "Punishers"
+      },
+      "player": "#1 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:04",
+      "team": {
+        "teamId": "1495",
+        "name": "Punishers"
+      },
+      "player": "#16 - Patrick  Smith",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:42",
+      "team": {
+        "teamId": "1495",
+        "name": "Punishers"
+      },
+      "player": "#1 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:18",
+      "team": {
+        "teamId": "1500",
+        "name": "Chiefs"
+      },
+      "player": "#18 - Michael  Dewhirst",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:32:18.716Z"
+}

@@ -1,0 +1,156 @@
+{
+  "gameId": "12110",
+  "date": "2018-10-17",
+  "divId": 189,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1203",
+    "name": "Blackhawks"
+  },
+  "away": {
+    "teamId": "1200",
+    "name": "Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 4,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:24",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#77 - Scott  Peterson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:40",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "scorer": "#56 - Ryan  Tyler",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": "#7 - Tyler  Kniaz"
+    },
+    {
+      "period": "1",
+      "time": "00:13:46",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:44",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "player": "#28 - Jack  Wilmer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:36",
+      "team": {
+        "teamId": "1200",
+        "name": "Bulldogs"
+      },
+      "player": "#28 - Jack  Wilmer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:23",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "player": "#56 - Ryan  Tyler",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "player": "#24 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "1203",
+        "name": "Blackhawks"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:40:49.078Z"
+}

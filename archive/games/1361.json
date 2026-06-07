@@ -1,0 +1,128 @@
+{
+  "gameId": "1361",
+  "date": "2023-10-15",
+  "divId": 272,
+  "seasonName": "Summer 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1679",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1678",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1679",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#21 - Steve  Kaplan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "1679",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#64 - Bob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:01",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "scorer": "#20 - Brent  Jefferson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1679",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1679",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:44",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "scorer": "#3 - John  Niemiec",
+      "assist1": "#51 - Rob  Fischer",
+      "assist2": "#25 - Jeff  Wojtala"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "player": "#25 - Jeff  Wojtala",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "1679",
+        "name": "Coyotes"
+      },
+      "player": "#5 - Andy  Loggia",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:08:24.602Z"
+}

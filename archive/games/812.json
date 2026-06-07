@@ -1,0 +1,215 @@
+{
+  "gameId": "812",
+  "date": "2017-03-19",
+  "divId": 160,
+  "seasonName": "Winter 2016",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1029",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1028",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 3,
+      "ot": 0,
+      "final": 8
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#11 - Dan  Owens",
+      "assist1": "#25 - Jack  Hur",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#50 - Steve  Bennett",
+      "assist1": "#4 - Kevin  Via",
+      "assist2": "#28 - Michael  Berghold"
+    },
+    {
+      "period": "2",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": "#44 - George  Cernica",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:47",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#66 - Steven  Spector",
+      "assist1": "#50 - Steve  Bennett",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:19",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": "#28 - Michael  Berghold",
+      "assist2": "#44 - George  Cernica"
+    },
+    {
+      "period": "3",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#11 - Dan  Owens",
+      "assist1": "#3 - Will  Caito",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:02",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": "#28 - Michael  Berghold",
+      "assist2": "#44 - George  Cernica"
+    },
+    {
+      "period": "3",
+      "time": "00:12:22",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#28 - Michael  Berghold",
+      "assist1": "#44 - George  Cernica",
+      "assist2": "#4 - Kevin  Via"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:01",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#50 - Steve  Bennett",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:58",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#3 - Will  Caito",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "1029",
+        "name": "Red Wings"
+      },
+      "player": "#2 - JP  Gardner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "1029",
+        "name": "Red Wings"
+      },
+      "player": "#50 - Lorin  Randall",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "1028",
+        "name": "Jurassic Puck"
+      },
+      "player": "#11 - Dan  Owens",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:34",
+      "team": {
+        "teamId": "1029",
+        "name": "Red Wings"
+      },
+      "player": "#8 - Jeff  Taylor",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:43:38.357Z"
+}

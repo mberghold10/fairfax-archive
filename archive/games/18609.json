@@ -1,0 +1,130 @@
+{
+  "gameId": "18609",
+  "date": "2026-01-08",
+  "divId": 320,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1959",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1960",
+    "name": "4th Liners"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:44",
+      "team": {
+        "teamId": "1960",
+        "name": "4th Liners"
+      },
+      "scorer": "#21 - Jake  Truhlar",
+      "assist1": "#17 - Andrew  Golomb",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:03",
+      "team": {
+        "teamId": "1959",
+        "name": "Englewood"
+      },
+      "scorer": "#2 - Jason  Abkowitz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1959",
+        "name": "Englewood"
+      },
+      "scorer": "#55 - Brian  Merkl",
+      "assist1": "#48 - Isaac  Hale",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:15",
+      "team": {
+        "teamId": "1960",
+        "name": "4th Liners"
+      },
+      "scorer": "#37 - Jonny  Vu",
+      "assist1": "#4 - Campbell  Burns",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "1960",
+        "name": "4th Liners"
+      },
+      "scorer": "#3 - Colin  Ray",
+      "assist1": "#37 - Jonny  Vu",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:51",
+      "team": {
+        "teamId": "1959",
+        "name": "Englewood"
+      },
+      "player": "#28 - Charles  Hale",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1960",
+        "name": "4th Liners"
+      },
+      "player": "#19 - Joe  Beard",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:39",
+      "team": {
+        "teamId": "1960",
+        "name": "4th Liners"
+      },
+      "player": "#22 - Nick  Pierano",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:58:21.771Z"
+}

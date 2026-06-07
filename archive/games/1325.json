@@ -1,0 +1,128 @@
+{
+  "gameId": "1325",
+  "date": "2023-04-29",
+  "divId": 265,
+  "seasonName": "Winter 2022",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1630",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1631",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "1631",
+        "name": "Thunder"
+      },
+      "scorer": "#2 - Jennifer  Grotpeter",
+      "assist1": "#5 - Zachary  Graber",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:29",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#5 - Mike  Fottrell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:11",
+      "team": {
+        "teamId": "1631",
+        "name": "Thunder"
+      },
+      "scorer": "#22 - Michael  Huston",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1631",
+        "name": "Thunder"
+      },
+      "scorer": "#92 - Ryan  VandenHeuvel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:36",
+      "team": {
+        "teamId": "1631",
+        "name": "Thunder"
+      },
+      "scorer": "#79 - Sean  Longanecker",
+      "assist1": "#31 - Zach  Furness",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:50",
+      "team": {
+        "teamId": "1631",
+        "name": "Thunder"
+      },
+      "scorer": "#11 - Mark  Boyd",
+      "assist1": "#29 - James  Kim",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:12",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#13 - Aaron  Kirsch",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:22",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#16 - Cullen  Finley",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:00:10.494Z"
+}

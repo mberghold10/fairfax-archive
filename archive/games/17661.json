@@ -1,0 +1,104 @@
+{
+  "gameId": "17661",
+  "date": "2025-01-05",
+  "divId": 304,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1867",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1866",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:18",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#7 - Joseph  Hull",
+      "assist1": "#3 - Jeff  Regan",
+      "assist2": "#41 - Eugene  Livsics"
+    },
+    {
+      "period": "2",
+      "time": "00:11:48",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#41 - Eugene  Livsics",
+      "assist1": "#3 - Jeff  Regan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:36",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#3 - Jeff  Regan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:53",
+      "team": {
+        "teamId": "1866",
+        "name": "Swarm"
+      },
+      "scorer": "#46 - Dan  OConnell",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:26",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:42:03.912Z"
+}

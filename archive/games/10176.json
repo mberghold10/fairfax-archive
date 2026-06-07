@@ -1,0 +1,222 @@
+{
+  "gameId": "10176",
+  "date": "2016-11-26",
+  "divId": 154,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "986",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "987",
+    "name": "Englewood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 6,
+      "ot": 0,
+      "final": 8
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#61 - Fabian  Olaya",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:48",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:18",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#5 - Steve  Bradley",
+      "assist2": "#2 - Rod  Wade"
+    },
+    {
+      "period": "2",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:10",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#27 - Jonathan  Hitesma",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#2 - Rod  Wade",
+      "assist2": "#22 - Mike  Strycharz"
+    },
+    {
+      "period": "3",
+      "time": "00:09:38",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#7 - Joe  Hull",
+      "assist1": "#27 - Jonathan  Hitesma",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:45",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#27 - Jonathan  Hitesma",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:17",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#2 - Rod  Wade",
+      "assist1": "#15 - John  Cushing",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:02",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#7 - Joe  Hull",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": "#44 - Greg  Hanson"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:34",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "player": "#61 - Fabian  Olaya",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:28",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "player": "#27 - Jonathan  Hitesma",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:51",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "player": "#22 - Mike  Strycharz",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "player": "#61 - Fabian  Olaya",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:49",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "player": "#5 - Steve  Bradley",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:57:47.365Z"
+}

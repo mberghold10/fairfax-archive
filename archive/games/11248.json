@@ -1,0 +1,274 @@
+{
+  "gameId": "11248",
+  "date": "2018-02-07",
+  "divId": 171,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1092",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "1093",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 1,
+      "final": 6
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:48",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#2 - Bill  Morris",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:24",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#14 - Jude  Corina",
+      "assist1": "#69 - Robert  LaJeunesse",
+      "assist2": "#9 - Mark  Rudnicki"
+    },
+    {
+      "period": "1",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#19 - Joe  Dunn",
+      "assist1": "#28 - Alex  Henry",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:19",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#14 - Mike  Ferrone",
+      "assist1": "#19 - Joe  Dunn",
+      "assist2": "#22 - Brian  Dutton"
+    },
+    {
+      "period": "2",
+      "time": "00:02:32",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#12 - Peter  Plampin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:36",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#69 - Robert  LaJeunesse",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#2 - Bill  Morris",
+      "assist1": "#7 - Peter  Grose",
+      "assist2": "#19 - Andrew  Grose"
+    },
+    {
+      "period": "3",
+      "time": "00:03:01",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#2 - Bill  Morris",
+      "assist1": "#3 - Kareem  El-Alaily",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:01",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#19 - Joe  Dunn",
+      "assist1": "#28 - Alex  Henry",
+      "assist2": "#18 - Ari  Fingeroth"
+    },
+    {
+      "period": "3",
+      "time": "00:13:13",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#23 - Gordon  Scott",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#12 - Peter  Plampin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:58",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "player": "#40 - Mikhail  Serebrennikov",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:52",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "player": "#23 - Gordon  Scott",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:16",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "player": "#9 - Mark  Rudnicki",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:14",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "player": "#4 - Tad  Jose",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:54",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "player": "#10 - Patrick  Robichaud",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:54",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "player": "#10 - Patrick  Robichaud",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:54",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "player": "#10 - Patrick  Robichaud",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:54",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "player": "#10 - Patrick  Robichaud",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "player": "#15 - Chris  Yoko",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:19:00.660Z"
+}

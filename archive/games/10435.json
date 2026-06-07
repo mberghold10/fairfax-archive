@@ -1,0 +1,200 @@
+{
+  "gameId": "10435",
+  "date": "2017-04-16",
+  "divId": 165,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1058",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1059",
+    "name": "Blackhawks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:12",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "scorer": "#11 - Dennis  Nayandin",
+      "assist1": "#36 - Bill  Ludke",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:15",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "scorer": "#11 - Dennis  Nayandin",
+      "assist1": "#9 - Chris  Peterkin",
+      "assist2": "#8 - Brendan  Millice"
+    },
+    {
+      "period": "2",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "1058",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": "#7 - Evan  Wojtowicz",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1058",
+        "name": "North Stars"
+      },
+      "scorer": "#16 - Nurali  Jamani",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "scorer": "#9 - Chris  Peterkin",
+      "assist1": "#74 - Eric  Peterson",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "3",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1058",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": "#55 - Ben  Malakoff",
+      "assist2": "#63 - Steven  Yu"
+    },
+    {
+      "period": "3",
+      "time": "00:12:13",
+      "team": {
+        "teamId": "1058",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": "#81 - Bryan  Getson",
+      "assist2": "#13 - Matt  Jenkins"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:09",
+      "team": {
+        "teamId": "1058",
+        "name": "North Stars"
+      },
+      "player": "#5 - Joseph  Ney",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:03",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:37",
+      "team": {
+        "teamId": "1058",
+        "name": "North Stars"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:03",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "player": "#0 - Jude  Buckholz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:44",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:11:32.719Z"
+}

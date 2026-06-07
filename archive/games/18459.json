@@ -1,0 +1,259 @@
+{
+  "gameId": "18459",
+  "date": "2025-11-05",
+  "divId": 315,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1931",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "1928",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:12",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#44 - Campbell  Burns",
+      "assist1": "#15 - Jonathan  Vu",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:28",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#91 - Rob  Fischer",
+      "assist1": "#12 - Jon  Gregor",
+      "assist2": "#13 - Brian  Patterson"
+    },
+    {
+      "period": "1",
+      "time": "00:11:48",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#3 - Oleg  Kolodin",
+      "assist1": "#12 - Jon  Gregor",
+      "assist2": "#13 - Brian  Patterson"
+    },
+    {
+      "period": "1",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#27 - Chris  Balsley",
+      "assist2": "#57 - Derek  Morrissette"
+    },
+    {
+      "period": "2",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#11 - Brian  Maloney",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:00",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "scorer": "#3 - Kareem  El-Alaily",
+      "assist1": "#10 - Justin  Arbes",
+      "assist2": "#27 - Chris  Balsley"
+    },
+    {
+      "period": "2",
+      "time": "00:09:24",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#15 - Jonathan  Vu",
+      "assist1": "#7 - Andrew  Golomb",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:33",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "scorer": "#65 - Bobby  Woods-Corwin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:05",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#15 - Jonathan  Vu",
+      "assist1": "#10 - Jake  Truhlar",
+      "assist2": "#44 - Campbell  Burns"
+    },
+    {
+      "period": "3",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#65 - Bobby  Woods-Corwin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:43",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#10 - Jake  Truhlar",
+      "assist1": "#15 - Jonathan  Vu",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:29",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "scorer": "#13 - Brian  Patterson",
+      "assist1": "#12 - Jon  Gregor",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "player": "#69 - Aaron  Domnitch",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "player": "#21 - Erik  Bergman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:33",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "player": "#26 - Jeremy  Whang",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:33",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "player": "#15 - Jonathan  Vu",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:33",
+      "team": {
+        "teamId": "1928",
+        "name": "Ducks"
+      },
+      "player": "#10 - Jake  Truhlar",
+      "pim": 10,
+      "offense": "3rd man in",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:36",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "player": "#11 - Brian  Maloney",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:16",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "player": "#24 - Justin  Thompson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:53:57.117Z"
+}

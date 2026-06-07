@@ -1,0 +1,121 @@
+{
+  "gameId": "10287",
+  "date": "2017-02-11",
+  "divId": 156,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1000",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1001",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:11",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:21",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#88 - Matt  Tiede",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:41",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "scorer": "#68 - Jeff  Robins",
+      "assist1": "#14 - Paul  Tourbaf",
+      "assist2": "#3 - Tradd  Dozier"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:22",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "player": "#30 - Jim  Van Horn",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "player": "#68 - Jeff  Robins",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:44",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "player": "#79 - Jeff  Vandenberghe",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:18",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "player": "#38 - Kurt  Frulla Jr",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:00:51.479Z"
+}

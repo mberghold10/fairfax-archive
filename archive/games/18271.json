@@ -1,0 +1,130 @@
+{
+  "gameId": "18271",
+  "date": "2025-07-17",
+  "divId": 316,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1938",
+    "name": "Anonymous"
+  },
+  "away": {
+    "teamId": "1934",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:34",
+      "team": {
+        "teamId": "1934",
+        "name": "Goons"
+      },
+      "scorer": "#18 - Mike  Sharp",
+      "assist1": "#76 - Mike  Floyd",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:36",
+      "team": {
+        "teamId": "1934",
+        "name": "Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": "#76 - Mike  Floyd",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:21",
+      "team": {
+        "teamId": "1934",
+        "name": "Goons"
+      },
+      "scorer": "#96 - Chris  Beck",
+      "assist1": "#44 - Mick  Ellsworth",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1938",
+        "name": "Anonymous"
+      },
+      "scorer": "#27 - Rob  Helfant",
+      "assist1": "#53 - Don  Modder",
+      "assist2": "#3 - Tom  Anwyll"
+    },
+    {
+      "period": "3",
+      "time": "00:09:54",
+      "team": {
+        "teamId": "1934",
+        "name": "Goons"
+      },
+      "scorer": "#44 - Mick  Ellsworth",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "1938",
+        "name": "Anonymous"
+      },
+      "player": "#28 - Sean  McGarry",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:41",
+      "team": {
+        "teamId": "1934",
+        "name": "Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:44",
+      "team": {
+        "teamId": "1934",
+        "name": "Goons"
+      },
+      "player": "#76 - Mike  Floyd",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:54:29.010Z"
+}

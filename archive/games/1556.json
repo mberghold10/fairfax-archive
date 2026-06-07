@@ -1,0 +1,195 @@
+{
+  "gameId": "1556",
+  "date": "2025-06-15",
+  "divId": 309,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1889",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1888",
+    "name": "Hershey Beers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:36",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#4 - Jeff  Goldberg",
+      "assist1": "#92 - Daniel  Horner",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:29",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#48 - Kris  Winder",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#55 - Evan  Martin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#93 - Robert  Wagner",
+      "assist1": "#22 - Amir  Tahami",
+      "assist2": "#87 - Ryan  Young"
+    },
+    {
+      "period": "4",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#78 - Ramzi  Farah",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:54",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "player": "#87 - Ryan  Young",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:59",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:59",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "player": "#39 - Jim  DeLaet",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "player": "#8 - Tim  Lo",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:00",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "player": "#8 - Reid  Maki",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "player": "#1 - Thomas  Newberg",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:08:24",
+      "team": {
+        "teamId": "1888",
+        "name": "Hershey Beers"
+      },
+      "player": "#43 - James J Kim",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:47:16.367Z"
+}

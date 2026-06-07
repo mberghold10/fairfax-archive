@@ -1,0 +1,117 @@
+{
+  "gameId": "13873",
+  "date": "2020-12-13",
+  "divId": 223,
+  "seasonName": "Fall 2020",
+  "mode": "regular",
+  "home": {
+    "teamId": "1408",
+    "name": "Old Goats"
+  },
+  "away": {
+    "teamId": "1397",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1397",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#9 - Rob  Wittman",
+      "assist1": "#0 - Ruben  Garcia",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "1408",
+        "name": "Old Goats"
+      },
+      "scorer": "#28 - Marty  Gryski",
+      "assist1": "#12 - David  OMalley",
+      "assist2": "#19 - Ira  Keltz"
+    },
+    {
+      "period": "1",
+      "time": "00:02:46",
+      "team": {
+        "teamId": "1408",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#17 - Dan  Pol",
+      "assist2": "#4 - Steve  Bradley"
+    },
+    {
+      "period": "1",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "1397",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#11 - TJ  Dougherty",
+      "assist1": "#2 - Tom  Keith",
+      "assist2": "#0 - Ruben  Garcia"
+    },
+    {
+      "period": "2",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1408",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "1408",
+        "name": "Old Goats"
+      },
+      "player": "#98 - Robert  Shaw",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1397",
+        "name": "Ice Dogs"
+      },
+      "player": "#16 - Cooper  Branham",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:18:32.821Z"
+}

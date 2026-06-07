@@ -1,0 +1,185 @@
+{
+  "gameId": "12260",
+  "date": "2018-12-12",
+  "divId": 194,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1234",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1229",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 4,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#28 - Pete  Sandness",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:44",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "scorer": "#28 - Pete  Sandness",
+      "assist1": "#2 - Peter  OKeefe",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#18 - Sean  Gallucci",
+      "assist1": "#13 - Mike  Carew",
+      "assist2": "#9 - Sam  Ziesler"
+    },
+    {
+      "period": "2",
+      "time": "00:06:18",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#13 - Mike  Carew",
+      "assist1": "#55 - Mark  Chapman",
+      "assist2": "#15 - Todd  Martin"
+    },
+    {
+      "period": "2",
+      "time": "00:12:37",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#550 - Bill  MacIntyre",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:34",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#13 - Mike  Carew",
+      "assist1": "#4 - Bruce  Baltas",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#2 - Peter  OKeefe",
+      "assist2": "#25 - Bob  Banasik"
+    },
+    {
+      "period": "3",
+      "time": "00:04:26",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#24 - Steve  Dolski",
+      "assist1": "#18 - Sean  Gallucci",
+      "assist2": "#5 - Chris  Marotta"
+    },
+    {
+      "period": "3",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "scorer": "#28 - Pete  Sandness",
+      "assist1": "#11 - Bryan  Maloney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:49",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#18 - Sean  Gallucci",
+      "assist1": "#4 - Bruce  Baltas",
+      "assist2": "#13 - Mike  Carew"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "player": "#18 - Sean  Gallucci",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:18",
+      "team": {
+        "teamId": "1229",
+        "name": "Bruins"
+      },
+      "player": "#27 - Chris  Balsley",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:16",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "player": "#550 - Bill  MacIntyre",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:47:27.723Z"
+}

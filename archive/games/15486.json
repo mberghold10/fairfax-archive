@@ -1,0 +1,216 @@
+{
+  "gameId": "15486",
+  "date": "2022-11-16",
+  "divId": 262,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1615",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "1613",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 3,
+      "ot": 0,
+      "final": 8
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:33",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "scorer": "#16 - Peter  OKeefe",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:29",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#13 - Ben  Aring",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": "#6 - Kevin  Elfenbein"
+    },
+    {
+      "period": "1",
+      "time": "00:10:16",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "scorer": "#27 - Chris  Balsley",
+      "assist1": "#70 - David  Fitzgerald",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:49",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#13 - Ben  Aring",
+      "assist1": "#36 - William  Ludke",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:37",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#70 - David  Fitzgerald",
+      "assist2": "#16 - Peter  OKeefe"
+    },
+    {
+      "period": "2",
+      "time": "00:06:09",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#6 - Kevin  Elfenbein",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:43",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#70 - David  Fitzgerald",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#56 - Ryan  Tyler",
+      "assist2": "#78 - Noe  Hatchuel"
+    },
+    {
+      "period": "2",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "scorer": "#16 - Peter  OKeefe",
+      "assist1": "#27 - Chris  Balsley",
+      "assist2": "#8 - Peter  Boone"
+    },
+    {
+      "period": "3",
+      "time": "00:03:15",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#6 - Kevin  Elfenbein",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:35",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#12 - Sami  Kymalainen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "scorer": "#27 - Chris  Balsley",
+      "assist1": "#70 - David  Fitzgerald",
+      "assist2": "#16 - Peter  OKeefe"
+    },
+    {
+      "period": "3",
+      "time": "00:09:40",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "scorer": "#16 - Peter  OKeefe",
+      "assist1": "#70 - David  Fitzgerald",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#18 - Samson  Chu",
+      "assist2": "#32 - Simon  Flom"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "player": "#24 - Justin  Thompson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:26",
+      "team": {
+        "teamId": "1615",
+        "name": "Bruins"
+      },
+      "player": "#65 - Bobby  Woods-Corwin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:55:21.680Z"
+}

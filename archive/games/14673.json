@@ -1,0 +1,115 @@
+{
+  "gameId": "14673",
+  "date": "2022-03-13",
+  "divId": 243,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1506",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1502",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1506",
+        "name": "Angry Moose"
+      },
+      "scorer": "#77 - William  OBrian",
+      "assist1": "#21 - Kevin  Lockland",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:21",
+      "team": {
+        "teamId": "1506",
+        "name": "Angry Moose"
+      },
+      "scorer": "#17 - Anthony  Vitucci",
+      "assist1": "#8 - Elliott  Yang",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:57",
+      "team": {
+        "teamId": "1506",
+        "name": "Angry Moose"
+      },
+      "scorer": "#15 - Kevin  Szczepanski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:51",
+      "team": {
+        "teamId": "1502",
+        "name": "Dragons"
+      },
+      "scorer": "#84 - Mike  Lowe",
+      "assist1": "#94 - Michael  Starego",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "1506",
+        "name": "Angry Moose"
+      },
+      "scorer": "#17 - Anthony  Vitucci",
+      "assist1": "#8 - Elliott  Yang",
+      "assist2": "#13 - Nick  Burton"
+    },
+    {
+      "period": "3",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1502",
+        "name": "Dragons"
+      },
+      "scorer": "#3 - Ilana  Bell",
+      "assist1": "#95 - Mick  Starego",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:10:03",
+      "team": {
+        "teamId": "1502",
+        "name": "Dragons"
+      },
+      "player": "#68 - Matt  Taylor",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:33:32.115Z"
+}

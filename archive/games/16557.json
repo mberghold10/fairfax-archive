@@ -1,0 +1,169 @@
+{
+  "gameId": "16557",
+  "date": "2023-11-12",
+  "divId": 282,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1731",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1737",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:47",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "scorer": "#79 - Dave  Gerstner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "1731",
+        "name": "Flying Circus"
+      },
+      "scorer": "#66 - Chris  Yoko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:13",
+      "team": {
+        "teamId": "1731",
+        "name": "Flying Circus"
+      },
+      "scorer": "#8 - Dan  Brehm",
+      "assist1": "#15 - Mike  Hempen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:32",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "scorer": "#76 - John  Ellison",
+      "assist1": "#83 - Brandon  Barhorst",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:43",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "scorer": "#79 - Dave  Gerstner",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "player": "#79 - Dave  Gerstner",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:55",
+      "team": {
+        "teamId": "1731",
+        "name": "Flying Circus"
+      },
+      "player": "#15 - Mike  Hempen",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1731",
+        "name": "Flying Circus"
+      },
+      "player": "#66 - Chris  Yoko",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:17",
+      "team": {
+        "teamId": "1731",
+        "name": "Flying Circus"
+      },
+      "player": "#66 - Chris  Yoko",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:53",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "player": "#39 - Steve  Hedger",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:40",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "player": "#9 - Rick  Cole",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:18:20.993Z"
+}

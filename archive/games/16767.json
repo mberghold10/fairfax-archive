@@ -1,0 +1,108 @@
+{
+  "gameId": "16767",
+  "date": "2024-02-19",
+  "divId": 280,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1725",
+    "name": "Bottle Caps"
+  },
+  "away": {
+    "teamId": "1723",
+    "name": "Toronto"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "1723",
+        "name": "Toronto"
+      },
+      "scorer": "#67 - John  Krotzer",
+      "assist1": "#14 - Dave  Fisher",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "1725",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#75 - Paul  Barber",
+      "assist1": "#77 - Trevor  Boynton",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:45",
+      "team": {
+        "teamId": "1723",
+        "name": "Toronto"
+      },
+      "scorer": "#26 - Patrick  Love",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "1723",
+        "name": "Toronto"
+      },
+      "player": "#33 - Greg  Kowalski",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1725",
+        "name": "Bottle Caps"
+      },
+      "player": "#11 - Greg  Wilburn",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:57",
+      "team": {
+        "teamId": "1723",
+        "name": "Toronto"
+      },
+      "player": "#26 - Patrick  Love",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:16:47.155Z"
+}

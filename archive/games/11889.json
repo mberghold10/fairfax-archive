@@ -1,0 +1,132 @@
+{
+  "gameId": "11889",
+  "date": "2018-08-04",
+  "divId": 185,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1175",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1179",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:36",
+      "team": {
+        "teamId": "1179",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#5 - Luke  Streng",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": "#71 - Dan  Cosentino"
+    },
+    {
+      "period": "1",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1179",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#51 - Pat  Nealon",
+      "assist1": "#71 - Dan  Cosentino",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:57",
+      "team": {
+        "teamId": "1175",
+        "name": "Red Devils"
+      },
+      "scorer": "#93 - Wally  Rusinak",
+      "assist1": "#21 - Graham  Pough",
+      "assist2": "#4 - John  Dandeneau"
+    },
+    {
+      "period": "3",
+      "time": "00:11:04",
+      "team": {
+        "teamId": "1179",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#4 - Paul  Cicchetti",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1175",
+        "name": "Red Devils"
+      },
+      "player": "#93 - Wally  Rusinak",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "1179",
+        "name": "Blue Crabs"
+      },
+      "player": "#5 - Luke  Streng",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1175",
+        "name": "Red Devils"
+      },
+      "player": "#400 - Charlie  Miks",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:58",
+      "team": {
+        "teamId": "1175",
+        "name": "Red Devils"
+      },
+      "player": "#400 - Charlie  Miks",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:36:24.570Z"
+}

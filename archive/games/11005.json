@@ -1,0 +1,174 @@
+{
+  "gameId": "11005",
+  "date": "2017-11-08",
+  "divId": 171,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1092",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "1094",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 5,
+      "p3": 1,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:06",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#22 - Nate  Harrison",
+      "assist1": "#15 - Todd  Martin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#18 - Sean  Gallucci",
+      "assist1": "#15 - Todd  Martin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:32",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#0 - Robert  Richard",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:45",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#22 - Nate  Harrison",
+      "assist1": "#91 - Rob  Fischer",
+      "assist2": "#18 - Sean  Gallucci"
+    },
+    {
+      "period": "2",
+      "time": "00:12:19",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#15 - Todd  Martin",
+      "assist1": "#18 - Sean  Gallucci",
+      "assist2": "#0 - Robert  Richard"
+    },
+    {
+      "period": "2",
+      "time": "00:13:44",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#91 - Rob  Fischer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:40",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:00",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#18 - Sean  Gallucci",
+      "assist1": "#91 - Rob  Fischer",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:48",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "player": "#28 - Konstantin  Silov",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:43",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "player": "#19 - Joe  Dunn",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:18:38.585Z"
+}

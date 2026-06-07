@@ -1,0 +1,256 @@
+{
+  "gameId": "1454",
+  "date": "2024-11-08",
+  "divId": 286,
+  "seasonName": "Summer 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1759",
+    "name": "Kings"
+  },
+  "away": {
+    "teamId": "1756",
+    "name": "4th Liners"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:01",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "scorer": "#10 - Ryan  Cox",
+      "assist1": "#43 - Anthony  Federico",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:55",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "scorer": "#8 - David  Stagaj",
+      "assist1": "#43 - Anthony  Federico",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:30",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "scorer": "#8 - David  Stagaj",
+      "assist1": "#43 - Anthony  Federico",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:23",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "scorer": "#25 - Jared  Civarz",
+      "assist1": "#21 - Jake  Truhlar",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:20",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "scorer": "#7 - Jonny  Vu",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:01",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "scorer": "#43 - Anthony  Federico",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:03",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "scorer": "#25 - Jared  Civarz",
+      "assist1": "#7 - Jonny  Vu",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "player": "#25 - Jared  Civarz",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:14",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "player": "#14 - Alex  Bronson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:38",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "player": "#15 - Charles  Lawler",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:16",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "player": "#1 - Brian  Lee",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:16",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "player": "#21 - Jake  Truhlar",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:36",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "player": "#12 - Chris  Yoko",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:20",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "player": "#12 - Chris  Yoko",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "player": "#17 - Brandon  Nolan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "player": "#25 - Jared  Civarz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:32",
+      "team": {
+        "teamId": "1759",
+        "name": "Kings"
+      },
+      "player": "#64 - Derek  Bluth",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:32",
+      "team": {
+        "teamId": "1756",
+        "name": "4th Liners"
+      },
+      "player": "#170 - Nick  Peraino",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:23:39.523Z"
+}

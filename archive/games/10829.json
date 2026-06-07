@@ -1,0 +1,108 @@
+{
+  "gameId": "10829",
+  "date": "2017-08-12",
+  "divId": 167,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1067",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1068",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:40",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#25 - David  Halsted",
+      "assist1": "#19 - Eli  Zink",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:32",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#13 - Nick  Burton",
+      "assist1": "#19 - Eli  Zink",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:38",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#25 - David  Halsted",
+      "assist1": "#13 - Nick  Burton",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1068",
+        "name": "Lightning"
+      },
+      "player": "#4 - Matt  Gelman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1068",
+        "name": "Lightning"
+      },
+      "player": "#4 - Matt  Gelman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:49",
+      "team": {
+        "teamId": "1068",
+        "name": "Lightning"
+      },
+      "player": "#7 - Ian  Stack",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:14:45.080Z"
+}

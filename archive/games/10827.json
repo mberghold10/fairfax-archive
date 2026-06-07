@@ -1,0 +1,121 @@
+{
+  "gameId": "10827",
+  "date": "2017-08-05",
+  "divId": 167,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1069",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1067",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:49",
+      "team": {
+        "teamId": "1069",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#87 - Freddy  Barnes",
+      "assist1": "#14 - John  Pace",
+      "assist2": "#5 - Lucas  Streng"
+    },
+    {
+      "period": "1",
+      "time": "00:11:21",
+      "team": {
+        "teamId": "1069",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#71 - Dan  Cosentino",
+      "assist1": "#2 - Todd  Mariono",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "1069",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#87 - Freddy  Barnes",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "player": "#0 - Jory  Rubenstein",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:58",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "player": "#0 - Jory  Rubenstein",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1069",
+        "name": "Blue Crabs"
+      },
+      "player": "#2 - Todd  Mariono",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:03",
+      "team": {
+        "teamId": "1069",
+        "name": "Blue Crabs"
+      },
+      "player": "#14 - John  Pace",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:14:43.124Z"
+}

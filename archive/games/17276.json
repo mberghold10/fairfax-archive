@@ -1,0 +1,178 @@
+{
+  "gameId": "17276",
+  "date": "2024-09-29",
+  "divId": 288,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1770",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1771",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:04",
+      "team": {
+        "teamId": "1770",
+        "name": "Rink Rats"
+      },
+      "scorer": "#36 - Steve  Morra",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:20",
+      "team": {
+        "teamId": "1771",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#40 - Francesco  Muss",
+      "assist1": "#121 - Mason  Quesenberry",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:57",
+      "team": {
+        "teamId": "1771",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#89 - Dylan  Thomas",
+      "assist1": "#15 - Carlos  Novoa",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:18",
+      "team": {
+        "teamId": "1770",
+        "name": "Rink Rats"
+      },
+      "scorer": "#13 - John  Bereza",
+      "assist1": "#33 - Zach  Sowinski",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "1771",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#89 - Dylan  Thomas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:10",
+      "team": {
+        "teamId": "1770",
+        "name": "Rink Rats"
+      },
+      "scorer": "#36 - Steve  Morra",
+      "assist1": "#37 - TJ  Wolf",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:49",
+      "team": {
+        "teamId": "1770",
+        "name": "Rink Rats"
+      },
+      "scorer": "#33 - Zach  Sowinski",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:38",
+      "team": {
+        "teamId": "1770",
+        "name": "Rink Rats"
+      },
+      "player": "#33 - Zach  Sowinski",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:03",
+      "team": {
+        "teamId": "1771",
+        "name": "Jurassic Puck"
+      },
+      "player": "#38 - Keith  Forsythe",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1771",
+        "name": "Jurassic Puck"
+      },
+      "player": "#40 - Francesco  Muss",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:06",
+      "team": {
+        "teamId": "1770",
+        "name": "Rink Rats"
+      },
+      "player": "#59 - Jared  Trevethan",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:57",
+      "team": {
+        "teamId": "1770",
+        "name": "Rink Rats"
+      },
+      "player": "#23 - Dan  Bardo",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:25:53.330Z"
+}

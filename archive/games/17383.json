@@ -1,0 +1,93 @@
+{
+  "gameId": "17383",
+  "date": "2024-08-13",
+  "divId": 294,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1800",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1797",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1797",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#31 - Sam  Branham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "1797",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:51",
+      "team": {
+        "teamId": "1797",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#67 - Andrew  Miller",
+      "assist1": "#9 - Paul  Moretti",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:12:49",
+      "team": {
+        "teamId": "1797",
+        "name": "Ice Dogs"
+      },
+      "player": "#21 - Steve  Kaplan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:31:49.142Z"
+}

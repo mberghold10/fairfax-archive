@@ -1,0 +1,104 @@
+{
+  "gameId": "12593",
+  "date": "2019-02-19",
+  "divId": 196,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1242",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1245",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:54",
+      "team": {
+        "teamId": "1242",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#21 - Austin  Orchard",
+      "assist1": "#3 - Frank  Thomason",
+      "assist2": "#44 - Jim  McGovern"
+    },
+    {
+      "period": "1",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1242",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#20 - Bao  Pham",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1242",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#20 - Bao  Pham",
+      "assist2": "#21 - Austin  Orchard"
+    },
+    {
+      "period": "2",
+      "time": "00:13:33",
+      "team": {
+        "teamId": "1242",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": "#48 - Randy  Sasai"
+    },
+    {
+      "period": "3",
+      "time": "00:02:17",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#34 - Marty  Gryski",
+      "assist1": "#36 - Matt  Michelson",
+      "assist2": "#15 - Tom  Sgroi"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:44",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "player": "#23 - Dick  Deitos",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:50:43.084Z"
+}

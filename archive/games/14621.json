@@ -1,0 +1,243 @@
+{
+  "gameId": "14621",
+  "date": "2022-03-07",
+  "divId": 242,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1498",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1500",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:04",
+      "team": {
+        "teamId": "1498",
+        "name": "Avalanche"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": "#33 - Steven  Terenzlo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "1500",
+        "name": "Chiefs"
+      },
+      "scorer": "#18 - Michael  Dewhirst",
+      "assist1": "#42 - Dave  Hagemeier",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "1498",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": "#33 - Steven  Terenzlo",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:42",
+      "team": {
+        "teamId": "1500",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": "#67 - Ivan  Dubrovski",
+      "assist2": "#51 - Eddy  Lucas"
+    },
+    {
+      "period": "3",
+      "time": "00:04:46",
+      "team": {
+        "teamId": "1498",
+        "name": "Avalanche"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:50",
+      "team": {
+        "teamId": "1500",
+        "name": "Chiefs"
+      },
+      "scorer": "#91 - Sean  Morrow",
+      "assist1": "#12 - Chris  Yoko",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:50",
+      "team": {
+        "teamId": "1500",
+        "name": "Chiefs"
+      },
+      "scorer": "#18 - Michael  Dewhirst",
+      "assist1": "#42 - Dave  Hagemeier",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1498",
+        "name": "Avalanche"
+      },
+      "player": "#77 - Caleb  Sohl",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:56",
+      "team": {
+        "teamId": "1500",
+        "name": "Chiefs"
+      },
+      "player": "#12 - Chris  Yoko",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:01",
+      "team": {
+        "teamId": "1500",
+        "name": "Chiefs"
+      },
+      "player": "#4 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:55",
+      "team": {
+        "teamId": "1498",
+        "name": "Avalanche"
+      },
+      "player": "#19 - James  Howe",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:40",
+      "team": {
+        "teamId": "1498",
+        "name": "Avalanche"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1500",
+        "name": "Chiefs"
+      },
+      "player": "#12 - Chris  Yoko",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1500",
+        "name": "Chiefs"
+      },
+      "player": "#12 - Chris  Yoko",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:35",
+      "team": {
+        "teamId": "1498",
+        "name": "Avalanche"
+      },
+      "player": "#10 - Kevin  Free",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:40",
+      "team": {
+        "teamId": "1498",
+        "name": "Avalanche"
+      },
+      "player": "#33 - Steven  Terenzlo",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:40",
+      "team": {
+        "teamId": "1498",
+        "name": "Avalanche"
+      },
+      "player": "#77 - Caleb  Sohl",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:31:54.146Z"
+}

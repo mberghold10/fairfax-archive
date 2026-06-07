@@ -1,0 +1,143 @@
+{
+  "gameId": "11968",
+  "date": "2018-09-02",
+  "divId": 180,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1146",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1148",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:32",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#10 - Matt  Galen",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": "#78 - Noe  Natchuel"
+    },
+    {
+      "period": "1",
+      "time": "00:10:35",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:32",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:24",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "scorer": "#3 - Kareem  El-Alaily",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:18",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "scorer": "#99 - Joseph  Tierney",
+      "assist1": "#32 - Aaron  Dobbs",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:01",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "player": "#14 - Jude  Corina",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:44",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "player": "#5 - Peter  Boone",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:43",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "player": "#9 - Mark  Rudnicki",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:25",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#11 - Sam  Marchio",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:30:33.293Z"
+}

@@ -1,0 +1,174 @@
+{
+  "gameId": "13448",
+  "date": "2019-11-12",
+  "divId": 215,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1360",
+    "name": "Senators"
+  },
+  "away": {
+    "teamId": "1357",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 5,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "1360",
+        "name": "Senators"
+      },
+      "scorer": "#71 - Dan  Pol",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:02",
+      "team": {
+        "teamId": "1360",
+        "name": "Senators"
+      },
+      "scorer": "#8 - Bob  Shay",
+      "assist1": "#23 - Dick  Deitos",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:47",
+      "team": {
+        "teamId": "1357",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#47 - Jeff  Urlwin",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": "#32 - Brian  Freeman"
+    },
+    {
+      "period": "2",
+      "time": "00:12:24",
+      "team": {
+        "teamId": "1360",
+        "name": "Senators"
+      },
+      "scorer": "#3 - Jim  Van Dyke",
+      "assist1": "#10 - Matt  Johnson",
+      "assist2": "#57 - Howard  Uman"
+    },
+    {
+      "period": "3",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1357",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#47 - Jeff  Urlwin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:26",
+      "team": {
+        "teamId": "1357",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#47 - Jeff  Urlwin",
+      "assist1": "#32 - Brian  Freeman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:35",
+      "team": {
+        "teamId": "1357",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#47 - Jeff  Urlwin",
+      "assist1": "#48 - Randy  Sasai",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:19",
+      "team": {
+        "teamId": "1357",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#32 - Brian  Freeman",
+      "assist1": "#31 - Alex  Brown",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:39",
+      "team": {
+        "teamId": "1357",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#16 - Greg  Thomas",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1360",
+        "name": "Senators"
+      },
+      "player": "#57 - Howard  Uman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1357",
+        "name": "Maple Leafs"
+      },
+      "player": "#32 - Brian  Freeman",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:06",
+      "team": {
+        "teamId": "1360",
+        "name": "Senators"
+      },
+      "player": "#3 - Jim  Van Dyke",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:12:46.934Z"
+}

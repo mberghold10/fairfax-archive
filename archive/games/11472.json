@@ -1,0 +1,128 @@
+{
+  "gameId": "11472",
+  "date": "2018-03-25",
+  "divId": 178,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1135",
+    "name": "Triassic Puck"
+  },
+  "away": {
+    "teamId": "1136",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "scorer": "# -",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:00",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#9 - Greg  Sybersma",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:18:50",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#9 - Greg  Sybersma",
+      "assist1": "#35 - Brian  Embley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#13 - Aaron  Kirsch",
+      "assist1": "#74 - Matthew  Santos",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:15:30",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#40 - Evir  Thackaberry",
+      "assist1": "#67 - Andrew  Bennett",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "scorer": "# -",
+      "assist1": "#9 - Greg  Sybersma",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1135",
+        "name": "Triassic Puck"
+      },
+      "player": "#88 - Jason  Searight",
+      "pim": 2,
+      "offense": "High Sticking",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1136",
+        "name": "Thunder"
+      },
+      "player": "#11 - Jason  McKay",
+      "pim": 2,
+      "offense": "High Sticking",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:28:51.822Z"
+}

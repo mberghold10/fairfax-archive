@@ -1,0 +1,130 @@
+{
+  "gameId": "11545",
+  "date": "2018-05-29",
+  "divId": 179,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1142",
+    "name": "ers"
+  },
+  "away": {
+    "teamId": "1144",
+    "name": "Georgetown"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1142",
+        "name": "ers"
+      },
+      "scorer": "#15 - Todd  Martin",
+      "assist1": "#8 - Mark  Chapman",
+      "assist2": "#9 - Matt  Ellison"
+    },
+    {
+      "period": "3",
+      "time": "00:02:54",
+      "team": {
+        "teamId": "1144",
+        "name": "Georgetown"
+      },
+      "scorer": "#23 - Lucas  Karron",
+      "assist1": "#77 - Julia  Karron",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:50",
+      "team": {
+        "teamId": "1142",
+        "name": "ers"
+      },
+      "scorer": "#15 - Todd  Martin",
+      "assist1": "#8 - Mark  Chapman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:16",
+      "team": {
+        "teamId": "1142",
+        "name": "ers"
+      },
+      "scorer": "#8 - Mark  Chapman",
+      "assist1": "#27 - Stephen  Kraly",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1142",
+        "name": "ers"
+      },
+      "scorer": "#32 - Phil  Antoun",
+      "assist1": "#27 - Stephen  Kraly",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:53",
+      "team": {
+        "teamId": "1142",
+        "name": "ers"
+      },
+      "player": "#8 - Mark  Chapman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:15",
+      "team": {
+        "teamId": "1144",
+        "name": "Georgetown"
+      },
+      "player": "#55 - Joe  Myers",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "1142",
+        "name": "ers"
+      },
+      "player": "#8 - Mark  Chapman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:29:14.265Z"
+}

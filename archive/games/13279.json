@@ -1,0 +1,130 @@
+{
+  "gameId": "13279",
+  "date": "2019-11-19",
+  "divId": 208,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1318",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1317",
+    "name": "Outlaws"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "1318",
+        "name": "Jacks"
+      },
+      "scorer": "#2 - Jason  Abkowitz",
+      "assist1": "#14 - Dennis  Nayandin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:16",
+      "team": {
+        "teamId": "1318",
+        "name": "Jacks"
+      },
+      "scorer": "#14 - Dennis  Nayandin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1318",
+        "name": "Jacks"
+      },
+      "scorer": "#7 - Joe  Hall",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:06",
+      "team": {
+        "teamId": "1318",
+        "name": "Jacks"
+      },
+      "scorer": "#2 - Jason  Abkowitz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:16",
+      "team": {
+        "teamId": "1318",
+        "name": "Jacks"
+      },
+      "scorer": "#8 - Rod  Wade",
+      "assist1": "#32 - Joe  Cavucci",
+      "assist2": "#28 - Charles  Hale"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:56",
+      "team": {
+        "teamId": "1317",
+        "name": "Outlaws"
+      },
+      "player": "#0 - Trey  Perrone",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:46",
+      "team": {
+        "teamId": "1317",
+        "name": "Outlaws"
+      },
+      "player": "#14 - Jason  Brue",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1318",
+        "name": "Jacks"
+      },
+      "player": "#77 - Oleg  Nayandin",
+      "pim": 2,
+      "offense": "g int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:04:03.159Z"
+}

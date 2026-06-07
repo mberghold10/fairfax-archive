@@ -1,0 +1,254 @@
+{
+  "gameId": "11847",
+  "date": "2018-08-04",
+  "divId": 183,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1167",
+    "name": "Blackhawks"
+  },
+  "away": {
+    "teamId": "1163",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1163",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": "#16 - Chris  Kelly",
+      "assist2": "#11 - David  Kidd"
+    },
+    {
+      "period": "1",
+      "time": "00:03:45",
+      "team": {
+        "teamId": "1163",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#16 - Chris  Kelly",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:20",
+      "team": {
+        "teamId": "1163",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": "#16 - Chris  Kelly",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:52",
+      "team": {
+        "teamId": "1163",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#36 - Evan  Clinton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:27",
+      "team": {
+        "teamId": "1163",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#11 - David  Kidd",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "1163",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#15 - Scott  McConnell",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": "#10 - Mike  Carew"
+    },
+    {
+      "period": "3",
+      "time": "00:10:44",
+      "team": {
+        "teamId": "1163",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#15 - Scott  McConnell",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:03",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "player": "#8 - Brenden  Millice",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:57",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:57",
+      "team": {
+        "teamId": "1163",
+        "name": "British Bulldogs"
+      },
+      "player": "#36 - Evan  Clinton",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:43",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "player": "#24 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "player": "#27 - David  McAndrews",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "player": "#27 - David  McAndrews",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "player": "#27 - David  McAndrews",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1163",
+        "name": "British Bulldogs"
+      },
+      "player": "#15 - Scott  McConnell",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1163",
+        "name": "British Bulldogs"
+      },
+      "player": "#15 - Scott  McConnell",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1163",
+        "name": "British Bulldogs"
+      },
+      "player": "#15 - Scott  McConnell",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:33:59.265Z"
+}

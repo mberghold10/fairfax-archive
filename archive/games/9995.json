@@ -1,0 +1,197 @@
+{
+  "gameId": "9995",
+  "date": "2016-10-09",
+  "divId": 155,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "995",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "993",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#23 - Mike  OBrien",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:39",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "scorer": "#10 - Mike  Brahmey",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": "#27 - Jesse  Brand"
+    },
+    {
+      "period": "1",
+      "time": "00:07:42",
+      "team": {
+        "teamId": "995",
+        "name": "Coyotes"
+      },
+      "scorer": "#64 - Bob  Fischer",
+      "assist1": "#25 - Steve  Tamburo",
+      "assist2": "#8 - Reid  Maki"
+    },
+    {
+      "period": "1",
+      "time": "00:09:57",
+      "team": {
+        "teamId": "995",
+        "name": "Coyotes"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": "#64 - Bob  Fischer",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "player": "#10 - Mike  Brahmey",
+      "pim": 2,
+      "offense": "check from behind",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "player": "#10 - Mike  Brahmey",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:14",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "player": "#25 - Stan  Torgovitsky",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:57",
+      "team": {
+        "teamId": "995",
+        "name": "Coyotes"
+      },
+      "player": "#55 - Ken  Alm",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:57",
+      "team": {
+        "teamId": "995",
+        "name": "Coyotes"
+      },
+      "player": "#55 - Ken  Alm",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:04",
+      "team": {
+        "teamId": "995",
+        "name": "Coyotes"
+      },
+      "player": "#3 - Bill  Schultheiss",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:20",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "player": "#26 - Jerry  OBrien",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "995",
+        "name": "Coyotes"
+      },
+      "player": "#47 - Rob  Schumann",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:06",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "player": "#26 - Jerry  OBrien",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:58:43.825Z"
+}

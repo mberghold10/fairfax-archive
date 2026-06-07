@@ -1,0 +1,117 @@
+{
+  "gameId": "16511",
+  "date": "2024-01-22",
+  "divId": 279,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1718",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1721",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:11",
+      "team": {
+        "teamId": "1718",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#86 - Pat  McMahon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:12",
+      "team": {
+        "teamId": "1718",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#11 - Josh  Gilman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "1718",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#11 - Josh  Gilman",
+      "assist1": "#24 - Conor  Woods",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:02",
+      "team": {
+        "teamId": "1718",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#27 - Jamie  Prime",
+      "assist1": "#10 - Scott  Peterson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:20",
+      "team": {
+        "teamId": "1718",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#71 - Francis  Aul",
+      "assist1": "#86 - Pat  McMahon",
+      "assist2": "#19 - Nate  Rozelle"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "1721",
+        "name": "Mad Dogs"
+      },
+      "player": "#47 - Dave  Hitchcock",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:29",
+      "team": {
+        "teamId": "1721",
+        "name": "Mad Dogs"
+      },
+      "player": "#44 - Carlos  Gautier",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:15:46.978Z"
+}

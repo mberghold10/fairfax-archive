@@ -1,0 +1,169 @@
+{
+  "gameId": "16835",
+  "date": "2024-03-24",
+  "divId": 282,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1737",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1732",
+    "name": "Ers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:33",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "scorer": "#79 - Dave  Gerstner",
+      "assist1": "#39 - Steve  Hedger",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:49",
+      "team": {
+        "teamId": "1732",
+        "name": "Ers"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#19 - Joe  Dunn",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:17",
+      "team": {
+        "teamId": "1732",
+        "name": "Ers"
+      },
+      "scorer": "#96 - Chris  Beck",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": "#19 - Joe  Dunn"
+    },
+    {
+      "period": "2",
+      "time": "00:11:07",
+      "team": {
+        "teamId": "1732",
+        "name": "Ers"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#9 - Brian  Mehnert",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:06",
+      "team": {
+        "teamId": "1732",
+        "name": "Ers"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": "#96 - Chris  Beck",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:52",
+      "team": {
+        "teamId": "1732",
+        "name": "Ers"
+      },
+      "player": "#28 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "player": "#39 - Steve  Hedger",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "player": "#39 - Steve  Hedger",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1732",
+        "name": "Ers"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "player": "#5 - Chris  Howard",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1732",
+        "name": "Ers"
+      },
+      "player": "#55 - Mike  McKenney",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:19:22.035Z"
+}

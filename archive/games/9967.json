@@ -1,0 +1,269 @@
+{
+  "gameId": "9967",
+  "date": "2016-10-28",
+  "divId": 153,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "985",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "982",
+    "name": "ers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "scorer": "#80 - Jeremy  Feldman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:53",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:15",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#91 - Zane  Ziebell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:55",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "scorer": "#24 - Mike  Giardina",
+      "assist1": "#17 - Ryan  Bradshaw",
+      "assist2": "#44 - Mick  Ellsworth"
+    },
+    {
+      "period": "3",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "scorer": "#17 - Ryan  Bradshaw",
+      "assist1": "#7 - John  Dagley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:50",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#91 - Zane  Ziebell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "scorer": "#80 - Jeremy  Feldman",
+      "assist1": "#8 - Mark  Chapman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:21",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "player": "#660 - Alex  Gusev",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "player": "#7 - John  Dagley",
+      "pim": 2,
+      "offense": "check from behind",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "player": "#7 - John  Dagley",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "player": "#7 - John  Dagley",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "player": "#8 - Mark  Chapman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "player": "#660 - Alex  Gusev",
+      "pim": 2,
+      "offense": "check from behind",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "player": "#660 - Alex  Gusev",
+      "pim": 10,
+      "offense": "midconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "player": "#77 - Oleg  Nayandin",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "player": "#660 - Alex  Gusev",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:55",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "player": "#660 - Alex  Gusev",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:55",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "player": "#660 - Alex  Gusev",
+      "pim": 10,
+      "offense": "4 penalties",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:56:28.254Z"
+}

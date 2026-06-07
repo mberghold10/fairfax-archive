@@ -1,0 +1,143 @@
+{
+  "gameId": "11579",
+  "date": "2018-06-02",
+  "divId": 181,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1152",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1151",
+    "name": "Flying Circus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#20 - Richard  Utano",
+      "assist1": "#12 - Jason  Wakeman",
+      "assist2": "#25 - Stan  Torgovitsky"
+    },
+    {
+      "period": "2",
+      "time": "00:03:52",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "scorer": "#23 - Greg  Thomas",
+      "assist1": "#18 - Chris  Kelly",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:47",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "scorer": "#17 - John  Kemprowski",
+      "assist1": "#18 - Chris  Kelly",
+      "assist2": "#15 - Mike  Hempen"
+    },
+    {
+      "period": "3",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "scorer": "#7 - Brendan  Ford",
+      "assist1": "#18 - Chris  Kelly",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:29",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "scorer": "#2 - Marc  Sheinkin",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:28",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "player": "#7 - Ed  Wiener",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:03",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "player": "#44 - Greg  Powers",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "player": "#10 - Michael  Brahmey",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:31:06.580Z"
+}

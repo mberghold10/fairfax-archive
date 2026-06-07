@@ -1,0 +1,84 @@
+{
+  "gameId": "14870",
+  "date": "2022-05-21",
+  "divId": 256,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1577",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1580",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:46",
+      "team": {
+        "teamId": "1577",
+        "name": "Thunder"
+      },
+      "scorer": "#79 - Sean  Longanecker",
+      "assist1": "#29 - James  Kim",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1577",
+        "name": "Thunder"
+      },
+      "scorer": "#18 - Nathan  Rozelle",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:53",
+      "team": {
+        "teamId": "1580",
+        "name": "Red Wings"
+      },
+      "player": "#25 - James  Chu",
+      "pim": 2,
+      "offense": "Rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "1580",
+        "name": "Red Wings"
+      },
+      "player": "#22 - Trevor  Blair",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:48:18.002Z"
+}

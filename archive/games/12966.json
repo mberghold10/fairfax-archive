@@ -1,0 +1,187 @@
+{
+  "gameId": "12966",
+  "date": "2019-09-04",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1263",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1261",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:12",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "scorer": "#25 - Bob  Banasik",
+      "assist1": "#24 - Jamie  Belcastro",
+      "assist2": "#77 - Jim  Garzione"
+    },
+    {
+      "period": "1",
+      "time": "00:14:02",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "scorer": "#2 - Rod  Wade",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#13 - Randy  Foster",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:03",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "scorer": "#9 - Tony  Cusumano",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": "#2 - Peter  OKeefe"
+    },
+    {
+      "period": "2",
+      "time": "00:10:26",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "scorer": "#28 - Pete  Sandness",
+      "assist1": "#2 - Peter  OKeefe",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:53",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "scorer": "#44 - Greg  Hansen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "scorer": "#9 - Tony  Cusumano",
+      "assist1": "#2 - Peter  OKeefe",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:03",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "scorer": "#2 - Peter  OKeefe",
+      "assist1": "#20 - Bobby  Mervine",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:52",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "player": "#28 - Pete  Sandness",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "player": "#2 - Peter  OKeefe",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:48",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "player": "#27 - Chris  Balsley",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:10",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "player": "#44 - Greg  Hansen",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:54:08.279Z"
+}

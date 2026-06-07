@@ -1,0 +1,128 @@
+{
+  "gameId": "11937",
+  "date": "2018-07-22",
+  "divId": 187,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1191",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1192",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:44",
+      "team": {
+        "teamId": "1191",
+        "name": "Thunder"
+      },
+      "scorer": "#75 - Dany  Normandeau",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "scorer": "#24 - Matthew  Gerst",
+      "assist1": "#60 - Ed  Sugrue",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "scorer": "#68 - Matt  Taylor",
+      "assist1": "#98 - Carl  Tierney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1191",
+        "name": "Thunder"
+      },
+      "scorer": "#75 - Dany  Normandeau",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "scorer": "#6 - Hugo  Guzman",
+      "assist1": "#24 - Matthew  Gerst",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:28",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "scorer": "#9 - Maddy  Padgett",
+      "assist1": "#50 - Dieter  Kelly",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:19",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "player": "#12 - Joel  Zepeda",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:36",
+      "team": {
+        "teamId": "1191",
+        "name": "Thunder"
+      },
+      "player": "#23 - Eric  Vanhove",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:39:21.120Z"
+}

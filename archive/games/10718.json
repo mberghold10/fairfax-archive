@@ -1,0 +1,93 @@
+{
+  "gameId": "10718",
+  "date": "2017-07-09",
+  "divId": 163,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1043",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1044",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:54",
+      "team": {
+        "teamId": "1044",
+        "name": "Coyotes"
+      },
+      "scorer": "#25 - Steve  Tamburo",
+      "assist1": "#4 - Paul  Cicchetti",
+      "assist2": "#24 - James  Grasselli"
+    },
+    {
+      "period": "1",
+      "time": "00:14:22",
+      "team": {
+        "teamId": "1044",
+        "name": "Coyotes"
+      },
+      "scorer": "#24 - James  Grasselli",
+      "assist1": "#55 - Ken  Alm",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:46",
+      "team": {
+        "teamId": "1044",
+        "name": "Coyotes"
+      },
+      "scorer": "#13 - Mike  Carew",
+      "assist1": "#38 - Michael  Andrien",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "1044",
+        "name": "Coyotes"
+      },
+      "scorer": "#38 - Michael  Andrien",
+      "assist1": "#25 - Steve  Tamburo",
+      "assist2": "#64 - Bob  Fischer"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1044",
+        "name": "Coyotes"
+      },
+      "player": "#13 - Mike  Carew",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:09:32.928Z"
+}

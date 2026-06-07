@@ -1,0 +1,180 @@
+{
+  "gameId": "13366",
+  "date": "2019-11-11",
+  "divId": 212,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1341",
+    "name": "Sparks"
+  },
+  "away": {
+    "teamId": "1339",
+    "name": "Steamed Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:54",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "scorer": "#22 - Nick  Kolovos",
+      "assist1": "#16 - Josh  Brown",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:53",
+      "team": {
+        "teamId": "1339",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#43 - Steve  Sincavage",
+      "assist1": "#3 - Mat  White",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1339",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#32 - Dave  Garvis",
+      "assist1": "#90 - Andrew  Mayen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:57",
+      "team": {
+        "teamId": "1339",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#90 - Andrew  Mayen",
+      "assist1": "#32 - Dave  Garvis",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1339",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#2 - Elliott  Yang",
+      "assist1": "#24 - Mark  Paolicelli",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:16",
+      "team": {
+        "teamId": "1339",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#32 - Dave  Garvis",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:48",
+      "team": {
+        "teamId": "1339",
+        "name": "Steamed Crabs"
+      },
+      "player": "#19 - Angelo  Ponirakis",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1339",
+        "name": "Steamed Crabs"
+      },
+      "player": "#2 - Elliott  Yang",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1339",
+        "name": "Steamed Crabs"
+      },
+      "player": "#61 - Jake  Middel",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:55",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "player": "#42 - Ryan  Bruun",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:54",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "player": "#4 - Matt  Gelman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:58",
+      "team": {
+        "teamId": "1339",
+        "name": "Steamed Crabs"
+      },
+      "player": "#10 - Matthew  Allen",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:08:43.666Z"
+}

@@ -1,0 +1,174 @@
+{
+  "gameId": "15059",
+  "date": "2022-05-12",
+  "divId": 254,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1565",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1568",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 1,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:32",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "scorer": "#23 - Greg  Thomas",
+      "assist1": "#33 - Andy  Taylor",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:28",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Andy  Taylor",
+      "assist1": "#25 - Malcolm  Hyson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:59",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "scorer": "#24 - Jim  Behrend",
+      "assist1": "#23 - Greg  Thomas",
+      "assist2": "#22 - Ed  Gulakowski"
+    },
+    {
+      "period": "2",
+      "time": "00:10:44",
+      "team": {
+        "teamId": "1568",
+        "name": "Coyotes"
+      },
+      "scorer": "#36 - Brian  Lusby",
+      "assist1": "#42 - Adam  Russell",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1568",
+        "name": "Coyotes"
+      },
+      "scorer": "#55 - Ken  Alm",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:36",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "scorer": "#66 - Chris  Yoko",
+      "assist1": "#23 - Greg  Thomas",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:42",
+      "team": {
+        "teamId": "1568",
+        "name": "Coyotes"
+      },
+      "scorer": "#5 - Andy  Loggia",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": "#14 - John  Pace"
+    },
+    {
+      "period": "3",
+      "time": "00:12:39",
+      "team": {
+        "teamId": "1568",
+        "name": "Coyotes"
+      },
+      "scorer": "#64 - Bob  Fischer",
+      "assist1": "#42 - Adam  Russell",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:44",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "scorer": "#23 - Greg  Thomas",
+      "assist1": "#22 - Ed  Gulakowski",
+      "assist2": "#66 - Chris  Yoko"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:04",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:09",
+      "team": {
+        "teamId": "1568",
+        "name": "Coyotes"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:17",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "player": "#17 - John  Kemprowski",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:45:37.671Z"
+}

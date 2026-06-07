@@ -1,0 +1,174 @@
+{
+  "gameId": "13214",
+  "date": "2019-09-22",
+  "divId": 206,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1303",
+    "name": "Steamed Crabs"
+  },
+  "away": {
+    "teamId": "1302",
+    "name": "Triassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 4,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#10 - Matthew  Allen",
+      "assist1": "#61 - Jake  Middel",
+      "assist2": "#90 - Andrew  Mayen"
+    },
+    {
+      "period": "1",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#92 - Jamie  Street",
+      "assist1": "#2 - Elliott  Yang",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:58",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#11 - Joe  Janiak",
+      "assist1": "#92 - Jamie  Street",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:44",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#15 - Dave  Fisher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#92 - Caleb  Adams",
+      "assist1": "#10 - Radoslaw  Kaczor",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#92 - Caleb  Adams",
+      "assist1": "#27 - Mike  Fullen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:26",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#3 - Mat  White",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#90 - Andrew  Mayen",
+      "assist1": "#50 - Scott  Houghton",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:25",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#5 - Brandon  Jones",
+      "assist1": "#89 - Ben  Berghold",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:18",
+      "team": {
+        "teamId": "1303",
+        "name": "Steamed Crabs"
+      },
+      "player": "#50 - Scott  Houghton",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:51",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "player": "#89 - Ben  Berghold",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:02",
+      "team": {
+        "teamId": "1302",
+        "name": "Triassic Puck"
+      },
+      "player": "#5 - Brandon  Jones",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:02:27.445Z"
+}

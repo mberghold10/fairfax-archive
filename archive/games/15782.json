@@ -1,0 +1,167 @@
+{
+  "gameId": "15782",
+  "date": "2023-03-23",
+  "divId": 263,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1619",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1617",
+    "name": "Flying Circus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:03",
+      "team": {
+        "teamId": "1619",
+        "name": "Penguins"
+      },
+      "scorer": "#20 - Brent  Jefferson",
+      "assist1": "#250 - Bob  Banasik",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1619",
+        "name": "Penguins"
+      },
+      "scorer": "#10 - Brian  Land",
+      "assist1": "#250 - Bob  Banasik",
+      "assist2": "#7 - Dan  Ellert"
+    },
+    {
+      "period": "2",
+      "time": "00:13:46",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "scorer": "#8 - Dan  Brehm",
+      "assist1": "#2 - Marc  Sheinkin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:15",
+      "team": {
+        "teamId": "1619",
+        "name": "Penguins"
+      },
+      "scorer": "#10 - Brian  Land",
+      "assist1": "#28 - Geoff  Storchan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:47",
+      "team": {
+        "teamId": "1619",
+        "name": "Penguins"
+      },
+      "scorer": "#3 - John  Niemiec",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "scorer": "#17 - Jeff  Johnson",
+      "assist1": "#12 - Adam  Jungdahl",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:12",
+      "team": {
+        "teamId": "1619",
+        "name": "Penguins"
+      },
+      "player": "#20 - Brent  Jefferson",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:49",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "player": "#2 - Marc  Sheinkin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "1619",
+        "name": "Penguins"
+      },
+      "player": "#2 - Shawn  Hatch",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:57:23.914Z"
+}

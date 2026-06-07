@@ -1,0 +1,265 @@
+{
+  "gameId": "10546",
+  "date": "2017-06-18",
+  "divId": 164,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1050",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1051",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:26",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": "#10 - Matt  Johnson",
+      "assist2": "#98 - Bob  Shaw"
+    },
+    {
+      "period": "1",
+      "time": "00:01:41",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#23 - Dick  Deitos",
+      "assist2": "#98 - Bob  Shaw"
+    },
+    {
+      "period": "1",
+      "time": "00:09:36",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "scorer": "#10 - Rich  Scigaj",
+      "assist1": "#46 - Ian  Stack",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:52",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": "#8 - Bob  Shay",
+      "assist2": "#5 - Alex  Talalayevsky"
+    },
+    {
+      "period": "3",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "scorer": "#8 - Bob  Shay",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#8 - Bob  Shay",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "scorer": "#92 - Bryan  Diner",
+      "assist1": "#3 - Tradd  Dozier",
+      "assist2": "#26 - Philip  Hogan"
+    },
+    {
+      "period": "3",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#5 - Alex  Talalayevsky",
+      "assist2": "#23 - Dick  Deitos"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:59",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "player": "#5 - Alex  Talalayevsky",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:54",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "player": "#92 - Bryan  Diner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:08",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "player": "#37 - Nick  Desport",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "player": "#61 - Mike  Prame",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "player": "#61 - Mike  Prame",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "player": "#19 - Ira  Keltz",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:39",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:03",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "player": "#6 - Jon  Alford",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "player": "#46 - Ian  Stack",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:10:45.176Z"
+}

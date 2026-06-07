@@ -1,0 +1,130 @@
+{
+  "gameId": "16965",
+  "date": "2024-06-09",
+  "divId": 294,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1801",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1797",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:27",
+      "team": {
+        "teamId": "1801",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#16 - Greg  Thomas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:25",
+      "team": {
+        "teamId": "1801",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#8 - Elliott  Yang",
+      "assist1": "#51 - Bob  Sagusti",
+      "assist2": "#49 - Romano  Dickerson"
+    },
+    {
+      "period": "2",
+      "time": "00:09:01",
+      "team": {
+        "teamId": "1797",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#77 - Jeff  Wilken",
+      "assist1": "#67 - Andrew  Miller",
+      "assist2": "#6 - Bob  Friess"
+    },
+    {
+      "period": "3",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "1801",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#32 - Brian  Freeman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:03",
+      "team": {
+        "teamId": "1797",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#4 - Darren  Parsons",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "1797",
+        "name": "Ice Dogs"
+      },
+      "player": "#24 - Brian  Crossin",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:44",
+      "team": {
+        "teamId": "1801",
+        "name": "Maple Leafs"
+      },
+      "player": "#8 - Elliott  Yang",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:58",
+      "team": {
+        "teamId": "1797",
+        "name": "Ice Dogs"
+      },
+      "player": "#47 - David  Hitchcook",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:31:21.168Z"
+}

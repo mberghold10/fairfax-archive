@@ -1,0 +1,178 @@
+{
+  "gameId": "12659",
+  "date": "2019-05-05",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1262",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "1261",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 4,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#11 - Kevin  Powers",
+      "assist1": "#23 - Gordon  Scott",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:59",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#18 - Ari  Fingeroth",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:41",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "scorer": "#28 - Pete  Sandness",
+      "assist1": "#20 - Bobby  Mervine",
+      "assist2": "#25 - Bob  Banasik"
+    },
+    {
+      "period": "3",
+      "time": "00:00:39",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "scorer": "#28 - Pete  Sandness",
+      "assist1": "#9 - Tony  Cusumano",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "scorer": "#2 - Peter  OKeefe",
+      "assist1": "#28 - Pete  Sandness",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "scorer": "#28 - Pete  Sandness",
+      "assist1": "#9 - Tony  Cusumano",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:37",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "scorer": "#2 - Peter  OKeefe",
+      "assist1": "#9 - Tony  Cusumano",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:35",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:52",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:22",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#22 - Brian  Dutton",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:15",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "player": "#28 - Pete  Sandness",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:53:15.226Z"
+}

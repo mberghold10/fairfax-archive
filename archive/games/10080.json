@@ -1,0 +1,167 @@
+{
+  "gameId": "10080",
+  "date": "2016-10-16",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1023",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1021",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:41",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#4 - Pete  Van Aartrijk",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#4 - Pete  Van Aartrijk",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:41",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "scorer": "#6 - Eric  Rhoden",
+      "assist1": "#14 - Harvey  Denison",
+      "assist2": "#33 - Mike  Wagner"
+    },
+    {
+      "period": "3",
+      "time": "00:06:26",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "scorer": "#8 - Mike  Dmytrewycz",
+      "assist1": "#3 - Jordan  Ziegler",
+      "assist2": "#20 - George  Whelan"
+    },
+    {
+      "period": "3",
+      "time": "00:12:09",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:36",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#2 - Colin  Wakeman",
+      "assist1": "#7 - Dan  Miller",
+      "assist2": "#12 - Jason  Wakeman"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#14 - Harvey  Denison",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:28",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#20 - George  Whelan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:08",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#33 - Mike  Wagner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#32 - Clayton  Clyburn",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:17",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "player": "#24 - Thomas  OConnor",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:04:04.097Z"
+}

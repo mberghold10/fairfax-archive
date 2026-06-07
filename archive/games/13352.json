@@ -1,0 +1,143 @@
+{
+  "gameId": "13352",
+  "date": "2019-12-01",
+  "divId": 211,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1334",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1333",
+    "name": "River Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "1334",
+        "name": "Dragons"
+      },
+      "scorer": "#68 - Matt  Taylor",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:56",
+      "team": {
+        "teamId": "1334",
+        "name": "Dragons"
+      },
+      "scorer": "#95 - Mick  Starego",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1333",
+        "name": "River Rats"
+      },
+      "scorer": "#9 - Matt  Glassman",
+      "assist1": "#66 - Joel  Zepeda",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:35",
+      "team": {
+        "teamId": "1333",
+        "name": "River Rats"
+      },
+      "scorer": "#9 - Matt  Glassman",
+      "assist1": "#20 - Paul  Flood",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "1333",
+        "name": "River Rats"
+      },
+      "scorer": "#9 - Matt  Glassman",
+      "assist1": "#2 - Tom  Keith",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:47",
+      "team": {
+        "teamId": "1333",
+        "name": "River Rats"
+      },
+      "player": "#66 - Joel  Zepeda",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "1333",
+        "name": "River Rats"
+      },
+      "player": "#66 - Joel  Zepeda",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1334",
+        "name": "Dragons"
+      },
+      "player": "#95 - Mick  Starego",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:30",
+      "team": {
+        "teamId": "1334",
+        "name": "Dragons"
+      },
+      "player": "#4 - Josiah  Renton",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:07:39.214Z"
+}

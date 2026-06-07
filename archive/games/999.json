@@ -1,0 +1,134 @@
+{
+  "gameId": "999",
+  "date": "2019-04-07",
+  "divId": 197,
+  "seasonName": "Winter 2018",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1251",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1252",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "scorer": "#79 - Igor  Helman",
+      "assist1": "#94 - Michael  Starego",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "1252",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#14 - Mike  Ezike",
+      "assist1": "#17 - Justin  Cade",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "scorer": "#79 - Igor  Helman",
+      "assist1": "#40 - Brandon  Honeycutt",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "player": "#17 - Michael  Bagnall",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:31",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "player": "#50 - Dieter  Kelly",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "1252",
+        "name": "Blue Dogs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "player": "#68 - Matt  Taylor",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1252",
+        "name": "Blue Dogs"
+      },
+      "player": "#30 - Brent  Bolin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:52:18.247Z"
+}

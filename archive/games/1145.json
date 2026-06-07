@@ -1,0 +1,174 @@
+{
+  "gameId": "1145",
+  "date": "2021-07-18",
+  "divId": 230,
+  "seasonName": "Spring 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1439",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1440",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "scorer": "#18 - Nate  Rozelle",
+      "assist1": "#20 - Brendan  Furness",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:45",
+      "team": {
+        "teamId": "1440",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#72 - Darin  Martin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:01",
+      "team": {
+        "teamId": "1440",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#14 - Andrew  Prather",
+      "assist1": "#11 - Frank  Otto",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:48",
+      "team": {
+        "teamId": "1440",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#72 - Darin  Martin",
+      "assist1": "#77 - Scott  Peterson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:41",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "scorer": "#77 - Auston  Theis",
+      "assist1": "#18 - Nate  Rozelle",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:44",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "scorer": "#92 - Ryan  Vanden Heuvel",
+      "assist1": "#45 - Justin  Marks",
+      "assist2": "#29 - James  Kim"
+    },
+    {
+      "period": "3",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "1440",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#77 - Scott  Peterson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:24",
+      "team": {
+        "teamId": "1440",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#14 - Andrew  Prather",
+      "assist1": "#38 - Keith  Forsythe",
+      "assist2": "#72 - Darin  Martin"
+    },
+    {
+      "period": "3",
+      "time": "00:11:35",
+      "team": {
+        "teamId": "1440",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#77 - Scott  Peterson",
+      "assist1": "#14 - Andrew  Prather",
+      "assist2": "#72 - Darin  Martin"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1440",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#51 - Dillon  Schrock",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:41",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "player": "#18 - Nate  Rozelle",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "player": "#2 - Jen  Grotpeter",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:24:04.547Z"
+}

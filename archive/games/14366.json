@@ -1,0 +1,128 @@
+{
+  "gameId": "14366",
+  "date": "2021-09-11",
+  "divId": 238,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1487",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1486",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:05:38",
+      "team": {
+        "teamId": "1487",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:13",
+      "team": {
+        "teamId": "1487",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#50 - Steve  Lavery",
+      "assist1": "#13 - Aaron  Kirsch",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:10",
+      "team": {
+        "teamId": "1487",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#12 - Bert  Huser",
+      "assist1": "#13 - Aaron  Kirsch",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:29",
+      "team": {
+        "teamId": "1487",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": "#50 - Steve  Lavery",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:08",
+      "team": {
+        "teamId": "1487",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": "#50 - Steve  Lavery",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:11",
+      "team": {
+        "teamId": "1486",
+        "name": "Thunder"
+      },
+      "scorer": "#29 - James  Kim",
+      "assist1": "#37 - Christal  Cudworth",
+      "assist2": "#21 - Brendan  Williams"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:35",
+      "team": {
+        "teamId": "1487",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#50 - Steve  Lavery",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:47",
+      "team": {
+        "teamId": "1486",
+        "name": "Thunder"
+      },
+      "player": "#45 - Justin  Marks",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:29:38.192Z"
+}

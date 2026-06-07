@@ -1,0 +1,160 @@
+{
+  "gameId": "17221",
+  "date": "2024-08-25",
+  "divId": 287,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1761",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1760",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:23",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "scorer": "#0 - Curt  Tucker",
+      "assist1": "#24 - Thomas  Langpaul",
+      "assist2": "#17 - Maxim  Rinaldi"
+    },
+    {
+      "period": "2",
+      "time": "00:03:01",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "scorer": "#26 - Jeremy  Whang",
+      "assist1": "#4 - Dave  Sinniger",
+      "assist2": "#3 - Bobby  Woods-Corwin"
+    },
+    {
+      "period": "3",
+      "time": "00:09:45",
+      "team": {
+        "teamId": "1761",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#5 - Andy  Loggia",
+      "assist1": "#2 - Ari  Loggia",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:49",
+      "team": {
+        "teamId": "1761",
+        "name": "British Bulldogs"
+      },
+      "player": "#1 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:12",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "player": "#7 - Alex  Rinaldi",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:21",
+      "team": {
+        "teamId": "1761",
+        "name": "British Bulldogs"
+      },
+      "player": "#5 - Andy  Loggia",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "player": "#17 - Maxim  Rinaldi",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:14",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "player": "#26 - Jeremy  Whang",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:36",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:09",
+      "team": {
+        "teamId": "1760",
+        "name": "Chiefs"
+      },
+      "player": "#55 - Scott  Dullea",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:24:23.574Z"
+}

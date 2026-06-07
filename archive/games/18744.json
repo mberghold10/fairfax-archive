@@ -1,0 +1,143 @@
+{
+  "gameId": "18744",
+  "date": "2026-03-02",
+  "divId": 324,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1986",
+    "name": "Junkyard Dogs"
+  },
+  "away": {
+    "teamId": "1988",
+    "name": "Alers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1986",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#91 - Jason  Ross",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "scorer": "#37 - Josh  Savani",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "1986",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#91 - Jason  Ross",
+      "assist1": "#26 - Kjell  Crooke",
+      "assist2": "#31 - Sam  Branham"
+    },
+    {
+      "period": "2",
+      "time": "00:06:41",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "scorer": "#13 - Duane  Stefaniak",
+      "assist1": "#37 - Josh  Savani",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "scorer": "#13 - Duane  Stefaniak",
+      "assist1": "#88 - Afshawn  Towfighi",
+      "assist2": "#50 - Scott  Vecchione"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:27",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "player": "#48 - Kris  Winder",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:42",
+      "team": {
+        "teamId": "1986",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:41",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "player": "#8 - Tim  Lo",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1986",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#44 - Carlos  Gautier",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:03:29.661Z"
+}

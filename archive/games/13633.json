@@ -1,0 +1,180 @@
+{
+  "gameId": "13633",
+  "date": "2020-02-04",
+  "divId": 213,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1348",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1344",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "scorer": "#5 - Chris  Marotta",
+      "assist1": "#91 - Rob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:12",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "scorer": "#90 - Mark  Chapman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:53",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "scorer": "#91 - Rob  Fischer",
+      "assist1": "#24 - Steve  Dolski",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "scorer": "#71 - Colin  Shin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "scorer": "#90 - Mark  Chapman",
+      "assist1": "#11 - Kevin  Powers",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:29",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "scorer": "#5 - Chris  Marotta",
+      "assist1": "#21 - Andy  Heckmann",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:08",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:49",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "player": "#13 - Mike  Carew",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "player": "#24 - Steve  Dolski",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:21",
+      "team": {
+        "teamId": "1348",
+        "name": "Ducks"
+      },
+      "player": "#5 - Chris  Marotta",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:10:20.150Z"
+}

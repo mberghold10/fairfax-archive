@@ -1,0 +1,156 @@
+{
+  "gameId": "13844",
+  "date": "2020-10-29",
+  "divId": 222,
+  "seasonName": "Fall 2020",
+  "mode": "regular",
+  "home": {
+    "teamId": "1396",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1392",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#15 - Mark  Rudnicki",
+      "assist1": "#23 - Rick  Gorgone",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:16",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#34 - Chad  Fisher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "1396",
+        "name": "Islanders"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": "#23 - Scott  Richard",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "1396",
+        "name": "Islanders"
+      },
+      "scorer": "#23 - Scott  Richard",
+      "assist1": "#3 - Keith  McCabe",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:16",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#24 - Max  Alexeev",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:27",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "player": "#34 - Chad  Fisher",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:22",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:01",
+      "team": {
+        "teamId": "1396",
+        "name": "Islanders"
+      },
+      "player": "#19 - Jason  Long",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:31",
+      "team": {
+        "teamId": "1396",
+        "name": "Islanders"
+      },
+      "player": "#9 - Rick  Cole",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:19",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "player": "#13 - Bob  Seal",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:17:41.496Z"
+}

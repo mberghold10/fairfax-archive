@@ -1,0 +1,115 @@
+{
+  "gameId": "11454",
+  "date": "2018-02-24",
+  "divId": 177,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1134",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "1127",
+    "name": "Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1127",
+        "name": "Crabs"
+      },
+      "scorer": "#99 - Jason  Hernandez",
+      "assist1": "#2 - Elliott  Yang",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:32",
+      "team": {
+        "teamId": "1134",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#4 - Don  Sussman",
+      "assist1": "#93 - David  Taves",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "1127",
+        "name": "Crabs"
+      },
+      "scorer": "#24 - Mark  Paolicelli",
+      "assist1": "#90 - Andrew  Mayen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1134",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#77 - Jeff  Wilken",
+      "assist1": "#20 - Paul  Flood",
+      "assist2": "#93 - David  Taves"
+    },
+    {
+      "period": "3",
+      "time": "00:02:19",
+      "team": {
+        "teamId": "1134",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#36 - Brian  Lusby",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:02",
+      "team": {
+        "teamId": "1134",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#20 - Paul  Flood",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1127",
+        "name": "Crabs"
+      },
+      "player": "#22 - Trevor  Blair",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:27:16.557Z"
+}

@@ -1,0 +1,191 @@
+{
+  "gameId": "14516",
+  "date": "2021-11-18",
+  "divId": 246,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1521",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1524",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "1524",
+        "name": "Grey Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:37",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "scorer": "#15 - Mark  Rudnicki",
+      "assist1": "#13 - Bob  Seal",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:07",
+      "team": {
+        "teamId": "1524",
+        "name": "Grey Goons"
+      },
+      "scorer": "#11 - Dave  Brown",
+      "assist1": "#24 - Tom  Spiewak",
+      "assist2": "#49 - Greg  Mullen"
+    },
+    {
+      "period": "2",
+      "time": "00:11:49",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "scorer": "#28 - Geoff  Storchan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:32",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "scorer": "#10 - Brian  Land",
+      "assist1": "#20 - Brent  Jefferson",
+      "assist2": "#15 - Mark  Rudnicki"
+    },
+    {
+      "period": "3",
+      "time": "00:10:47",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "scorer": "#28 - Geoff  Storchan",
+      "assist1": "#10 - Brian  Land",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:10",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "scorer": "#24 - Max  Alexeev",
+      "assist1": "#20 - Brent  Jefferson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "1524",
+        "name": "Grey Goons"
+      },
+      "player": "#18 - Mike  Sharp",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:01:41",
+      "team": {
+        "teamId": "1524",
+        "name": "Grey Goons"
+      },
+      "player": "#38 - Eric  Mastromatto",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "player": "#25 - Jeff  Wojtala",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:42",
+      "team": {
+        "teamId": "1524",
+        "name": "Grey Goons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:58",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "player": "#55 - Tim  Dutcher",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:25",
+      "team": {
+        "teamId": "1524",
+        "name": "Grey Goons"
+      },
+      "player": "#24 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:36:10.594Z"
+}

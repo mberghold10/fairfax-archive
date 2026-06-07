@@ -1,0 +1,156 @@
+{
+  "gameId": "914",
+  "date": "2018-09-29",
+  "divId": 185,
+  "seasonName": "Summer 2018",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1179",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1174",
+    "name": "River Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "1174",
+        "name": "River Rats"
+      },
+      "scorer": "#24 - Austin  Ford",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:44",
+      "team": {
+        "teamId": "1174",
+        "name": "River Rats"
+      },
+      "scorer": "#19 - Kevin  Stammetti",
+      "assist1": "#7 - Dan  Miller",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "1179",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#71 - Dan  Cosentino",
+      "assist1": "#15 - Curt  Eastman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:43",
+      "team": {
+        "teamId": "1174",
+        "name": "River Rats"
+      },
+      "scorer": "#66 - Joel  Zepeda",
+      "assist1": "#19 - Kevin  Stammetti",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:12",
+      "team": {
+        "teamId": "1174",
+        "name": "River Rats"
+      },
+      "scorer": "#88 - John  Jepson",
+      "assist1": "#24 - Austin  Ford",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:51",
+      "team": {
+        "teamId": "1179",
+        "name": "Blue Crabs"
+      },
+      "player": "#87 - Freddy  Barnes",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1174",
+        "name": "River Rats"
+      },
+      "player": "#7 - Dan  Miller",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1179",
+        "name": "Blue Crabs"
+      },
+      "player": "#51 - Pat  Nealon",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1179",
+        "name": "Blue Crabs"
+      },
+      "player": "#6 - Bob  Friess",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1174",
+        "name": "River Rats"
+      },
+      "player": "#24 - Austin  Ford",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:36:59.253Z"
+}

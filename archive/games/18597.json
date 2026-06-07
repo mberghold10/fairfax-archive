@@ -1,0 +1,158 @@
+{
+  "gameId": "18597",
+  "date": "2025-12-03",
+  "divId": 325,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1993",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1992",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#44 - Scott  Kuehn",
+      "assist1": "#95 - Chris  Pope",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:47",
+      "team": {
+        "teamId": "1992",
+        "name": "Ducks"
+      },
+      "scorer": "#26 - John  Klousia",
+      "assist1": "#9 - Sam  Ziesler",
+      "assist2": "#0 - Robert  Richard"
+    },
+    {
+      "period": "3",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": "#56 - Ryan  Tyler"
+    },
+    {
+      "period": "3",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#91 - Matt  Weeden",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "1992",
+        "name": "Ducks"
+      },
+      "player": "#25 - Max  Watstein",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:51",
+      "team": {
+        "teamId": "1992",
+        "name": "Ducks"
+      },
+      "player": "#7 - Andrew  Golomb",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "1992",
+        "name": "Ducks"
+      },
+      "player": "#26 - John  Klousia",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1992",
+        "name": "Ducks"
+      },
+      "player": "#16 - Ann  Nosek",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "1992",
+        "name": "Ducks"
+      },
+      "player": "#3 - Oleg  Kolodin",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:54",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "player": "#8 - Brenden  Millice",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:04:12.256Z"
+}

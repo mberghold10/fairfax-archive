@@ -1,0 +1,156 @@
+{
+  "gameId": "12845",
+  "date": "2019-06-16",
+  "divId": 204,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1293",
+    "name": "Devils"
+  },
+  "away": {
+    "teamId": "1291",
+    "name": "Pharaohs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:23",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "#5 - Joel  Dever",
+      "assist1": "#51 - James  Bruton",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:16",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "scorer": "#15 - Brian  Ebert",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "scorer": "#28 - Michael  Berghold",
+      "assist1": "#4 - Kevin  Via",
+      "assist2": "#10 - Jay  Yoon"
+    },
+    {
+      "period": "3",
+      "time": "00:10:48",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "scorer": "#71 - Matt  Renton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:13",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "#74 - Daniel  Murray",
+      "assist1": "#82 - Tim  Lo",
+      "assist2": "#5 - Joel  Dever"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "player": "#51 - James  Bruton",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:13",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "player": "#17 - Wangjae  Yoo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "player": "#10 - Chris  Chagnon",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:39",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "player": "#17 - Wangjae  Yoo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:44",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "player": "#4 - Kevin  Via",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:59:21.351Z"
+}

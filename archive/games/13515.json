@@ -1,0 +1,195 @@
+{
+  "gameId": "13515",
+  "date": "2020-01-06",
+  "divId": 209,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1324",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1325",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": "#1 - Matt  ODriscoll",
+      "assist2": "#12 - Steven  Courson"
+    },
+    {
+      "period": "1",
+      "time": "00:04:03",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "scorer": "#88 - Brian  Ray",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:07",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#12 - Steven  Courson",
+      "assist1": "#42 - Ryan  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "scorer": "#8 - Kevin  Free",
+      "assist1": "#88 - Brian  Ray",
+      "assist2": "#91 - Chris  Callanan"
+    },
+    {
+      "period": "3",
+      "time": "00:06:38",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": "#3 - Phil  Wind",
+      "assist2": "#40 - Matt  Mickelson"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "player": "#33 - Hung  Pham",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "player": "#8 - Kevin  Free",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:53",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "player": "#88 - Brian  Ray",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:35",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "player": "#91 - Chris  Callanan",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:19",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "player": "#91 - Chris  Callanan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:25",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "player": "#33 - Hung  Pham",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:13",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "player": "#88 - Brian  Ray",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:05:19.233Z"
+}

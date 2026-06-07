@@ -1,0 +1,108 @@
+{
+  "gameId": "14978",
+  "date": "2022-05-30",
+  "divId": 251,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1553",
+    "name": "Hitmen"
+  },
+  "away": {
+    "teamId": "1547",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1547",
+        "name": "Rink Rats"
+      },
+      "scorer": "#13 - John  Bereza",
+      "assist1": "#70 - Seth  Kumpf",
+      "assist2": "#35 - Evan  Tierney"
+    },
+    {
+      "period": "3",
+      "time": "00:00:52",
+      "team": {
+        "teamId": "1547",
+        "name": "Rink Rats"
+      },
+      "scorer": "#0 - Jeff  Alpher",
+      "assist1": "#35 - Evan  Tierney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "scorer": "#5 - Chris  Oman",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:13",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "player": "#32 - Andrew  Gay",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:17",
+      "team": {
+        "teamId": "1547",
+        "name": "Rink Rats"
+      },
+      "player": "#13 - John  Bereza",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:51",
+      "team": {
+        "teamId": "1547",
+        "name": "Rink Rats"
+      },
+      "player": "#25 - Dave  Brown",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:42:12.538Z"
+}

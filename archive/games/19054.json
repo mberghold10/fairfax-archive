@@ -1,0 +1,134 @@
+{
+  "gameId": "19054",
+  "date": "2026-04-02",
+  "divId": 326,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2014",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "2012",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:01",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#44 - Bob  Arnold",
+      "assist1": "#7 - Dan  Ellert",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:56",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#13 - Bob  Seal",
+      "assist1": "#3 - John  Niemiec",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:35",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#26 - Bob  Banasik",
+      "assist1": "#44 - Bob  Arnold",
+      "assist2": "#25 - Jeff  Wojtala"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "player": "#44 - Bob  Arnold",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "player": "#7 - Dan  Ellert",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:06",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "player": "#44 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:37",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "player": "#3 - John  Niemiec",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:06:02.175Z"
+}

@@ -1,0 +1,95 @@
+{
+  "gameId": "17405",
+  "date": "2024-10-15",
+  "divId": 294,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1797",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1800",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:02:27",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": "#19 - Jason  Long",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:33",
+      "team": {
+        "teamId": "1797",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:18",
+      "team": {
+        "teamId": "1797",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#79 - Jeff  Vandenberghe",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": "#81 - Rob  Katz"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "player": "#11 - Brendan  Ford",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:13",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:32:11.170Z"
+}

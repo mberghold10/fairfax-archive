@@ -1,0 +1,130 @@
+{
+  "gameId": "15072",
+  "date": "2022-06-02",
+  "divId": 254,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1568",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1564",
+    "name": "Anonymous"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:36",
+      "team": {
+        "teamId": "1568",
+        "name": "Coyotes"
+      },
+      "scorer": "#21 - Steve  Kaplan",
+      "assist1": "#11 - Matt  ODriscoll",
+      "assist2": "#67 - Chris  Dour"
+    },
+    {
+      "period": "2",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1568",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#21 - Steve  Kaplan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:56",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "scorer": "#55 - Scott  Dullea",
+      "assist1": "#19 - Dave  Hagemeier",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:49",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "scorer": "#19 - Dave  Hagemeier",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:54",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "scorer": "#10 - Rob  Kochner",
+      "assist1": "#19 - Dave  Hagemeier",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:32",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "1568",
+        "name": "Coyotes"
+      },
+      "player": "#11 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:28",
+      "team": {
+        "teamId": "1564",
+        "name": "Anonymous"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:45:50.660Z"
+}

@@ -1,0 +1,167 @@
+{
+  "gameId": "12695",
+  "date": "2019-05-15",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1265",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1260",
+    "name": "North Stars"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:16",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "scorer": "#21 - John  Peterman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "scorer": "#83 - Joe  Tierney",
+      "assist1": "#69 - Aaron  Domnitch",
+      "assist2": "#5 - Peter  Boone"
+    },
+    {
+      "period": "1",
+      "time": "00:09:17",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "scorer": "#4 - Tad  Jose",
+      "assist1": "#10 - Aaron  Dobbs",
+      "assist2": "#83 - Joe  Tierney"
+    },
+    {
+      "period": "1",
+      "time": "00:13:46",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "scorer": "#40 - Mikhail  Serebrennikov",
+      "assist1": "#69 - Aaron  Domnitch",
+      "assist2": "#3 - Kareem  El-Alaily"
+    },
+    {
+      "period": "3",
+      "time": "00:05:39",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#10 - Aaron  Dobbs",
+      "assist2": "#3 - Kareem  El-Alaily"
+    },
+    {
+      "period": "3",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#10 - Aaron  Dobbs",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:53",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#24 - Pertti  Jaakola",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#24 - Pertti  Jaakola",
+      "pim": 2,
+      "offense": "body contact",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:18",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#21 - John  Peterman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#81 - Bryan  Getson",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:10",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:53:17.285Z"
+}

@@ -1,0 +1,160 @@
+{
+  "gameId": "15143",
+  "date": "2022-08-29",
+  "divId": 250,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1545",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1541",
+    "name": "Punishers HC"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#6 - Kyle  Herring",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:59",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": "#12 - Dave  OMally",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:02:20",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "player": "#12 - Dave  OMally",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:28",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "player": "#12 - Dave  OMally",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "player": "#16 - Greg  Pomeroy",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:56",
+      "team": {
+        "teamId": "1541",
+        "name": "Punishers HC"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:46",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "player": "#68 - Tommy  Reynolds",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:02:20",
+      "team": {
+        "teamId": "1545",
+        "name": "British Bulldogs"
+      },
+      "player": "#16 - Greg  Pomeroy",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:41:27.695Z"
+}

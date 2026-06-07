@@ -1,0 +1,163 @@
+{
+  "gameId": "15287",
+  "date": "2022-08-16",
+  "divId": 255,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1572",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1574",
+    "name": "Gold Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:47",
+      "team": {
+        "teamId": "1572",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#6 - Bob  Freiss",
+      "assist2": "#11 - Cindy  Huber"
+    },
+    {
+      "period": "2",
+      "time": "00:06:21",
+      "team": {
+        "teamId": "1574",
+        "name": "Gold Goats"
+      },
+      "scorer": "#38 - Howard  Uman",
+      "assist1": "#12 - Dave  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:23",
+      "team": {
+        "teamId": "1574",
+        "name": "Gold Goats"
+      },
+      "scorer": "#24 - Mike  Duall",
+      "assist1": "#19 - Ira  Keltz",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:39",
+      "team": {
+        "teamId": "1572",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#66 - Harry  Patrinos",
+      "assist1": "#6 - Bob  Freiss",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1574",
+        "name": "Gold Goats"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": "#34 - Marty  Gryski",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1574",
+        "name": "Gold Goats"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#34 - Marty  Gryski",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:43",
+      "team": {
+        "teamId": "1574",
+        "name": "Gold Goats"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "1572",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#67 - Andrew  Miller",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "1574",
+        "name": "Gold Goats"
+      },
+      "player": "#34 - Marty  Gryski",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1574",
+        "name": "Gold Goats"
+      },
+      "player": "#37 - Nick  Desport",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:50",
+      "team": {
+        "teamId": "1574",
+        "name": "Gold Goats"
+      },
+      "player": "#38 - Howard  Uman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:47:46.621Z"
+}

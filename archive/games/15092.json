@@ -1,0 +1,176 @@
+{
+  "gameId": "15092",
+  "date": "2022-07-09",
+  "divId": 254,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1570",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1567",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:14",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:29",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "scorer": "#19 - Joe  Dunn",
+      "assist1": "#76 - Mike  Floyd",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#250 - Bob  Banasik",
+      "assist1": "#5 - Neil  Phippen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:28",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#250 - Bob  Banasik",
+      "assist1": "#5 - Neil  Phippen",
+      "assist2": "#3 - John  Niemec"
+    },
+    {
+      "period": "2",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#13 - Bob  Seal",
+      "assist1": "#10 - Brian  Land",
+      "assist2": "#5 - Neil  Phippen"
+    },
+    {
+      "period": "2",
+      "time": "00:09:22",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#5 - Neil  Phippen",
+      "assist1": "#23 - Rick  Gorgone",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:57",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "scorer": "#76 - Mike  Floyd",
+      "assist1": "#28 - Alex  Henry",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:52",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#5 - Neil  Phippen",
+      "assist1": "#13 - Bob  Seal",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:43",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "player": "#13 - Bob  Seal",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "player": "#28 - Alex  Henry",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:46",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "player": "#5 - Neil  Phippen",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:21",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "player": "#19 - Joe  Dunn",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:46:10.680Z"
+}

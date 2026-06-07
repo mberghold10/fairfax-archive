@@ -1,0 +1,152 @@
+{
+  "gameId": "9925",
+  "date": "2016-09-25",
+  "divId": 154,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "989",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "986",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:26",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:10",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#23 - Scott  Gordon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:36",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#55 - Gig  Mikell",
+      "assist1": "#18 - Mike  Sharp",
+      "assist2": "#23 - Scott  Gordon"
+    },
+    {
+      "period": "2",
+      "time": "00:13:28",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#87 - Mike  Ferrone",
+      "assist1": "#47 - Talbot  Black",
+      "assist2": "#54 - Gerry  Gibbons"
+    },
+    {
+      "period": "3",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#10 - Matt  Galen",
+      "assist1": "#21 - Drew  Saelens",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#23 - Scott  Gordon",
+      "assist1": "#18 - Mike  Sharp",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:35",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#87 - Mike  Ferrone",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "player": "#44 - Mick  Ellsworth",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "player": "#12 - Paul  Zalocha",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "player": "#9 - Brian  Mehnert",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:57:22.287Z"
+}

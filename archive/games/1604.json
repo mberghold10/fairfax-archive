@@ -1,0 +1,150 @@
+{
+  "gameId": "1604",
+  "date": "2025-11-30",
+  "divId": 316,
+  "seasonName": "Summer 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1933",
+    "name": "Jacks GreyBeards"
+  },
+  "away": {
+    "teamId": "1932",
+    "name": "Boston"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "1932",
+        "name": "Boston"
+      },
+      "scorer": "#88 - Matt  Tiede",
+      "assist1": "#10 - Justin  Arbes",
+      "assist2": "#65 - Bobby  Woods-Corwin"
+    },
+    {
+      "period": "2",
+      "time": "00:04:59",
+      "team": {
+        "teamId": "1933",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:46",
+      "team": {
+        "teamId": "1933",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": "#28 - Charles  Hale"
+    },
+    {
+      "period": "2",
+      "time": "00:08:59",
+      "team": {
+        "teamId": "1932",
+        "name": "Boston"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1933",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#27 - Andy  Rieger",
+      "assist2": "#3 - Jeff  Regan"
+    },
+    {
+      "period": "3",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "1933",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:07",
+      "team": {
+        "teamId": "1933",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:55",
+      "team": {
+        "teamId": "1932",
+        "name": "Boston"
+      },
+      "scorer": "#26 - Jeremy  Whang",
+      "assist1": "#88 - Matt  Tiede",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1933",
+        "name": "Jacks GreyBeards"
+      },
+      "player": "#3 - Jeff  Regan",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1932",
+        "name": "Boston"
+      },
+      "player": "#26 - Jeremy  Whang",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:55:44.366Z"
+}

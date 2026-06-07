@@ -1,0 +1,117 @@
+{
+  "gameId": "11875",
+  "date": "2018-08-25",
+  "divId": 184,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1173",
+    "name": "Canucks"
+  },
+  "away": {
+    "teamId": "1170",
+    "name": "BlueJacket Capitals"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:47",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#16 - Dan  Rebman",
+      "assist1": "#88 - Andrew  Grose",
+      "assist2": "#92 - Darren  Wellner"
+    },
+    {
+      "period": "1",
+      "time": "00:11:01",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#66 - Andrew  Alix",
+      "assist1": "#11 - Mark  OConnell",
+      "assist2": "#19 - JP  Klousia"
+    },
+    {
+      "period": "2",
+      "time": "00:10:37",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#88 - Andrew  Grose",
+      "assist1": "#92 - Darren  Wellner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:18",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#15 - Bob  Guckian",
+      "assist1": "#61 - Tim  Dutcher",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:10",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#19 - JP  Klousia",
+      "assist1": "#88 - Andrew  Grose",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "player": "#61 - Allen  Preville",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1170",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#42 - Jeff  Lovett",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:35:17.916Z"
+}

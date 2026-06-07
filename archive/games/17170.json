@@ -1,0 +1,150 @@
+{
+  "gameId": "17170",
+  "date": "2024-07-07",
+  "divId": 294,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1800",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1801",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "scorer": "#17 - John  Wallace",
+      "assist1": "#1 - Chris  Beach",
+      "assist2": "#19 - Jason  Long"
+    },
+    {
+      "period": "1",
+      "time": "00:08:49",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#19 - Jason  Long",
+      "assist2": "#23 - Chris  Howard"
+    },
+    {
+      "period": "1",
+      "time": "00:12:34",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "scorer": "#25 - Greg  Reece",
+      "assist1": "#2 - Mark  Jesten",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1801",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#16 - Greg  Thomas",
+      "assist1": "#51 - Bob  Sagusti",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "scorer": "#17 - John  Wallace",
+      "assist1": "#81 - Pete  Poczatek",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:42",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "scorer": "#16 - Carlos  Novoa",
+      "assist1": "#20 - Mike  Hempen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#25 - Greg  Reece",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:27",
+      "team": {
+        "teamId": "1801",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#32 - Brian  Freeman",
+      "assist1": "#77 - Paul  Cicchetti",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1801",
+        "name": "Maple Leafs"
+      },
+      "player": "#16 - Greg  Thomas",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:22",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "player": "#25 - Greg  Reece",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:31:32.224Z"
+}

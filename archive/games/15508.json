@@ -1,0 +1,154 @@
+{
+  "gameId": "15508",
+  "date": "2022-11-12",
+  "divId": 263,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1623",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1618",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:36",
+      "team": {
+        "teamId": "1623",
+        "name": "Islanders"
+      },
+      "scorer": "#47 - Jeff  Urlwin",
+      "assist1": "#2 - Mark  Jesten",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:24",
+      "team": {
+        "teamId": "1623",
+        "name": "Islanders"
+      },
+      "scorer": "#88 - Anthony  DeJohn",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1623",
+        "name": "Islanders"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#19 - Jason  Long",
+      "assist2": "#15 - Mark  Yawornicky"
+    },
+    {
+      "period": "3",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1618",
+        "name": "Old Goats"
+      },
+      "scorer": "#7 - Greg  Watchman",
+      "assist1": "#21 - Michael  Hawthorne",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "1623",
+        "name": "Islanders"
+      },
+      "scorer": "#88 - Anthony  DeJohn",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:08",
+      "team": {
+        "teamId": "1623",
+        "name": "Islanders"
+      },
+      "scorer": "#2 - Mark  Jesten",
+      "assist1": "#83 - Brandon  Barhorst",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1618",
+        "name": "Old Goats"
+      },
+      "player": "#38 - Howard  Uman",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:24",
+      "team": {
+        "teamId": "1618",
+        "name": "Old Goats"
+      },
+      "player": "#38 - Howard  Uman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:03",
+      "team": {
+        "teamId": "1623",
+        "name": "Islanders"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "1618",
+        "name": "Old Goats"
+      },
+      "player": "#21 - Michael  Hawthorne",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:56:26.330Z"
+}

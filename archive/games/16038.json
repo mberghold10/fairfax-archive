@@ -1,0 +1,237 @@
+{
+  "gameId": "16038",
+  "date": "2023-06-29",
+  "divId": 272,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1678",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1675",
+    "name": "Anonymous"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 3,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:16",
+      "team": {
+        "teamId": "1675",
+        "name": "Anonymous"
+      },
+      "scorer": "#11 - Tom  Fergus",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:15",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "scorer": "#9 - Aaron  Dobbs",
+      "assist1": "#180 - Dominic  Pistolessi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:49",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "scorer": "#5 - Neil  Phippen",
+      "assist1": "#9 - Aaron  Dobbs",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:59",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "scorer": "#3 - John  Niemiec",
+      "assist1": "#180 - Dominic  Pistolessi",
+      "assist2": "#5 - Neil  Phippen"
+    },
+    {
+      "period": "2",
+      "time": "00:08:01",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "scorer": "#9 - Aaron  Dobbs",
+      "assist1": "#180 - Dominic  Pistolessi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:56",
+      "team": {
+        "teamId": "1675",
+        "name": "Anonymous"
+      },
+      "scorer": "#16 - Dan  Rebmann",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:19",
+      "team": {
+        "teamId": "1675",
+        "name": "Anonymous"
+      },
+      "scorer": "#11 - Tom  Fergus",
+      "assist1": "#24 - Mike  Sheridan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "scorer": "#11 - Darren  Wellner",
+      "assist1": "#23 - Rick  Gorgone",
+      "assist2": "#7 - Dan  Ellert"
+    },
+    {
+      "period": "3",
+      "time": "00:10:16",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "scorer": "#9 - Aaron  Dobbs",
+      "assist1": "#23 - Rick  Gorgone",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:39",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "scorer": "#5 - Neil  Phippen",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1675",
+        "name": "Anonymous"
+      },
+      "player": "#3 - Bill  Kang",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:45",
+      "team": {
+        "teamId": "1675",
+        "name": "Anonymous"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1675",
+        "name": "Anonymous"
+      },
+      "player": "#77 - Erik  Bergman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "player": "#180 - Dominic  Pistolessi",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "1675",
+        "name": "Anonymous"
+      },
+      "player": "#19 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "player": "#2 - Ann  Nosek",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:14",
+      "team": {
+        "teamId": "1675",
+        "name": "Anonymous"
+      },
+      "player": "#19 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:07:21.346Z"
+}

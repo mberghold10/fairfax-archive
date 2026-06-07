@@ -1,0 +1,145 @@
+{
+  "gameId": "11664",
+  "date": "2018-05-28",
+  "divId": 185,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1177",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1178",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1177",
+        "name": "Angry Moose"
+      },
+      "scorer": "#8 - Elliott  Yang",
+      "assist1": "#10 - Howie  Schulman",
+      "assist2": "#91 - Matt  Vossekuil"
+    },
+    {
+      "period": "2",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "1178",
+        "name": "Lightning"
+      },
+      "scorer": "#88 - Daniel  Lange",
+      "assist1": "#33 - Mike  Wagner",
+      "assist2": "#20 - Eric  Nelson"
+    },
+    {
+      "period": "3",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "1177",
+        "name": "Angry Moose"
+      },
+      "scorer": "#91 - Matt  Vossekuil",
+      "assist1": "#14 - Rachel  Sullivan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:34",
+      "team": {
+        "teamId": "1177",
+        "name": "Angry Moose"
+      },
+      "scorer": "#91 - Matt  Vossekuil",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:59",
+      "team": {
+        "teamId": "1177",
+        "name": "Angry Moose"
+      },
+      "player": "#2 - Dennis  Valentine",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "1178",
+        "name": "Lightning"
+      },
+      "player": "#91 - Steve  Chernoff",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "1178",
+        "name": "Lightning"
+      },
+      "player": "#88 - Daniel  Lange",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:04",
+      "team": {
+        "teamId": "1178",
+        "name": "Lightning"
+      },
+      "player": "#20 - Eric  Nelson",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:26",
+      "team": {
+        "teamId": "1178",
+        "name": "Lightning"
+      },
+      "player": "#88 - Daniel  Lange",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:35:53.570Z"
+}

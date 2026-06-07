@@ -1,0 +1,117 @@
+{
+  "gameId": "16957",
+  "date": "2024-06-07",
+  "divId": 288,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1767",
+    "name": "D 4th Liners"
+  },
+  "away": {
+    "teamId": "1773",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:53",
+      "team": {
+        "teamId": "1767",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#23 - Omar  Haque",
+      "assist1": "#24 - Jeremy  Riccio",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:33",
+      "team": {
+        "teamId": "1773",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#21 - Josh  Vichness",
+      "assist1": "#15 - Jimmy  Park",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:17",
+      "team": {
+        "teamId": "1767",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#24 - Jeremy  Riccio",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:42",
+      "team": {
+        "teamId": "1773",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#17 - Josh  Bliudzius",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:51",
+      "team": {
+        "teamId": "1767",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#6 - JP  Grant",
+      "assist1": "#19 - Joe  Beard",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:02:21",
+      "team": {
+        "teamId": "1773",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#21 - Josh  Vichness",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:38",
+      "team": {
+        "teamId": "1773",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#17 - Josh  Bliudzius",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:25:06.005Z"
+}

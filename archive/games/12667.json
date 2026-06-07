@@ -1,0 +1,152 @@
+{
+  "gameId": "12667",
+  "date": "2019-05-07",
+  "divId": 198,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1255",
+    "name": "Grove Hockey"
+  },
+  "away": {
+    "teamId": "1257",
+    "name": "Georgetown"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "1255",
+        "name": "Grove Hockey"
+      },
+      "scorer": "#11 - Jude  Buckholz",
+      "assist1": "#33 - Matthew  Rosenberger",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:43",
+      "team": {
+        "teamId": "1255",
+        "name": "Grove Hockey"
+      },
+      "scorer": "#0 - Chris  Nelms",
+      "assist1": "#26 - Frank  Lackey",
+      "assist2": "#96 - Alex  DeYoung"
+    },
+    {
+      "period": "1",
+      "time": "00:13:54",
+      "team": {
+        "teamId": "1255",
+        "name": "Grove Hockey"
+      },
+      "scorer": "#96 - Alex  DeYoung",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:45",
+      "team": {
+        "teamId": "1255",
+        "name": "Grove Hockey"
+      },
+      "scorer": "#33 - Matthew  Rosenberger",
+      "assist1": "#96 - Alex  DeYoung",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1255",
+        "name": "Grove Hockey"
+      },
+      "scorer": "#4 - Jackson  Harnois",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1257",
+        "name": "Georgetown"
+      },
+      "scorer": "#44 - Matt  Brown",
+      "assist1": "#27 - Daniel  Chapman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:35",
+      "team": {
+        "teamId": "1255",
+        "name": "Grove Hockey"
+      },
+      "scorer": "#11 - Jude  Buckholz",
+      "assist1": "#55 - Cameron  Helfeldt",
+      "assist2": "#82 - Alex  Strunk"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "1257",
+        "name": "Georgetown"
+      },
+      "player": "#10 - Matt  Coster",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:26",
+      "team": {
+        "teamId": "1257",
+        "name": "Georgetown"
+      },
+      "player": "#90 - Trenton  Fenster",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:51",
+      "team": {
+        "teamId": "1257",
+        "name": "Georgetown"
+      },
+      "player": "#3 - Alex  Oster",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:52:27.202Z"
+}

@@ -1,0 +1,104 @@
+{
+  "gameId": "10254",
+  "date": "2017-02-19",
+  "divId": 154,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "988",
+    "name": "Knights"
+  },
+  "away": {
+    "teamId": "989",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#23 - Scott  Gordon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#55 - Gig  Mikell",
+      "assist1": "#49 - Eric  Mastromateo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:59",
+      "team": {
+        "teamId": "988",
+        "name": "Knights"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": "#19 - Joe  Dunn",
+      "assist2": "#8 - Jason  Eister"
+    },
+    {
+      "period": "3",
+      "time": "00:09:59",
+      "team": {
+        "teamId": "988",
+        "name": "Knights"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#44 - Bob  Arnold",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "988",
+        "name": "Knights"
+      },
+      "player": "#40 - Michael  Serebrennikov",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:58:13.284Z"
+}

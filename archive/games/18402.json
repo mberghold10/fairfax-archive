@@ -1,0 +1,95 @@
+{
+  "gameId": "18402",
+  "date": "2025-11-04",
+  "divId": 317,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1944",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1942",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1944",
+        "name": "Hurricanes"
+      },
+      "scorer": "#20 - Mike  Hempen",
+      "assist1": "#19 - Jason  Long",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "1944",
+        "name": "Hurricanes"
+      },
+      "scorer": "#20 - Mike  Hempen",
+      "assist1": "#81 - Pete  Poczatek",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:13",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#47 - David  Hitchcock",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:56:28.221Z"
+}

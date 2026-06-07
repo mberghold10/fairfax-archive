@@ -1,0 +1,145 @@
+{
+  "gameId": "807",
+  "date": "2017-03-26",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1018",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1023",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:51",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": "#4 - Pete  Van Aartrijk",
+      "assist2": "#72 - Jack  Walsh"
+    },
+    {
+      "period": "3",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#13 - Shane  Mitchell",
+      "assist1": "#44 - John  Dandeneau",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:11",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:04",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "player": "#0 - Jory  Rubenstein",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:52",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "player": "#37 - Craig  Richardson",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "player": "#5 - Chris  Weipert",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:48",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "player": "#44 - Tricia  Waller",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:05:21.173Z"
+}

@@ -1,0 +1,128 @@
+{
+  "gameId": "15428",
+  "date": "2022-11-19",
+  "divId": 260,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1603",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1605",
+    "name": "Hitmen"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "scorer": "#500 - Rich  Sullivan",
+      "assist1": "#4 - Ryan  Cantwell",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:35",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "scorer": "#24 - Evan  Feinberg",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:51",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "scorer": "#26 - Arseny  Bogomolov",
+      "assist1": "#4 - Augie  Savarese",
+      "assist2": "#29 - Taylor  Van Prooyen"
+    },
+    {
+      "period": "2",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "scorer": "#99 - Jeff  Snow",
+      "assist1": "#91 - Josh  Wilson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "scorer": "#17 - James  Ciskanik",
+      "assist1": "#29 - Taylor  Van Prooyen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "scorer": "#24 - Evan  Feinberg",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:14",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "player": "#77 - Alex  Mandaro",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:36",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "player": "#42 - Dan  Schwind",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:52:34.323Z"
+}

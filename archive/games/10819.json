@@ -1,0 +1,189 @@
+{
+  "gameId": "10819",
+  "date": "2017-07-03",
+  "divId": 167,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1067",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1084",
+    "name": "Pharaohs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:26",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#22 - Mike  Treme",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1084",
+        "name": "Pharaohs"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1084",
+        "name": "Pharaohs"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": "#28 - Michael  Berghold",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "1084",
+        "name": "Pharaohs"
+      },
+      "scorer": "#22 - Sully  Sullivan",
+      "assist1": "#4 - Kevin  Via",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:44",
+      "team": {
+        "teamId": "1084",
+        "name": "Pharaohs"
+      },
+      "scorer": "#66 - Steven  Spector",
+      "assist1": "#2 - Thomas  Luby",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:05",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#13 - Nick  Burton",
+      "assist1": "#22 - Mike  Treme",
+      "assist2": "#4 - Ryan  Cantwell"
+    },
+    {
+      "period": "3",
+      "time": "00:05:34",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#17 - Anthony  Vitucci",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:49",
+      "team": {
+        "teamId": "1084",
+        "name": "Pharaohs"
+      },
+      "scorer": "#11 - Dan  Owens",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:09",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "player": "#8 - Josh  Laughner",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:29",
+      "team": {
+        "teamId": "1084",
+        "name": "Pharaohs"
+      },
+      "player": "#2 - Thomas  Luby",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:11",
+      "team": {
+        "teamId": "1084",
+        "name": "Pharaohs"
+      },
+      "player": "#22 - Sully  Sullivan",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "player": "#13 - Nick  Burton",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1084",
+        "name": "Pharaohs"
+      },
+      "player": "#22 - Sully  Sullivan",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:14:35.146Z"
+}

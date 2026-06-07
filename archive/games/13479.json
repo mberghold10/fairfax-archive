@@ -1,0 +1,178 @@
+{
+  "gameId": "13479",
+  "date": "2019-12-15",
+  "divId": 216,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1365",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1367",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#39 - Alex  Ciman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:45",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "scorer": "#75 - Danny  Normandeau",
+      "assist1": "#23 - Eric  Vanhove",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:08",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#2 - John  Ganoe",
+      "assist1": "#22 - Amir  Tahami",
+      "assist2": "#39 - Alex  Ciman"
+    },
+    {
+      "period": "2",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "scorer": "#75 - Danny  Normandeau",
+      "assist1": "#23 - Eric  Vanhove",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#39 - Alex  Ciman",
+      "assist1": "#2 - John  Ganoe",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:04",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#39 - Alex  Ciman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:07",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "scorer": "# -",
+      "assist1": "#39 - Alex  Ciman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "player": "#31 - Zack  Furness",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:17:57",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "player": "#39 - Alex  Ciman",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:16",
+      "team": {
+        "teamId": "1367",
+        "name": "Blue Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:57",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "player": "#27 - Michael  Fine",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:11",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "player": "#31 - Zack  Furness",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:14:08.458Z"
+}

@@ -1,0 +1,126 @@
+{
+  "gameId": "11820",
+  "date": "2018-07-22",
+  "divId": 182,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1157",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1158",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:23",
+      "team": {
+        "teamId": "1157",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#6 - Bob  Gutierrez",
+      "assist1": "#21 - Steve  Kaplan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1157",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#21 - Steve  Kaplan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "scorer": "#24 - Jeff  Robins",
+      "assist1": "#30 - Jim  Van Horn",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:27",
+      "team": {
+        "teamId": "1157",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#7 - Daniel  Fleshner",
+      "assist1": "#0 - Ruben  Garcia",
+      "assist2": "#16 - Brian  Murphy"
+    },
+    {
+      "period": "3",
+      "time": "00:00:04",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "scorer": "#10 - Rich  Scigaj",
+      "assist1": "#30 - Jim  Van Horn",
+      "assist2": "#24 - Jeff  Robins"
+    },
+    {
+      "period": "3",
+      "time": "00:01:48",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "scorer": "#16 - Marc  Franciszkowicz",
+      "assist1": "#14 - Paul  Tourbaf",
+      "assist2": "#33 - Dmirtiy  Achapkin"
+    },
+    {
+      "period": "3",
+      "time": "00:05:24",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "scorer": "#33 - Dmirtiy  Achapkin",
+      "assist1": "#16 - Marc  Franciszkowicz",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "player": "#65 - Stuart  Hoffman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:32:40.695Z"
+}

@@ -1,0 +1,163 @@
+{
+  "gameId": "15669",
+  "date": "2023-02-19",
+  "divId": 260,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1598",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1603",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "scorer": "#22 - Eli  Pinsonneault",
+      "assist1": "#43 - Alex  Utano",
+      "assist2": "#7 - Dan  Miller"
+    },
+    {
+      "period": "1",
+      "time": "00:13:06",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": "#13 - Sean  Huie",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:51",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "scorer": "#77 - Doug  Smith",
+      "assist1": "#19 - James  Howe",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:02",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "scorer": "#51 - Bob  Sagusgi",
+      "assist1": "#901 - Kevin  Scott",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:06",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "scorer": "#21 - Kevin  Lockland",
+      "assist1": "#93 - Peter  Lee",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:29",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": "#23 - Steven  Bennett",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:12",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "scorer": "#92 - Dylan  Santos",
+      "assist1": "#43 - Alex  Utano",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:25",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "player": "#51 - Bob  Sagusgi",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "player": "#27 - Jared  Klein",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1598",
+        "name": "Avalanche"
+      },
+      "player": "#27 - Jared  Klein",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:53:16.450Z"
+}

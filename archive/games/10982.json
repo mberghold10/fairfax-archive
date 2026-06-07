@@ -1,0 +1,154 @@
+{
+  "gameId": "10982",
+  "date": "2017-10-20",
+  "divId": 170,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1087",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "1088",
+    "name": "Georgetown"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:36",
+      "team": {
+        "teamId": "1088",
+        "name": "Georgetown"
+      },
+      "scorer": "#77 - Julia  Karron",
+      "assist1": "#23 - Lucas  Karron",
+      "assist2": "#16 - Kyle  Bruun"
+    },
+    {
+      "period": "1",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "scorer": "#19 - Michael  Carr",
+      "assist1": "#18 - Peter  Dimmick",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1088",
+        "name": "Georgetown"
+      },
+      "scorer": "#23 - Lucas  Karron",
+      "assist1": "#77 - Julia  Karron",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "1088",
+        "name": "Georgetown"
+      },
+      "scorer": "#9 - Marty  McNamara",
+      "assist1": "#68 - Daniel  Milzman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:58",
+      "team": {
+        "teamId": "1088",
+        "name": "Georgetown"
+      },
+      "scorer": "#16 - Kyle  Bruun",
+      "assist1": "#23 - Lucas  Karron",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:25",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "scorer": "#18 - Peter  Dimmick",
+      "assist1": "#25 - Bob  Banasik",
+      "assist2": "#14 - Michael  Nannini"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:07",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "player": "#18 - Peter  Dimmick",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "player": "#14 - Michael  Nannini",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "player": "#24 - Jamie  Belcastro",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:29",
+      "team": {
+        "teamId": "1087",
+        "name": "Bruins"
+      },
+      "player": "#24 - Jamie  Belcastro",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:17:39.591Z"
+}

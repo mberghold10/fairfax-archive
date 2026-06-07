@@ -1,0 +1,106 @@
+{
+  "gameId": "15519",
+  "date": "2022-12-01",
+  "divId": 263,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1621",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1617",
+    "name": "Flying Circus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "scorer": "#66 - Chris  Yoko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:12",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "scorer": "#27 - Mike  Heuple",
+      "assist1": "#16 - Joe  Denoyer",
+      "assist2": "#23 - Greg  Thomas"
+    },
+    {
+      "period": "2",
+      "time": "00:12:45",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#23 - Greg  Thomas",
+      "assist2": "#7 - Brendan  Ford"
+    },
+    {
+      "period": "3",
+      "time": "00:11:44",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "scorer": "#7 - Brendan  Ford",
+      "assist1": "#36 - William  Ludke",
+      "assist2": "#16 - Joe  Denoyer"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:10:56",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "player": "#2 - Marc  Sheinkin",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "1621",
+        "name": "Team USA"
+      },
+      "player": "#8 - Jamie  Sengheiser",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:56:34.300Z"
+}

@@ -1,0 +1,97 @@
+{
+  "gameId": "18984",
+  "date": "2026-05-16",
+  "divId": 323,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1980",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1983",
+    "name": "Toronto"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "scorer": "#20 - David  Humes",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "scorer": "#71 - Mike  McClennan",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "1983",
+        "name": "Toronto"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1983",
+        "name": "Toronto"
+      },
+      "player": "#6 - Matt  Johnson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:28",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "player": "#24 - Nada  Robins",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:02:51.609Z"
+}

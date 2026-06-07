@@ -1,0 +1,152 @@
+{
+  "gameId": "1165",
+  "date": "2021-10-23",
+  "divId": 234,
+  "seasonName": "Summer 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1464",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "1465",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:09:11",
+      "team": {
+        "teamId": "1465",
+        "name": "Rink Rats"
+      },
+      "scorer": "#25 - Dave  Brown",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:28",
+      "team": {
+        "teamId": "1465",
+        "name": "Rink Rats"
+      },
+      "scorer": "#22 - Matthew  Thrasher",
+      "assist1": "#98 - Carl  Tierney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1464",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#31 - Sam  Branham",
+      "assist1": "#14 - Chukie  Ezike",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:43",
+      "team": {
+        "teamId": "1465",
+        "name": "Rink Rats"
+      },
+      "scorer": "#31 - Zach  Furness",
+      "assist1": "#11 - Aaron  Pollon",
+      "assist2": "#79 - Igor  Helman"
+    },
+    {
+      "period": "3",
+      "time": "00:06:54",
+      "team": {
+        "teamId": "1464",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#14 - Chukie  Ezike",
+      "assist1": "#5 - Kevin  Roehner",
+      "assist2": "#39 - Alex  Cimon"
+    },
+    {
+      "period": "3",
+      "time": "00:08:44",
+      "team": {
+        "teamId": "1464",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#32 - Jeff  Hunter",
+      "assist1": "#33 - Brandon  Boling",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:05",
+      "team": {
+        "teamId": "1465",
+        "name": "Rink Rats"
+      },
+      "scorer": "#13 - John  Bereza",
+      "assist1": "#22 - Matthew  Thrasher",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:20",
+      "team": {
+        "teamId": "1464",
+        "name": "Mad Dogs"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "1465",
+        "name": "Rink Rats"
+      },
+      "player": "#22 - Matthew  Thrasher",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:42",
+      "team": {
+        "teamId": "1465",
+        "name": "Rink Rats"
+      },
+      "player": "#22 - Matthew  Thrasher",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:26:56.813Z"
+}

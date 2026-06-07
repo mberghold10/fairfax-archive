@@ -1,0 +1,132 @@
+{
+  "gameId": "12876",
+  "date": "2019-06-30",
+  "divId": 205,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1299",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1295",
+    "name": "River Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "scorer": "#95 - Michael  Starego",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "scorer": "#27 - David  McAndrews",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:18",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "scorer": "#88 - John  Jepson",
+      "assist1": "#27 - David  McAndrews",
+      "assist2": "#95 - Michael  Starego"
+    },
+    {
+      "period": "3",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "scorer": "#81 - Sean  Murphy",
+      "assist1": "#27 - David  McAndrews",
+      "assist2": "#66 - Joel  Zepeda"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "player": "#66 - Joel  Zepeda",
+      "pim": 2,
+      "offense": "board",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "player": "#66 - Joel  Zepeda",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:32",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "player": "#95 - Michael  Starego",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:00:41.785Z"
+}

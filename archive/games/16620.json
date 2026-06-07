@@ -1,0 +1,82 @@
+{
+  "gameId": "16620",
+  "date": "2023-11-04",
+  "divId": 284,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1748",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1746",
+    "name": "Hershey"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:19",
+      "team": {
+        "teamId": "1746",
+        "name": "Hershey"
+      },
+      "scorer": "#39 - Jim  DeLaet",
+      "assist1": "#75 - Paul  Barber",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1746",
+        "name": "Hershey"
+      },
+      "scorer": "#17 - Marc  Patience",
+      "assist1": "#1 - Thomas  Newberg",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:12",
+      "team": {
+        "teamId": "1748",
+        "name": "Red Wings"
+      },
+      "scorer": "#16 - Wei  Wang",
+      "assist1": "#25 - James  Chu",
+      "assist2": "#47 - Jeff  Urlwin"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:34",
+      "team": {
+        "teamId": "1746",
+        "name": "Hershey"
+      },
+      "player": "#100 - Goalie  Substitue",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:21:07.660Z"
+}

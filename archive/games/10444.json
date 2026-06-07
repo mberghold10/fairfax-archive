@@ -1,0 +1,119 @@
+{
+  "gameId": "10444",
+  "date": "2017-04-18",
+  "divId": 164,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1048",
+    "name": "Crabs"
+  },
+  "away": {
+    "teamId": "1050",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1048",
+        "name": "Crabs"
+      },
+      "scorer": "#14 - Roger  Jordan",
+      "assist1": "#2 - Elliott  Yang",
+      "assist2": "#280 - Brad  Mills"
+    },
+    {
+      "period": "1",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "scorer": "#30 - Jim  Van Horn",
+      "assist1": "#9 - Shannon  Karner",
+      "assist2": "#50 - Lorin  Randall"
+    },
+    {
+      "period": "2",
+      "time": "00:09:35",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "scorer": "#57 - Geoff  Akey",
+      "assist1": "#10 - Rich  Scigaj",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:51",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "scorer": "#14 - Paul  Tourbaf",
+      "assist1": "#33 - Dmitriy  Achapkin",
+      "assist2": "#68 - Jeff  Robins"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:30",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "player": "#65 - Stuart  Hoffman",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "player": "#30 - Jim  Van Horn",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:13",
+      "team": {
+        "teamId": "1048",
+        "name": "Crabs"
+      },
+      "player": "#28 - Eric  Wilbur",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:10:21.534Z"
+}

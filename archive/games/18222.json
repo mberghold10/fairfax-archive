@@ -1,0 +1,128 @@
+{
+  "gameId": "18222",
+  "date": "2025-08-16",
+  "divId": 314,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1925",
+    "name": "Triassic Puck"
+  },
+  "away": {
+    "teamId": "1921",
+    "name": "Junkyard Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 4,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:34",
+      "team": {
+        "teamId": "1921",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#28 - Alex  Rudolph",
+      "assist1": "#91 - Jason  Ross",
+      "assist2": "#93 - Robert  Wagner"
+    },
+    {
+      "period": "1",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1921",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#93 - Robert  Wagner",
+      "assist1": "#92 - Daniel  Horner",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "1921",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#92 - Daniel  Horner",
+      "assist1": "#28 - Alex  Rudolph",
+      "assist2": "#91 - Jason  Ross"
+    },
+    {
+      "period": "1",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1921",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#93 - Robert  Wagner",
+      "assist1": "#92 - Daniel  Horner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:39",
+      "team": {
+        "teamId": "1925",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#88 - Joe  Janiak",
+      "assist1": "#42 - Jonathan  Coley",
+      "assist2": "#55 - Tool  Jampathon"
+    },
+    {
+      "period": "3",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "1925",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#42 - Jonathan  Coley",
+      "assist1": "#19 - Brian  Merritt",
+      "assist2": "#55 - Tool  Jampathon"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:06:56",
+      "team": {
+        "teamId": "1921",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1925",
+        "name": "Triassic Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:52:20.279Z"
+}

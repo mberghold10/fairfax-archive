@@ -1,0 +1,169 @@
+{
+  "gameId": "14720",
+  "date": "2022-01-30",
+  "divId": 245,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1515",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1517",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:57",
+      "team": {
+        "teamId": "1517",
+        "name": "Nortec"
+      },
+      "scorer": "#4 - Tad  Jose",
+      "assist1": "#3 - Kareem  El-Alaily",
+      "assist2": "#57 - Derek  Morrissette"
+    },
+    {
+      "period": "2",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "scorer": "#78 - Noe  Hatchuel",
+      "assist1": "#9 - Jason  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:11",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": "#36 - William  Ludke"
+    },
+    {
+      "period": "3",
+      "time": "00:12:26",
+      "team": {
+        "teamId": "1517",
+        "name": "Nortec"
+      },
+      "scorer": "#19 - Andrew  Grose",
+      "assist1": "#44 - Bob  Arnold",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1517",
+        "name": "Nortec"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:28",
+      "team": {
+        "teamId": "1517",
+        "name": "Nortec"
+      },
+      "player": "#3 - Kareem  El-Alaily",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:37",
+      "team": {
+        "teamId": "1517",
+        "name": "Nortec"
+      },
+      "player": "#40 - Mikhail  Serebrennikov",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:26",
+      "team": {
+        "teamId": "1517",
+        "name": "Nortec"
+      },
+      "player": "#40 - Mikhail  Serebrennikov",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "player": "#51 - Tyler  Kniaz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:11",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "player": "#9 - Jason  Murphy",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "1515",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:35:26.669Z"
+}

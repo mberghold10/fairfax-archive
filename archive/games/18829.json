@@ -1,0 +1,128 @@
+{
+  "gameId": "18829",
+  "date": "2026-02-24",
+  "divId": 327,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2019",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "2016",
+    "name": "Fossils"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:34",
+      "team": {
+        "teamId": "2016",
+        "name": "Fossils"
+      },
+      "scorer": "#33 - Scot  Coco",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:31",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "scorer": "#41 - David  Armstrong",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:54",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "scorer": "#18 - Mark  Boyd",
+      "assist1": "#19 - Jason  Long",
+      "assist2": "#23 - Chris  Howard"
+    },
+    {
+      "period": "3",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "2016",
+        "name": "Fossils"
+      },
+      "scorer": "#4 - Rob  Ryan",
+      "assist1": "#19 - Brian  Merritt",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:07",
+      "team": {
+        "teamId": "2016",
+        "name": "Fossils"
+      },
+      "scorer": "#24 - George  Stocker",
+      "assist1": "#5 - Rob  Kelty",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:32",
+      "team": {
+        "teamId": "2016",
+        "name": "Fossils"
+      },
+      "scorer": "#62 - Michael  Coady",
+      "assist1": "#33 - Scot  Coco",
+      "assist2": "#22 - Terry  Saad"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "player": "#38 - Keith  Forsythe",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "player": "#38 - Keith  Forsythe",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:07:09.598Z"
+}

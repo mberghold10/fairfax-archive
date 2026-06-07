@@ -1,0 +1,150 @@
+{
+  "gameId": "10865",
+  "date": "2017-07-08",
+  "divId": 169,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1079",
+    "name": "Steamed Crabs"
+  },
+  "away": {
+    "teamId": "1082",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 4,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "1079",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#13 - Charles  Ashley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:10",
+      "team": {
+        "teamId": "1079",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#50 - Scott  Houghton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:15:21",
+      "team": {
+        "teamId": "1079",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#9 - Dave  Baker",
+      "assist1": "#13 - Charles  Ashley",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:16:30",
+      "team": {
+        "teamId": "1079",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#11 - Joseph  Janiak",
+      "assist1": "#50 - Scott  Houghton",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:55",
+      "team": {
+        "teamId": "1079",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#40 - Hank  Kim",
+      "assist1": "#3 - Matthew  White",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1082",
+        "name": "Red Wings"
+      },
+      "scorer": "#27 - Nick  Montfort",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1079",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#13 - Charles  Ashley",
+      "assist1": "#19 - Angelo  Ponirakis",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:12",
+      "team": {
+        "teamId": "1082",
+        "name": "Red Wings"
+      },
+      "scorer": "#20 - David  Humes",
+      "assist1": "#27 - Nick  Montfort",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:18:50",
+      "team": {
+        "teamId": "1079",
+        "name": "Steamed Crabs"
+      },
+      "player": "#9 - Dave  Baker",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1079",
+        "name": "Steamed Crabs"
+      },
+      "player": "#19 - Angelo  Ponirakis",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:16:56.119Z"
+}

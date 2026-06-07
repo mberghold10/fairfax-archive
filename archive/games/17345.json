@@ -1,0 +1,95 @@
+{
+  "gameId": "17345",
+  "date": "2024-08-25",
+  "divId": 292,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1787",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1789",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:20",
+      "team": {
+        "teamId": "1787",
+        "name": "Team USA"
+      },
+      "scorer": "#34 - Jim  Morgan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:55",
+      "team": {
+        "teamId": "1787",
+        "name": "Team USA"
+      },
+      "scorer": "#98 - Matt  Crisculo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1787",
+        "name": "Team USA"
+      },
+      "scorer": "#77 - Dan  Miller",
+      "assist1": "#18 - Pete  Poczatek",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:57",
+      "team": {
+        "teamId": "1789",
+        "name": "Penguins"
+      },
+      "player": "#44 - Bob  Arnold",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "1789",
+        "name": "Penguins"
+      },
+      "player": "#13 - Bob  Seal",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:29:41.569Z"
+}

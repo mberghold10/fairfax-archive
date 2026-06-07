@@ -1,0 +1,193 @@
+{
+  "gameId": "10045",
+  "date": "2016-11-02",
+  "divId": 157,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1010",
+    "name": "Blackhawks"
+  },
+  "away": {
+    "teamId": "1008",
+    "name": "Outlaws"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 4,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#10 - Mike  Boyajian",
+      "assist1": "#16 - Mike  Lodispoto",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#10 - Mike  Boyajian",
+      "assist1": "#16 - Mike  Lodispoto",
+      "assist2": "#62 - Mel  Marcelo"
+    },
+    {
+      "period": "1",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "scorer": "#25 - Jamie  Prime",
+      "assist1": "#75 - Jeff  Koka",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:39",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#16 - Mike  Lodispoto",
+      "assist1": "#10 - Mike  Boyajian",
+      "assist2": "#0 - Trey  Perrone"
+    },
+    {
+      "period": "1",
+      "time": "00:08:08",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#91 - Matt  Weeden",
+      "assist1": "#41 - Tony  Gorney",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#21 - Jerry  Achatz",
+      "assist1": "#41 - Tony  Gorney",
+      "assist2": "#9 - Steve  Potter"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "player": "#22 - Cody  Reinitz",
+      "pim": 4,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "player": "#21 - Jerry  Achatz",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:08",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "player": "#0 - Trey  Perrone",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:21",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "player": "#21 - Jerry  Achatz",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:47",
+      "team": {
+        "teamId": "1010",
+        "name": "Blackhawks"
+      },
+      "player": "#24 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:01:37.267Z"
+}

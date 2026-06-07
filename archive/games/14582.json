@@ -1,0 +1,222 @@
+{
+  "gameId": "14582",
+  "date": "2022-02-20",
+  "divId": 241,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1493",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1490",
+    "name": "Englewood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 8
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:41",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#66 - Sean  Magrann",
+      "assist2": "#77 - Oleg  Nayandin"
+    },
+    {
+      "period": "1",
+      "time": "00:05:58",
+      "team": {
+        "teamId": "1493",
+        "name": "Outlaws"
+      },
+      "scorer": "#91 - Matt  Weeden",
+      "assist1": "#43 - Mike  Barnes",
+      "assist2": "#17 - Adam  Lee"
+    },
+    {
+      "period": "1",
+      "time": "00:09:14",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:08",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#66 - Sean  Magrann",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": "#26 - Jonathan  Didas"
+    },
+    {
+      "period": "2",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#66 - Sean  Magrann",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:12",
+      "team": {
+        "teamId": "1493",
+        "name": "Outlaws"
+      },
+      "scorer": "#41 - Tony  Gorney",
+      "assist1": "#43 - Mike  Barnes",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#21 - Steve  Chan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#21 - Steve  Chan",
+      "assist2": "#15 - John  Cushing"
+    },
+    {
+      "period": "3",
+      "time": "00:04:38",
+      "team": {
+        "teamId": "1493",
+        "name": "Outlaws"
+      },
+      "scorer": "#17 - Adam  Lee",
+      "assist1": "#43 - Mike  Barnes",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#15 - John  Cushing",
+      "assist2": "#7 - Joseph  Hull"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:54",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:30",
+      "team": {
+        "teamId": "1493",
+        "name": "Outlaws"
+      },
+      "player": "#17 - Adam  Lee",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "player": "#26 - Jonathan  Didas",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:24",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "player": "#26 - Jonathan  Didas",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:38",
+      "team": {
+        "teamId": "1493",
+        "name": "Outlaws"
+      },
+      "player": "#17 - Adam  Lee",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:30:33.484Z"
+}

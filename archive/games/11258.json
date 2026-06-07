@@ -1,0 +1,222 @@
+{
+  "gameId": "11258",
+  "date": "2018-03-07",
+  "divId": 171,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1092",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "1093",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#15 - Kevin  Powers",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#44 - Bob  Arnold",
+      "assist1": "#8 - Arturas  Vorobjovas",
+      "assist2": "#15 - Chris  Yoko"
+    },
+    {
+      "period": "1",
+      "time": "00:07:55",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#12 - Peter  Plampin",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#8 - Arturas  Vorobjovas",
+      "assist1": "#12 - Sami  Kymalainen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:29",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#8 - Arturas  Vorobjovas",
+      "assist1": "#44 - Bob  Arnold",
+      "assist2": "#3 - Kareem  El-Alaily"
+    },
+    {
+      "period": "2",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#8 - Arturas  Vorobjovas",
+      "assist1": "#69 - Robert  LaJeunesse",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:11",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#28 - Maxim  Alexeev",
+      "assist1": "#69 - Robert  LaJeunesse",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#74 - Alex  Elcoric",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#28 - Maxim  Alexeev",
+      "assist1": "#44 - Bob  Arnold",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:20",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "# -",
+      "assist1": "#28 - Alex  Henry",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:43",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:51",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:04",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "player": "#74 - Alex  Elcoric",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:57",
+      "team": {
+        "teamId": "1092",
+        "name": "Goons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:19:10.694Z"
+}

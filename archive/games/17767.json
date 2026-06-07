@@ -1,0 +1,119 @@
+{
+  "gameId": "17767",
+  "date": "2025-01-05",
+  "divId": 309,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1887",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1886",
+    "name": "Mesozoic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1886",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#42 - Jason  Searight",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "scorer": "#79 - Sean  Longanecker",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:26",
+      "team": {
+        "teamId": "1886",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#21 - Stephen  Darrow",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:36",
+      "team": {
+        "teamId": "1886",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#74 - Matt  Santos",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "player": "#79 - Sean  Longanecker",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1886",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#0 - Connor  Dwyer",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "player": "#65 - Howard  Ludwig",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:46:24.743Z"
+}

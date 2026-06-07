@@ -1,0 +1,132 @@
+{
+  "gameId": "10471",
+  "date": "2017-06-16",
+  "divId": 161,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1035",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1032",
+    "name": "ers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "1032",
+        "name": "ers"
+      },
+      "scorer": "#94 - Ken  Braverman",
+      "assist1": "#24 - Mike  Giardina",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:33",
+      "team": {
+        "teamId": "1032",
+        "name": "ers"
+      },
+      "scorer": "#24 - Mike  Giardina",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:44",
+      "team": {
+        "teamId": "1032",
+        "name": "ers"
+      },
+      "scorer": "#80 - Jeremy  Feldman",
+      "assist1": "#19 - Joe  Dunn",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:26",
+      "team": {
+        "teamId": "1035",
+        "name": "Jacks"
+      },
+      "scorer": "#40 - Konstantin  Silov",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1032",
+        "name": "ers"
+      },
+      "player": "#17 - Ryan  Bradshaw",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:26",
+      "team": {
+        "teamId": "1035",
+        "name": "Jacks"
+      },
+      "player": "#77 - Oleg  Nayandin",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:36",
+      "team": {
+        "teamId": "1035",
+        "name": "Jacks"
+      },
+      "player": "#16 - Bill  Thompson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:33",
+      "team": {
+        "teamId": "1035",
+        "name": "Jacks"
+      },
+      "player": "#3 - Jeff  Regan",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:06:59.556Z"
+}

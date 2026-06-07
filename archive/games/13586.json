@@ -1,0 +1,154 @@
+{
+  "gameId": "13586",
+  "date": "2020-02-17",
+  "divId": 211,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1332",
+    "name": "Lightning"
+  },
+  "away": {
+    "teamId": "1335",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:59",
+      "team": {
+        "teamId": "1332",
+        "name": "Lightning"
+      },
+      "scorer": "#3 - Jordan  Ziegler",
+      "assist1": "#46 - Charlie  Fancher",
+      "assist2": "#20 - Eric  Nelson"
+    },
+    {
+      "period": "1",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#26 - Brian  Hensel",
+      "assist1": "#18 - Jimmy  Feeney",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:51",
+      "team": {
+        "teamId": "1332",
+        "name": "Lightning"
+      },
+      "scorer": "#46 - Charlie  Fancher",
+      "assist1": "#16 - Josh  Brown",
+      "assist2": "#33 - Mike  Wagner"
+    },
+    {
+      "period": "3",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "1332",
+        "name": "Lightning"
+      },
+      "scorer": "#14 - Harvey  Denison",
+      "assist1": "#30 - Brandon  Heiner",
+      "assist2": "#8 - Mike  Dmytrewycz"
+    },
+    {
+      "period": "3",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "1332",
+        "name": "Lightning"
+      },
+      "scorer": "#30 - Brandon  Heiner",
+      "assist1": "#16 - Josh  Brown",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#26 - Brian  Hensel",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:03",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#42 - Damon  Terzaghi",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:42",
+      "team": {
+        "teamId": "1332",
+        "name": "Lightning"
+      },
+      "player": "#16 - Josh  Brown",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:42",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#89 - Chris  Casselman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:31",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#26 - Brian  Hensel",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:08:08.258Z"
+}

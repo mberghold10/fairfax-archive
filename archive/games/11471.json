@@ -1,0 +1,71 @@
+{
+  "gameId": "11471",
+  "date": "2017-12-23",
+  "divId": 178,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1137",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1138",
+    "name": "Steamed Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:18:01",
+      "team": {
+        "teamId": "1137",
+        "name": "Rink Rats"
+      },
+      "scorer": "#17 - Michael  Bagnall",
+      "assist1": "#68 - Matt  Taylor",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:18",
+      "team": {
+        "teamId": "1138",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#2 - Elliott  Yang",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:16:00",
+      "team": {
+        "teamId": "1138",
+        "name": "Steamed Crabs"
+      },
+      "player": "#20 - William  Robitaille",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:28:22.284Z"
+}

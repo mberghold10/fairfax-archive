@@ -1,0 +1,119 @@
+{
+  "gameId": "18068",
+  "date": "2025-05-25",
+  "divId": 309,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1891",
+    "name": "Roughnecks"
+  },
+  "away": {
+    "teamId": "1887",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1891",
+        "name": "Roughnecks"
+      },
+      "scorer": "#88 - Mark  Griffith",
+      "assist1": "#21 - Finnean  Deveans",
+      "assist2": "#13 - Grey  Moszkowski"
+    },
+    {
+      "period": "2",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1891",
+        "name": "Roughnecks"
+      },
+      "scorer": "#21 - Finnean  Deveans",
+      "assist1": "#28 - Brody  Walkinshaw",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:10",
+      "team": {
+        "teamId": "1891",
+        "name": "Roughnecks"
+      },
+      "scorer": "#88 - Mark  Griffith",
+      "assist1": "#21 - Finnean  Deveans",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:49",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "scorer": "#31 - Zach  Furness",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "player": "#29 - James  Kim",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:19:20",
+      "team": {
+        "teamId": "1887",
+        "name": "Thunder"
+      },
+      "player": "#95 - Patrick  OConnor",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1891",
+        "name": "Roughnecks"
+      },
+      "player": "#81 - Sean  Murphy",
+      "pim": 2,
+      "offense": "Rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:47:02.780Z"
+}

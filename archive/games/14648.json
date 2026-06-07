@@ -1,0 +1,115 @@
+{
+  "gameId": "14648",
+  "date": "2022-01-30",
+  "divId": 243,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1501",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1502",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:17",
+      "team": {
+        "teamId": "1501",
+        "name": "Rink Rats"
+      },
+      "scorer": "#12 - Kieran  McQuilkin",
+      "assist1": "#31 - Zach  Furness",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:35",
+      "team": {
+        "teamId": "1501",
+        "name": "Rink Rats"
+      },
+      "scorer": "#79 - Igor  Helman",
+      "assist1": "#25 - Dave  Brown",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:45",
+      "team": {
+        "teamId": "1501",
+        "name": "Rink Rats"
+      },
+      "scorer": "#12 - Kieran  McQuilkin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1501",
+        "name": "Rink Rats"
+      },
+      "scorer": "#13 - John  Bereza",
+      "assist1": "#12 - Kieran  McQuilkin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:50",
+      "team": {
+        "teamId": "1501",
+        "name": "Rink Rats"
+      },
+      "scorer": "#12 - Kieran  McQuilkin",
+      "assist1": "#13 - John  Bereza",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "1502",
+        "name": "Dragons"
+      },
+      "scorer": "#80 - Chris  Brown",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:25",
+      "team": {
+        "teamId": "1501",
+        "name": "Rink Rats"
+      },
+      "player": "#13 - John  Bereza",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:33:07.231Z"
+}

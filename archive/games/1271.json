@@ -1,0 +1,200 @@
+{
+  "gameId": "1271",
+  "date": "2023-04-21",
+  "divId": 258,
+  "seasonName": "Winter 2022",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1589",
+    "name": "Redhawks"
+  },
+  "away": {
+    "teamId": "1588",
+    "name": "Englewood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:47",
+      "team": {
+        "teamId": "1589",
+        "name": "Redhawks"
+      },
+      "scorer": "#60 - Darryl  Drevna",
+      "assist1": "#46 - Dan  OConnell",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:12",
+      "team": {
+        "teamId": "1589",
+        "name": "Redhawks"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "1588",
+        "name": "Englewood"
+      },
+      "scorer": "#41 - Eugene  Livsics",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "1588",
+        "name": "Englewood"
+      },
+      "scorer": "#20 - Halden  Smith",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1588",
+        "name": "Englewood"
+      },
+      "scorer": "#14 - Dennis  Nayandin",
+      "assist1": null,
+      "assist2": "#2 - Jason  Abkowitz"
+    },
+    {
+      "period": "3",
+      "time": "00:06:50",
+      "team": {
+        "teamId": "1589",
+        "name": "Redhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": "#13 - Ben  Aring",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:33",
+      "team": {
+        "teamId": "1588",
+        "name": "Englewood"
+      },
+      "scorer": "#2 - Jason  Abkowitz",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": "#20 - Halden  Smith"
+    },
+    {
+      "period": "3",
+      "time": "00:14:11",
+      "team": {
+        "teamId": "1589",
+        "name": "Redhawks"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:21",
+      "team": {
+        "teamId": "1588",
+        "name": "Englewood"
+      },
+      "scorer": "#41 - Eugene  Livsics",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1588",
+        "name": "Englewood"
+      },
+      "player": "#100 - Goalie  Subsititute",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:44",
+      "team": {
+        "teamId": "1588",
+        "name": "Englewood"
+      },
+      "player": "#7 - Joseph  Hull",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:46",
+      "team": {
+        "teamId": "1589",
+        "name": "Redhawks"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:46",
+      "team": {
+        "teamId": "1589",
+        "name": "Redhawks"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:10",
+      "team": {
+        "teamId": "1588",
+        "name": "Englewood"
+      },
+      "player": "#28 - Charles  Hale",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:50:53.365Z"
+}

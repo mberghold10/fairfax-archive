@@ -1,0 +1,158 @@
+{
+  "gameId": "1157",
+  "date": "2021-10-17",
+  "divId": 233,
+  "seasonName": "Summer 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1453",
+    "name": "Jurassic Puck"
+  },
+  "away": {
+    "teamId": "1457",
+    "name": "D Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1457",
+        "name": "D Punishers"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:23",
+      "team": {
+        "teamId": "1457",
+        "name": "D Punishers"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1457",
+        "name": "D Punishers"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:04",
+      "team": {
+        "teamId": "1453",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#10 - Radislaw  Kaczor",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:54",
+      "team": {
+        "teamId": "1457",
+        "name": "D Punishers"
+      },
+      "player": "#27 - Dave  Lin",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1453",
+        "name": "Jurassic Puck"
+      },
+      "player": "#10 - Radislaw  Kaczor",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1457",
+        "name": "D Punishers"
+      },
+      "player": "#37 - Nick  Desport",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:46",
+      "team": {
+        "teamId": "1457",
+        "name": "D Punishers"
+      },
+      "player": "#15 - Phil  Wind",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:47",
+      "team": {
+        "teamId": "1457",
+        "name": "D Punishers"
+      },
+      "player": "#15 - Phil  Wind",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "1453",
+        "name": "Jurassic Puck"
+      },
+      "player": "#10 - Radislaw  Kaczor",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:25:58.892Z"
+}

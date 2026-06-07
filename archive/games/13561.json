@@ -1,0 +1,110 @@
+{
+  "gameId": "13561",
+  "date": "2020-02-23",
+  "divId": 210,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1327",
+    "name": "Whalers"
+  },
+  "away": {
+    "teamId": "1330",
+    "name": "Devils"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:09:39",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "scorer": "#17 - Matt  Faha",
+      "assist1": "#42 - Chris  Guastaferro",
+      "assist2": "#8 - Peter  Lee"
+    },
+    {
+      "period": "2",
+      "time": "00:12:39",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "scorer": "#17 - Matt  Faha",
+      "assist1": "#8 - Peter  Lee",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1330",
+        "name": "Devils"
+      },
+      "player": "#10 - Chris  Chagnon",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "player": "#2 - Steve  Sondheimer",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "player": "#20 - Jordan  Woll",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:50",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "player": "#10 - Chris  Greenough",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:06:53.739Z"
+}

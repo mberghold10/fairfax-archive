@@ -1,0 +1,289 @@
+{
+  "gameId": "17786",
+  "date": "2025-03-17",
+  "divId": 299,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1841",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1840",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 4,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#4 - Sean  Courtney",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:48",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#28 - Carrick  Randall",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:52",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#4 - Sean  Courtney",
+      "assist1": "#44 - Scott  Kuehn",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:25",
+      "team": {
+        "teamId": "1841",
+        "name": "Dragons"
+      },
+      "scorer": "#7 - Connor  Anderson",
+      "assist1": "#88 - Maddy  Padgett",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:36",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#2 - Ari  Loggia",
+      "assist1": "#28 - Carrick  Randall",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:11",
+      "team": {
+        "teamId": "1841",
+        "name": "Dragons"
+      },
+      "scorer": "#4 - Josiah  Renton",
+      "assist1": "#88 - Maddy  Padgett",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:51",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#90 - Shawn  McEvoy",
+      "assist1": "#2 - Ari  Loggia",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:16",
+      "team": {
+        "teamId": "1841",
+        "name": "Dragons"
+      },
+      "scorer": "#4 - Josiah  Renton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:44",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": "#6 - Kyle  Herring"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "player": "#6 - Kyle  Herring",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:01:56",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "player": "#83 - Jonathan  Dingle",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "1841",
+        "name": "Dragons"
+      },
+      "player": "#100 - Goal  Subtitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:25",
+      "team": {
+        "teamId": "1841",
+        "name": "Dragons"
+      },
+      "player": "#7 - Connor  Anderson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:25",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "player": "#6 - Kyle  Herring",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:58",
+      "team": {
+        "teamId": "1841",
+        "name": "Dragons"
+      },
+      "player": "#3 - Ilana  Bell",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:35",
+      "team": {
+        "teamId": "1841",
+        "name": "Dragons"
+      },
+      "player": "#71 - Raymond  Robie",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:56",
+      "team": {
+        "teamId": "1841",
+        "name": "Dragons"
+      },
+      "player": "#7 - Connor  Anderson",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:51",
+      "team": {
+        "teamId": "1841",
+        "name": "Dragons"
+      },
+      "player": "#89 - AJ  Saleh",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:49",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "player": "#28 - Carrick  Randall",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:22",
+      "team": {
+        "teamId": "1840",
+        "name": "British Bulldogs"
+      },
+      "player": "#6 - Kyle  Herring",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:36:38.221Z"
+}

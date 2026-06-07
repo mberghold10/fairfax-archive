@@ -1,0 +1,93 @@
+{
+  "gameId": "11911",
+  "date": "2018-07-28",
+  "divId": 186,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1182",
+    "name": "Mighty Moose"
+  },
+  "away": {
+    "teamId": "1187",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#18 - Jimmy  Feeney",
+      "assist1": "#67 - Brian  Landers",
+      "assist2": "#8 - AJ  Ellis"
+    },
+    {
+      "period": "1",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1182",
+        "name": "Mighty Moose"
+      },
+      "scorer": "#70 - Dru  Fearing",
+      "assist1": "#27 - Greg  Thompson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:49",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#14 - David  Fisher",
+      "assist1": "#6 - JB  Merritt",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:35",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#9 - Greg  Sibley",
+      "assist1": "#67 - Brian  Landers",
+      "assist2": "#4 - Sam  Hauslohner"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:03:07",
+      "team": {
+        "teamId": "1182",
+        "name": "Mighty Moose"
+      },
+      "player": "#6 - Brad  Martsching",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:37:56.984Z"
+}

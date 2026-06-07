@@ -1,0 +1,130 @@
+{
+  "gameId": "1150",
+  "date": "2021-10-24",
+  "divId": 231,
+  "seasonName": "Summer 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1444",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1445",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:55",
+      "team": {
+        "teamId": "1445",
+        "name": "Kings"
+      },
+      "scorer": "#26 - Zachary  Shelnitz",
+      "assist1": "#9 - Tommy  Meaux",
+      "assist2": "#89 - Taylor  Eavenson"
+    },
+    {
+      "period": "2",
+      "time": "00:06:08",
+      "team": {
+        "teamId": "1445",
+        "name": "Kings"
+      },
+      "scorer": "#26 - Zachary  Shelnitz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:53",
+      "team": {
+        "teamId": "1444",
+        "name": "Englewood"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": "#14 - Dennis  Nayandin"
+    },
+    {
+      "period": "2",
+      "time": "00:09:56",
+      "team": {
+        "teamId": "1445",
+        "name": "Kings"
+      },
+      "scorer": "#26 - Zachary  Shelnitz",
+      "assist1": "#64 - Derek  Bluth",
+      "assist2": "#28 - Chris  Marotta"
+    },
+    {
+      "period": "2",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "1445",
+        "name": "Kings"
+      },
+      "scorer": "#9 - Tommy  Meaux",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:47",
+      "team": {
+        "teamId": "1444",
+        "name": "Englewood"
+      },
+      "player": "#4 - Mark  Sullivan",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:26",
+      "team": {
+        "teamId": "1444",
+        "name": "Englewood"
+      },
+      "player": "#77 - Oleg  Nayandin",
+      "pim": 2,
+      "offense": "g int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:39",
+      "team": {
+        "teamId": "1445",
+        "name": "Kings"
+      },
+      "player": "#26 - Zachary  Shelnitz",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:24:38.515Z"
+}

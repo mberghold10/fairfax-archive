@@ -1,0 +1,134 @@
+{
+  "gameId": "13170",
+  "date": "2019-08-25",
+  "divId": 207,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1313",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1309",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1309",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#38 - Gregory  Haas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "1313",
+        "name": "Red Wings"
+      },
+      "scorer": "#12 - Gus  Anderson",
+      "assist1": "#10 - Owen  Schaefer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:13",
+      "team": {
+        "teamId": "1309",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#88 - Jason  Searight",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1309",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#38 - Gregory  Haas",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:19",
+      "team": {
+        "teamId": "1309",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#42 - Mo  OSullivan",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1309",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#77 - Scott  Peterson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:51",
+      "team": {
+        "teamId": "1313",
+        "name": "Red Wings"
+      },
+      "player": "#29 - Regina  Hart",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:01:13",
+      "team": {
+        "teamId": "1313",
+        "name": "Red Wings"
+      },
+      "player": "#12 - Gus  Anderson",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:03:27.771Z"
+}

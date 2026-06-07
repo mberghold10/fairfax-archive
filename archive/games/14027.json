@@ -1,0 +1,106 @@
+{
+  "gameId": "14027",
+  "date": "2021-05-22",
+  "divId": 227,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1426",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "1424",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:31",
+      "team": {
+        "teamId": "1424",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#89 - Sid  Han",
+      "assist1": "#11 - Josh  Gilman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "1426",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#42 - Conor  Overend",
+      "assist1": "#0 - Ruben  Garcia",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:58",
+      "team": {
+        "teamId": "1424",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#36 - Motale  Efimba",
+      "assist1": "#77 - Paul  Cicchetti",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1426",
+        "name": "Mad Dogs"
+      },
+      "scorer": "# -",
+      "assist1": "#34 - Josh  Davis",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:40",
+      "team": {
+        "teamId": "1424",
+        "name": "Blackskimmers"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1424",
+        "name": "Blackskimmers"
+      },
+      "player": "#36 - Motale  Efimba",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:21:38.757Z"
+}

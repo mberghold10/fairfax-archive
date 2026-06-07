@@ -1,0 +1,73 @@
+{
+  "gameId": "16458",
+  "date": "2023-12-10",
+  "divId": 278,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1711",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1713",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:06:24",
+      "team": {
+        "teamId": "1713",
+        "name": "Angry Moose"
+      },
+      "scorer": "#1 - Ryan  Gardiner",
+      "assist1": "#97 - Daniel  Gonzalez",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "1711",
+        "name": "Rink Rats"
+      },
+      "player": "#9 - Chris  ORear",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:56",
+      "team": {
+        "teamId": "1713",
+        "name": "Angry Moose"
+      },
+      "player": "#93 - Peter  Lee",
+      "pim": 2,
+      "offense": "Interference",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:14:09.980Z"
+}

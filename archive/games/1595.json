@@ -1,0 +1,130 @@
+{
+  "gameId": "1595",
+  "date": "2025-11-23",
+  "divId": 318,
+  "seasonName": "Summer 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1949",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1948",
+    "name": "Mesozoic Pucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "1949",
+        "name": "Thunder"
+      },
+      "scorer": "#2 - Jen  Grotpeter",
+      "assist1": "#40 - Brandon  Sweezea",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "1948",
+        "name": "Mesozoic Pucks"
+      },
+      "scorer": "#74 - Matt  Santos",
+      "assist1": "#37 - Michael  Wisniewski",
+      "assist2": "#33 - Scott  Coco"
+    },
+    {
+      "period": "3",
+      "time": "00:10:25",
+      "team": {
+        "teamId": "1949",
+        "name": "Thunder"
+      },
+      "scorer": "#44 - Matt  Waggoner",
+      "assist1": "#40 - Brandon  Sweezea",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:09",
+      "team": {
+        "teamId": "1948",
+        "name": "Mesozoic Pucks"
+      },
+      "scorer": "#37 - Michael  Wisniewski",
+      "assist1": "#61 - Wes  Bieliek",
+      "assist2": "#33 - Scott  Coco"
+    },
+    {
+      "period": "4",
+      "time": "00:05:39",
+      "team": {
+        "teamId": "1948",
+        "name": "Mesozoic Pucks"
+      },
+      "scorer": "#66 - Tarek  Saad",
+      "assist1": "#94 - Mike  Starego",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:01",
+      "team": {
+        "teamId": "1949",
+        "name": "Thunder"
+      },
+      "player": "#47 - Dave  LeKuch",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:36",
+      "team": {
+        "teamId": "1949",
+        "name": "Thunder"
+      },
+      "player": "#47 - Dave  LeKuch",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:16",
+      "team": {
+        "teamId": "1949",
+        "name": "Thunder"
+      },
+      "player": "#71 - Matt  Roberson",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:57:58.681Z"
+}

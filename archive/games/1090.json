@@ -1,0 +1,178 @@
+{
+  "gameId": "1090",
+  "date": "2020-08-14",
+  "divId": 216,
+  "seasonName": "Winter 2019",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1368",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1363",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:48",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#74 - Mik  Berwin",
+      "assist1": "#5 - Chris  Oman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#5 - Chris  Oman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:26",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#74 - Mik  Berwin",
+      "assist1": "#5 - Chris  Oman",
+      "assist2": "#28 - Richard  Pettey"
+    },
+    {
+      "period": "2",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#19 - Tristan  Anderson",
+      "assist1": "#10 - owen  Schaefer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#2 - James  Kim",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#19 - Tristan  Anderson",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:52",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#5 - Chris  Oman",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "player": "#89 - Jim  Rathbone",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:51",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "player": "#3 - Charlie  Beekman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:41",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "player": "#19 - Tristan  Anderson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:04",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "player": "#28 - Richard  Pettey",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:35",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "player": "#19 - Tristan  Anderson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:14:46.702Z"
+}

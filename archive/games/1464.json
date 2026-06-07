@@ -1,0 +1,161 @@
+{
+  "gameId": "1464",
+  "date": "2024-11-05",
+  "divId": 294,
+  "seasonName": "Summer 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1799",
+    "name": "Gold Goats"
+  },
+  "away": {
+    "teamId": "1801",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 4,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "1799",
+        "name": "Gold Goats"
+      },
+      "scorer": "#44 - Sean  Cullen",
+      "assist1": "#12 - Dave  OMalley",
+      "assist2": "#17 - Dan  Pol"
+    },
+    {
+      "period": "1",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1799",
+        "name": "Gold Goats"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#22 - Ken  Ochsner",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:14",
+      "team": {
+        "teamId": "1799",
+        "name": "Gold Goats"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "1801",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#51 - Bob  Sagusti",
+      "assist1": "#8 - Elliott  Yang",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:43",
+      "team": {
+        "teamId": "1799",
+        "name": "Gold Goats"
+      },
+      "scorer": "#44 - Sean  Cullen",
+      "assist1": "#12 - Dave  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:08",
+      "team": {
+        "teamId": "1801",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#16 - Greg  Thomas",
+      "assist1": "#14 - Dave  Fisher",
+      "assist2": "#8 - Elliott  Yang"
+    },
+    {
+      "period": "2",
+      "time": "00:06:36",
+      "team": {
+        "teamId": "1799",
+        "name": "Gold Goats"
+      },
+      "scorer": "#44 - Sean  Cullen",
+      "assist1": "#94 - Dave  Sinniger",
+      "assist2": "#12 - Dave  OMalley"
+    },
+    {
+      "period": "3",
+      "time": "00:00:58",
+      "team": {
+        "teamId": "1799",
+        "name": "Gold Goats"
+      },
+      "scorer": "#26 - Bob  Shay",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": "#94 - Dave  Sinniger"
+    },
+    {
+      "period": "3",
+      "time": "00:08:21",
+      "team": {
+        "teamId": "1799",
+        "name": "Gold Goats"
+      },
+      "scorer": "#44 - Sean  Cullen",
+      "assist1": "#94 - Dave  Sinniger",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:22",
+      "team": {
+        "teamId": "1799",
+        "name": "Gold Goats"
+      },
+      "player": "#15 - Tom  Sgroi",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:42",
+      "team": {
+        "teamId": "1801",
+        "name": "Maple Leafs"
+      },
+      "player": "#23 - Trevor  Blair",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:32:24.125Z"
+}

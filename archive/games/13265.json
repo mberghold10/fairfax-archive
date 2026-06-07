@@ -1,0 +1,86 @@
+{
+  "gameId": "13265",
+  "date": "2019-10-20",
+  "divId": 216,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1368",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1363",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#9 - Jon  Hulecki",
+      "assist1": "#23 - Nicholas  Karsten",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "player": "#28 - Richard  Pettey",
+      "pim": 4,
+      "offense": "int/unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:24",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "player": "#2 - JP  Gardner",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "player": "#100 - Goalie  Subtitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:13:54.301Z"
+}

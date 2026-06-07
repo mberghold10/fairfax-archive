@@ -1,0 +1,224 @@
+{
+  "gameId": "15802",
+  "date": "2023-02-12",
+  "divId": 264,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1628",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1624",
+    "name": "Goon Nation"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": "#19 - Jason  Long",
+      "assist2": "#7 - Dave  Neri"
+    },
+    {
+      "period": "1",
+      "time": "00:01:48",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#16 - Carlos  Novoa",
+      "assist2": "#12 - Adam  Olsen"
+    },
+    {
+      "period": "1",
+      "time": "00:11:05",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#19 - Jason  Long",
+      "assist2": "#0 - Ruben  Garcia"
+    },
+    {
+      "period": "1",
+      "time": "00:13:50",
+      "team": {
+        "teamId": "1624",
+        "name": "Goon Nation"
+      },
+      "scorer": "#15 - Warren  Conrow",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:18",
+      "team": {
+        "teamId": "1624",
+        "name": "Goon Nation"
+      },
+      "scorer": "#37 - Byron  Katz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "scorer": "#16 - Carlos  Novoa",
+      "assist1": "#1 - Chris  Beach",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "scorer": "#89 - Frank  Congel",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:48",
+      "team": {
+        "teamId": "1624",
+        "name": "Goon Nation"
+      },
+      "scorer": "#42 - Christian  Gibbons",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:32",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "scorer": "#12 - Adam  Olsen",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:45",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "scorer": "#16 - Carlos  Novoa",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": "#15 - Mark  Yawornicky"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "1624",
+        "name": "Goon Nation"
+      },
+      "player": "#2 - James  Marlowe",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:58",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "player": "#16 - Carlos  Novoa",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:45",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "player": "#12 - Adam  Olsen",
+      "pim": 2,
+      "offense": "g int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:58:38.636Z"
+}

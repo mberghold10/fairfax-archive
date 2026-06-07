@@ -1,0 +1,147 @@
+{
+  "gameId": "16692",
+  "date": "2024-04-01",
+  "divId": 277,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1704",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1703",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:36",
+      "team": {
+        "teamId": "1703",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#2 - Ari  Loggia",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:09",
+      "team": {
+        "teamId": "1704",
+        "name": "Dragons"
+      },
+      "scorer": "#55 - Griffin  Bryce",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:18",
+      "team": {
+        "teamId": "1703",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#12 - Steven  Courson",
+      "assist1": "#34 - Michael  Garrity",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:17",
+      "team": {
+        "teamId": "1704",
+        "name": "Dragons"
+      },
+      "player": "#7 - Connor  Anderson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:26",
+      "team": {
+        "teamId": "1703",
+        "name": "British Bulldogs"
+      },
+      "player": "#9 - James  Boland",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:51",
+      "team": {
+        "teamId": "1703",
+        "name": "British Bulldogs"
+      },
+      "player": "#33 - Hung  Pham",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1703",
+        "name": "British Bulldogs"
+      },
+      "player": "#9 - James  Boland",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1704",
+        "name": "Dragons"
+      },
+      "player": "#81 - Ryan  Smarsh",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:35",
+      "team": {
+        "teamId": "1703",
+        "name": "British Bulldogs"
+      },
+      "player": "#9 - James  Boland",
+      "pim": 2,
+      "offense": "contact",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:13:24.563Z"
+}

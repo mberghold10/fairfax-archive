@@ -1,0 +1,180 @@
+{
+  "gameId": "1497",
+  "date": "2025-06-15",
+  "divId": 298,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1833",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1832",
+    "name": "4th Liners"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:45",
+      "team": {
+        "teamId": "1832",
+        "name": "4th Liners"
+      },
+      "scorer": "#92 - Brendan  Horgas",
+      "assist1": "#14 - Alex  Bronson",
+      "assist2": "#15 - Patrick  Judge"
+    },
+    {
+      "period": "1",
+      "time": "00:06:11",
+      "team": {
+        "teamId": "1833",
+        "name": "Englewood"
+      },
+      "scorer": "#48 - Isaac  Hale",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:46",
+      "team": {
+        "teamId": "1833",
+        "name": "Englewood"
+      },
+      "scorer": "#54 - Ryan  Galluzzo",
+      "assist1": "#2 - Jason  Abkowitz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "1832",
+        "name": "4th Liners"
+      },
+      "scorer": "#71 - Colin  Shin",
+      "assist1": "#15 - Patrick  Judge",
+      "assist2": "#8 - Andrew  Lipsitz"
+    },
+    {
+      "period": "1",
+      "time": "00:09:28",
+      "team": {
+        "teamId": "1833",
+        "name": "Englewood"
+      },
+      "scorer": "#25 - Gavin  Rieger",
+      "assist1": "#9 - Mitch  Bourgerie",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1833",
+        "name": "Englewood"
+      },
+      "scorer": "#25 - Gavin  Rieger",
+      "assist1": "#5 - Jonathan  Didas",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:47",
+      "team": {
+        "teamId": "1832",
+        "name": "4th Liners"
+      },
+      "player": "#4 - Campbell  Burns",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:02",
+      "team": {
+        "teamId": "1833",
+        "name": "Englewood"
+      },
+      "player": "#5 - Jonathan  Didas",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:36",
+      "team": {
+        "teamId": "1832",
+        "name": "4th Liners"
+      },
+      "player": "#3 - Colin  Ray",
+      "pim": 5,
+      "offense": "knee",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:36",
+      "team": {
+        "teamId": "1832",
+        "name": "4th Liners"
+      },
+      "player": "#3 - Colin  Ray",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:02",
+      "team": {
+        "teamId": "1832",
+        "name": "4th Liners"
+      },
+      "player": "#17 - Andrew  Golomb",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1832",
+        "name": "4th Liners"
+      },
+      "player": "#7 - Jonny  Vu",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:35:45.973Z"
+}

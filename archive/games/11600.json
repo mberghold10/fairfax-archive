@@ -1,0 +1,163 @@
+{
+  "gameId": "11600",
+  "date": "2018-06-12",
+  "divId": 182,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1160",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1161",
+    "name": "Beltway Butchers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1161",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#77 - Erik  Bergman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:33",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "scorer": "#17 - John  Wallace",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": "#25 - Greg  Reece"
+    },
+    {
+      "period": "2",
+      "time": "00:02:25",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:36",
+      "team": {
+        "teamId": "1161",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#86 - John  Persinger",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": "#71 - John  Buhler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:52",
+      "team": {
+        "teamId": "1161",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#12 - Allen  Lassinger",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:56",
+      "team": {
+        "teamId": "1161",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:25",
+      "team": {
+        "teamId": "1161",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#12 - Allen  Lassinger",
+      "assist1": "#23 - Ken  Degrave",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:23",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "player": "#17 - John  Wallace",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:23",
+      "team": {
+        "teamId": "1161",
+        "name": "Beltway Butchers"
+      },
+      "player": "#23 - Ken  Degrave",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:48",
+      "team": {
+        "teamId": "1161",
+        "name": "Beltway Butchers"
+      },
+      "player": "#23 - Ken  Degrave",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:32:26.672Z"
+}

@@ -1,0 +1,189 @@
+{
+  "gameId": "13558",
+  "date": "2020-02-22",
+  "divId": 210,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1327",
+    "name": "Whalers"
+  },
+  "away": {
+    "teamId": "1326",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": "#20 - Rich  Utano",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:10",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "scorer": "#55 - Mike  Stawick",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:42",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "scorer": "#95 - Tony  Copeland",
+      "assist1": "#37 - KC  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:44",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": "#87 - Stan  Kolodin",
+      "assist2": "#5 - Oleg  Kolodin"
+    },
+    {
+      "period": "2",
+      "time": "00:01:14",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "scorer": "#21 - John  Miles",
+      "assist1": "#95 - Tony  Copeland",
+      "assist2": "#70 - Austin  Cox"
+    },
+    {
+      "period": "2",
+      "time": "00:10:48",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "scorer": "#21 - John  Miles",
+      "assist1": "#95 - Tony  Copeland",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "scorer": "#70 - Austin  Cox",
+      "assist1": "#95 - Tony  Copeland",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:52",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "scorer": "#12 - Jason  Wakeman",
+      "assist1": "#43 - Alex  Utano",
+      "assist2": "#5 - Oleg  Kolodin"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:35",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "player": "#2 - Steve  Sondheimer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:06",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "player": "#66 - Neil  Shoults",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:53",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "player": "#33 - Stephen  Burnette",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "player": "#58 - Jack  Crowley",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1327",
+        "name": "Whalers"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:06:50.842Z"
+}

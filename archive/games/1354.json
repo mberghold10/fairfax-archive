@@ -1,0 +1,174 @@
+{
+  "gameId": "1354",
+  "date": "2023-10-15",
+  "divId": 269,
+  "seasonName": "Summer 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1659",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1663",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "1659",
+        "name": "Rink Rats"
+      },
+      "scorer": "#23 - Dan  Bardo",
+      "assist1": "#13 - John  Bereza",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:25",
+      "team": {
+        "teamId": "1659",
+        "name": "Rink Rats"
+      },
+      "scorer": "#13 - John  Bereza",
+      "assist1": "#9 - Chris  ORear",
+      "assist2": "#37 - TJ  Wolf"
+    },
+    {
+      "period": "1",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1659",
+        "name": "Rink Rats"
+      },
+      "scorer": "#31 - Zach  Furness",
+      "assist1": "#70 - Seth  Kumpf",
+      "assist2": "#98 - Carl  Tierney"
+    },
+    {
+      "period": "2",
+      "time": "00:02:18",
+      "team": {
+        "teamId": "1663",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#28 - Ed  Holleran",
+      "assist1": "#24 - Brian  Davies",
+      "assist2": "#17 - Josh  Bliudzius"
+    },
+    {
+      "period": "2",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1663",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#28 - Ed  Holleran",
+      "assist1": "#5 - Roger  Jordan",
+      "assist2": "#17 - Josh  Bliudzius"
+    },
+    {
+      "period": "2",
+      "time": "00:10:35",
+      "team": {
+        "teamId": "1663",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#28 - Ed  Holleran",
+      "assist1": "#24 - Brian  Davies",
+      "assist2": "#5 - Roger  Jordan"
+    },
+    {
+      "period": "3",
+      "time": "00:09:19",
+      "team": {
+        "teamId": "1663",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:06",
+      "team": {
+        "teamId": "1659",
+        "name": "Rink Rats"
+      },
+      "scorer": "#33 - Zach  Sowinski",
+      "assist1": "#23 - Dan  Bardo",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:24",
+      "team": {
+        "teamId": "1663",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#5 - Roger  Jordan",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1663",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#10 - Angelo  Ponirakis",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1659",
+        "name": "Rink Rats"
+      },
+      "player": "#13 - John  Bereza",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:34",
+      "team": {
+        "teamId": "1663",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#9 - Greg  Sibley",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:04:42.433Z"
+}

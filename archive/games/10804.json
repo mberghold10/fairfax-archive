@@ -1,0 +1,139 @@
+{
+  "gameId": "10804",
+  "date": "2017-07-30",
+  "divId": 166,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1060",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1065",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "scorer": "#21 - Graham  Pough",
+      "assist1": "#23 - Alex  DeYoung",
+      "assist2": "#22 - JongJae  Yoo"
+    },
+    {
+      "period": "1",
+      "time": "00:03:47",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#21 - Jim  Callow",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:57",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#19 - Colin  Million",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#21 - Jim  Callow",
+      "assist1": "#19 - Colin  Million",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:20",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#8 - Jon  Goldstein",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#12 - Roger  Lagunoff",
+      "assist1": "#80 - Matt  Rogers",
+      "assist2": "#88 - Brian  Ray"
+    },
+    {
+      "period": "3",
+      "time": "00:14:19",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#19 - Colin  Million",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "player": "#19 - Colin  Million",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:09",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "player": "#11 - Sam  Marchio",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:13:39.187Z"
+}

@@ -1,0 +1,167 @@
+{
+  "gameId": "1600",
+  "date": "2025-11-22",
+  "divId": 319,
+  "seasonName": "Summer 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1958",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1957",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:06",
+      "team": {
+        "teamId": "1957",
+        "name": "Coyotes"
+      },
+      "scorer": "#25 - Steve  Tamburo",
+      "assist1": "#3 - Bill  Schultheiss",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1957",
+        "name": "Coyotes"
+      },
+      "scorer": "#3 - Bill  Schultheiss",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:39",
+      "team": {
+        "teamId": "1957",
+        "name": "Coyotes"
+      },
+      "scorer": "#56 - Ryan  Tyler",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:20",
+      "team": {
+        "teamId": "1957",
+        "name": "Coyotes"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": "#22 - Sonny  Gupta",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:47",
+      "team": {
+        "teamId": "1957",
+        "name": "Coyotes"
+      },
+      "scorer": "#22 - Sonny  Gupta",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "1957",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#22 - Sonny  Gupta",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:59",
+      "team": {
+        "teamId": "1958",
+        "name": "Penguins"
+      },
+      "player": "#43 - Henry  Weisiger",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "1958",
+        "name": "Penguins"
+      },
+      "player": "#2 - Shawn  Hatch",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "1957",
+        "name": "Coyotes"
+      },
+      "player": "#33 - Hung  Pham",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:02",
+      "team": {
+        "teamId": "1958",
+        "name": "Penguins"
+      },
+      "player": "#15 - Mark  Rudnicki",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:20",
+      "team": {
+        "teamId": "1957",
+        "name": "Coyotes"
+      },
+      "player": "#22 - Sonny  Gupta",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:58:12.907Z"
+}

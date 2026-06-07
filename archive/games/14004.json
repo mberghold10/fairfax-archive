@@ -1,0 +1,139 @@
+{
+  "gameId": "14004",
+  "date": "2021-05-17",
+  "divId": 226,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1418",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1416",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 1,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "1416",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#20 - Mike  McLenahan",
+      "assist1": "#71 - Charlie  Tourbaf",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#59 - Tim  McCarthy",
+      "assist1": "#15 - David  Eyre",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:33",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#59 - Tim  McCarthy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:33",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#18 - Michael  Dewhirst",
+      "assist1": "#51 - Eddy  Lucas",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:58",
+      "team": {
+        "teamId": "1416",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#69 - Noah  Loggia",
+      "assist1": "#9 - James  Boland",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:45",
+      "team": {
+        "teamId": "1416",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": "#12 - Chris  Yoko",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:45",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "player": "#17 - Maxim  Rinaldi",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1416",
+        "name": "British Bulldogs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:20:40.233Z"
+}

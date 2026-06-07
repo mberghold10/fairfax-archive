@@ -1,0 +1,119 @@
+{
+  "gameId": "10361",
+  "date": "2017-03-03",
+  "divId": 153,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "985",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "983",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:49",
+      "team": {
+        "teamId": "983",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#9 - Tony  Cusumano",
+      "assist2": "#2 - Peter  OKeffe"
+    },
+    {
+      "period": "2",
+      "time": "00:01:09",
+      "team": {
+        "teamId": "983",
+        "name": "Bruins"
+      },
+      "scorer": "#21 - Adam  Kaczmarek",
+      "assist1": "#19 - Mike  Carr",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:23",
+      "team": {
+        "teamId": "983",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#11 - Brian  Maloney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "983",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#18 - Peter  Dimmick",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "983",
+        "name": "Bruins"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "player": "#36 - Jon  Stehle",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:59",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "player": "#36 - Jon  Stehle",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:57:02.151Z"
+}

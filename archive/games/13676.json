@@ -1,0 +1,128 @@
+{
+  "gameId": "13676",
+  "date": "2020-02-21",
+  "divId": 214,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1353",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1352",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#2 - Shawn  Hatch",
+      "assist1": "#15 - Mark  Rudnicki",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:41",
+      "team": {
+        "teamId": "1353",
+        "name": "Coyotes"
+      },
+      "scorer": "#1 - Brian  Freeman",
+      "assist1": "#7 - Paul  Flood",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:37",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#15 - Mark  Rudnicki",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:39",
+      "team": {
+        "teamId": "1353",
+        "name": "Coyotes"
+      },
+      "scorer": "#0 - Ruben  Garcia",
+      "assist1": "#27 - Jamie  Prime",
+      "assist2": "#7 - Paul  Flood"
+    },
+    {
+      "period": "3",
+      "time": "00:02:27",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#17 - Marvin  Scott",
+      "assist1": "#81 - Chris  Holden",
+      "assist2": "#37 - Mike  Przybyla"
+    },
+    {
+      "period": "3",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#37 - Mike  Przybyla",
+      "assist1": "#2 - Shawn  Hatch",
+      "assist2": "#15 - Mark  Rudnicki"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#37 - Mike  Przybyla",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:02",
+      "team": {
+        "teamId": "1353",
+        "name": "Coyotes"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:11:59.137Z"
+}

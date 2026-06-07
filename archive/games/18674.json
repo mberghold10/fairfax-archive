@@ -1,0 +1,130 @@
+{
+  "gameId": "18674",
+  "date": "2026-01-24",
+  "divId": 322,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1977",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1971",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:54",
+      "team": {
+        "teamId": "1971",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": "#7 - Eddy  Graham",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "1977",
+        "name": "Rink Rats"
+      },
+      "scorer": "#8 - Joey  McDonald",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:09",
+      "team": {
+        "teamId": "1971",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": "#7 - Eddy  Graham",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1977",
+        "name": "Rink Rats"
+      },
+      "scorer": "#13 - John  Bereza",
+      "assist1": "#70 - Seth  Kumpf",
+      "assist2": "#23 - Dan  Bardo"
+    },
+    {
+      "period": "3",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1977",
+        "name": "Rink Rats"
+      },
+      "scorer": "#70 - Seth  Kumpf",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:02",
+      "team": {
+        "teamId": "1971",
+        "name": "Jurassic Puck"
+      },
+      "player": "#44 - George  Cernica",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:54",
+      "team": {
+        "teamId": "1977",
+        "name": "Rink Rats"
+      },
+      "player": "#88 - Jason  Searight",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:50",
+      "team": {
+        "teamId": "1971",
+        "name": "Jurassic Puck"
+      },
+      "player": "#7 - Eddy  Graham",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:00:47.641Z"
+}

@@ -1,0 +1,128 @@
+{
+  "gameId": "14547",
+  "date": "2021-12-05",
+  "divId": 247,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1527",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1530",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:20",
+      "team": {
+        "teamId": "1530",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#32 - Brian  Freeman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:43",
+      "team": {
+        "teamId": "1530",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#31 - Alex  Brown",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:52",
+      "team": {
+        "teamId": "1530",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": "#20 - Bao  Pham",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1530",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#19 - Bryan  Moffett",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1527",
+        "name": "Wolves"
+      },
+      "scorer": "#9 - Shannon  Karner",
+      "assist1": "#29 - Ron  Szatmary",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:11",
+      "team": {
+        "teamId": "1530",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#31 - Alex  Brown",
+      "assist2": "#38 - Mike  Andrien"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:40",
+      "team": {
+        "teamId": "1530",
+        "name": "Maple Leafs"
+      },
+      "player": "#31 - Alex  Brown",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "1530",
+        "name": "Maple Leafs"
+      },
+      "player": "#19 - Bryan  Moffett",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:37:49.731Z"
+}

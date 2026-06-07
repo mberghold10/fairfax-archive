@@ -1,0 +1,128 @@
+{
+  "gameId": "15786",
+  "date": "2023-04-02",
+  "divId": 263,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1617",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1618",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:40",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#36 - William  Ludke",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:39",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#55 - Joel  Whitney",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:20",
+      "team": {
+        "teamId": "1618",
+        "name": "Old Goats"
+      },
+      "scorer": "#40 - Matt  Michelson",
+      "assist1": "#5 - Brad  Seibert",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#25 - Malcolm  Hyson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "scorer": "#25 - Malcolm  Hyson",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": "#36 - William  Ludke"
+    },
+    {
+      "period": "3",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "scorer": "#25 - Malcolm  Hyson",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": "#8 - Dan  Brehm"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:39",
+      "team": {
+        "teamId": "1617",
+        "name": "Flying Circus"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:43",
+      "team": {
+        "teamId": "1618",
+        "name": "Old Goats"
+      },
+      "player": "#40 - Matt  Michelson",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:57:27.913Z"
+}

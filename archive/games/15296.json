@@ -1,0 +1,165 @@
+{
+  "gameId": "15296",
+  "date": "2022-09-13",
+  "divId": 255,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1575",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1576",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 1,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "1576",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#43 - Steve  Sincavage",
+      "assist1": "#8 - Elliott  Yang",
+      "assist2": "#48 - Randy  Sasai"
+    },
+    {
+      "period": "2",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1575",
+        "name": "Hurricanes"
+      },
+      "scorer": "#9 - Rick  Cole",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:15",
+      "team": {
+        "teamId": "1576",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#43 - Steve  Sincavage",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:16",
+      "team": {
+        "teamId": "1576",
+        "name": "Maple Leafs"
+      },
+      "scorer": "# -",
+      "assist1": "#19 - Bryan  Moffet",
+      "assist2": "#3 - Frank  Thomason"
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1575",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": "#12 - Adam  Olsen"
+    },
+    {
+      "period": "3",
+      "time": "00:05:51",
+      "team": {
+        "teamId": "1575",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#12 - Adam  Olsen",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:02:55",
+      "team": {
+        "teamId": "1575",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#9 - Rick  Cole",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:05:15",
+      "team": {
+        "teamId": "1575",
+        "name": "Hurricanes"
+      },
+      "player": "#0 - Ruben  Garcia",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "1576",
+        "name": "Maple Leafs"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:25",
+      "team": {
+        "teamId": "1576",
+        "name": "Maple Leafs"
+      },
+      "player": "#43 - Steve  Sincavage",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "1576",
+        "name": "Maple Leafs"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:47:55.659Z"
+}

@@ -1,0 +1,150 @@
+{
+  "gameId": "18826",
+  "date": "2026-02-10",
+  "divId": 327,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2020",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "2019",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 3,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#23 - Chris  Howard",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:35",
+      "team": {
+        "teamId": "2020",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#47 - Jeff  Urlwin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:52",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "scorer": "#25 - Greg  Reece",
+      "assist1": "#41 - David  Armstrong",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#19 - Jason  Long",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:11",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "scorer": "#12 - Adam  Olsen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:51",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "scorer": "#3 - Ed  Gulakowski",
+      "assist1": "#41 - David  Armstrong",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:04",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#23 - Chris  Howard",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:37",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "scorer": "#23 - Chris  Howard",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:11",
+      "team": {
+        "teamId": "2020",
+        "name": "Maple Leafs"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:22",
+      "team": {
+        "teamId": "2020",
+        "name": "Maple Leafs"
+      },
+      "player": "#18 - Russel  Smith",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:07:06.607Z"
+}

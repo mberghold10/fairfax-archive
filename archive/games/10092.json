@@ -1,0 +1,152 @@
+{
+  "gameId": "10092",
+  "date": "2016-11-05",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1018",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1019",
+    "name": "Turtle Power"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1019",
+        "name": "Turtle Power"
+      },
+      "scorer": "#12 - Joe  DeCarlo",
+      "assist1": "#26 - Danny  Meaux",
+      "assist2": "#54 - Tom  Montanio"
+    },
+    {
+      "period": "1",
+      "time": "00:09:59",
+      "team": {
+        "teamId": "1019",
+        "name": "Turtle Power"
+      },
+      "scorer": "#24 - James  Grasselli",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "scorer": "#91 - Matt  Vossekuil",
+      "assist1": "#37 - Craig  Richardson",
+      "assist2": "#10 - Howie  Schulman"
+    },
+    {
+      "period": "2",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": "#20 - Jeremy  Davis",
+      "assist2": "#42 - Dan  Schwind"
+    },
+    {
+      "period": "3",
+      "time": "00:03:41",
+      "team": {
+        "teamId": "1019",
+        "name": "Turtle Power"
+      },
+      "scorer": "#54 - Tom  Montanio",
+      "assist1": "#26 - Danny  Meaux",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:40",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "scorer": "#91 - Matt  Vossekuil",
+      "assist1": "#13 - Nick  Burton",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:25",
+      "team": {
+        "teamId": "1019",
+        "name": "Turtle Power"
+      },
+      "scorer": "#53 - Meg  Grasselli",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "1019",
+        "name": "Turtle Power"
+      },
+      "player": "#40 - Santiago  Garcia",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:23",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "player": "#37 - Craig  Richardson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1018",
+        "name": "Angry Moose"
+      },
+      "player": "#37 - Craig  Richardson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:04:16.066Z"
+}

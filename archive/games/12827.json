@@ -1,0 +1,106 @@
+{
+  "gameId": "12827",
+  "date": "2019-06-22",
+  "divId": 203,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1290",
+    "name": "Canucks"
+  },
+  "away": {
+    "teamId": "1287",
+    "name": "Bluejacket Capitals"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:54",
+      "team": {
+        "teamId": "1287",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#19 - JP  Klousia",
+      "assist1": "#15 - Bob  Guckian",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#8 - Kevin  Free",
+      "assist1": "#29 - Michael  Carzoli",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:48",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#21 - Jim  Callow",
+      "assist1": "#91 - Chris  Callanan",
+      "assist2": "#29 - Michael  Carzoli"
+    },
+    {
+      "period": "3",
+      "time": "00:06:28",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#8 - Kevin  Free",
+      "assist1": "#29 - Michael  Carzoli",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "player": "#21 - Jim  Callow",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:19",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "player": "#91 - Chris  Callanan",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:58:25.184Z"
+}

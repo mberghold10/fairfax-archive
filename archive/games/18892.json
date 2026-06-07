@@ -1,0 +1,145 @@
+{
+  "gameId": "18892",
+  "date": "2026-04-05",
+  "divId": 321,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1970",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1965",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:56",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#55 - Rob  Fischer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:10",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#13 - Ryan  Roumell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:21",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#92 - Ilya  Kosolapov",
+      "assist1": "#91 - Jake  Barnett",
+      "assist2": "#21 - Mark  Johnston"
+    },
+    {
+      "period": "3",
+      "time": "00:14:37",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#17 - Cory  Schneid",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:54",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "player": "#4 - Tad  Jose",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:30",
+      "team": {
+        "teamId": "1970",
+        "name": "Outlaws"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:01",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "player": "#17 - Cory  Schneid",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "1970",
+        "name": "Outlaws"
+      },
+      "player": "#43 - Mike  Barnes",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "player": "#17 - Cory  Schneid",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:38:31.582Z"
+}

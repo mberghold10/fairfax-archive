@@ -1,0 +1,169 @@
+{
+  "gameId": "13942",
+  "date": "2021-03-20",
+  "divId": 228,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1433",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1429",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1433",
+        "name": "Islanders"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#9 - Rick  Cole",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:42",
+      "team": {
+        "teamId": "1433",
+        "name": "Islanders"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": "#6 - Jon  Lauder",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1429",
+        "name": "Penguins"
+      },
+      "scorer": "#37 - Mike  Pryzbyla",
+      "assist1": "#24 - Max  Alexeev",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:04",
+      "team": {
+        "teamId": "1429",
+        "name": "Penguins"
+      },
+      "scorer": "#37 - Mike  Pryzbyla",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1433",
+        "name": "Islanders"
+      },
+      "scorer": "#9 - Rick  Cole",
+      "assist1": "#93 - Jeff  Nauer",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:57",
+      "team": {
+        "teamId": "1429",
+        "name": "Penguins"
+      },
+      "player": "#13 - Bob  Seal",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1429",
+        "name": "Penguins"
+      },
+      "player": "#55 - Tim  Dutcher",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1433",
+        "name": "Islanders"
+      },
+      "player": "#6 - Jon  Lauder",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:49",
+      "team": {
+        "teamId": "1429",
+        "name": "Penguins"
+      },
+      "player": "#73 - Erik  Bergman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:17",
+      "team": {
+        "teamId": "1429",
+        "name": "Penguins"
+      },
+      "player": "#20 - Brent  Johnson",
+      "pim": 2,
+      "offense": "knee",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:59",
+      "team": {
+        "teamId": "1429",
+        "name": "Penguins"
+      },
+      "player": "#13 - Bob  Seal",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:22:12.324Z"
+}

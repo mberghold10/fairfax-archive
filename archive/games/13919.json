@@ -1,0 +1,213 @@
+{
+  "gameId": "13919",
+  "date": "2021-02-06",
+  "divId": 222,
+  "seasonName": "Fall 2020",
+  "mode": "regular",
+  "home": {
+    "teamId": "1393",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1392",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#370 - Mike  Przybyla",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:46",
+      "team": {
+        "teamId": "1393",
+        "name": "Coyotes"
+      },
+      "scorer": "#13 - Mike  Carew",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:12",
+      "team": {
+        "teamId": "1393",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#17 - Marvin  Scott",
+      "assist1": "#13 - Bob  Seal",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#370 - Mike  Przybyla",
+      "assist1": "#11 - Darren  Wellner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:25",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#370 - Mike  Przybyla",
+      "assist1": "#77 - Ryan  Reed",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:34",
+      "team": {
+        "teamId": "1393",
+        "name": "Coyotes"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:12",
+      "team": {
+        "teamId": "1393",
+        "name": "Coyotes"
+      },
+      "scorer": "#9 - Steve  Crespy",
+      "assist1": "#4 - Paul  Cicchetti",
+      "assist2": "#67 - Chris  Dour"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:07",
+      "team": {
+        "teamId": "1393",
+        "name": "Coyotes"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "1393",
+        "name": "Coyotes"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:59",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "player": "#77 - Ryan  Reed",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1393",
+        "name": "Coyotes"
+      },
+      "player": "#33 - Hung  Pham",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "1393",
+        "name": "Coyotes"
+      },
+      "player": "#13 - Mike  Carew",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:00",
+      "team": {
+        "teamId": "1393",
+        "name": "Coyotes"
+      },
+      "player": "#9 - Steve  Crespy",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:17:59.543Z"
+}

@@ -1,0 +1,143 @@
+{
+  "gameId": "16594",
+  "date": "2023-11-07",
+  "divId": 283,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1743",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1738",
+    "name": "Goon Nation"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:36",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "scorer": "#81 - Nate  Breton",
+      "assist1": "#37 - James  Drake",
+      "assist2": "#16 - Mark  Hall"
+    },
+    {
+      "period": "2",
+      "time": "00:07:56",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#67 - John  Krotzer",
+      "assist1": "#23 - Trevor  Blair",
+      "assist2": "#14 - Dave  Fisher"
+    },
+    {
+      "period": "2",
+      "time": "00:08:44",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#89 - Brandon  Barhorst",
+      "assist1": "#67 - John  Krotzer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "scorer": "#7 - Brian  Merritt",
+      "assist1": "#54 - Jerry  Gibbons",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:48",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#67 - John  Krotzer",
+      "assist1": "#47 - Jeff  Urlwin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:08",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "player": "#67 - John  Krotzer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:51",
+      "team": {
+        "teamId": "1743",
+        "name": "Maple Leafs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:51",
+      "team": {
+        "teamId": "1738",
+        "name": "Goon Nation"
+      },
+      "player": "#20 - Tom  Langpaul",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:19:55.099Z"
+}

@@ -1,0 +1,193 @@
+{
+  "gameId": "18846",
+  "date": "2026-01-11",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2001",
+    "name": "Slashing Pumpkins"
+  },
+  "away": {
+    "teamId": "2002",
+    "name": "Megalosaurus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#37 - Michael  Wisniewski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:30",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#69 - Tom  Blair",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#37 - Michael  Wisniewski",
+      "assist1": "#61 - Wes  Bieliek",
+      "assist2": "#22 - Terry  Saad"
+    },
+    {
+      "period": "2",
+      "time": "00:04:52",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#74 - Matt  Santos",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:22",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#10 - Ed  Hillard",
+      "assist1": "#14 - George  Stocker",
+      "assist2": "#37 - Michael  Wisniewski"
+    },
+    {
+      "period": "3",
+      "time": "00:12:20",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#77 - Enrique  Buchot",
+      "assist1": "#69 - Finn  Deveans",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:17:02",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "player": "#21 - Joe  Rhodes",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "player": "#81 - Sean  Murphy",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:43",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "player": "#69 - Tom  Blair",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:06",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:06",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "player": "#10 - Ed  Hillard",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "player": "#81 - Sean  Murphy",
+      "pim": 5,
+      "offense": "match",
+      "isMajor": false,
+      "isMatch": true
+    },
+    {
+      "period": "3",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "player": "#14 - George  Stocker",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:08:02.339Z"
+}

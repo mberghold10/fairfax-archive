@@ -1,0 +1,185 @@
+{
+  "gameId": "10916",
+  "date": "2017-09-02",
+  "divId": 166,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1063",
+    "name": "River Rats"
+  },
+  "away": {
+    "teamId": "1066",
+    "name": "Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "scorer": "#27 - Dave  McAndrews",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:38",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#12 - Dan  Butala",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:25",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "scorer": "#12 - Dan  Butala",
+      "assist1": "#5 - Chris  Howard",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "scorer": "#18 - Steve  Percival",
+      "assist1": "#11 - Mike  Dumont",
+      "assist2": "#24 - Brian  Crossin"
+    },
+    {
+      "period": "2",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "scorer": "#42 - Jon  Coley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:07",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#18 - Steve  Percival",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:47",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "scorer": "#12 - Dan  Butala",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "scorer": "#5 - Chris  Howard",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:36",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "scorer": "#28 - Jack  Wilmer",
+      "assist1": "#24 - Brian  Crossin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "scorer": "#11 - Mike  Pamplin",
+      "assist1": "#36 - Evan  Clinton",
+      "assist2": "#10 - Colin  Ligon"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:10",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "player": "#33 - Hung  Pham",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:01",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "player": "#27 - Dave  McAndrews",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:36",
+      "team": {
+        "teamId": "1066",
+        "name": "Bulldogs"
+      },
+      "player": "#42 - Bill  Hardy",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:13:54.563Z"
+}

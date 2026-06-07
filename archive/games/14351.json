@@ -1,0 +1,167 @@
+{
+  "gameId": "14351",
+  "date": "2021-09-30",
+  "divId": 236,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1475",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1476",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:27",
+      "team": {
+        "teamId": "1475",
+        "name": "Coyotes"
+      },
+      "scorer": "#11 - Matt  ODriscoll",
+      "assist1": "#900 - Rob  Wittman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1475",
+        "name": "Coyotes"
+      },
+      "scorer": "#11 - Matt  ODriscoll",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": "#900 - Rob  Wittman"
+    },
+    {
+      "period": "2",
+      "time": "00:10:26",
+      "team": {
+        "teamId": "1476",
+        "name": "Team USA"
+      },
+      "scorer": "#4 - Jeff  Bloom",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": "#12 - Jason  Wakeman"
+    },
+    {
+      "period": "2",
+      "time": "00:10:50",
+      "team": {
+        "teamId": "1475",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#21 - Steve  Kaplan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:23",
+      "team": {
+        "teamId": "1476",
+        "name": "Team USA"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1475",
+        "name": "Coyotes"
+      },
+      "scorer": "#900 - Rob  Wittman",
+      "assist1": "#11 - Matt  ODriscoll",
+      "assist2": "#38 - Mike  Andrien"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "1475",
+        "name": "Coyotes"
+      },
+      "player": "#25 - Steve  Tamburo",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:55",
+      "team": {
+        "teamId": "1475",
+        "name": "Coyotes"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:55",
+      "team": {
+        "teamId": "1476",
+        "name": "Team USA"
+      },
+      "player": "#7 - Ed  Weiner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:39",
+      "team": {
+        "teamId": "1476",
+        "name": "Team USA"
+      },
+      "player": "#10 - Mike  Brahmey",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:05",
+      "team": {
+        "teamId": "1475",
+        "name": "Coyotes"
+      },
+      "player": "#47 - Rob  Schumann",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:28:17.948Z"
+}

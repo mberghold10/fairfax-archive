@@ -1,0 +1,141 @@
+{
+  "gameId": "15997",
+  "date": "2023-05-20",
+  "divId": 271,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1671",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1672",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:46",
+      "team": {
+        "teamId": "1671",
+        "name": "Swarm"
+      },
+      "scorer": "#18 - Samson  Chu",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "1",
+      "time": "00:10:12",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#33 - Serge  Kuznetsov",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1671",
+        "name": "Swarm"
+      },
+      "scorer": "#18 - Samson  Chu",
+      "assist1": "#56 - Ryan  Tyler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1671",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#56 - Ryan  Tyler",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "3",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "scorer": "#7 - Joseph  Hull",
+      "assist1": "#15 - John  Cushing",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:43",
+      "team": {
+        "teamId": "1671",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": "#32 - Simon  Flom"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "player": "#12 - Brian  Dix",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:30",
+      "team": {
+        "teamId": "1672",
+        "name": "Jacks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:53",
+      "team": {
+        "teamId": "1671",
+        "name": "Swarm"
+      },
+      "player": "#36 - Bill  Ludke",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:06:03.075Z"
+}

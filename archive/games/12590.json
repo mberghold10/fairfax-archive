@@ -1,0 +1,261 @@
+{
+  "gameId": "12590",
+  "date": "2019-02-12",
+  "divId": 196,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1245",
+    "name": "Senators"
+  },
+  "away": {
+    "teamId": "1246",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 4,
+      "p2": 5,
+      "p3": 1,
+      "ot": 0,
+      "final": 10
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#57 - Howard  Uman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:36",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": "#23 - Dick  Deitos",
+      "assist2": "#27 - Dave  Lin"
+    },
+    {
+      "period": "1",
+      "time": "00:04:01",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#57 - Howard  Uman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:41",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#57 - Howard  Uman",
+      "assist1": "#12 - David  OMalley",
+      "assist2": "#15 - Tom  Sgroi"
+    },
+    {
+      "period": "2",
+      "time": "00:02:48",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#5 - Alex  Talalayevsky",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#5 - Alex  Talalayevsky",
+      "assist1": "#71 - Dan  Pol",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:11",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#57 - Howard  Uman",
+      "assist1": "#12 - David  OMalley",
+      "assist2": "#98 - Bob  Shaw"
+    },
+    {
+      "period": "2",
+      "time": "00:14:04",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#98 - Bob  Shaw",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:35",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": "#34 - Marty  Gryski",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1246",
+        "name": "Hurricanes"
+      },
+      "scorer": "#9 - Rick  Cole",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": "#7 - Dave  Neri"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1246",
+        "name": "Hurricanes"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:40",
+      "team": {
+        "teamId": "1246",
+        "name": "Hurricanes"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:21",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "player": "#98 - Bob  Shaw",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:32",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "player": "#5 - Alex  Talalayevsky",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:32",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "player": "#5 - Alex  Talalayevsky",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:32",
+      "team": {
+        "teamId": "1245",
+        "name": "Senators"
+      },
+      "player": "#5 - Alex  Talalayevsky",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:32",
+      "team": {
+        "teamId": "1246",
+        "name": "Hurricanes"
+      },
+      "player": "#9 - Rick  Cole",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:59",
+      "team": {
+        "teamId": "1246",
+        "name": "Hurricanes"
+      },
+      "player": "#71 - John  Buhler",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:50:40.184Z"
+}

@@ -1,0 +1,158 @@
+{
+  "gameId": "11723",
+  "date": "2018-06-02",
+  "divId": 187,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1192",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1195",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:01",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "scorer": "#13 - Kelly  Urlwin",
+      "assist1": "#28 - Tom  Montanio",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "scorer": "#10 - Owen  Schaefer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "scorer": "#60 - Ed  Sugrue",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "scorer": "#13 - Kelly  Urlwin",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:34",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "player": "#60 - Ed  Sugrue",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "player": "#60 - Ed  Sugrue",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "player": "#90 - Bryon  Howe",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "player": "#4 - Gene  Martin",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:40",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "player": "#90 - Bryon  Howe",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:24",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "player": "#13 - Kelly  Urlwin",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:39:04.161Z"
+}

@@ -1,0 +1,139 @@
+{
+  "gameId": "15489",
+  "date": "2022-11-23",
+  "divId": 262,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1614",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1613",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 4,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:12",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#18 - Samson  Chu",
+      "assist1": "#9 - Jason  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:05",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#36 - William  Ludke",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:51",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#18 - Samson  Chu",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:16",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#13 - Ben  Aring",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": "#51 - Tyler  Kniaz"
+    },
+    {
+      "period": "2",
+      "time": "00:05:42",
+      "team": {
+        "teamId": "1614",
+        "name": "Jacks"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#17 - Tim  Commerford",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:33",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#18 - Samson  Chu",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "scorer": "#41 - Erik  Kniaz",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": "#32 - Simon  Flom"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:03",
+      "team": {
+        "teamId": "1614",
+        "name": "Jacks"
+      },
+      "player": "#91 - Randy  Foster",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "1613",
+        "name": "Swarm"
+      },
+      "player": "#41 - Erik  Kniaz",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:55:24.622Z"
+}

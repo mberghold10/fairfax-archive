@@ -1,0 +1,139 @@
+{
+  "gameId": "17029",
+  "date": "2024-06-23",
+  "divId": 288,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1770",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1771",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:56",
+      "team": {
+        "teamId": "1771",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#9 - Tristan  Heyn",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "1771",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#16 - Bailey  Robertory",
+      "assist1": "#9 - Tristan  Heyn",
+      "assist2": "#3 - Justin  Carpenter"
+    },
+    {
+      "period": "1",
+      "time": "00:11:14",
+      "team": {
+        "teamId": "1770",
+        "name": "Rink Rats"
+      },
+      "scorer": "#13 - John  Bereza",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:54",
+      "team": {
+        "teamId": "1771",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#20 - Richard  Miranda",
+      "assist1": "#15 - Carlos  Novoa",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:18",
+      "team": {
+        "teamId": "1770",
+        "name": "Rink Rats"
+      },
+      "scorer": "#34 - Evan  Tierney",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "1771",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#17 - Zephan  Keehner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "1770",
+        "name": "Rink Rats"
+      },
+      "scorer": "#23 - Dan  Bardo",
+      "assist1": "#33 - Zach  Sowinski",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:56",
+      "team": {
+        "teamId": "1770",
+        "name": "Rink Rats"
+      },
+      "player": "#12 - Kieran  McQuilkin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:26",
+      "team": {
+        "teamId": "1770",
+        "name": "Rink Rats"
+      },
+      "player": "#59 - Jared  Trevethan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:25:14.069Z"
+}

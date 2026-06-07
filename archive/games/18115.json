@@ -1,0 +1,154 @@
+{
+  "gameId": "18115",
+  "date": "2025-07-27",
+  "divId": 311,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1906",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1903",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1903",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": "#2 - Ari  Loggia",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:58",
+      "team": {
+        "teamId": "1903",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#82 - Justin  MacDonald",
+      "assist1": "#34 - Mike  Garrity",
+      "assist2": "#11 - Scott  Choronzy"
+    },
+    {
+      "period": "1",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "1906",
+        "name": "Outlaws"
+      },
+      "scorer": "#25 - Panagiotis  Jamanis",
+      "assist1": "#62 - Mel  Marcelo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:09",
+      "team": {
+        "teamId": "1903",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#71 - Charlie  Tourbaf",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1903",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#2 - Ari  Loggia",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:36",
+      "team": {
+        "teamId": "1906",
+        "name": "Outlaws"
+      },
+      "scorer": "#25 - Panagiotis  Jamanis",
+      "assist1": "#13 - Ben  Mangel",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:12",
+      "team": {
+        "teamId": "1903",
+        "name": "British Bulldogs"
+      },
+      "player": "#34 - Mike  Garrity",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1903",
+        "name": "British Bulldogs"
+      },
+      "player": "#33 - Hung  Pham",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:18",
+      "team": {
+        "teamId": "1906",
+        "name": "Outlaws"
+      },
+      "player": "#21 - Alex  Vanscoy",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "1906",
+        "name": "Outlaws"
+      },
+      "player": "#52 - Pierre  Maltais",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:48:22.619Z"
+}

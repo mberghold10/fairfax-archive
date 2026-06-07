@@ -1,0 +1,228 @@
+{
+  "gameId": "11792",
+  "date": "2018-07-14",
+  "divId": 181,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1151",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1152",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:42",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "scorer": "#22 - Ed  Gulakowski",
+      "assist1": "#23 - Greg  Thomas",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:31",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "scorer": "#21 - Trevor  Wallace",
+      "assist1": "#33 - Andy  Taylor",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "scorer": "#22 - Ed  Gulakowski",
+      "assist1": "#8 - Dan  Brehm",
+      "assist2": "#33 - Andy  Taylor"
+    },
+    {
+      "period": "2",
+      "time": "00:12:03",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Peter  Poczatek",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:16",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Peter  Poczatek",
+      "assist1": "#98 - Matthew  Crisculol",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:35",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "scorer": "#12 - Jason  Wakeman",
+      "assist1": "#10 - Michael  Brahmey",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:42",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "scorer": "#8 - Dan  Brehm",
+      "assist1": "#18 - Chris  Kelly",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "scorer": "#18 - Chris  Kelly",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "player": "#34 - Jim  Morgan",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:15",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "player": "#18 - Chris  Kelly",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:15",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "player": "#98 - Matthew  Crisculol",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:17",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "player": "#18 - Peter  Poczatek",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:26",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:00",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "player": "#17 - John  Kemprowski",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:00",
+      "team": {
+        "teamId": "1151",
+        "name": "Flying Circus"
+      },
+      "player": "#17 - John  Kemprowski",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:00",
+      "team": {
+        "teamId": "1152",
+        "name": "Team USA"
+      },
+      "player": "#20 - Richard  Utano",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:31:25.035Z"
+}

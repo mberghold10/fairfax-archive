@@ -1,0 +1,139 @@
+{
+  "gameId": "14811",
+  "date": "2022-03-29",
+  "divId": 247,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1530",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1528",
+    "name": "Gold Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:41",
+      "team": {
+        "teamId": "1530",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#7 - Gus  Anderson",
+      "assist1": "#67 - John  Krotzer",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:33",
+      "team": {
+        "teamId": "1528",
+        "name": "Gold Goats"
+      },
+      "scorer": "#18 - Matt  Zipper",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:04",
+      "team": {
+        "teamId": "1528",
+        "name": "Gold Goats"
+      },
+      "scorer": "#34 - Marty  Gryski",
+      "assist1": "#18 - Matt  Zipper",
+      "assist2": "#57 - Howard  Uman"
+    },
+    {
+      "period": "2",
+      "time": "00:04:51",
+      "team": {
+        "teamId": "1528",
+        "name": "Gold Goats"
+      },
+      "scorer": "#10 - Matt  Johnson",
+      "assist1": "#19 - Ira  Keltz",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:58",
+      "team": {
+        "teamId": "1530",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#43 - Steve  Sincavage",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:44",
+      "team": {
+        "teamId": "1530",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#67 - John  Krotzer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:53",
+      "team": {
+        "teamId": "1530",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:16",
+      "team": {
+        "teamId": "1530",
+        "name": "Maple Leafs"
+      },
+      "player": "#43 - Steve  Sincavage",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:27",
+      "team": {
+        "teamId": "1528",
+        "name": "Gold Goats"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:38:21.740Z"
+}

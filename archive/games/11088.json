@@ -1,0 +1,200 @@
+{
+  "gameId": "11088",
+  "date": "2017-12-06",
+  "divId": 174,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1112",
+    "name": "Blackhawks"
+  },
+  "away": {
+    "teamId": "1110",
+    "name": "Outlaws"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1110",
+        "name": "Outlaws"
+      },
+      "scorer": "#10 - Mike  Boyajian",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:43",
+      "team": {
+        "teamId": "1110",
+        "name": "Outlaws"
+      },
+      "scorer": "#21 - Jerry  Achatz",
+      "assist1": "#91 - Matt  Weeden",
+      "assist2": "#41 - Tony  Gorney"
+    },
+    {
+      "period": "2",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": "#22 - Cody  Reinitz",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:41",
+      "team": {
+        "teamId": "1110",
+        "name": "Outlaws"
+      },
+      "scorer": "#4 - Mark  Bunal",
+      "assist1": "#42 - Mac  Johnson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:29",
+      "team": {
+        "teamId": "1110",
+        "name": "Outlaws"
+      },
+      "scorer": "#17 - Adam  Lee",
+      "assist1": "#42 - Mac  Johnson",
+      "assist2": "#4 - Mark  Bunal"
+    },
+    {
+      "period": "3",
+      "time": "00:04:05",
+      "team": {
+        "teamId": "1110",
+        "name": "Outlaws"
+      },
+      "scorer": "#10 - Mike  Boyajian",
+      "assist1": "#91 - Matt  Weeden",
+      "assist2": "#41 - Tony  Gorney"
+    },
+    {
+      "period": "3",
+      "time": "00:09:08",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "1110",
+        "name": "Outlaws"
+      },
+      "scorer": "#91 - Matt  Weeden",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:16",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:25",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "player": "#24 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "player": "#39 - John  Keegan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "player": "#39 - John  Keegan",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:23",
+      "team": {
+        "teamId": "1110",
+        "name": "Outlaws"
+      },
+      "player": "#0 - Trey  Perrone",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:14",
+      "team": {
+        "teamId": "1110",
+        "name": "Outlaws"
+      },
+      "player": "#0 - Trey  Perrone",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:22:31.628Z"
+}

@@ -1,0 +1,167 @@
+{
+  "gameId": "13416",
+  "date": "2019-11-09",
+  "divId": 214,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1352",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1355",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "scorer": "#44 - Mick  Ellsworth",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:53",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "scorer": "#69 - Ron  Fishbeck",
+      "assist1": "#44 - Mick  Ellsworth",
+      "assist2": "#9 - Brian  Mehnert"
+    },
+    {
+      "period": "2",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "scorer": "#47 - Talbot  Black",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": "#14 - Matt  Lewis"
+    },
+    {
+      "period": "3",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "scorer": "#49 - Greg  Mullen",
+      "assist1": "#28 - Alex  Henry",
+      "assist2": "#8 - Jason  Eister"
+    },
+    {
+      "period": "3",
+      "time": "00:10:25",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "scorer": "#19 - Joe  Dunn",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:26",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "scorer": "#14 - Matt  Lewis",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": "#47 - Talbot  Black"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#24 - Max  Alexeev",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:32",
+      "team": {
+        "teamId": "1355",
+        "name": "Grey Goons"
+      },
+      "player": "#11 - David  Officer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#10 - Brian  Land",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#24 - Max  Alexeev",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:41",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#25 - Jeff  Wojtala",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:11:08.903Z"
+}

@@ -1,0 +1,93 @@
+{
+  "gameId": "17402",
+  "date": "2024-10-06",
+  "divId": 294,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1797",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1798",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:21",
+      "team": {
+        "teamId": "1797",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#67 - Andrew  Miller",
+      "assist1": "#4 - Darren  Parsons",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "1797",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#77 - Jeff  Wilken",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:12",
+      "team": {
+        "teamId": "1798",
+        "name": "Wolves"
+      },
+      "scorer": "#31 - Zachary  Furness",
+      "assist1": "#68 - Mark  Ries",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:33",
+      "team": {
+        "teamId": "1797",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#67 - Andrew  Miller",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1798",
+        "name": "Wolves"
+      },
+      "player": "#31 - Zachary  Furness",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:32:08.169Z"
+}

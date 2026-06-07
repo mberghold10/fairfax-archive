@@ -1,0 +1,154 @@
+{
+  "gameId": "15239",
+  "date": "2022-09-14",
+  "divId": 253,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1560",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1561",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:13",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#18 - Samson  Chu",
+      "assist2": "#41 - Erik  Kniaz"
+    },
+    {
+      "period": "1",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#36 - William  Ludke",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:33",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "scorer": "#6 - David  Satagaj",
+      "assist1": "#13 - Brian  Patterson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "scorer": "#12 - Jonathan  Greger",
+      "assist1": "#71 - Colin  Shin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "scorer": "#27 - Bryan  Booker",
+      "assist1": "#13 - Brian  Patterson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:14",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "scorer": "#13 - Brian  Patterson",
+      "assist1": "#6 - David  Satagaj",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:32",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:56",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "player": "#41 - Erik  Kniaz",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:07",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:45:20.035Z"
+}

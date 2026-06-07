@@ -1,0 +1,145 @@
+{
+  "gameId": "16945",
+  "date": "2024-05-30",
+  "divId": 292,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1790",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1789",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:03",
+      "team": {
+        "teamId": "1789",
+        "name": "Penguins"
+      },
+      "scorer": "#43 - Henry  Weisiger",
+      "assist1": "#250 - Bob  Banasik",
+      "assist2": "#51 - Rob  Fischer"
+    },
+    {
+      "period": "1",
+      "time": "00:14:26",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": "#27 - Aemon  Cashin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:16",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "scorer": "#27 - Aemon  Cashin",
+      "assist1": "#8 - Jason  Eister",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1790",
+        "name": "Grey Goons"
+      },
+      "scorer": "#50 - Matt  Cerce",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:23",
+      "team": {
+        "teamId": "1789",
+        "name": "Penguins"
+      },
+      "player": "#15 - Mark  Rudnicki",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:56",
+      "team": {
+        "teamId": "1789",
+        "name": "Penguins"
+      },
+      "player": "#51 - Rob  Fischer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "1789",
+        "name": "Penguins"
+      },
+      "player": "#7 - Dan  Ellert",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:43",
+      "team": {
+        "teamId": "1789",
+        "name": "Penguins"
+      },
+      "player": "#44 - Bob  Arnold",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:13",
+      "team": {
+        "teamId": "1789",
+        "name": "Penguins"
+      },
+      "player": "#81 - Chris  Holden",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:29:14.641Z"
+}

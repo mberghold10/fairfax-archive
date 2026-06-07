@@ -1,0 +1,121 @@
+{
+  "gameId": "16353",
+  "date": "2023-08-04",
+  "divId": 274,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1690",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1692",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:16:27",
+      "team": {
+        "teamId": "1692",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#7 - Marci  Jacques",
+      "assist2": "#33 - Brandon  Boling"
+    },
+    {
+      "period": "2",
+      "time": "00:11:14",
+      "team": {
+        "teamId": "1692",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#19 - Troy  Edwards",
+      "assist1": "#37 - John  Bachman",
+      "assist2": "#22 - Amir  Tahami"
+    },
+    {
+      "period": "3",
+      "time": "00:12:22",
+      "team": {
+        "teamId": "1692",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#37 - John  Bachman",
+      "assist1": "#33 - Brandon  Boling",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1692",
+        "name": "Blue Dogs"
+      },
+      "player": "#51 - Kevin  Michie",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:24",
+      "team": {
+        "teamId": "1692",
+        "name": "Blue Dogs"
+      },
+      "player": "#33 - Brandon  Boling",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:26",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#21 - Joe  Rhodes",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "1692",
+        "name": "Blue Dogs"
+      },
+      "player": "#33 - Brandon  Boling",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:10:17.793Z"
+}

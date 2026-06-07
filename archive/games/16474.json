@@ -1,0 +1,130 @@
+{
+  "gameId": "16474",
+  "date": "2024-01-21",
+  "divId": 278,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1714",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1713",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:31",
+      "team": {
+        "teamId": "1713",
+        "name": "Angry Moose"
+      },
+      "scorer": "#97 - Daniel  Gonzalez",
+      "assist1": "#88 - Matthew  Bates",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:47",
+      "team": {
+        "teamId": "1714",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#24 - Brian  Davies",
+      "assist1": "#6 - JB  Merritt",
+      "assist2": "#4 - Sam  Hauslohner"
+    },
+    {
+      "period": "2",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1714",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#44 - Jeff  Marciano",
+      "assist1": "#17 - Josh  Bliudzius",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:48",
+      "team": {
+        "teamId": "1714",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": "#2 - Mike  Donnelly",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1714",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#4 - Sam  Hauslohner",
+      "assist1": "#24 - Brian  Davies",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:04:55",
+      "team": {
+        "teamId": "1714",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#17 - Josh  Bliudzius",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:25",
+      "team": {
+        "teamId": "1714",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#10 - Angelo  Ponirakis",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:22",
+      "team": {
+        "teamId": "1713",
+        "name": "Angry Moose"
+      },
+      "player": "#21 - Kevin  Lockland",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:14:22.038Z"
+}

@@ -1,0 +1,104 @@
+{
+  "gameId": "14849",
+  "date": "2022-05-29",
+  "divId": 255,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1572",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1575",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:05:25",
+      "team": {
+        "teamId": "1575",
+        "name": "Hurricanes"
+      },
+      "scorer": "#16 - Carlos  Novoa",
+      "assist1": "#2 - Mark  Jesten",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "1572",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#24 - Brian  Crossin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:25",
+      "team": {
+        "teamId": "1572",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#66 - Harry  Patrinos",
+      "assist1": "#4 - Don  Sussman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:01",
+      "team": {
+        "teamId": "1575",
+        "name": "Hurricanes"
+      },
+      "scorer": "#11 - Brendan  Ford",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1575",
+        "name": "Hurricanes"
+      },
+      "scorer": "#16 - Carlos  Novoa",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "1572",
+        "name": "Ice Dogs"
+      },
+      "player": "#66 - Harry  Patrinos",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:47:18.574Z"
+}

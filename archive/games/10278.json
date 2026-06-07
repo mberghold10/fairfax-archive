@@ -1,0 +1,150 @@
+{
+  "gameId": "10278",
+  "date": "2017-01-14",
+  "divId": 156,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1004",
+    "name": "Hooligans"
+  },
+  "away": {
+    "teamId": "1001",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1004",
+        "name": "Hooligans"
+      },
+      "scorer": "#98 - Chris  Pepple",
+      "assist1": "#28 - Doug  Branton",
+      "assist2": "#71 - Mark  Saucer"
+    },
+    {
+      "period": "2",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "1004",
+        "name": "Hooligans"
+      },
+      "scorer": "#16 - Ian  Dillner",
+      "assist1": "#43 - Bobby  Powers",
+      "assist2": "#9 - Joe  Tierney"
+    },
+    {
+      "period": "2",
+      "time": "00:07:36",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "scorer": "#92 - Bryan  Diner",
+      "assist1": "#14 - Paul  Tourbaf",
+      "assist2": "#10 - Rich  Scigaj"
+    },
+    {
+      "period": "2",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "scorer": "#19 - Aaron  Duchak",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "scorer": "#25 - Joe  Denoyior",
+      "assist1": "#4 - Seth  Johnson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1004",
+        "name": "Hooligans"
+      },
+      "scorer": "#71 - Mark  Saucer",
+      "assist1": "#28 - Doug  Branton",
+      "assist2": "#9 - Joe  Tierney"
+    },
+    {
+      "period": "3",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "scorer": "#30 - Jim  Van Horn",
+      "assist1": "#68 - Jeff  Robins",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:41",
+      "team": {
+        "teamId": "1004",
+        "name": "Hooligans"
+      },
+      "scorer": "#16 - Ian  Dillner",
+      "assist1": "#3 - Jeff  Ruby",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:06:44",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1004",
+        "name": "Hooligans"
+      },
+      "player": "#16 - Ian  Dillner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:00:42.625Z"
+}

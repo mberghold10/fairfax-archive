@@ -1,0 +1,134 @@
+{
+  "gameId": "10032",
+  "date": "2016-11-22",
+  "divId": 156,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1002",
+    "name": "Senators"
+  },
+  "away": {
+    "teamId": "999",
+    "name": "Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:29",
+      "team": {
+        "teamId": "999",
+        "name": "Crabs"
+      },
+      "scorer": "#40 - Hank  Kim",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:20",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#23 - Dick  Deitos",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:52",
+      "team": {
+        "teamId": "999",
+        "name": "Crabs"
+      },
+      "scorer": "#19 - Angelo  Ponirakis",
+      "assist1": "#24 - Mark  Paolicelli",
+      "assist2": "#2 - Elliott  Yang"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#19 - Ira  Keltz",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:37",
+      "team": {
+        "teamId": "999",
+        "name": "Crabs"
+      },
+      "player": "#72 - Billy  Crockett",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:53",
+      "team": {
+        "teamId": "999",
+        "name": "Crabs"
+      },
+      "player": "#47 - Corey  Mercurio",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#76 - Beau  Bosley",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "999",
+        "name": "Crabs"
+      },
+      "player": "#47 - Corey  Mercurio",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:00:29.482Z"
+}

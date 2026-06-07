@@ -1,0 +1,143 @@
+{
+  "gameId": "13537",
+  "date": "2020-03-15",
+  "divId": 209,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1324",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1321",
+    "name": "Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:27",
+      "team": {
+        "teamId": "1321",
+        "name": "Bulldogs"
+      },
+      "scorer": "#18 - Steve  Percival",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "1321",
+        "name": "Bulldogs"
+      },
+      "scorer": "#90 - Shawn  McEvoy",
+      "assist1": "#18 - Steve  Percival",
+      "assist2": "#12 - Dan  Butala"
+    },
+    {
+      "period": "2",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#10 - Mike  Carew",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": "#9 - James  Boland"
+    },
+    {
+      "period": "2",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:49",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#10 - Mike  Carew",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:34",
+      "team": {
+        "teamId": "1321",
+        "name": "Bulldogs"
+      },
+      "player": "#79 - Jeff  Vandenberghe",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "player": "#5 - Andy  Loggia",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:47",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "player": "#15 - Scott  McConnell",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1324",
+        "name": "British Bulldogs"
+      },
+      "player": "#20 - Mike  McIenahan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:05:41.193Z"
+}

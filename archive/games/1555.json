@@ -1,0 +1,158 @@
+{
+  "gameId": "1555",
+  "date": "2025-06-14",
+  "divId": 309,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1886",
+    "name": "Mesozoic Puck"
+  },
+  "away": {
+    "teamId": "1889",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#87 - Ryan  Young",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:06",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#87 - Ryan  Young",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:33",
+      "team": {
+        "teamId": "1886",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#74 - Matt  Santos",
+      "assist1": "#44 - George  Cernica",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#5 - Lars  Hjelm",
+      "assist1": "#87 - Ryan  Young",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:09",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "player": "#20 - Steve  Ahart",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:52",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "player": "#44 - Ben  Thomas",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:37",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "player": "#87 - Ryan  Young",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1886",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#33 - Scott  Coco",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:11",
+      "team": {
+        "teamId": "1886",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#210 - Joe  Rhodes",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:47:15.348Z"
+}

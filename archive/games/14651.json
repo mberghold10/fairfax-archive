@@ -1,0 +1,141 @@
+{
+  "gameId": "14651",
+  "date": "2022-02-04",
+  "divId": 243,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1508",
+    "name": "Hitmen"
+  },
+  "away": {
+    "teamId": "1501",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "1508",
+        "name": "Hitmen"
+      },
+      "scorer": "#29 - Taylor  Van Prooyen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:48",
+      "team": {
+        "teamId": "1501",
+        "name": "Rink Rats"
+      },
+      "scorer": "#23 - Dan  Bardo",
+      "assist1": "#13 - John  Bereza",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:00",
+      "team": {
+        "teamId": "1501",
+        "name": "Rink Rats"
+      },
+      "scorer": "#12 - Kieran  McQuilkin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:22",
+      "team": {
+        "teamId": "1501",
+        "name": "Rink Rats"
+      },
+      "scorer": "#12 - Kieran  McQuilkin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:30",
+      "team": {
+        "teamId": "1508",
+        "name": "Hitmen"
+      },
+      "scorer": "#4 - Augie  Savarese",
+      "assist1": "#74 - Mike  Brewin",
+      "assist2": "#17 - James  Ciskanik"
+    },
+    {
+      "period": "3",
+      "time": "00:03:33",
+      "team": {
+        "teamId": "1501",
+        "name": "Rink Rats"
+      },
+      "scorer": "#12 - Kieran  McQuilkin",
+      "assist1": "#13 - John  Bereza",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:53",
+      "team": {
+        "teamId": "1508",
+        "name": "Hitmen"
+      },
+      "player": "#4 - Augie  Savarese",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:22",
+      "team": {
+        "teamId": "1508",
+        "name": "Hitmen"
+      },
+      "player": "#89 - Jim  Rathbone",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:58",
+      "team": {
+        "teamId": "1508",
+        "name": "Hitmen"
+      },
+      "player": "#39 - Chad  Tangchittsumran",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:33:10.132Z"
+}

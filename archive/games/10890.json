@@ -1,0 +1,193 @@
+{
+  "gameId": "10890",
+  "date": "2017-09-03",
+  "divId": 162,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1039",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "1040",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:06",
+      "team": {
+        "teamId": "1040",
+        "name": "Nortec"
+      },
+      "scorer": "#15 - Chris  Yoko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:57",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:03",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "scorer": "#47 - Talbot  Black",
+      "assist1": "#9 - Brian  Mehnert",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:03",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "scorer": "#44 - Mick  Ellsworth",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "scorer": "#47 - Talbot  Black",
+      "assist1": "#9 - Brian  Mehnert",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "scorer": "#23 - Scott  Gordon",
+      "assist1": "#28 - Alex  Henry",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "player": "#23 - Scott  Gordon",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:58",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:49",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "player": "#23 - Scott  Gordon",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:18",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "player": "#9 - Brian  Mehnert",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:26",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "player": "#12 - Paul  Zalocha",
+      "pim": 2,
+      "offense": "head contact",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:26",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "player": "#12 - Paul  Zalocha",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:44",
+      "team": {
+        "teamId": "1040",
+        "name": "Nortec"
+      },
+      "player": "#28 - Maxim  Alexeev",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:08:39.807Z"
+}

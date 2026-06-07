@@ -1,0 +1,108 @@
+{
+  "gameId": "17734",
+  "date": "2024-12-17",
+  "divId": 307,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1883",
+    "name": "Gold Goats"
+  },
+  "away": {
+    "teamId": "1885",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:07:41",
+      "team": {
+        "teamId": "1885",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#47 - Jeff  Urlwin",
+      "assist1": "#77 - Paul  Cicchetti",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:26",
+      "team": {
+        "teamId": "1883",
+        "name": "Gold Goats"
+      },
+      "scorer": "#26 - Bob  Shay",
+      "assist1": "#38 - Howard  Uman",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:02:46",
+      "team": {
+        "teamId": "1883",
+        "name": "Gold Goats"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#44 - Sean  Cullen",
+      "assist2": "#16 - Curt  Tucker"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1883",
+        "name": "Gold Goats"
+      },
+      "player": "#34 - Marty  Gryski",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "1883",
+        "name": "Gold Goats"
+      },
+      "player": "#42 - Jeff  Brooks",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:49",
+      "team": {
+        "teamId": "1883",
+        "name": "Gold Goats"
+      },
+      "player": "#94 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:45:14.045Z"
+}

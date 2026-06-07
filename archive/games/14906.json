@@ -1,0 +1,152 @@
+{
+  "gameId": "14906",
+  "date": "2022-07-20",
+  "divId": 257,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1583",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1584",
+    "name": "Howling Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1583",
+        "name": "Nortec"
+      },
+      "scorer": "#27 - Ron  Blum",
+      "assist1": "#8 - Michael  Carr",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:42",
+      "team": {
+        "teamId": "1583",
+        "name": "Nortec"
+      },
+      "scorer": "#28 - Dave  Wilson",
+      "assist1": "#27 - Ron  Blum",
+      "assist2": "#12 - Sami  Kymalainen"
+    },
+    {
+      "period": "1",
+      "time": "00:14:21",
+      "team": {
+        "teamId": "1583",
+        "name": "Nortec"
+      },
+      "scorer": "#28 - Dave  Wilson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "1583",
+        "name": "Nortec"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1583",
+        "name": "Nortec"
+      },
+      "scorer": "#27 - Ron  Blum",
+      "assist1": "#32 - Trygve  Olson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "1583",
+        "name": "Nortec"
+      },
+      "scorer": "#2 - Bill  Morris",
+      "assist1": "#8 - Michael  Carr",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "1584",
+        "name": "Howling Coyotes"
+      },
+      "scorer": "#25 - Steve  Tamburo",
+      "assist1": "#64 - Bob  Fischer",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:02:29",
+      "team": {
+        "teamId": "1583",
+        "name": "Nortec"
+      },
+      "player": "#8 - Michael  Carr",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1583",
+        "name": "Nortec"
+      },
+      "player": "#40 - Mikhail  Serebrennikov",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:06",
+      "team": {
+        "teamId": "1584",
+        "name": "Howling Coyotes"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:49:25.872Z"
+}

@@ -1,0 +1,130 @@
+{
+  "gameId": "1385",
+  "date": "2024-05-06",
+  "divId": 279,
+  "seasonName": "Winter 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1720",
+    "name": "Red Dragons"
+  },
+  "away": {
+    "teamId": "1718",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:06",
+      "team": {
+        "teamId": "1718",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#11 - Josh  Gilman",
+      "assist1": "#16 - Dave  Smith",
+      "assist2": "#74 - Eric  Peterson"
+    },
+    {
+      "period": "1",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1720",
+        "name": "Red Dragons"
+      },
+      "scorer": "#18 - Zach  Showalter",
+      "assist1": "#16 - Jason  Showalter",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:59",
+      "team": {
+        "teamId": "1718",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#19 - Nate  Rozelle",
+      "assist1": "#71 - Francis  Aul",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "1718",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#89 - Sid  Han",
+      "assist1": "#77 - Paul  Chicchetti",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:46",
+      "team": {
+        "teamId": "1718",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#11 - Josh  Gilman",
+      "assist1": "#17 - JP  Christophe",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:04:58",
+      "team": {
+        "teamId": "1720",
+        "name": "Red Dragons"
+      },
+      "player": "#34 - Howard  Uman",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:37",
+      "team": {
+        "teamId": "1720",
+        "name": "Red Dragons"
+      },
+      "player": "#16 - Jason  Showalter",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:18",
+      "team": {
+        "teamId": "1718",
+        "name": "Blackskimmers"
+      },
+      "player": "#11 - Josh  Gilman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:16:17.306Z"
+}

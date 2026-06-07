@@ -1,0 +1,193 @@
+{
+  "gameId": "10999",
+  "date": "2017-10-18",
+  "divId": 171,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1094",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1093",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#28 - Maxim  Alexeev",
+      "assist1": "#15 - Chris  Yoko",
+      "assist2": "#8 - Arturas  Vorobjovas"
+    },
+    {
+      "period": "2",
+      "time": "00:02:13",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#5 - Chris  Marotta",
+      "assist1": "#22 - Nate  Harrison",
+      "assist2": "#15 - Todd  Martin"
+    },
+    {
+      "period": "2",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#4 - Bruce  Baltas",
+      "assist1": "#22 - Nate  Harrison",
+      "assist2": "#15 - Todd  Martin"
+    },
+    {
+      "period": "3",
+      "time": "00:07:54",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#22 - Nate  Harrison",
+      "assist1": "#18 - Sean  Gallucci",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#6 - Mike  Pryzbyla",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "scorer": "#8 - Jeff  Meyer",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "player": "#22 - Nate  Harrison",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "player": "#8 - Arturas  Vorobjovas",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:02",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "player": "#8 - Arturas  Vorobjovas",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:31",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "player": "#15 - Chris  Yoko",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "player": "#22 - Nate  Harrison",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "player": "#5 - Peter  Boone",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:27",
+      "team": {
+        "teamId": "1094",
+        "name": "Ducks"
+      },
+      "player": "#18 - Sean  Gallucci",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:18:32.579Z"
+}

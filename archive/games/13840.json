@@ -1,0 +1,130 @@
+{
+  "gameId": "13840",
+  "date": "2020-12-12",
+  "divId": 221,
+  "seasonName": "Fall 2020",
+  "mode": "regular",
+  "home": {
+    "teamId": "1390",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1389",
+    "name": "Hitmen"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1390",
+        "name": "Rink Rats"
+      },
+      "scorer": "#10 - Kelly  Schoolmeester",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:57",
+      "team": {
+        "teamId": "1390",
+        "name": "Rink Rats"
+      },
+      "scorer": "#95 - Mick  Starego",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "1390",
+        "name": "Rink Rats"
+      },
+      "scorer": "#10 - Kelly  Schoolmeester",
+      "assist1": "#37 - TJ  Wolf",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:37",
+      "team": {
+        "teamId": "1390",
+        "name": "Rink Rats"
+      },
+      "scorer": "#23 - Dan  Bardo",
+      "assist1": "#95 - Mick  Starego",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:44",
+      "team": {
+        "teamId": "1390",
+        "name": "Rink Rats"
+      },
+      "scorer": "#10 - Kelly  Schoolmeester",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:19",
+      "team": {
+        "teamId": "1389",
+        "name": "Hitmen"
+      },
+      "player": "#5 - Chris  Oman",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "1389",
+        "name": "Hitmen"
+      },
+      "player": "#64 - Tim  Garay",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "1390",
+        "name": "Rink Rats"
+      },
+      "player": "#25 - Dave  Brown",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:17:20.295Z"
+}

@@ -1,0 +1,128 @@
+{
+  "gameId": "11460",
+  "date": "2018-03-04",
+  "divId": 177,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1132",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1134",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1132",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#4 - Sam  Hauslohner",
+      "assist1": "#9 - Greg  Sibley",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:59",
+      "team": {
+        "teamId": "1134",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#42 - Brandon  Carter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1134",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#32 - Marty  Langley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "1134",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#7 - Dan  Fleshner",
+      "assist1": "#32 - Marty  Langley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:52",
+      "team": {
+        "teamId": "1132",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#28 - Ed  Holleran",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:07",
+      "team": {
+        "teamId": "1134",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#32 - Marty  Langley",
+      "assist1": "#7 - Dan  Fleshner",
+      "assist2": "#42 - Brandon  Carter"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:37",
+      "team": {
+        "teamId": "1134",
+        "name": "Mad Dogs"
+      },
+      "player": "#22 - Amir  Tahani",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:06",
+      "team": {
+        "teamId": "1134",
+        "name": "Mad Dogs"
+      },
+      "player": "#22 - Amir  Tahani",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:27:22.530Z"
+}

@@ -1,0 +1,163 @@
+{
+  "gameId": "11865",
+  "date": "2018-07-29",
+  "divId": 184,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1173",
+    "name": "Canucks"
+  },
+  "away": {
+    "teamId": "1169",
+    "name": "Bushwood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "scorer": "#13 - Steve  Schooner",
+      "assist1": "#9 - Jon  Goldstein",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:51",
+      "team": {
+        "teamId": "1169",
+        "name": "Bushwood"
+      },
+      "scorer": "#56 - Jason  Surrencey",
+      "assist1": "#18 - Jimmy  Brooks",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "1169",
+        "name": "Bushwood"
+      },
+      "scorer": "#33 - Todd  Petit",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:06",
+      "team": {
+        "teamId": "1169",
+        "name": "Bushwood"
+      },
+      "scorer": "#32 - Jack  Donohue",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:09",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "1169",
+        "name": "Bushwood"
+      },
+      "scorer": "#11 - Billy D Williams",
+      "assist1": "#18 - Jimmy  Brooks",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:33",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": "#9 - Jon  Goldstein",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:36",
+      "team": {
+        "teamId": "1169",
+        "name": "Bushwood"
+      },
+      "scorer": "#18 - Jimmy  Brooks",
+      "assist1": "#14 - Matthew  MacVicar",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1169",
+        "name": "Bushwood"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:19",
+      "team": {
+        "teamId": "1169",
+        "name": "Bushwood"
+      },
+      "player": "#16 - Wayne  Storm",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:20",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "player": "#4 - Lou  Mayo",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:35:07.897Z"
+}

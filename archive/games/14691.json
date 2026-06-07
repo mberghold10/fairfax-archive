@@ -1,0 +1,128 @@
+{
+  "gameId": "14691",
+  "date": "2022-01-24",
+  "divId": 244,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1509",
+    "name": "Toronto"
+  },
+  "away": {
+    "teamId": "1513",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:06",
+      "team": {
+        "teamId": "1509",
+        "name": "Toronto"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:11",
+      "team": {
+        "teamId": "1509",
+        "name": "Toronto"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#40 - Howard  Ehrlich",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:31",
+      "team": {
+        "teamId": "1509",
+        "name": "Toronto"
+      },
+      "scorer": "#97 - Brian  Rollins",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:15",
+      "team": {
+        "teamId": "1513",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#32 - Jeff  Hunter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:21",
+      "team": {
+        "teamId": "1509",
+        "name": "Toronto"
+      },
+      "scorer": "#20 - Bao  Pham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:18",
+      "team": {
+        "teamId": "1509",
+        "name": "Toronto"
+      },
+      "scorer": "#20 - Bao  Pham",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:32",
+      "team": {
+        "teamId": "1513",
+        "name": "Mad Dogs"
+      },
+      "player": "#32 - Jeff  Hunter",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "1509",
+        "name": "Toronto"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:34:27.359Z"
+}

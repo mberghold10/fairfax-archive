@@ -1,0 +1,172 @@
+{
+  "gameId": "11605",
+  "date": "2018-06-30",
+  "divId": 182,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1160",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1159",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 6,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#71 - Dan  Pol",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:00:56",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#13 - Phil  Wind",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#13 - Phil  Wind",
+      "assist2": "#71 - Dan  Pol"
+    },
+    {
+      "period": "1",
+      "time": "00:01:26",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#13 - Phil  Wind",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#19 - Ira  Keltz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:24",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#52 - Alan  Dappen",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:41",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:10",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "scorer": "#2 - Mark  Jesten",
+      "assist1": "#93 - Jeff  Nauer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:06",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#13 - Phil  Wind",
+      "assist1": "#23 - Dick  Deitos",
+      "assist2": "#71 - Dan  Pol"
+    },
+    {
+      "period": "3",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "scorer": "#93 - Jeff  Nauer",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:24",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "player": "#90 - Jay  Fee",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1160",
+        "name": "Hurricanes"
+      },
+      "player": "#3 - Scott  Henry",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:32:31.710Z"
+}

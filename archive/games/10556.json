@@ -1,0 +1,200 @@
+{
+  "gameId": "10556",
+  "date": "2017-05-21",
+  "divId": 165,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1058",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1055",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:36",
+      "team": {
+        "teamId": "1058",
+        "name": "North Stars"
+      },
+      "scorer": "#81 - Bryan  Getson",
+      "assist1": "#7 - Evan  Wojtowicz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:21",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#15 - Sean  Maniuszko",
+      "assist1": "#21 - Andy  Heckmann",
+      "assist2": "#11 - Joel  Bosch"
+    },
+    {
+      "period": "1",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#21 - Andy  Heckmann",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:05",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#27 - John  Dove",
+      "assist1": "#15 - Sean  Maniuszko",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:52",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#18 - John  Boland",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:11",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#27 - John  Dove",
+      "assist1": "#15 - Sean  Maniuszko",
+      "assist2": "#11 - Joel  Bosch"
+    },
+    {
+      "period": "3",
+      "time": "00:01:14",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#21 - Andy  Heckmann",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:24",
+      "team": {
+        "teamId": "1058",
+        "name": "North Stars"
+      },
+      "scorer": "#13 - Matt  Jenkins",
+      "assist1": "#3 - Brein  Haigley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:21",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#18 - John  Boland",
+      "assist1": "#0 - Tommy  Meaux",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:11",
+      "team": {
+        "teamId": "1058",
+        "name": "North Stars"
+      },
+      "player": "#3 - Brein  Haigley",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:11",
+      "team": {
+        "teamId": "1058",
+        "name": "North Stars"
+      },
+      "player": "#3 - Brein  Haigley",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "1058",
+        "name": "North Stars"
+      },
+      "player": "#3 - Brein  Haigley",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "player": "#4 - Dan  Miller",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:49",
+      "team": {
+        "teamId": "1058",
+        "name": "North Stars"
+      },
+      "player": "#27 - Jeff  Pique",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:11:43.710Z"
+}

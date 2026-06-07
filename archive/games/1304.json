@@ -1,0 +1,182 @@
+{
+  "gameId": "1304",
+  "date": "2023-04-14",
+  "divId": 263,
+  "seasonName": "Winter 2022",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1623",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1621",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:17",
+      "team": {
+        "teamId": "1623",
+        "name": "Islanders"
+      },
+      "scorer": "#79 - Dave  Gerstner",
+      "assist1": "#88 - Anthony  DeJohn",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:18",
+      "team": {
+        "teamId": "1621",
+        "name": "Team USA"
+      },
+      "scorer": "#10 - Mike  Brahmey",
+      "assist1": "#8 - Jamie  Sengheiser",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:44",
+      "team": {
+        "teamId": "1621",
+        "name": "Team USA"
+      },
+      "scorer": "#54 - Dan  Bagley",
+      "assist1": "#8 - Jamie  Sengheiser",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:57",
+      "team": {
+        "teamId": "1621",
+        "name": "Team USA"
+      },
+      "scorer": "#54 - Dan  Bagley",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:17",
+      "team": {
+        "teamId": "1621",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#18 - Pete  Poczatek",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1621",
+        "name": "Team USA"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:52",
+      "team": {
+        "teamId": "1623",
+        "name": "Islanders"
+      },
+      "player": "#88 - Anthony  DeJohn",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1621",
+        "name": "Team USA"
+      },
+      "player": "#25 - Stan  Torgovitsky",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "1621",
+        "name": "Team USA"
+      },
+      "player": "#54 - Dan  Bagley",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:33",
+      "team": {
+        "teamId": "1623",
+        "name": "Islanders"
+      },
+      "player": "#9 - Rick  Cole",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1623",
+        "name": "Islanders"
+      },
+      "player": "#79 - Dave  Gerstner",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:46",
+      "team": {
+        "teamId": "1623",
+        "name": "Islanders"
+      },
+      "player": "#41 - Dave  Armstrong",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:57:38.923Z"
+}

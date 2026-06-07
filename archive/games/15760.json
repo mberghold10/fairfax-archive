@@ -1,0 +1,154 @@
+{
+  "gameId": "15760",
+  "date": "2023-02-05",
+  "divId": 263,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1620",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1619",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1620",
+        "name": "Coyotes"
+      },
+      "scorer": "#11 - Matt  ODriscoll",
+      "assist1": "#43 - Ryan  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1620",
+        "name": "Coyotes"
+      },
+      "scorer": "#43 - Ryan  ODriscoll",
+      "assist1": "#11 - Matt  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:53",
+      "team": {
+        "teamId": "1620",
+        "name": "Coyotes"
+      },
+      "scorer": "#42 - Adam  Russell",
+      "assist1": "#1 - Brian  Freeman",
+      "assist2": "#67 - Chris  Dour"
+    },
+    {
+      "period": "3",
+      "time": "00:03:59",
+      "team": {
+        "teamId": "1620",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1620",
+        "name": "Coyotes"
+      },
+      "scorer": "#43 - Ryan  ODriscoll",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": "#21 - Steve  Kaplan"
+    },
+    {
+      "period": "3",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "1620",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:20",
+      "team": {
+        "teamId": "1620",
+        "name": "Coyotes"
+      },
+      "player": "#3 - Bill  Schultheiss",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:04",
+      "team": {
+        "teamId": "1619",
+        "name": "Penguins"
+      },
+      "player": "#7 - Dan  Ellert",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:10",
+      "team": {
+        "teamId": "1619",
+        "name": "Penguins"
+      },
+      "player": "#100 - Goalie  Substitue",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:48",
+      "team": {
+        "teamId": "1620",
+        "name": "Coyotes"
+      },
+      "player": "#11 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:57:01.883Z"
+}

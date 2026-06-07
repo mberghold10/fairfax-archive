@@ -1,0 +1,134 @@
+{
+  "gameId": "18621",
+  "date": "2025-12-20",
+  "divId": 321,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1964",
+    "name": "D 4th Liners"
+  },
+  "away": {
+    "teamId": "1965",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:05:34",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#40 - Mikail  Serebrennikov",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:14",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#19 - Andrew  Grose",
+      "assist1": "#68 - Jeff  Gilmore",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#19 - Andrew  Grose",
+      "assist1": "#68 - Jeff  Gilmore",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "player": "#44 - Bob  Arnold",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:11",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "player": "#96 - Pat  Mitchell",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:34",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "player": "#44 - Bob  Arnold",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "player": "#29 - Kashif  Haque",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:37:43.558Z"
+}

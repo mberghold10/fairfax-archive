@@ -1,0 +1,178 @@
+{
+  "gameId": "10452",
+  "date": "2017-04-23",
+  "divId": 164,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1051",
+    "name": "Senators"
+  },
+  "away": {
+    "teamId": "1049",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "scorer": "#5 - Alex  Talalayevsky",
+      "assist1": "#10 - Matt  Johnson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:33",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": "#0 - Ruben  Garcia",
+      "assist2": "#20 - Paul  Flood"
+    },
+    {
+      "period": "2",
+      "time": "00:11:29",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "scorer": "#22 - Charlie  Campbell",
+      "assist1": "#57 - Howard  Uman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:32",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#79 - Jeff  Vandenberghe",
+      "assist2": "#24 - Brian  Crossin"
+    },
+    {
+      "period": "3",
+      "time": "00:04:06",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#20 - Paul  Flood",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:16",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": "#20 - Paul  Flood",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:09",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "scorer": "#57 - Howard  Uman",
+      "assist1": "#98 - Bob  Shaw",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "player": "#5 - Alex  Talalayevsky",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:48",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "player": "#24 - Mike  Duell",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:43",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "player": "#3 - Jim  Van Dyke",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:15:00",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "player": "#1 - Kurt  Frulla",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:15:00",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "player": "#1 - Kurt  Frulla",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:10:23.569Z"
+}

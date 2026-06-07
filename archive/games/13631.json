@@ -1,0 +1,226 @@
+{
+  "gameId": "13631",
+  "date": "2020-01-28",
+  "divId": 213,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1346",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1344",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 5,
+      "ot": 0,
+      "final": 8
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:28",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "scorer": "#6 - Kevin  Elfenbein",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": "#67 - Chris  Dour"
+    },
+    {
+      "period": "2",
+      "time": "00:09:08",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "scorer": "#9 - Jason  Murphy",
+      "assist1": "#36 - Bill  Ludke",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:59",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "scorer": "#13 - Kevin  Trac",
+      "assist1": "#18 - Sam  Chu",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:32",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#56 - Ryan  Tyler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:41",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:59",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#21 - Mark  Johnston",
+      "assist2": "#15 - Todd  Martin"
+    },
+    {
+      "period": "3",
+      "time": "00:13:09",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "scorer": "#16 - Scott  Kuehn",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:46",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "player": "#36 - Bill  Ludke",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:55",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "player": "#24 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:44",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "player": "#19 - Joe  Dunn",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:14",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "player": "#16 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1344",
+        "name": "Goons"
+      },
+      "player": "#15 - Todd  Martin",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:59",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "player": "#51 - Tyler  Kniaz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:10:18.208Z"
+}

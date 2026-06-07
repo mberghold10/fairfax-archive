@@ -1,0 +1,141 @@
+{
+  "gameId": "10311",
+  "date": "2017-01-15",
+  "divId": 158,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1014",
+    "name": "Canucks"
+  },
+  "away": {
+    "teamId": "1012",
+    "name": "North Stars"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:44",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "scorer": "#1 - Sam  Crowley",
+      "assist1": "#91 - Chris  Callanan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "scorer": "#63 - Steve  Yu",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "scorer": "#73 - Joshua  Schmand",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": "#18 - Bryan  Zupan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "scorer": "#17 - Steve  Schooner",
+      "assist1": "#19 - Colin  Million",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:26",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": "#7 - Evan  Wojtowicz",
+      "assist2": "#61 - Tero  Moberg"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:37",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "player": "#88 - Todd  Mariano",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:32",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "player": "#6 - Matt  Dwyer",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:14",
+      "team": {
+        "teamId": "1012",
+        "name": "North Stars"
+      },
+      "player": "#2 - Cyrus  Sussman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:03:16.006Z"
+}

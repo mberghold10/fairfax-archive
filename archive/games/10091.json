@@ -1,0 +1,132 @@
+{
+  "gameId": "10091",
+  "date": "2016-11-05",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1021",
+    "name": "Lightning"
+  },
+  "away": {
+    "teamId": "1020",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "scorer": "#17 - John  Gross",
+      "assist1": "#27 - Andrew  Sundelin",
+      "assist2": "#3 - Jordan  Ziegler"
+    },
+    {
+      "period": "2",
+      "time": "00:09:05",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "scorer": "#3 - Jordan  Ziegler",
+      "assist1": "#67 - Neil  Fitzpatrick",
+      "assist2": "#32 - Clayton  Clyburn"
+    },
+    {
+      "period": "2",
+      "time": "00:14:36",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "scorer": "#12 - Dave  Lean",
+      "assist1": "#47 - Dave  LeKuch",
+      "assist2": "#24 - Stephen  Fortier"
+    },
+    {
+      "period": "3",
+      "time": "00:09:58",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#1 - Paul  Parkinson",
+      "assist1": "#7 - Will  Weiler",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1020",
+        "name": "Blackskimmers"
+      },
+      "player": "#61 - Alan  Preville",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:52",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#18 - Frank  Lord",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#27 - Andrew  Sundelin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:25",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#24 - Stephen  Fortier",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:04:15.078Z"
+}

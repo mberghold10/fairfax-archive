@@ -1,0 +1,132 @@
+{
+  "gameId": "11707",
+  "date": "2018-06-24",
+  "divId": 186,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1181",
+    "name": "Crabs"
+  },
+  "away": {
+    "teamId": "1185",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1181",
+        "name": "Crabs"
+      },
+      "scorer": "#3 - Mat  White",
+      "assist1": "#40 - Hank  Kim",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:06",
+      "team": {
+        "teamId": "1185",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "1181",
+        "name": "Crabs"
+      },
+      "scorer": "#13 - Charlie  Ashley",
+      "assist1": "#99 - Jason  Hernandez",
+      "assist2": "#32 - Dave  Garvis"
+    },
+    {
+      "period": "3",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "1181",
+        "name": "Crabs"
+      },
+      "scorer": "#3 - Mat  White",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:15",
+      "team": {
+        "teamId": "1185",
+        "name": "Blackskimmers"
+      },
+      "player": "#6 - Matt  Johnson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:25",
+      "team": {
+        "teamId": "1181",
+        "name": "Crabs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1181",
+        "name": "Crabs"
+      },
+      "player": "#90 - Andrew  Mayen",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:32",
+      "team": {
+        "teamId": "1185",
+        "name": "Blackskimmers"
+      },
+      "player": "#6 - Matt  Johnson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:37:37.967Z"
+}

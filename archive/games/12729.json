@@ -1,0 +1,343 @@
+{
+  "gameId": "12729",
+  "date": "2019-06-26",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1266",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1260",
+    "name": "North Stars"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "scorer": "#6 - Matt  Dwyer",
+      "assist1": "#5 - Ben  Malakoff",
+      "assist2": "#88 - Evan  Wojtowicz"
+    },
+    {
+      "period": "1",
+      "time": "00:03:26",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "scorer": "#64 - Bob  Fischer",
+      "assist1": "#5 - Ben  Malakoff",
+      "assist2": "#88 - Evan  Wojtowicz"
+    },
+    {
+      "period": "1",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#71 - Colin  Shin",
+      "assist1": "#15 - Todd  Martin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#2 - Ricki  Clark",
+      "assist1": "#15 - Todd  Martin",
+      "assist2": "#5 - Chris  Marotta"
+    },
+    {
+      "period": "2",
+      "time": "00:08:58",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "scorer": "#12 - Matt  Diamond",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "scorer": "#71 - Dan  Cosentino",
+      "assist1": "#88 - Evan  Wojtowicz",
+      "assist2": "#12 - Matt  Diamond"
+    },
+    {
+      "period": "3",
+      "time": "00:08:57",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "scorer": "#5 - Ben  Malakoff",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "scorer": "#81 - Bryan  Getson",
+      "assist1": "#61 - Tero  Moberg",
+      "assist2": "#71 - Dan  Cosentino"
+    },
+    {
+      "period": "3",
+      "time": "00:13:51",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#99 - Brandon  Waldvogel",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#6 - David  Dechslein",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:06",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#550 - Bill  MacIntyre",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#13 - Mike  Carew",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#13 - Mike  Carew",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#13 - Mike  Carew",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#10 - Rob  Fischer",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#4 - Bruce  Baltas",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#12 - Matt  Diamond",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 10,
+      "offense": "4 penalties",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:33",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:08",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#6 - David  Dechslein",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#88 - Evan  Wojtowicz",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:12",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#550 - Bill  MacIntyre",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:53:33.336Z"
+}

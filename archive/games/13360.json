@@ -1,0 +1,104 @@
+{
+  "gameId": "13360",
+  "date": "2019-12-16",
+  "divId": 211,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1334",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1335",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:48",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#18 - Jimmy  Feeney",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "1334",
+        "name": "Dragons"
+      },
+      "scorer": "#42 - David  Hagemeier",
+      "assist1": "#61 - Tommy  Ripke",
+      "assist2": "#9 - Kim  Sherrock"
+    },
+    {
+      "period": "2",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#18 - Jimmy  Feeney",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1334",
+        "name": "Dragons"
+      },
+      "scorer": "#42 - David  Hagemeier",
+      "assist1": "#77 - Dylan  Gerhard",
+      "assist2": "#34 - Howard  Uman"
+    },
+    {
+      "period": "4",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#67 - Brian  Landers",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1334",
+        "name": "Dragons"
+      },
+      "player": "#5 - Sam  Bryce",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:07:47.205Z"
+}

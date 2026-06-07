@@ -1,0 +1,246 @@
+{
+  "gameId": "17120",
+  "date": "2024-08-10",
+  "divId": 291,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1784",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1783",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 5,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1783",
+        "name": "Ducks"
+      },
+      "scorer": "#71 - Colin  Shin",
+      "assist1": "#15 - Jonathan  Vu",
+      "assist2": "#25 - Max  Watstein"
+    },
+    {
+      "period": "1",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "1784",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#41 - Erik  Kniaz",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "1",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "1784",
+        "name": "Swarm"
+      },
+      "scorer": "#36 - Bill  Ludke",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:48",
+      "team": {
+        "teamId": "1783",
+        "name": "Ducks"
+      },
+      "scorer": "#71 - Colin  Shin",
+      "assist1": "#8 - Andrew  Lipsitz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:08",
+      "team": {
+        "teamId": "1783",
+        "name": "Ducks"
+      },
+      "scorer": "#27 - Bryan  Booker",
+      "assist1": "#12 - Jon  Gregor",
+      "assist2": "#8 - Andrew  Lipsitz"
+    },
+    {
+      "period": "1",
+      "time": "00:07:02",
+      "team": {
+        "teamId": "1783",
+        "name": "Ducks"
+      },
+      "scorer": "#7 - Andrew  Golomb",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:13",
+      "team": {
+        "teamId": "1784",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:37",
+      "team": {
+        "teamId": "1783",
+        "name": "Ducks"
+      },
+      "scorer": "#8 - Andrew  Lipsitz",
+      "assist1": "#9 - Sam  Ziesler",
+      "assist2": "#25 - Max  Watstein"
+    },
+    {
+      "period": "3",
+      "time": "00:04:49",
+      "team": {
+        "teamId": "1783",
+        "name": "Ducks"
+      },
+      "scorer": "#8 - Andrew  Lipsitz",
+      "assist1": "#7 - Andrew  Golomb",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:15",
+      "team": {
+        "teamId": "1784",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#41 - Erik  Kniaz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:23",
+      "team": {
+        "teamId": "1784",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#41 - Erik  Kniaz",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "3",
+      "time": "00:14:27",
+      "team": {
+        "teamId": "1783",
+        "name": "Ducks"
+      },
+      "scorer": "#71 - Colin  Shin",
+      "assist1": "#0 - Robert  Richard",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:48",
+      "team": {
+        "teamId": "1784",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:48",
+      "team": {
+        "teamId": "1783",
+        "name": "Ducks"
+      },
+      "player": "#15 - Jonathan  Vu",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:49",
+      "team": {
+        "teamId": "1783",
+        "name": "Ducks"
+      },
+      "player": "#71 - Colin  Shin",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:41",
+      "team": {
+        "teamId": "1784",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:06",
+      "team": {
+        "teamId": "1784",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:20",
+      "team": {
+        "teamId": "1783",
+        "name": "Ducks"
+      },
+      "player": "#0 - Robert  Richard",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:28:41.402Z"
+}

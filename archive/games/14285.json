@@ -1,0 +1,152 @@
+{
+  "gameId": "14285",
+  "date": "2021-09-14",
+  "divId": 231,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1443",
+    "name": "Redhawks"
+  },
+  "away": {
+    "teamId": "1445",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "1445",
+        "name": "Kings"
+      },
+      "scorer": "#82 - Caleb  Sohl",
+      "assist1": "#26 - Zachary  Shelnitz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:07",
+      "team": {
+        "teamId": "1445",
+        "name": "Kings"
+      },
+      "scorer": "#6 - Anthony  Federico",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "1443",
+        "name": "Redhawks"
+      },
+      "scorer": "#9 - Trevor  Lobaugh",
+      "assist1": "#8 - Brendon  Millice",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:39",
+      "team": {
+        "teamId": "1445",
+        "name": "Kings"
+      },
+      "scorer": "#55 - Chris  Yoko",
+      "assist1": "#9 - Tommy  Meaux",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:57",
+      "team": {
+        "teamId": "1443",
+        "name": "Redhawks"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#4 - Matt  Swezey",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:39",
+      "team": {
+        "teamId": "1445",
+        "name": "Kings"
+      },
+      "scorer": "#26 - Zachary  Shelnitz",
+      "assist1": "#82 - Caleb  Sohl",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:13",
+      "team": {
+        "teamId": "1443",
+        "name": "Redhawks"
+      },
+      "scorer": "#8 - Brendon  Millice",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:17",
+      "team": {
+        "teamId": "1443",
+        "name": "Redhawks"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "1445",
+        "name": "Kings"
+      },
+      "player": "#55 - Chris  Yoko",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:29",
+      "team": {
+        "teamId": "1443",
+        "name": "Redhawks"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:24:26.400Z"
+}

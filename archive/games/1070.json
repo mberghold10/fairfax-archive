@@ -1,0 +1,215 @@
+{
+  "gameId": "1070",
+  "date": "2020-08-23",
+  "divId": 213,
+  "seasonName": "Winter 2019",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1347",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1346",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": "#10 - Matt  Galen"
+    },
+    {
+      "period": "1",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1347",
+        "name": "Nortec"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#8 - Arturas  Vorobjovas",
+      "assist2": "#83 - Joseph  Tierney"
+    },
+    {
+      "period": "1",
+      "time": "00:12:19",
+      "team": {
+        "teamId": "1347",
+        "name": "Nortec"
+      },
+      "scorer": "#40 - Mikhail  Serebrennikov",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1347",
+        "name": "Nortec"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#12 - Sami  Kymalainen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": "#92 - Matt  Frazza"
+    },
+    {
+      "period": "3",
+      "time": "00:03:51",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "scorer": "#56 - Ryan  Tyler",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:53",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "scorer": "#92 - Matt  Frazza",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:48",
+      "team": {
+        "teamId": "1347",
+        "name": "Nortec"
+      },
+      "player": "#69 - Aaron  Domnitch",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:14",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "player": "#16 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1347",
+        "name": "Nortec"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1347",
+        "name": "Nortec"
+      },
+      "player": "#32 - Robert  LaJeunesse",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1346",
+        "name": "Swarm"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:51",
+      "team": {
+        "teamId": "1347",
+        "name": "Nortec"
+      },
+      "player": "#85 - Aaron  Dobbs",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:59",
+      "team": {
+        "teamId": "1347",
+        "name": "Nortec"
+      },
+      "player": "#12 - Sami  Kymalainen",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:10:47.539Z"
+}

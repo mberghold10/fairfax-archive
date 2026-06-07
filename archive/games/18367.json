@@ -1,0 +1,160 @@
+{
+  "gameId": "18367",
+  "date": "2025-09-28",
+  "divId": 318,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1952",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1949",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:16:57",
+      "team": {
+        "teamId": "1949",
+        "name": "Thunder"
+      },
+      "scorer": "#40 - Brandon  Sweezea",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "1949",
+        "name": "Thunder"
+      },
+      "scorer": "#10 - John  Wainwright",
+      "assist1": "#11 - Mark  Boyd",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:00",
+      "team": {
+        "teamId": "1949",
+        "name": "Thunder"
+      },
+      "scorer": "#93 - Chris  Conley",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:45",
+      "team": {
+        "teamId": "1949",
+        "name": "Thunder"
+      },
+      "player": "#44 - Matt  Waggoner",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1949",
+        "name": "Thunder"
+      },
+      "player": "#24 - Mike  Plourde",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:07",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "player": "#17 - Will  Murphy",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:45",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "player": "#31 - John  Marciano",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:45",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "player": "#17 - Will  Murphy",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:45",
+      "team": {
+        "teamId": "1949",
+        "name": "Thunder"
+      },
+      "player": "#40 - Brandon  Sweezea",
+      "pim": 2,
+      "offense": "head contact",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:45",
+      "team": {
+        "teamId": "1949",
+        "name": "Thunder"
+      },
+      "player": "#40 - Brandon  Sweezea",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:57:30.838Z"
+}

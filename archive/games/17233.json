@@ -1,0 +1,130 @@
+{
+  "gameId": "17233",
+  "date": "2024-10-05",
+  "divId": 287,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1761",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1763",
+    "name": "Screaming Eagles"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#42 - Adam  Russell",
+      "assist1": "#22 - Joseph  Ney",
+      "assist2": "#64 - Bob  Fischer"
+    },
+    {
+      "period": "1",
+      "time": "00:14:16",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#28 - Jake  Combs",
+      "assist1": "#61 - Tero  Moberg",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:25",
+      "team": {
+        "teamId": "1761",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#11 - Scott  Choronzy",
+      "assist1": "#23 - Mark  Rodemoyer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:14",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#61 - Tero  Moberg",
+      "assist1": "#28 - Jake  Combs",
+      "assist2": "#81 - Bryan  Getson"
+    },
+    {
+      "period": "3",
+      "time": "00:09:38",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#61 - Tero  Moberg",
+      "assist1": "#4 - Todd  Mariano",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:53",
+      "team": {
+        "teamId": "1761",
+        "name": "British Bulldogs"
+      },
+      "player": "#21 - Jacob  Rose",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "1763",
+        "name": "Screaming Eagles"
+      },
+      "player": "#4 - Todd  Mariano",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:05",
+      "team": {
+        "teamId": "1761",
+        "name": "British Bulldogs"
+      },
+      "player": "#6 - Kyle  Herring",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:24:35.704Z"
+}

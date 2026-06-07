@@ -1,0 +1,152 @@
+{
+  "gameId": "18194",
+  "date": "2025-08-24",
+  "divId": 313,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1913",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1914",
+    "name": "Red Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:23",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "scorer": "#80 - Ethan  Hoffman",
+      "assist1": "#47 - Raymond  Jakubowski",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "scorer": "#47 - Raymond  Jakubowski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "1913",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#16 - Marty  Cabral",
+      "assist1": "#44 - Jeff  Marciano",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:02",
+      "team": {
+        "teamId": "1913",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": "#4 - Sam  Hauslohner",
+      "assist2": "#77 - Chris  Casselman"
+    },
+    {
+      "period": "2",
+      "time": "00:12:26",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "scorer": "#65 - Stuart  Hoffman",
+      "assist1": "#88 - Maddy  Padgett",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:49",
+      "team": {
+        "teamId": "1913",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": "#21 - Josh  Vichness",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:59",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "scorer": "#80 - Ethan  Hoffman",
+      "assist1": "#47 - Raymond  Jakubowski",
+      "assist2": "#81 - Ricci  Miranda"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "player": "#88 - Maddy  Padgett",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:57",
+      "team": {
+        "teamId": "1913",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#4 - Sam  Hauslohner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:50:55.375Z"
+}

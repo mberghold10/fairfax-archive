@@ -1,0 +1,163 @@
+{
+  "gameId": "18684",
+  "date": "2026-02-15",
+  "divId": 322,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1977",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1978",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#13 - Ryan  Falco",
+      "assist1": "#29 - Frank  Tomaino",
+      "assist2": "#38 - Drew  Dunn"
+    },
+    {
+      "period": "2",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#38 - Drew  Dunn",
+      "assist1": "#29 - Frank  Tomaino",
+      "assist2": "#13 - Ryan  Falco"
+    },
+    {
+      "period": "2",
+      "time": "00:07:07",
+      "team": {
+        "teamId": "1977",
+        "name": "Rink Rats"
+      },
+      "scorer": "#92 - Ryan  VanDenheuval",
+      "assist1": "#36 - Steve  Morra",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:40",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#29 - Frank  Tomaino",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:58",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#38 - Drew  Dunn",
+      "assist1": "#13 - Ryan  Falco",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:49",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#38 - Drew  Dunn",
+      "assist1": "#29 - Frank  Tomaino",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:14",
+      "team": {
+        "teamId": "1977",
+        "name": "Rink Rats"
+      },
+      "scorer": "#36 - Steve  Morra",
+      "assist1": "#34 - Evan  Tierney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:25",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#38 - Drew  Dunn",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1977",
+        "name": "Rink Rats"
+      },
+      "player": "#8 - Joey  McDonald",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:36",
+      "team": {
+        "teamId": "1977",
+        "name": "Rink Rats"
+      },
+      "player": "#98 - Carl  Tierney",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:09",
+      "team": {
+        "teamId": "1977",
+        "name": "Rink Rats"
+      },
+      "player": "#8 - Joey  McDonald",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:00:56.678Z"
+}

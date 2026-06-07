@@ -1,0 +1,180 @@
+{
+  "gameId": "13183",
+  "date": "2019-09-26",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1266",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1261",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:12:24",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#18 - Sean  Gallucci",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:57",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "scorer": "#19 - Michael  Carr",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:24",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#15 - Todd  Martin",
+      "assist1": "#4 - Bruce  Baltas",
+      "assist2": "#9 - Sam  Ziesler"
+    },
+    {
+      "period": "3",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#6 - David  Dechslein",
+      "assist1": "#18 - Sean  Gallucci",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:56",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#18 - Sean  Gallucci",
+      "assist1": "#91 - Rob  Fischer",
+      "assist2": "#22 - Nate  Harrison"
+    },
+    {
+      "period": "3",
+      "time": "00:12:31",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "scorer": "#6 - David  Dechslein",
+      "assist1": "#91 - Rob  Fischer",
+      "assist2": "#15 - Todd  Martin"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:03",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "player": "#0 - Jeremy  Stehle",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:37",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "player": "#19 - Michael  Carr",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#18 - Sean  Gallucci",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#6 - David  Dechslein",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:23",
+      "team": {
+        "teamId": "1266",
+        "name": "Ducks"
+      },
+      "player": "#9 - Sam  Ziesler",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:03",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "player": "#2 - Peter  OKeefe",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:54:18.242Z"
+}

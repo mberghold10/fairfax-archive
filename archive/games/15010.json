@@ -1,0 +1,93 @@
+{
+  "gameId": "15010",
+  "date": "2022-05-21",
+  "divId": 252,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1557",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1558",
+    "name": "Red Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:45",
+      "team": {
+        "teamId": "1557",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#89 - Sid  Han",
+      "assist1": "#27 - Jamie  Prime",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:44",
+      "team": {
+        "teamId": "1558",
+        "name": "Red Dragons"
+      },
+      "scorer": "#19 - Ira  Keltz",
+      "assist1": "#71 - Raymond  Robie",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "1558",
+        "name": "Red Dragons"
+      },
+      "scorer": "#71 - Raymond  Robie",
+      "assist1": "#22 - Joseph  Janiak",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:26",
+      "team": {
+        "teamId": "1558",
+        "name": "Red Dragons"
+      },
+      "scorer": "#71 - Raymond  Robie",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:01",
+      "team": {
+        "teamId": "1557",
+        "name": "Blackskimmers"
+      },
+      "player": "#19 - Nate  Rozelle",
+      "pim": 2,
+      "offense": "Rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:43:34.497Z"
+}

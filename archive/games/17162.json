@@ -1,0 +1,154 @@
+{
+  "gameId": "17162",
+  "date": "2024-06-16",
+  "divId": 294,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1799",
+    "name": "Gold Goats"
+  },
+  "away": {
+    "teamId": "1800",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1799",
+        "name": "Gold Goats"
+      },
+      "scorer": "#15 - Tom  Sgroi",
+      "assist1": "#44 - Sean  Cullen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "scorer": "#20 - Mike  Hempen",
+      "assist1": "#81 - Pete  Poczatek",
+      "assist2": "#15 - Mark  Yawornicky"
+    },
+    {
+      "period": "3",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "scorer": "#44 - Jim  Hogan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:26",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "scorer": "#20 - Mike  Hempen",
+      "assist1": "#19 - Jason  Long",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1799",
+        "name": "Gold Goats"
+      },
+      "scorer": "#44 - Sean  Cullen",
+      "assist1": "#15 - Tom  Sgroi",
+      "assist2": "#26 - Bob  Shay"
+    },
+    {
+      "period": "3",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": "#25 - Greg  Reece",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:33",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "player": "#81 - Pete  Poczatek",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:51",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:12",
+      "team": {
+        "teamId": "1799",
+        "name": "Gold Goats"
+      },
+      "player": "#9 - Kim  Sherrock",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:06",
+      "team": {
+        "teamId": "1800",
+        "name": "Hurricanes"
+      },
+      "player": "#44 - Jim  Hogan",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:31:24.265Z"
+}

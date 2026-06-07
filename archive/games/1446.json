@@ -1,0 +1,160 @@
+{
+  "gameId": "1446",
+  "date": "2024-05-18",
+  "divId": 284,
+  "seasonName": "Winter 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1744",
+    "name": "Mesozoic Puck"
+  },
+  "away": {
+    "teamId": "1746",
+    "name": "Hershey"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:40",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#37 - Michael  Wisniewski",
+      "assist1": "#44 - George  Cernica",
+      "assist2": "#14 - Charles  Geschiere"
+    },
+    {
+      "period": "1",
+      "time": "00:12:01",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#37 - Michael  Wisniewski",
+      "assist1": "#7 - Graham  Eddy",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:33",
+      "team": {
+        "teamId": "1746",
+        "name": "Hershey"
+      },
+      "scorer": "#44 - Venka  Ashtakala",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#44 - George  Cernica",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:46",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#5 - Kyle  Cory",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:33",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:59",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#7 - Graham  Eddy",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:59",
+      "team": {
+        "teamId": "1746",
+        "name": "Hershey"
+      },
+      "player": "#3 - Tom  Meike",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:16",
+      "team": {
+        "teamId": "1746",
+        "name": "Hershey"
+      },
+      "player": "#35 - Robert  Carbo",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1746",
+        "name": "Hershey"
+      },
+      "player": "#29 - Chris  Dunn",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:22:06.166Z"
+}

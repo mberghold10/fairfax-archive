@@ -1,0 +1,104 @@
+{
+  "gameId": "11952",
+  "date": "2018-08-26",
+  "divId": 187,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1192",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1191",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "scorer": "#60 - Ed  Sugrue",
+      "assist1": "#2 - Sam  Bressi",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:17:30",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "scorer": "#68 - Matt  Taylor",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:15:40",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "scorer": "#6 - Hugo  Guzman",
+      "assist1": "#79 - Igor  Helman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1191",
+        "name": "Thunder"
+      },
+      "scorer": "#9 - Karner  Sharon",
+      "assist1": "#75 - Dany  Normandeau",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:50",
+      "team": {
+        "teamId": "1191",
+        "name": "Thunder"
+      },
+      "scorer": "#75 - Dany  Normandeau",
+      "assist1": "#37 - Christal  Cudworth",
+      "assist2": "#76 - Ethan  Bond"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1191",
+        "name": "Thunder"
+      },
+      "player": "#75 - Dany  Normandeau",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:39:36.116Z"
+}

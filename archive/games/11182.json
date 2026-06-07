@@ -1,0 +1,60 @@
+{
+  "gameId": "11182",
+  "date": "2017-12-03",
+  "divId": 177,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1132",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1130",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:09:01",
+      "team": {
+        "teamId": "1132",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#71 - Mark  Saucer",
+      "assist1": "#52 - Richard  Smith",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:28",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "player": "#6 - Matt  Johnson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:26:46.440Z"
+}

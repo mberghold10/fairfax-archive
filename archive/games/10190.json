@@ -1,0 +1,132 @@
+{
+  "gameId": "10190",
+  "date": "2016-12-01",
+  "divId": 155,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "994",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "993",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:36",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#23 - Mike  OBrien",
+      "assist2": "#20 - Rich  Utano"
+    },
+    {
+      "period": "1",
+      "time": "00:05:58",
+      "team": {
+        "teamId": "994",
+        "name": "Penguins"
+      },
+      "scorer": "#34 - Chad  Fisher",
+      "assist1": "#9 - Mark  Rudnicki",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "994",
+        "name": "Penguins"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": "#55 - Tim  Dutcher",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:21",
+      "team": {
+        "teamId": "994",
+        "name": "Penguins"
+      },
+      "scorer": "#9 - Mark  Rudnicki",
+      "assist1": "#34 - Chad  Fisher",
+      "assist2": "#24 - Max  Alexeev"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "player": "#15 - Chuck  McKeever",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:36",
+      "team": {
+        "teamId": "994",
+        "name": "Penguins"
+      },
+      "player": "#81 - Chris  Holden",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:18",
+      "team": {
+        "teamId": "993",
+        "name": "Team USA"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:59:03.810Z"
+}

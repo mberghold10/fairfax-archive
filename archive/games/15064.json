@@ -1,0 +1,93 @@
+{
+  "gameId": "15064",
+  "date": "2022-05-19",
+  "divId": 254,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1567",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1570",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:04",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#13 - Bob  Seal",
+      "assist1": "#55 - Tim  Dutcher",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:04",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#250 - Bob  Banasik",
+      "assist1": "#11 - Darren  Wellner",
+      "assist2": "#7 - Dan  Ellert"
+    },
+    {
+      "period": "2",
+      "time": "00:08:23",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#11 - Darren  Wellner",
+      "assist1": "#15 - Mark  Rudnicki",
+      "assist2": "#24 - Max  Alexeev"
+    },
+    {
+      "period": "3",
+      "time": "00:00:54",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#250 - Bob  Banasik",
+      "assist1": "#24 - Max  Alexeev",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:05:02",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "player": "#23 - Rick  Gorgone",
+      "pim": 2,
+      "offense": "Interference",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:45:42.588Z"
+}

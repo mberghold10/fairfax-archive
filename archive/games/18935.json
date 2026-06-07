@@ -1,0 +1,121 @@
+{
+  "gameId": "18935",
+  "date": "2026-04-11",
+  "divId": 322,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1978",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "1979",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#38 - Drew  Dunn",
+      "assist1": "#13 - Ryan  Falco",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:52",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#38 - Drew  Dunn",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:00",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#38 - Drew  Dunn",
+      "assist1": "#39 - Alex  Cimon",
+      "assist2": "#79 - Jeff  Vandenberghe"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:51",
+      "team": {
+        "teamId": "1979",
+        "name": "Blackskimmers"
+      },
+      "player": "#11 - Josh  Gilman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1979",
+        "name": "Blackskimmers"
+      },
+      "player": "#19 - Nate  Rozelle",
+      "pim": 4,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 5,
+      "offense": "head contact",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "1978",
+        "name": "Mad Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:01:23.628Z"
+}

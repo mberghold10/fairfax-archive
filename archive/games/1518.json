@@ -1,0 +1,215 @@
+{
+  "gameId": "1518",
+  "date": "2025-06-13",
+  "divId": 301,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1855",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1851",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:03",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#40 - Matt  Mickelson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:29",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "scorer": "#20 - Mike  Hawthorne",
+      "assist1": "#14 - John  Kohler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:21",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "scorer": "#14 - John  Kohler",
+      "assist1": "#72 - Alex  Cardon",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "1855",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#5 - Roger  Jordan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:01",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "scorer": "#38 - Howie  Uman",
+      "assist1": "#44 - Sean  Cullen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:55",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "scorer": "#14 - John  Kohler",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:55",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "scorer": "#14 - John  Kohler",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:53",
+      "team": {
+        "teamId": "1855",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#4 - Sam  Hauslohner",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:29",
+      "team": {
+        "teamId": "1855",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#14 - David  Fisher",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:50",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "player": "#19 - Ira  Keltz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:52",
+      "team": {
+        "teamId": "1855",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#20 - Mike  Neas",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "player": "#17 - Dan  Pol",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "player": "#17 - Dan  Pol",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:58",
+      "team": {
+        "teamId": "1851",
+        "name": "Old Goats"
+      },
+      "player": "#89 - Jay  Gobeil",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:06",
+      "team": {
+        "teamId": "1855",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#77 - Chris  Casselman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:39:43.354Z"
+}

@@ -1,0 +1,104 @@
+{
+  "gameId": "15249",
+  "date": "2022-08-04",
+  "divId": 254,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1569",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1566",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": "#40 - Matt  Michelson",
+      "assist2": "#13 - Phil  Wind"
+    },
+    {
+      "period": "1",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1569",
+        "name": "Team USA"
+      },
+      "scorer": "#8 - Jamie  Sengheiser",
+      "assist1": "#99 - Jon  Davoren",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:52",
+      "team": {
+        "teamId": "1569",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#20 - Rich  Utano",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:16",
+      "team": {
+        "teamId": "1569",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jessie  Brand",
+      "assist1": "#34 - Jim  Morgan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:52",
+      "team": {
+        "teamId": "1569",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jessie  Brand",
+      "assist1": "#8 - Jamie  Sengheiser",
+      "assist2": "#20 - Rich  Utano"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:58",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "player": "#24 - Michael  Duell",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:46:24.671Z"
+}

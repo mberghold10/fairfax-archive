@@ -1,0 +1,139 @@
+{
+  "gameId": "18053",
+  "date": "2025-04-12",
+  "divId": 309,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1886",
+    "name": "Mesozoic Puck"
+  },
+  "away": {
+    "teamId": "1889",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#4 - Jeff  Goldberg",
+      "assist1": "#93 - Robert  Wagner",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:21",
+      "team": {
+        "teamId": "1886",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#44 - George  Cernica",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:17:00",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#51 - Kevin  Michie",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#4 - Jeff  Goldberg",
+      "assist1": "#93 - Robert  Wagner",
+      "assist2": "#87 - Ryan  Young"
+    },
+    {
+      "period": "2",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#93 - Robert  Wagner",
+      "assist1": "#4 - Jeff  Goldberg",
+      "assist2": "#23 - Brian  Ladd"
+    },
+    {
+      "period": "3",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#4 - Jeff  Goldberg",
+      "assist1": "#93 - Robert  Wagner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:20",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#33 - Brandon  Boling",
+      "assist1": "#20 - Steve  Ahart",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:12",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "player": "#23 - Brian  Ladd",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1889",
+        "name": "Blue Dogs"
+      },
+      "player": "#93 - Robert  Wagner",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:46:47.788Z"
+}

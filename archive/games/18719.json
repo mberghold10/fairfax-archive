@@ -1,0 +1,156 @@
+{
+  "gameId": "18719",
+  "date": "2026-02-21",
+  "divId": 323,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1980",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1984",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:12",
+      "team": {
+        "teamId": "1984",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#4 - Rob  Ryan",
+      "assist1": "#88 - Jason  Searight",
+      "assist2": "#13 - Jon  Coley"
+    },
+    {
+      "period": "2",
+      "time": "00:09:15",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "scorer": "#16 - Kiran  Manikarnika",
+      "assist1": "#43 - Dan  Miller",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1984",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#27 - Steven  Darrow",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:55",
+      "team": {
+        "teamId": "1984",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#23 - Sal  St Thomas",
+      "assist1": "#4 - Rob  Ryan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:58",
+      "team": {
+        "teamId": "1984",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#22 - Terry  Saad",
+      "assist1": "#43 - Alex  Langsam",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:14",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "player": "#6 - Jon  Alford",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:10",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "player": "#43 - Dan  Miller",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:09",
+      "team": {
+        "teamId": "1984",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#43 - Alex  Langsam",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:49",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "player": "#22 - Mark  Rayder",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1984",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#43 - Alex  Langsam",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:02:27.683Z"
+}

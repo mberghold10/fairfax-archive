@@ -1,0 +1,141 @@
+{
+  "gameId": "18174",
+  "date": "2025-07-20",
+  "divId": 313,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1919",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1914",
+    "name": "Red Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#10 - Steve  Daniels",
+      "assist1": "#22 - Adam  Bacon",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#71 - Francis  Aul",
+      "assist1": "#15 - Mike  Munoz",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:48",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "scorer": "#20 - Charlie  Curia",
+      "assist1": "#65 - Stuart  Hoffman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:58",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "scorer": "#20 - Charlie  Curia",
+      "assist1": "#12 - Scott  Borders",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:31",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#11 - Josh  Gilman",
+      "assist1": "#71 - Francis  Aul",
+      "assist2": "#24 - Conor  Woods"
+    },
+    {
+      "period": "3",
+      "time": "00:10:44",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#71 - Francis  Aul",
+      "assist1": "#22 - Adam  Bacon",
+      "assist2": "#89 - Sid  Han"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:48",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "player": "#24 - Conor  Woods",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:48",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "player": "#81 - Ricci  Miranda",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1919",
+        "name": "Blackskimmers"
+      },
+      "player": "#10 - Steve  Daniels",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:50:35.335Z"
+}

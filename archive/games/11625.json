@@ -1,0 +1,68 @@
+{
+  "gameId": "11625",
+  "date": "2018-06-17",
+  "divId": 183,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1167",
+    "name": "Blackhawks"
+  },
+  "away": {
+    "teamId": "1162",
+    "name": "Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#55 - Dan  Middleton",
+      "assist1": "#18 - Steve  Percival",
+      "assist2": "#11 - Mike  Dumont"
+    },
+    {
+      "period": "2",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": null
+    }
+  ],
+  "penalties": [],
+  "_updated": "2026-06-06T19:33:36.129Z"
+}

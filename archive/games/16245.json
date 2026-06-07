@@ -1,0 +1,154 @@
+{
+  "gameId": "16245",
+  "date": "2023-08-27",
+  "divId": 270,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1668",
+    "name": "Red Dragons"
+  },
+  "away": {
+    "teamId": "1698",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1698",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#3 - Dick  Deitos",
+      "assist2": "#17 - Dan  Pol"
+    },
+    {
+      "period": "2",
+      "time": "00:05:52",
+      "team": {
+        "teamId": "1698",
+        "name": "Old Goats"
+      },
+      "scorer": "#19 - Ira  Keltz",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "1668",
+        "name": "Red Dragons"
+      },
+      "scorer": "#71 - Raymond  Robie",
+      "assist1": "#17 - Nic  Van Tol",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:46",
+      "team": {
+        "teamId": "1668",
+        "name": "Red Dragons"
+      },
+      "scorer": "#17 - Nic  Van Tol",
+      "assist1": "#71 - Raymond  Robie",
+      "assist2": "#9 - Kim  Sherrock"
+    },
+    {
+      "period": "3",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "1668",
+        "name": "Red Dragons"
+      },
+      "scorer": "#12 - Scott  Borders",
+      "assist1": "#71 - Raymond  Robie",
+      "assist2": "#4 - Josh  Renton"
+    },
+    {
+      "period": "3",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1698",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#17 - Dan  Pol",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "1668",
+        "name": "Red Dragons"
+      },
+      "player": "#43 - Ben  Jones",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:31",
+      "team": {
+        "teamId": "1668",
+        "name": "Red Dragons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "1698",
+        "name": "Old Goats"
+      },
+      "player": "#27 - Dave  Lin",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1668",
+        "name": "Red Dragons"
+      },
+      "player": "#71 - Raymond  Robie",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:05:32.531Z"
+}

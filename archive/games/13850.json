@@ -1,0 +1,154 @@
+{
+  "gameId": "13850",
+  "date": "2020-11-19",
+  "divId": 222,
+  "seasonName": "Fall 2020",
+  "mode": "regular",
+  "home": {
+    "teamId": "1392",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1395",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:11",
+      "team": {
+        "teamId": "1395",
+        "name": "Grey Goons"
+      },
+      "scorer": "#47 - Talbot  Black",
+      "assist1": "#49 - Greg  Mullen",
+      "assist2": "#24 - Tom  Spiewak"
+    },
+    {
+      "period": "2",
+      "time": "00:03:49",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#11 - Darren  Wellner",
+      "assist1": "#18 - Dominic  Pistolessi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1395",
+        "name": "Grey Goons"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": "#28 - Alex  Henry",
+      "assist2": "#54 - Jerry  Gibbons"
+    },
+    {
+      "period": "3",
+      "time": "00:04:49",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#11 - Darren  Wellner",
+      "assist1": "#18 - Dominic  Pistolessi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:07",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "#18 - Dominic  Pistolessi",
+      "assist1": "#77 - Ryan  Reed",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:09",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "scorer": "# -",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:01",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "player": "#24 - Max  Alexeev",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "player": "#77 - Ryan  Reed",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:55",
+      "team": {
+        "teamId": "1395",
+        "name": "Grey Goons"
+      },
+      "player": "#25 - Chris  Lettieri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1392",
+        "name": "Penguins"
+      },
+      "player": "#77 - Ryan  Reed",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:17:47.500Z"
+}

@@ -1,0 +1,143 @@
+{
+  "gameId": "16294",
+  "date": "2023-08-26",
+  "divId": 272,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1674",
+    "name": "Ers"
+  },
+  "away": {
+    "teamId": "1682",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:35",
+      "team": {
+        "teamId": "1674",
+        "name": "Ers"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": "#55 - Mike  McKenney",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:23",
+      "team": {
+        "teamId": "1674",
+        "name": "Ers"
+      },
+      "scorer": "#19 - Joe  Dunn",
+      "assist1": "#20 - Edward  Holleran",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:09",
+      "team": {
+        "teamId": "1674",
+        "name": "Ers"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:33",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "scorer": "#79 - Dave  Gerstner",
+      "assist1": "#41 - Dave  Armstrong",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:57",
+      "team": {
+        "teamId": "1674",
+        "name": "Ers"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": "#55 - Mike  McKenney",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:33",
+      "team": {
+        "teamId": "1674",
+        "name": "Ers"
+      },
+      "player": "#19 - Joe  Dunn",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:27",
+      "team": {
+        "teamId": "1674",
+        "name": "Ers"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "1674",
+        "name": "Ers"
+      },
+      "player": "#24 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:33",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "player": "#9 - Rick  Cole",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:07:53.282Z"
+}

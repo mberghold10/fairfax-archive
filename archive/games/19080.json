@@ -1,0 +1,237 @@
+{
+  "gameId": "19080",
+  "date": "2026-05-24",
+  "divId": 326,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2009",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "2012",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 4,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "scorer": "#3 - Bill  Schultheiss",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": "#33 - Hung  Pham"
+    },
+    {
+      "period": "2",
+      "time": "00:01:36",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:33",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Brian  Dix",
+      "assist1": "#43 - David  Ingles",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "scorer": "#68 - Samson  Chu",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:48",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "scorer": "#43 - David  Ingles",
+      "assist1": "#33 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "scorer": "#5 - Mark  DeVito",
+      "assist1": "#26 - Matt  Kowalski",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:42",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Brian  Dix",
+      "assist1": "#43 - David  Ingles",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:52",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "scorer": "#27 - Mike  Heuple",
+      "assist1": "#15 - Mike  Hempen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:53",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Brian  Dix",
+      "assist1": "#24 - Grant  Moher",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "player": "#24 - Grant  Moher",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:43",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "player": "#25 - Steve  Tamburo",
+      "pim": 2,
+      "offense": "Body check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:08",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "player": "#16 - Jamani  Nurali",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:59",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "player": "#26 - Matt  Kowalski",
+      "pim": 2,
+      "offense": "Hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:57",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "player": "#5 - Andy  Loggia",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:58",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "player": "#56 - Ryan  Tyler",
+      "pim": 2,
+      "offense": "Body Check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:07",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "player": "#51 - Michael  Short",
+      "pim": 2,
+      "offense": "Hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:06:27.280Z"
+}

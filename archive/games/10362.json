@@ -1,0 +1,191 @@
+{
+  "gameId": "10362",
+  "date": "2017-03-03",
+  "divId": 153,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "982",
+    "name": "ers"
+  },
+  "away": {
+    "teamId": "981",
+    "name": "Georgetown"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "scorer": "#44 - Mick  Ellsworth",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:56",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "scorer": "#24 - Mike  Giardina",
+      "assist1": "#85 - Alex  Adams",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:10",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "scorer": "#21 - Mark  Johnston",
+      "assist1": "#44 - Mick  Ellsworth",
+      "assist2": "#24 - Mike  Giardina"
+    },
+    {
+      "period": "2",
+      "time": "00:03:26",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "scorer": "#65 - Sam  Wopperer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:07",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "scorer": "#24 - Mike  Giardina",
+      "assist1": "#66 - Jason  Rodriguez",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "scorer": "#24 - Mike  Giardina",
+      "assist1": "#44 - Mick  Ellsworth",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:43",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "scorer": "#24 - Mike  Giardina",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "player": "#85 - Alex  Adams",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:11",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "player": "#3 - Alex  Oster",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "player": "#8 - Matt  Coster",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "player": "#67 - Daniel  Margol",
+      "pim": 5,
+      "offense": "head contact",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "player": "#67 - Daniel  Margol",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:24",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "player": "#67 - Daniel  Margol",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:57:03.214Z"
+}

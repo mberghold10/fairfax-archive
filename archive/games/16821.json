@@ -1,0 +1,222 @@
+{
+  "gameId": "16821",
+  "date": "2024-02-29",
+  "divId": 282,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1734",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1733",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 1,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:49",
+      "team": {
+        "teamId": "1734",
+        "name": "Coyotes"
+      },
+      "scorer": "#5 - Andy  Loggia",
+      "assist1": "#20 - Scott  Choronzy",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:32",
+      "team": {
+        "teamId": "1733",
+        "name": "Penguins"
+      },
+      "scorer": "#51 - Rob  Fischer",
+      "assist1": "#250 - Bob  Banasik",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1733",
+        "name": "Penguins"
+      },
+      "scorer": "#3 - John  Niemiec",
+      "assist1": "#51 - Rob  Fischer",
+      "assist2": "#43 - Henry  Weisiger"
+    },
+    {
+      "period": "2",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1733",
+        "name": "Penguins"
+      },
+      "scorer": "#19 - Mike  Carr",
+      "assist1": "#10 - Brian  Land",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1734",
+        "name": "Coyotes"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": "#25 - Steve  Tamburo",
+      "assist2": "#21 - Steve  Kaplan"
+    },
+    {
+      "period": "2",
+      "time": "00:05:36",
+      "team": {
+        "teamId": "1733",
+        "name": "Penguins"
+      },
+      "scorer": "#7 - Dan  Ellert",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "1733",
+        "name": "Penguins"
+      },
+      "scorer": "#19 - Mike  Carr",
+      "assist1": "#51 - Rob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:30",
+      "team": {
+        "teamId": "1734",
+        "name": "Coyotes"
+      },
+      "scorer": "#25 - Steve  Tamburo",
+      "assist1": "#42 - Adam  Russell",
+      "assist2": "#4 - Paul  Cicchetti"
+    },
+    {
+      "period": "3",
+      "time": "00:04:34",
+      "team": {
+        "teamId": "1734",
+        "name": "Coyotes"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": "#5 - Andy  Loggia",
+      "assist2": "#4 - Paul  Cicchetti"
+    },
+    {
+      "period": "3",
+      "time": "00:10:23",
+      "team": {
+        "teamId": "1734",
+        "name": "Coyotes"
+      },
+      "scorer": "#22 - Sonny  Gupta",
+      "assist1": "#1 - Brian  Freeman",
+      "assist2": "#20 - Scott  Choronzy"
+    },
+    {
+      "period": "4",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1734",
+        "name": "Coyotes"
+      },
+      "scorer": "#20 - Scott  Choronzy",
+      "assist1": "#64 - Bob  Fischer",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1733",
+        "name": "Penguins"
+      },
+      "player": "#250 - Bob  Banasik",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1734",
+        "name": "Coyotes"
+      },
+      "player": "#1 - Brian  Freeman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "1733",
+        "name": "Penguins"
+      },
+      "player": "#20 - Brent  Jefferson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:34",
+      "team": {
+        "teamId": "1733",
+        "name": "Penguins"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1733",
+        "name": "Penguins"
+      },
+      "player": "#250 - Bob  Banasik",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:19:08.111Z"
+}

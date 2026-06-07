@@ -1,0 +1,143 @@
+{
+  "gameId": "18508",
+  "date": "2025-10-17",
+  "divId": 313,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1915",
+    "name": "Windbreakers"
+  },
+  "away": {
+    "teamId": "1914",
+    "name": "Red Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "1915",
+        "name": "Windbreakers"
+      },
+      "scorer": "#27 - James  Fothergill",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "scorer": "#57 - Dylan  Thomas",
+      "assist1": "#47 - Raymond  Jakubowski",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:45",
+      "team": {
+        "teamId": "1915",
+        "name": "Windbreakers"
+      },
+      "scorer": "#73 - Chris  Green",
+      "assist1": "#33 - Juliana  Brotzman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "1915",
+        "name": "Windbreakers"
+      },
+      "scorer": "#47 - Peter  Vesely",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:38",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "scorer": "#69 - Gibb  Little",
+      "assist1": "#47 - Raymond  Jakubowski",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:32",
+      "team": {
+        "teamId": "1915",
+        "name": "Windbreakers"
+      },
+      "player": "#33 - Juliana  Brotzman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "player": "#57 - Dylan  Thomas",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:20",
+      "team": {
+        "teamId": "1914",
+        "name": "Red Dragons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:36",
+      "team": {
+        "teamId": "1915",
+        "name": "Windbreakers"
+      },
+      "player": "#11 - James  Litz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:51:19.347Z"
+}

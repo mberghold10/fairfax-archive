@@ -1,0 +1,150 @@
+{
+  "gameId": "13959",
+  "date": "2021-03-29",
+  "divId": 226,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1418",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1415",
+    "name": "Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:04",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#55 - Scott  Dullea",
+      "assist1": "#44 - Tony  Staab",
+      "assist2": "#91 - Sean  Morrow"
+    },
+    {
+      "period": "1",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#15 - David  Eyre",
+      "assist1": "#17 - Maxim  Rinaldi",
+      "assist2": "#44 - Tony  Staab"
+    },
+    {
+      "period": "1",
+      "time": "00:12:42",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": "#16 - Ralph  Rinaldi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:57",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": "#21 - Brian  Dutton",
+      "assist2": "#40 - Matt  Mickelson"
+    },
+    {
+      "period": "2",
+      "time": "00:14:27",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "scorer": "#25 - Mike  Andrien",
+      "assist1": "#40 - Matt  Mickelson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#12 - Chris  Yoko",
+      "assist1": "#55 - Scott  Dullea",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:59",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#55 - Scott  Dullea",
+      "assist1": "#91 - Sean  Morrow",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:56",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "player": "#1 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "player": "#91 - Sean  Morrow",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:20:22.272Z"
+}

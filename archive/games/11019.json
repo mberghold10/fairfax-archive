@@ -1,0 +1,130 @@
+{
+  "gameId": "11019",
+  "date": "2017-10-12",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1096",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1101",
+    "name": "Rustico Flames"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:05:49",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "scorer": "#15 - Mike  Hempen",
+      "assist1": "#24 - Jim  Behrend",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "scorer": "#8 - Dan  Brehm",
+      "assist1": "#10 - Chris  Ferragamo",
+      "assist2": "#25 - Malcolm  Hyson"
+    },
+    {
+      "period": "3",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#51 - Brendan  Bernat",
+      "assist1": "#16 - Dan  Rebmann",
+      "assist2": "#20 - Scott  Forbes"
+    },
+    {
+      "period": "3",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#16 - Dan  Rebmann",
+      "assist1": "#42 - Jeff  Lovett",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "scorer": "#10 - Chris  Ferragamo",
+      "assist1": "#22 - Ed  Gulakowski",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:49",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "player": "#51 - Brendan  Bernat",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:47",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:19:38.110Z"
+}

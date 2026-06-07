@@ -1,0 +1,169 @@
+{
+  "gameId": "10592",
+  "date": "2017-06-04",
+  "divId": 166,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1064",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1060",
+    "name": "Red Devils"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:35",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": "#15 - David  Eyre",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "scorer": "#26 - Eric  Hessler",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:06",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "scorer": "#11 - Mike  Brobeck",
+      "assist1": "#5 - James  Miller",
+      "assist2": "#77 - Brian  Ballantine"
+    },
+    {
+      "period": "3",
+      "time": "00:07:52",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "scorer": "#15 - David  Eyre",
+      "assist1": "#4 - Dave  Sinniger",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:19",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": "#15 - David  Eyre",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "player": "#12 - James  Bratsos",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1060",
+        "name": "Red Devils"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:14",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#5 - James  Miller",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:38",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#0 - Curt  Tucker",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:53",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#4 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#11 - Mike  Brobeck",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:13:11.410Z"
+}

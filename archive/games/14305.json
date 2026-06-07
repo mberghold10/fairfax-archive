@@ -1,0 +1,176 @@
+{
+  "gameId": "14305",
+  "date": "2021-09-12",
+  "divId": 233,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1457",
+    "name": "D Punishers"
+  },
+  "away": {
+    "teamId": "1453",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1457",
+        "name": "D Punishers"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#3 - Nada  Jones",
+      "assist2": "#15 - Phil  Wind"
+    },
+    {
+      "period": "1",
+      "time": "00:13:44",
+      "team": {
+        "teamId": "1453",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#24 - Ben  Fonarov",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:23",
+      "team": {
+        "teamId": "1457",
+        "name": "D Punishers"
+      },
+      "scorer": "#25 - Mike  Andrien",
+      "assist1": "#27 - Dave  Lin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "1457",
+        "name": "D Punishers"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": "#12 - Dave  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:13",
+      "team": {
+        "teamId": "1457",
+        "name": "D Punishers"
+      },
+      "scorer": "#3 - Nada  Jones",
+      "assist1": "#12 - Dave  OMalley",
+      "assist2": "#15 - Phil  Wind"
+    },
+    {
+      "period": "2",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "1457",
+        "name": "D Punishers"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": "#12 - Dave  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "1457",
+        "name": "D Punishers"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:14",
+      "team": {
+        "teamId": "1453",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#77 - Dan  Owens",
+      "assist1": "#22 - Patrick  Smith",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:01",
+      "team": {
+        "teamId": "1453",
+        "name": "Jurassic Puck"
+      },
+      "player": "#17 - Zephan  Keehner",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:51",
+      "team": {
+        "teamId": "1453",
+        "name": "Jurassic Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:47",
+      "team": {
+        "teamId": "1457",
+        "name": "D Punishers"
+      },
+      "player": "#8 - Grant  Dougans",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1453",
+        "name": "Jurassic Puck"
+      },
+      "player": "#17 - Zephan  Keehner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:25:42.644Z"
+}

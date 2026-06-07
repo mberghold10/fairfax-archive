@@ -1,0 +1,191 @@
+{
+  "gameId": "10766",
+  "date": "2017-07-05",
+  "divId": 165,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1055",
+    "name": "Kings"
+  },
+  "away": {
+    "teamId": "1054",
+    "name": "Phi Slama Jamma"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:37",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#0 - Tommy  Meaux",
+      "assist1": "#15 - Sean  Maniuszko",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:19",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "scorer": "#7 - Matt  Finsterwald",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:34",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "scorer": "#22 - Ryan  Mosel",
+      "assist1": "#12 - Dylan  Reed",
+      "assist2": "#13 - Keith  Fagerquist"
+    },
+    {
+      "period": "1",
+      "time": "00:10:54",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#27 - John  Dove",
+      "assist1": "#14 - Sam  Marchio",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:13",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#15 - Sean  Maniuszko",
+      "assist1": "#0 - Tommy  Meaux",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:16",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "scorer": "#40 - Brandon  Honeycutt",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:55",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "scorer": "#13 - Keith  Fagerquist",
+      "assist1": "#5 - Nathan  Green",
+      "assist2": "#15 - Michael  Defilippo"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:19",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "player": "#14 - Sam  Marchio",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:37",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "player": "#15 - Michael  Defilippo",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:37",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:27",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "player": "#15 - Michael  Defilippo",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:33",
+      "team": {
+        "teamId": "1055",
+        "name": "Kings"
+      },
+      "player": "#80 - Jeremy  Feldman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:12:02.755Z"
+}

@@ -1,0 +1,150 @@
+{
+  "gameId": "14766",
+  "date": "2022-03-03",
+  "divId": 246,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1521",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1523",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 5,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:11:25",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "scorer": "#23 - Rick  Gorgone",
+      "assist1": "#250 - Bob  Banasik",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:19",
+      "team": {
+        "teamId": "1523",
+        "name": "Team USA"
+      },
+      "scorer": "#54 - Dan  Bagley",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:23",
+      "team": {
+        "teamId": "1523",
+        "name": "Team USA"
+      },
+      "scorer": "#8 - Jamie  Sengheiser",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1523",
+        "name": "Team USA"
+      },
+      "scorer": "#8 - Jamie  Sengheiser",
+      "assist1": "#5 - Oleg  Kolodin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:19",
+      "team": {
+        "teamId": "1523",
+        "name": "Team USA"
+      },
+      "scorer": "#8 - Jamie  Sengheiser",
+      "assist1": "#5 - Oleg  Kolodin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:41",
+      "team": {
+        "teamId": "1523",
+        "name": "Team USA"
+      },
+      "scorer": "#8 - Jamie  Sengheiser",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:31",
+      "team": {
+        "teamId": "1523",
+        "name": "Team USA"
+      },
+      "scorer": "#9 - Ken  Fritzke",
+      "assist1": "#8 - Jamie  Sengheiser",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:37",
+      "team": {
+        "teamId": "1523",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#8 - Jamie  Sengheiser",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:12",
+      "team": {
+        "teamId": "1523",
+        "name": "Team USA"
+      },
+      "player": "#25 - Stan  Torgovitsky",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:51",
+      "team": {
+        "teamId": "1521",
+        "name": "Penguins"
+      },
+      "player": "#7 - Dan  Ellert",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:36:57.807Z"
+}

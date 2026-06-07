@@ -1,0 +1,156 @@
+{
+  "gameId": "13102",
+  "date": "2019-07-29",
+  "divId": 205,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1300",
+    "name": "Jurassic Puck"
+  },
+  "away": {
+    "teamId": "1301",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": "#9 - Julien  De Grandpre",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "1300",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#28 - Michael  Berghold",
+      "assist1": "#9 - Tristan  Heyn",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:35",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#9 - Julien  De Grandpre",
+      "assist1": "#24 - Harry  Nicholakos",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#89 - Sid  Han",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:25",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#89 - Sid  Han",
+      "assist1": "#7 - Will  Weiler",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:40",
+      "team": {
+        "teamId": "1300",
+        "name": "Jurassic Puck"
+      },
+      "player": "#9 - Tristan  Heyn",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:04",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "player": "#16 - Dave  Smith",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1300",
+        "name": "Jurassic Puck"
+      },
+      "player": "#83 - Jared  DiCioccio",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:41",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "player": "#44 - Jim  McGovern",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:31",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "player": "#27 - Jamie  Prime",
+      "pim": 2,
+      "offense": "tripq",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:00:48.804Z"
+}

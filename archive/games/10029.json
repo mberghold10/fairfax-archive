@@ -1,0 +1,108 @@
+{
+  "gameId": "10029",
+  "date": "2016-11-15",
+  "divId": 156,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1001",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1004",
+    "name": "Hooligans"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:05:38",
+      "team": {
+        "teamId": "1004",
+        "name": "Hooligans"
+      },
+      "scorer": "#43 - Bobby  Powers",
+      "assist1": "#42 - Andrew  Hanes",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "scorer": "#92 - Bryan  Diner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1004",
+        "name": "Hooligans"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": "#4 - Sam  Hauslohner",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:06:39",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "player": "#92 - Bryan  Diner",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:52",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "player": "# -",
+      "pim": 68,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:27",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "player": "#41 - Randy  Warren",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:00:26.445Z"
+}

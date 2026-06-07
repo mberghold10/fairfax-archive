@@ -1,0 +1,95 @@
+{
+  "gameId": "16593",
+  "date": "2023-11-07",
+  "divId": 283,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1740",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1741",
+    "name": "Gold Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:02",
+      "team": {
+        "teamId": "1741",
+        "name": "Gold Goats"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#52 - Alan  Dappen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:09",
+      "team": {
+        "teamId": "1740",
+        "name": "Wolves"
+      },
+      "scorer": "#17 - Christopher  Watroba",
+      "assist1": "#47 - James  Kim",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "1741",
+        "name": "Gold Goats"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#38 - Howard  Uman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1741",
+        "name": "Gold Goats"
+      },
+      "player": "#19 - Ira  Keltz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:59",
+      "team": {
+        "teamId": "1741",
+        "name": "Gold Goats"
+      },
+      "player": "#38 - Howard  Uman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:19:54.037Z"
+}

@@ -1,0 +1,178 @@
+{
+  "gameId": "15003",
+  "date": "2022-07-18",
+  "divId": 251,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1551",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1553",
+    "name": "Hitmen"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 1,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "1551",
+        "name": "Angry Moose"
+      },
+      "scorer": "#6 - Noah  Merenbloom",
+      "assist1": "#21 - Kevin  Lockland",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:28",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "scorer": "#24 - Evan  Feinberg",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:28",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "scorer": "#24 - Evan  Feinberg",
+      "assist1": "#29 - Taylor  Van Prooyen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:53",
+      "team": {
+        "teamId": "1551",
+        "name": "Angry Moose"
+      },
+      "scorer": "#21 - Kevin  Lockland",
+      "assist1": "#15 - Kevin  Szczepanski",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:34",
+      "team": {
+        "teamId": "1551",
+        "name": "Angry Moose"
+      },
+      "scorer": "#77 - Billy  OBrien",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "scorer": "#17 - James  Cisanik",
+      "assist1": "#29 - Taylor  Van Prooyen",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:02:06",
+      "team": {
+        "teamId": "1551",
+        "name": "Angry Moose"
+      },
+      "scorer": "#17 - Anthony  Vitucci",
+      "assist1": "#77 - Billy  OBrien",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:14",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "player": "#74 - Mike  Brewin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:14",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "player": "#5 - Chris  Oman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:59",
+      "team": {
+        "teamId": "1551",
+        "name": "Angry Moose"
+      },
+      "player": "#28 - Doug  Branton",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:35",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "player": "#4 - Augie  Savarese",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:35",
+      "team": {
+        "teamId": "1553",
+        "name": "Hitmen"
+      },
+      "player": "#4 - Augie  Savarese",
+      "pim": 10,
+      "offense": "match",
+      "isMajor": false,
+      "isMatch": true
+    }
+  ],
+  "_updated": "2026-06-06T20:42:35.593Z"
+}

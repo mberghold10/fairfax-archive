@@ -1,0 +1,226 @@
+{
+  "gameId": "13414",
+  "date": "2019-11-07",
+  "divId": 214,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1354",
+    "name": "Old Goats"
+  },
+  "away": {
+    "teamId": "1351",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1351",
+        "name": "Team USA"
+      },
+      "scorer": "#12 - Jason  Wakeman",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": "#10 - Mike  Brahmey"
+    },
+    {
+      "period": "1",
+      "time": "00:07:45",
+      "team": {
+        "teamId": "1351",
+        "name": "Team USA"
+      },
+      "scorer": "#20 - Rich  Utano",
+      "assist1": "#34 - Jim  Morgan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1351",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": "#34 - Jim  Morgan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:08",
+      "team": {
+        "teamId": "1354",
+        "name": "Old Goats"
+      },
+      "scorer": "#20 - Matt  Michelson",
+      "assist1": "#17 - Dan  Pol",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1351",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:06",
+      "team": {
+        "teamId": "1354",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#20 - Matt  Michelson",
+      "assist2": "#52 - Alan  Dappen"
+    },
+    {
+      "period": "2",
+      "time": "00:10:52",
+      "team": {
+        "teamId": "1354",
+        "name": "Old Goats"
+      },
+      "scorer": "#20 - Matt  Michelson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1351",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#44 - Greg  Powers",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:28",
+      "team": {
+        "teamId": "1354",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:43",
+      "team": {
+        "teamId": "1354",
+        "name": "Old Goats"
+      },
+      "player": "#17 - Dan  Pol",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1351",
+        "name": "Team USA"
+      },
+      "player": "#27 - Jesse  Brand",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:48",
+      "team": {
+        "teamId": "1354",
+        "name": "Old Goats"
+      },
+      "player": "#12 - David  OMalley",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:52",
+      "team": {
+        "teamId": "1354",
+        "name": "Old Goats"
+      },
+      "player": "#4 - Steve  Bradley",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:28",
+      "team": {
+        "teamId": "1354",
+        "name": "Old Goats"
+      },
+      "player": "#26 - Bob  Shay",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1354",
+        "name": "Old Goats"
+      },
+      "player": "#20 - Matt  Michelson",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "1351",
+        "name": "Team USA"
+      },
+      "player": "#99 - Jon  Davoren",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:11:06.993Z"
+}

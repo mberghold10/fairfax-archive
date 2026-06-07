@@ -1,0 +1,139 @@
+{
+  "gameId": "18334",
+  "date": "2025-07-20",
+  "divId": 318,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1950",
+    "name": "Hershey Beers"
+  },
+  "away": {
+    "teamId": "1948",
+    "name": "Mesozoic Pucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 1,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1948",
+        "name": "Mesozoic Pucks"
+      },
+      "scorer": "#21 - Joe  Rhodes",
+      "assist1": "#74 - Matt  Santos",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:18:07",
+      "team": {
+        "teamId": "1948",
+        "name": "Mesozoic Pucks"
+      },
+      "scorer": "#33 - Scott  Coco",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#78 - Ramzi  Farah",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:27",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#68 - Rich  Williams",
+      "assist1": "#66 - Ed  Deegan",
+      "assist2": "#87 - Feng  Lan"
+    },
+    {
+      "period": "3",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#88 - Afshawn  Towfighi",
+      "assist1": "#68 - Rich  Williams",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:26",
+      "team": {
+        "teamId": "1948",
+        "name": "Mesozoic Pucks"
+      },
+      "scorer": "#7 - Eddy  Graham",
+      "assist1": "#10 - Ed  Hillard",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:37",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#8 - Tim  Lo",
+      "assist1": "#88 - Afshawn  Towfighi",
+      "assist2": "#54 - Scott  Knisley"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:51",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "player": "#14 - Mohan  Sud",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:20",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "player": "#87 - Feng  Lan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:56:57.842Z"
+}

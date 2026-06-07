@@ -1,0 +1,167 @@
+{
+  "gameId": "12151",
+  "date": "2018-11-17",
+  "divId": 190,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1208",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1209",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "scorer": "#21 - Jim  Callow",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:28",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "scorer": "#91 - Chris  Callanan",
+      "assist1": null,
+      "assist2": "#4 - Lou  Mayo"
+    },
+    {
+      "period": "2",
+      "time": "00:06:24",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#7 - Brian  Freeman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:52",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "scorer": "#88 - Brian  Ray",
+      "assist1": "#91 - Chris  Callanan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "scorer": "#10 - Jay  Snyder",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#12 - Steven  Courson",
+      "assist1": "#23 - Rob  Fischer",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "player": "#9 - James  Boland",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "player": "#91 - Chris  Callanan",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:28",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:11",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "player": "#23 - Rob  Fischer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:28",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "player": "#88 - Brian  Ray",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:41:57.328Z"
+}

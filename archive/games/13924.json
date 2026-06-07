@@ -1,0 +1,117 @@
+{
+  "gameId": "13924",
+  "date": "2021-01-19",
+  "divId": 223,
+  "seasonName": "Fall 2020",
+  "mode": "regular",
+  "home": {
+    "teamId": "1398",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1400",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:57",
+      "team": {
+        "teamId": "1398",
+        "name": "Wolves"
+      },
+      "scorer": "#5 - Steve  Crespy",
+      "assist1": "#77 - Dennis  Salvatore",
+      "assist2": "#50 - Lorin  Randall"
+    },
+    {
+      "period": "1",
+      "time": "00:09:22",
+      "team": {
+        "teamId": "1400",
+        "name": "Hurricanes"
+      },
+      "scorer": "#2 - Mark  Jesten",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:49",
+      "team": {
+        "teamId": "1400",
+        "name": "Hurricanes"
+      },
+      "scorer": "#89 - Frank  Congel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:04",
+      "team": {
+        "teamId": "1398",
+        "name": "Wolves"
+      },
+      "scorer": "#10 - Rich  Scigaj",
+      "assist1": "#5 - Steve  Crespy",
+      "assist2": "#77 - Dennis  Salvatore"
+    },
+    {
+      "period": "3",
+      "time": "00:14:13",
+      "team": {
+        "teamId": "1398",
+        "name": "Wolves"
+      },
+      "scorer": "#65 - Stuart  Hoffman",
+      "assist1": "#5 - Steve  Crespy",
+      "assist2": "#77 - Dennis  Salvatore"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:04",
+      "team": {
+        "teamId": "1400",
+        "name": "Hurricanes"
+      },
+      "player": "#27 - Jeff  Alton",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "1400",
+        "name": "Hurricanes"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:18:36.816Z"
+}

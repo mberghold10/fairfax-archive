@@ -1,0 +1,143 @@
+{
+  "gameId": "1282",
+  "date": "2023-04-15",
+  "divId": 260,
+  "seasonName": "Winter 2022",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1603",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1601",
+    "name": "D Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:10:52",
+      "team": {
+        "teamId": "1601",
+        "name": "D Punishers"
+      },
+      "scorer": "#25 - Mike  Andrien",
+      "assist1": "#76 - Kiran  Manakarnika",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:21",
+      "team": {
+        "teamId": "1601",
+        "name": "D Punishers"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#88 - Matt  Zipper",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1601",
+        "name": "D Punishers"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:39",
+      "team": {
+        "teamId": "1601",
+        "name": "D Punishers"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "1601",
+        "name": "D Punishers"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "1601",
+        "name": "D Punishers"
+      },
+      "player": "#7 - Ken  Ochsner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:04",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "player": "#2 - Dennis  Valentine",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:15",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "player": "#28 - Doug  Branton",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:12",
+      "team": {
+        "teamId": "1601",
+        "name": "D Punishers"
+      },
+      "player": "#17 - Dan  Pol",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:53:44.485Z"
+}

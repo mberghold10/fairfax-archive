@@ -1,0 +1,93 @@
+{
+  "gameId": "12094",
+  "date": "2018-10-13",
+  "divId": 197,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1252",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1249",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1252",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#17 - Justin  Cade",
+      "assist1": "#19 - Troy  Edwards",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:56",
+      "team": {
+        "teamId": "1252",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#41 - Alessio  Evangelista",
+      "assist1": "#6 - Armand  Alacbay",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "1252",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#14 - Mike  Ezike",
+      "assist1": "#22 - Amir  Tahami",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:37",
+      "team": {
+        "teamId": "1252",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#41 - Alessio  Evangelista",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:34",
+      "team": {
+        "teamId": "1249",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#13 - Aaron  Kirsch",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:51:15.341Z"
+}

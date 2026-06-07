@@ -1,0 +1,141 @@
+{
+  "gameId": "13313",
+  "date": "2019-10-27",
+  "divId": 210,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1326",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1328",
+    "name": "Pharaohs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 4,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:29",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "scorer": "#55 - Mike  Stawick",
+      "assist1": "#13 - Shane  Mitchell",
+      "assist2": "#6 - Dan  Definis"
+    },
+    {
+      "period": "2",
+      "time": "00:04:16",
+      "team": {
+        "teamId": "1328",
+        "name": "Pharaohs"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": "#5 - Chris  Maroon",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:16",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "scorer": "#77 - Caleb  Sohl",
+      "assist1": "#55 - Mike  Stawick",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:06",
+      "team": {
+        "teamId": "1328",
+        "name": "Pharaohs"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:15",
+      "team": {
+        "teamId": "1328",
+        "name": "Pharaohs"
+      },
+      "scorer": "#15 - Brian  Ebert",
+      "assist1": "#83 - Jared  DiCioccio",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:47",
+      "team": {
+        "teamId": "1328",
+        "name": "Pharaohs"
+      },
+      "scorer": "#10 - Jay  Yoon",
+      "assist1": "#83 - Jared  DiCioccio",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1328",
+        "name": "Pharaohs"
+      },
+      "player": "#83 - Jared  DiCioccio",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "1328",
+        "name": "Pharaohs"
+      },
+      "player": "#19 - Otto  Noffsinger",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:58",
+      "team": {
+        "teamId": "1328",
+        "name": "Pharaohs"
+      },
+      "player": "#3 - Jack  Wilmer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:06:09.790Z"
+}

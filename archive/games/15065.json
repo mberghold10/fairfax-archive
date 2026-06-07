@@ -1,0 +1,154 @@
+{
+  "gameId": "15065",
+  "date": "2022-05-21",
+  "divId": 254,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1570",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1566",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:20",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "scorer": "#29 - Jon  Rodvein",
+      "assist1": "#24 - Tom  Spiewak",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:37",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "scorer": "#26 - Eric  Mastromatteo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "scorer": "#25 - Chris  Lettieri",
+      "assist1": "#49 - Greg  Mullen",
+      "assist2": "#21 - Grant  Gibbons"
+    },
+    {
+      "period": "2",
+      "time": "00:01:56",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:58",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "scorer": "#26 - Eric  Mastromatteo",
+      "assist1": "#19 - Joe  Dunn",
+      "assist2": "#24 - Tom  Spiewak"
+    },
+    {
+      "period": "3",
+      "time": "00:06:59",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "scorer": "#42 - Christain  Gibbons",
+      "assist1": "#24 - Tom  Spiewak",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:12",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "player": "#52 - Alan  Dappen",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:46",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "player": "#8 - Curt  Tucker",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "player": "#24 - Michael  Duell",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:41",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "player": "#76 - Mike  Floyd",
+      "pim": 2,
+      "offense": "Checking",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:45:43.661Z"
+}

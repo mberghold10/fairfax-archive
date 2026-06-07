@@ -1,0 +1,104 @@
+{
+  "gameId": "15305",
+  "date": "2022-07-31",
+  "divId": 256,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1578",
+    "name": "Roughnecks"
+  },
+  "away": {
+    "teamId": "1580",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "1578",
+        "name": "Roughnecks"
+      },
+      "scorer": "#11 - Trevor  Boynton",
+      "assist1": "#26 - Thomas  Newberg",
+      "assist2": "#1 - Larry  Silver"
+    },
+    {
+      "period": "2",
+      "time": "00:11:29",
+      "team": {
+        "teamId": "1580",
+        "name": "Red Wings"
+      },
+      "scorer": "#36 - Greg  Kowalski",
+      "assist1": "#19 - Gus  Anderson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1578",
+        "name": "Roughnecks"
+      },
+      "scorer": "#1 - Larry  Silver",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "1580",
+        "name": "Red Wings"
+      },
+      "scorer": "#36 - Greg  Kowalski",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:44",
+      "team": {
+        "teamId": "1580",
+        "name": "Red Wings"
+      },
+      "scorer": "#16 - Wei  Wang",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:46",
+      "team": {
+        "teamId": "1580",
+        "name": "Red Wings"
+      },
+      "player": "#25 - James  Chu",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:48:37.833Z"
+}

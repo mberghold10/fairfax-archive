@@ -1,0 +1,139 @@
+{
+  "gameId": "15128",
+  "date": "2022-07-25",
+  "divId": 250,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1540",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1544",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1544",
+        "name": "Avalanche"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "1544",
+        "name": "Avalanche"
+      },
+      "scorer": "#24 - Thomas  OConnor",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:33",
+      "team": {
+        "teamId": "1544",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": "#19 - James  Howe",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "scorer": "#10 - Mario  Constantinou",
+      "assist1": "#4 - Todd  Mariano",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "scorer": "#10 - Mario  Constantinou",
+      "assist1": "#5 - Ben  Malakoff",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:54",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "scorer": "#10 - Mario  Constantinou",
+      "assist1": "#42 - Adam  Russell",
+      "assist2": "#5 - Ben  Malakoff"
+    },
+    {
+      "period": "4",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "1544",
+        "name": "Avalanche"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1544",
+        "name": "Avalanche"
+      },
+      "player": "#5 - Oleg  Kolodin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:17",
+      "team": {
+        "teamId": "1540",
+        "name": "North Stars"
+      },
+      "player": "#5 - Ben  Malakoff",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:41:11.700Z"
+}

@@ -1,0 +1,152 @@
+{
+  "gameId": "15051",
+  "date": "2022-06-29",
+  "divId": 253,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1562",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "1560",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1562",
+        "name": "Jacks"
+      },
+      "scorer": "#7 - Joseph  Hull",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:24",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "scorer": "#12 - Jonathan  Greger",
+      "assist1": "#18 - Sean  Gallucci",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "1562",
+        "name": "Jacks"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#33 - Sergey  Kuznetsov",
+      "assist2": "#24 - Chuck  Robinson"
+    },
+    {
+      "period": "3",
+      "time": "00:05:25",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "scorer": "#18 - Sean  Gallucci",
+      "assist1": "#13 - Brian  Patterson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:23",
+      "team": {
+        "teamId": "1562",
+        "name": "Jacks"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#13 - Randy  Foster",
+      "assist2": "#6 - Paul  Maguire"
+    },
+    {
+      "period": "3",
+      "time": "00:11:28",
+      "team": {
+        "teamId": "1562",
+        "name": "Jacks"
+      },
+      "scorer": "#24 - Chuck  Robinson",
+      "assist1": "#33 - Sergey  Kuznetsov",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:23",
+      "team": {
+        "teamId": "1562",
+        "name": "Jacks"
+      },
+      "scorer": "#24 - Chuck  Robinson",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:18",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "player": "#71 - Colin  Shin",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "player": "#9 - Sam  Ziesler",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:30",
+      "team": {
+        "teamId": "1562",
+        "name": "Jacks"
+      },
+      "player": "#28 - Charles  Hale",
+      "pim": 2,
+      "offense": "High Stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:44:59.038Z"
+}

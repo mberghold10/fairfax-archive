@@ -1,0 +1,202 @@
+{
+  "gameId": "15259",
+  "date": "2022-08-28",
+  "divId": 254,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1567",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1570",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "scorer": "#11 - Dave  Brown",
+      "assist1": "#19 - Joe  Dunn",
+      "assist2": "#76 - Mike  Floyd"
+    },
+    {
+      "period": "1",
+      "time": "00:08:29",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "scorer": "#76 - Mike  Floyd",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#250 - Bob  Banasik",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#18 - Dominic  Pistolessi",
+      "assist1": "#250 - Bob  Banasik",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#11 - Darren  Wellner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:11",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#18 - Dominic  Pistolessi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:53",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "scorer": "#5 - Neil  Phippen",
+      "assist1": "#250 - Bob  Banasik",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "scorer": "#19 - Joe  Dunn",
+      "assist1": "#11 - Dave  Brown",
+      "assist2": "#49 - Greg  Mullen"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "player": "#49 - Greg  Mullen",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:14",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "player": "#26 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "player": "#3 - John  Niemec",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:29",
+      "team": {
+        "teamId": "1567",
+        "name": "Penguins"
+      },
+      "player": "#15 - Mark  Rudnicki",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:04",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "player": "#12 - Paul  Zalocha",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:04",
+      "team": {
+        "teamId": "1570",
+        "name": "Grey Goons"
+      },
+      "player": "#24 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:46:34.669Z"
+}

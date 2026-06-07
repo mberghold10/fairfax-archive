@@ -1,0 +1,115 @@
+{
+  "gameId": "13059",
+  "date": "2019-08-04",
+  "divId": 203,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1287",
+    "name": "Bluejacket Capitals"
+  },
+  "away": {
+    "teamId": "1286",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:53",
+      "team": {
+        "teamId": "1287",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#89 - Jeff  Stabbins",
+      "assist1": "#18 - Pete  Poczatek",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:50",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "scorer": "#55 - Scott  Dullea",
+      "assist1": "#2 - Seth  Johnson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:58",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "scorer": "#2 - Seth  Johnson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1287",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": "#66 - Andrew  Alix",
+      "assist2": "#88 - Andrew  Grose"
+    },
+    {
+      "period": "3",
+      "time": "00:09:33",
+      "team": {
+        "teamId": "1287",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#19 - JP  Klousia",
+      "assist1": "#88 - Andrew  Grose",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:16",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "scorer": "#12 - Chris  Yoko",
+      "assist1": "#2 - Seth  Johnson",
+      "assist2": "#55 - Scott  Dullea"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "player": "#0 - Curt  Tucker",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:58:35.202Z"
+}

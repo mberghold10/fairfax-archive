@@ -1,0 +1,163 @@
+{
+  "gameId": "13329",
+  "date": "2019-12-02",
+  "divId": 210,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1328",
+    "name": "Pharaohs"
+  },
+  "away": {
+    "teamId": "1326",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:23",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "scorer": "#24 - Thomas  OConnor",
+      "assist1": "#10 - Chris  Greenough",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:08",
+      "team": {
+        "teamId": "1328",
+        "name": "Pharaohs"
+      },
+      "scorer": "#10 - Jay  Yoon",
+      "assist1": "#5 - Chris  Maroon",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "1328",
+        "name": "Pharaohs"
+      },
+      "scorer": "#10 - Jay  Yoon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1328",
+        "name": "Pharaohs"
+      },
+      "scorer": "#11 - Dan  Owens",
+      "assist1": "#23 - Seth  Wayne",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:14",
+      "team": {
+        "teamId": "1328",
+        "name": "Pharaohs"
+      },
+      "scorer": "#17 - Zepahn  Keener",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:47",
+      "team": {
+        "teamId": "1328",
+        "name": "Pharaohs"
+      },
+      "scorer": "#10 - Jay  Yoon",
+      "assist1": "#19 - Otto  Noffsinger",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:52",
+      "team": {
+        "teamId": "1328",
+        "name": "Pharaohs"
+      },
+      "scorer": "#10 - Jay  Yoon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:37",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "scorer": "#87 - Stan  Kolodin",
+      "assist1": "#77 - Caleb  Sohl",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:14:10",
+      "team": {
+        "teamId": "1328",
+        "name": "Pharaohs"
+      },
+      "player": "#3 - Jack  Wilmer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:07",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "player": "#6 - Dan  Definis",
+      "pim": 5,
+      "offense": "rough",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:07",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "player": "#6 - Dan  Definis",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:06:25.796Z"
+}

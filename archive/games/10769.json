@@ -1,0 +1,130 @@
+{
+  "gameId": "10769",
+  "date": "2017-07-15",
+  "divId": 165,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1059",
+    "name": "Blackhawks"
+  },
+  "away": {
+    "teamId": "1054",
+    "name": "Phi Slama Jamma"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:52",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "scorer": "#29 - Skylar  Ford",
+      "assist1": "#77 - Jeff  Carter",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:16",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#9 - Chris  Peterkin",
+      "assist2": "#0 - Jude  Buckholz"
+    },
+    {
+      "period": "1",
+      "time": "00:09:21",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "scorer": "#16 - Kyle  Luukkonen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "scorer": "#11 - Dennis  Nayandin",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:57",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:27",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "player": "#0 - Jude  Buckholz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "player": "#8 - Brendan  Millice",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:12:05.775Z"
+}

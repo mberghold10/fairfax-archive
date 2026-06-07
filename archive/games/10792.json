@@ -1,0 +1,143 @@
+{
+  "gameId": "10792",
+  "date": "2017-07-03",
+  "divId": 166,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1064",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1065",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#52 - Evan  Weisel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:40",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "scorer": "#0 - Curt  Tucker",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#91 - Chris  Callanan",
+      "assist1": "#80 - Matt  Rogers",
+      "assist2": "#17 - Allen  Preville"
+    },
+    {
+      "period": "3",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "scorer": "#91 - Chris  Callanan",
+      "assist1": "#52 - Evan  Weisel",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:16",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "scorer": "#28 - Jake  Angeline",
+      "assist1": "#92 - Zack  Angeline",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:57",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#6 - Mike  Benyo",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:29",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#41 - Jeff  Goff",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:39",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:44",
+      "team": {
+        "teamId": "1065",
+        "name": "Canucks"
+      },
+      "player": "#15 - Tom  Budris",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:13:27.199Z"
+}

@@ -1,0 +1,128 @@
+{
+  "gameId": "1060",
+  "date": "2020-08-03",
+  "divId": 212,
+  "seasonName": "Winter 2019",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1339",
+    "name": "Steamed Crabs"
+  },
+  "away": {
+    "teamId": "1341",
+    "name": "Sparks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "1339",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#43 - Steve  Sincavage",
+      "assist1": "#77 - Alex  Wang",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:49",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "scorer": "#30 - Brandon  Heiner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:21",
+      "team": {
+        "teamId": "1339",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#67 - John F Krotzer",
+      "assist1": "#30 - Michael  Gibson",
+      "assist2": "#15 - Dave  Fisher"
+    },
+    {
+      "period": "2",
+      "time": "00:07:51",
+      "team": {
+        "teamId": "1339",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#49 - Matt  Mowery",
+      "assist1": "#43 - Steve  Sincavage",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:25",
+      "team": {
+        "teamId": "1339",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#30 - Michael  Gibson",
+      "assist1": "#67 - John F Krotzer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:43",
+      "team": {
+        "teamId": "1339",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#67 - John F Krotzer",
+      "assist1": "#22 - Trevor  Blair",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:29",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "player": "#15 - Andy  Lock",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "player": "#74 - Jeff  Urlwin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:09:29.183Z"
+}

@@ -1,0 +1,128 @@
+{
+  "gameId": "12484",
+  "date": "2019-01-12",
+  "divId": 193,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1228",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1225",
+    "name": "Steamed Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1225",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#3 - Mat  White",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:27",
+      "team": {
+        "teamId": "1225",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#3 - Mat  White",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:33",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "scorer": "#36 - Nick  Fishter",
+      "assist1": "#17 - Emma  Alperin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:18",
+      "team": {
+        "teamId": "1225",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#11 - Joe  Janiak",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:48",
+      "team": {
+        "teamId": "1225",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#18 - Craig  McCall",
+      "assist1": "#61 - Jake  Middel",
+      "assist2": "#19 - Angelo  Ponirakis"
+    },
+    {
+      "period": "3",
+      "time": "00:13:33",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "scorer": "#77 - Dylan  Gerhard",
+      "assist1": "#5 - Sam  Bryce",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:03:52",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "player": "#36 - Nick  Fishter",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:51",
+      "team": {
+        "teamId": "1225",
+        "name": "Steamed Crabs"
+      },
+      "player": "#32 - Dave  Garvis",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:46:23.677Z"
+}

@@ -1,0 +1,163 @@
+{
+  "gameId": "15062",
+  "date": "2022-05-14",
+  "divId": 254,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1565",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1571",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:36",
+      "team": {
+        "teamId": "1571",
+        "name": "Islanders"
+      },
+      "scorer": "#10 - Steve  Spivack",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": "#25 - Greg  Reece"
+    },
+    {
+      "period": "1",
+      "time": "00:03:36",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "scorer": "#36 - William  Ludke",
+      "assist1": "#33 - Andy  Taylor",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:47",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "scorer": "#25 - Malcolm  Hyson",
+      "assist1": "#15 - Mike  Hempen",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:52",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Andy  Taylor",
+      "assist1": "#70 - Robert  Dover",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "1571",
+        "name": "Islanders"
+      },
+      "scorer": "#10 - Steve  Spivack",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:43",
+      "team": {
+        "teamId": "1571",
+        "name": "Islanders"
+      },
+      "scorer": "#17 - John  Wallace",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:25",
+      "team": {
+        "teamId": "1571",
+        "name": "Islanders"
+      },
+      "scorer": "#88 - Anthony  DeJohn",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:21",
+      "team": {
+        "teamId": "1571",
+        "name": "Islanders"
+      },
+      "scorer": "#88 - Anthony  DeJohn",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:59",
+      "team": {
+        "teamId": "1571",
+        "name": "Islanders"
+      },
+      "player": "#17 - John  Wallace",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "1571",
+        "name": "Islanders"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:54",
+      "team": {
+        "teamId": "1571",
+        "name": "Islanders"
+      },
+      "player": "#70 - Dave  Hemmet",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:45:40.698Z"
+}

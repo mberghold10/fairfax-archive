@@ -1,0 +1,256 @@
+{
+  "gameId": "919",
+  "date": "2018-09-26",
+  "divId": 180,
+  "seasonName": "Summer 2018",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1146",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1147",
+    "name": "Englewood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:33",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#78 - Noe  Natchuel",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#78 - Noe  Natchuel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:33",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#10 - Matt  Galen",
+      "assist1": "#56 - Ryan  Tyler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#28 - Charles  Hale",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:35",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "scorer": "#3 - Mario  Regan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:29",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "scorer": "#7 - Joe  Hull",
+      "assist1": "#27 - John  Hitesman",
+      "assist2": "#2 - Rod  Wade"
+    },
+    {
+      "period": "3",
+      "time": "00:09:14",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#78 - Noe  Natchuel",
+      "assist1": "#11 - Sam  Marchio",
+      "assist2": "#0 - Ron  Szatmary"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#18 - Samson  Chu",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "player": "#31 - Ed  Doxer",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "player": "#44 - Greg  Hanson",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "player": "#3 - Mario  Regan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:03",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "player": "#4 - Mark  Sullivan",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "player": "#4 - Mark  Sullivan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:15",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#11 - Sam  Marchio",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:28",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#56 - Ryan  Tyler",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:27",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "player": "#28 - Charles  Hale",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:03",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#30 - Jeremy  Walling",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:03",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "player": "#12 - Brian  Dix",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:30:44.506Z"
+}

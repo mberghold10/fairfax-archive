@@ -1,0 +1,128 @@
+{
+  "gameId": "16900",
+  "date": "2024-04-21",
+  "divId": 284,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1748",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1744",
+    "name": "Mesozoic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:51",
+      "team": {
+        "teamId": "1748",
+        "name": "Red Wings"
+      },
+      "scorer": "#18 - Russ  Smith",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#42 - John  Coley",
+      "assist1": "#14 - Charles  Geschiere",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#33 - Scott  Coco",
+      "assist1": "#44 - George  Cernica",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "1748",
+        "name": "Red Wings"
+      },
+      "scorer": "#16 - Wei  Wang",
+      "assist1": "#17 - Will  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:12",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#74 - Matt  Santos",
+      "assist1": "#14 - Charles  Geschiere",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#5 - Kyle  Cory",
+      "assist1": "#30 - Antonello  Favaro",
+      "assist2": "#24 - Audrey  Morrison"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:16:06",
+      "team": {
+        "teamId": "1748",
+        "name": "Red Wings"
+      },
+      "player": "#25 - James  Chu",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:15",
+      "team": {
+        "teamId": "1748",
+        "name": "Red Wings"
+      },
+      "player": "#25 - James  Chu",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:21:54.746Z"
+}

@@ -1,0 +1,104 @@
+{
+  "gameId": "10060",
+  "date": "2016-10-23",
+  "divId": 158,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1014",
+    "name": "Canucks"
+  },
+  "away": {
+    "teamId": "1016",
+    "name": "Red Devils"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:38",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "scorer": "#1 - Sam  Crowley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "scorer": "#73 - Joshua  Schmand",
+      "assist1": "#1 - Sam  Crowley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#10 - Chris  Chagnon",
+      "assist1": "#11 - Sam  Marchio",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:34",
+      "team": {
+        "teamId": "1016",
+        "name": "Red Devils"
+      },
+      "scorer": "#11 - Sam  Marchio",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:03",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "scorer": "#80 - Matt  Rogers",
+      "assist1": "#87 - Nate  Morello",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:56",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "player": "#21 - Jim  Callow",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:02:46.720Z"
+}

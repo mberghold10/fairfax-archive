@@ -1,0 +1,182 @@
+{
+  "gameId": "12149",
+  "date": "2018-11-11",
+  "divId": 190,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1209",
+    "name": "Canucks"
+  },
+  "away": {
+    "teamId": "1206",
+    "name": "Blue Jackets"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:35",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "scorer": "#91 - Chris  Callanan",
+      "assist1": "#3 - Julien  De Grandpre",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:24",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:35",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": "#10 - Peter  Grose"
+    },
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "scorer": "#3 - Julien  De Grandpre",
+      "assist1": "#87 - Nate  Morello",
+      "assist2": "#10 - Jay  Snyder"
+    },
+    {
+      "period": "3",
+      "time": "00:03:31",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "scorer": "#8 - Chris  White",
+      "assist1": "#4 - Peter  van Aartrijk",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "player": "#16 - Dan  Rebman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:17",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "player": "#25 - Stan  Torgovitsky",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "player": "#100 - Goalie  Subtitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:17",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "player": "#1 - Sam  Crowley",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "player": "#77 - Erik  Bergman",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:02",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "player": "#25 - Stan  Torgovitsky",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:18",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "player": "#42 - Jeff  Lovett",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:41:55.133Z"
+}

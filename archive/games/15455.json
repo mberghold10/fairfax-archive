@@ -1,0 +1,108 @@
+{
+  "gameId": "15455",
+  "date": "2022-10-29",
+  "divId": 261,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1607",
+    "name": "Toronto"
+  },
+  "away": {
+    "teamId": "1611",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:09:25",
+      "team": {
+        "teamId": "1607",
+        "name": "Toronto"
+      },
+      "scorer": "#61 - Chris  Holbert",
+      "assist1": "#7 - Gus  Anderson",
+      "assist2": "#48 - Randy  Sasai"
+    },
+    {
+      "period": "3",
+      "time": "00:01:44",
+      "team": {
+        "teamId": "1611",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#0 - Ruben  Garcia",
+      "assist1": "#14 - Chukie  Ezike",
+      "assist2": "#22 - Amir  Tahani"
+    },
+    {
+      "period": "3",
+      "time": "00:12:52",
+      "team": {
+        "teamId": "1611",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#36 - Brian  Lusby",
+      "assist1": "#17 - Justin  Cade",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1607",
+        "name": "Toronto"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1611",
+        "name": "Mad Dogs"
+      },
+      "player": "#78 - Bill  Ezekiel",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:13",
+      "team": {
+        "teamId": "1607",
+        "name": "Toronto"
+      },
+      "player": "#32 - Brian  Freeman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:54:03.430Z"
+}

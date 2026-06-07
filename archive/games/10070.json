@@ -1,0 +1,191 @@
+{
+  "gameId": "10070",
+  "date": "2016-11-13",
+  "divId": 158,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1015",
+    "name": "Bulldogs"
+  },
+  "away": {
+    "teamId": "1011",
+    "name": "River Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:54",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "scorer": "#11 - Michael  Plampin",
+      "assist1": "#3 - John  Rancourt",
+      "assist2": "#42 - Jon  Coley"
+    },
+    {
+      "period": "1",
+      "time": "00:10:24",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "scorer": "#24 - Austin  Ford",
+      "assist1": "#11 - Michael  Plampin",
+      "assist2": "#36 - Evan  Clinton"
+    },
+    {
+      "period": "2",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#18 - Steve  Percival",
+      "assist1": "#90 - Shawn  McEvoy",
+      "assist2": "#42 - Bill  Hardy"
+    },
+    {
+      "period": "2",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "scorer": "#3 - John  Rancourt",
+      "assist1": "#42 - Jon  Coley",
+      "assist2": "#40 - Brandon  Honeycutt"
+    },
+    {
+      "period": "3",
+      "time": "00:01:41",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#42 - Bill  Hardy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:59",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "scorer": "#42 - Jon  Coley",
+      "assist1": "#3 - John  Rancourt",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:52",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "scorer": "#3 - John  Rancourt",
+      "assist1": "#19 - Kevin  Stammetti",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:59",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "player": "#42 - Jon  Coley",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:12",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "player": "#18 - Steve  Percival",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:58",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "player": "#10 - Colin  Ligon",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:28",
+      "team": {
+        "teamId": "1015",
+        "name": "Bulldogs"
+      },
+      "player": "#18 - Steve  Percival",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "player": "#36 - Evan  Clinton",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:13",
+      "team": {
+        "teamId": "1011",
+        "name": "River Rats"
+      },
+      "player": "#3 - John  Rancourt",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:02:57.037Z"
+}

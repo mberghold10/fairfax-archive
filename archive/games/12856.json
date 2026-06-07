@@ -1,0 +1,154 @@
+{
+  "gameId": "12856",
+  "date": "2019-05-17",
+  "divId": 205,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1301",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1295",
+    "name": "River Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:42",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#2 - Bao  Pham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:34",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "scorer": "#37 - Derek  Anastasiades",
+      "assist1": "#24 - Austin  Ford",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:11",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": "#22 - Patrick  Creamer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "scorer": "#37 - Derek  Anastasiades",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:19",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#89 - Sid  Han",
+      "assist1": "#9 - Julien  De Grandpre",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:48",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "scorer": "#94 - Mick  Starego",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:01",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "player": "#94 - Mick  Starego",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:14",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "player": "#6 - Matt  Johnson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:49",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "player": "#94 - Mick  Starego",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:15:00",
+      "team": {
+        "teamId": "1301",
+        "name": "Blackskimmers"
+      },
+      "player": "#7 - Will  Weiler",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:00:21.822Z"
+}

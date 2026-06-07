@@ -1,0 +1,130 @@
+{
+  "gameId": "14556",
+  "date": "2021-11-13",
+  "divId": 248,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1533",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1531",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1531",
+        "name": "Thunder"
+      },
+      "scorer": "#45 - Justin  Marks",
+      "assist1": "#79 - Sean  Longanecker",
+      "assist2": "#27 - Michael  Fine"
+    },
+    {
+      "period": "2",
+      "time": "00:03:56",
+      "team": {
+        "teamId": "1531",
+        "name": "Thunder"
+      },
+      "scorer": "#86 - Patrick  McMahon",
+      "assist1": "#21 - Brendan  Williams",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:58",
+      "team": {
+        "teamId": "1533",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#0 - Ruben  Garcia",
+      "assist1": "#34 - Josh  Davis",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:54",
+      "team": {
+        "teamId": "1531",
+        "name": "Thunder"
+      },
+      "scorer": "#92 - Ryan  VandenHeuvel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:34",
+      "team": {
+        "teamId": "1531",
+        "name": "Thunder"
+      },
+      "scorer": "#45 - Justin  Marks",
+      "assist1": "#27 - Michael  Fine",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1533",
+        "name": "Blue Dogs"
+      },
+      "player": "#33 - Brandon  Boling",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:06",
+      "team": {
+        "teamId": "1531",
+        "name": "Thunder"
+      },
+      "player": "#77 - Austin  Theis",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:00",
+      "team": {
+        "teamId": "1533",
+        "name": "Blue Dogs"
+      },
+      "player": "#100 - Goalie  Substitue",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:38:44.369Z"
+}

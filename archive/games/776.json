@@ -1,0 +1,165 @@
+{
+  "gameId": "776",
+  "date": "2017-03-30",
+  "divId": 155,
+  "seasonName": "Winter 2016",
+  "mode": "playoff",
+  "home": {
+    "teamId": "997",
+    "name": "Rustico Flames"
+  },
+  "away": {
+    "teamId": "992",
+    "name": "Flying Circus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#8 - Chris  White",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#63 - Bill  Linzey",
+      "assist1": "#51 - Brendan  Bernat",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#88 - Peter  Dallman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "992",
+        "name": "Flying Circus"
+      },
+      "scorer": "#10 - Chris  Ferragamo",
+      "assist1": "#2 - Marc  Sheinkin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#8 - Chris  White",
+      "assist1": "#14 - Josh  Peter",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:26",
+      "team": {
+        "teamId": "992",
+        "name": "Flying Circus"
+      },
+      "scorer": "#15 - Mike  Hempen",
+      "assist1": "#25 - Malcolm  Hyson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#24 - Mike  Sheridan",
+      "assist1": "#42 - Jeff  Lovett",
+      "assist2": "#77 - Erik  Bergman"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:03",
+      "team": {
+        "teamId": "992",
+        "name": "Flying Circus"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:55",
+      "team": {
+        "teamId": "992",
+        "name": "Flying Circus"
+      },
+      "player": "#2 - Marc  Sheinkin",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:31",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "player": "#14 - Josh  Peter",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:01",
+      "team": {
+        "teamId": "997",
+        "name": "Rustico Flames"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:59:54.488Z"
+}

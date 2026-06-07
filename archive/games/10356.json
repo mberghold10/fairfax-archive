@@ -1,0 +1,115 @@
+{
+  "gameId": "10356",
+  "date": "2017-02-11",
+  "divId": 160,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1029",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1027",
+    "name": "Sparks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 4,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "scorer": "#41 - Randy  Warren",
+      "assist1": "#4 - Matt  Gelman",
+      "assist2": "#20 - George  Whelan"
+    },
+    {
+      "period": "2",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "scorer": "#19 - Christopher  Chlosta",
+      "assist1": "#79 - Sean  Longanecker",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:41",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "scorer": "#7 - Ian  Stack",
+      "assist1": "#4 - Matt  Gelman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:21",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "scorer": "#4 - Matt  Gelman",
+      "assist1": "#7 - Ian  Stack",
+      "assist2": "#22 - Nick  Kolovos"
+    },
+    {
+      "period": "3",
+      "time": "00:04:06",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "scorer": "#41 - Randy  Warren",
+      "assist1": "#5 - Zac  Graber",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:37",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "scorer": "#4 - Matt  Gelman",
+      "assist1": "#20 - George  Whelan",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:36",
+      "team": {
+        "teamId": "1029",
+        "name": "Red Wings"
+      },
+      "player": "#20 - David  Humes",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:43:22.922Z"
+}

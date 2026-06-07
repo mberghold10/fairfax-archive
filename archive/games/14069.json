@@ -1,0 +1,150 @@
+{
+  "gameId": "14069",
+  "date": "2021-04-24",
+  "divId": 230,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1442",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1438",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:53",
+      "team": {
+        "teamId": "1438",
+        "name": "Roughnecks"
+      },
+      "scorer": "#2 - Rocco  Santurri",
+      "assist1": "#22 - Peter  Sullivan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:28",
+      "team": {
+        "teamId": "1438",
+        "name": "Roughnecks"
+      },
+      "scorer": "#2 - Rocco  Santurri",
+      "assist1": "#22 - Peter  Sullivan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:52",
+      "team": {
+        "teamId": "1438",
+        "name": "Roughnecks"
+      },
+      "scorer": "#24 - Taylor  Van Prooyen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:41",
+      "team": {
+        "teamId": "1438",
+        "name": "Roughnecks"
+      },
+      "scorer": "#2 - Rocco  Santurri",
+      "assist1": "# -",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:43",
+      "team": {
+        "teamId": "1442",
+        "name": "Red Wings"
+      },
+      "scorer": "#33 - Mark  Hall",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:25",
+      "team": {
+        "teamId": "1438",
+        "name": "Roughnecks"
+      },
+      "scorer": "#5 - Christopher  Oman",
+      "assist1": "# -",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:10",
+      "team": {
+        "teamId": "1438",
+        "name": "Roughnecks"
+      },
+      "scorer": "#7 - Greg  Stankiewicz",
+      "assist1": "#36 - Andrew  Arendt",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:57",
+      "team": {
+        "teamId": "1438",
+        "name": "Roughnecks"
+      },
+      "scorer": "#24 - Taylor  Van Prooyen",
+      "assist1": "#5 - Christopher  Oman",
+      "assist2": "#56 - Joseph  Stroup"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:01",
+      "team": {
+        "teamId": "1442",
+        "name": "Red Wings"
+      },
+      "player": "#16 - Wei  Wang",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1442",
+        "name": "Red Wings"
+      },
+      "player": "#10 - Owen  Schaefer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:23:38.392Z"
+}

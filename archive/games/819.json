@@ -1,0 +1,220 @@
+{
+  "gameId": "819",
+  "date": "2017-09-22",
+  "divId": 161,
+  "seasonName": "Summer 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1033",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "1031",
+    "name": "Georgetown"
+  },
+  "scoring": {
+    "home": {
+      "p1": 5,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 10
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:29",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "scorer": "#1 - Sean  Maniuszko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "scorer": "#9 - Tony  Cusumano",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:26",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "scorer": "#5 - Ryan  LaDuke",
+      "assist1": "#44 - Mark  Spencer",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:49",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "scorer": "#9 - Tony  Cusumano",
+      "assist1": "#2 - Peter  OKeefe",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:58",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "scorer": "#250 - Kyle  Langdon",
+      "assist1": "#9 - Tony  Cusumano",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:08",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "scorer": "#23 - Lucas  Karron",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "scorer": "#9 - Tony  Cusumano",
+      "assist1": "#1 - Sean  Maniuszko",
+      "assist2": "#19 - Michael  Carr"
+    },
+    {
+      "period": "2",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "scorer": "#27 - Chris  Balsley",
+      "assist1": "#250 - Kyle  Langdon",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:18",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "scorer": "#9 - Tony  Cusumano",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "scorer": "#19 - Michael  Carr",
+      "assist1": "#11 - Brian  Maloney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "scorer": "#250 - Kyle  Langdon",
+      "assist1": "#2 - Peter  OKeefe",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:41",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "scorer": "#27 - Chris  Balsley",
+      "assist1": "#19 - Michael  Carr",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:32",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "player": "#14 - Michael  Nannini",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:57",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "player": "#11 - Mac  Mitchell",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:59",
+      "team": {
+        "teamId": "1031",
+        "name": "Georgetown"
+      },
+      "player": "#5 - Ryan  LaDuke",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:49",
+      "team": {
+        "teamId": "1033",
+        "name": "Bruins"
+      },
+      "player": "#2 - Peter  OKeefe",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:07:30.774Z"
+}

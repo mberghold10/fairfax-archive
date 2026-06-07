@@ -1,0 +1,145 @@
+{
+  "gameId": "16885",
+  "date": "2024-03-03",
+  "divId": 284,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1745",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1744",
+    "name": "Mesozoic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:50",
+      "team": {
+        "teamId": "1745",
+        "name": "Thunder"
+      },
+      "scorer": "#5 - Zachary  Graber",
+      "assist1": "#23 - Eric  Vanhove",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:18:31",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#37 - Michael  Wisniewski",
+      "assist1": "#14 - Charles  Geschiere",
+      "assist2": "#24 - Audrey  Morrison"
+    },
+    {
+      "period": "2",
+      "time": "00:11:45",
+      "team": {
+        "teamId": "1745",
+        "name": "Thunder"
+      },
+      "scorer": "#5 - Zachary  Graber",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:09",
+      "team": {
+        "teamId": "1745",
+        "name": "Thunder"
+      },
+      "scorer": "#69 - Ryan  McGovern",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:45",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#21 - Joe  Rhodes",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:56",
+      "team": {
+        "teamId": "1745",
+        "name": "Thunder"
+      },
+      "player": "#100 - Goalie  Substitue",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1745",
+        "name": "Thunder"
+      },
+      "player": "#61 - Nick  Johnston",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:06",
+      "team": {
+        "teamId": "1745",
+        "name": "Thunder"
+      },
+      "player": "#21 - Brendan  Williams",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:50",
+      "team": {
+        "teamId": "1744",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#24 - Audrey  Morrison",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:21:39.712Z"
+}

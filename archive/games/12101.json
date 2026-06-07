@@ -1,0 +1,167 @@
+{
+  "gameId": "12101",
+  "date": "2018-10-14",
+  "divId": 192,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1221",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1218",
+    "name": "Turtle Power"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#4 - Sam  Hausolhner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:38",
+      "team": {
+        "teamId": "1218",
+        "name": "Turtle Power"
+      },
+      "scorer": "#21 - Jonathan  Miller",
+      "assist1": "#17 - Thomas  Beauchemp",
+      "assist2": "#0 - Anthony  Portis"
+    },
+    {
+      "period": "2",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1218",
+        "name": "Turtle Power"
+      },
+      "scorer": "#17 - Thomas  Beauchemp",
+      "assist1": "#49 - Thomas  Pennington",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:20",
+      "team": {
+        "teamId": "1218",
+        "name": "Turtle Power"
+      },
+      "scorer": "#49 - Thomas  Pennington",
+      "assist1": "#17 - Thomas  Beauchemp",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:45",
+      "team": {
+        "teamId": "1218",
+        "name": "Turtle Power"
+      },
+      "scorer": "#17 - Thomas  Beauchemp",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1218",
+        "name": "Turtle Power"
+      },
+      "player": "#0 - Anthony  Portis",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#8 - AJ  Ellis",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "1218",
+        "name": "Turtle Power"
+      },
+      "player": "#69 - David  Hagemeier",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:13",
+      "team": {
+        "teamId": "1218",
+        "name": "Turtle Power"
+      },
+      "player": "#0 - Anthony  Portis",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:56",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#8 - AJ  Ellis",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:44:25.788Z"
+}

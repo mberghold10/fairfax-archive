@@ -1,0 +1,161 @@
+{
+  "gameId": "13291",
+  "date": "2019-10-28",
+  "divId": 209,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1320",
+    "name": "Moose"
+  },
+  "away": {
+    "teamId": "1322",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:35",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "scorer": "#12 - Kevin  Bowser",
+      "assist1": "#9 - Mitch  Federman",
+      "assist2": "#6 - Kelly  Harmon"
+    },
+    {
+      "period": "1",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "scorer": "#12 - Kevin  Bowser",
+      "assist1": "#6 - Kelly  Harmon",
+      "assist2": "#4 - Bruce  Baltas"
+    },
+    {
+      "period": "2",
+      "time": "00:05:47",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "scorer": "#60 - Ed  OCallaghan",
+      "assist1": "#12 - Chris  Yoko",
+      "assist2": "#91 - Sean  Morrow"
+    },
+    {
+      "period": "2",
+      "time": "00:13:08",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "scorer": "#9 - Mitch  Federman",
+      "assist1": "#4 - Bruce  Baltas",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "scorer": "#4 - Bruce  Baltas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "scorer": "#55 - Scott  Dullea",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:28",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "scorer": "#12 - Chris  Yoko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "scorer": "#12 - Chris  Yoko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:58",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "scorer": "#4 - Bruce  Baltas",
+      "assist1": "#12 - Kevin  Bowser",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "player": "#4 - Bruce  Baltas",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:04:55.291Z"
+}

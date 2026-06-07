@@ -1,0 +1,130 @@
+{
+  "gameId": "13673",
+  "date": "2020-02-15",
+  "divId": 214,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1352",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1356",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "scorer": "#38 - Ted  Satterthwaite",
+      "assist1": "#77 - Joe  Berret",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:43",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#2 - Shawn  Hatch",
+      "assist1": "#13 - Bob  Seal",
+      "assist2": "#25 - Jeff  Wojtala"
+    },
+    {
+      "period": "3",
+      "time": "00:12:22",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "scorer": "#77 - Joe  Berret",
+      "assist1": "#2 - Mark  Jesten",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:36",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "scorer": "#25 - Jeff  Wojtala",
+      "assist1": "#37 - Mike  Przybyla",
+      "assist2": "#17 - Marvin  Scott"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#25 - Jeff  Wojtala",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1352",
+        "name": "Penguins"
+      },
+      "player": "#13 - Bob  Seal",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:04",
+      "team": {
+        "teamId": "1356",
+        "name": "Islanders"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:11:55.121Z"
+}

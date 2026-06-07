@@ -1,0 +1,104 @@
+{
+  "gameId": "17334",
+  "date": "2024-09-20",
+  "divId": 291,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1784",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1783",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:03:57",
+      "team": {
+        "teamId": "1784",
+        "name": "Swarm"
+      },
+      "scorer": "#9 - Jason  Murphy",
+      "assist1": "#16 - Scott  Kuehn",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:04",
+      "team": {
+        "teamId": "1784",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:07",
+      "team": {
+        "teamId": "1783",
+        "name": "Ducks"
+      },
+      "scorer": "#7 - Andrew  Golomb",
+      "assist1": "#8 - Andrew  Lipsitz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:41",
+      "team": {
+        "teamId": "1783",
+        "name": "Ducks"
+      },
+      "scorer": "#13 - Brian  Patterson",
+      "assist1": "#71 - Colin  Shin",
+      "assist2": "#8 - Andrew  Lipsitz"
+    },
+    {
+      "period": "3",
+      "time": "00:12:06",
+      "team": {
+        "teamId": "1784",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": "#10 - Matt  Galen"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:14:14",
+      "team": {
+        "teamId": "1783",
+        "name": "Ducks"
+      },
+      "player": "#12 - Jon  Gregor",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:28:53.259Z"
+}

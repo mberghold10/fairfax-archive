@@ -1,0 +1,108 @@
+{
+  "gameId": "13174",
+  "date": "2019-09-07",
+  "divId": 207,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1309",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1308",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:42",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "scorer": "#74 - Mike  Brewin",
+      "assist1": "#5 - Chris  Oman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "scorer": "#2 - James  Kim",
+      "assist1": "#88 - Joe  Phillips",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "scorer": "#5 - Chris  Oman",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:06:35",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "player": "#28 - Richard  Pettey",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:42",
+      "team": {
+        "teamId": "1309",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#88 - Jason  Searight",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "player": "#88 - Joe  Phillips",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:03:31.778Z"
+}

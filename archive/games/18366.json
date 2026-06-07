@@ -1,0 +1,139 @@
+{
+  "gameId": "18366",
+  "date": "2025-09-28",
+  "divId": 318,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1951",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1950",
+    "name": "Hershey Beers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#41 - Alessio  Evangelista",
+      "assist1": "#87 - Ryan  Young",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": "#41 - Alessio  Evangelista",
+      "assist2": "#17 - Justin  Cade"
+    },
+    {
+      "period": "1",
+      "time": "00:17:58",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#44 - Ben  Thomas",
+      "assist1": "#87 - Ryan  Young",
+      "assist2": "#3 - Darr  Gerscovich"
+    },
+    {
+      "period": "2",
+      "time": "00:10:50",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#3 - Tom  Meike",
+      "assist1": "#18 - Sam  Bressi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:01",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#3 - Darr  Gerscovich",
+      "assist1": "#47 - David  Hitchcock",
+      "assist2": "#91 - Jaon  Ross"
+    },
+    {
+      "period": "3",
+      "time": "00:01:33",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#44 - Ben  Thomas",
+      "assist1": "#87 - Ryan  Young",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1950",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#18 - Sam  Bressi",
+      "assist1": "#43 - James J Kim",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:11:57",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "player": "#20 - Steve  Ahart",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:57:29.868Z"
+}

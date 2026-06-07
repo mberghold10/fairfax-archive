@@ -1,0 +1,141 @@
+{
+  "gameId": "18335",
+  "date": "2025-07-20",
+  "divId": 318,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1951",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1947",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:06:10",
+      "team": {
+        "teamId": "1947",
+        "name": "Roughnecks"
+      },
+      "scorer": "#88 - Mark  Griffith",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:06",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "scorer": "# -",
+      "assist1": "#33 - Brandon  Boling",
+      "assist2": "#8 - Reid  Maki"
+    },
+    {
+      "period": "2",
+      "time": "00:14:21",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "scorer": "# -",
+      "assist1": "#33 - Brandon  Boling",
+      "assist2": "#14 - Tyler  Onstott"
+    },
+    {
+      "period": "3",
+      "time": "00:03:15",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:47",
+      "team": {
+        "teamId": "1947",
+        "name": "Roughnecks"
+      },
+      "scorer": "#21 - Finn  Devans",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "scorer": "# -",
+      "assist1": "#20 - Steve  Ahart",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:57",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:57",
+      "team": {
+        "teamId": "1947",
+        "name": "Roughnecks"
+      },
+      "player": "#81 - Sean  Murphy",
+      "pim": 5,
+      "offense": "rough",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:57",
+      "team": {
+        "teamId": "1947",
+        "name": "Roughnecks"
+      },
+      "player": "#81 - Sean  Murphy",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:56:58.839Z"
+}

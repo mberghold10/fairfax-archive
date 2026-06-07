@@ -1,0 +1,117 @@
+{
+  "gameId": "12908",
+  "date": "2019-05-26",
+  "divId": 207,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1311",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1308",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "scorer": "#88 - Joe  Phillips",
+      "assist1": "#2 - James  Kim",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "scorer": "#17 - Michael  Bagnall",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "scorer": "#17 - Michael  Bagnall",
+      "assist1": "#18 - Kyle  Dedrick",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:00",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "scorer": "#16 - Chris  Holbert",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:33",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "scorer": "#55 - Chad  Daniels",
+      "assist1": "#7 - Sa  Do",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "player": "#6 - Hugo  Guzman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "player": "#88 - Joe  Phillips",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:02:51.766Z"
+}

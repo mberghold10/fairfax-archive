@@ -1,0 +1,228 @@
+{
+  "gameId": "10207",
+  "date": "2016-12-03",
+  "divId": 156,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1003",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1002",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:56",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "scorer": "#43 - Bryan  Bentrott",
+      "assist1": "#22 - Chad  Muse",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#24 - Mike  Duell",
+      "assist1": "#37 - Nick  Desport",
+      "assist2": "#32 - Dave  Frear"
+    },
+    {
+      "period": "1",
+      "time": "00:11:10",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#3 - Jim  Van Dyke",
+      "assist1": "#76 - Beau  Bosley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "scorer": "#2 - Mark  Jesten",
+      "assist1": "#22 - Chad  Muse",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": "#3 - Jim  Van Dyke",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "scorer": "#9 - Rick  Cole",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:53",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "scorer": "#44 - Scott  Orr",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": "#14 - Richard  Buisch"
+    },
+    {
+      "period": "3",
+      "time": "00:14:34",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "scorer": "#9 - Rick  Cole",
+      "assist1": "#5 - Tom  Saurman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#37 - Nick  Desport",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:31",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#32 - Dave  Frear",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:53",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#57 - Howard  Uman",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:03",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#57 - Howard  Uman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:12",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "player": "#43 - Bryan  Bentrott",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "1003",
+        "name": "Hurricanes"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:14",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#57 - Howard  Uman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#32 - Dave  Frear",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:00:30.595Z"
+}

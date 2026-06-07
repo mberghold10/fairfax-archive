@@ -1,0 +1,117 @@
+{
+  "gameId": "12160",
+  "date": "2018-12-09",
+  "divId": 190,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1208",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1206",
+    "name": "Blue Jackets"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:36",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#41 - Ethan  Isleib",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:31",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#82 - Justin  MacDonald",
+      "assist1": "#10 - Mike  Carew",
+      "assist2": "#24 - Jeff  Robins"
+    },
+    {
+      "period": "2",
+      "time": "00:07:14",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "scorer": "#19 - JP  Klousia",
+      "assist1": "#15 - Bob  Guckian",
+      "assist2": "#17 - Bill  Demasso"
+    },
+    {
+      "period": "3",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "scorer": "#92 - Darren  Wellner",
+      "assist1": "#19 - JP  Klousia",
+      "assist2": "#61 - Tim  Dutcher"
+    },
+    {
+      "period": "3",
+      "time": "00:14:35",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "scorer": "#16 - Dan  Rebman",
+      "assist1": "#15 - Bob  Guckian",
+      "assist2": "#61 - Tim  Dutcher"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1206",
+        "name": "Blue Jackets"
+      },
+      "player": "#100 - Goalie  Subtitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:36",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "player": "#10 - Mike  Carew",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:42:05.130Z"
+}

@@ -1,0 +1,82 @@
+{
+  "gameId": "13178",
+  "date": "2019-09-15",
+  "divId": 207,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1310",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1309",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1310",
+        "name": "Thunder"
+      },
+      "scorer": "#76 - Ethan  Bond",
+      "assist1": "#46 - Charles  Fancher",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:26",
+      "team": {
+        "teamId": "1309",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#50 - Steve  Lavery",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:19:03",
+      "team": {
+        "teamId": "1310",
+        "name": "Thunder"
+      },
+      "scorer": "#27 - Michael  Fine",
+      "assist1": "#16 - Josh  Brown",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:04",
+      "team": {
+        "teamId": "1310",
+        "name": "Thunder"
+      },
+      "player": "#76 - Ethan  Bond",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:03:34.754Z"
+}

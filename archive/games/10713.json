@@ -1,0 +1,195 @@
+{
+  "gameId": "10713",
+  "date": "2017-08-27",
+  "divId": 162,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1083",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1038",
+    "name": "Knights"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:14",
+      "team": {
+        "teamId": "1038",
+        "name": "Knights"
+      },
+      "scorer": "#18 - David  Leadston",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1038",
+        "name": "Knights"
+      },
+      "scorer": "#18 - David  Leadston",
+      "assist1": "#28 - Konstantin  Silov",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1083",
+        "name": "Ducks"
+      },
+      "scorer": "#19 - Chris  Blevins",
+      "assist1": "#18 - Sean  Gallucci",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:54",
+      "team": {
+        "teamId": "1083",
+        "name": "Ducks"
+      },
+      "scorer": "#59 - John  Saluga",
+      "assist1": "#18 - Sean  Gallucci",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:15:51",
+      "team": {
+        "teamId": "1083",
+        "name": "Ducks"
+      },
+      "scorer": "#27 - Jim  Kennedy",
+      "assist1": "#19 - Chris  Blevins",
+      "assist2": "#18 - Sean  Gallucci"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:03",
+      "team": {
+        "teamId": "1038",
+        "name": "Knights"
+      },
+      "player": "#30 - Nick  Trajkovic",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "1038",
+        "name": "Knights"
+      },
+      "player": "#30 - Nick  Trajkovic",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:46",
+      "team": {
+        "teamId": "1038",
+        "name": "Knights"
+      },
+      "player": "#40 - Mikhail  Serebrennikov",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1038",
+        "name": "Knights"
+      },
+      "player": "#4 - Sergei  Dubograev",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:52",
+      "team": {
+        "teamId": "1083",
+        "name": "Ducks"
+      },
+      "player": "#59 - John  Saluga",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:27",
+      "team": {
+        "teamId": "1038",
+        "name": "Knights"
+      },
+      "player": "#4 - Sergei  Dubograev",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:27",
+      "team": {
+        "teamId": "1038",
+        "name": "Knights"
+      },
+      "player": "#4 - Sergei  Dubograev",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "1083",
+        "name": "Ducks"
+      },
+      "player": "#59 - John  Saluga",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:08:35.834Z"
+}

@@ -1,0 +1,119 @@
+{
+  "gameId": "18406",
+  "date": "2025-11-14",
+  "divId": 317,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1942",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1943",
+    "name": "Gold Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#67 - Drew  Miller",
+      "assist1": "#31 - Sam  Branham",
+      "assist2": "#78 - Bill  Ezekiel"
+    },
+    {
+      "period": "2",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": "#5 - Andy  Loggia",
+      "assist2": "#64 - Ben  Thomas"
+    },
+    {
+      "period": "3",
+      "time": "00:01:55",
+      "team": {
+        "teamId": "1943",
+        "name": "Gold Goats"
+      },
+      "scorer": "#44 - Sean  Cullen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:25",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#6 - Bob  Friess",
+      "assist1": "#5 - Andy  Loggia",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:43",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "player": "#7 - Steve  Tamburo",
+      "pim": 2,
+      "offense": "High Stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:20",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "player": "#64 - Ben  Thomas",
+      "pim": 2,
+      "offense": "Interference",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:06",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "player": "#92 - Dan  Horner",
+      "pim": 2,
+      "offense": "Body",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:56:33.255Z"
+}

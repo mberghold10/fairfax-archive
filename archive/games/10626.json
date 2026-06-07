@@ -1,0 +1,154 @@
+{
+  "gameId": "10626",
+  "date": "2017-05-13",
+  "divId": 168,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1073",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1076",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:51",
+      "team": {
+        "teamId": "1076",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#93 - David  Taves",
+      "assist1": "#17 - Justin  Cade",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:20",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#16 - Dave  Smith",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "1076",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#21 - Steve  Kaplan",
+      "assist1": "#93 - David  Taves",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#6 - Matt  Johnson",
+      "assist1": "#3 - Steven  Schooner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:32",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#11 - Adam  Bartholomew",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:51",
+      "team": {
+        "teamId": "1076",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#93 - David  Taves",
+      "assist1": "#16 - Brian  Murphy",
+      "assist2": "#77 - Jeff  Wilken"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "player": "#83 - David  Bilodeau",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:04",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "player": "#11 - Adam  Bartholomew",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "player": "#11 - Adam  Bartholomew",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "player": "#7 - Will  Weiler",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:15:20.517Z"
+}

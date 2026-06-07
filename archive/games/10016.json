@@ -1,0 +1,108 @@
+{
+  "gameId": "10016",
+  "date": "2016-10-18",
+  "divId": 156,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "999",
+    "name": "Crabs"
+  },
+  "away": {
+    "teamId": "1002",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:56",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "# -",
+      "assist1": "#37 - Nick  Desport",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#27 - Dave  Lin",
+      "assist1": "#10 - Matt  Johnson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:58",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#22 - Charlie  Campbell",
+      "assist1": "#24 - Mike  Duell",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#22 - Charlie  Campbell",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:15",
+      "team": {
+        "teamId": "999",
+        "name": "Crabs"
+      },
+      "player": "#36 - Gisle  Sorli",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:00",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#19 - Ira  Keltz",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:00:13.430Z"
+}

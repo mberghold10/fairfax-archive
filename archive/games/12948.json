@@ -1,0 +1,86 @@
+{
+  "gameId": "12948",
+  "date": "2019-07-28",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1262",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "1260",
+    "name": "North Stars"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:23",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "scorer": "#4 - Todd  Mariano",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:23",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#7 - John  Dagley",
+      "pim": 5,
+      "offense": "slash",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:23",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#7 - John  Dagley",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:23",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#50 - Jon  Boyens",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:53:51.138Z"
+}

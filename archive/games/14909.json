@@ -1,0 +1,152 @@
+{
+  "gameId": "14909",
+  "date": "2022-06-11",
+  "divId": 249,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1535",
+    "name": "4th Liners"
+  },
+  "away": {
+    "teamId": "1536",
+    "name": "Englewood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:27",
+      "team": {
+        "teamId": "1536",
+        "name": "Englewood"
+      },
+      "scorer": "#66 - Sean  Magrann",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1536",
+        "name": "Englewood"
+      },
+      "scorer": "#5 - Jonathon  Dida",
+      "assist1": "#26 - Charlie  Wojick",
+      "assist2": "#2 - Jason  Abkowitz"
+    },
+    {
+      "period": "2",
+      "time": "00:09:28",
+      "team": {
+        "teamId": "1536",
+        "name": "Englewood"
+      },
+      "scorer": "#5 - Jonathon  Dida",
+      "assist1": "#26 - Charlie  Wojick",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1536",
+        "name": "Englewood"
+      },
+      "scorer": "#26 - Charlie  Wojick",
+      "assist1": "#5 - Jonathon  Dida",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "1535",
+        "name": "4th Liners"
+      },
+      "scorer": "#26 - Patrick  Giesecke",
+      "assist1": "#17 - Andrew  Golomb",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:28",
+      "team": {
+        "teamId": "1536",
+        "name": "Englewood"
+      },
+      "scorer": "#26 - Charlie  Wojick",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1536",
+        "name": "Englewood"
+      },
+      "scorer": "#5 - Jonathon  Dida",
+      "assist1": "#26 - Charlie  Wojick",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1535",
+        "name": "4th Liners"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "1535",
+        "name": "4th Liners"
+      },
+      "player": "#26 - Patrick  Giesecke",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "1536",
+        "name": "Englewood"
+      },
+      "player": "#66 - Sean  Magrann",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:39:44.438Z"
+}

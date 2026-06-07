@@ -1,0 +1,141 @@
+{
+  "gameId": "11383",
+  "date": "2018-02-18",
+  "divId": 175,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1115",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1118",
+    "name": "River Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:39",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": "#21 - John  Peterman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:32",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#17 - Jeff  Carter",
+      "assist1": "#63 - Steven  Yu",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:33",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "scorer": "#3 - John  Rancourt",
+      "assist1": "#2 - Tom  Keith",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:04",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "scorer": "#16 - Cooper  Branham",
+      "assist1": "#24 - Austin  Ford",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:37",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#63 - Steven  Yu",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:12:15",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "player": "#6 - Matt  Dwyer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:28",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "player": "#21 - John  Peterman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:25",
+      "team": {
+        "teamId": "1118",
+        "name": "River Rats"
+      },
+      "player": "#24 - Austin  Ford",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:24:20.900Z"
+}

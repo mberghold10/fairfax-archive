@@ -1,0 +1,152 @@
+{
+  "gameId": "10847",
+  "date": "2017-07-28",
+  "divId": 168,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1074",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1073",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#38 - Michael  Andrien",
+      "assist1": "#5 - Regina  Hart",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#27 - Jamie  Prime",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": "#6 - Matt  Johnson"
+    },
+    {
+      "period": "1",
+      "time": "00:09:05",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#24 - Harry  Nicholakos",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:45",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#6 - Matt  Johnson",
+      "assist1": "#16 - Dave  Smith",
+      "assist2": "#27 - Jamie  Prime"
+    },
+    {
+      "period": "2",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1074",
+        "name": "Dragons"
+      },
+      "scorer": "#36 - Nick  Fishter",
+      "assist1": "#14 - James  Miller",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:08",
+      "team": {
+        "teamId": "1074",
+        "name": "Dragons"
+      },
+      "scorer": "#14 - James  Miller",
+      "assist1": "#9 - Kim  Sherrock",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#38 - Michael  Andrien",
+      "assist1": "#24 - Harry  Nicholakos",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "player": "#38 - Michael  Andrien",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:23",
+      "team": {
+        "teamId": "1074",
+        "name": "Dragons"
+      },
+      "player": "#91 - James  DeBolt",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1073",
+        "name": "Blackskimmers"
+      },
+      "player": "#44 - Jim  McGovern",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:15:51.644Z"
+}

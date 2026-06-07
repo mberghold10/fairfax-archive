@@ -1,0 +1,230 @@
+{
+  "gameId": "769",
+  "date": "2017-04-01",
+  "divId": 154,
+  "seasonName": "Winter 2016",
+  "mode": "playoff",
+  "home": {
+    "teamId": "986",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "989",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:58",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#7 - Ari  Fingeroth",
+      "assist1": "#8 - Jason  Eister",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:13",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#44 - Mick  Ellsworth",
+      "assist1": "#23 - Scott  Gordon",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:03",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:02",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#56 - Ryan  Tyler",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": "#93 - Trygve  Olson"
+    },
+    {
+      "period": "2",
+      "time": "00:13:34",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#19 - Joe  Dunn",
+      "assist1": "#69 - Ron  Fishbeck",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:32",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#21 - Drew  Saelens",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:03",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#45 - Steve  Tamburo",
+      "assist1": "#2 - Jim  Smalley",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "player": "#75 - Jeff  Koka",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:26",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "player": "#21 - Drew  Saelens",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "player": "#13 - Bill  Grove",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "player": "#23 - Scott  Gordon",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:53",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "player": "#19 - Joe  Dunn",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:11",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "player": "#9 - Brian  Mehnert",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:58:28.874Z"
+}

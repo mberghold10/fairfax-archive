@@ -1,0 +1,130 @@
+{
+  "gameId": "15043",
+  "date": "2022-06-01",
+  "divId": 253,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1560",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1563",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:14",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "scorer": "#71 - Colin  Shin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "scorer": "#16 - Peter  OKeefe",
+      "assist1": "#2 - Bobby  Mervine",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:48",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "scorer": "#6 - David  Satagaj",
+      "assist1": "#12 - Jonathan  Greger",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:13",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "scorer": "#10 - Justin  Arbes",
+      "assist1": "#16 - Peter  OKeefe",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:12",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "scorer": "#27 - Bryan  Booker",
+      "assist1": "#13 - Brian  Patterson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:38",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "player": "#7 - Will  Bucholtz",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:46",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "player": "#46 - Wilson  Korol",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:27",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "player": "#5 - Peter  Boone",
+      "pim": 2,
+      "offense": "Interference",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:44:49.031Z"
+}

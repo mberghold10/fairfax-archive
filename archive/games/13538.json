@@ -1,0 +1,139 @@
+{
+  "gameId": "13538",
+  "date": "2020-07-19",
+  "divId": 209,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1322",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1320",
+    "name": "Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "scorer": "#55 - Scott  Dullea",
+      "assist1": "#1 - Jeff  Alpher",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:54",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "scorer": "#3 - Eric  Baltas",
+      "assist1": "#770 - Kevin  Bartechko",
+      "assist2": "#9 - Mitch  Federman"
+    },
+    {
+      "period": "2",
+      "time": "00:04:59",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "scorer": "#4 - Bruce  Baltas",
+      "assist1": "#3 - Eric  Baltas",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:31",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "scorer": "#3 - Eric  Baltas",
+      "assist1": "#770 - Kevin  Bartechko",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:32",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "scorer": "#55 - Scott  Dullea",
+      "assist1": "#25 - Joe  Denoyer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:35",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "scorer": "#9 - Mitch  Federman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "scorer": "#4 - Bruce  Baltas",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1322",
+        "name": "Chiefs"
+      },
+      "player": "#71 - Dennis  Salvadore",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:48",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "player": "#4 - Bruce  Baltas",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:05:42.205Z"
+}

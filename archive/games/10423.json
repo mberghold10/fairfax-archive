@@ -1,0 +1,104 @@
+{
+  "gameId": "10423",
+  "date": "2017-04-11",
+  "divId": 164,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1051",
+    "name": "Senators"
+  },
+  "away": {
+    "teamId": "1052",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "scorer": "#10 - Matt  Johnson",
+      "assist1": "#8 - Bob  Shay",
+      "assist2": "#57 - Howard  Uman"
+    },
+    {
+      "period": "1",
+      "time": "00:06:16",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": "#9 - Rick  Cole",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:43",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": "#18 - Heather  LeFever",
+      "assist2": "#19 - Jason  Long"
+    },
+    {
+      "period": "2",
+      "time": "00:08:11",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#71 - John  Buhler",
+      "assist1": "#93 - Jeff  Nauer",
+      "assist2": "#9 - Rick  Cole"
+    },
+    {
+      "period": "2",
+      "time": "00:12:31",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": "#9 - Rick  Cole"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "player": "#71 - John  Buhler",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:10:19.531Z"
+}

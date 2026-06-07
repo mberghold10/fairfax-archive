@@ -1,0 +1,191 @@
+{
+  "gameId": "1040",
+  "date": "2020-08-09",
+  "divId": 209,
+  "seasonName": "Winter 2019",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1323",
+    "name": "BlueJacket Capitals"
+  },
+  "away": {
+    "teamId": "1325",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 4,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": "#12 - Trent  Papke",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:59",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:47",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "scorer": "#8 - Kevin  Free",
+      "assist1": "#29 - Michael  Carzoli",
+      "assist2": "#3 - Julien  De Grandpre"
+    },
+    {
+      "period": "3",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#7 - Jeff  Stebbins",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:37",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#61 - Tim  Dutcher",
+      "assist1": "#7 - Jeff  Stebbins",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#7 - Jeff  Stebbins",
+      "assist1": "#81 - Chris  Holden",
+      "assist2": "#16 - Dan  Rebman"
+    },
+    {
+      "period": "3",
+      "time": "00:13:03",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#66 - Mark  Rudnicki",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:11",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "player": "#77 - Kristen  Domingo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:41",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#27 - Mike  Przybyla",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "player": "#91 - Chris  Callanan",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:45",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#61 - Tim  Dutcher",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:53",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "player": "#25 - Greg  Reece",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:05:53.832Z"
+}

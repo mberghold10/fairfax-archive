@@ -1,0 +1,119 @@
+{
+  "gameId": "10552",
+  "date": "2017-04-30",
+  "divId": 165,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1058",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1056",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:57",
+      "team": {
+        "teamId": "1056",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:22",
+      "team": {
+        "teamId": "1056",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": "#24 - Jeff  Robins",
+      "assist2": "#15 - Scott  McConnell"
+    },
+    {
+      "period": "2",
+      "time": "00:08:21",
+      "team": {
+        "teamId": "1056",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#66 - Harry  Patrinos",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:28",
+      "team": {
+        "teamId": "1056",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#66 - Harry  Patrinos",
+      "assist1": "#12 - Steven  Courson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "1058",
+        "name": "North Stars"
+      },
+      "player": "#7 - Evan  Wojtowicz",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "1056",
+        "name": "British Bulldogs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:21",
+      "team": {
+        "teamId": "1056",
+        "name": "British Bulldogs"
+      },
+      "player": "#15 - Scott  McConnell",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:11:37.652Z"
+}

@@ -1,0 +1,95 @@
+{
+  "gameId": "18328",
+  "date": "2025-07-06",
+  "divId": 318,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1952",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1948",
+    "name": "Mesozoic Pucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:58",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "scorer": "#44 - Molly  James",
+      "assist1": "#30 - Andrew  Akerlund",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1948",
+        "name": "Mesozoic Pucks"
+      },
+      "scorer": "#94 - Mike  Starego",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:03",
+      "team": {
+        "teamId": "1948",
+        "name": "Mesozoic Pucks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:49",
+      "team": {
+        "teamId": "1952",
+        "name": "Red Wings"
+      },
+      "player": "#54 - Tom  Montanio",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:56:51.773Z"
+}

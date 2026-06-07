@@ -1,0 +1,222 @@
+{
+  "gameId": "10238",
+  "date": "2017-02-24",
+  "divId": 153,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "985",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "984",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 5,
+      "ot": 0,
+      "final": 9
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:11",
+      "team": {
+        "teamId": "984",
+        "name": "Ducks"
+      },
+      "scorer": "#94 - Kamal  Kaaoush",
+      "assist1": "#0 - Robert  Richard",
+      "assist2": "#9 - Sam  Ziesler"
+    },
+    {
+      "period": "1",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "984",
+        "name": "Ducks"
+      },
+      "scorer": "#28 - Konstantin  Silov",
+      "assist1": "#12 - Jon  Gregor",
+      "assist2": "#27 - Laurent  Depouilly"
+    },
+    {
+      "period": "1",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#3 - Jeff  Regan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:13",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#14 - Dennis  Nayandin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:36",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#2 - Rod  Wade",
+      "assist2": "#21 - Steve  Chan"
+    },
+    {
+      "period": "2",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#15 - John  Cushing",
+      "assist2": "#38 - Charles  Betancourt"
+    },
+    {
+      "period": "3",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#21 - Steve  Chan",
+      "assist2": "#3 - Jeff  Regan"
+    },
+    {
+      "period": "3",
+      "time": "00:03:39",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#14 - Dennis  Nayandin",
+      "assist1": "#2 - Rod  Wade",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#37 - Vadin  Nabotov",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:49",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#28 - Doug  Downer",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": "#2 - Rod  Wade"
+    },
+    {
+      "period": "3",
+      "time": "00:13:53",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:34",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "player": "#38 - Charles  Betancourt",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:29",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "player": "#77 - Oleg  Nayandin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:29",
+      "team": {
+        "teamId": "984",
+        "name": "Ducks"
+      },
+      "player": "#12 - Jon  Gregor",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:11",
+      "team": {
+        "teamId": "984",
+        "name": "Ducks"
+      },
+      "player": "#94 - Kamal  Kaaoush",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:57",
+      "team": {
+        "teamId": "984",
+        "name": "Ducks"
+      },
+      "player": "#9 - Sam  Ziesler",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:57:00.275Z"
+}

@@ -1,0 +1,128 @@
+{
+  "gameId": "18316",
+  "date": "2025-08-24",
+  "divId": 317,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1942",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1945",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:51",
+      "team": {
+        "teamId": "1945",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#31 - Alex  Brown",
+      "assist1": "#48 - Randy  Sasai",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:44",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#9 - Paul  Moretti",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1945",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#47 - Jeff  Urlwin",
+      "assist1": "#89 - Brandon  Barhorst",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:20",
+      "team": {
+        "teamId": "1945",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#23 - Trevor  Blair",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:07",
+      "team": {
+        "teamId": "1945",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#20 - Bao  Pham",
+      "assist1": "#32 - Brian  Freeman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:33",
+      "team": {
+        "teamId": "1945",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#44 - Jimmy  McGovern",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:58",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "player": "#17 - Justin  Cade",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:56",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "player": "#64 - Ben  Thomas",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:56:06.286Z"
+}

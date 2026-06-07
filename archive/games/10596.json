@@ -1,0 +1,112 @@
+{
+  "gameId": "10596",
+  "date": "2017-06-11",
+  "divId": 166,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1062",
+    "name": "BlueJacket Capitals"
+  },
+  "away": {
+    "teamId": "1063",
+    "name": "River Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "scorer": "#10 - Colin  Ligon",
+      "assist1": "#3 - John  Rancourt",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:35",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "player": "#42 - Jon  Coley",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:29",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "player": "#24 - Austin  Ford",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:39",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#61 - Sean  McGarry",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:23",
+      "team": {
+        "teamId": "1062",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#22 - Frank  Driscoll",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:33",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:13:15.143Z"
+}

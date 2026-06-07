@@ -1,0 +1,180 @@
+{
+  "gameId": "1507",
+  "date": "2025-06-15",
+  "divId": 299,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1838",
+    "name": "Punishers HC"
+  },
+  "away": {
+    "teamId": "1839",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "1838",
+        "name": "Punishers HC"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#16 - Zach  Gonyea",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "1838",
+        "name": "Punishers HC"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": "#10 - Rob  Cobb",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1838",
+        "name": "Punishers HC"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#10 - Rob  Cobb",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "1838",
+        "name": "Punishers HC"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": "#10 - Rob  Cobb",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "1839",
+        "name": "Chiefs"
+      },
+      "scorer": "#42 - Dave  Hagemeier",
+      "assist1": "#7 - Dmitri  Rinaldi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:52",
+      "team": {
+        "teamId": "1838",
+        "name": "Punishers HC"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": "#44 - Sean  Cullen",
+      "assist2": "#12 - Dave  OMalley"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:04",
+      "team": {
+        "teamId": "1838",
+        "name": "Punishers HC"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1839",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "1839",
+        "name": "Chiefs"
+      },
+      "player": "#12 - Chris  Yoko",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:31",
+      "team": {
+        "teamId": "1839",
+        "name": "Chiefs"
+      },
+      "player": "#26 - Jeremy  Whang",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "1839",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:41",
+      "team": {
+        "teamId": "1839",
+        "name": "Chiefs"
+      },
+      "player": "#12 - Chris  Yoko",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:37:31.353Z"
+}

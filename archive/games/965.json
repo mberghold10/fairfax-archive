@@ -1,0 +1,106 @@
+{
+  "gameId": "965",
+  "date": "2019-04-14",
+  "divId": 192,
+  "seasonName": "Winter 2018",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1216",
+    "name": "Taters"
+  },
+  "away": {
+    "teamId": "1223",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": "#4 - Steve  Bradley",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:14",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": "#17 - Dan  Pol",
+      "assist2": "#1 - Matt  ODriscoll"
+    },
+    {
+      "period": "2",
+      "time": "00:06:21",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": "#12 - Dave  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1223",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#9 - Julien  De Grandpre",
+      "assist1": "#64 - Evgenii  Vaniukov",
+      "assist2": "#12 - Joe  DeCarlo"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:20",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "player": "#4 - Steve  Bradley",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:51",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "player": "#16 - Miles  Zwicky",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:45:41.715Z"
+}

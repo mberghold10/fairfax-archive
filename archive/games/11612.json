@@ -1,0 +1,200 @@
+{
+  "gameId": "11612",
+  "date": "2018-05-13",
+  "divId": 183,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1162",
+    "name": "Bulldogs"
+  },
+  "away": {
+    "teamId": "1167",
+    "name": "Blackhawks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:39",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#21 - John  Kozar",
+      "assist1": "#55 - Dan  Middleton",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:06",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#55 - Dan  Middleton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:01",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "3",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#7 - Tyler  Kniaz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "scorer": "#74 - Eric  Peterson",
+      "assist1": "#7 - Tyler  Kniaz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:58",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "scorer": "#29 - Sean  Weddell",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:28",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": "#22 - Cody  Reinitz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:15",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#55 - Dan  Middleton",
+      "assist2": "#21 - John  Kozar"
+    },
+    {
+      "period": "3",
+      "time": "00:06:12",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#21 - John  Kozar",
+      "assist1": "#82 - Scott  Jell",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "player": "#7 - Tyler  Kniaz",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "player": "#28 - Jack  Wilmer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:48",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "player": "#7 - Tyler  Kniaz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "player": "#22 - Cody  Reinitz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:33",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:33:23.235Z"
+}

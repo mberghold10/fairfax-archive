@@ -1,0 +1,128 @@
+{
+  "gameId": "14236",
+  "date": "2021-09-03",
+  "divId": 235,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1470",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1469",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "1469",
+        "name": "Jacks"
+      },
+      "scorer": "#36 - Jon  Stehle",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:34",
+      "team": {
+        "teamId": "1470",
+        "name": "Nortec"
+      },
+      "scorer": "#16 - Peter  OKeefe",
+      "assist1": "#99 - Tony  Cusumano",
+      "assist2": "#5 - Peter  Boone"
+    },
+    {
+      "period": "2",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1470",
+        "name": "Nortec"
+      },
+      "scorer": "#99 - Tony  Cusumano",
+      "assist1": "#5 - Peter  Boone",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1470",
+        "name": "Nortec"
+      },
+      "scorer": "#99 - Tony  Cusumano",
+      "assist1": "#16 - Peter  OKeefe",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:10",
+      "team": {
+        "teamId": "1470",
+        "name": "Nortec"
+      },
+      "scorer": "#16 - Peter  OKeefe",
+      "assist1": "#28 - Maxim  Alexeev",
+      "assist2": "#3 - Kareem  El-Alaily"
+    },
+    {
+      "period": "3",
+      "time": "00:12:42",
+      "team": {
+        "teamId": "1470",
+        "name": "Nortec"
+      },
+      "scorer": "#99 - Tony  Cusumano",
+      "assist1": "#16 - Peter  OKeefe",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:47",
+      "team": {
+        "teamId": "1469",
+        "name": "Jacks"
+      },
+      "player": "#2 - Tim  Commerford",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1469",
+        "name": "Jacks"
+      },
+      "player": "#3 - Jeffrey  Regan",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:27:15.682Z"
+}

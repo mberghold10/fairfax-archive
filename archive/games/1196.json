@@ -1,0 +1,139 @@
+{
+  "gameId": "1196",
+  "date": "2022-04-15",
+  "divId": 243,
+  "seasonName": "Winter 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1502",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1506",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1506",
+        "name": "Angry Moose"
+      },
+      "scorer": "#4 - Ryan  Cantwell",
+      "assist1": "#17 - Anthony  Vitucci",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "1506",
+        "name": "Angry Moose"
+      },
+      "scorer": "#4 - Ryan  Cantwell",
+      "assist1": "#47 - Jeff  Urlwin",
+      "assist2": "#13 - Nick  Burton"
+    },
+    {
+      "period": "2",
+      "time": "00:02:58",
+      "team": {
+        "teamId": "1506",
+        "name": "Angry Moose"
+      },
+      "scorer": "#87 - Scott  Fausneaucht",
+      "assist1": "#47 - Jeff  Urlwin",
+      "assist2": "#42 - Dan  Schwind"
+    },
+    {
+      "period": "2",
+      "time": "00:04:34",
+      "team": {
+        "teamId": "1506",
+        "name": "Angry Moose"
+      },
+      "scorer": "#77 - William  OBrian",
+      "assist1": "#47 - Jeff  Urlwin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:25",
+      "team": {
+        "teamId": "1506",
+        "name": "Angry Moose"
+      },
+      "scorer": "#77 - William  OBrian",
+      "assist1": "#4 - Ryan  Cantwell",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:40",
+      "team": {
+        "teamId": "1502",
+        "name": "Dragons"
+      },
+      "scorer": "#88 - Maddy  Padgett",
+      "assist1": "#14 - Robert  Dover",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:10",
+      "team": {
+        "teamId": "1506",
+        "name": "Angry Moose"
+      },
+      "scorer": "#93 - Pete  Lee",
+      "assist1": "#42 - Dan  Schwind",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:54",
+      "team": {
+        "teamId": "1502",
+        "name": "Dragons"
+      },
+      "player": "#14 - Robert  Dover",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "1502",
+        "name": "Dragons"
+      },
+      "player": "#14 - Robert  Dover",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:33:51.582Z"
+}

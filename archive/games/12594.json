@@ -1,0 +1,182 @@
+{
+  "gameId": "12594",
+  "date": "2019-02-23",
+  "divId": 196,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1247",
+    "name": "Beltway Butchers"
+  },
+  "away": {
+    "teamId": "1244",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1244",
+        "name": "Wolves"
+      },
+      "scorer": "#18 - Jeff  Paget",
+      "assist1": "#71 - Mike  McLenahan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:16",
+      "team": {
+        "teamId": "1247",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#10 - Sam  Doan",
+      "assist1": "#23 - Ken  Degrave",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1244",
+        "name": "Wolves"
+      },
+      "scorer": "#71 - Mike  McLenahan",
+      "assist1": "#25 - Joe  Denoyior",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:52",
+      "team": {
+        "teamId": "1247",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#86 - John  Persinger",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:45",
+      "team": {
+        "teamId": "1244",
+        "name": "Wolves"
+      },
+      "scorer": "#6 - Jon  Alford",
+      "assist1": "#2 - Jen  Grotpeter",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:12:46",
+      "team": {
+        "teamId": "1247",
+        "name": "Beltway Butchers"
+      },
+      "player": "#23 - Ken  Degrave",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:39",
+      "team": {
+        "teamId": "1247",
+        "name": "Beltway Butchers"
+      },
+      "player": "#18 - Pete  Poczatek",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:39",
+      "team": {
+        "teamId": "1247",
+        "name": "Beltway Butchers"
+      },
+      "player": "#18 - Pete  Poczatek",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:39",
+      "team": {
+        "teamId": "1244",
+        "name": "Wolves"
+      },
+      "player": "#33 - Dmitriy  Achapkin",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:39",
+      "team": {
+        "teamId": "1244",
+        "name": "Wolves"
+      },
+      "player": "#33 - Dmitriy  Achapkin",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:39",
+      "team": {
+        "teamId": "1244",
+        "name": "Wolves"
+      },
+      "player": "#33 - Dmitriy  Achapkin",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:41",
+      "team": {
+        "teamId": "1247",
+        "name": "Beltway Butchers"
+      },
+      "player": "#1 - Charles  Beekman",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:50:44.097Z"
+}

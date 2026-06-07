@@ -1,0 +1,143 @@
+{
+  "gameId": "16455",
+  "date": "2023-12-01",
+  "divId": 278,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1714",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1712",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "1714",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#17 - Josh  Bliudzius",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:43",
+      "team": {
+        "teamId": "1712",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:08",
+      "team": {
+        "teamId": "1712",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1712",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#21 - Chris  Beach",
+      "assist1": "#3 - Justin  Carpenter",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:25",
+      "team": {
+        "teamId": "1714",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#28 - Ed  Holleran",
+      "assist1": "#14 - David  Fisher",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:26",
+      "team": {
+        "teamId": "1714",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#79 - Scott  Yates",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:24",
+      "team": {
+        "teamId": "1712",
+        "name": "Jurassic Puck"
+      },
+      "player": "#21 - Chris  Beach",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:36",
+      "team": {
+        "teamId": "1714",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#28 - Ed  Holleran",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:45",
+      "team": {
+        "teamId": "1712",
+        "name": "Jurassic Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:14:07.012Z"
+}

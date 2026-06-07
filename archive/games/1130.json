@@ -1,0 +1,172 @@
+{
+  "gameId": "1130",
+  "date": "2021-07-25",
+  "divId": 226,
+  "seasonName": "Spring 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1422",
+    "name": "Bluejacket Capitals"
+  },
+  "away": {
+    "teamId": "1418",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#1 - Jeff  Alpher",
+      "assist1": "#16 - Ralph  Rinaldi",
+      "assist2": "#77 - Bill  Kang"
+    },
+    {
+      "period": "1",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#16 - Ralph  Rinaldi",
+      "assist1": "#1 - Jeff  Alpher",
+      "assist2": "#55 - Scott  Dullea"
+    },
+    {
+      "period": "1",
+      "time": "00:09:19",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#51 - Eddy  Lucas",
+      "assist1": "#24 - Thomas  Langpaul",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:18",
+      "team": {
+        "teamId": "1422",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#17 - Bill  DeMaso",
+      "assist1": "#20 - Scott  Forbes",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "1422",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#9 - Erik  Haas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:45",
+      "team": {
+        "teamId": "1422",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#17 - Bill  DeMaso",
+      "assist1": "#25 - Ken  Chin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:34",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#55 - Scott  Dullea",
+      "assist1": "#16 - Ralph  Rinaldi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#18 - Michael  Dewhirst",
+      "assist1": "#15 - David  Eyre",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#24 - Thomas  Langpaul",
+      "assist1": "#18 - Michael  Dewhirst",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:11",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#0 - Curt  Tucker",
+      "assist1": "#15 - David  Eyre",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:06:12",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "player": "#24 - Thomas  Langpaul",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "player": "#1 - Jeff  Alpher",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:21:12.946Z"
+}

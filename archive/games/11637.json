@@ -1,0 +1,158 @@
+{
+  "gameId": "11637",
+  "date": "2018-05-19",
+  "divId": 184,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1173",
+    "name": "Canucks"
+  },
+  "away": {
+    "teamId": "1169",
+    "name": "Bushwood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:23",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "scorer": "#25 - Greg  Reece",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:09",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "scorer": "#21 - Jim  Callow",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "scorer": "#13 - Steve  Schooner",
+      "assist1": "#91 - Chris  Callanan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": "#13 - Steve  Schooner",
+      "assist2": "#91 - Chris  Callanan"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "player": "#25 - Greg  Reece",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:18",
+      "team": {
+        "teamId": "1169",
+        "name": "Bushwood"
+      },
+      "player": "#5 - Doug  Maskuri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "player": "#91 - Chris  Callanan",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "1169",
+        "name": "Bushwood"
+      },
+      "player": "#5 - Doug  Maskuri",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "player": "#21 - Jim  Callow",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:37",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "player": "#44 - Wilmer  Jack",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:34:36.865Z"
+}

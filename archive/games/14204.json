@@ -1,0 +1,128 @@
+{
+  "gameId": "14204",
+  "date": "2021-08-15",
+  "divId": 233,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1454",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1453",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:37",
+      "team": {
+        "teamId": "1453",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#50 - Steve  Lavery",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "scorer": "#22 - Mike  Treme",
+      "assist1": "#42 - Dan  Schwind",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:49",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "scorer": "#1 - Ryan  Gardiner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:46",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "scorer": "#15 - Kevin  Szczepanski",
+      "assist1": "#21 - Kevin  Lockland",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:04",
+      "team": {
+        "teamId": "1453",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#24 - Ben  Fonarov",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:01",
+      "team": {
+        "teamId": "1453",
+        "name": "Jurassic Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "player": "#21 - Kevin  Lockland",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:25:33.605Z"
+}

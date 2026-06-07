@@ -1,0 +1,71 @@
+{
+  "gameId": "1295",
+  "date": "2023-04-29",
+  "divId": 261,
+  "seasonName": "Winter 2022",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1611",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "1609",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:02:27",
+      "team": {
+        "teamId": "1611",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#39 - Alex  Cimon",
+      "assist1": "#21 - Steve  Kaplan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:44",
+      "team": {
+        "teamId": "1611",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#77 - Jeff  Wilken",
+      "assist1": "#25 - Neil  DSouza",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:12:24",
+      "team": {
+        "teamId": "1611",
+        "name": "Mad Dogs"
+      },
+      "player": "#77 - Jeff  Wilken",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:55:06.408Z"
+}

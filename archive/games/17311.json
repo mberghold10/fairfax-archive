@@ -1,0 +1,143 @@
+{
+  "gameId": "17311",
+  "date": "2024-09-15",
+  "divId": 290,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1779",
+    "name": "Bottle Caps"
+  },
+  "away": {
+    "teamId": "1781",
+    "name": "Toronto"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:52",
+      "team": {
+        "teamId": "1781",
+        "name": "Toronto"
+      },
+      "scorer": "#26 - Patrick  Love",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:18",
+      "team": {
+        "teamId": "1781",
+        "name": "Toronto"
+      },
+      "scorer": "#26 - Patrick  Love",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:49",
+      "team": {
+        "teamId": "1781",
+        "name": "Toronto"
+      },
+      "scorer": "#11 - Alex  Wang",
+      "assist1": "#96 - Wei  Wang",
+      "assist2": "#5 - Dave  Neri"
+    },
+    {
+      "period": "3",
+      "time": "00:02:51",
+      "team": {
+        "teamId": "1781",
+        "name": "Toronto"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#48 - Randy  Sasai",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:53",
+      "team": {
+        "teamId": "1781",
+        "name": "Toronto"
+      },
+      "scorer": "#32 - Brian  Freeman",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:17",
+      "team": {
+        "teamId": "1779",
+        "name": "Bottle Caps"
+      },
+      "player": "#34 - William  Happ",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1779",
+        "name": "Bottle Caps"
+      },
+      "player": "#20 - David  Goldstein",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:30",
+      "team": {
+        "teamId": "1781",
+        "name": "Toronto"
+      },
+      "player": "#6 - Will  Murphy",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "1781",
+        "name": "Toronto"
+      },
+      "player": "#5 - Dave  Neri",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:27:49.043Z"
+}

@@ -1,0 +1,152 @@
+{
+  "gameId": "11415",
+  "date": "2018-02-04",
+  "divId": 176,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1126",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1125",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1126",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#25 - Ethan  Isleib",
+      "assist2": "#36 - Braxton  Good"
+    },
+    {
+      "period": "2",
+      "time": "00:06:29",
+      "team": {
+        "teamId": "1126",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#25 - Ethan  Isleib",
+      "assist1": "#13 - Trevor  Wallace",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:51",
+      "team": {
+        "teamId": "1125",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#42 - Adam  Russell",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:33",
+      "team": {
+        "teamId": "1126",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#36 - Braxton  Good",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "1125",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#22 - Joseph  Ney",
+      "assist1": "#71 - Dan  Cosentino",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:51",
+      "team": {
+        "teamId": "1126",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#25 - Ethan  Isleib",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1126",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#36 - Braxton  Good",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:28",
+      "team": {
+        "teamId": "1125",
+        "name": "Blue Crabs"
+      },
+      "player": "#22 - Joseph  Ney",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:09",
+      "team": {
+        "teamId": "1126",
+        "name": "Maple Leafs"
+      },
+      "player": "#31 - Alex  Brown",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1125",
+        "name": "Blue Crabs"
+      },
+      "player": "#33 - Paul  Flood",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:25:42.384Z"
+}

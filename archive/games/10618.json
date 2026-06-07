@@ -1,0 +1,136 @@
+{
+  "gameId": "10618",
+  "date": "2017-06-12",
+  "divId": 167,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1068",
+    "name": "Lightning"
+  },
+  "away": {
+    "teamId": "1069",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:42",
+      "team": {
+        "teamId": "1068",
+        "name": "Lightning"
+      },
+      "scorer": "#12 - Dave  Lean",
+      "assist1": "#24 - Stephen  Fortier",
+      "assist2": "#3 - Jordan  Ziegler"
+    },
+    {
+      "period": "3",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1069",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#9 - Steve  Tarditi",
+      "assist1": "#16 - Nurali  Jamani",
+      "assist2": "#96 - Steve  Spector"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:28",
+      "team": {
+        "teamId": "1069",
+        "name": "Blue Crabs"
+      },
+      "player": "#96 - Steve  Spector",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:54",
+      "team": {
+        "teamId": "1069",
+        "name": "Blue Crabs"
+      },
+      "player": "#6 - Bob  Friess",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1068",
+        "name": "Lightning"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:19",
+      "team": {
+        "teamId": "1068",
+        "name": "Lightning"
+      },
+      "player": "#3 - Jordan  Ziegler",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:44",
+      "team": {
+        "teamId": "1068",
+        "name": "Lightning"
+      },
+      "player": "#33 - Mike  Wagner",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1069",
+        "name": "Blue Crabs"
+      },
+      "player": "#62 - Ben  Fernandes",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:14:30.086Z"
+}

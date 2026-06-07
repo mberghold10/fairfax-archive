@@ -1,0 +1,169 @@
+{
+  "gameId": "14455",
+  "date": "2021-11-14",
+  "divId": 243,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1503",
+    "name": "Capitals"
+  },
+  "away": {
+    "teamId": "1501",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:55",
+      "team": {
+        "teamId": "1503",
+        "name": "Capitals"
+      },
+      "scorer": "#77 - Erik  Bergman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:53",
+      "team": {
+        "teamId": "1503",
+        "name": "Capitals"
+      },
+      "scorer": "#92 - Darren  Welner",
+      "assist1": "#4 - Pete  VanArtic",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1501",
+        "name": "Rink Rats"
+      },
+      "scorer": "#25 - Dave  Brown",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:58",
+      "team": {
+        "teamId": "1503",
+        "name": "Capitals"
+      },
+      "scorer": "#77 - Erik  Bergman",
+      "assist1": "#10 - Peter  Grose",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:21",
+      "team": {
+        "teamId": "1503",
+        "name": "Capitals"
+      },
+      "scorer": "#77 - Erik  Bergman",
+      "assist1": "#24 - Michael  Sheridan",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:29",
+      "team": {
+        "teamId": "1503",
+        "name": "Capitals"
+      },
+      "player": "#24 - Michael  Sheridan",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1503",
+        "name": "Capitals"
+      },
+      "player": "#15 - Bob  Guckian",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:24",
+      "team": {
+        "teamId": "1501",
+        "name": "Rink Rats"
+      },
+      "player": "#25 - Dave  Brown",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:35",
+      "team": {
+        "teamId": "1503",
+        "name": "Capitals"
+      },
+      "player": "#13 - Sean  McGary",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1501",
+        "name": "Rink Rats"
+      },
+      "player": "#22 - Matthew  Thrasher",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:08",
+      "team": {
+        "teamId": "1501",
+        "name": "Rink Rats"
+      },
+      "player": "#13 - John  Bereza",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:32:35.172Z"
+}

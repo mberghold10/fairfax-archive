@@ -1,0 +1,202 @@
+{
+  "gameId": "11728",
+  "date": "2018-06-17",
+  "divId": 187,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1191",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1195",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "1191",
+        "name": "Thunder"
+      },
+      "scorer": "#46 - Charles  Fancher",
+      "assist1": "#75 - Dany  Normandeau",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:43",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "scorer": "#27 - Nick  Montfort",
+      "assist1": "#12 - Gus  Anderson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:42",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "scorer": "#10 - Owen  Schaefer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:17:21",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "scorer": "#67 - John  Krotzer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:16",
+      "team": {
+        "teamId": "1191",
+        "name": "Thunder"
+      },
+      "scorer": "#75 - Dany  Normandeau",
+      "assist1": "#5 - Zac  Graber",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1191",
+        "name": "Thunder"
+      },
+      "scorer": "#11 - Jason  McKay",
+      "assist1": "#75 - Dany  Normandeau",
+      "assist2": "#2 - Jen  Grotpeter"
+    },
+    {
+      "period": "3",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "1191",
+        "name": "Thunder"
+      },
+      "scorer": "#40 - Claudia  Salem",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:59",
+      "team": {
+        "teamId": "1191",
+        "name": "Thunder"
+      },
+      "scorer": "#11 - Jason  McKay",
+      "assist1": "#9 - Karner  Sharon",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "player": "#10 - Owen  Schaefer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "player": "#40 - Howard  Ehrlich",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:54",
+      "team": {
+        "teamId": "1191",
+        "name": "Thunder"
+      },
+      "player": "#78 - Jacob  Warren",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:26",
+      "team": {
+        "teamId": "1191",
+        "name": "Thunder"
+      },
+      "player": "#41 - Randy  Warren",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:37",
+      "team": {
+        "teamId": "1191",
+        "name": "Thunder"
+      },
+      "player": "#2 - Jen  Grotpeter",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:51",
+      "team": {
+        "teamId": "1195",
+        "name": "Red Wings"
+      },
+      "player": "#2 - JP  Gardner",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:39:09.169Z"
+}

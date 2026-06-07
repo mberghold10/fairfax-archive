@@ -1,0 +1,165 @@
+{
+  "gameId": "16826",
+  "date": "2024-03-03",
+  "divId": 282,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1737",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1733",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "scorer": "#88 - Anthony  DeJohn",
+      "assist1": "#41 - Dave  Armstrong",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:50",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "scorer": "#79 - Dave  Gerstner",
+      "assist1": "#76 - John  Ellison",
+      "assist2": "#72 - Josh  Epstein"
+    },
+    {
+      "period": "1",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "scorer": "#89 - Frank  Congel",
+      "assist1": "#5 - Chris  Howard",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "1733",
+        "name": "Penguins"
+      },
+      "scorer": "#51 - Rob  Fischer",
+      "assist1": "#18 - Dominic  Pistolessi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1733",
+        "name": "Penguins"
+      },
+      "scorer": "#40 - Mike  Serebrennikov",
+      "assist1": "#25 - Jeff  Wojtala",
+      "assist2": "#55 - Tim  Dutcher"
+    },
+    {
+      "period": "2",
+      "time": "00:14:21",
+      "team": {
+        "teamId": "1733",
+        "name": "Penguins"
+      },
+      "scorer": "#23 - Rick  Gorgone",
+      "assist1": "#15 - Mark  Rudnicki",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "1733",
+        "name": "Penguins"
+      },
+      "scorer": "#20 - Brent  Jefferson",
+      "assist1": "#25 - Jeff  Wojtala",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:03",
+      "team": {
+        "teamId": "1733",
+        "name": "Penguins"
+      },
+      "player": "#55 - Tim  Dutcher",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:15",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "player": "#79 - Dave  Gerstner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "1737",
+        "name": "Islanders"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "1733",
+        "name": "Penguins"
+      },
+      "player": "#55 - Tim  Dutcher",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:19:12.052Z"
+}

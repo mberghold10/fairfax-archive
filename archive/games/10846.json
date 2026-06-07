@@ -1,0 +1,104 @@
+{
+  "gameId": "10846",
+  "date": "2017-07-22",
+  "divId": 168,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1085",
+    "name": "Jurassic Puck"
+  },
+  "away": {
+    "teamId": "1074",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:16",
+      "team": {
+        "teamId": "1085",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#26 - Tony  Lenzi",
+      "assist1": "#16 - Bailey  Robertory",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:17",
+      "team": {
+        "teamId": "1074",
+        "name": "Dragons"
+      },
+      "scorer": "#14 - James  Miller",
+      "assist1": "#36 - Nick  Fishter",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1085",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#7 - Brian  Ebert",
+      "assist1": "#27 - Philip  Cullins",
+      "assist2": "#87 - James  Page"
+    },
+    {
+      "period": "2",
+      "time": "00:07:52",
+      "team": {
+        "teamId": "1085",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#88 - Jason  Searight",
+      "assist1": "#28 - Michael  Berghold",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1074",
+        "name": "Dragons"
+      },
+      "scorer": "#14 - James  Miller",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "1085",
+        "name": "Jurassic Puck"
+      },
+      "player": "#28 - Michael  Berghold",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:15:50.517Z"
+}

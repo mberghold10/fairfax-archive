@@ -1,0 +1,95 @@
+{
+  "gameId": "14895",
+  "date": "2022-06-05",
+  "divId": 257,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1585",
+    "name": "Island Leafs"
+  },
+  "away": {
+    "teamId": "1581",
+    "name": "Goon Nation"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1585",
+        "name": "Island Leafs"
+      },
+      "scorer": "#93 - Jeff  Nauer",
+      "assist1": "#81 - Pete  Poczatek",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:29",
+      "team": {
+        "teamId": "1585",
+        "name": "Island Leafs"
+      },
+      "scorer": "#0 - Ruben  Garcia",
+      "assist1": "#93 - Jeff  Nauer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:59",
+      "team": {
+        "teamId": "1585",
+        "name": "Island Leafs"
+      },
+      "scorer": "#2 - Mark  Jesten",
+      "assist1": "#16 - Greg  Thomas",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:56",
+      "team": {
+        "teamId": "1585",
+        "name": "Island Leafs"
+      },
+      "player": "#81 - Pete  Poczatek",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:07",
+      "team": {
+        "teamId": "1581",
+        "name": "Goon Nation"
+      },
+      "player": "#17 - Jeff  Alpher",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:49:15.909Z"
+}

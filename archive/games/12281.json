@@ -1,0 +1,73 @@
+{
+  "gameId": "12281",
+  "date": "2018-11-25",
+  "divId": 195,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1235",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1241",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:04:27",
+      "team": {
+        "teamId": "1235",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Andy  Taylor",
+      "assist1": "#15 - Mike  Hempen",
+      "assist2": "#18 - Chris  Kelly"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:08",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:21",
+      "team": {
+        "teamId": "1241",
+        "name": "Islanders"
+      },
+      "player": "#38 - Ted  Satterthwaite",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:48:45.388Z"
+}

@@ -1,0 +1,150 @@
+{
+  "gameId": "10500",
+  "date": "2017-04-30",
+  "divId": 163,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1047",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1044",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:43",
+      "team": {
+        "teamId": "1047",
+        "name": "Islanders"
+      },
+      "scorer": "#9 - Rick  Cole",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1047",
+        "name": "Islanders"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#33 - Lee  Morgan",
+      "assist2": "#9 - Rick  Cole"
+    },
+    {
+      "period": "1",
+      "time": "00:09:09",
+      "team": {
+        "teamId": "1044",
+        "name": "Coyotes"
+      },
+      "scorer": "#13 - Mike  Carew",
+      "assist1": "#1 - Brian  Freeman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1044",
+        "name": "Coyotes"
+      },
+      "scorer": "#13 - Mike  Carew",
+      "assist1": "#64 - Bob  Fischer",
+      "assist2": "#18 - Brian  Murphy"
+    },
+    {
+      "period": "2",
+      "time": "00:12:44",
+      "team": {
+        "teamId": "1044",
+        "name": "Coyotes"
+      },
+      "scorer": "#38 - Michael  Andrien",
+      "assist1": "#64 - Bob  Fischer",
+      "assist2": "#5 - Andy  Loggia"
+    },
+    {
+      "period": "3",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1044",
+        "name": "Coyotes"
+      },
+      "scorer": "#38 - Michael  Andrien",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:26",
+      "team": {
+        "teamId": "1044",
+        "name": "Coyotes"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": "#38 - Michael  Andrien",
+      "assist2": "#18 - Brian  Murphy"
+    },
+    {
+      "period": "3",
+      "time": "00:09:46",
+      "team": {
+        "teamId": "1044",
+        "name": "Coyotes"
+      },
+      "scorer": "#24 - James  Grasselli",
+      "assist1": "#5 - Andy  Loggia",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1047",
+        "name": "Islanders"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "1047",
+        "name": "Islanders"
+      },
+      "player": "#1 - Chris  Beach",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:09:03.643Z"
+}

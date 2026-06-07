@@ -1,0 +1,108 @@
+{
+  "gameId": "11427",
+  "date": "2018-03-18",
+  "divId": 176,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1121",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1122",
+    "name": "Pharaohs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:27",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#22 - Jongjae  Yoo",
+      "assist1": "#18 - Jeff  Rummel",
+      "assist2": "#10 - Chris  Chagnon"
+    },
+    {
+      "period": "2",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1122",
+        "name": "Pharaohs"
+      },
+      "scorer": "#12 - Han  Yoon",
+      "assist1": "#14 - Jay  Yoon",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:55",
+      "team": {
+        "teamId": "1122",
+        "name": "Pharaohs"
+      },
+      "scorer": "#14 - Jay  Yoon",
+      "assist1": "#25 - Chirs  Howard",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:04",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "player": "#82 - Tim  Lo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:49",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "player": "#6 - Faraz  Izadi",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:25:54.347Z"
+}

@@ -1,0 +1,143 @@
+{
+  "gameId": "10381",
+  "date": "2017-03-04",
+  "divId": 156,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1001",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1002",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:57",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#76 - Beau  Bosley",
+      "assist1": "#5 - Alex  Talalayevsky",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:50",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "scorer": "#19 - Aaron  Duchak",
+      "assist1": "#25 - Joe  Denoyior",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:32",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#57 - Howard  Uman",
+      "assist1": "#71 - Dan  Pol",
+      "assist2": "#24 - Mike  Duell"
+    },
+    {
+      "period": "2",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "scorer": "#24 - Mike  Duell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:13",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "scorer": "#33 - Dimitry  Achapkin",
+      "assist1": "#9 - Shannon  Karner",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "player": "#25 - Joe  Denoyior",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:39",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#5 - Alex  Talalayevsky",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "player": "#23 - Alan  Stiffler",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "1002",
+        "name": "Senators"
+      },
+      "player": "#71 - Dan  Pol",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:00:58.530Z"
+}

@@ -1,0 +1,147 @@
+{
+  "gameId": "13082",
+  "date": "2019-08-12",
+  "divId": 204,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1294",
+    "name": "Punishers"
+  },
+  "away": {
+    "teamId": "1314",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:38",
+      "team": {
+        "teamId": "1294",
+        "name": "Punishers"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:34",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "scorer": "#87 - Stanislaw  Kolodin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1294",
+        "name": "Punishers"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#17 - Dan  Pol",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:59",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "1294",
+        "name": "Punishers"
+      },
+      "player": "#16 - Miles  Zwicky",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:02",
+      "team": {
+        "teamId": "1294",
+        "name": "Punishers"
+      },
+      "player": "#15 - Phil  Wind",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:02",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "player": "#8 - James  Miller",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:57",
+      "team": {
+        "teamId": "1294",
+        "name": "Punishers"
+      },
+      "player": "#19 - Marty  Gryski",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:44",
+      "team": {
+        "teamId": "1294",
+        "name": "Punishers"
+      },
+      "player": "#17 - Dan  Pol",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:59:42.272Z"
+}

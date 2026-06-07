@@ -1,0 +1,174 @@
+{
+  "gameId": "13074",
+  "date": "2019-07-19",
+  "divId": 204,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1314",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1307",
+    "name": "Whalers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:51",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "scorer": "#13 - Will  MacLeod",
+      "assist1": "#21 - John  Miles",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:12",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "scorer": "#35 - Ross  Kuhn",
+      "assist1": "#20 - Rich  Utano",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:09",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "scorer": "#34 - Jim  Morgan",
+      "assist1": "#20 - Rich  Utano",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "scorer": "#34 - Jim  Morgan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "scorer": "#12 - Jason  Wakeman",
+      "assist1": "#18 - Pete  Poczatek",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:43",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "scorer": "#55 - Joel  Whitney",
+      "assist1": "#21 - John  Miles",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:39",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "scorer": "#2 - Colin  Wakeman",
+      "assist1": "#17 - David  Simpson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:48",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "scorer": "#86 - Rian  Nolan",
+      "assist1": "#2 - Colin  Wakeman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:00",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "scorer": "#2 - Steve  Sondheimer",
+      "assist1": "#55 - Joel  Whitney",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:49",
+      "team": {
+        "teamId": "1314",
+        "name": "Avalanche"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "player": "#99 - James  Marlowe",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "player": "#19 - Mike  Sharp",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:59:34.336Z"
+}

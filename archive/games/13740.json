@@ -1,0 +1,156 @@
+{
+  "gameId": "13740",
+  "date": "2020-03-08",
+  "divId": 216,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1364",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1368",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:49",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#19 - Tristan  Anderson",
+      "assist1": "#20 - David  Humes",
+      "assist2": "#1 - Christian  Crawford"
+    },
+    {
+      "period": "1",
+      "time": "00:14:35",
+      "team": {
+        "teamId": "1364",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#67 - Andy  Bennett",
+      "assist1": "#77 - Scott  Peterson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#95 - Keith  Crawford",
+      "assist1": "#33 - Mark  Hall",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#9 - Jon  Hulecki",
+      "assist1": "#1 - Christian  Crawford",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#10 - owen  Schaefer",
+      "assist1": "#20 - David  Humes",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1364",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#38 - Keith  Foresythe",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:05",
+      "team": {
+        "teamId": "1364",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#4 - Jonathan  Carter",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:02",
+      "team": {
+        "teamId": "1364",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#38 - Keith  Foresythe",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:35",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "player": "#19 - Tristan  Anderson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "1364",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#88 - Jason  Searight",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:14:35.414Z"
+}

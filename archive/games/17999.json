@@ -1,0 +1,189 @@
+{
+  "gameId": "17999",
+  "date": "2025-04-05",
+  "divId": 306,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1875",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1873",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 1,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:03:48",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": "#76 - Mike  Floyd",
+      "assist2": "#25 - Chris  Lettieri"
+    },
+    {
+      "period": "2",
+      "time": "00:04:57",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#25 - Chris  Lettieri",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:23",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#8 - Jamie  Sengheiser",
+      "assist1": "#98 - Matt  Criscolo",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:57",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:29",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#8 - Jamie  Sengheiser",
+      "assist1": "#44 - Greg  Powers",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": "#8 - Jamie  Sengheiser",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:14",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#24 - Tom  Spiewak",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:49",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "player": "#25 - Stan  Torgovitsky",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:57",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "player": "#25 - Chris  Lettieri",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:04",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "player": "#18 - Pete  Poczatek",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:08",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "player": "#47 - Talbot  Black",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "1873",
+        "name": "Goons"
+      },
+      "player": "#24 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:44:27.310Z"
+}

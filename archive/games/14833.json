@@ -1,0 +1,115 @@
+{
+  "gameId": "14833",
+  "date": "2022-03-20",
+  "divId": 248,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1531",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1532",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:37",
+      "team": {
+        "teamId": "1532",
+        "name": "Roughnecks"
+      },
+      "scorer": "#13 - Dzastina  Haislmaier",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:27",
+      "team": {
+        "teamId": "1531",
+        "name": "Thunder"
+      },
+      "scorer": "#18 - Nathan  Rozelle",
+      "assist1": "#27 - Michael  Fine",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1532",
+        "name": "Roughnecks"
+      },
+      "scorer": "#15 - Andrew  Levy",
+      "assist1": "#13 - Dzastina  Haislmaier",
+      "assist2": "#11 - Carl  Froemming"
+    },
+    {
+      "period": "2",
+      "time": "00:09:17",
+      "team": {
+        "teamId": "1532",
+        "name": "Roughnecks"
+      },
+      "scorer": "#11 - Carl  Froemming",
+      "assist1": "#15 - Andrew  Levy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1532",
+        "name": "Roughnecks"
+      },
+      "scorer": "#36 - Andrew  Arendt",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:39",
+      "team": {
+        "teamId": "1532",
+        "name": "Roughnecks"
+      },
+      "scorer": "#13 - Dzastina  Haislmaier",
+      "assist1": "#29 - Chris  Dunn",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:51",
+      "team": {
+        "teamId": "1531",
+        "name": "Thunder"
+      },
+      "player": "#27 - Michael  Fine",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:39:17.384Z"
+}

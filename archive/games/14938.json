@@ -1,0 +1,117 @@
+{
+  "gameId": "14938",
+  "date": "2022-05-15",
+  "divId": 250,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1546",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1542",
+    "name": "Pharoahs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:45",
+      "team": {
+        "teamId": "1542",
+        "name": "Pharoahs"
+      },
+      "scorer": "#12 - Mike  Carzoli",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "1546",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": "#1 - Jeff  Alpher",
+      "assist2": "#18 - Michael  Dewhirst"
+    },
+    {
+      "period": "2",
+      "time": "00:03:53",
+      "team": {
+        "teamId": "1542",
+        "name": "Pharoahs"
+      },
+      "scorer": "#30 - Justin  Carpenter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "1546",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": "#42 - Dave  Hagemeier",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:33",
+      "team": {
+        "teamId": "1546",
+        "name": "Chiefs"
+      },
+      "scorer": "#13 - Trevor  Wallace",
+      "assist1": "#7 - Daniel  Job",
+      "assist2": "#15 - David  Eyre"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:13",
+      "team": {
+        "teamId": "1546",
+        "name": "Chiefs"
+      },
+      "player": "#16 - Ralph  Rinaldi",
+      "pim": 2,
+      "offense": "High Stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:55",
+      "team": {
+        "teamId": "1542",
+        "name": "Pharoahs"
+      },
+      "player": "#11 - Dan  Owens",
+      "pim": 2,
+      "offense": "Interference",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:40:41.672Z"
+}

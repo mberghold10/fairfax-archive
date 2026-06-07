@@ -1,0 +1,220 @@
+{
+  "gameId": "15874",
+  "date": "2023-05-16",
+  "divId": 267,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1646",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1648",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 4,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:55",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#54 - Ryan  Galluzzo",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "1648",
+        "name": "Kings"
+      },
+      "scorer": "#3 - Dylah  Turff",
+      "assist1": "#8 - David  Satagaj",
+      "assist2": "#33 - Steven  Terenzlo"
+    },
+    {
+      "period": "1",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "1648",
+        "name": "Kings"
+      },
+      "scorer": "#33 - Steven  Terenzlo",
+      "assist1": "#8 - David  Satagaj",
+      "assist2": "#14 - Dominic  Pistolessi"
+    },
+    {
+      "period": "2",
+      "time": "00:02:36",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#32 - Carl  Wojick",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#8 - Rod  Wade",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:45",
+      "team": {
+        "teamId": "1648",
+        "name": "Kings"
+      },
+      "scorer": "#61 - Paul  Balzercak",
+      "assist1": "#14 - Dominic  Pistolessi",
+      "assist2": "#43 - Anthony  Federico"
+    },
+    {
+      "period": "3",
+      "time": "00:08:11",
+      "team": {
+        "teamId": "1648",
+        "name": "Kings"
+      },
+      "scorer": "#43 - Anthony  Federico",
+      "assist1": "#82 - Caleb  Sohl",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#32 - Carl  Wojick",
+      "assist1": "#48 - Isaac  Hale",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:21",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#54 - Ryan  Galluzzo",
+      "assist1": "#8 - Rod  Wade",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:45",
+      "team": {
+        "teamId": "1648",
+        "name": "Kings"
+      },
+      "scorer": "#43 - Anthony  Federico",
+      "assist1": "#61 - Paul  Balzercak",
+      "assist2": "#14 - Dominic  Pistolessi"
+    },
+    {
+      "period": "3",
+      "time": "00:13:11",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#48 - Isaac  Hale",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:17",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#48 - Isaac  Hale",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "player": "#77 - Oleg  Nayandin",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "player": "#7 - Joseph  Hull",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:36",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "player": "#8 - Rod  Wade",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:39",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "player": "#77 - Oleg  Nayandin",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:00:48.010Z"
+}

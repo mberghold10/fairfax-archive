@@ -1,0 +1,82 @@
+{
+  "gameId": "10166",
+  "date": "2016-12-09",
+  "divId": 153,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "984",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "985",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "984",
+        "name": "Ducks"
+      },
+      "scorer": "#91 - Rob  Fischer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:20",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": "#37 - Vadin  Nabotov"
+    },
+    {
+      "period": "3",
+      "time": "00:06:25",
+      "team": {
+        "teamId": "984",
+        "name": "Ducks"
+      },
+      "scorer": "#12 - Jon  Gregor",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "984",
+        "name": "Ducks"
+      },
+      "player": "#19 - Chris  Blevins",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:56:40.111Z"
+}

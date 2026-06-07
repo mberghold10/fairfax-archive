@@ -1,0 +1,163 @@
+{
+  "gameId": "10178",
+  "date": "2016-11-30",
+  "divId": 154,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "987",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "989",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#5 - Steve  Bradley",
+      "assist1": "#2 - Rod  Wade",
+      "assist2": "#13 - Bob  Chagnot"
+    },
+    {
+      "period": "1",
+      "time": "00:11:38",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#7 - Joe  Hull",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#44 - Mick  Ellsworth",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#3 - Mario  Regan",
+      "assist1": "#2 - Rod  Wade",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:12",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": "#28 - Charles  Hale"
+    },
+    {
+      "period": "2",
+      "time": "00:09:27",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#44 - Mick  Ellsworth",
+      "assist1": "#69 - Ron  Fishbeck",
+      "assist2": "#23 - Scott  Gordon"
+    },
+    {
+      "period": "3",
+      "time": "00:01:57",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#13 - Bob  Chagnot",
+      "assist1": "#9 - Steve  Barker",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:15",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#3 - Mario  Regan",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "player": "#88 - Mark  Stemp",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:14",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "player": "#23 - Scott  Gordon",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:42",
+      "team": {
+        "teamId": "987",
+        "name": "Englewood"
+      },
+      "player": "#2 - Rod  Wade",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:57:49.367Z"
+}

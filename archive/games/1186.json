@@ -1,0 +1,108 @@
+{
+  "gameId": "1186",
+  "date": "2021-10-24",
+  "divId": 238,
+  "seasonName": "Summer 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1488",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1487",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:11",
+      "team": {
+        "teamId": "1487",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": "#42 - Mo  OSullivan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:26",
+      "team": {
+        "teamId": "1487",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#42 - Mo  OSullivan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:25",
+      "team": {
+        "teamId": "1488",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#11 - Cindy  Huber",
+      "assist1": "#2 - John  Ganoe",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1488",
+        "name": "Blue Dogs"
+      },
+      "player": "#37 - John  Bachman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:44",
+      "team": {
+        "teamId": "1487",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#88 - Jason  Searight",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1487",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#88 - Jason  Searight",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:29:55.449Z"
+}

@@ -1,0 +1,95 @@
+{
+  "gameId": "14356",
+  "date": "2021-09-19",
+  "divId": 237,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1483",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1481",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:04:19",
+      "team": {
+        "teamId": "1483",
+        "name": "Hurricanes"
+      },
+      "scorer": "#0 - Ruben  Garcia",
+      "assist1": "#1 - Chris  Beach",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:57",
+      "team": {
+        "teamId": "1481",
+        "name": "Wolves"
+      },
+      "scorer": "#33 - Dmitriy  Achapkin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "1483",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:28",
+      "team": {
+        "teamId": "1483",
+        "name": "Hurricanes"
+      },
+      "player": "#93 - Jeff  Nauer",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:43",
+      "team": {
+        "teamId": "1481",
+        "name": "Wolves"
+      },
+      "player": "#33 - Dmitriy  Achapkin",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:28:58.711Z"
+}

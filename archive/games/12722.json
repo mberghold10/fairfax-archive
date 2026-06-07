@@ -1,0 +1,145 @@
+{
+  "gameId": "12722",
+  "date": "2019-06-09",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1265",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1264",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:13",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "scorer": "#78 - Noe  Hatchuel",
+      "assist1": "#13 - Kevin  Trac",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "2",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "scorer": "#44 - Bob  Arnold",
+      "assist1": "#14 - Jude  Corina",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "scorer": "#10 - Aaron  Dobbs",
+      "assist1": "#85 - JP  Kloussia",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:13",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "scorer": "#9 - Mark  Rudnicki",
+      "assist1": "#69 - Aaron  Domnitch",
+      "assist2": "#83 - Joe  Tierney"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:26",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "player": "#10 - Aaron  Dobbs",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:43",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "player": "#16 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:50",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "player": "#16 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:04",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "player": "#4 - Tad  Jose",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:28",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "player": "#9 - Mark  Rudnicki",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:53:27.198Z"
+}

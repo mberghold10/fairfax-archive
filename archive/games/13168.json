@@ -1,0 +1,156 @@
+{
+  "gameId": "13168",
+  "date": "2019-08-23",
+  "divId": 207,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1310",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1308",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "scorer": "#5 - Chris  Oman",
+      "assist1": "#28 - Richard  Pettey",
+      "assist2": "#2 - James  Kim"
+    },
+    {
+      "period": "1",
+      "time": "00:08:23",
+      "team": {
+        "teamId": "1310",
+        "name": "Thunder"
+      },
+      "scorer": "#9 - Shannon  Karner",
+      "assist1": "#37 - Christal  Cudworth",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:17:11",
+      "team": {
+        "teamId": "1310",
+        "name": "Thunder"
+      },
+      "scorer": "#27 - Michael  Fine",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "scorer": "#7 - Sa  Do",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:33",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "scorer": "#5 - Chris  Oman",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "1310",
+        "name": "Thunder"
+      },
+      "player": "#75 - Danny  Normandeau",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:19",
+      "team": {
+        "teamId": "1310",
+        "name": "Thunder"
+      },
+      "player": "#27 - Michael  Fine",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:24",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "player": "#25 - Allen  Baker",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:34",
+      "team": {
+        "teamId": "1310",
+        "name": "Thunder"
+      },
+      "player": "#5 - Zac  Graber",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:03:25.811Z"
+}

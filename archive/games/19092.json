@@ -1,0 +1,112 @@
+{
+  "gameId": "19092",
+  "date": "2026-03-24",
+  "divId": 327,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2017",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "2019",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:42",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "scorer": "#41 - David  Armstrong",
+      "assist1": "#1 - Chris  Beach",
+      "assist2": "#38 - Keith  Forsythe"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:08",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "player": "#41 - David  Armstrong",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:24",
+      "team": {
+        "teamId": "2017",
+        "name": "Ice Dogs"
+      },
+      "player": "#81 - Rob  Katz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:41",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "player": "#20 - Mike  Hempen",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:07:16.562Z"
+}

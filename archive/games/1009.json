@@ -1,0 +1,130 @@
+{
+  "gameId": "1009",
+  "date": "2019-10-06",
+  "divId": 204,
+  "seasonName": "Summer 2019",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1307",
+    "name": "Whalers"
+  },
+  "away": {
+    "teamId": "1291",
+    "name": "Pharaohs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:24",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "scorer": "#24 - Colin  Frament",
+      "assist1": "#31 - Craig  Kabis",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:52",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "scorer": "#5 - Chris  Maroon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": "#5 - Chris  Maroon",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "scorer": "#83 - Jared  DiCioccio",
+      "assist1": "#28 - Michael  Berghold",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:24",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "scorer": "#71 - Nada  McCarthy",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "player": "#25 - Chris  Howard",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:04",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "player": "#2 - Steve  Sondheimer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "player": "#17 - Zepahn  Keener",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:00:08.835Z"
+}

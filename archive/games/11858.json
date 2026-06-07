@@ -1,0 +1,176 @@
+{
+  "gameId": "11858",
+  "date": "2018-07-14",
+  "divId": 184,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1171",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1173",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "scorer": "#80 - Matt  Rogers",
+      "assist1": "#91 - Chris  Callanan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:11",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "scorer": "#88 - Brian  Ray",
+      "assist1": "#25 - Greg  Reece",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:55",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "scorer": "#44 - Wilmer  Jack",
+      "assist1": "#25 - Greg  Reece",
+      "assist2": "#87 - Nate  Morello"
+    },
+    {
+      "period": "2",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "scorer": "#44 - Wilmer  Jack",
+      "assist1": "#9 - Jon  Goldstein",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:24",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "scorer": "#9 - Jon  Goldstein",
+      "assist1": "#44 - Wilmer  Jack",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:51",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "scorer": "#44 - Wilmer  Jack",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:48",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "scorer": "#9 - Jon  Goldstein",
+      "assist1": "#44 - Wilmer  Jack",
+      "assist2": "#87 - Nate  Morello"
+    },
+    {
+      "period": "3",
+      "time": "00:12:27",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "scorer": "#11 - Andrew  Jones",
+      "assist1": "#10 - Chris  Greenough",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:11",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1171",
+        "name": "Avalanche"
+      },
+      "player": "#24 - Thomas  OConnor",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "player": "#44 - Wilmer  Jack",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1173",
+        "name": "Canucks"
+      },
+      "player": "#88 - Brian  Ray",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:35:00.942Z"
+}

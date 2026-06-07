@@ -1,0 +1,176 @@
+{
+  "gameId": "13904",
+  "date": "2021-01-18",
+  "divId": 219,
+  "seasonName": "Fall 2020",
+  "mode": "regular",
+  "home": {
+    "teamId": "1381",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1379",
+    "name": "Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "1381",
+        "name": "Avalanche"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:37",
+      "team": {
+        "teamId": "1381",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": "#12 - Jason  Wakeman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:08",
+      "team": {
+        "teamId": "1379",
+        "name": "Moose"
+      },
+      "scorer": "#120 - Scott  Richard",
+      "assist1": "#13 - Brian  Harmon",
+      "assist2": "#12 - Kevin  Bowser"
+    },
+    {
+      "period": "2",
+      "time": "00:09:27",
+      "team": {
+        "teamId": "1381",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": "#10 - Kevin  Free",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1381",
+        "name": "Avalanche"
+      },
+      "scorer": "#10 - Kevin  Free",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:06",
+      "team": {
+        "teamId": "1379",
+        "name": "Moose"
+      },
+      "scorer": "#13 - Brian  Harmon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:13",
+      "team": {
+        "teamId": "1381",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": "#5 - Oleg  Kolodin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:39",
+      "team": {
+        "teamId": "1381",
+        "name": "Avalanche"
+      },
+      "scorer": "#10 - Kevin  Free",
+      "assist1": "#77 - Caleb  Sohl",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "1379",
+        "name": "Moose"
+      },
+      "player": "#64 - Joe  Trahey",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:33",
+      "team": {
+        "teamId": "1379",
+        "name": "Moose"
+      },
+      "player": "#77 - Kevin  Bartechko",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1379",
+        "name": "Moose"
+      },
+      "player": "#12 - Kevin  Bowser",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:43",
+      "team": {
+        "teamId": "1379",
+        "name": "Moose"
+      },
+      "player": "#12 - Kevin  Bowser",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:16:27.222Z"
+}

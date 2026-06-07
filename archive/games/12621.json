@@ -1,0 +1,82 @@
+{
+  "gameId": "12621",
+  "date": "2019-02-10",
+  "divId": 197,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1249",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1251",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:04:04",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "scorer": "#6 - Hugo  Guzman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:59",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "scorer": "#79 - Igor  Helman",
+      "assist1": "#26 - Edward  Regan",
+      "assist2": "#33 - Zach  Sowinski"
+    },
+    {
+      "period": "2",
+      "time": "00:15:55",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "scorer": "#98 - Carl  Tierney",
+      "assist1": "#21 - Joe  Labrake",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:32",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "player": "#6 - Hugo  Guzman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:51:56.613Z"
+}

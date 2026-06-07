@@ -1,0 +1,139 @@
+{
+  "gameId": "17201",
+  "date": "2024-08-02",
+  "divId": 295,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1803",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1805",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:43",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "scorer": "#44 - Matt  Waggoner",
+      "assist1": "#95 - Patrick  OConnor",
+      "assist2": "#93 - Chris  Conley"
+    },
+    {
+      "period": "2",
+      "time": "00:14:28",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "scorer": "#95 - Patrick  OConnor",
+      "assist1": "#93 - Chris  Conley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#6 - Armand  Alacbay",
+      "assist1": "#33 - Brandon  Boling",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:26",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "scorer": "#44 - Matt  Waggoner",
+      "assist1": "#13 - Jim  Friel",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:02",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "scorer": "#4 - Howard  Ludwig",
+      "assist1": "#11 - Mark  Boyd",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:47",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "scorer": "#47 - Dave  LeKuch",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:11",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "scorer": "#72 - Anthony  Beverly",
+      "assist1": "#29 - James  Kim",
+      "assist2": "#4 - Howard  Ludwig"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:04:59",
+      "team": {
+        "teamId": "1805",
+        "name": "Blue Dogs"
+      },
+      "player": "#27 - Jamie  Prime",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "player": "#44 - Matt  Waggoner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:32:51.940Z"
+}

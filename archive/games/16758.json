@@ -1,0 +1,71 @@
+{
+  "gameId": "16758",
+  "date": "2024-03-29",
+  "divId": 279,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1718",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1719",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1719",
+        "name": "Old Goats"
+      },
+      "scorer": "#19 - Ira  Keltz",
+      "assist1": "#66 - Steven  Bennett",
+      "assist2": "#89 - Jay  Gobeil"
+    },
+    {
+      "period": "2",
+      "time": "00:13:59",
+      "team": {
+        "teamId": "1719",
+        "name": "Old Goats"
+      },
+      "scorer": "#19 - Ira  Keltz",
+      "assist1": "#21 - Michael  Hawthorne",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1718",
+        "name": "Blackskimmers"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:16:05.938Z"
+}

@@ -1,0 +1,150 @@
+{
+  "gameId": "15022",
+  "date": "2022-06-19",
+  "divId": 252,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1557",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1556",
+    "name": "Triassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:41",
+      "team": {
+        "teamId": "1556",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#10 - John  Foley",
+      "assist1": "#98 - Jeff  Bender",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:02",
+      "team": {
+        "teamId": "1556",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "1557",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#11 - Josh  Gilman",
+      "assist1": "#43 - Sky  McBride",
+      "assist2": "#89 - Sid  Han"
+    },
+    {
+      "period": "2",
+      "time": "00:05:29",
+      "team": {
+        "teamId": "1557",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#11 - Josh  Gilman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:00",
+      "team": {
+        "teamId": "1557",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#10 - Scott  Peterson",
+      "assist1": "#71 - Francis  Aul",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1557",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#71 - Francis  Aul",
+      "assist1": "#89 - Sid  Han",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:03",
+      "team": {
+        "teamId": "1557",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#16 - Dave  Smith",
+      "assist1": "#43 - Sky  McBride",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:08",
+      "team": {
+        "teamId": "1556",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": "#900 - Radislaw  Kaczor",
+      "assist2": "#84 - Devon  Thomas"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:23",
+      "team": {
+        "teamId": "1557",
+        "name": "Blackskimmers"
+      },
+      "player": "#22 - Adam  Bacon",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:39",
+      "team": {
+        "teamId": "1557",
+        "name": "Blackskimmers"
+      },
+      "player": "#16 - Dave  Smith",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:43:45.599Z"
+}

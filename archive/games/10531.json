@@ -1,0 +1,174 @@
+{
+  "gameId": "10531",
+  "date": "2017-05-09",
+  "divId": 164,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1052",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1049",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 4,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#79 - Jeff  Vandenberghe",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:19",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#26 - Jim  Silbermann",
+      "assist1": "#89 - Frank  Congel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:26",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": "#20 - Paul  Flood",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": "#89 - Frank  Congel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:07",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#12 - Steve  Brady",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:03",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#26 - Jim  Silbermann",
+      "assist1": "#89 - Frank  Congel",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:32",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#89 - Frank  Congel",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": "#9 - Rick  Cole"
+    },
+    {
+      "period": "3",
+      "time": "00:10:52",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#12 - Steve  Brady",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "1049",
+        "name": "Ice Dogs"
+      },
+      "player": "#20 - Paul  Flood",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:10:30.829Z"
+}

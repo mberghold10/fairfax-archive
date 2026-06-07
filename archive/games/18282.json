@@ -1,0 +1,143 @@
+{
+  "gameId": "18282",
+  "date": "2025-08-03",
+  "divId": 316,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1937",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "1933",
+    "name": "Jacks GreyBeards"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "1933",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#28 - Charles  Hale",
+      "assist1": "#8 - Rod  Wade",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1933",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#88 - Josh  Gilman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:42",
+      "team": {
+        "teamId": "1933",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#91 - Randy  Foster",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": "#27 - Andy  Rieger"
+    },
+    {
+      "period": "3",
+      "time": "00:01:51",
+      "team": {
+        "teamId": "1937",
+        "name": "Coyotes"
+      },
+      "scorer": "#16 - Nurali  Jamani",
+      "assist1": "#42 - Adam  Russell",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1933",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#16 - Bill  Thompson",
+      "assist1": "#28 - Charles  Hale",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:04",
+      "team": {
+        "teamId": "1937",
+        "name": "Coyotes"
+      },
+      "player": "#44 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1937",
+        "name": "Coyotes"
+      },
+      "player": "#47 - Rob  Schumann",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:49",
+      "team": {
+        "teamId": "1937",
+        "name": "Coyotes"
+      },
+      "player": "#64 - Bob  Fischer",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:33",
+      "team": {
+        "teamId": "1937",
+        "name": "Coyotes"
+      },
+      "player": "#42 - Adam  Russell",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:54:41.035Z"
+}

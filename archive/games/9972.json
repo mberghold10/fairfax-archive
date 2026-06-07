@@ -1,0 +1,224 @@
+{
+  "gameId": "9972",
+  "date": "2016-11-18",
+  "divId": 153,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "981",
+    "name": "Georgetown"
+  },
+  "away": {
+    "teamId": "985",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:21",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#16 - Bill  Thompson",
+      "assist1": "#21 - Steve  Chan",
+      "assist2": "#77 - Oleg  Nayandin"
+    },
+    {
+      "period": "1",
+      "time": "00:13:59",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "scorer": "#12 - Aidan  Neustadl",
+      "assist1": "#23 - Austin  Yager",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:35",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "scorer": "#5 - Ryan  LaDuke",
+      "assist1": "#68 - Daniel  Milzman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#91 - Zane  Ziebell",
+      "assist1": "#3 - Jeff  Regan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:49",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "scorer": "#23 - Austin  Yager",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:59",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "scorer": "#23 - Austin  Yager",
+      "assist1": "#12 - Aidan  Neustadl",
+      "assist2": "#11 - Mac  Mitchell"
+    },
+    {
+      "period": "3",
+      "time": "00:03:53",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "scorer": "#77 - Vincent  Walsh",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#3 - Jeff  Regan",
+      "assist2": "#16 - Bill  Thompson"
+    },
+    {
+      "period": "3",
+      "time": "00:07:29",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:40",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "scorer": "#5 - Ryan  LaDuke",
+      "assist1": "#11 - Mac  Mitchell",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "player": "#16 - Bill  Thompson",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "player": "#66 - Sean  McGrann",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:02",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "player": "#91 - Zane  Ziebell",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:14",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "player": "#23 - Austin  Yager",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:53",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "player": "#12 - Aidan  Neustadl",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:53",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "player": "#91 - Zane  Ziebell",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:56:33.268Z"
+}

@@ -1,0 +1,117 @@
+{
+  "gameId": "11385",
+  "date": "2018-02-19",
+  "divId": 175,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1119",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1113",
+    "name": "Bushwood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:10",
+      "team": {
+        "teamId": "1113",
+        "name": "Bushwood"
+      },
+      "scorer": "#56 - Jason  Surrencey",
+      "assist1": "#14 - Matthew  MacVicar",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "1119",
+        "name": "Chiefs"
+      },
+      "scorer": "#92 - Zach  Angeline",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:55",
+      "team": {
+        "teamId": "1113",
+        "name": "Bushwood"
+      },
+      "scorer": "#4 - Mike  Diszik",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:29",
+      "team": {
+        "teamId": "1119",
+        "name": "Chiefs"
+      },
+      "scorer": "#22 - James  Stegmann",
+      "assist1": "#92 - Zach  Angeline",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:17",
+      "team": {
+        "teamId": "1119",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Rich  Wagner",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:40",
+      "team": {
+        "teamId": "1119",
+        "name": "Chiefs"
+      },
+      "player": "#5 - James  Miller",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:42",
+      "team": {
+        "teamId": "1119",
+        "name": "Chiefs"
+      },
+      "player": "#6 - Mike  Benyo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:24:22.740Z"
+}

@@ -1,0 +1,95 @@
+{
+  "gameId": "16888",
+  "date": "2024-03-16",
+  "divId": 284,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1746",
+    "name": "Hershey"
+  },
+  "away": {
+    "teamId": "1745",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:25",
+      "team": {
+        "teamId": "1746",
+        "name": "Hershey"
+      },
+      "scorer": "#38 - Josh  Savani",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:15:02",
+      "team": {
+        "teamId": "1746",
+        "name": "Hershey"
+      },
+      "scorer": "#8 - Tim  Lo",
+      "assist1": "#1 - Thomas  Newberg",
+      "assist2": "#38 - Josh  Savani"
+    },
+    {
+      "period": "3",
+      "time": "00:09:35",
+      "team": {
+        "teamId": "1746",
+        "name": "Hershey"
+      },
+      "scorer": "#35 - Robert  Carbo",
+      "assist1": "#81 - David  Culberhouse",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:24",
+      "team": {
+        "teamId": "1745",
+        "name": "Thunder"
+      },
+      "player": "#24 - Mike  Plourde",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:22",
+      "team": {
+        "teamId": "1745",
+        "name": "Thunder"
+      },
+      "player": "#100 - Goalie  Substitue",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:21:42.682Z"
+}

@@ -1,0 +1,117 @@
+{
+  "gameId": "10085",
+  "date": "2016-10-22",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1024",
+    "name": "Bad Leafs"
+  },
+  "away": {
+    "teamId": "1017",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "scorer": "#13 - Trevor  Wallace",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "1017",
+        "name": "Dragons"
+      },
+      "scorer": "#74 - Andy  Bennett",
+      "assist1": "#15 - Chad  Hargrove",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "1017",
+        "name": "Dragons"
+      },
+      "scorer": "#13 - Jeff  Willard",
+      "assist1": "#4 - Andy  Menke",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1017",
+        "name": "Dragons"
+      },
+      "scorer": "#77 - Dylan  Gerhard",
+      "assist1": "#11 - Andy  Jones",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:45",
+      "team": {
+        "teamId": "1017",
+        "name": "Dragons"
+      },
+      "scorer": "#14 - James  Miller",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:14:56",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "player": "#20 - Bao  Pham",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:56",
+      "team": {
+        "teamId": "1024",
+        "name": "Bad Leafs"
+      },
+      "player": "#20 - Bao  Pham",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:04:08.998Z"
+}

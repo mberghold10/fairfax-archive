@@ -1,0 +1,108 @@
+{
+  "gameId": "12497",
+  "date": "2019-02-24",
+  "divId": 193,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1228",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1225",
+    "name": "Steamed Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:40",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "scorer": "#17 - Emma  Alperin",
+      "assist1": "#74 - Andy  Bennett",
+      "assist2": "#3 - Ilana  Bell"
+    },
+    {
+      "period": "1",
+      "time": "00:14:55",
+      "team": {
+        "teamId": "1225",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#43 - Steve  Sincavage",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:46",
+      "team": {
+        "teamId": "1225",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#90 - Andrew  Mayen",
+      "assist1": "#29 - James  Chu",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:54",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "player": "#13 - Jeff  Willard",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:56",
+      "team": {
+        "teamId": "1225",
+        "name": "Steamed Crabs"
+      },
+      "player": "#43 - Steve  Sincavage",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:36",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "player": "#68 - Matt  Taylor",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:46:36.663Z"
+}

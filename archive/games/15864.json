@@ -1,0 +1,82 @@
+{
+  "gameId": "15864",
+  "date": "2023-05-14",
+  "divId": 272,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1675",
+    "name": "Anonymous"
+  },
+  "away": {
+    "teamId": "1681",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:23",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "scorer": "#47 - Talbot  Black",
+      "assist1": "#54 - Jerry  Gibbons",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:11",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "scorer": "#4 - Jon  Conmy",
+      "assist1": "#81 - Nate  Breton",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:24",
+      "team": {
+        "teamId": "1675",
+        "name": "Anonymous"
+      },
+      "scorer": "#24 - Mike  Sheridan",
+      "assist1": "#11 - Tom  Fergus",
+      "assist2": "#88 - Peter  Dallman"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "player": "#27 - C  Cashin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:06:54.220Z"
+}

@@ -1,0 +1,126 @@
+{
+  "gameId": "930",
+  "date": "2018-10-03",
+  "divId": 183,
+  "seasonName": "Summer 2018",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1162",
+    "name": "Bulldogs"
+  },
+  "away": {
+    "teamId": "1167",
+    "name": "Blackhawks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:27",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#18 - Steve  Percival",
+      "assist1": "#24 - Brian  Crossin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:15",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#88 - Matt  Tiede",
+      "assist1": "#23 - Brian  McArthur",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#19 - Jon  Forrester",
+      "assist1": "#28 - Jack  Wilmer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:39",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#55 - Dan  Middleton",
+      "assist1": "#18 - Steve  Percival",
+      "assist2": "#23 - Brian  McArthur"
+    },
+    {
+      "period": "2",
+      "time": "00:12:41",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#55 - Dan  Middleton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:24",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#23 - Brian  McArthur",
+      "assist1": "#19 - Jon  Forrester",
+      "assist2": "#55 - Dan  Middleton"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:11:07",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "player": "#18 - Steve  Percival",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:34:24.625Z"
+}

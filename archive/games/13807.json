@@ -1,0 +1,95 @@
+{
+  "gameId": "13807",
+  "date": "2020-10-19",
+  "divId": 219,
+  "seasonName": "Fall 2020",
+  "mode": "regular",
+  "home": {
+    "teamId": "1380",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1381",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:39",
+      "team": {
+        "teamId": "1380",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#33 - Paul  Flood",
+      "assist1": "#42 - Adam  Russell",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:22",
+      "team": {
+        "teamId": "1380",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#71 - Dan  Cosentino",
+      "assist1": "#91 - Michael  Clarke",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:04",
+      "team": {
+        "teamId": "1380",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#88 - Matt  Tiede",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "1381",
+        "name": "Avalanche"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:46",
+      "team": {
+        "teamId": "1380",
+        "name": "Blue Crabs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:16:09.146Z"
+}

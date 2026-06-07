@@ -1,0 +1,82 @@
+{
+  "gameId": "11202",
+  "date": "2017-11-05",
+  "divId": 178,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1138",
+    "name": "Steamed Crabs"
+  },
+  "away": {
+    "teamId": "1137",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "1138",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#29 - James  Chu",
+      "assist1": "#88 - Pat  Lockett",
+      "assist2": "#9 - Dave  Baker"
+    },
+    {
+      "period": "3",
+      "time": "00:02:55",
+      "team": {
+        "teamId": "1137",
+        "name": "Rink Rats"
+      },
+      "scorer": "#40 - Brandon  Honeycutt",
+      "assist1": "#9 - Maddy  Padgett",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:12",
+      "team": {
+        "teamId": "1138",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#7 - Skylor  Dinnan",
+      "assist1": "#88 - Pat  Lockett",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "1137",
+        "name": "Rink Rats"
+      },
+      "player": "#40 - Brandon  Honeycutt",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:28:08.302Z"
+}

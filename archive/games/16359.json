@@ -1,0 +1,73 @@
+{
+  "gameId": "16359",
+  "date": "2023-08-20",
+  "divId": 274,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1692",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1691",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:04:41",
+      "team": {
+        "teamId": "1692",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#18 - Lee  Freedman",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": "#23 - Brian  Ladd"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:00",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "player": "#79 - Sean  Longanecker",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "1691",
+        "name": "Thunder"
+      },
+      "player": "#44 - Matthew  Waggoner",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:10:23.750Z"
+}

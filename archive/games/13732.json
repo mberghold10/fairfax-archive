@@ -1,0 +1,106 @@
+{
+  "gameId": "13732",
+  "date": "2020-02-16",
+  "divId": 216,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1368",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1365",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "scorer": "#12 - John  Porvaznik",
+      "assist1": "#19 - Christopher  Chlosta",
+      "assist2": "#31 - Zack  Furness"
+    },
+    {
+      "period": "3",
+      "time": "00:05:38",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "scorer": "#46 - Charlie  Fancher",
+      "assist1": "#23 - Eric  Vanhove",
+      "assist2": "#37 - Christal  Cudworth"
+    },
+    {
+      "period": "3",
+      "time": "00:07:26",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#20 - David  Humes",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:46",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#95 - Keith  Crawford",
+      "assist1": "#25 - James  Chu",
+      "assist2": "#16 - Wei  Wang"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:07",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "player": "#19 - Tristan  Anderson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "player": "#46 - Charlie  Fancher",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:14:27.361Z"
+}

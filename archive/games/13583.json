@@ -1,0 +1,115 @@
+{
+  "gameId": "13583",
+  "date": "2020-02-09",
+  "divId": 211,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1337",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1332",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:38",
+      "team": {
+        "teamId": "1337",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#9 - Julien  Degrandpre",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:43",
+      "team": {
+        "teamId": "1337",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#15 - Jim  Lane",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "1332",
+        "name": "Lightning"
+      },
+      "scorer": "#88 - Daniel  Lange",
+      "assist1": "#6 - Eric  Rhoden",
+      "assist2": "#22 - Chris  Simmons"
+    },
+    {
+      "period": "2",
+      "time": "00:09:16",
+      "team": {
+        "teamId": "1332",
+        "name": "Lightning"
+      },
+      "scorer": "#42 - Ryan  Bruun",
+      "assist1": "#22 - Chris  Simmons",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1337",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#64 - Evgenii  Vaniukov",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:32",
+      "team": {
+        "teamId": "1337",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#89 - Sid  Han",
+      "assist1": "#20 - Brent  Jefferson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:10:47",
+      "team": {
+        "teamId": "1332",
+        "name": "Lightning"
+      },
+      "player": "#46 - Charlie  Fancher",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:08:05.187Z"
+}

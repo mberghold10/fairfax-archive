@@ -1,0 +1,237 @@
+{
+  "gameId": "13563",
+  "date": "2020-03-02",
+  "divId": 210,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1329",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1331",
+    "name": "Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:02",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": "#9 - Kim  Sherrock",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:50",
+      "team": {
+        "teamId": "1329",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#71 - Dan  Cosentino",
+      "assist2": "#9 - Steve  Tarditi"
+    },
+    {
+      "period": "2",
+      "time": "00:01:51",
+      "team": {
+        "teamId": "1329",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#71 - Dan  Cosentino",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:35",
+      "team": {
+        "teamId": "1329",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#7 - Kevin  Brooks",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#4 - Stephen  Bradley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:02",
+      "team": {
+        "teamId": "1329",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:43",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "scorer": "#9 - Kim  Sherrock",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:16",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "player": "#17 - Dan  Pol",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:54",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "player": "#12 - David  OMalley",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:33",
+      "team": {
+        "teamId": "1329",
+        "name": "Blue Crabs"
+      },
+      "player": "#5 - Ashton  Moss",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:33",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "player": "#37 - Nick  Desport",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "1329",
+        "name": "Blue Crabs"
+      },
+      "player": "#25 - Steve  Tamburo",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:48",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "player": "#12 - David  OMalley",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:06",
+      "team": {
+        "teamId": "1331",
+        "name": "Punishers"
+      },
+      "player": "#40 - Matt  Mickelson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:06:55.839Z"
+}

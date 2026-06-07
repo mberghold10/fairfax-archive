@@ -1,0 +1,119 @@
+{
+  "gameId": "13377",
+  "date": "2019-12-20",
+  "divId": 212,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1338",
+    "name": "Triassic Puck"
+  },
+  "away": {
+    "teamId": "1342",
+    "name": "Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1342",
+        "name": "Rats"
+      },
+      "scorer": "#23 - Dan  Bardo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:55",
+      "team": {
+        "teamId": "1342",
+        "name": "Rats"
+      },
+      "scorer": "#23 - Dan  Bardo",
+      "assist1": "#13 - John  Bereza",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:58",
+      "team": {
+        "teamId": "1338",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#10 - Radek  Kaczor",
+      "assist1": "#92 - Caleb  Adams",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:28",
+      "team": {
+        "teamId": "1342",
+        "name": "Rats"
+      },
+      "scorer": "#13 - John  Bereza",
+      "assist1": "#22 - Matthew  Thrasher",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "1338",
+        "name": "Triassic Puck"
+      },
+      "player": "#17 - Mike  Jensen",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "1342",
+        "name": "Rats"
+      },
+      "player": "#22 - Matthew  Thrasher",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:51",
+      "team": {
+        "teamId": "1342",
+        "name": "Rats"
+      },
+      "player": "#6 - Hugo  Guzman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:08:54.570Z"
+}

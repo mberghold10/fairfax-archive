@@ -1,0 +1,106 @@
+{
+  "gameId": "14082",
+  "date": "2021-07-12",
+  "divId": 229,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1434",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1436",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1436",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": "#12 - Briet  Ilan"
+    },
+    {
+      "period": "1",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "1436",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#12 - Briet  Ilan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:48",
+      "team": {
+        "teamId": "1436",
+        "name": "Hurricanes"
+      },
+      "scorer": "#81 - Pete  Poczatek",
+      "assist1": "#93 - Jeff  Nauer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "1434",
+        "name": "Wolves"
+      },
+      "scorer": "#25 - Joe  DeNoyior",
+      "assist1": "#5 - Steve  Crespy",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:16",
+      "team": {
+        "teamId": "1434",
+        "name": "Wolves"
+      },
+      "player": "#26 - Phillip  Hogan",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:46",
+      "team": {
+        "teamId": "1434",
+        "name": "Wolves"
+      },
+      "player": "#65 - Stuart  Hoffman",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:23:14.372Z"
+}

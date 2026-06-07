@@ -1,0 +1,117 @@
+{
+  "gameId": "10136",
+  "date": "2016-11-27",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1017",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1021",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "scorer": "#32 - Clayton  Clyburn",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "1017",
+        "name": "Dragons"
+      },
+      "scorer": "#15 - Chad  Hargrove",
+      "assist1": "#14 - James  Miller",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "scorer": "#11 - Corbin  Neiberline",
+      "assist1": "#6 - Eric  Rhoden",
+      "assist2": "#8 - Mike  Dmytrewycz"
+    },
+    {
+      "period": "3",
+      "time": "00:02:13",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "scorer": "#6 - Eric  Rhoden",
+      "assist1": "#33 - Mike  Wagner",
+      "assist2": "#24 - Stephen  Fortier"
+    },
+    {
+      "period": "3",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "scorer": "#23 - Scott  Chapman",
+      "assist1": "#8 - Mike  Dmytrewycz",
+      "assist2": "#11 - Corbin  Neiberline"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:47",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#8 - Mike  Dmytrewycz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:38",
+      "team": {
+        "teamId": "1017",
+        "name": "Dragons"
+      },
+      "player": "#13 - Jeff  Willard",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:04:27.018Z"
+}

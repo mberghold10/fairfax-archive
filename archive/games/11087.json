@@ -1,0 +1,150 @@
+{
+  "gameId": "11087",
+  "date": "2017-12-02",
+  "divId": 174,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1111",
+    "name": "DeYoung Money"
+  },
+  "away": {
+    "teamId": "1108",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:49",
+      "team": {
+        "teamId": "1108",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "1108",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": "#9 - James  Boland",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:23",
+      "team": {
+        "teamId": "1111",
+        "name": "DeYoung Money"
+      },
+      "scorer": "#25 - Nick  Strunk",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:16",
+      "team": {
+        "teamId": "1108",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#12 - Steven  Courson",
+      "assist1": "#9 - James  Boland",
+      "assist2": "#14 - James  Miller"
+    },
+    {
+      "period": "2",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "1111",
+        "name": "DeYoung Money"
+      },
+      "scorer": "#96 - Alex  DeYoung",
+      "assist1": "#88 - Chris  Peterkin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "1108",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#12 - Steven  Courson",
+      "assist1": "#24 - Jeff  Robins",
+      "assist2": "#8 - Tyler  Jones"
+    },
+    {
+      "period": "3",
+      "time": "00:00:04",
+      "team": {
+        "teamId": "1111",
+        "name": "DeYoung Money"
+      },
+      "scorer": "#25 - Nick  Strunk",
+      "assist1": "# -",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1111",
+        "name": "DeYoung Money"
+      },
+      "scorer": "#82 - Alex  Strunk",
+      "assist1": "#25 - Nick  Strunk",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:56",
+      "team": {
+        "teamId": "1111",
+        "name": "DeYoung Money"
+      },
+      "player": "#96 - Alex  DeYoung",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "1108",
+        "name": "British Bulldogs"
+      },
+      "player": "#14 - James  Miller",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:22:30.565Z"
+}

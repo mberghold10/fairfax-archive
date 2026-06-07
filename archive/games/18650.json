@@ -1,0 +1,226 @@
+{
+  "gameId": "18650",
+  "date": "2026-02-28",
+  "divId": 321,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1968",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1965",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#4 - Sean  Courtney",
+      "assist1": "#11 - Scott  Choronzy",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#17 - Cory  Schneid",
+      "assist1": "#22 - Andrew  Justus",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:26",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#91 - Jake  Barnett",
+      "assist1": "#51 - Stewart  Schuler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#17 - Cory  Schneid",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:17",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#4 - Sean  Courtney",
+      "assist1": "#44 - Scott  Kuehn",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:26",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#8 - Mike  Carr",
+      "assist1": "#17 - Cory  Schneid",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:44",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#40 - Mikail  Serebrennikov",
+      "assist1": "#51 - Stewart  Schuler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#91 - Jake  Barnett",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:28",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#12 - Steven  Courson",
+      "assist1": "#20 - Mike  McLenahan",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "player": "#40 - Mikail  Serebrennikov",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "player": "#44 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:29",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "player": "#51 - Stewart  Schuler",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:54",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "player": "#33 - Hung  Pham",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:36",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "player": "#22 - Andrew  Justus",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:47",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "player": "#4 - Sean  Courtney",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:38:09.691Z"
+}

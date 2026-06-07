@@ -1,0 +1,82 @@
+{
+  "gameId": "15019",
+  "date": "2022-06-11",
+  "divId": 252,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1558",
+    "name": "Red Dragons"
+  },
+  "away": {
+    "teamId": "1559",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:26",
+      "team": {
+        "teamId": "1559",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#36 - Brian  Lusby",
+      "assist1": "#9 - Paul  Moretti",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1559",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#66 - Harry  Patrinos",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1559",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#21 - Steve  Kaplan",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": "#9 - Paul  Moretti"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:37",
+      "team": {
+        "teamId": "1558",
+        "name": "Red Dragons"
+      },
+      "player": "#3 - Ilana  Bell",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:43:42.503Z"
+}

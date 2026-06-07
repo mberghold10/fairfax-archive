@@ -1,0 +1,202 @@
+{
+  "gameId": "19066",
+  "date": "2026-04-18",
+  "divId": 326,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2011",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "2014",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "2011",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": "#5 - Oleg  Kolodin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:05",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#19 - Mike  Carr",
+      "assist1": "#17 - Diron  Insley",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:52",
+      "team": {
+        "teamId": "2011",
+        "name": "Team USA"
+      },
+      "scorer": "#54 - Dan  Bagley",
+      "assist1": "#10 - Mike  Brahmey",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:02",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#19 - Mike  Carr",
+      "assist1": "#68 - Jeff  Gilmore",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:56",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#17 - Diron  Insley",
+      "assist1": "#13 - Bob  Seal",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:45",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#17 - Diron  Insley",
+      "assist1": "#19 - Mike  Carr",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:45",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#19 - Mike  Carr",
+      "assist1": "#17 - Diron  Insley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:34",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#68 - Jeff  Gilmore",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:43",
+      "team": {
+        "teamId": "2011",
+        "name": "Team USA"
+      },
+      "player": "#18 - Pete  Poczatek",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:28",
+      "team": {
+        "teamId": "2011",
+        "name": "Team USA"
+      },
+      "player": "#8 - Jamie  Sengheiser",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "player": "#40 - Misha  Serebrennikov",
+      "pim": 5,
+      "offense": "kicking",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "player": "#40 - Misha  Serebrennikov",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:51",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "player": "#43 - Henry  Weisiger",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "player": "#43 - Henry  Weisiger",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:06:14.233Z"
+}

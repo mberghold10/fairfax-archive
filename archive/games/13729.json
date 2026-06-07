@@ -1,0 +1,117 @@
+{
+  "gameId": "13729",
+  "date": "2020-02-01",
+  "divId": 216,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1365",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1364",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "scorer": "#37 - Christal  Cudworth",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:17",
+      "team": {
+        "teamId": "1364",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#77 - Scott  Peterson",
+      "assist1": "#44 - George  Cernica",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:15:13",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "scorer": "#75 - Danny  Normandeau",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:15:39",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "scorer": "# -",
+      "assist1": null,
+      "assist2": "#75 - Danny  Normandeau"
+    },
+    {
+      "period": "3",
+      "time": "00:07:17",
+      "team": {
+        "teamId": "1364",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#74 - Matthew  Santos",
+      "assist1": "#4 - Jonathan  Carter",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:13",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "player": "#30 - Brandon  Henier",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:16",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:14:24.353Z"
+}

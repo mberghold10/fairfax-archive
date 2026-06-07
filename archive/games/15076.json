@@ -1,0 +1,158 @@
+{
+  "gameId": "15076",
+  "date": "2022-06-09",
+  "divId": 254,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1565",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1566",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:29",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#13 - Phil  Wind",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:04",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "scorer": "#13 - Phil  Wind",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:27",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "scorer": "#25 - Malcolm  Hyson",
+      "assist1": "#23 - Greg  Thomas",
+      "assist2": "#8 - Dan  Brehm"
+    },
+    {
+      "period": "3",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "scorer": "#27 - Mike  Hueple",
+      "assist1": "#12 - Adam  Jungdahl",
+      "assist2": "#22 - Ed  Gulakowski"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "Interference",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:34",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "player": "#17 - Dan  Pol",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:29",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "player": "#3 - Dick  Deitos",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "1565",
+        "name": "Flying Circus"
+      },
+      "player": "#66 - Chris  Yoko",
+      "pim": 1,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "Rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "player": "#62 - Phil  Tivel",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:45:54.645Z"
+}

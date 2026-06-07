@@ -1,0 +1,274 @@
+{
+  "gameId": "13027",
+  "date": "2019-09-01",
+  "divId": 201,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1279",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1277",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "scorer": "#12 - Kevin  Bowser",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": "#13 - Brian  Harmon",
+      "assist2": "#93 - Jeff  Nauer"
+    },
+    {
+      "period": "2",
+      "time": "00:14:46",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#16 - Marc  Franciszkov",
+      "assist1": "#71 - Mike  McLenahar",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "scorer": "#13 - Brian  Harmon",
+      "assist1": "#12 - Kevin  Bowser",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:54",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#25 - Joe  Denoyior",
+      "assist1": "#33 - Dmitriy  Achapkin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:03",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#20 - Dave  Humes",
+      "assist1": "#33 - Dmitriy  Achapkin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:33",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "scorer": "#13 - Brian  Harmon",
+      "assist1": "#93 - Jeff  Nauer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:10",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": "#6 - Kelly  Harmon",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:38",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#16 - Marc  Franciszkov",
+      "assist1": "#26 - Philip  Hogan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:36",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": "#9 - Rick  Cole",
+      "assist2": "#3 - Scott  Henry"
+    },
+    {
+      "period": "3",
+      "time": "00:14:13",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "scorer": "#16 - Marc  Franciszkov",
+      "assist1": "#61 - Mike  Prame",
+      "assist2": "#33 - Dmitriy  Achapkin"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "player": "#12 - Kevin  Bowser",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "player": "#24 - Jeff  Robins",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "player": "#25 - Joe  Denoyior",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:55",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "player": "#88 - Steven  Schooner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:46",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "player": "#88 - Steven  Schooner",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:03",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "player": "#19 - Jason  Long",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:33",
+      "team": {
+        "teamId": "1279",
+        "name": "Hurricanes"
+      },
+      "player": "#6 - Kelly  Harmon",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:12",
+      "team": {
+        "teamId": "1277",
+        "name": "Wolves"
+      },
+      "player": "#26 - Philip  Hogan",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:56:55.403Z"
+}

@@ -1,0 +1,128 @@
+{
+  "gameId": "16357",
+  "date": "2023-08-18",
+  "divId": 274,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1689",
+    "name": "Hershey"
+  },
+  "away": {
+    "teamId": "1690",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:15",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#7 - Graham  Eddy",
+      "assist1": "#33 - Scott  Coco",
+      "assist2": "#96 - Jeff  Moore"
+    },
+    {
+      "period": "2",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#4 - Rob  Ryan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:53",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#54 - Scott  Knisley",
+      "assist1": "#1 - Thomas  Newberg",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:43",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#1 - Thomas  Newberg",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#9 - Alex  Mench",
+      "assist1": "#4 - Rob  Ryan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#96 - Jeff  Moore",
+      "assist1": "#88 - Jason  Searight",
+      "assist2": "#33 - Scott  Coco"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:05",
+      "team": {
+        "teamId": "1690",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#43 - Alex  Langsam",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:16:01",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "player": "#43 - James  Kim",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:10:21.801Z"
+}

@@ -1,0 +1,121 @@
+{
+  "gameId": "17473",
+  "date": "2024-10-13",
+  "divId": 297,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1826",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1829",
+    "name": "Pharaohs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:11",
+      "team": {
+        "teamId": "1829",
+        "name": "Pharaohs"
+      },
+      "scorer": "#47 - Dylan  Thomas",
+      "assist1": "#28 - Michael  Berghold",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:42",
+      "team": {
+        "teamId": "1829",
+        "name": "Pharaohs"
+      },
+      "scorer": "#47 - Dylan  Thomas",
+      "assist1": "#22 - Patrick  Smith",
+      "assist2": "#28 - Michael  Berghold"
+    },
+    {
+      "period": "3",
+      "time": "00:05:04",
+      "team": {
+        "teamId": "1829",
+        "name": "Pharaohs"
+      },
+      "scorer": "#47 - Dylan  Thomas",
+      "assist1": "#28 - Michael  Berghold",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1826",
+        "name": "Blue Crabs"
+      },
+      "player": "#100 - Goalie  Substitue",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "1829",
+        "name": "Pharaohs"
+      },
+      "player": "#28 - Michael  Berghold",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:23",
+      "team": {
+        "teamId": "1829",
+        "name": "Pharaohs"
+      },
+      "player": "#84 - Devon  Thomas",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "1829",
+        "name": "Pharaohs"
+      },
+      "player": "#22 - Patrick  Smith",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:34:40.273Z"
+}

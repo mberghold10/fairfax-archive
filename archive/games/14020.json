@@ -1,0 +1,167 @@
+{
+  "gameId": "14020",
+  "date": "2021-05-02",
+  "divId": 227,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1426",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "1425",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:07:49",
+      "team": {
+        "teamId": "1425",
+        "name": "Dragons"
+      },
+      "scorer": "#42 - David  Hagemeier",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:00",
+      "team": {
+        "teamId": "1426",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#32 - Jeff  Hunter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:26",
+      "team": {
+        "teamId": "1425",
+        "name": "Dragons"
+      },
+      "scorer": "#95 - Mick  Starego",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:36",
+      "team": {
+        "teamId": "1425",
+        "name": "Dragons"
+      },
+      "scorer": "#42 - David  Hagemeier",
+      "assist1": "#94 - Mike  Starego",
+      "assist2": "#88 - Maddy  Padgett"
+    },
+    {
+      "period": "3",
+      "time": "00:02:16",
+      "team": {
+        "teamId": "1425",
+        "name": "Dragons"
+      },
+      "scorer": "#61 - Tommy  Ripke",
+      "assist1": "#95 - Mick  Starego",
+      "assist2": "#88 - Maddy  Padgett"
+    },
+    {
+      "period": "3",
+      "time": "00:03:44",
+      "team": {
+        "teamId": "1426",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#33 - Brandon  Boling",
+      "assist1": "#32 - Jeff  Hunter",
+      "assist2": "#18 - Lee  Freedman"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:24",
+      "team": {
+        "teamId": "1425",
+        "name": "Dragons"
+      },
+      "player": "#42 - David  Hagemeier",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:56",
+      "team": {
+        "teamId": "1426",
+        "name": "Mad Dogs"
+      },
+      "player": "#36 - Brian  Lusby",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1425",
+        "name": "Dragons"
+      },
+      "player": "#88 - Maddy  Padgett",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1426",
+        "name": "Mad Dogs"
+      },
+      "player": "#36 - Brian  Lusby",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "1425",
+        "name": "Dragons"
+      },
+      "player": "#42 - David  Hagemeier",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:21:31.813Z"
+}

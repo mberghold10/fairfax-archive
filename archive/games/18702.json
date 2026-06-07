@@ -1,0 +1,104 @@
+{
+  "gameId": "18702",
+  "date": "2025-12-28",
+  "divId": 323,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1982",
+    "name": "Horne Dogs"
+  },
+  "away": {
+    "teamId": "1980",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:35",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#23 - Brian  Ladd",
+      "assist1": "#79 - Jeff  Vandenberghe",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:56",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "scorer": "#16 - Kiran  Manikarnika",
+      "assist1": "#69 - Matthew  Rayder",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:24",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "scorer": "#900 - Vic  Starego",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#87 - Ryan  Young",
+      "assist1": "#5 - Matt  Jenkins",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#23 - Brian  Ladd",
+      "assist1": "#93 - Robet  Wagner",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:07:07",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "player": "#5 - Matt  Jenkins",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:02:11.607Z"
+}

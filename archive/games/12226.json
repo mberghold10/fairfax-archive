@@ -1,0 +1,117 @@
+{
+  "gameId": "12226",
+  "date": "2018-11-16",
+  "divId": 193,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1228",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1227",
+    "name": "Sparks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1227",
+        "name": "Sparks"
+      },
+      "scorer": "#4 - Matt  Gelman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1227",
+        "name": "Sparks"
+      },
+      "scorer": "#47 - David  LeKuch",
+      "assist1": "#4 - Matt  Gelman",
+      "assist2": "#10 - Tony  Henseler"
+    },
+    {
+      "period": "2",
+      "time": "00:09:57",
+      "team": {
+        "teamId": "1227",
+        "name": "Sparks"
+      },
+      "scorer": "#4 - Matt  Gelman",
+      "assist1": "#47 - David  LeKuch",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:55",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "scorer": "#10 - Josiah  Renton",
+      "assist1": "#77 - Dylan  Gerhard",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "scorer": "#77 - Dylan  Gerhard",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:34",
+      "team": {
+        "teamId": "1227",
+        "name": "Sparks"
+      },
+      "player": "#47 - David  LeKuch",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:11",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "player": "#27 - Philip  Brooks",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:46:04.645Z"
+}

@@ -1,0 +1,178 @@
+{
+  "gameId": "12470",
+  "date": "2019-03-03",
+  "divId": 192,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1217",
+    "name": "Lightning"
+  },
+  "away": {
+    "teamId": "1223",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "1223",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#9 - Julien  De Grandpre",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:23",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "scorer": "#27 - Andrew  Sundelin",
+      "assist1": "#8 - Mike  Dmytrewycz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:53",
+      "team": {
+        "teamId": "1223",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#24 - Harry  Nicholakos",
+      "assist1": "#20 - Brent  Jefferson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:37",
+      "team": {
+        "teamId": "1223",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#9 - Julien  De Grandpre",
+      "assist1": "#64 - Evgenii  Vaniukov",
+      "assist2": "#6 - Matt  Johnson"
+    },
+    {
+      "period": "2",
+      "time": "00:07:56",
+      "team": {
+        "teamId": "1223",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#9 - Julien  De Grandpre",
+      "assist1": "#24 - Harry  Nicholakos",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1223",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#9 - Julien  De Grandpre",
+      "assist1": "#20 - Brent  Jefferson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:13",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "scorer": "#14 - Harvey  Denison",
+      "assist1": "#33 - Mike  Wagner",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:35",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "player": "#27 - Andrew  Sundelin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:12",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "player": "#88 - Daniel  Lange",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:56",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "player": "#42 - Ryan  Bruun",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "player": "#32 - Clayton  Clyburn",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1217",
+        "name": "Lightning"
+      },
+      "player": "#32 - Clayton  Clyburn",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:45:21.863Z"
+}

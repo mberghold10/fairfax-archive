@@ -1,0 +1,202 @@
+{
+  "gameId": "10236",
+  "date": "2017-02-21",
+  "divId": 153,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "981",
+    "name": "Georgetown"
+  },
+  "away": {
+    "teamId": "984",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:50",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "scorer": "#64 - Tyler  Ketchabaw",
+      "assist1": "#5 - Ryan  LaDuke",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "scorer": "#12 - Aidan  Neustadl",
+      "assist1": "#3 - Alex  Oster",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "scorer": "#11 - Mac  Mitchell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "984",
+        "name": "Ducks"
+      },
+      "scorer": "#91 - Rob  Fischer",
+      "assist1": "#3 - Chris  Marotta",
+      "assist2": "#18 - Sean  Gallucci"
+    },
+    {
+      "period": "2",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "984",
+        "name": "Ducks"
+      },
+      "scorer": "#27 - Laurent  Depouilly",
+      "assist1": "#15 - Todd  Martin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:51",
+      "team": {
+        "teamId": "984",
+        "name": "Ducks"
+      },
+      "scorer": "#94 - Kamal  Kaaoush",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:25",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "scorer": "#65 - Sam  Wopperer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:03",
+      "team": {
+        "teamId": "984",
+        "name": "Ducks"
+      },
+      "scorer": "#94 - Kamal  Kaaoush",
+      "assist1": "#91 - Rob  Fischer",
+      "assist2": "#55 - Bill  MacIntire"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:12",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "player": "#3 - Alex  Oster",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:48",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "player": "#64 - Tyler  Ketchabaw",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:21",
+      "team": {
+        "teamId": "984",
+        "name": "Ducks"
+      },
+      "player": "#94 - Kamal  Kaaoush",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "981",
+        "name": "Georgetown"
+      },
+      "player": "#67 - Daniel  Margol",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "984",
+        "name": "Ducks"
+      },
+      "player": "#28 - Konstantin  Silov",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "984",
+        "name": "Ducks"
+      },
+      "player": "#18 - Sean  Gallucci",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:56:58.232Z"
+}

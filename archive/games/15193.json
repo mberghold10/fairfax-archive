@@ -1,0 +1,218 @@
+{
+  "gameId": "15193",
+  "date": "2022-09-25",
+  "divId": 251,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1547",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1550",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 4,
+      "ot": 0,
+      "final": 9
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:55",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": "#89 - Brandon  Barhorst",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:33",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#17 - Zephan  Keehner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:34",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": "#2 - Payton  Oliveri",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:09",
+      "team": {
+        "teamId": "1547",
+        "name": "Rink Rats"
+      },
+      "scorer": "#25 - Dave  Brown",
+      "assist1": "#13 - John  Bereza",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "1547",
+        "name": "Rink Rats"
+      },
+      "scorer": "#13 - John  Bereza",
+      "assist1": "#23 - Dan  Bardo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:09",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#22 - Patrick  Smith",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:12",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#22 - Patrick  Smith",
+      "assist1": "#17 - Zephan  Keehner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:48",
+      "team": {
+        "teamId": "1547",
+        "name": "Rink Rats"
+      },
+      "scorer": "#13 - John  Bereza",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:32",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": "#89 - Brandon  Barhorst",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "1547",
+        "name": "Rink Rats"
+      },
+      "scorer": "#13 - John  Bereza",
+      "assist1": "#79 - Igor  Helman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:17",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#37 - Greg  Van Houten",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:48",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#11 - Jim  Wisniewski",
+      "assist1": "#10 - Radislaw  Kaczor",
+      "assist2": "#17 - Zephan  Keehner"
+    },
+    {
+      "period": "3",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#10 - Radislaw  Kaczor",
+      "assist1": "#17 - Zephan  Keehner",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1550",
+        "name": "Jurassic Puck"
+      },
+      "player": "#3 - Justin  Carpenter",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1547",
+        "name": "Rink Rats"
+      },
+      "player": "#37 - TJ  Wolf",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:23",
+      "team": {
+        "teamId": "1547",
+        "name": "Rink Rats"
+      },
+      "player": "#79 - Igor  Helman",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:43:10.656Z"
+}

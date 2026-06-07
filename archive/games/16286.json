@@ -1,0 +1,163 @@
+{
+  "gameId": "16286",
+  "date": "2023-08-03",
+  "divId": 272,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1680",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1676",
+    "name": "Flying Circus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:19",
+      "team": {
+        "teamId": "1680",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:08",
+      "team": {
+        "teamId": "1676",
+        "name": "Flying Circus"
+      },
+      "scorer": "#25 - Malcolm  Hyson",
+      "assist1": "#33 - Chris  Valko",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:03",
+      "team": {
+        "teamId": "1676",
+        "name": "Flying Circus"
+      },
+      "scorer": "#66 - Chris  Yoko",
+      "assist1": "#15 - Mike  Hempen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:13",
+      "team": {
+        "teamId": "1676",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Chris  Valko",
+      "assist1": "#66 - Chris  Yoko",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:07",
+      "team": {
+        "teamId": "1680",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:44",
+      "team": {
+        "teamId": "1676",
+        "name": "Flying Circus"
+      },
+      "scorer": "#27 - Mike  Heuple",
+      "assist1": "#33 - Chris  Valko",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:39",
+      "team": {
+        "teamId": "1680",
+        "name": "Team USA"
+      },
+      "scorer": "#77 - Dan  Miller",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:36",
+      "team": {
+        "teamId": "1676",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Chris  Valko",
+      "assist1": "#66 - Chris  Yoko",
+      "assist2": "#7 - Brendan  Ford"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:41",
+      "team": {
+        "teamId": "1676",
+        "name": "Flying Circus"
+      },
+      "player": "#66 - Chris  Yoko",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:24",
+      "team": {
+        "teamId": "1680",
+        "name": "Team USA"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "1680",
+        "name": "Team USA"
+      },
+      "player": "#25 - Stan  Torgovitsky",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:07:43.309Z"
+}

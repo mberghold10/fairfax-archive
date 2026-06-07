@@ -1,0 +1,178 @@
+{
+  "gameId": "10323",
+  "date": "2017-02-20",
+  "divId": 158,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1013",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1014",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#63 - Jeff  Hoffner",
+      "assist1": "#11 - Mike  Brobeck",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#3 - Daniel  Freudberg",
+      "assist1": "#11 - Mike  Brobeck",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:41",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "scorer": "#87 - Nate  Morello",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#3 - Daniel  Freudberg",
+      "assist1": "#22 - James  Stegmann",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Rich  Wagner",
+      "assist1": "#8 - Zach  Angeline",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:34",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "scorer": "#88 - Brian  Ray",
+      "assist1": "#91 - Chris  Callanan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:55",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "scorer": "#80 - Matt  Rogers",
+      "assist1": "#73 - Joshua  Schmand",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "player": "#6 - Mike  Benyo",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "player": "#88 - Brian  Ray",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "player": "#25 - Greg  Reece",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1013",
+        "name": "Chiefs"
+      },
+      "player": "#6 - Mike  Benyo",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1014",
+        "name": "Canucks"
+      },
+      "player": "#87 - Nate  Morello",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:03:28.009Z"
+}

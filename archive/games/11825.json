@@ -1,0 +1,239 @@
+{
+  "gameId": "11825",
+  "date": "2018-07-31",
+  "divId": 182,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1161",
+    "name": "Beltway Butchers"
+  },
+  "away": {
+    "teamId": "1159",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 4,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:35",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#15 - Tom  Sgroi",
+      "assist1": "#52 - Alan  Dappen",
+      "assist2": "#27 - Dave  Lin"
+    },
+    {
+      "period": "1",
+      "time": "00:08:58",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#98 - Bob  Shaw",
+      "assist1": "#27 - Dave  Lin",
+      "assist2": "#15 - Tom  Sgroi"
+    },
+    {
+      "period": "1",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#21 - Mike  Hawthorne",
+      "assist1": "#57 - Howard  Uman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:51",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#21 - Mike  Hawthorne",
+      "assist1": "#27 - Dave  Lin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:35",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#10 - Matt  Johnson",
+      "assist1": "#52 - Alan  Dappen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#57 - Howard  Uman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:17",
+      "team": {
+        "teamId": "1161",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#89 - Jim  Rathbone",
+      "assist1": "#21 - John  Elliott",
+      "assist2": "#12 - Allen  Lassinger"
+    },
+    {
+      "period": "2",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1161",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#86 - John  Persinger",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "1161",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#77 - Erik  Bergman",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1161",
+        "name": "Beltway Butchers"
+      },
+      "player": "#27 - Rob  Helfant",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:43",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "player": "#3 - Jim  Van Dyke",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "1161",
+        "name": "Beltway Butchers"
+      },
+      "player": "#89 - Jim  Rathbone",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:33",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "player": "#57 - Howard  Uman",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "player": "#3 - Jim  Van Dyke",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:49",
+      "team": {
+        "teamId": "1161",
+        "name": "Beltway Butchers"
+      },
+      "player": "#12 - Allen  Lassinger",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:49",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "player": "#15 - Tom  Sgroi",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "player": "#15 - Tom  Sgroi",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:32:45.958Z"
+}

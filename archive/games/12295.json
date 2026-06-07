@@ -1,0 +1,161 @@
+{
+  "gameId": "12295",
+  "date": "2018-12-27",
+  "divId": 195,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1237",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1238",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:33",
+      "team": {
+        "teamId": "1237",
+        "name": "Penguins"
+      },
+      "scorer": "#92 - Ilya  Kosolapov",
+      "assist1": "#10 - Brian  Land",
+      "assist2": "#2 - Shawn  Hatch"
+    },
+    {
+      "period": "1",
+      "time": "00:10:16",
+      "team": {
+        "teamId": "1238",
+        "name": "Coyotes"
+      },
+      "scorer": "#64 - Bob  Fischer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:28",
+      "team": {
+        "teamId": "1237",
+        "name": "Penguins"
+      },
+      "scorer": "#44 - George  Cassidy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:24",
+      "team": {
+        "teamId": "1237",
+        "name": "Penguins"
+      },
+      "scorer": "#24 - Max  Alexeev",
+      "assist1": "#10 - Brian  Land",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:49",
+      "team": {
+        "teamId": "1237",
+        "name": "Penguins"
+      },
+      "scorer": "#10 - Brian  Land",
+      "assist1": "#92 - Ilya  Kosolapov",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "1238",
+        "name": "Coyotes"
+      },
+      "scorer": "#7 - Paul  Flood",
+      "assist1": "#55 - Ken  Alm",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:46",
+      "team": {
+        "teamId": "1237",
+        "name": "Penguins"
+      },
+      "scorer": "#1 - Bob  Arnold",
+      "assist1": "#81 - Chris  Holden",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1238",
+        "name": "Coyotes"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": "#7 - Paul  Flood",
+      "assist2": "#55 - Ken  Alm"
+    },
+    {
+      "period": "3",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1238",
+        "name": "Coyotes"
+      },
+      "scorer": "#5 - Andy  Loggia",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": "#20 - Brent  Jefferson"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "1238",
+        "name": "Coyotes"
+      },
+      "player": "#5 - Andy  Loggia",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:43",
+      "team": {
+        "teamId": "1237",
+        "name": "Penguins"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:48:59.496Z"
+}

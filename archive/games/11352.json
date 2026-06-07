@@ -1,0 +1,73 @@
+{
+  "gameId": "11352",
+  "date": "2018-02-18",
+  "divId": 174,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1111",
+    "name": "DeYoung Money"
+  },
+  "away": {
+    "teamId": "1141",
+    "name": "Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:11:11",
+      "team": {
+        "teamId": "1111",
+        "name": "DeYoung Money"
+      },
+      "scorer": "#52 - Owen  OKeefe",
+      "assist1": "#96 - Alex  DeYoung",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:04:16",
+      "team": {
+        "teamId": "1141",
+        "name": "Bulldogs"
+      },
+      "player": "#12 - Dan  Butala",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:39",
+      "team": {
+        "teamId": "1111",
+        "name": "DeYoung Money"
+      },
+      "player": "#11 - Stephen  Arthur",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:22:52.464Z"
+}

@@ -1,0 +1,156 @@
+{
+  "gameId": "11313",
+  "date": "2018-01-16",
+  "divId": 173,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1104",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1105",
+    "name": "Senators"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "1104",
+        "name": "Wolves"
+      },
+      "scorer": "#18 - Jeff  Paget",
+      "assist1": "#9 - Shannon  Karner",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:06",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "scorer": "#13 - Phil  Wind",
+      "assist1": "#37 - Nick  Desport",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:09",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "scorer": "#13 - Phil  Wind",
+      "assist1": "#27 - Dave  Lin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "scorer": "#19 - Ira  Keltz",
+      "assist1": "#52 - Alen  Dappen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:54",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "scorer": "#34 - Marty  Gryski",
+      "assist1": "#13 - Phil  Wind",
+      "assist2": "#37 - Nick  Desport"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:51",
+      "team": {
+        "teamId": "1104",
+        "name": "Wolves"
+      },
+      "player": "#18 - Jeff  Paget",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "player": "#19 - Ira  Keltz",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1104",
+        "name": "Wolves"
+      },
+      "player": "#6 - Jon  Alford",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1104",
+        "name": "Wolves"
+      },
+      "player": "#65 - Stuart  Hoffman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1105",
+        "name": "Senators"
+      },
+      "player": "#98 - Bob  Shaw",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:21:40.928Z"
+}

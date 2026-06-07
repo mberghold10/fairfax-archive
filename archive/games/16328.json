@@ -1,0 +1,154 @@
+{
+  "gameId": "16328",
+  "date": "2023-08-06",
+  "divId": 273,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1686",
+    "name": "Gold Goats"
+  },
+  "away": {
+    "teamId": "1687",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:35",
+      "team": {
+        "teamId": "1686",
+        "name": "Gold Goats"
+      },
+      "scorer": "#26 - Bob  Shay",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:48",
+      "team": {
+        "teamId": "1686",
+        "name": "Gold Goats"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": "#26 - Bob  Shay",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:54",
+      "team": {
+        "teamId": "1687",
+        "name": "Hurricanes"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": "#93 - Jeff  Nauer",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1687",
+        "name": "Hurricanes"
+      },
+      "scorer": "#38 - Keith  Forsythe",
+      "assist1": "#0 - Ruben  Garcia",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1687",
+        "name": "Hurricanes"
+      },
+      "scorer": "#25 - Greg  Reece",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:28",
+      "team": {
+        "teamId": "1687",
+        "name": "Hurricanes"
+      },
+      "scorer": "#25 - Greg  Reece",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1687",
+        "name": "Hurricanes"
+      },
+      "player": "#100 - Goalie  Substitue",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "1687",
+        "name": "Hurricanes"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1687",
+        "name": "Hurricanes"
+      },
+      "player": "#25 - Greg  Reece",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "1686",
+        "name": "Gold Goats"
+      },
+      "player": "#3 - Dick  Deitos",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:09:11.979Z"
+}

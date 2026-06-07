@@ -1,0 +1,163 @@
+{
+  "gameId": "17713",
+  "date": "2025-01-16",
+  "divId": 306,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1875",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1877",
+    "name": "Anonymous"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:23",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "scorer": "#7 - Peter  Grose",
+      "assist1": "#24 - Mike  Sheridan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#8 - Jamie  Sengheiser",
+      "assist1": "#77 - Dan  Miller",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:08",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#77 - Dan  Miller",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "scorer": "#26 - Garrett  Burns",
+      "assist1": "#10 - Rob  Kocher",
+      "assist2": "#7 - Peter  Grose"
+    },
+    {
+      "period": "2",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "scorer": "#44 - Matt  Smith",
+      "assist1": "#7 - Peter  Grose",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:38",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "scorer": "#26 - Garrett  Burns",
+      "assist1": "#24 - Mike  Sheridan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:07",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "scorer": "#15 - Bob  Guckian",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:31",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "scorer": "#20 - Rich  Utano",
+      "assist1": "#98 - Matt  Criscolo",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:21",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "player": "#10 - Rob  Kocher",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1875",
+        "name": "Team USA"
+      },
+      "player": "#8 - Jamie  Sengheiser",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:04",
+      "team": {
+        "teamId": "1877",
+        "name": "Anonymous"
+      },
+      "player": "#10 - Rob  Kocher",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:43:59.308Z"
+}

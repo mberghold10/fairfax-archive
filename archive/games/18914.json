@@ -1,0 +1,196 @@
+{
+  "gameId": "18914",
+  "date": "2026-05-05",
+  "divId": 321,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1968",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1969",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:12",
+      "team": {
+        "teamId": "1969",
+        "name": "Dragons"
+      },
+      "scorer": "#55 - Griffin  Bryce",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:06",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#2 - Ari  Loggia",
+      "assist1": "#68 - Samson  Chu",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1969",
+        "name": "Dragons"
+      },
+      "scorer": "#80 - Ethan  Hoffman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "1969",
+        "name": "Dragons"
+      },
+      "scorer": "#57 - Dylan  Thomas",
+      "assist1": "#55 - Griffin  Bryce",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#2 - Ari  Loggia",
+      "assist1": "#23 - Mark  Rodemoyer",
+      "assist2": "#68 - Samson  Chu"
+    },
+    {
+      "period": "2",
+      "time": "00:10:51",
+      "team": {
+        "teamId": "1969",
+        "name": "Dragons"
+      },
+      "scorer": "#10 - Luke  Lowen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "1969",
+        "name": "Dragons"
+      },
+      "scorer": "#82 - Caleb  Sohl",
+      "assist1": "#10 - Luke  Lowen",
+      "assist2": "#55 - Griffin  Bryce"
+    },
+    {
+      "period": "3",
+      "time": "00:00:56",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#68 - Samson  Chu",
+      "assist1": "#2 - Ari  Loggia",
+      "assist2": "#5 - Andy  Loggia"
+    },
+    {
+      "period": "3",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#2 - Ari  Loggia",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "1969",
+        "name": "Dragons"
+      },
+      "scorer": "#57 - Dylan  Thomas",
+      "assist1": "#3 - Ilana  Bell",
+      "assist2": "#80 - Ethan  Hoffman"
+    },
+    {
+      "period": "3",
+      "time": "00:08:38",
+      "team": {
+        "teamId": "1969",
+        "name": "Dragons"
+      },
+      "scorer": "#95 - Mick  Starego",
+      "assist1": "#10 - Luke  Lowen",
+      "assist2": "#55 - Griffin  Bryce"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:12",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "player": "#5 - Andy  Loggia",
+      "pim": 2,
+      "offense": "Hooking",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "player": "#34 - Mike  Garrity",
+      "pim": 2,
+      "offense": "Tripping",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "1969",
+        "name": "Dragons"
+      },
+      "player": "#80 - Ethan  Hoffman",
+      "pim": 2,
+      "offense": "Holding",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:38:44.681Z"
+}

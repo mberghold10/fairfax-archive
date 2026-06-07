@@ -1,0 +1,150 @@
+{
+  "gameId": "17051",
+  "date": "2024-08-03",
+  "divId": 288,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1774",
+    "name": "Hitmen"
+  },
+  "away": {
+    "teamId": "1768",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:02",
+      "team": {
+        "teamId": "1774",
+        "name": "Hitmen"
+      },
+      "scorer": "#29 - Tylor  Van Prooyen",
+      "assist1": "#5 - Chris  Oman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:57",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "scorer": "#29 - Jake  Combs",
+      "assist1": "#58 - Luke  Hartley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1774",
+        "name": "Hitmen"
+      },
+      "scorer": "#29 - Tylor  Van Prooyen",
+      "assist1": "#5 - Chris  Oman",
+      "assist2": "#27 - Jeremy  King"
+    },
+    {
+      "period": "2",
+      "time": "00:07:41",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "scorer": "#83 - Eric  Wu",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "scorer": "#58 - Luke  Hartley",
+      "assist1": "#83 - Eric  Wu",
+      "assist2": "#17 - Brandon  Soyer"
+    },
+    {
+      "period": "3",
+      "time": "00:09:17",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "scorer": "#83 - Eric  Wu",
+      "assist1": "#26 - Jacob  Bursk",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "scorer": "#58 - Luke  Hartley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:24",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "scorer": "#11 - Thomas  Bailey",
+      "assist1": "#26 - Jacob  Bursk",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "1774",
+        "name": "Hitmen"
+      },
+      "player": "#17 - James  Ciskanik",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:32",
+      "team": {
+        "teamId": "1774",
+        "name": "Hitmen"
+      },
+      "player": "#5 - Chris  Oman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:25:36.048Z"
+}

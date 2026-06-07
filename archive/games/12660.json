@@ -1,0 +1,217 @@
+{
+  "gameId": "12660",
+  "date": "2019-05-05",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1263",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1264",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:36",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": "#28 - Charles  Hale"
+    },
+    {
+      "period": "1",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "scorer": "#22 - Sonny  Gupta",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": "#56 - Ryan  Tyler"
+    },
+    {
+      "period": "1",
+      "time": "00:09:24",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "scorer": "#16 - Bill  Thompson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#71 - Martin  Haydon",
+      "assist2": "#16 - Bill  Thompson"
+    },
+    {
+      "period": "2",
+      "time": "00:09:14",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1264",
+        "name": "Swarm"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": "#56 - Ryan  Tyler"
+    },
+    {
+      "period": "3",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#13 - Randy  Foster",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:14",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "player": "#15 - John  Cushing",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:18",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "player": "#29 - Bob  Chagnot",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:19",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "player": "#26 - Richard  Snively",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "player": "#71 - Martin  Haydon",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:23",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "player": "#16 - Bill  Thompson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:42",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "player": "#26 - Richard  Snively",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:42",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "player": "#26 - Richard  Snively",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:37",
+      "team": {
+        "teamId": "1263",
+        "name": "Englewood"
+      },
+      "player": "#26 - Richard  Snively",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:53:16.350Z"
+}

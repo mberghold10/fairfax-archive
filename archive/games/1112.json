@@ -1,0 +1,209 @@
+{
+  "gameId": "1112",
+  "date": "2021-02-23",
+  "divId": 223,
+  "seasonName": "Fall 2020",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1400",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1408",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 4,
+      "p3": 2,
+      "ot": 0,
+      "final": 8
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:38",
+      "team": {
+        "teamId": "1400",
+        "name": "Hurricanes"
+      },
+      "scorer": "#11 - Brendan  Ford",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "1400",
+        "name": "Hurricanes"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": "#17 - John  Wallace",
+      "assist2": "#11 - Brendan  Ford"
+    },
+    {
+      "period": "1",
+      "time": "00:09:56",
+      "team": {
+        "teamId": "1408",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#20 - Matt  Michelson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:50",
+      "team": {
+        "teamId": "1408",
+        "name": "Old Goats"
+      },
+      "scorer": "#20 - Matt  Michelson",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "1408",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1408",
+        "name": "Old Goats"
+      },
+      "scorer": "#17 - Dan  Pol",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": "#20 - Matt  Michelson"
+    },
+    {
+      "period": "2",
+      "time": "00:07:26",
+      "team": {
+        "teamId": "1408",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#17 - Dan  Pol",
+      "assist2": "#4 - Steve  Bradley"
+    },
+    {
+      "period": "2",
+      "time": "00:10:56",
+      "team": {
+        "teamId": "1400",
+        "name": "Hurricanes"
+      },
+      "scorer": "#93 - Jeff  Nauer",
+      "assist1": "#11 - Brendan  Ford",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:29",
+      "team": {
+        "teamId": "1408",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": "#19 - Ira  Keltz"
+    },
+    {
+      "period": "3",
+      "time": "00:11:03",
+      "team": {
+        "teamId": "1408",
+        "name": "Old Goats"
+      },
+      "scorer": "#20 - Matt  Michelson",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:52",
+      "team": {
+        "teamId": "1408",
+        "name": "Old Goats"
+      },
+      "scorer": "#4 - Steve  Bradley",
+      "assist1": "#12 - David  OMalley",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1408",
+        "name": "Old Goats"
+      },
+      "player": "#19 - Ira  Keltz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1400",
+        "name": "Hurricanes"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:09",
+      "team": {
+        "teamId": "1400",
+        "name": "Hurricanes"
+      },
+      "player": "#81 - Pete  Poczatek",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:53",
+      "team": {
+        "teamId": "1400",
+        "name": "Hurricanes"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:18:47.046Z"
+}

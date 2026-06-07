@@ -1,0 +1,108 @@
+{
+  "gameId": "12025",
+  "date": "2018-09-18",
+  "divId": 182,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1159",
+    "name": "Senators"
+  },
+  "away": {
+    "teamId": "1158",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:22",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "scorer": "#10 - Rich  Scigaj",
+      "assist1": "#6 - Jon  Alford",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "scorer": "#23 - Alan  Stiffler",
+      "assist1": "#18 - Jeff  Paget",
+      "assist2": "#2 - Jen  Grotpeter"
+    },
+    {
+      "period": "3",
+      "time": "00:12:47",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "scorer": "#3 - Jim  Van Dyke",
+      "assist1": "#37 - Nick  Desport",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "player": "#20 - Dave  Humes",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1159",
+        "name": "Senators"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:29",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "player": "#26 - Philip  Hogan",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:33:02.664Z"
+}

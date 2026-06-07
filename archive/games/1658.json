@@ -1,0 +1,119 @@
+{
+  "gameId": "1658",
+  "date": "2026-06-02",
+  "divId": 327,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "2019",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "2017",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "scorer": "#12 - Adam  Olsen",
+      "assist1": "#81 - Pete  Poczatek",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:34",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "scorer": "#81 - Pete  Poczatek",
+      "assist1": "#3 - Ed  Gulakowski",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:05",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "scorer": "#23 - Chris  Howard",
+      "assist1": "#19 - Jason  Long",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:09",
+      "team": {
+        "teamId": "2017",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#7 - Steve  Tamburo",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "player": "#81 - Pete  Poczatek",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "player": "#3 - Ed  Gulakowski",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:51",
+      "team": {
+        "teamId": "2019",
+        "name": "Hurricanes"
+      },
+      "player": "#81 - Pete  Poczatek",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:07:42.062Z"
+}

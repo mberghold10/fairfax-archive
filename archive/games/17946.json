@@ -1,0 +1,143 @@
+{
+  "gameId": "17946",
+  "date": "2025-02-26",
+  "divId": 304,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1865",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1867",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:37",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#7 - Joseph  Hull",
+      "assist1": "#54 - Ryan  Galluzzo",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:44",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#41 - Eugene  Livsics",
+      "assist1": "#33 - Sergey  Kuznetsov",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:55",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#55 - Brian  Merkl",
+      "assist1": "#21 - Steve  Chan",
+      "assist2": "#37 - Josh  Savani"
+    },
+    {
+      "period": "3",
+      "time": "00:08:03",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#55 - Brian  Merkl",
+      "assist2": "#21 - Steve  Chan"
+    },
+    {
+      "period": "3",
+      "time": "00:11:05",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "scorer": "#55 - Brian  Merkl",
+      "assist1": "#27 - Andy  Rieger",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:32",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "player": "#12 - Brian  Dix",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "player": "#41 - Eugene  Livsics",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:17",
+      "team": {
+        "teamId": "1865",
+        "name": "Ducks"
+      },
+      "player": "#91 - Rob  Fischer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "1867",
+        "name": "Jacks"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:42:14.164Z"
+}

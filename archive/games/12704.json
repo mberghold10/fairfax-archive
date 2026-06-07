@@ -1,0 +1,174 @@
+{
+  "gameId": "12704",
+  "date": "2019-06-16",
+  "divId": 198,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1258",
+    "name": "ers"
+  },
+  "away": {
+    "teamId": "1255",
+    "name": "Grove Hockey"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 1,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "1258",
+        "name": "ers"
+      },
+      "scorer": "#14 - Vincent  Coffey",
+      "assist1": "#11 - Nate  Harrison",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:54",
+      "team": {
+        "teamId": "1255",
+        "name": "Grove Hockey"
+      },
+      "scorer": "#64 - Stephen  Arthur",
+      "assist1": "#43 - Alex  Grose",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:09",
+      "team": {
+        "teamId": "1258",
+        "name": "ers"
+      },
+      "scorer": "#11 - Nate  Harrison",
+      "assist1": "#19 - Sean  Burke",
+      "assist2": "#13 - Alex  Kokkinis"
+    },
+    {
+      "period": "2",
+      "time": "00:10:34",
+      "team": {
+        "teamId": "1255",
+        "name": "Grove Hockey"
+      },
+      "scorer": "#43 - Alex  Grose",
+      "assist1": "#11 - Jude  Buckholz",
+      "assist2": "#20 - Collin  Henley"
+    },
+    {
+      "period": "2",
+      "time": "00:12:55",
+      "team": {
+        "teamId": "1255",
+        "name": "Grove Hockey"
+      },
+      "scorer": "#88 - Chris  Peterkin",
+      "assist1": "#20 - Collin  Henley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1258",
+        "name": "ers"
+      },
+      "scorer": "#19 - Sean  Burke",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:05",
+      "team": {
+        "teamId": "1258",
+        "name": "ers"
+      },
+      "scorer": "#19 - Sean  Burke",
+      "assist1": "#13 - Alex  Kokkinis",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "1255",
+        "name": "Grove Hockey"
+      },
+      "scorer": "#11 - Jude  Buckholz",
+      "assist1": "#20 - Collin  Henley",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "1258",
+        "name": "ers"
+      },
+      "scorer": "#19 - Sean  Burke",
+      "assist1": "#13 - Alex  Kokkinis",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:03",
+      "team": {
+        "teamId": "1255",
+        "name": "Grove Hockey"
+      },
+      "player": "#88 - Chris  Peterkin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:47",
+      "team": {
+        "teamId": "1258",
+        "name": "ers"
+      },
+      "player": "#14 - Vincent  Coffey",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "1255",
+        "name": "Grove Hockey"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:52:37.194Z"
+}

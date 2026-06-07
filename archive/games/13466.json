@@ -1,0 +1,106 @@
+{
+  "gameId": "13466",
+  "date": "2019-10-27",
+  "divId": 216,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1365",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1368",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "scorer": "#76 - Ethan  Bond",
+      "assist1": "#12 - John  Porvaznik",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:43",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#50 - Lorin  Randall",
+      "assist1": "#1 - Christian  Crawford",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:23",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#29 - Regina  Hart",
+      "assist1": "#39 - John  Martinez",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:08",
+      "team": {
+        "teamId": "1368",
+        "name": "Red Wings"
+      },
+      "scorer": "#40 - Howard  Ehrlich",
+      "assist1": "#25 - James  Chu",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "player": "#37 - Christal  Cudworth",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:43",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "player": "#77 - Rob  Reinish",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:13:55.358Z"
+}

@@ -1,0 +1,237 @@
+{
+  "gameId": "11249",
+  "date": "2018-02-07",
+  "divId": 171,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1091",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1090",
+    "name": "Englewood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:41",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#8 - Brendan  Millice",
+      "assist2": "#56 - Ryan  Tyler"
+    },
+    {
+      "period": "1",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#27 - John  Hitesman",
+      "assist2": "#28 - Charles  Hale"
+    },
+    {
+      "period": "1",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#3 - Mario  Regan",
+      "assist1": "#28 - Charles  Hale",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#44 - Greg  Hanson",
+      "assist1": "#3 - Mario  Regan",
+      "assist2": "#34 - marty  Hayden"
+    },
+    {
+      "period": "2",
+      "time": "00:09:06",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#3 - Mario  Regan",
+      "assist1": "#34 - marty  Hayden",
+      "assist2": "#99 - Jarmo  Tarvainen"
+    },
+    {
+      "period": "2",
+      "time": "00:12:06",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#3 - Mario  Regan",
+      "assist1": "#9 - Steve  Barker",
+      "assist2": "#15 - John  Cushing"
+    },
+    {
+      "period": "3",
+      "time": "00:01:32",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#7 - Joe  Hull",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:09",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "scorer": "#92 - Matt  Frazza",
+      "assist1": "#10 - Matt  Galen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:20",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:03",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "player": "#56 - Ryan  Tyler",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:49",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "player": "#28 - Charles  Hale",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "player": "#27 - John  Hitesman",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:19",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "player": "#75 - Jeff  Koka",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:36",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "player": "#75 - Jeff  Koka",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "player": "#75 - Jeff  Koka",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:34",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:19:01.719Z"
+}

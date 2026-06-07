@@ -1,0 +1,200 @@
+{
+  "gameId": "1131",
+  "date": "2021-07-26",
+  "divId": 226,
+  "seasonName": "Spring 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1418",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1415",
+    "name": "Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#16 - Ralph  Rinaldi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:09",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#15 - David  Eyre",
+      "assist1": "#12 - Chris  Yoko",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:44",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#16 - Ralph  Rinaldi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:42",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": "#26 - Cooper  Motzko",
+      "assist2": "#62 - Phil  Tivel"
+    },
+    {
+      "period": "3",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#18 - Michael  Dewhirst",
+      "assist1": "#16 - Ralph  Rinaldi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "scorer": "#25 - Mike  Andrien",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": "#21 - Brian  Dutton"
+    },
+    {
+      "period": "3",
+      "time": "00:05:02",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "scorer": "#70 - Bill  Motzko",
+      "assist1": "#1 - Matt  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:06:55",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "scorer": "#16 - Ralph  Rinaldi",
+      "assist1": "#55 - Scott  Dullea",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:25",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "player": "#18 - Michael  Dewhirst",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "player": "#42 - Ryan  ODriscoll",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "player": "#26 - Cooper  Motzko",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1415",
+        "name": "Punishers"
+      },
+      "player": "#26 - Cooper  Motzko",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:31",
+      "team": {
+        "teamId": "1418",
+        "name": "Chiefs"
+      },
+      "player": "#12 - Chris  Yoko",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:21:13.938Z"
+}

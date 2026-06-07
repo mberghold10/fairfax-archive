@@ -1,0 +1,182 @@
+{
+  "gameId": "13756",
+  "date": "2020-10-03",
+  "divId": 222,
+  "seasonName": "Fall 2020",
+  "mode": "regular",
+  "home": {
+    "teamId": "1395",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1391",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1395",
+        "name": "Grey Goons"
+      },
+      "scorer": "#12 - Paul  Zalocha",
+      "assist1": "#42 - Christian  Gibbons",
+      "assist2": "#24 - Tom  Spiewak"
+    },
+    {
+      "period": "1",
+      "time": "00:08:19",
+      "team": {
+        "teamId": "1395",
+        "name": "Grey Goons"
+      },
+      "scorer": "#42 - Christian  Gibbons",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:55",
+      "team": {
+        "teamId": "1395",
+        "name": "Grey Goons"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": "#11 - Dave  Brown",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1395",
+        "name": "Grey Goons"
+      },
+      "scorer": "#47 - Talbot  Black",
+      "assist1": "#11 - Dave  Brown",
+      "assist2": "#54 - Jerry  Gibbons"
+    },
+    {
+      "period": "2",
+      "time": "00:10:13",
+      "team": {
+        "teamId": "1395",
+        "name": "Grey Goons"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": "#12 - Paul  Zalocha",
+      "assist2": "#54 - Jerry  Gibbons"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "1391",
+        "name": "Team USA"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:02",
+      "team": {
+        "teamId": "1391",
+        "name": "Team USA"
+      },
+      "player": "#4 - Jeff  Bloom",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:34",
+      "team": {
+        "teamId": "1395",
+        "name": "Grey Goons"
+      },
+      "player": "#11 - Dave  Brown",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:56",
+      "team": {
+        "teamId": "1395",
+        "name": "Grey Goons"
+      },
+      "player": "#27 - Steven  Hill",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:32",
+      "team": {
+        "teamId": "1391",
+        "name": "Team USA"
+      },
+      "player": "#6 - John  Dubeck",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:03",
+      "team": {
+        "teamId": "1391",
+        "name": "Team USA"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:28",
+      "team": {
+        "teamId": "1395",
+        "name": "Grey Goons"
+      },
+      "player": "#9 - Brian  Mehnert",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:17:36.500Z"
+}

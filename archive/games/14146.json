@@ -1,0 +1,178 @@
+{
+  "gameId": "14146",
+  "date": "2021-08-01",
+  "divId": 236,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1477",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1476",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1476",
+        "name": "Team USA"
+      },
+      "scorer": "#12 - Jason  Wakeman",
+      "assist1": "#10 - Mike  Brahmey",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:17",
+      "team": {
+        "teamId": "1477",
+        "name": "Grey Goons"
+      },
+      "scorer": "#11 - Dave  Brown",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:44",
+      "team": {
+        "teamId": "1477",
+        "name": "Grey Goons"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": "#44 - Mick  Ellsworth",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:51",
+      "team": {
+        "teamId": "1477",
+        "name": "Grey Goons"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": "#28 - Alex  Henry",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1476",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "1476",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": "#23 - Mike  OBrien",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "1476",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": "#54 - Dan  Bagley",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:33",
+      "team": {
+        "teamId": "1477",
+        "name": "Grey Goons"
+      },
+      "player": "#14 - Kevin  Holyfield",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "1477",
+        "name": "Grey Goons"
+      },
+      "player": "#24 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:10",
+      "team": {
+        "teamId": "1477",
+        "name": "Grey Goons"
+      },
+      "player": "#2 - James  Marlowe",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:23",
+      "team": {
+        "teamId": "1477",
+        "name": "Grey Goons"
+      },
+      "player": "#54 - Jerry  Gibbons",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:38",
+      "team": {
+        "teamId": "1477",
+        "name": "Grey Goons"
+      },
+      "player": "#2 - James  Marlowe",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:27:41.937Z"
+}

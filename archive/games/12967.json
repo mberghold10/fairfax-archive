@@ -1,0 +1,200 @@
+{
+  "gameId": "12967",
+  "date": "2019-09-08",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1260",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1262",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:25",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "scorer": "#5 - Ben  Malakoff",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:42",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#7 - John  Dagley",
+      "assist1": "#74 - Matthew  Seiler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "scorer": "#71 - Dan  Cosentino",
+      "assist1": "#81 - Bryan  Getson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "scorer": "#5 - Ben  Malakoff",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:37",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "scorer": "#5 - Ben  Malakoff",
+      "assist1": "#71 - Dan  Cosentino",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:44",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "scorer": "#71 - Dan  Cosentino",
+      "assist1": "#5 - Ben  Malakoff",
+      "assist2": "#81 - Bryan  Getson"
+    },
+    {
+      "period": "2",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#44 - Mick  Ellsworth",
+      "assist1": "#8 - Jason  Eister",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#74 - Matthew  Seiler",
+      "assist1": "#7 - John  Dagley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:44",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "scorer": "#88 - Evan  Wojtowicz",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:49",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#71 - Dan  Cosentino",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:19",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#74 - Matthew  Seiler",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:50",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:41",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:56",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#7 - John  Dagley",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:54:09.261Z"
+}

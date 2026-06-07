@@ -1,0 +1,115 @@
+{
+  "gameId": "1262",
+  "date": "2022-10-02",
+  "divId": 255,
+  "seasonName": "Summer 2022",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1574",
+    "name": "Gold Goats"
+  },
+  "away": {
+    "teamId": "1572",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "1572",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#54 - Matt  Gallagher",
+      "assist2": "#21 - Steve  Kaplan"
+    },
+    {
+      "period": "2",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "1572",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#77 - Jeff  Wilken",
+      "assist1": "#21 - Steve  Kaplan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:39",
+      "team": {
+        "teamId": "1572",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#25 - Neil  Dsouza",
+      "assist1": "#31 - Sam  Branham",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "1574",
+        "name": "Gold Goats"
+      },
+      "scorer": "#19 - Ira  Keltz",
+      "assist1": "#10 - Matt  Johnson",
+      "assist2": "#7 - Greg  Watchman"
+    },
+    {
+      "period": "2",
+      "time": "00:07:53",
+      "team": {
+        "teamId": "1572",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#21 - Steve  Kaplan",
+      "assist1": "#77 - Jeff  Wilken",
+      "assist2": "#2 - Tom  Keith"
+    },
+    {
+      "period": "3",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1574",
+        "name": "Gold Goats"
+      },
+      "scorer": "#14 - Remey  Munasafi",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1574",
+        "name": "Gold Goats"
+      },
+      "player": "#3 - Dick  Deitos",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:48:07.972Z"
+}

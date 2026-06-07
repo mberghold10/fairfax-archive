@@ -1,0 +1,269 @@
+{
+  "gameId": "1155",
+  "date": "2021-10-24",
+  "divId": 232,
+  "seasonName": "Summer 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1447",
+    "name": "Punishers"
+  },
+  "away": {
+    "teamId": "1451",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:53",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:28",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#6 - Kyle  Herring",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#9 - James  Boland",
+      "assist1": "#10 - Mike  Carew",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:35",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": "#16 - Miles  Zwicky",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": "#1 - Matt  ODriscoll",
+      "assist2": "#42 - Ryan  ODriscoll"
+    },
+    {
+      "period": "3",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "scorer": "#42 - Ryan  ODriscoll",
+      "assist1": "#19 - Brian  Mehnert",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:09",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "player": "#16 - Greg  Pomeroy",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:06",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "player": "#82 - Justin  MacDonald",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "player": "#40 - Matt  Mickelson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "player": "#6 - Kyle  Herring",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "player": "#44 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:08",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "player": "#27 - Dave  Lin",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:08",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "player": "#9 - James  Boland",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:58",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "player": "#1 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:12",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "player": "#19 - Brian  Mehnert",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "player": "#44 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "player": "#16 - Greg  Pomeroy",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:40",
+      "team": {
+        "teamId": "1451",
+        "name": "British Bulldogs"
+      },
+      "player": "#9 - James  Boland",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:25:22.790Z"
+}

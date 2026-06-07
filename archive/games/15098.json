@@ -1,0 +1,178 @@
+{
+  "gameId": "15098",
+  "date": "2022-07-14",
+  "divId": 254,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1566",
+    "name": "Old Goats"
+  },
+  "away": {
+    "teamId": "1571",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:24",
+      "team": {
+        "teamId": "1571",
+        "name": "Islanders"
+      },
+      "scorer": "#10 - Steve  Spivack",
+      "assist1": "#88 - Anthony  DeJohn",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:12",
+      "team": {
+        "teamId": "1571",
+        "name": "Islanders"
+      },
+      "scorer": "#88 - Anthony  DeJohn",
+      "assist1": "#10 - Steve  Spivack",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:54",
+      "team": {
+        "teamId": "1571",
+        "name": "Islanders"
+      },
+      "scorer": "#77 - Joe  Berret",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "scorer": "#40 - Matt  Michelson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:12",
+      "team": {
+        "teamId": "1571",
+        "name": "Islanders"
+      },
+      "scorer": "#88 - Anthony  DeJohn",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:41:25",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "scorer": "#40 - Matt  Michelson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:32",
+      "team": {
+        "teamId": "1571",
+        "name": "Islanders"
+      },
+      "scorer": "#10 - Steve  Spivack",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:15",
+      "team": {
+        "teamId": "1571",
+        "name": "Islanders"
+      },
+      "player": "#9 - Rick  Cole",
+      "pim": 2,
+      "offense": "Throw Stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:11",
+      "team": {
+        "teamId": "1571",
+        "name": "Islanders"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "Rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:24",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "player": "#21 - Michael  Hawthorne",
+      "pim": 2,
+      "offense": "Rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:24",
+      "team": {
+        "teamId": "1566",
+        "name": "Old Goats"
+      },
+      "player": "#21 - Michael  Hawthorne",
+      "pim": 10,
+      "offense": "Misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:24",
+      "team": {
+        "teamId": "1571",
+        "name": "Islanders"
+      },
+      "player": "#9 - Rick  Cole",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:46:14.642Z"
+}

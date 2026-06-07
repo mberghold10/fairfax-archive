@@ -1,0 +1,178 @@
+{
+  "gameId": "18375",
+  "date": "2025-10-19",
+  "divId": 318,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1946",
+    "name": "Valor Puckaneers"
+  },
+  "away": {
+    "teamId": "1951",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 1,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:24",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#41 - Alessio  Evangelista",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#41 - Alessio  Evangelista",
+      "assist1": "#3 - Darr  Gerscovich",
+      "assist2": "#91 - Jaon  Ross"
+    },
+    {
+      "period": "1",
+      "time": "00:13:16",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "scorer": "#74 - Steven  Macchio",
+      "assist1": "#27 - David  Lin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:02",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "scorer": "#72 - Joseph  DeWolfe",
+      "assist1": "#3 - Alex  Naranjo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:37",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "scorer": "#74 - Steven  Macchio",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:35",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#44 - Ben  Thomas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:47",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "scorer": "#27 - David  Lin",
+      "assist1": "#74 - Steven  Macchio",
+      "assist2": "#7 - Greg  Watchman"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "player": "#44 - Ben  Thomas",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:17",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "player": "#44 - Ben  Thomas",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "player": "#87 - Ryan  Young",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:43",
+      "team": {
+        "teamId": "1946",
+        "name": "Valor Puckaneers"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:19",
+      "team": {
+        "teamId": "1951",
+        "name": "Blue Dogs"
+      },
+      "player": "#87 - Ryan  Young",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:57:38.888Z"
+}

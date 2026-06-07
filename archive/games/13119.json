@@ -1,0 +1,156 @@
+{
+  "gameId": "13119",
+  "date": "2019-08-25",
+  "divId": 205,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1295",
+    "name": "River Rats"
+  },
+  "away": {
+    "teamId": "1298",
+    "name": "Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:29",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "scorer": "#79 - Igor  Helman",
+      "assist1": "#22 - Patrick  Creamer",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:50",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "scorer": "#22 - Patrick  Creamer",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:03",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "scorer": "#88 - John  Jepson",
+      "assist1": "#47 - Rob  Schumann",
+      "assist2": "#22 - Patrick  Creamer"
+    },
+    {
+      "period": "3",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "1298",
+        "name": "Crabs"
+      },
+      "scorer": "#40 - Hank  Kim",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:41",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "player": "#27 - David  McAndrews",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1298",
+        "name": "Crabs"
+      },
+      "player": "#4 - Mike  Donnelly",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:19",
+      "team": {
+        "teamId": "1298",
+        "name": "Crabs"
+      },
+      "player": "#22 - Trevor  Blair",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:29",
+      "team": {
+        "teamId": "1298",
+        "name": "Crabs"
+      },
+      "player": "#18 - Craig  McCall",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:29",
+      "team": {
+        "teamId": "1295",
+        "name": "River Rats"
+      },
+      "player": "#47 - Rob  Schumann",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:01:05.805Z"
+}

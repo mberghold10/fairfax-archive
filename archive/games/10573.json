@@ -1,0 +1,104 @@
+{
+  "gameId": "10573",
+  "date": "2017-06-24",
+  "divId": 165,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1056",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1059",
+    "name": "Blackhawks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:14",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "scorer": "#56 - Ryan  Tyler",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "scorer": "#0 - Jude  Buckholz",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": "#25 - Jamie  Prime"
+    },
+    {
+      "period": "2",
+      "time": "00:08:02",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:47",
+      "team": {
+        "teamId": "1059",
+        "name": "Blackhawks"
+      },
+      "scorer": "#11 - Dennis  Nayandin",
+      "assist1": "#36 - Bill  Ludke",
+      "assist2": "#74 - Eric  Peterson"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:12:36",
+      "team": {
+        "teamId": "1056",
+        "name": "British Bulldogs"
+      },
+      "player": "#66 - Harry  Patrinos",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:11:58.680Z"
+}

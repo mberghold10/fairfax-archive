@@ -1,0 +1,139 @@
+{
+  "gameId": "19136",
+  "date": "2026-05-10",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2004",
+    "name": "Hershey Beers"
+  },
+  "away": {
+    "teamId": "2007",
+    "name": "Roccos"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#26 - Chris  Anderson",
+      "assist1": "#30 - Arianne  Hardt",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:48",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#39 - Jim  DeLaet",
+      "assist1": "#70 - Heather  Vough",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:29",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "scorer": "#16 - Thomas  Wright",
+      "assist1": "#8 - Dao  Tran",
+      "assist2": "#11 - Eugene  Lee"
+    },
+    {
+      "period": "2",
+      "time": "00:07:33",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "scorer": "#8 - Dao  Tran",
+      "assist1": "#13 - Nadia  Garcia",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:42",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#87 - Feng  Lan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:15",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#26 - Chris  Anderson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:38",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#97 - Lee  Alexander",
+      "assist1": "#54 - Scott  Knisley",
+      "assist2": "#30 - Arianne  Hardt"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "player": "#26 - Chris  Anderson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "player": "#67 - Kiet  Vu",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:08:49.757Z"
+}

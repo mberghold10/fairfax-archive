@@ -1,0 +1,115 @@
+{
+  "gameId": "11613",
+  "date": "2018-05-23",
+  "divId": 183,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1162",
+    "name": "Bulldogs"
+  },
+  "away": {
+    "teamId": "1164",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#88 - Matt  Tiede",
+      "assist1": "#79 - Jeff  Vandenberghe",
+      "assist2": "#5 - Chris  Howard"
+    },
+    {
+      "period": "1",
+      "time": "00:02:27",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#12 - Dan  Butala",
+      "assist1": "#24 - Brian  Crossin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "scorer": "#13 - Vincent  Coffey",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#79 - Jeff  Vandenberghe",
+      "assist1": "#88 - Matt  Tiede",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:39",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "scorer": "#13 - Vincent  Coffey",
+      "assist1": "#64 - Derek  Bluth",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:41",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": "#5 - Chris  Howard",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:42",
+      "team": {
+        "teamId": "1164",
+        "name": "Kings"
+      },
+      "player": "#55 - Chris  Yoko",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:33:24.167Z"
+}

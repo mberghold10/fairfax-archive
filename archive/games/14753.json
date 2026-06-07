@@ -1,0 +1,141 @@
+{
+  "gameId": "14753",
+  "date": "2022-02-03",
+  "divId": 246,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1519",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1523",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:51",
+      "team": {
+        "teamId": "1523",
+        "name": "Team USA"
+      },
+      "scorer": "#99 - Jon  Davoren",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1523",
+        "name": "Team USA"
+      },
+      "scorer": "#10 - Mike  Brahmey",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1519",
+        "name": "Flying Circus"
+      },
+      "scorer": "#7 - Brendan  Ford",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:53",
+      "team": {
+        "teamId": "1523",
+        "name": "Team USA"
+      },
+      "scorer": "#8 - Jamie  Sengheiser",
+      "assist1": "#10 - Mike  Brahmey",
+      "assist2": "#5 - Oleg  Kolodin"
+    },
+    {
+      "period": "2",
+      "time": "00:10:58",
+      "team": {
+        "teamId": "1523",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "1523",
+        "name": "Team USA"
+      },
+      "scorer": "#10 - Mike  Brahmey",
+      "assist1": "#18 - Pete  Poczatek",
+      "assist2": "#7 - Ed  Weiner"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:57",
+      "team": {
+        "teamId": "1519",
+        "name": "Flying Circus"
+      },
+      "player": "#8 - Dan  Brehm",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:35",
+      "team": {
+        "teamId": "1519",
+        "name": "Flying Circus"
+      },
+      "player": "#8 - Dan  Brehm",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1519",
+        "name": "Flying Circus"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:36:44.854Z"
+}

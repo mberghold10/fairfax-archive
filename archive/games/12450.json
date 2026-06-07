@@ -1,0 +1,189 @@
+{
+  "gameId": "12450",
+  "date": "2019-01-20",
+  "divId": 192,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1222",
+    "name": "Jurassic Puck"
+  },
+  "away": {
+    "teamId": "1221",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#18 - Jimmy  Feeney",
+      "assist1": "#21 - Joshua  Vichness",
+      "assist2": "#79 - Scott  Yates"
+    },
+    {
+      "period": "1",
+      "time": "00:06:39",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#3 - Jeff  Ruby",
+      "assist1": "#21 - Joshua  Vichness",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": "#79 - Scott  Yates",
+      "assist2": "#3 - Jeff  Ruby"
+    },
+    {
+      "period": "2",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#7 - Brian  Ebert",
+      "assist1": "#92 - Caleb  Adams",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:47",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#3 - Jeff  Ruby",
+      "assist1": "#79 - Scott  Yates",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:16",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#7 - Brian  Ebert",
+      "assist1": "#89 - Brandon  Barhorst",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#4 - Sam  Hausolhner",
+      "assist1": "#89 - Chris  Casselman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:44",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#7 - Brian  Ebert",
+      "assist1": "#89 - Brandon  Barhorst",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "player": "#92 - Caleb  Adams",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:52",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#79 - Scott  Yates",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1222",
+        "name": "Jurassic Puck"
+      },
+      "player": "#7 - Brian  Ebert",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:00",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#79 - Scott  Yates",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:47",
+      "team": {
+        "teamId": "1221",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#89 - Chris  Casselman",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:45:01.853Z"
+}

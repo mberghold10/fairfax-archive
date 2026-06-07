@@ -1,0 +1,82 @@
+{
+  "gameId": "10295",
+  "date": "2017-01-18",
+  "divId": 157,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1008",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1009",
+    "name": "Phantoms"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "1009",
+        "name": "Phantoms"
+      },
+      "scorer": "#72 - Kyle  Brosnan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:44",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#12 - Joe  Zwickl",
+      "assist1": "#0 - Trey  Perrone",
+      "assist2": "#41 - Tony  Gorney"
+    },
+    {
+      "period": "3",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "scorer": "#12 - Joe  Zwickl",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "1008",
+        "name": "Outlaws"
+      },
+      "player": "#42 - Mac  Johnson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:01:59.141Z"
+}

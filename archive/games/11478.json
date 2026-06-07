@@ -1,0 +1,84 @@
+{
+  "gameId": "11478",
+  "date": "2018-01-13",
+  "divId": 178,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1138",
+    "name": "Steamed Crabs"
+  },
+  "away": {
+    "teamId": "1139",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:08:10",
+      "team": {
+        "teamId": "1138",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#24 - Mark  Paolicelli",
+      "assist1": "#3 - Mathew  White",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1138",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#3 - Mathew  White",
+      "assist1": "#32 - David  Garvis",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:45",
+      "team": {
+        "teamId": "1138",
+        "name": "Steamed Crabs"
+      },
+      "player": "#19 - Angelo  Ponirakis",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:15:30",
+      "team": {
+        "teamId": "1139",
+        "name": "Blue Dogs"
+      },
+      "player": "#34 - Joshua  Davis",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:28:28.281Z"
+}

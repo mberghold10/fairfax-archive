@@ -1,0 +1,104 @@
+{
+  "gameId": "18037",
+  "date": "2025-05-20",
+  "divId": 307,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1885",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1884",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "1885",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#8 - Elliott  Yang",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "scorer": "#3 - Ed  Gulakowski",
+      "assist1": "#14 - Joe  Kresse",
+      "assist2": "#93 - Jeff  Nauer"
+    },
+    {
+      "period": "2",
+      "time": "00:07:28",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "scorer": "#81 - Pete  Poczatek",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "scorer": "#37 - Nick  Durso",
+      "assist1": "#12 - Adam  Olsen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:33",
+      "team": {
+        "teamId": "1884",
+        "name": "Hurricanes"
+      },
+      "scorer": "#37 - Nick  Durso",
+      "assist1": "#12 - Adam  Olsen",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:11:54",
+      "team": {
+        "teamId": "1885",
+        "name": "Maple Leafs"
+      },
+      "player": "#35 - Tod  Bonner",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:45:46.220Z"
+}

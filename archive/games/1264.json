@@ -1,0 +1,121 @@
+{
+  "gameId": "1264",
+  "date": "2022-10-09",
+  "divId": 255,
+  "seasonName": "Summer 2022",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1576",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1572",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:06:55",
+      "team": {
+        "teamId": "1572",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1576",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#16 - Greg  Thomas",
+      "assist1": "#67 - John  Krotzer",
+      "assist2": "#3 - Frank  Thomason"
+    },
+    {
+      "period": "4",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1572",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1572",
+        "name": "Ice Dogs"
+      },
+      "player": "#9 - Paul  Moretti",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:36",
+      "team": {
+        "teamId": "1572",
+        "name": "Ice Dogs"
+      },
+      "player": "#2 - Tom  Keith",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1576",
+        "name": "Maple Leafs"
+      },
+      "player": "#7 - Gus  Anderson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1572",
+        "name": "Ice Dogs"
+      },
+      "player": "#21 - Steve  Kaplan",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:48:09.947Z"
+}

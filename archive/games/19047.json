@@ -1,0 +1,169 @@
+{
+  "gameId": "19047",
+  "date": "2026-03-19",
+  "divId": 326,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2009",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "2010",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:12",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#18 - Mike  Sharp",
+      "assist1": "#77 - Ryan  Crook",
+      "assist2": "#55 - Brian  Compagnone"
+    },
+    {
+      "period": "2",
+      "time": "00:03:53",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "scorer": "#24 - Grant  Moher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#11 - Dave  Brown",
+      "assist1": "#55 - Brian  Compagnone",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:57",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#18 - Mike  Sharp",
+      "assist1": "#25 - Chris  Lettieri",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "scorer": "#24 - Grant  Moher",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:32",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#20 - Michael  Schantz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:08",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#20 - Michael  Schantz",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:25",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#77 - Ryan  Crook",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#11 - Dave  Brown",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:57",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "player": "#51 - Michael  Short",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:10",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#25 - Chris  Lettieri",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:05:55.209Z"
+}

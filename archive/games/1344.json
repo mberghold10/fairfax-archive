@@ -1,0 +1,174 @@
+{
+  "gameId": "1344",
+  "date": "2023-10-21",
+  "divId": 273,
+  "seasonName": "Summer 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1687",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "1684",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1687",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#31 - Zach  Furness",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1687",
+        "name": "Hurricanes"
+      },
+      "scorer": "#38 - Keith  Forsythe",
+      "assist1": "#22 - Ed  Gulakowski",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:11",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#4 - Don  Sussman",
+      "assist1": "#47 - David  Hitchcook",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#67 - Andrew  Miller",
+      "assist1": "#6 - Bob  Friess",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:51",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": "#21 - Steve  Kaplan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1687",
+        "name": "Hurricanes"
+      },
+      "scorer": "#31 - Zach  Furness",
+      "assist1": "#11 - Brendan  Ford",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:28",
+      "team": {
+        "teamId": "1687",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#31 - Zach  Furness",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:47",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#13 - Rob  Katz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#78 - Bill  Ezekiel",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:19",
+      "team": {
+        "teamId": "1687",
+        "name": "Hurricanes"
+      },
+      "player": "#31 - Zach  Furness",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:13",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "player": "#67 - Andrew  Miller",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1684",
+        "name": "Ice Dogs"
+      },
+      "player": "#6 - Bob  Friess",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:09:43.949Z"
+}

@@ -1,0 +1,258 @@
+{
+  "gameId": "10582",
+  "date": "2017-05-13",
+  "divId": 166,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1064",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1063",
+    "name": "River Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:55",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "scorer": "#6 - Mike  Benyo",
+      "assist1": "#63 - Jeff  Hoffner",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:01",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "scorer": "#42 - Jon  Coley",
+      "assist1": "#11 - Mike  Pamplin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:39",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "scorer": "#3 - John  Rancourt",
+      "assist1": "#19 - Kevin  Stammetti",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "scorer": "#7 - Mike  Cardarelli",
+      "assist1": "#22 - James  Stegmann",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "scorer": "#11 - Mike  Brobeck",
+      "assist1": "#19 - Lowell  Umayam",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "scorer": "#7 - Mike  Cardarelli",
+      "assist1": "#63 - Jeff  Hoffner",
+      "assist2": "#22 - James  Stegmann"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "player": "#36 - Evan  Clinton",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:57",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#7 - Mike  Cardarelli",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:27",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#63 - Jeff  Hoffner",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:51",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "player": "#43 - Bill  Picard",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#22 - James  Stegmann",
+      "pim": 5,
+      "offense": "charge",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#22 - James  Stegmann",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "player": "#11 - Mike  Pamplin",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "player": "#11 - Mike  Pamplin",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1064",
+        "name": "Chiefs"
+      },
+      "player": "#77 - Brian  Ballantine",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "player": "#15 - Scott  McConnell",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "1063",
+        "name": "River Rats"
+      },
+      "player": "#40 - Brandon  Honeycutt",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:13:01.254Z"
+}

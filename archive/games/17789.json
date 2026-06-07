@@ -1,0 +1,143 @@
+{
+  "gameId": "17789",
+  "date": "2025-03-23",
+  "divId": 299,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1842",
+    "name": "Screaming Eagles"
+  },
+  "away": {
+    "teamId": "1837",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "scorer": "#2 - Mike  Parker",
+      "assist1": "#40 - Mikhail  Serebrennikov",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:01",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "scorer": "#68 - Jeff  Gilmore",
+      "assist1": "#91 - Jake  Barnett",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#17 - Talon  Ribsom",
+      "assist1": "#59 - Mike  Orendorffer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "scorer": "#24 - Michael  Sheridan",
+      "assist1": "#68 - Jeff  Gilmore",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:59",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "scorer": "#59 - Mike  Orendorffer",
+      "assist1": "#5 - Ben  Malakoff",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:28",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "player": "#93 - John  Boyle",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "1842",
+        "name": "Screaming Eagles"
+      },
+      "player": "#5 - Ben  Malakoff",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "player": "#56 - Daniel  Ellert",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:38",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "player": "#5 - Peter  Boone",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:36:41.191Z"
+}

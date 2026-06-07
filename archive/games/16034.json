@@ -1,0 +1,93 @@
+{
+  "gameId": "16034",
+  "date": "2023-06-22",
+  "divId": 272,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1681",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1678",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:32",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "scorer": "#250 - Bob  Banasik",
+      "assist1": "#11 - Darren  Wellner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:57",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "scorer": "#11 - Darren  Wellner",
+      "assist1": "#7 - Dan  Ellert",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:51",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "scorer": "#7 - Dan  Ellert",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:43",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "scorer": "#9 - Aaron  Dobbs",
+      "assist1": "#81 - Chirs  Holden",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "1681",
+        "name": "Grey Goons"
+      },
+      "player": "#49 - Greg  Mullen",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:07:17.230Z"
+}

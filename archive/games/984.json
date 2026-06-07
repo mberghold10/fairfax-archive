@@ -1,0 +1,169 @@
+{
+  "gameId": "984",
+  "date": "2019-04-07",
+  "divId": 195,
+  "seasonName": "Winter 2018",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1239",
+    "name": "Old Goats"
+  },
+  "away": {
+    "teamId": "1237",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "1239",
+        "name": "Old Goats"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": "#7 - Greg  Watchman",
+      "assist2": "#6 - Brad  Seibert"
+    },
+    {
+      "period": "1",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1237",
+        "name": "Penguins"
+      },
+      "scorer": "#13 - Bob  Seal",
+      "assist1": "#23 - Rick  Gorgone",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:15",
+      "team": {
+        "teamId": "1239",
+        "name": "Old Goats"
+      },
+      "scorer": "#21 - Mike  Hawthorne",
+      "assist1": "#20 - Matt  Michelson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:35",
+      "team": {
+        "teamId": "1237",
+        "name": "Penguins"
+      },
+      "scorer": "#13 - Bob  Seal",
+      "assist1": "#23 - Rick  Gorgone",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:02:16",
+      "team": {
+        "teamId": "1239",
+        "name": "Old Goats"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#5 - Howie  Uman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:51",
+      "team": {
+        "teamId": "1237",
+        "name": "Penguins"
+      },
+      "player": "#55 - Tim  Dutcher",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "1237",
+        "name": "Penguins"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "1239",
+        "name": "Old Goats"
+      },
+      "player": "#39 - Alex  Talalayevsky",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:01",
+      "team": {
+        "teamId": "1239",
+        "name": "Old Goats"
+      },
+      "player": "#3 - Dick  Deitos",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:25",
+      "team": {
+        "teamId": "1239",
+        "name": "Old Goats"
+      },
+      "player": "#24 - Michael  Duell",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:25",
+      "team": {
+        "teamId": "1237",
+        "name": "Penguins"
+      },
+      "player": "#56 - John  Filgear",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:49:43.205Z"
+}

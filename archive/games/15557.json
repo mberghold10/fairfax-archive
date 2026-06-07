@@ -1,0 +1,121 @@
+{
+  "gameId": "15557",
+  "date": "2022-12-27",
+  "divId": 264,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1624",
+    "name": "Goon Nation"
+  },
+  "away": {
+    "teamId": "1626",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "1624",
+        "name": "Goon Nation"
+      },
+      "scorer": "#28 - Alex  Henry",
+      "assist1": "#8 - Jason  Eister",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1624",
+        "name": "Goon Nation"
+      },
+      "scorer": "#15 - Warren  Conrow",
+      "assist1": "#2 - James  Marlowe",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:55",
+      "team": {
+        "teamId": "1624",
+        "name": "Goon Nation"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": "#15 - Warren  Conrow",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1626",
+        "name": "Wolves"
+      },
+      "player": "#65 - Stuart  Hoffman",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:32",
+      "team": {
+        "teamId": "1624",
+        "name": "Goon Nation"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1624",
+        "name": "Goon Nation"
+      },
+      "player": "#28 - Alex  Henry",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "1626",
+        "name": "Wolves"
+      },
+      "player": "#26 - Philip  Hogan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:58:20.294Z"
+}

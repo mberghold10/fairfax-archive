@@ -1,0 +1,139 @@
+{
+  "gameId": "16310",
+  "date": "2023-09-21",
+  "divId": 272,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1678",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1682",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:54",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "scorer": "#51 - Rob  Fischer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:31",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "scorer": "#38 - Dave  Wilson",
+      "assist1": "#51 - Rob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:21",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "scorer": "#79 - Dave  Gerstner",
+      "assist1": "#88 - Anthony  DeJohn",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:03",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "scorer": "#15 - Mark  Rudnicki",
+      "assist1": "#40 - Mike  Serebrennikov",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "scorer": "#79 - Dave  Gerstner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:57",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "scorer": "#38 - Dave  Wilson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "scorer": "#38 - Dave  Wilson",
+      "assist1": "#19 - Mike  Carr",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1678",
+        "name": "Penguins"
+      },
+      "player": "#40 - Mike  Serebrennikov",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "player": "#76 - John  Ellison",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:08:07.297Z"
+}

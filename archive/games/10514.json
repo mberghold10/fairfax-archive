@@ -1,0 +1,163 @@
+{
+  "gameId": "10514",
+  "date": "2017-06-01",
+  "divId": 163,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1047",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1045",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "1047",
+        "name": "Islanders"
+      },
+      "scorer": "#11 - Shane  Mitchell",
+      "assist1": "#26 - Jim  Silbermann",
+      "assist2": "#15 - Mark  Yawornicky"
+    },
+    {
+      "period": "2",
+      "time": "00:01:01",
+      "team": {
+        "teamId": "1045",
+        "name": "Old Goats"
+      },
+      "scorer": "#21 - Mike  Hawthorne",
+      "assist1": "#4 - Steve  Bradley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:07",
+      "team": {
+        "teamId": "1045",
+        "name": "Old Goats"
+      },
+      "scorer": "#21 - Mike  Hawthorne",
+      "assist1": "#17 - Dan  Pol",
+      "assist2": "#20 - Matt  Michelson"
+    },
+    {
+      "period": "2",
+      "time": "00:08:01",
+      "team": {
+        "teamId": "1045",
+        "name": "Old Goats"
+      },
+      "scorer": "#5 - Howie  Uman",
+      "assist1": "#98 - Robet  Shaw",
+      "assist2": "#37 - Nick  Desport"
+    },
+    {
+      "period": "2",
+      "time": "00:08:42",
+      "team": {
+        "teamId": "1045",
+        "name": "Old Goats"
+      },
+      "scorer": "#20 - Matt  Michelson",
+      "assist1": "#21 - Mike  Hawthorne",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:15:23",
+      "team": {
+        "teamId": "1047",
+        "name": "Islanders"
+      },
+      "scorer": "#13 - Tim  Cremen",
+      "assist1": "#71 - John  Buhler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1047",
+        "name": "Islanders"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": "#13 - Tim  Cremen"
+    },
+    {
+      "period": "3",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "1045",
+        "name": "Old Goats"
+      },
+      "scorer": "#4 - Steve  Bradley",
+      "assist1": "#20 - Matt  Michelson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:01",
+      "team": {
+        "teamId": "1045",
+        "name": "Old Goats"
+      },
+      "player": "#17 - Dan  Pol",
+      "pim": 2,
+      "offense": "goalie int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:04",
+      "team": {
+        "teamId": "1047",
+        "name": "Islanders"
+      },
+      "player": "#19 - Jason  Long",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:02",
+      "team": {
+        "teamId": "1047",
+        "name": "Islanders"
+      },
+      "player": "#71 - John  Buhler",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:09:16.993Z"
+}

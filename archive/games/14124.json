@@ -1,0 +1,82 @@
+{
+  "gameId": "14124",
+  "date": "2021-06-20",
+  "divId": 229,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1437",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1434",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:58",
+      "team": {
+        "teamId": "1434",
+        "name": "Wolves"
+      },
+      "scorer": "#50 - Lorin  Randall",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:48",
+      "team": {
+        "teamId": "1434",
+        "name": "Wolves"
+      },
+      "scorer": "#33 - Dmitriy  Achapkin",
+      "assist1": "#25 - Joe  DeNoyior",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1434",
+        "name": "Wolves"
+      },
+      "scorer": "#50 - Lorin  Randall",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "1437",
+        "name": "Maple Leafs"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:23:11.332Z"
+}

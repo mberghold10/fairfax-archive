@@ -1,0 +1,117 @@
+{
+  "gameId": "12720",
+  "date": "2019-06-05",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1261",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "1260",
+    "name": "North Stars"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "scorer": "#19 - Michael  Carr",
+      "assist1": "#28 - Pete  Sandness",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:28",
+      "team": {
+        "teamId": "1261",
+        "name": "Bruins"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#11 - Maloney  Bryan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:20",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "scorer": "#5 - Ben  Malakoff",
+      "assist1": "#88 - Evan  Wojtowicz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "scorer": "#22 - Joseph  Ney",
+      "assist1": "#5 - Ben  Malakoff",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:35",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "scorer": "#5 - Ben  Malakoff",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:03:52",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#50 - Jon  Boyens",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:44",
+      "team": {
+        "teamId": "1260",
+        "name": "North Stars"
+      },
+      "player": "#61 - Tero  Moberg",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:53:25.207Z"
+}

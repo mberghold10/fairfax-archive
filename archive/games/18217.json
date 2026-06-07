@@ -1,0 +1,119 @@
+{
+  "gameId": "18217",
+  "date": "2025-08-03",
+  "divId": 314,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1924",
+    "name": "Toronto"
+  },
+  "away": {
+    "teamId": "1923",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1923",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#14 - Lee  Molina",
+      "assist1": "#16 - Cullen  Finley",
+      "assist2": "#19 - Joe  Houlsey"
+    },
+    {
+      "period": "1",
+      "time": "00:00:11",
+      "team": {
+        "teamId": "1923",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#23 - Sal  St Thomas",
+      "assist1": "#66 - Terry  Saad",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1923",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#14 - Lee  Molina",
+      "assist1": "#16 - Cullen  Finley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:38",
+      "team": {
+        "teamId": "1923",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#14 - Lee  Molina",
+      "assist1": "#74 - Matthew  Santos",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:37",
+      "team": {
+        "teamId": "1923",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#74 - Matthew  Santos",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:04",
+      "team": {
+        "teamId": "1923",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#21 - Joe  Rhodes",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:55",
+      "team": {
+        "teamId": "1924",
+        "name": "Toronto"
+      },
+      "player": "#33 - Greg  Kowalksi",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:52:13.989Z"
+}

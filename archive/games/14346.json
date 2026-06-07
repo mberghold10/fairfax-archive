@@ -1,0 +1,232 @@
+{
+  "gameId": "14346",
+  "date": "2021-09-18",
+  "divId": 236,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1474",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1471",
+    "name": "Anonymous"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:11:35",
+      "team": {
+        "teamId": "1474",
+        "name": "Penguins"
+      },
+      "scorer": "#34 - Chad  Fisher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:08",
+      "team": {
+        "teamId": "1471",
+        "name": "Anonymous"
+      },
+      "scorer": "#16 - Dan  Rebman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:16",
+      "team": {
+        "teamId": "1471",
+        "name": "Anonymous"
+      },
+      "scorer": "#16 - Dan  Rebman",
+      "assist1": "#51 - Brendan  Bernat",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1474",
+        "name": "Penguins"
+      },
+      "scorer": "#34 - Chad  Fisher",
+      "assist1": "#25 - Jeff  Wojtala",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:13",
+      "team": {
+        "teamId": "1474",
+        "name": "Penguins"
+      },
+      "scorer": "#24 - Max  Alexeev",
+      "assist1": "#9 - Joe  Tierney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "1471",
+        "name": "Anonymous"
+      },
+      "scorer": "#4 - Peter  van Aartrijk",
+      "assist1": "#5 - Eddy  Lucas",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:57",
+      "team": {
+        "teamId": "1471",
+        "name": "Anonymous"
+      },
+      "player": "#89 - Andrew  Grose",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:39",
+      "team": {
+        "teamId": "1474",
+        "name": "Penguins"
+      },
+      "player": "#13 - Bob  Seal",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:59",
+      "team": {
+        "teamId": "1474",
+        "name": "Penguins"
+      },
+      "player": "#13 - Bob  Seal",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:37",
+      "team": {
+        "teamId": "1474",
+        "name": "Penguins"
+      },
+      "player": "#13 - Bob  Seal",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:32",
+      "team": {
+        "teamId": "1474",
+        "name": "Penguins"
+      },
+      "player": "#18 - Dominic  Pistolessi",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:32",
+      "team": {
+        "teamId": "1474",
+        "name": "Penguins"
+      },
+      "player": "#18 - Dominic  Pistolessi",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:32",
+      "team": {
+        "teamId": "1471",
+        "name": "Anonymous"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 2,
+      "offense": "instigator",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:32",
+      "team": {
+        "teamId": "1471",
+        "name": "Anonymous"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:32",
+      "team": {
+        "teamId": "1471",
+        "name": "Anonymous"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:32",
+      "team": {
+        "teamId": "1471",
+        "name": "Anonymous"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 10,
+      "offense": "match",
+      "isMajor": false,
+      "isMatch": true
+    }
+  ],
+  "_updated": "2026-06-06T20:28:13.073Z"
+}

@@ -1,0 +1,134 @@
+{
+  "gameId": "14264",
+  "date": "2021-08-14",
+  "divId": 238,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1489",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1485",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1485",
+        "name": "Roughnecks"
+      },
+      "scorer": "#10 - Dana  Kaufman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:46",
+      "team": {
+        "teamId": "1485",
+        "name": "Roughnecks"
+      },
+      "scorer": "#84 - David  Goldsrein",
+      "assist1": "#19 - David  Taylor",
+      "assist2": "#11 - Sean  Mcardie"
+    },
+    {
+      "period": "3",
+      "time": "00:06:54",
+      "team": {
+        "teamId": "1485",
+        "name": "Roughnecks"
+      },
+      "scorer": "#16 - Chris  Holbert",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "1485",
+        "name": "Roughnecks"
+      },
+      "player": "#19 - David  Taylor",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:12",
+      "team": {
+        "teamId": "1489",
+        "name": "Red Wings"
+      },
+      "player": "#23 - Nicholas  Karsten",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1489",
+        "name": "Red Wings"
+      },
+      "player": "#14 - Dave  Fisher",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1489",
+        "name": "Red Wings"
+      },
+      "player": "#29 - Regina  Hart",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:51",
+      "team": {
+        "teamId": "1485",
+        "name": "Roughnecks"
+      },
+      "player": "#84 - David  Goldsrein",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:29:27.143Z"
+}

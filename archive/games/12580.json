@@ -1,0 +1,156 @@
+{
+  "gameId": "12580",
+  "date": "2019-01-12",
+  "divId": 196,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1243",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1246",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:53",
+      "team": {
+        "teamId": "1246",
+        "name": "Hurricanes"
+      },
+      "scorer": "#17 - John  Wallace",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": "#2 - Mark  Jesten"
+    },
+    {
+      "period": "1",
+      "time": "00:10:46",
+      "team": {
+        "teamId": "1243",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#20 - Paul  Flood",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:49",
+      "team": {
+        "teamId": "1243",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#20 - Paul  Flood",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:17",
+      "team": {
+        "teamId": "1243",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#20 - Paul  Flood",
+      "assist1": "#27 - Tim  Witkiewicz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:56",
+      "team": {
+        "teamId": "1246",
+        "name": "Hurricanes"
+      },
+      "scorer": "#93 - Jeff  Nauer",
+      "assist1": "#89 - Frank  Congel",
+      "assist2": "#19 - Jason  Long"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1243",
+        "name": "Ice Dogs"
+      },
+      "player": "#27 - Tim  Witkiewicz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:49",
+      "team": {
+        "teamId": "1246",
+        "name": "Hurricanes"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:31",
+      "team": {
+        "teamId": "1246",
+        "name": "Hurricanes"
+      },
+      "player": "#2 - Mark  Jesten",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:27",
+      "team": {
+        "teamId": "1246",
+        "name": "Hurricanes"
+      },
+      "player": "#47 - Josh  Epstein",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:13",
+      "team": {
+        "teamId": "1243",
+        "name": "Ice Dogs"
+      },
+      "player": "#8 - Reid  Maki",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:50:30.091Z"
+}

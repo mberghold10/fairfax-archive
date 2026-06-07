@@ -1,0 +1,165 @@
+{
+  "gameId": "11403",
+  "date": "2018-01-05",
+  "divId": 176,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1123",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1124",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:33",
+      "team": {
+        "teamId": "1123",
+        "name": "Angry Moose"
+      },
+      "scorer": "#5 - John  Bennett",
+      "assist1": "#0 - Jory  Rubenstein",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:26",
+      "team": {
+        "teamId": "1123",
+        "name": "Angry Moose"
+      },
+      "scorer": "#12 - Alex  Fick",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "1124",
+        "name": "Lightning"
+      },
+      "scorer": "#88 - Daniel  Lange",
+      "assist1": "#34 - Jim  Kennedy",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:56",
+      "team": {
+        "teamId": "1124",
+        "name": "Lightning"
+      },
+      "scorer": "#13 - John  Kosak",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1124",
+        "name": "Lightning"
+      },
+      "scorer": "#67 - Neil  Fitzpatrick",
+      "assist1": "#34 - Jim  Kennedy",
+      "assist2": "#33 - Mike  Wagner"
+    },
+    {
+      "period": "2",
+      "time": "00:14:23",
+      "team": {
+        "teamId": "1123",
+        "name": "Angry Moose"
+      },
+      "scorer": "#5 - John  Bennett",
+      "assist1": "#20 - Jeremy  Davis",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:27",
+      "team": {
+        "teamId": "1123",
+        "name": "Angry Moose"
+      },
+      "scorer": "#24 - Scott  Pekotski",
+      "assist1": "#28 - Doug  Branton",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "1123",
+        "name": "Angry Moose"
+      },
+      "player": "#28 - Doug  Branton",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "1123",
+        "name": "Angry Moose"
+      },
+      "player": "#42 - Dan  Schwind",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:34",
+      "team": {
+        "teamId": "1124",
+        "name": "Lightning"
+      },
+      "player": "#27 - Andrew  Sundelin",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:26",
+      "team": {
+        "teamId": "1124",
+        "name": "Lightning"
+      },
+      "player": "#44 - Brian  Sheehan",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:25:30.375Z"
+}

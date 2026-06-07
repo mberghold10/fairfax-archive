@@ -1,0 +1,128 @@
+{
+  "gameId": "18310",
+  "date": "2025-07-29",
+  "divId": 317,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1942",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1941",
+    "name": "Fossil Pucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#79 - Jeff  Vandenberghe",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": "#22 - Amir  Tahami"
+    },
+    {
+      "period": "1",
+      "time": "00:03:28",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#79 - Jeff  Vandenberghe",
+      "assist1": "#67 - Drew  Miller",
+      "assist2": "#31 - Sam  Branham"
+    },
+    {
+      "period": "1",
+      "time": "00:13:11",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#92 - Dan  Horner",
+      "assist1": "#21 - Steve  Kaplan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:53",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:34",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#92 - Dan  Horner",
+      "assist1": "#47 - David  Hitchcock",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:39",
+      "team": {
+        "teamId": "1942",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:59",
+      "team": {
+        "teamId": "1941",
+        "name": "Fossil Pucks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:45",
+      "team": {
+        "teamId": "1941",
+        "name": "Fossil Pucks"
+      },
+      "player": "#7 - Graham  Eddy",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:56:00.266Z"
+}

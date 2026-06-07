@@ -1,0 +1,158 @@
+{
+  "gameId": "18692",
+  "date": "2026-03-06",
+  "divId": 322,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1971",
+    "name": "Jurassic Puck"
+  },
+  "away": {
+    "teamId": "1976",
+    "name": "D Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "1976",
+        "name": "D Punishers"
+      },
+      "scorer": "#23 - Bill  Motzko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:29",
+      "team": {
+        "teamId": "1971",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#20 - Ronan  Valdesaso",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:55",
+      "team": {
+        "teamId": "1976",
+        "name": "D Punishers"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": "#7 - Ken  Ochsner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "1976",
+        "name": "D Punishers"
+      },
+      "scorer": "#44 - Sean  Cullen",
+      "assist1": "#19 - Ira  Keltz",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:38",
+      "team": {
+        "teamId": "1976",
+        "name": "D Punishers"
+      },
+      "player": "#32 - Chuck  Wilkens",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1971",
+        "name": "Jurassic Puck"
+      },
+      "player": "#37 - Rob  Villar",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "1976",
+        "name": "D Punishers"
+      },
+      "player": "#23 - Bill  Motzko",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1971",
+        "name": "Jurassic Puck"
+      },
+      "player": "#20 - Ronan  Valdesaso",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "1976",
+        "name": "D Punishers"
+      },
+      "player": "#32 - Chuck  Wilkens",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1976",
+        "name": "D Punishers"
+      },
+      "player": "#23 - Bill  Motzko",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:01:05.646Z"
+}

@@ -1,0 +1,141 @@
+{
+  "gameId": "14132",
+  "date": "2021-07-03",
+  "divId": 230,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1442",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1438",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:15",
+      "team": {
+        "teamId": "1442",
+        "name": "Red Wings"
+      },
+      "scorer": "#470 - Jeff  Urlwin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:38",
+      "team": {
+        "teamId": "1438",
+        "name": "Roughnecks"
+      },
+      "scorer": "#13 - Joe  Beard",
+      "assist1": "#36 - Andrew  Arendt",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:19:35",
+      "team": {
+        "teamId": "1438",
+        "name": "Roughnecks"
+      },
+      "scorer": "#13 - Joe  Beard",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:25",
+      "team": {
+        "teamId": "1438",
+        "name": "Roughnecks"
+      },
+      "scorer": "#7 - Greg  Stankiewicz",
+      "assist1": "#29 - Chris  Dunn",
+      "assist2": "#36 - Andrew  Arendt"
+    },
+    {
+      "period": "2",
+      "time": "00:06:19",
+      "team": {
+        "teamId": "1442",
+        "name": "Red Wings"
+      },
+      "scorer": "#9 - Jon  Hulecki",
+      "assist1": "#27 - Nick  Montfort",
+      "assist2": "#43 - Matt  Mowery"
+    },
+    {
+      "period": "2",
+      "time": "00:08:27",
+      "team": {
+        "teamId": "1438",
+        "name": "Roughnecks"
+      },
+      "scorer": "#83 - Michael  Milazzo",
+      "assist1": "#13 - Joe  Beard",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:31",
+      "team": {
+        "teamId": "1442",
+        "name": "Red Wings"
+      },
+      "player": "#10 - Owen  Schaefer",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:42",
+      "team": {
+        "teamId": "1438",
+        "name": "Roughnecks"
+      },
+      "player": "#56 - Joseph  Stroup",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1438",
+        "name": "Roughnecks"
+      },
+      "player": "#7 - Greg  Stankiewicz",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:23:55.409Z"
+}

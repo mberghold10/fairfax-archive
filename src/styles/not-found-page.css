@@ -1,0 +1,37 @@
+/*
+ * NotFoundPage styles
+ * Simple centered layout for the 404 catch-all page
+ */
+
+.not-found-page {
+  padding-bottom: var(--spacing-xl);
+}
+
+.not-found-page__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding-block: var(--spacing-3xl);
+  gap: var(--spacing-md);
+}
+
+.not-found-page__heading {
+  font-size: var(--font-size-3xl);
+  color: var(--color-text-primary);
+  margin: 0;
+}
+
+.not-found-page__message {
+  font-size: var(--font-size-lg);
+  color: var(--color-text-secondary);
+  margin: 0;
+  max-width: 40ch;
+}
+
+.not-found-page__home-link {
+  display: inline-block;
+  margin-top: var(--spacing-md);
+  text-decoration: none;
+  padding: var(--spacing-sm) var(--spacing-lg);
+}

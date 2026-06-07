@@ -1,0 +1,235 @@
+{
+  "gameId": "12717",
+  "date": "2019-06-02",
+  "divId": 199,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1265",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1262",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:11",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "scorer": "#2 - Billy  Borris",
+      "assist1": "#5 - Peter  Boone",
+      "assist2": "#19 - Andrew  Grose"
+    },
+    {
+      "period": "1",
+      "time": "00:07:33",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#82 - Neil  Schoenthaler",
+      "assist1": "#23 - Gordon  Scott",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:04",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "scorer": "#83 - Joe  Tierney",
+      "assist1": "#3 - Kareem  El-Alaily",
+      "assist2": "#24 - Michael  Sheridan"
+    },
+    {
+      "period": "2",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "scorer": "#10 - Aaron  Dobbs",
+      "assist1": "#3 - Kareem  El-Alaily",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "scorer": "#24 - Michael  Sheridan",
+      "assist1": "#14 - Jude  Corina",
+      "assist2": "#4 - Tad  Jose"
+    },
+    {
+      "period": "2",
+      "time": "00:07:52",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "scorer": "#83 - Joe  Tierney",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "scorer": "#10 - Aaron  Dobbs",
+      "assist1": "#4 - Tad  Jose",
+      "assist2": "#24 - Michael  Sheridan"
+    },
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#82 - Neil  Schoenthaler",
+      "assist1": "#23 - Gordon  Scott",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:05",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#82 - Neil  Schoenthaler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "scorer": "#14 - Jude  Corina",
+      "assist1": "#3 - Kareem  El-Alaily",
+      "assist2": "#4 - Tad  Jose"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:11",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#23 - Gordon  Scott",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:42",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "player": "#14 - Jude  Corina",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "player": "#4 - Tad  Jose",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:32",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "player": "#24 - Michael  Sheridan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:09",
+      "team": {
+        "teamId": "1265",
+        "name": "Nortec"
+      },
+      "player": "#9 - Mark  Rudnicki",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "1262",
+        "name": "Goons"
+      },
+      "player": "#22 - Brian  Dutton",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:53:22.340Z"
+}

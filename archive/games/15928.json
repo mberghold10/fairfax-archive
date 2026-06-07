@@ -1,0 +1,156 @@
+{
+  "gameId": "15928",
+  "date": "2023-06-06",
+  "divId": 267,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1646",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1647",
+    "name": "Redhawks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:57",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "scorer": "#46 - Dan  OConnell",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "2",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#20 - Halden  Smith",
+      "assist1": "#5 - Jonathon  Didas",
+      "assist2": "#2 - Jason  Abkowitz"
+    },
+    {
+      "period": "3",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#20 - Halden  Smith",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#5 - Jonathon  Didas",
+      "assist1": "#54 - Ryan  Galluzzo",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:02",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "scorer": "#2 - Jason  Abkowitz",
+      "assist1": "#5 - Jonathon  Didas",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "player": "#5 - Jonathon  Didas",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:50",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "player": "#88 - Mason  Letourneau",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1646",
+        "name": "Englewood"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:39",
+      "team": {
+        "teamId": "1647",
+        "name": "Redhawks"
+      },
+      "player": "#71 - Stephen  Henley",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:00:53.886Z"
+}

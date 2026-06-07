@@ -1,0 +1,106 @@
+{
+  "gameId": "19062",
+  "date": "2026-04-12",
+  "divId": 326,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2013",
+    "name": "Black Sheep"
+  },
+  "away": {
+    "teamId": "2014",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:23",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#26 - Bob  Banasik",
+      "assist1": "#38 - Dave  Wilson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:11",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#38 - Dave  Wilson",
+      "assist1": "#51 - Rob  Fischer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:05",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "scorer": "#27 - Rob  Helfant",
+      "assist1": "#8 - Chris  White",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#26 - Bob  Banasik",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:47",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "player": "#7 - Dan  Ellert",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:46",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "player": "#26 - Bob  Banasik",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:06:10.164Z"
+}

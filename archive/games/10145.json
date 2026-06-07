@@ -1,0 +1,150 @@
+{
+  "gameId": "10145",
+  "date": "2016-12-23",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1019",
+    "name": "Turtle Power"
+  },
+  "away": {
+    "teamId": "1023",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#13 - Shane  Mitchell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:36",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": "#77 - Caleb  Sohl",
+      "assist2": "#99 - Jon  Davoren"
+    },
+    {
+      "period": "2",
+      "time": "00:14:41",
+      "team": {
+        "teamId": "1019",
+        "name": "Turtle Power"
+      },
+      "scorer": "#88 - Will  Merritt",
+      "assist1": "#69 - Andres  Gleason",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1019",
+        "name": "Turtle Power"
+      },
+      "scorer": "#88 - Will  Merritt",
+      "assist1": "#69 - Andres  Gleason",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1019",
+        "name": "Turtle Power"
+      },
+      "scorer": "#99 - Stephen  Arthur",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:52",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#13 - Shane  Mitchell",
+      "assist1": "#35 - Ross  Kuhn",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:41",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "scorer": "#7 - Dan  Miller",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "1019",
+        "name": "Turtle Power"
+      },
+      "player": "#24 - James  Grasselli",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:00",
+      "team": {
+        "teamId": "1023",
+        "name": "Avalanche"
+      },
+      "player": "#7 - Dan  Miller",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:04:37.072Z"
+}

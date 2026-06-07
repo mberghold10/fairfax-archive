@@ -1,0 +1,132 @@
+{
+  "gameId": "17805",
+  "date": "2025-04-19",
+  "divId": 299,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1837",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1895",
+    "name": "Smoke Wagon"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:58",
+      "team": {
+        "teamId": "1895",
+        "name": "Smoke Wagon"
+      },
+      "scorer": "#26 - Matt  Colombo",
+      "assist1": "#11 - Thomas  Bailey",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:23",
+      "team": {
+        "teamId": "1895",
+        "name": "Smoke Wagon"
+      },
+      "scorer": "#26 - Matt  Colombo",
+      "assist1": "#91 - Kyle  Weitzman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:29",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "scorer": "#5 - Peter  Boone",
+      "assist1": "#65 - Bobby  Woods-Corwin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1895",
+        "name": "Smoke Wagon"
+      },
+      "scorer": "#26 - Matt  Colombo",
+      "assist1": "#47 - Andrew  Kent",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "player": "#68 - Jeff  Gilmore",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1895",
+        "name": "Smoke Wagon"
+      },
+      "player": "#3 - Matt  Jennings",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1837",
+        "name": "Nortec"
+      },
+      "player": "#68 - Jeff  Gilmore",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:19",
+      "team": {
+        "teamId": "1895",
+        "name": "Smoke Wagon"
+      },
+      "player": "#28 - Bryce  Coughlin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:36:57.138Z"
+}

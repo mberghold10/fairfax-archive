@@ -1,0 +1,218 @@
+{
+  "gameId": "1142",
+  "date": "2021-07-20",
+  "divId": 229,
+  "seasonName": "Spring 2021",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1437",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1435",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:26",
+      "team": {
+        "teamId": "1437",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#31 - Alex  Brown",
+      "assist1": "#16 - Greg  Thomas",
+      "assist2": "#47 - Jeff  Urlwin"
+    },
+    {
+      "period": "1",
+      "time": "00:03:07",
+      "team": {
+        "teamId": "1435",
+        "name": "Old Goats"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#20 - Matt  Michelson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:51",
+      "team": {
+        "teamId": "1437",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#47 - Jeff  Urlwin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1435",
+        "name": "Old Goats"
+      },
+      "scorer": "#20 - Matt  Michelson",
+      "assist1": "#52 - Alan  Dappen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "1437",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#8 - Elliott  Yang",
+      "assist1": "#20 - Bao  Pham",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:47",
+      "team": {
+        "teamId": "1435",
+        "name": "Old Goats"
+      },
+      "scorer": "#20 - Matt  Michelson",
+      "assist1": "#77 - Dave  Lin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:37",
+      "team": {
+        "teamId": "1435",
+        "name": "Old Goats"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:07",
+      "team": {
+        "teamId": "1437",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#89 - Brandon  Barhorst",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:09",
+      "team": {
+        "teamId": "1437",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#8 - Elliott  Yang",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1435",
+        "name": "Old Goats"
+      },
+      "scorer": "#24 - Michael  Duell",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "1435",
+        "name": "Old Goats"
+      },
+      "scorer": "#21 - Michael  Hawthorne",
+      "assist1": "#20 - Matt  Michelson",
+      "assist2": "#37 - Nick  Desport"
+    },
+    {
+      "period": "3",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1437",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#31 - Alex  Brown",
+      "assist1": "#16 - Greg  Thomas",
+      "assist2": "#47 - Jeff  Urlwin"
+    },
+    {
+      "period": "3",
+      "time": "00:10:48",
+      "team": {
+        "teamId": "1435",
+        "name": "Old Goats"
+      },
+      "scorer": "#52 - Alan  Dappen",
+      "assist1": "#24 - Michael  Duell",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:53",
+      "team": {
+        "teamId": "1435",
+        "name": "Old Goats"
+      },
+      "player": "#20 - Matt  Michelson",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1435",
+        "name": "Old Goats"
+      },
+      "player": "#21 - Michael  Hawthorne",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:11",
+      "team": {
+        "teamId": "1437",
+        "name": "Maple Leafs"
+      },
+      "player": "#32 - Brian  Freeman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:23:22.648Z"
+}

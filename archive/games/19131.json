@@ -1,0 +1,128 @@
+{
+  "gameId": "19131",
+  "date": "2026-04-19",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2007",
+    "name": "Roccos"
+  },
+  "away": {
+    "teamId": "2001",
+    "name": "Slashing Pumpkins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#80 - Alek  Santos",
+      "assist1": "#8 - Jared  Groneman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:48",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#33 - Chris  Adams",
+      "assist1": "#24 - Darcy  Rosenbaum",
+      "assist2": "#16 - Jacob  Kohls"
+    },
+    {
+      "period": "1",
+      "time": "00:18:58",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#8 - Jared  Groneman",
+      "assist1": "#42 - Drew  Carbone",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:49",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#88 - Mark  Griffith",
+      "assist1": "#81 - Sean  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#88 - Mark  Griffith",
+      "assist1": "#81 - Sean  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#16 - Jacob  Kohls",
+      "assist1": "#81 - Sean  Murphy",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "player": "#52 - John  Juliano",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "player": "#29 - Silas  Bruccoleri",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:08:43.746Z"
+}

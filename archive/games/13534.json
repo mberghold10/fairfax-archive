@@ -1,0 +1,150 @@
+{
+  "gameId": "13534",
+  "date": "2020-02-29",
+  "divId": 209,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1320",
+    "name": "Moose"
+  },
+  "away": {
+    "teamId": "1325",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:57",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "scorer": "#3 - Julien  De Grandpre",
+      "assist1": "#29 - Michael  Carzoli",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:59",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "scorer": "#89 - Sid  Han",
+      "assist1": "#8 - Kevin  Free",
+      "assist2": "#29 - Michael  Carzoli"
+    },
+    {
+      "period": "2",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "scorer": "#3 - Julien  De Grandpre",
+      "assist1": "#29 - Michael  Carzoli",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:52",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "scorer": "#8 - Kevin  Free",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "scorer": "#3 - Eric  Baltas",
+      "assist1": "#12 - Kevin  Bowser",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "scorer": "#2 - Sam  Ziesler",
+      "assist1": "#5 - Chris  Marotta",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:57",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "scorer": "#6 - Kelly  Harmon",
+      "assist1": "#5 - Chris  Marotta",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:57",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "scorer": "#8 - Kevin  Free",
+      "assist1": "#29 - Michael  Carzoli",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:00",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "player": "#12 - Kevin  Bowser",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:05:38.223Z"
+}

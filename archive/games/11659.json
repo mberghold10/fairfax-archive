@@ -1,0 +1,123 @@
+{
+  "gameId": "11659",
+  "date": "2018-05-12",
+  "divId": 185,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1174",
+    "name": "River Rats"
+  },
+  "away": {
+    "teamId": "1178",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1174",
+        "name": "River Rats"
+      },
+      "scorer": "#31 - Sam  Branham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "1174",
+        "name": "River Rats"
+      },
+      "scorer": "#36 - Evan  Clinton",
+      "assist1": "#20 - Paul  Flood",
+      "assist2": "#12 - William  Howe"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "1174",
+        "name": "River Rats"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:07",
+      "team": {
+        "teamId": "1174",
+        "name": "River Rats"
+      },
+      "player": "#12 - William  Howe",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:35",
+      "team": {
+        "teamId": "1178",
+        "name": "Lightning"
+      },
+      "player": "#10 - Bud  DaRin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:47",
+      "team": {
+        "teamId": "1174",
+        "name": "River Rats"
+      },
+      "player": "#22 - Patrick  Creamer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:01",
+      "team": {
+        "teamId": "1178",
+        "name": "Lightning"
+      },
+      "player": "#91 - Steve  Chernoff",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:35:48.508Z"
+}

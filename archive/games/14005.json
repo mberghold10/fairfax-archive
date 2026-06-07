@@ -1,0 +1,178 @@
+{
+  "gameId": "14005",
+  "date": "2021-05-22",
+  "divId": 226,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1422",
+    "name": "Bluejacket Capitals"
+  },
+  "away": {
+    "teamId": "1421",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 1,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1421",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": "#5 - Oleg  Kolodin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:59",
+      "team": {
+        "teamId": "1422",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#25 - Ken  Chin",
+      "assist1": "#7 - Dan  Ellert",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "1421",
+        "name": "Avalanche"
+      },
+      "scorer": "#12 - Jason  Wakeman",
+      "assist1": "#10 - Kevin  Free",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1421",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": "#12 - Jason  Wakeman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:43",
+      "team": {
+        "teamId": "1422",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#9 - Erik  Haas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:46",
+      "team": {
+        "teamId": "1422",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": "#9 - Erik  Haas",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:15",
+      "team": {
+        "teamId": "1421",
+        "name": "Avalanche"
+      },
+      "scorer": "#32 - Tim  Frederick",
+      "assist1": "#3 - Kyle  OGrady",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "1421",
+        "name": "Avalanche"
+      },
+      "player": "#9 - Ann  Nosek",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:14",
+      "team": {
+        "teamId": "1421",
+        "name": "Avalanche"
+      },
+      "player": "#9 - Ann  Nosek",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:34",
+      "team": {
+        "teamId": "1422",
+        "name": "Bluejacket Capitals"
+      },
+      "player": "#17 - Bill  DeMaso",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "1422",
+        "name": "Bluejacket Capitals"
+      },
+      "player": "#17 - Bill  DeMaso",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:16",
+      "team": {
+        "teamId": "1421",
+        "name": "Avalanche"
+      },
+      "player": "#9 - Ann  Nosek",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:20:41.242Z"
+}

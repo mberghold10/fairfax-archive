@@ -1,0 +1,165 @@
+{
+  "gameId": "18232",
+  "date": "2025-09-01",
+  "divId": 314,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1920",
+    "name": "Alers"
+  },
+  "away": {
+    "teamId": "1925",
+    "name": "Triassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "1920",
+        "name": "Alers"
+      },
+      "scorer": "#47 - James T Kim",
+      "assist1": "#34 - William  Happ",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1920",
+        "name": "Alers"
+      },
+      "scorer": "#8 - Tim  Lo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:07",
+      "team": {
+        "teamId": "1925",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#42 - Jonathan  Coley",
+      "assist1": "#55 - Tool  Jampathon",
+      "assist2": "#97 - John  Juliano Jr"
+    },
+    {
+      "period": "2",
+      "time": "00:10:28",
+      "team": {
+        "teamId": "1920",
+        "name": "Alers"
+      },
+      "scorer": "#21 - Larry  Silver",
+      "assist1": "#78 - Ramzi  Farah",
+      "assist2": "#34 - William  Happ"
+    },
+    {
+      "period": "3",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "1920",
+        "name": "Alers"
+      },
+      "scorer": "#81 - David  Culverhouse",
+      "assist1": "#85 - Eric  Wu",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1920",
+        "name": "Alers"
+      },
+      "scorer": "#8 - Tim  Lo",
+      "assist1": "#82 - Michael  Forrester",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1920",
+        "name": "Alers"
+      },
+      "scorer": "#8 - Tim  Lo",
+      "assist1": "#6 - Andy  Lindsey",
+      "assist2": "#1 - Thomas  Newberg"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "1920",
+        "name": "Alers"
+      },
+      "player": "#8 - Tim  Lo",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:04",
+      "team": {
+        "teamId": "1925",
+        "name": "Triassic Puck"
+      },
+      "player": "#52 - John  Juliano",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "1920",
+        "name": "Alers"
+      },
+      "player": "#81 - David  Culverhouse",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "1925",
+        "name": "Triassic Puck"
+      },
+      "player": "#52 - John  Juliano",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:52:30.282Z"
+}

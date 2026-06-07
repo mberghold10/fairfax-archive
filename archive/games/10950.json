@@ -1,0 +1,152 @@
+{
+  "gameId": "10950",
+  "date": "2017-09-25",
+  "divId": 175,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1115",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1117",
+    "name": "BlueJacket Capitals"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#63 - Steven  Yu",
+      "assist1": "#16 - Nurali  Jamani",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:04",
+      "team": {
+        "teamId": "1117",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": "#15 - Bob  Guckian",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:26",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#7 - Evan  Wojtowicz",
+      "assist1": "#42 - Adam  Russell",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#16 - Nurali  Jamani",
+      "assist1": "#63 - Steven  Yu",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "scorer": "#55 - Ben  Malakoff",
+      "assist1": "#16 - Nurali  Jamani",
+      "assist2": "#63 - Steven  Yu"
+    },
+    {
+      "period": "3",
+      "time": "00:10:16",
+      "team": {
+        "teamId": "1117",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#52 - Alan  Dappen",
+      "assist1": "#42 - Jeff  Lovett",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1117",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#18 - Peter  Poczatek",
+      "assist1": "#7 - Gary  McMahon",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "player": "#7 - Evan  Wojtowicz",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:12",
+      "team": {
+        "teamId": "1115",
+        "name": "North Stars"
+      },
+      "player": "#5 - Joseph  Ney",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:23:26.844Z"
+}

@@ -1,0 +1,187 @@
+{
+  "gameId": "1586",
+  "date": "2025-11-19",
+  "divId": 315,
+  "seasonName": "Summer 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1927",
+    "name": "Ers"
+  },
+  "away": {
+    "teamId": "1931",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:59",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#69 - Aaron  Domnitch",
+      "assist2": "#57 - Derek  Morrissette"
+    },
+    {
+      "period": "2",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#9 - Matthew  Satterley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1927",
+        "name": "Ers"
+      },
+      "scorer": "#3 - Matt  Cerce",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:02",
+      "team": {
+        "teamId": "1927",
+        "name": "Ers"
+      },
+      "scorer": "#7 - Matt  ODriscoll",
+      "assist1": "#3 - Matt  Cerce",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:46",
+      "team": {
+        "teamId": "1927",
+        "name": "Ers"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:47",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:58",
+      "team": {
+        "teamId": "1927",
+        "name": "Ers"
+      },
+      "scorer": "#3 - Matt  Cerce",
+      "assist1": "#92 - TC  Rotunda",
+      "assist2": "#28 - Eric  Mastromatteo"
+    },
+    {
+      "period": "3",
+      "time": "00:03:28",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:57",
+      "team": {
+        "teamId": "1927",
+        "name": "Ers"
+      },
+      "scorer": "#3 - Matt  Cerce",
+      "assist1": "#28 - Eric  Mastromatteo",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1927",
+        "name": "Ers"
+      },
+      "player": "#17 - Don  Bainbridge",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1927",
+        "name": "Ers"
+      },
+      "player": "#24 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:58",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "player": "#65 - Bobby  Woods-Corwin",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:15",
+      "team": {
+        "teamId": "1931",
+        "name": "Bruins"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:54:07.406Z"
+}

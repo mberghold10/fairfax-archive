@@ -1,0 +1,132 @@
+{
+  "gameId": "14222",
+  "date": "2021-08-30",
+  "divId": 234,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1463",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1464",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "1464",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#14 - Chukie  Ezike",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:58",
+      "team": {
+        "teamId": "1464",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#14 - Chukie  Ezike",
+      "assist1": "#25 - Neil  Dsouza",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1464",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#14 - Chukie  Ezike",
+      "assist1": "#39 - Alex  Cimon",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:16",
+      "team": {
+        "teamId": "1463",
+        "name": "Dragons"
+      },
+      "scorer": "#32 - Rob  Stewart",
+      "assist1": "#61 - Tommy  Ripke",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "1463",
+        "name": "Dragons"
+      },
+      "player": "#100 - Goalie  Substitue",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:08",
+      "team": {
+        "teamId": "1464",
+        "name": "Mad Dogs"
+      },
+      "player": "#0 - Ruben  Garcia",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1464",
+        "name": "Mad Dogs"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:44",
+      "team": {
+        "teamId": "1463",
+        "name": "Dragons"
+      },
+      "player": "#42 - David  Hagemeiser",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:26:25.008Z"
+}

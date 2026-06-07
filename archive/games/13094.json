@@ -1,0 +1,139 @@
+{
+  "gameId": "13094",
+  "date": "2019-09-07",
+  "divId": 204,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1293",
+    "name": "Devils"
+  },
+  "away": {
+    "teamId": "1307",
+    "name": "Whalers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:52",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "scorer": "#8 - Peter  Lee",
+      "assist1": "#55 - Joel  Whitney",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:59",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "scorer": "#31 - Craig  Kabis",
+      "assist1": "#8 - Peter  Lee",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:05",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "scorer": "#31 - Craig  Kabis",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "scorer": "#8 - Peter  Lee",
+      "assist1": "#31 - Craig  Kabis",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:25",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "scorer": "#2 - Steve  Sondheimer",
+      "assist1": "#31 - Craig  Kabis",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:42",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "#22 - Jongjae  Yoo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:38",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "scorer": "#8 - Peter  Lee",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:35",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "player": "#72 - Kyle  Brosnan",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:29",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "player": "#31 - Craig  Kabis",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:59:54.297Z"
+}

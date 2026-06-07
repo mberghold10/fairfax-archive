@@ -1,0 +1,117 @@
+{
+  "gameId": "15995",
+  "date": "2023-07-22",
+  "divId": 270,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1669",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "1667",
+    "name": "Bottle Caps"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "1667",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#19 - Colin  Bartlett",
+      "assist1": "#77 - Trevor  Boynton",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1669",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#63 - Forrest  Hitchcock",
+      "assist1": "#31 - Sam  Branham",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:06",
+      "team": {
+        "teamId": "1667",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#10 - Dana  Kaufman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:05",
+      "team": {
+        "teamId": "1669",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#34 - Josh  Davis",
+      "assist1": "#31 - Sam  Branham",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1667",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#1 - Thomas  Newberg",
+      "assist1": "#19 - Colin  Bartlett",
+      "assist2": "#77 - Trevor  Boynton"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:45",
+      "team": {
+        "teamId": "1667",
+        "name": "Bottle Caps"
+      },
+      "player": "#19 - Colin  Bartlett",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:18",
+      "team": {
+        "teamId": "1667",
+        "name": "Bottle Caps"
+      },
+      "player": "#19 - Colin  Bartlett",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:05:16.486Z"
+}

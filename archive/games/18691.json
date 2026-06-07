@@ -1,0 +1,117 @@
+{
+  "gameId": "18691",
+  "date": "2026-03-01",
+  "divId": 322,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1975",
+    "name": "Windbreakers"
+  },
+  "away": {
+    "teamId": "1976",
+    "name": "D Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "1976",
+        "name": "D Punishers"
+      },
+      "scorer": "#35 - Jeff  Colwell",
+      "assist1": "#19 - Ira  Keltz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:24",
+      "team": {
+        "teamId": "1976",
+        "name": "D Punishers"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": "#13 - Gabi  Wind",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1976",
+        "name": "D Punishers"
+      },
+      "scorer": "#7 - Ken  Ochsner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1976",
+        "name": "D Punishers"
+      },
+      "scorer": "#17 - Dan  Pol",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:24",
+      "team": {
+        "teamId": "1975",
+        "name": "Windbreakers"
+      },
+      "scorer": "#42 - Alex  Yen",
+      "assist1": "#27 - James  Fothergill",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "1976",
+        "name": "D Punishers"
+      },
+      "player": "#23 - Bill  Motzko",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:48",
+      "team": {
+        "teamId": "1976",
+        "name": "D Punishers"
+      },
+      "player": "#35 - Jeff  Colwell",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:01:03.634Z"
+}

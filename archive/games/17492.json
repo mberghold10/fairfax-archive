@@ -1,0 +1,152 @@
+{
+  "gameId": "17492",
+  "date": "2024-11-26",
+  "divId": 298,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1835",
+    "name": "Kings"
+  },
+  "away": {
+    "teamId": "1834",
+    "name": "Redhawks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:19",
+      "team": {
+        "teamId": "1834",
+        "name": "Redhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": "#91 - Evan  Prestera",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1835",
+        "name": "Kings"
+      },
+      "scorer": "#64 - Derek  Bluth",
+      "assist1": "#7 - Michael  Hoard",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:41",
+      "team": {
+        "teamId": "1835",
+        "name": "Kings"
+      },
+      "scorer": "#72 - Brian  Lee",
+      "assist1": "#8 - David  Satagaj",
+      "assist2": "#64 - Derek  Bluth"
+    },
+    {
+      "period": "2",
+      "time": "00:12:36",
+      "team": {
+        "teamId": "1834",
+        "name": "Redhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:47",
+      "team": {
+        "teamId": "1835",
+        "name": "Kings"
+      },
+      "scorer": "#13 - Brandon  Nolan",
+      "assist1": "#72 - Brian  Lee",
+      "assist2": "#43 - Anthony  Federico"
+    },
+    {
+      "period": "3",
+      "time": "00:07:19",
+      "team": {
+        "teamId": "1835",
+        "name": "Kings"
+      },
+      "scorer": "#82 - Caleb  Sohl",
+      "assist1": null,
+      "assist2": "#14 - Dominic  Pistolessi"
+    },
+    {
+      "period": "3",
+      "time": "00:14:36",
+      "team": {
+        "teamId": "1835",
+        "name": "Kings"
+      },
+      "scorer": "#8 - David  Satagaj",
+      "assist1": "#13 - Brandon  Nolan",
+      "assist2": "#43 - Anthony  Federico"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:53",
+      "team": {
+        "teamId": "1834",
+        "name": "Redhawks"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:55",
+      "team": {
+        "teamId": "1834",
+        "name": "Redhawks"
+      },
+      "player": "#8 - Brenden  Millice",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:07",
+      "team": {
+        "teamId": "1835",
+        "name": "Kings"
+      },
+      "player": "#8 - David  Satagaj",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:35:00.865Z"
+}

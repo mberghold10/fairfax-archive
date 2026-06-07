@@ -1,0 +1,167 @@
+{
+  "gameId": "11682",
+  "date": "2018-05-12",
+  "divId": 186,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1186",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1182",
+    "name": "Mighty Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1182",
+        "name": "Mighty Moose"
+      },
+      "scorer": "#72 - Ted  Burmeister",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1186",
+        "name": "Dragons"
+      },
+      "scorer": "#27 - Philip  Brooks",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:51",
+      "team": {
+        "teamId": "1186",
+        "name": "Dragons"
+      },
+      "scorer": "#88 - Maddy  Padgett",
+      "assist1": "#27 - Philip  Brooks",
+      "assist2": "#77 - Dylan  Gerhard"
+    },
+    {
+      "period": "2",
+      "time": "00:01:58",
+      "team": {
+        "teamId": "1186",
+        "name": "Dragons"
+      },
+      "scorer": "#14 - James  Miller",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:18",
+      "team": {
+        "teamId": "1186",
+        "name": "Dragons"
+      },
+      "scorer": "#77 - Dylan  Gerhard",
+      "assist1": "#88 - Maddy  Padgett",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:44",
+      "team": {
+        "teamId": "1186",
+        "name": "Dragons"
+      },
+      "scorer": "#68 - Matt  Taylor",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "1182",
+        "name": "Mighty Moose"
+      },
+      "player": "#7 - Justin  Kent",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:16",
+      "team": {
+        "teamId": "1182",
+        "name": "Mighty Moose"
+      },
+      "player": "#37 - Craig  Richardson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "1186",
+        "name": "Dragons"
+      },
+      "player": "#68 - Matt  Taylor",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "1182",
+        "name": "Mighty Moose"
+      },
+      "player": "#2 - Dennis  Valentine",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1182",
+        "name": "Mighty Moose"
+      },
+      "player": "#0 - Jory  Rubenstein",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:37:13.002Z"
+}

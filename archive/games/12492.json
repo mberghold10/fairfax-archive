@@ -1,0 +1,134 @@
+{
+  "gameId": "12492",
+  "date": "2019-02-11",
+  "divId": 193,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1226",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "1228",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:15",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "scorer": "#3 - Ilana  Bell",
+      "assist1": "#35 - Doug  Toler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "1226",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#22 - Amir  Tahani",
+      "assist1": "#16 - Brian  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:25",
+      "team": {
+        "teamId": "1226",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#20 - Paul  Flood",
+      "assist1": "#14 - Chuckie  Ezike",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:06",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "player": "#14 - James  Miller",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:23",
+      "team": {
+        "teamId": "1226",
+        "name": "Mad Dogs"
+      },
+      "player": "#32 - Marty  Langley",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:59",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "player": "#5 - Sam  Bryce",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:10",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "player": "#17 - Emma  Alperin",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:03",
+      "team": {
+        "teamId": "1226",
+        "name": "Mad Dogs"
+      },
+      "player": "#93 - David  Taves",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:46:31.645Z"
+}

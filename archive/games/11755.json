@@ -1,0 +1,104 @@
+{
+  "gameId": "11755",
+  "date": "2018-07-09",
+  "divId": 186,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1187",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1181",
+    "name": "Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:43",
+      "team": {
+        "teamId": "1181",
+        "name": "Crabs"
+      },
+      "scorer": "#3 - Mat  White",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#4 - Sam  Hauslohner",
+      "assist1": "#8 - AJ  Ellis",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:10",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#62 - Jim  Jewell",
+      "assist1": "#8 - AJ  Ellis",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:08",
+      "team": {
+        "teamId": "1187",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#21 - Joshua  Vichness",
+      "assist1": "#6 - JB  Merritt",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "1181",
+        "name": "Crabs"
+      },
+      "player": "#40 - Hank  Kim",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:37:44.953Z"
+}

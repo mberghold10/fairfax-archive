@@ -1,0 +1,143 @@
+{
+  "gameId": "11928",
+  "date": "2018-08-25",
+  "divId": 186,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1186",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1183",
+    "name": "Sparks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1186",
+        "name": "Dragons"
+      },
+      "scorer": "#36 - Nick  Fishter",
+      "assist1": "#3 - Ilana  Bell",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:09",
+      "team": {
+        "teamId": "1186",
+        "name": "Dragons"
+      },
+      "scorer": "#77 - Dylan  Gerhard",
+      "assist1": "#36 - Nick  Fishter",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "1183",
+        "name": "Sparks"
+      },
+      "scorer": "#9 - Shannon  Karner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "1186",
+        "name": "Dragons"
+      },
+      "scorer": "#77 - Dylan  Gerhard",
+      "assist1": "#13 - Jeff  Willard",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:57",
+      "team": {
+        "teamId": "1183",
+        "name": "Sparks"
+      },
+      "scorer": "#88 - Daniel  Lange",
+      "assist1": "#22 - Nick  Kolovos",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:31",
+      "team": {
+        "teamId": "1186",
+        "name": "Dragons"
+      },
+      "player": "#36 - Nick  Fishter",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1183",
+        "name": "Sparks"
+      },
+      "player": "#41 - Randy  Warren",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:32",
+      "team": {
+        "teamId": "1183",
+        "name": "Sparks"
+      },
+      "player": "#33 - Mike  Wagner",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:32",
+      "team": {
+        "teamId": "1186",
+        "name": "Dragons"
+      },
+      "player": "#36 - Nick  Fishter",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:38:13.994Z"
+}

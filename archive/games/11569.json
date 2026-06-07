@@ -1,0 +1,106 @@
+{
+  "gameId": "11569",
+  "date": "2018-05-13",
+  "divId": 181,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1153",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1156",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1156",
+        "name": "Islanders"
+      },
+      "scorer": "#11 - Shane  Mitchell",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:03",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "scorer": "#34 - Chad  Fisher",
+      "assist1": "#7 - Dan  Ellert",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1156",
+        "name": "Islanders"
+      },
+      "scorer": "#31 - Jason  Apergis",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": "#14 - Charlie  Campbell",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:19",
+      "team": {
+        "teamId": "1153",
+        "name": "Penguins"
+      },
+      "player": "#34 - Chad  Fisher",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:39",
+      "team": {
+        "teamId": "1156",
+        "name": "Islanders"
+      },
+      "player": "#38 - Ted  Satterthwaite",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:30:56.546Z"
+}

@@ -1,0 +1,128 @@
+{
+  "gameId": "11597",
+  "date": "2018-06-02",
+  "divId": 182,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1161",
+    "name": "Beltway Butchers"
+  },
+  "away": {
+    "teamId": "1158",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "scorer": "#10 - Rich  Scigaj",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "1161",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#86 - John  Persinger",
+      "assist1": "#16 - Dan  Rebmann",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:20",
+      "team": {
+        "teamId": "1161",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#63 - Bill  Linzey",
+      "assist1": "#21 - John  Elliott",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "scorer": "#98 - Barret  Hildebrand",
+      "assist1": "#16 - Marc  Franciszkowicz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:33",
+      "team": {
+        "teamId": "1161",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#4 - Pete  van Aartrijk",
+      "assist1": "#12 - Allen  Lassinger",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "1161",
+        "name": "Beltway Butchers"
+      },
+      "scorer": "#16 - Dan  Rebmann",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:40",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "player": "#92 - Bryan  Diner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:50",
+      "team": {
+        "teamId": "1158",
+        "name": "Wolves"
+      },
+      "player": "#33 - Dmirtiy  Achapkin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:32:23.647Z"
+}

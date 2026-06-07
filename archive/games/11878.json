@@ -1,0 +1,128 @@
+{
+  "gameId": "11878",
+  "date": "2018-07-14",
+  "divId": 185,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1179",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1176",
+    "name": "Pharaohs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "1179",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#0 - Evan  Wojtowicz",
+      "assist1": "#4 - Paul  Cicchetti",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#14 - Jay  Woon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1179",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#6 - Bob  Friess",
+      "assist1": "#71 - Dan  Cosentino",
+      "assist2": "#5 - Luke  Streng"
+    },
+    {
+      "period": "2",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#14 - Jay  Woon",
+      "assist1": "#25 - Chris  Howard",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:20",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#23 - Seth  Wayne",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#20 - Ben  Fonarov",
+      "assist1": "#6 - Ian  Dilner",
+      "assist2": "#23 - Seth  Wayne"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "1179",
+        "name": "Blue Crabs"
+      },
+      "player": "#6 - Bob  Friess",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:43",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "player": "#19 - Otto  Noffsinger",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:36:13.553Z"
+}

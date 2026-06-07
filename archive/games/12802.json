@@ -1,0 +1,163 @@
+{
+  "gameId": "12802",
+  "date": "2019-05-29",
+  "divId": 202,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1284",
+    "name": "Bulldogs"
+  },
+  "away": {
+    "teamId": "1285",
+    "name": "Redhawks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:12",
+      "team": {
+        "teamId": "1284",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#18 - Steve  Percival",
+      "assist2": "#23 - Brian  McCarthy"
+    },
+    {
+      "period": "1",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1285",
+        "name": "Redhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": "#25 - Jamie  Prime",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:49",
+      "team": {
+        "teamId": "1284",
+        "name": "Bulldogs"
+      },
+      "scorer": "#23 - Brian  McCarthy",
+      "assist1": "#7 - Jimmy  Shelton",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:05",
+      "team": {
+        "teamId": "1285",
+        "name": "Redhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": "#77 - Scott  Peterson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1284",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#28 - Jack  Wilmer",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "1285",
+        "name": "Redhawks"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1285",
+        "name": "Redhawks"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#7 - Tyler  Kniaz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1284",
+        "name": "Bulldogs"
+      },
+      "scorer": "#11 - Mike  Dumont",
+      "assist1": "#18 - Steve  Percival",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "1284",
+        "name": "Bulldogs"
+      },
+      "player": "#18 - Steve  Percival",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:19",
+      "team": {
+        "teamId": "1285",
+        "name": "Redhawks"
+      },
+      "player": "#51 - Erik  Kniaz",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1285",
+        "name": "Redhawks"
+      },
+      "player": "#36 - Bill  Ludke",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:57:24.675Z"
+}

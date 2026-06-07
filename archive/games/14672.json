@@ -1,0 +1,141 @@
+{
+  "gameId": "14672",
+  "date": "2022-03-13",
+  "divId": 243,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1504",
+    "name": "D Punishers"
+  },
+  "away": {
+    "teamId": "1507",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "1507",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": "#21 - Josh  Vichness",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:26",
+      "team": {
+        "teamId": "1507",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#20 - Mike  Neas",
+      "assist1": "#4 - Sam  Hauslohner",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1507",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#20 - Mike  Neas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "1504",
+        "name": "D Punishers"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:35",
+      "team": {
+        "teamId": "1504",
+        "name": "D Punishers"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "1504",
+        "name": "D Punishers"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": "#23 - Bill  Motzko",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1507",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#28 - Ed  Holleran",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:36",
+      "team": {
+        "teamId": "1504",
+        "name": "D Punishers"
+      },
+      "player": "#27 - Dave  Lin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:51",
+      "team": {
+        "teamId": "1507",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#20 - Mike  Neas",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:33:31.121Z"
+}

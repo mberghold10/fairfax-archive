@@ -1,0 +1,117 @@
+{
+  "gameId": "18750",
+  "date": "2025-12-17",
+  "divId": 325,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1993",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1995",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:18",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#69 - Aaron  Domnitch",
+      "assist2": "#11 - Brian  Maloney"
+    },
+    {
+      "period": "3",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#44 - Scott  Kuehn",
+      "assist1": "#36 - William  Ludke",
+      "assist2": "#27 - Jeff  Carideo"
+    },
+    {
+      "period": "3",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#27 - Jeff  Carideo",
+      "assist1": "#9 - Jason  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:33",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "scorer": "#11 - Brian  Maloney",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:43",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#13 - Ben  Aring",
+      "assist1": "#27 - Jeff  Carideo",
+      "assist2": "#8 - Brenden  Millice"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "player": "#9 - Matt  Slattery",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:57",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "player": "#44 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:04:15.254Z"
+}

@@ -1,0 +1,99 @@
+{
+  "gameId": "18227",
+  "date": "2025-08-29",
+  "divId": 314,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1923",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1926",
+    "name": "Bottle Caps"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:02",
+      "team": {
+        "teamId": "1923",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#21 - Joe  Rhodes",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1923",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#16 - Cullen  Finley",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:36",
+      "team": {
+        "teamId": "1926",
+        "name": "Bottle Caps"
+      },
+      "player": "#38 - Josh  Savani",
+      "pim": 2,
+      "offense": "g int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1923",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#13 - Steven  Hernandez",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:44",
+      "team": {
+        "teamId": "1923",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#88 - Jason  Searight",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:52:25.200Z"
+}

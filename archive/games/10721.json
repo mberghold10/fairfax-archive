@@ -1,0 +1,163 @@
+{
+  "gameId": "10721",
+  "date": "2017-07-16",
+  "divId": 163,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1042",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "1044",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 4,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "scorer": "#44 - Greg  Powers",
+      "assist1": "#2 - Zach  Mural",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:03",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "scorer": "#20 - Rich  Utano",
+      "assist1": "#44 - Greg  Powers",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1044",
+        "name": "Coyotes"
+      },
+      "scorer": "#38 - Michael  Andrien",
+      "assist1": "#5 - Andy  Loggia",
+      "assist2": "#4 - Paul  Cicchetti"
+    },
+    {
+      "period": "1",
+      "time": "00:10:45",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "scorer": "#99 - Jon  Davoren",
+      "assist1": "#18 - Pete  Poczatek",
+      "assist2": "#10 - Mike  Brahmey"
+    },
+    {
+      "period": "1",
+      "time": "00:12:13",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "scorer": "#12 - Jason  Wakeman",
+      "assist1": "#2 - Zach  Mural",
+      "assist2": "#44 - Greg  Powers"
+    },
+    {
+      "period": "2",
+      "time": "00:03:57",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "scorer": "#18 - Pete  Poczatek",
+      "assist1": "#44 - Greg  Powers",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "1044",
+        "name": "Coyotes"
+      },
+      "scorer": "#7 - Paul  Flood",
+      "assist1": "#64 - Bob  Fischer",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "player": "#18 - Pete  Poczatek",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:11",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "player": "#10 - Mike  Brahmey",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:14",
+      "team": {
+        "teamId": "1042",
+        "name": "Team USA"
+      },
+      "player": "#99 - Jon  Davoren",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:09:35.980Z"
+}

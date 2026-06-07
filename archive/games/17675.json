@@ -1,0 +1,228 @@
+{
+  "gameId": "17675",
+  "date": "2024-12-12",
+  "divId": 305,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1870",
+    "name": "Ers"
+  },
+  "away": {
+    "teamId": "1869",
+    "name": "Virginia Buccaneers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 4,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:55",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#7 - Matt  ODriscoll",
+      "assist1": "#55 - Mike  McKenney",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#11 - Scott  Fitzpatrick",
+      "assist1": "#35 - Eddie  DeSabetino",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#28 - Eric  Mastromatteo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:39",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:11",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#7 - Matt  ODriscoll",
+      "assist1": "#96 - Chris  Beck",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:13",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#96 - Chris  Beck",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:01",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#96 - Chris  Beck",
+      "assist1": "#24 - Tom  Spiewak",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#21 - Grant  Moher",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:19",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "player": "#28 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:50",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "player": "#31 - Brian  West",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "player": "#22 - Brian  Dutton",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:49",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "player": "#12 - Greg  Collins",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "player": "#23 - Gordon  Scott",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "player": "#23 - Gordon  Scott",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "player": "#11 - Scott  Fitzpatrick",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "player": "#11 - Scott  Fitzpatrick",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:42:50.974Z"
+}

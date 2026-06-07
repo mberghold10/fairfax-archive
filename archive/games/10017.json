@@ -1,0 +1,156 @@
+{
+  "gameId": "10017",
+  "date": "2016-10-18",
+  "divId": 156,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1001",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1000",
+    "name": "Ice Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#20 - Jeff  Carter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:58",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#20 - Jeff  Carter",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:18",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": "#7 - Daniel  Fleshner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#7 - Daniel  Fleshner",
+      "assist1": "#24 - Brian  Crossin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:20",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": "#6 - Bob  Gutierrez",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:35",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "player": "#16 - Marc  Franciszkowicz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:57",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "player": "#50 - Lorin  Randall",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:06",
+      "team": {
+        "teamId": "1000",
+        "name": "Ice Dogs"
+      },
+      "player": "#28 - Jack  Wilmer",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:09",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "player": "#41 - Randy  Warren",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:25",
+      "team": {
+        "teamId": "1001",
+        "name": "Wolves"
+      },
+      "player": "#50 - Lorin  Randall",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:00:14.480Z"
+}

@@ -1,0 +1,139 @@
+{
+  "gameId": "16939",
+  "date": "2024-05-27",
+  "divId": 288,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1769",
+    "name": "D Punishers"
+  },
+  "away": {
+    "teamId": "1770",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:49",
+      "team": {
+        "teamId": "1769",
+        "name": "D Punishers"
+      },
+      "scorer": "#5 - Mike  Jones",
+      "assist1": "#1 - Matt  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1769",
+        "name": "D Punishers"
+      },
+      "scorer": "#37 - Nick  Desport",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:35",
+      "team": {
+        "teamId": "1770",
+        "name": "Rink Rats"
+      },
+      "scorer": "#92 - Ryan  VanDenheuval",
+      "assist1": "#8 - Joey  McDonald",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:32",
+      "team": {
+        "teamId": "1769",
+        "name": "D Punishers"
+      },
+      "scorer": "#8 - Grant  Dougans",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:21",
+      "team": {
+        "teamId": "1770",
+        "name": "Rink Rats"
+      },
+      "scorer": "#8 - Joey  McDonald",
+      "assist1": "#23 - Dan  Bardo",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1769",
+        "name": "D Punishers"
+      },
+      "scorer": "#7 - Ken  Ochsner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:47",
+      "team": {
+        "teamId": "1769",
+        "name": "D Punishers"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": "#8 - Grant  Dougans",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1770",
+        "name": "Rink Rats"
+      },
+      "player": "#22 - Matthew  Thrasher",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "1770",
+        "name": "Rink Rats"
+      },
+      "player": "#23 - Dan  Bardo",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:25:03.036Z"
+}

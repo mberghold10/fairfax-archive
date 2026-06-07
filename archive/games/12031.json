@@ -1,0 +1,93 @@
+{
+  "gameId": "12031",
+  "date": "2018-09-12",
+  "divId": 183,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1167",
+    "name": "Blackhawks"
+  },
+  "away": {
+    "teamId": "1162",
+    "name": "Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:47",
+      "team": {
+        "teamId": "1167",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": "#74 - Eric  Peterson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:35",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#90 - Shawn  McEvoy",
+      "assist1": "#69 - Aaron  Risdal",
+      "assist2": "#23 - Brian  McArthur"
+    },
+    {
+      "period": "3",
+      "time": "00:00:57",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "scorer": "#19 - Jon  Forrester",
+      "assist1": "#24 - Brian  Crossin",
+      "assist2": "#79 - Jeff  Vandenberghe"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1162",
+        "name": "Bulldogs"
+      },
+      "player": "#23 - Brian  McArthur",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:34:14.314Z"
+}

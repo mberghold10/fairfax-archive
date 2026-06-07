@@ -1,0 +1,82 @@
+{
+  "gameId": "19145",
+  "date": "2026-05-31",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2002",
+    "name": "Megalosaurus"
+  },
+  "away": {
+    "teamId": "2006",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#21 - Joe  Rhodes",
+      "assist1": "#61 - Wes  Bieliek",
+      "assist2": "#74 - Matt  Santos"
+    },
+    {
+      "period": "1",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#74 - Matt  Santos",
+      "assist1": "#61 - Wes  Bieliek",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:08",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#21 - Joe  Rhodes",
+      "assist1": "#61 - Wes  Bieliek",
+      "assist2": "#35 - Peter  Molnar"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:28",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "player": "#74 - Matt  Santos",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:08:58.696Z"
+}

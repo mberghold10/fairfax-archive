@@ -1,0 +1,104 @@
+{
+  "gameId": "16906",
+  "date": "2024-03-13",
+  "divId": 285,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1752",
+    "name": "Jacks Greybeards"
+  },
+  "away": {
+    "teamId": "1750",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:06",
+      "team": {
+        "teamId": "1752",
+        "name": "Jacks Greybeards"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#15 - John  Cushing",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1752",
+        "name": "Jacks Greybeards"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#28 - Charles  Hale",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:49",
+      "team": {
+        "teamId": "1752",
+        "name": "Jacks Greybeards"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": "#7 - Joseph  Hull"
+    },
+    {
+      "period": "3",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1750",
+        "name": "Nortec"
+      },
+      "scorer": "#11 - Tom  Fergus",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:45",
+      "team": {
+        "teamId": "1750",
+        "name": "Nortec"
+      },
+      "scorer": "#10 - Brian  Maloney",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:08:17",
+      "team": {
+        "teamId": "1752",
+        "name": "Jacks Greybeards"
+      },
+      "player": "#12 - Brian  Dix",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:22:32.045Z"
+}

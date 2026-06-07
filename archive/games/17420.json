@@ -1,0 +1,117 @@
+{
+  "gameId": "17420",
+  "date": "2024-09-13",
+  "divId": 295,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1802",
+    "name": "Mesozoic Puck"
+  },
+  "away": {
+    "teamId": "1803",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:12",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "scorer": "#71 - Matt  Robertson",
+      "assist1": "#79 - Sean  Longanecker",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "scorer": "#21 - Brendan  Williams",
+      "assist1": "#4 - Howard  Ludwig",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "scorer": "#29 - James  Kim",
+      "assist1": "#24 - Mike  Plourde",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:32",
+      "team": {
+        "teamId": "1802",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#42 - Jonathan  Coley",
+      "assist1": "#30 - Antonello  Favaro",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:31",
+      "team": {
+        "teamId": "1802",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#71 - Ronan  Valdesuso",
+      "assist1": "#9 - Munkhod  Dansran",
+      "assist2": "#13 - Jeff  Willard"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1802",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#13 - Jeff  Willard",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "player": "#40 - Brandon  Sweezea",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:33:05.926Z"
+}

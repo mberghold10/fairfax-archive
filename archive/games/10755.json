@@ -1,0 +1,130 @@
+{
+  "gameId": "10755",
+  "date": "2017-08-06",
+  "divId": 164,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1051",
+    "name": "Senators"
+  },
+  "away": {
+    "teamId": "1053",
+    "name": "Hooligans"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:55",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "scorer": "#8 - Bob  Shay",
+      "assist1": "#20 - Scott  Forbes",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "scorer": "#8 - Phil  Antoun",
+      "assist1": "#43 - Bobby  Powers",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:52",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "scorer": "#8 - Phil  Antoun",
+      "assist1": "#9 - Joe  Tierney",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:12",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": "#21 - Jeff  Chistolini",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "scorer": "#8 - Phil  Antoun",
+      "assist1": "#18 - Peter  Poczatek",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1051",
+        "name": "Senators"
+      },
+      "player": "#5 - Alex  Talalayevsky",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:39",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "player": "#21 - Jeff  Chistolini",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "player": "#43 - Bobby  Powers",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:11:03.096Z"
+}

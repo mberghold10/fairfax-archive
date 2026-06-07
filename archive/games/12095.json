@@ -1,0 +1,106 @@
+{
+  "gameId": "12095",
+  "date": "2018-10-14",
+  "divId": 193,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1224",
+    "name": "Triassic Puck"
+  },
+  "away": {
+    "teamId": "1226",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:09:29",
+      "team": {
+        "teamId": "1226",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#20 - Paul  Flood",
+      "assist1": "#4 - Don  Sussman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:57",
+      "team": {
+        "teamId": "1226",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#4 - Don  Sussman",
+      "assist1": "#20 - Paul  Flood",
+      "assist2": "#0 - Ruben  Garcia"
+    },
+    {
+      "period": "2",
+      "time": "00:11:56",
+      "team": {
+        "teamId": "1224",
+        "name": "Triassic Puck"
+      },
+      "scorer": "# -",
+      "assist1": "#10 - Radoslaw  Kaczor",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:31",
+      "team": {
+        "teamId": "1226",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#20 - Paul  Flood",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:12:26",
+      "team": {
+        "teamId": "1226",
+        "name": "Mad Dogs"
+      },
+      "player": "#21 - Steve  Kaplan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:11",
+      "team": {
+        "teamId": "1226",
+        "name": "Mad Dogs"
+      },
+      "player": "#72 - Chris  Kunde",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:45:51.618Z"
+}

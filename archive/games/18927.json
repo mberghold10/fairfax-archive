@@ -1,0 +1,134 @@
+{
+  "gameId": "18927",
+  "date": "2026-03-30",
+  "divId": 322,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1971",
+    "name": "Jurassic Puck"
+  },
+  "away": {
+    "teamId": "1974",
+    "name": "Red Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:57",
+      "team": {
+        "teamId": "1974",
+        "name": "Red Dragons"
+      },
+      "scorer": "#80 - Ethan  Hoffman",
+      "assist1": "#20 - Charlie  Curia",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1974",
+        "name": "Red Dragons"
+      },
+      "scorer": "#57 - Dylan  Thomas",
+      "assist1": "#80 - Ethan  Hoffman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:23",
+      "team": {
+        "teamId": "1974",
+        "name": "Red Dragons"
+      },
+      "scorer": "#7 - Connor  Anderson",
+      "assist1": "#80 - Ethan  Hoffman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "1971",
+        "name": "Jurassic Puck"
+      },
+      "player": "#46 - Mark  Tobias",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:43",
+      "team": {
+        "teamId": "1974",
+        "name": "Red Dragons"
+      },
+      "player": "#65 - Stuart  Hoffman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:52",
+      "team": {
+        "teamId": "1971",
+        "name": "Jurassic Puck"
+      },
+      "player": "#42 - Travis  Wheeler",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:57",
+      "team": {
+        "teamId": "1971",
+        "name": "Jurassic Puck"
+      },
+      "player": "#20 - Ronan  Valdesaso",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1974",
+        "name": "Red Dragons"
+      },
+      "player": "#20 - Charlie  Curia",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:01:15.644Z"
+}

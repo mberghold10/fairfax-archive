@@ -1,0 +1,152 @@
+{
+  "gameId": "17232",
+  "date": "2024-09-29",
+  "divId": 287,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1764",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1762",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "1762",
+        "name": "Dragons"
+      },
+      "scorer": "#81 - Ryan  Smarsh",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:08",
+      "team": {
+        "teamId": "1764",
+        "name": "Outlaws"
+      },
+      "scorer": "#91 - Matt  Weeden",
+      "assist1": "#19 - Jason  Young",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1764",
+        "name": "Outlaws"
+      },
+      "scorer": "#77 - Ryan  OConnell",
+      "assist1": "#14 - Jason  Brue",
+      "assist2": "#21 - Alex  Vanscoy"
+    },
+    {
+      "period": "1",
+      "time": "00:14:22",
+      "team": {
+        "teamId": "1762",
+        "name": "Dragons"
+      },
+      "scorer": "#55 - Griffin  Bryce",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:27",
+      "team": {
+        "teamId": "1764",
+        "name": "Outlaws"
+      },
+      "scorer": "#41 - Tony  Gorney",
+      "assist1": "#91 - Matt  Weeden",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:18",
+      "team": {
+        "teamId": "1764",
+        "name": "Outlaws"
+      },
+      "scorer": "#21 - Alex  Vanscoy",
+      "assist1": "#4 - Phil  Coticelli",
+      "assist2": "#14 - Jason  Brue"
+    },
+    {
+      "period": "3",
+      "time": "00:02:48",
+      "team": {
+        "teamId": "1764",
+        "name": "Outlaws"
+      },
+      "scorer": "#13 - Ben  Mangel",
+      "assist1": "#77 - Ryan  OConnell",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:34",
+      "team": {
+        "teamId": "1762",
+        "name": "Dragons"
+      },
+      "player": "#7 - Connor  Anderson",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:58",
+      "team": {
+        "teamId": "1764",
+        "name": "Outlaws"
+      },
+      "player": "#21 - Alex  Vanscoy",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "1764",
+        "name": "Outlaws"
+      },
+      "player": "#41 - Tony  Gorney",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:24:34.595Z"
+}

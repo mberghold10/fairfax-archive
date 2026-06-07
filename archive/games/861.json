@@ -1,0 +1,169 @@
+{
+  "gameId": "861",
+  "date": "2018-04-12",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1096",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1098",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Andy  Taylor",
+      "assist1": "#55 - Joel  Whitney",
+      "assist2": "#23 - Greg  Thomas"
+    },
+    {
+      "period": "2",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "scorer": "#10 - Chris  Ferragamo",
+      "assist1": "#15 - Mike  Hempen",
+      "assist2": "#25 - Malcolm  Hyson"
+    },
+    {
+      "period": "2",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "scorer": "#11 - Darren  Wellner",
+      "assist1": "#23 - Rick  Gorgone",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:51",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "scorer": "#23 - Rick  Gorgone",
+      "assist1": "#11 - Darren  Wellner",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:01",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "scorer": "#6 - Rob  Kocher",
+      "assist1": "#22 - Rich  Silberman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:19",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "player": "#55 - Tim  Dutcher",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:01",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "player": "#14 - Charlie  Campbell",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "player": "#23 - Greg  Thomas",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:43",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:52",
+      "team": {
+        "teamId": "1096",
+        "name": "Flying Circus"
+      },
+      "player": "#21 - Trevor  Wallace",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:56",
+      "team": {
+        "teamId": "1098",
+        "name": "Penguins"
+      },
+      "player": "#6 - Rob  Kocher",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:21:00.030Z"
+}

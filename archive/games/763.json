@@ -1,0 +1,156 @@
+{
+  "gameId": "763",
+  "date": "2017-03-31",
+  "divId": 153,
+  "seasonName": "Winter 2016",
+  "mode": "playoff",
+  "home": {
+    "teamId": "982",
+    "name": "ers"
+  },
+  "away": {
+    "teamId": "985",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:10",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "scorer": "#80 - Jeremy  Feldman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:21",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#2 - Rod  Wade",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:13",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "scorer": "#21 - Mark  Johnston",
+      "assist1": "#82 - Neil  Schoenthaler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:27",
+      "team": {
+        "teamId": "985",
+        "name": "Jacks"
+      },
+      "player": "#3 - Jeff  Regan",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:05",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "player": "#88 - Greg  Mullen",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "player": "#82 - Neil  Schoenthaler",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:14",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "player": "#24 - Mike  Giardina",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:15",
+      "team": {
+        "teamId": "982",
+        "name": "ers"
+      },
+      "player": "#80 - Jeremy  Feldman",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:57:14.376Z"
+}

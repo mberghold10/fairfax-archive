@@ -1,0 +1,152 @@
+{
+  "gameId": "18466",
+  "date": "2025-09-15",
+  "divId": 314,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1926",
+    "name": "Bottle Caps"
+  },
+  "away": {
+    "teamId": "1925",
+    "name": "Triassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "1926",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#50 - Scott  Vecchione",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:55",
+      "team": {
+        "teamId": "1925",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#77 - Robert  Villar",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:37",
+      "team": {
+        "teamId": "1926",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#50 - Scott  Vecchione",
+      "assist1": "#83 - Michael  Milazzo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:50",
+      "team": {
+        "teamId": "1926",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#13 - Duane  Stefaniak",
+      "assist1": "#88 - Afshawn  Towfighi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:18",
+      "team": {
+        "teamId": "1925",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#77 - Robert  Villar",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:46",
+      "team": {
+        "teamId": "1925",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#77 - Robert  Villar",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:48",
+      "team": {
+        "teamId": "1926",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#88 - Afshawn  Towfighi",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:34",
+      "team": {
+        "teamId": "1926",
+        "name": "Bottle Caps"
+      },
+      "player": "#88 - Afshawn  Towfighi",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:34",
+      "team": {
+        "teamId": "1926",
+        "name": "Bottle Caps"
+      },
+      "player": "#88 - Afshawn  Towfighi",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:31",
+      "team": {
+        "teamId": "1926",
+        "name": "Bottle Caps"
+      },
+      "player": "#13 - Duane  Stefaniak",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:52:35.250Z"
+}

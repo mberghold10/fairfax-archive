@@ -1,0 +1,115 @@
+{
+  "gameId": "16887",
+  "date": "2024-03-09",
+  "divId": 284,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1748",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1747",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1747",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#77 - Jeff  Wilken",
+      "assist2": "#19 - Troy  Edwards"
+    },
+    {
+      "period": "1",
+      "time": "00:04:56",
+      "team": {
+        "teamId": "1747",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#19 - Troy  Edwards",
+      "assist1": "#10 - Rebecca  Evangelista",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:18:12",
+      "team": {
+        "teamId": "1748",
+        "name": "Red Wings"
+      },
+      "scorer": "#16 - Wei  Wang",
+      "assist1": "#24 - Jake  Middel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1747",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#44 - Carlos  Gautier",
+      "assist1": "#19 - Troy  Edwards",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "1748",
+        "name": "Red Wings"
+      },
+      "scorer": "#29 - Regina  Hart",
+      "assist1": "#24 - Jake  Middel",
+      "assist2": "#25 - James  Chu"
+    },
+    {
+      "period": "3",
+      "time": "00:09:45",
+      "team": {
+        "teamId": "1747",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#41 - Alessio  Evangelista",
+      "assist2": "#77 - Jeff  Wilken"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:15:36",
+      "team": {
+        "teamId": "1748",
+        "name": "Red Wings"
+      },
+      "player": "#29 - Regina  Hart",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:21:41.723Z"
+}

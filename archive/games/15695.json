@@ -1,0 +1,158 @@
+{
+  "gameId": "15695",
+  "date": "2023-01-21",
+  "divId": 261,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1607",
+    "name": "Toronto"
+  },
+  "away": {
+    "teamId": "1610",
+    "name": "Red Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1610",
+        "name": "Red Dragons"
+      },
+      "scorer": "#34 - Howard  Uman",
+      "assist1": "#18 - Zac  Shoewalter",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:01",
+      "team": {
+        "teamId": "1607",
+        "name": "Toronto"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#49 - Romano  Dickerson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1607",
+        "name": "Toronto"
+      },
+      "scorer": "#49 - Romano  Dickerson",
+      "assist1": "#20 - Bao  Pham",
+      "assist2": "#28 - Harry  Nicholakos"
+    },
+    {
+      "period": "3",
+      "time": "00:02:54",
+      "team": {
+        "teamId": "1607",
+        "name": "Toronto"
+      },
+      "scorer": "#67 - John  Krotzer",
+      "assist1": "#62 - James  Chu",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:39",
+      "team": {
+        "teamId": "1610",
+        "name": "Red Dragons"
+      },
+      "player": "#12 - Scott  Borders",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1610",
+        "name": "Red Dragons"
+      },
+      "player": "#94 - Michael  Starego",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:47",
+      "team": {
+        "teamId": "1610",
+        "name": "Red Dragons"
+      },
+      "player": "#94 - Michael  Starego",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1607",
+        "name": "Toronto"
+      },
+      "player": "#14 - Dave  Fisher",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "1610",
+        "name": "Red Dragons"
+      },
+      "player": "#12 - Scott  Borders",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:19",
+      "team": {
+        "teamId": "1607",
+        "name": "Toronto"
+      },
+      "player": "#62 - James  Chu",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:54:30.651Z"
+}

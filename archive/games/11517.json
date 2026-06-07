@@ -1,0 +1,73 @@
+{
+  "gameId": "11517",
+  "date": "2018-04-29",
+  "divId": 186,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1186",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1181",
+    "name": "Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "4",
+      "time": "00:03:47",
+      "team": {
+        "teamId": "1181",
+        "name": "Crabs"
+      },
+      "scorer": "#14 - Roger  Jordan",
+      "assist1": "#90 - Andrew  Mayen",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "1186",
+        "name": "Dragons"
+      },
+      "player": "#22 - David  Norley",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "1181",
+        "name": "Crabs"
+      },
+      "player": "#48 - Paul  Kruszka",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:37:09.942Z"
+}

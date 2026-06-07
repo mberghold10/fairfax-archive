@@ -1,0 +1,128 @@
+{
+  "gameId": "1343",
+  "date": "2023-10-21",
+  "divId": 273,
+  "seasonName": "Summer 2023",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1685",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1688",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:48",
+      "team": {
+        "teamId": "1688",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": "#20 - Bao  Pham",
+      "assist2": "#89 - Brandon  Barhorst"
+    },
+    {
+      "period": "1",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1688",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#20 - Bao  Pham",
+      "assist1": "#48 - Randy  Sasai",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "scorer": "#68 - Mark  Ries",
+      "assist1": "#21 - Greg  Lauer",
+      "assist2": "#17 - Chris  Watroba"
+    },
+    {
+      "period": "2",
+      "time": "00:13:49",
+      "team": {
+        "teamId": "1688",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#67 - John  Krotzer",
+      "assist1": "#31 - Alex  Brown",
+      "assist2": "#16 - Greg  Thomas"
+    },
+    {
+      "period": "3",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1688",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#20 - Bao  Pham",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:57",
+      "team": {
+        "teamId": "1688",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#20 - Bao  Pham",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:02",
+      "team": {
+        "teamId": "1688",
+        "name": "Maple Leafs"
+      },
+      "player": "#67 - John  Krotzer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "player": "#23 - Ken  DeGrave",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:09:42.904Z"
+}

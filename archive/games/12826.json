@@ -1,0 +1,189 @@
+{
+  "gameId": "12826",
+  "date": "2019-06-22",
+  "divId": 203,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1286",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1289",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 4,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "scorer": "#55 - Scott  Dullea",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:08",
+      "team": {
+        "teamId": "1289",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#10 - Mike  Carew",
+      "assist1": "#31 - Alex  Deyoung",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1289",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#31 - Alex  Deyoung",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "scorer": "#13 - Trevor  Wallace",
+      "assist1": "#55 - Scott  Dullea",
+      "assist2": "#2 - Seth  Johnson"
+    },
+    {
+      "period": "3",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "1289",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#12 - Steven  Courson",
+      "assist1": "#38 - Mike  Andrien",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:36",
+      "team": {
+        "teamId": "1289",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:55",
+      "team": {
+        "teamId": "1289",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#10 - Mike  Carew",
+      "assist1": "#31 - Alex  Deyoung",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1289",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#10 - Mike  Carew",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1286",
+        "name": "Chiefs"
+      },
+      "player": "#2 - Seth  Johnson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1289",
+        "name": "British Bulldogs"
+      },
+      "player": "#16 - Greg  Pomeroy",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:50",
+      "team": {
+        "teamId": "1289",
+        "name": "British Bulldogs"
+      },
+      "player": "#100 - Goalie  Subtitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "1289",
+        "name": "British Bulldogs"
+      },
+      "player": "#16 - Greg  Pomeroy",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:10",
+      "team": {
+        "teamId": "1289",
+        "name": "British Bulldogs"
+      },
+      "player": "#38 - Mike  Andrien",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:58:24.310Z"
+}

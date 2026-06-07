@@ -1,0 +1,115 @@
+{
+  "gameId": "13620",
+  "date": "2020-07-13",
+  "divId": 212,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1341",
+    "name": "Sparks"
+  },
+  "away": {
+    "teamId": "1339",
+    "name": "Steamed Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:48",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "scorer": "#18 - Jeff  Paget",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:08",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "scorer": "#16 - Josh  Brown",
+      "assist1": "#30 - Brandon  Heiner",
+      "assist2": "#13 - Ken  Ferguson"
+    },
+    {
+      "period": "1",
+      "time": "00:14:41",
+      "team": {
+        "teamId": "1339",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#90 - Andrew  Mayen",
+      "assist1": "#2 - Elliott  Yang",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:29",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "scorer": "#15 - Andy  Lock",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:49",
+      "team": {
+        "teamId": "1341",
+        "name": "Sparks"
+      },
+      "scorer": "#18 - Jeff  Paget",
+      "assist1": "#16 - Josh  Brown",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:54",
+      "team": {
+        "teamId": "1339",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#40 - Hank  Kim",
+      "assist1": "#67 - John F Krotzer",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1339",
+        "name": "Steamed Crabs"
+      },
+      "player": "#15 - Dave  Fisher",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:09:22.789Z"
+}

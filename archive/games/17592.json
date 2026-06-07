@@ -1,0 +1,95 @@
+{
+  "gameId": "17592",
+  "date": "2025-01-05",
+  "divId": 301,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1853",
+    "name": "Jurassic Puck"
+  },
+  "away": {
+    "teamId": "1852",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:02:48",
+      "team": {
+        "teamId": "1852",
+        "name": "Rink Rats"
+      },
+      "scorer": "#36 - Steve  Morra",
+      "assist1": "#9 - Chris  ORear",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1853",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#89 - Dylan  Thomas",
+      "assist1": "#13 - Joe  Carroll",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:27",
+      "team": {
+        "teamId": "1852",
+        "name": "Rink Rats"
+      },
+      "scorer": "#59 - Jared  Trevethan",
+      "assist1": "#36 - Steve  Morra",
+      "assist2": "#34 - Evan  Tierney"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:43",
+      "team": {
+        "teamId": "1852",
+        "name": "Rink Rats"
+      },
+      "player": "#22 - Matthew  Thrasher",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:11",
+      "team": {
+        "teamId": "1853",
+        "name": "Jurassic Puck"
+      },
+      "player": "#42 - Travis  Wheeler",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:38:50.476Z"
+}

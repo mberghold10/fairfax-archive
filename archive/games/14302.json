@@ -1,0 +1,117 @@
+{
+  "gameId": "14302",
+  "date": "2021-10-04",
+  "divId": 232,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1449",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1447",
+    "name": "Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:23",
+      "team": {
+        "teamId": "1449",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": "#9 - Alex  Cimon",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "1449",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#42 - Adam  Russell",
+      "assist1": "#19 - Steve  Tarditi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:23",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:41",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:05",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "player": "#12 - Dave  OMalley",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "player": "#40 - Matt  Mickelson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:25:11.384Z"
+}

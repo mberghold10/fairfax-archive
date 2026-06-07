@@ -1,0 +1,265 @@
+{
+  "gameId": "15116",
+  "date": "2022-08-30",
+  "divId": 249,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1537",
+    "name": "Redhawks"
+  },
+  "away": {
+    "teamId": "1538",
+    "name": "Kings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 5,
+      "p3": 2,
+      "ot": 0,
+      "final": 8
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1538",
+        "name": "Kings"
+      },
+      "scorer": "#91 - David  Satagaj",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1538",
+        "name": "Kings"
+      },
+      "scorer": "#69 - Anders  Gleason",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "1538",
+        "name": "Kings"
+      },
+      "scorer": "#43 - Anthony  Federico",
+      "assist1": "#91 - David  Satagaj",
+      "assist2": "#9 - Sam  Ziesler"
+    },
+    {
+      "period": "2",
+      "time": "00:00:55",
+      "team": {
+        "teamId": "1538",
+        "name": "Kings"
+      },
+      "scorer": "#43 - Anthony  Federico",
+      "assist1": "#9 - Sam  Ziesler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1538",
+        "name": "Kings"
+      },
+      "scorer": "#91 - David  Satagaj",
+      "assist1": "#82 - Caleb  Sohl",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:11",
+      "team": {
+        "teamId": "1538",
+        "name": "Kings"
+      },
+      "scorer": "#82 - Caleb  Sohl",
+      "assist1": "#33 - Steven  Terenzlo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:52",
+      "team": {
+        "teamId": "1537",
+        "name": "Redhawks"
+      },
+      "scorer": "#71 - Stephen  Henley",
+      "assist1": "#72 - Ben  Aring",
+      "assist2": "#10 - Matt  Galen"
+    },
+    {
+      "period": "3",
+      "time": "00:09:20",
+      "team": {
+        "teamId": "1538",
+        "name": "Kings"
+      },
+      "scorer": "#91 - David  Satagaj",
+      "assist1": "#33 - Steven  Terenzlo",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:34",
+      "team": {
+        "teamId": "1538",
+        "name": "Kings"
+      },
+      "scorer": "#69 - Anders  Gleason",
+      "assist1": "#33 - Steven  Terenzlo",
+      "assist2": "#82 - Caleb  Sohl"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:24",
+      "team": {
+        "teamId": "1538",
+        "name": "Kings"
+      },
+      "player": "#14 - Dominic  Pistolessi",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1537",
+        "name": "Redhawks"
+      },
+      "player": "#36 - William  Ludke",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "1538",
+        "name": "Kings"
+      },
+      "player": "#28 - Chris  Marotta",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1537",
+        "name": "Redhawks"
+      },
+      "player": "#7 - Tyler  Kniaz",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:17",
+      "team": {
+        "teamId": "1538",
+        "name": "Kings"
+      },
+      "player": "#91 - David  Satagaj",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:37",
+      "team": {
+        "teamId": "1538",
+        "name": "Kings"
+      },
+      "player": "#9 - Sam  Ziesler",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1538",
+        "name": "Kings"
+      },
+      "player": "#33 - Steven  Terenzlo",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "1537",
+        "name": "Redhawks"
+      },
+      "player": "#36 - William  Ludke",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:01",
+      "team": {
+        "teamId": "1537",
+        "name": "Redhawks"
+      },
+      "player": "#71 - Stephen  Henley",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:10",
+      "team": {
+        "teamId": "1537",
+        "name": "Redhawks"
+      },
+      "player": "#36 - William  Ludke",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:40:13.536Z"
+}

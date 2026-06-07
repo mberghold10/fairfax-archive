@@ -1,0 +1,211 @@
+{
+  "gameId": "17720",
+  "date": "2025-02-02",
+  "divId": 306,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1878",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1874",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:02",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#2 - Shawn  Hatch",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:34",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": "#68 - Jeff  Gilmore",
+      "assist2": "#2 - Shawn  Hatch"
+    },
+    {
+      "period": "2",
+      "time": "00:00:58",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#40 - Misha  Serebrennikov",
+      "assist1": "#68 - Jeff  Gilmore",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:57",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#19 - Mike  Carr",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "1878",
+        "name": "Flying Circus"
+      },
+      "scorer": "#13 - Jeff  Johnson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "1878",
+        "name": "Flying Circus"
+      },
+      "scorer": "#13 - Jeff  Johnson",
+      "assist1": "#25 - Malcolm  Hyson",
+      "assist2": "#18 - Joseph  Cerny"
+    },
+    {
+      "period": "2",
+      "time": "00:10:46",
+      "team": {
+        "teamId": "1878",
+        "name": "Flying Circus"
+      },
+      "scorer": "#18 - Joseph  Cerny",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#19 - Mike  Carr",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:21",
+      "team": {
+        "teamId": "1878",
+        "name": "Flying Circus"
+      },
+      "scorer": "#22 - Ed  Gulakowski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:46",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "scorer": "#38 - Dave  Wilson",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:27",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "player": "#7 - Dan  Ellert",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:27",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "player": "#68 - Jeff  Gilmore",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "1874",
+        "name": "Penguins"
+      },
+      "player": "#68 - Jeff  Gilmore",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1878",
+        "name": "Flying Circus"
+      },
+      "player": "#12 - Adam  Jungdhal",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:47",
+      "team": {
+        "teamId": "1878",
+        "name": "Flying Circus"
+      },
+      "player": "#13 - Jeff  Johnson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:44:05.346Z"
+}

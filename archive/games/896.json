@@ -1,0 +1,156 @@
+{
+  "gameId": "896",
+  "date": "2018-04-01",
+  "divId": 177,
+  "seasonName": "Winter 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1131",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "1130",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1131",
+        "name": "Dragons"
+      },
+      "scorer": "#14 - James  Miller",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": "#6 - Matt  Johnson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "1131",
+        "name": "Dragons"
+      },
+      "scorer": "#16 - Bart  Lucas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1131",
+        "name": "Dragons"
+      },
+      "scorer": "#88 - Maddy  Padgett",
+      "assist1": "#11 - Emily  Borders",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1131",
+        "name": "Dragons"
+      },
+      "scorer": "#91 - James  DeBolt",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:23",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "player": "#3 - Steve  Schooner",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "player": "#5 - Regina  Hart",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:17",
+      "team": {
+        "teamId": "1131",
+        "name": "Dragons"
+      },
+      "player": "#6 - Eric  Duvall",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:16",
+      "team": {
+        "teamId": "1131",
+        "name": "Dragons"
+      },
+      "player": "#77 - Dylan  Gerhard",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:16",
+      "team": {
+        "teamId": "1130",
+        "name": "Blackskimmers"
+      },
+      "player": "#3 - Steve  Schooner",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:27:40.416Z"
+}

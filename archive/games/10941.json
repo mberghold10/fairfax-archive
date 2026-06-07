@@ -1,0 +1,152 @@
+{
+  "gameId": "10941",
+  "date": "2017-09-10",
+  "divId": 169,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1082",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1078",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:16:17",
+      "team": {
+        "teamId": "1078",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#25 - Neil  Dsouza",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "1078",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#14 - Michael  Ezike",
+      "assist1": "#77 - Jeff  Wilkin",
+      "assist2": "#36 - Brian  Lusby"
+    },
+    {
+      "period": "2",
+      "time": "00:15:54",
+      "team": {
+        "teamId": "1082",
+        "name": "Red Wings"
+      },
+      "scorer": "#69 - Chris  Maroon",
+      "assist1": "#10 - Owen  Schaefer",
+      "assist2": "#39 - John  Martinez"
+    },
+    {
+      "period": "3",
+      "time": "00:05:44",
+      "team": {
+        "teamId": "1078",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#41 - Alessio  Evangelista",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:57",
+      "team": {
+        "teamId": "1078",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#19 - Troy  Edwards",
+      "assist1": "#14 - Michael  Ezike",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:23",
+      "team": {
+        "teamId": "1078",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "1078",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#51 - Kevin  Michie",
+      "assist1": "#77 - Jeff  Wilkin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:19:07",
+      "team": {
+        "teamId": "1082",
+        "name": "Red Wings"
+      },
+      "player": "#10 - Owen  Schaefer",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:56",
+      "team": {
+        "teamId": "1082",
+        "name": "Red Wings"
+      },
+      "player": "#10 - Owen  Schaefer",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1082",
+        "name": "Red Wings"
+      },
+      "player": "#50 - Lorin  Randall",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:17:19.143Z"
+}

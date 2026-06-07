@@ -1,0 +1,169 @@
+{
+  "gameId": "897",
+  "date": "2018-04-02",
+  "divId": 177,
+  "seasonName": "Winter 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1134",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "1129",
+    "name": "Turtle Power"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:26",
+      "team": {
+        "teamId": "1129",
+        "name": "Turtle Power"
+      },
+      "scorer": "#69 - Dan  Quagmire",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "1129",
+        "name": "Turtle Power"
+      },
+      "scorer": "#77 - David  Fulcher",
+      "assist1": "#12 - Graham  Jackson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:47",
+      "team": {
+        "teamId": "1129",
+        "name": "Turtle Power"
+      },
+      "scorer": "#42 - Sean  Rankin",
+      "assist1": "#47 - Tom  Floyd",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:57",
+      "team": {
+        "teamId": "1129",
+        "name": "Turtle Power"
+      },
+      "scorer": "#24 - James  Grasselli",
+      "assist1": "#47 - Tom  Floyd",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "1129",
+        "name": "Turtle Power"
+      },
+      "scorer": "#77 - David  Fulcher",
+      "assist1": "#36 - Calvin  Blackburn",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "1129",
+        "name": "Turtle Power"
+      },
+      "player": "#69 - Dan  Quagmire",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1134",
+        "name": "Mad Dogs"
+      },
+      "player": "#27 - Tim  Witkiewicz",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1134",
+        "name": "Mad Dogs"
+      },
+      "player": "#27 - Tim  Witkiewicz",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1129",
+        "name": "Turtle Power"
+      },
+      "player": "#26 - Dan  Meaux",
+      "pim": 5,
+      "offense": "head contact",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1129",
+        "name": "Turtle Power"
+      },
+      "player": "#26 - Dan  Meaux",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1129",
+        "name": "Turtle Power"
+      },
+      "player": "#26 - Dan  Meaux",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:27:41.454Z"
+}

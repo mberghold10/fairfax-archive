@@ -1,0 +1,126 @@
+{
+  "gameId": "14399",
+  "date": "2021-11-01",
+  "divId": 242,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1500",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1495",
+    "name": "Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1495",
+        "name": "Punishers"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": "#12 - Dave  OMalley"
+    },
+    {
+      "period": "1",
+      "time": "00:04:49",
+      "team": {
+        "teamId": "1495",
+        "name": "Punishers"
+      },
+      "scorer": "#42 - Ryan  ODriscoll",
+      "assist1": "#1 - Matt  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:29",
+      "team": {
+        "teamId": "1495",
+        "name": "Punishers"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "1495",
+        "name": "Punishers"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1500",
+        "name": "Chiefs"
+      },
+      "scorer": "#42 - Dave  Hagemeier",
+      "assist1": "#16 - Ralph  Rinaldi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:04",
+      "team": {
+        "teamId": "1495",
+        "name": "Punishers"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "1495",
+        "name": "Punishers"
+      },
+      "scorer": "#42 - Ryan  ODriscoll",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1500",
+        "name": "Chiefs"
+      },
+      "player": "#24 - Thomas  Langpaul",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:31:02.775Z"
+}

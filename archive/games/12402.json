@@ -1,0 +1,176 @@
+{
+  "gameId": "12402",
+  "date": "2019-02-18",
+  "divId": 190,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1207",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1209",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:48",
+      "team": {
+        "teamId": "1207",
+        "name": "Avalanche"
+      },
+      "scorer": "#10 - Chris  Greenough",
+      "assist1": "#99 - Jon  Davoren",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:20",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1207",
+        "name": "Avalanche"
+      },
+      "scorer": "#24 - Thomas  OConnor",
+      "assist1": "#10 - Chris  Greenough",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": "#21 - Jim  Callow",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:09",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "scorer": "#10 - Jay  Snyder",
+      "assist1": "#29 - Michael  Carzoli",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1207",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:38",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "scorer": "#3 - Julien  De Grandpre",
+      "assist1": "#88 - Brian  Ray",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "1207",
+        "name": "Avalanche"
+      },
+      "scorer": "#18 - Pet  Poczatek",
+      "assist1": "#99 - Jon  Davoren",
+      "assist2": "#10 - Chris  Greenough"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "player": "#21 - Jim  Callow",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:39",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "player": "#88 - Brian  Ray",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:36",
+      "team": {
+        "teamId": "1207",
+        "name": "Avalanche"
+      },
+      "player": "#20 - Rich  Utano",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:02:47",
+      "team": {
+        "teamId": "1209",
+        "name": "Canucks"
+      },
+      "player": "#87 - Nate  Morello",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:42:27.170Z"
+}

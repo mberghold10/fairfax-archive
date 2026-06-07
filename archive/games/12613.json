@@ -1,0 +1,71 @@
+{
+  "gameId": "12613",
+  "date": "2019-03-08",
+  "divId": 197,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1251",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1253",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:19:22",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "scorer": "#17 - Michael  Bagnall",
+      "assist1": "#11 - Aaron  Pollon",
+      "assist2": "#6 - Hugo  Guzman"
+    },
+    {
+      "period": "2",
+      "time": "00:14:23",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "scorer": "#11 - Aaron  Pollon",
+      "assist1": "#17 - Michael  Bagnall",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "player": "#79 - Igor  Helman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:52:04.595Z"
+}

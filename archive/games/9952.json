@@ -1,0 +1,126 @@
+{
+  "gameId": "9952",
+  "date": "2016-10-02",
+  "divId": 154,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "991",
+    "name": "Bluejacket Capitals"
+  },
+  "away": {
+    "teamId": "989",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:36",
+      "team": {
+        "teamId": "991",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#23 - Scott  Gordon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:35",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": "#13 - Bill  Grove",
+      "assist2": "#22 - Brian  Dutton"
+    },
+    {
+      "period": "3",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "991",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#12 - Trent  Papke",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:33",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "scorer": "#23 - Scott  Gordon",
+      "assist1": "#9 - Brian  Mehnert",
+      "assist2": "#22 - Brian  Dutton"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:53",
+      "team": {
+        "teamId": "989",
+        "name": "Goons"
+      },
+      "player": "#13 - Bill  Grove",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:57:24.274Z"
+}

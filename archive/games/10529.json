@@ -1,0 +1,143 @@
+{
+  "gameId": "10529",
+  "date": "2017-05-02",
+  "divId": 164,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1053",
+    "name": "Hooligans"
+  },
+  "away": {
+    "teamId": "1052",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:21",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "scorer": "#9 - Joe  Tierney",
+      "assist1": "#12 - Wade  Cleland",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:01",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#27 - Ryan  Croley",
+      "assist1": "#17 - John  Wallace",
+      "assist2": "#5 - Tom  Saurman"
+    },
+    {
+      "period": "1",
+      "time": "00:08:59",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#26 - Jim  Silbermann",
+      "assist1": "#89 - Frank  Congel",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:28",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "scorer": "#43 - Bobby  Powers",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:26",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "scorer": "#89 - Frank  Congel",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:21",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "player": "#16 - Ian  Dillner",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:52",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:31",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "player": "#71 - Mark  Saucer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:57",
+      "team": {
+        "teamId": "1052",
+        "name": "Hurricanes"
+      },
+      "player": "#9 - Rick  Cole",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:10:27.556Z"
+}

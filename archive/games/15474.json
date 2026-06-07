@@ -1,0 +1,97 @@
+{
+  "gameId": "15474",
+  "date": "2023-01-01",
+  "divId": 261,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1607",
+    "name": "Toronto"
+  },
+  "away": {
+    "teamId": "1609",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1609",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#86 - Pat  McMahon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:23",
+      "team": {
+        "teamId": "1609",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#77 - Paul  Cicchetti",
+      "assist1": "#11 - Josh  Gilman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1607",
+        "name": "Toronto"
+      },
+      "player": "#99 - Francesco  Muss",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:42",
+      "team": {
+        "teamId": "1609",
+        "name": "Blackskimmers"
+      },
+      "player": "#19 - Nate  Rozelle",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1607",
+        "name": "Toronto"
+      },
+      "player": "#20 - Bao  Pham",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:54:22.586Z"
+}

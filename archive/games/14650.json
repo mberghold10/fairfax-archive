@@ -1,0 +1,139 @@
+{
+  "gameId": "14650",
+  "date": "2022-01-31",
+  "divId": 243,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1504",
+    "name": "D Punishers"
+  },
+  "away": {
+    "teamId": "1503",
+    "name": "Capitals"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:58",
+      "team": {
+        "teamId": "1504",
+        "name": "D Punishers"
+      },
+      "scorer": "#42 - Ryan  ODriscoll",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1503",
+        "name": "Capitals"
+      },
+      "scorer": "#92 - Darren  Welner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:20",
+      "team": {
+        "teamId": "1504",
+        "name": "D Punishers"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1503",
+        "name": "Capitals"
+      },
+      "scorer": "#52 - Alan  Dappen",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:47",
+      "team": {
+        "teamId": "1504",
+        "name": "D Punishers"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": "#42 - Ryan  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "1503",
+        "name": "Capitals"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:12",
+      "team": {
+        "teamId": "1504",
+        "name": "D Punishers"
+      },
+      "scorer": "#19 - Brian  Mehnert",
+      "assist1": "#42 - Ryan  ODriscoll",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1503",
+        "name": "Capitals"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:18",
+      "team": {
+        "teamId": "1504",
+        "name": "D Punishers"
+      },
+      "player": "#23 - Bill  Motzko",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:33:09.117Z"
+}

@@ -1,0 +1,189 @@
+{
+  "gameId": "10357",
+  "date": "2017-02-18",
+  "divId": 160,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1026",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1027",
+    "name": "Sparks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:54",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "scorer": "#4 - Matt  Gelman",
+      "assist1": "#18 - Mathew  Wanchick",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:17:32",
+      "team": {
+        "teamId": "1026",
+        "name": "Rink Rats"
+      },
+      "scorer": "#91 - James  Debolt",
+      "assist1": "#9 - Maddy  Padgett",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:58",
+      "team": {
+        "teamId": "1026",
+        "name": "Rink Rats"
+      },
+      "scorer": "#24 - Matthew  Gerst",
+      "assist1": "#9 - Maddy  Padgett",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "scorer": "#4 - Matt  Gelman",
+      "assist1": "#41 - Randy  Warren",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "scorer": "#18 - Mathew  Wanchick",
+      "assist1": "#78 - Charlie  Zachmann",
+      "assist2": "#4 - Matt  Gelman"
+    },
+    {
+      "period": "3",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "1026",
+        "name": "Rink Rats"
+      },
+      "scorer": "#36 - Nicholas  Fishter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:04",
+      "team": {
+        "teamId": "1026",
+        "name": "Rink Rats"
+      },
+      "scorer": "#36 - Nicholas  Fishter",
+      "assist1": "#90 - Byron  Howe",
+      "assist2": "#13 - Jeffrey  Willard"
+    },
+    {
+      "period": "3",
+      "time": "00:13:06",
+      "team": {
+        "teamId": "1026",
+        "name": "Rink Rats"
+      },
+      "scorer": "#24 - Matthew  Gerst",
+      "assist1": "#9 - Maddy  Padgett",
+      "assist2": "#91 - James  Debolt"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:46",
+      "team": {
+        "teamId": "1026",
+        "name": "Rink Rats"
+      },
+      "player": "#23 - Collin  Hunt",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:46",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "player": "#18 - Mathew  Wanchick",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:06",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "player": "#4 - Matt  Gelman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:16:08",
+      "team": {
+        "teamId": "1026",
+        "name": "Rink Rats"
+      },
+      "player": "#68 - Matthew  Taylor",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:16:08",
+      "team": {
+        "teamId": "1027",
+        "name": "Sparks"
+      },
+      "player": "#41 - Randy  Warren",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:43:24.001Z"
+}

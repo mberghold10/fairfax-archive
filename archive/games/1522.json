@@ -1,0 +1,202 @@
+{
+  "gameId": "1522",
+  "date": "2025-06-08",
+  "divId": 302,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1894",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1857",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1894",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#14 - Lee  Molina",
+      "assist1": "#33 - Scott  Coco",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:15",
+      "team": {
+        "teamId": "1857",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#11 - Josh  Gilman",
+      "assist1": "#24 - Conor  Woods",
+      "assist2": "#74 - Eric  Peterson"
+    },
+    {
+      "period": "2",
+      "time": "00:07:07",
+      "team": {
+        "teamId": "1857",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#19 - Nate  Rozelle",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "1857",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#11 - Josh  Gilman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:51",
+      "team": {
+        "teamId": "1894",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#14 - Lee  Molina",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:58",
+      "team": {
+        "teamId": "1857",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#71 - Francis  Aul",
+      "assist1": "#19 - Nate  Rozelle",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:25",
+      "team": {
+        "teamId": "1857",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#89 - Sid  Han",
+      "assist1": "#19 - Nate  Rozelle",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:48",
+      "team": {
+        "teamId": "1857",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#19 - Nate  Rozelle",
+      "assist1": "#89 - Sid  Han",
+      "assist2": "#9 - Scott  Peterson"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "1857",
+        "name": "Blackskimmers"
+      },
+      "player": "#9 - Scott  Peterson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:47",
+      "team": {
+        "teamId": "1894",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#35 - Peter  Molnar",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:02",
+      "team": {
+        "teamId": "1894",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#15 - Christopher  Abbott",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:47",
+      "team": {
+        "teamId": "1894",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:33",
+      "team": {
+        "teamId": "1857",
+        "name": "Blackskimmers"
+      },
+      "player": "#71 - Francis  Aul",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "1894",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#7 - Graham  Eddy",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:40:34.641Z"
+}

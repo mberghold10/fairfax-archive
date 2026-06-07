@@ -1,0 +1,130 @@
+{
+  "gameId": "11013",
+  "date": "2017-12-03",
+  "divId": 171,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1090",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1093",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#29 - Randy  Foster",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": "#3 - Mario  Regan"
+    },
+    {
+      "period": "2",
+      "time": "00:03:44",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#8 - Arturas  Vorobjovas",
+      "assist1": "#24 - Michael  Sheridan",
+      "assist2": "#11 - Wayde  Thomka"
+    },
+    {
+      "period": "3",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#8 - Arturas  Vorobjovas",
+      "assist1": "#2 - Bill  Morris",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:20",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#40 - Mikhail  Serebrennikov",
+      "assist1": "#2 - Bill  Morris",
+      "assist2": "#69 - Robert  LaJeunesse"
+    },
+    {
+      "period": "3",
+      "time": "00:14:39",
+      "team": {
+        "teamId": "1093",
+        "name": "Nortec"
+      },
+      "scorer": "#7 - Peter  Grose",
+      "assist1": "#8 - Arturas  Vorobjovas",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:28",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "player": "#29 - Randy  Foster",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:13",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "player": "#12 - Brian  Dix",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:02",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "player": "#4 - Mark  Sullivan",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:18:46.544Z"
+}

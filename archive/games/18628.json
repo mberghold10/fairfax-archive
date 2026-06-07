@@ -1,0 +1,117 @@
+{
+  "gameId": "18628",
+  "date": "2026-01-11",
+  "divId": 321,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1968",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "1963",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1963",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#32 - Rob  Stewart",
+      "assist1": "#91 - Michael  Clarke",
+      "assist2": "#44 - Nicholas  Eckstein"
+    },
+    {
+      "period": "2",
+      "time": "00:00:49",
+      "team": {
+        "teamId": "1963",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#7 - Ethan  Liu",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#2 - Ari  Loggia",
+      "assist1": "#14 - Paul  Tourbaf",
+      "assist2": "#82 - Justin  MacDonald"
+    },
+    {
+      "period": "3",
+      "time": "00:03:04",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#14 - Paul  Tourbaf",
+      "assist1": "#2 - Ari  Loggia",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#82 - Justin  MacDonald",
+      "assist1": "#2 - Ari  Loggia",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "player": "#33 - Hung  Pham",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:26",
+      "team": {
+        "teamId": "1968",
+        "name": "British Bulldogs"
+      },
+      "player": "#14 - Paul  Tourbaf",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:37:50.572Z"
+}

@@ -1,0 +1,130 @@
+{
+  "gameId": "17816",
+  "date": "2025-05-12",
+  "divId": 299,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1838",
+    "name": "Punishers HC"
+  },
+  "away": {
+    "teamId": "1841",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:21",
+      "team": {
+        "teamId": "1841",
+        "name": "Dragons"
+      },
+      "scorer": "#89 - AJ  Saleh",
+      "assist1": "#55 - Griffin  Bryce",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:35",
+      "team": {
+        "teamId": "1841",
+        "name": "Dragons"
+      },
+      "scorer": "#44 - Dan  McCauley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:07",
+      "team": {
+        "teamId": "1841",
+        "name": "Dragons"
+      },
+      "scorer": "#44 - Dan  McCauley",
+      "assist1": "#43 - Braeden  Siminow",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:24",
+      "team": {
+        "teamId": "1838",
+        "name": "Punishers HC"
+      },
+      "scorer": "#2 - Doug  Harke",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": "#12 - Dave  OMalley"
+    },
+    {
+      "period": "3",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "1838",
+        "name": "Punishers HC"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:14",
+      "team": {
+        "teamId": "1841",
+        "name": "Dragons"
+      },
+      "player": "#43 - Braeden  Siminow",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:57",
+      "team": {
+        "teamId": "1838",
+        "name": "Punishers HC"
+      },
+      "player": "#35 - Jeff  Colwell",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1838",
+        "name": "Punishers HC"
+      },
+      "player": "#44 - Sean  Cullen",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:37:07.151Z"
+}

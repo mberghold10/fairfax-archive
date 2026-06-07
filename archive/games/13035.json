@@ -1,0 +1,156 @@
+{
+  "gameId": "13035",
+  "date": "2019-09-14",
+  "divId": 201,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1278",
+    "name": "Senators"
+  },
+  "away": {
+    "teamId": "1275",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 5,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:03:37",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:23",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#5 - Alex  Talalayevsky",
+      "assist1": "#12 - David  OMalley",
+      "assist2": "#71 - Dan  Pol"
+    },
+    {
+      "period": "3",
+      "time": "00:09:38",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#24 - Mike  Duell",
+      "assist1": "#13 - Phil  Wind",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:25",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#57 - Howard  Uman",
+      "assist1": "#24 - Mike  Duell",
+      "assist2": "#36 - Matt  Michelson"
+    },
+    {
+      "period": "3",
+      "time": "00:13:42",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#12 - David  OMalley",
+      "assist1": "#36 - Matt  Michelson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "player": "#12 - David  OMalley",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "player": "#5 - Alex  Talalayevsky",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:37",
+      "team": {
+        "teamId": "1275",
+        "name": "Maple Leafs"
+      },
+      "player": "#19 - Bryan  Moffett",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:49",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "player": "#5 - Alex  Talalayevsky",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:52",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "player": "#24 - Mike  Duell",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:57:03.281Z"
+}

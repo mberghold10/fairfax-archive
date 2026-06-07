@@ -1,0 +1,178 @@
+{
+  "gameId": "11053",
+  "date": "2017-10-10",
+  "divId": 173,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1103",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "1107",
+    "name": "Hooligans"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": "#33 - Andrew  Scharnweber",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:33",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#88 - Matt  Tiede",
+      "assist1": "#33 - Andrew  Scharnweber",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:12",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "scorer": "#5 - Doug  Palo",
+      "assist1": "#12 - Wade  Cleland",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:12",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "scorer": "#9 - Joe  Tierney",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:36",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#7 - Daniel  Fleshner",
+      "assist1": "#79 - Jeffrey  Vandenberghe",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:45",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "scorer": "#9 - Joe  Tierney",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#13 - Lazer  Wittman",
+      "assist1": "#9 - Paul  Moretti",
+      "assist2": "#67 - Andrew  Miller"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "player": "#20 - Paul  Flood",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:20",
+      "team": {
+        "teamId": "1103",
+        "name": "Ice Dogs"
+      },
+      "player": "#9 - Paul  Moretti",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:19",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "player": "#81 - John  Elliott",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:39",
+      "team": {
+        "teamId": "1107",
+        "name": "Hooligans"
+      },
+      "player": "#5 - Doug  Palo",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:21:12.984Z"
+}

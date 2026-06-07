@@ -1,0 +1,130 @@
+{
+  "gameId": "10539",
+  "date": "2017-06-04",
+  "divId": 164,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1053",
+    "name": "Hooligans"
+  },
+  "away": {
+    "teamId": "1050",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "scorer": "#71 - Mark  Saucer",
+      "assist1": "#25 - Dave  Halsted",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:17",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "scorer": "#91 - Ken  Degrave",
+      "assist1": "#90 - Justin  MacDonald",
+      "assist2": "#71 - Mark  Saucer"
+    },
+    {
+      "period": "1",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "scorer": "#18 - Peter  Poczatek",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "scorer": "#21 - Jeff  Chistolini",
+      "assist1": "#16 - Ian  Dillner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:24",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "scorer": "#18 - Peter  Poczatek",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:24",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "player": "#50 - Lorin  Randall",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1050",
+        "name": "Wolves"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "1053",
+        "name": "Hooligans"
+      },
+      "player": "#28 - Doug  Branton",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:10:38.014Z"
+}

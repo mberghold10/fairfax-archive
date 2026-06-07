@@ -1,0 +1,152 @@
+{
+  "gameId": "10614",
+  "date": "2017-05-29",
+  "divId": 167,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1067",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1069",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "1069",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#5 - Lucas  Streng",
+      "assist1": "#96 - Steve  Spector",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:39",
+      "team": {
+        "teamId": "1069",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#9 - Steve  Tarditi",
+      "assist1": "#6 - Bob  Friess",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:53",
+      "team": {
+        "teamId": "1069",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#6 - Bob  Friess",
+      "assist1": "#9 - Steve  Tarditi",
+      "assist2": "#96 - Steve  Spector"
+    },
+    {
+      "period": "2",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "scorer": "#7 - Justin  Kent",
+      "assist1": "#5 - John  Bennett",
+      "assist2": "#42 - Dan  Schwind"
+    },
+    {
+      "period": "2",
+      "time": "00:14:13",
+      "team": {
+        "teamId": "1069",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#42 - Adam  Russell",
+      "assist1": "#13 - Rob  Wittman",
+      "assist2": "#16 - Nurali  Jamani"
+    },
+    {
+      "period": "2",
+      "time": "00:14:22",
+      "team": {
+        "teamId": "1069",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#16 - Nurali  Jamani",
+      "assist1": "#5 - Lucas  Streng",
+      "assist2": "#42 - Adam  Russell"
+    },
+    {
+      "period": "3",
+      "time": "00:14:25",
+      "team": {
+        "teamId": "1069",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#9 - Steve  Tarditi",
+      "assist1": "#62 - Ben  Fernandes",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:02:18",
+      "team": {
+        "teamId": "1067",
+        "name": "Angry Moose"
+      },
+      "player": "#17 - Anthony  Vitucci",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:18",
+      "team": {
+        "teamId": "1069",
+        "name": "Blue Crabs"
+      },
+      "player": "#62 - Ben  Fernandes",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:56",
+      "team": {
+        "teamId": "1069",
+        "name": "Blue Crabs"
+      },
+      "player": "#16 - Nurali  Jamani",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:14:26.171Z"
+}

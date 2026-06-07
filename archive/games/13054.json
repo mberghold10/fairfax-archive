@@ -1,0 +1,165 @@
+{
+  "gameId": "13054",
+  "date": "2019-07-15",
+  "divId": 203,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1287",
+    "name": "Bluejacket Capitals"
+  },
+  "away": {
+    "teamId": "1290",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1287",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#9 - Erik  Haas",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:11",
+      "team": {
+        "teamId": "1287",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#12 - Trent  Papke",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": "#10 - Peter  Grose"
+    },
+    {
+      "period": "1",
+      "time": "00:11:16",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#3 - Julien  De Grandpre",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:10",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": "#8 - Kevin  Free",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:39",
+      "team": {
+        "teamId": "1287",
+        "name": "Bluejacket Capitals"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:41",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#9 - Jon  Goldstein",
+      "assist1": "#29 - Michael  Carzoli",
+      "assist2": "#12 - Roger  Lagunoff"
+    },
+    {
+      "period": "3",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "scorer": "#91 - Chris  Callanan",
+      "assist1": "#8 - Kevin  Free",
+      "assist2": "#3 - Julien  De Grandpre"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1287",
+        "name": "Bluejacket Capitals"
+      },
+      "player": "#25 - Stan  Torgovitsky",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "1290",
+        "name": "Canucks"
+      },
+      "player": "#8 - Kevin  Free",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:06",
+      "team": {
+        "teamId": "1287",
+        "name": "Bluejacket Capitals"
+      },
+      "player": "#77 - Erik  Bergman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "1287",
+        "name": "Bluejacket Capitals"
+      },
+      "player": "#12 - Trent  Papke",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:58:30.268Z"
+}

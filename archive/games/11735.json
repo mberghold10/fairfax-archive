@@ -1,0 +1,145 @@
+{
+  "gameId": "11735",
+  "date": "2018-06-30",
+  "divId": 187,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1192",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1193",
+    "name": "Steamed Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1193",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#13 - Charlie  Ashley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:31",
+      "team": {
+        "teamId": "1193",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#13 - Charlie  Ashley",
+      "assist1": "#32 - Dave  Garvis",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "scorer": "#8 - Aaron  Pollon",
+      "assist1": "#40 - Brandon  Honeycutt",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:12",
+      "team": {
+        "teamId": "1193",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#13 - Charlie  Ashley",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "1193",
+        "name": "Steamed Crabs"
+      },
+      "player": "#32 - Dave  Garvis",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "1193",
+        "name": "Steamed Crabs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:08",
+      "team": {
+        "teamId": "1193",
+        "name": "Steamed Crabs"
+      },
+      "player": "#11 - Joe  Janiak",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:10",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "player": "#8 - Aaron  Pollon",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:25",
+      "team": {
+        "teamId": "1192",
+        "name": "Rink Rats"
+      },
+      "player": "#68 - Matt  Taylor",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:39:16.120Z"
+}

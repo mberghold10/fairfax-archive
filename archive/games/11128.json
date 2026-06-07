@@ -1,0 +1,174 @@
+{
+  "gameId": "11128",
+  "date": "2017-10-08",
+  "divId": 176,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1121",
+    "name": "Red Devils"
+  },
+  "away": {
+    "teamId": "1126",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "1126",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:34",
+      "team": {
+        "teamId": "1126",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#20 - Bao  Pham",
+      "assist2": "#15 - Mark  Yawornicky"
+    },
+    {
+      "period": "1",
+      "time": "00:08:11",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#5 - Joel  Dever",
+      "assist1": "#10 - Chris  Chagnon",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#18 - Jeff  Rummel",
+      "assist1": "#22 - Jongjae  Yoo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:32",
+      "team": {
+        "teamId": "1126",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#21 - Austin  Orchard",
+      "assist1": "#20 - Bao  Pham",
+      "assist2": "#16 - Greg  Thomas"
+    },
+    {
+      "period": "3",
+      "time": "00:02:48",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#10 - Chris  Chagnon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:56",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#6 - Faraz  Izadi",
+      "assist1": "#5 - Joel  Dever",
+      "assist2": "#10 - Chris  Chagnon"
+    },
+    {
+      "period": "3",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "1126",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#21 - Austin  Orchard",
+      "assist2": "#20 - Bao  Pham"
+    },
+    {
+      "period": "3",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "scorer": "#6 - Faraz  Izadi",
+      "assist1": "#77 - Jay  Diem",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "player": "#82 - Tim  Lo",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:03",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "player": "#4 - John  Dandeneau",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:36",
+      "team": {
+        "teamId": "1121",
+        "name": "Red Devils"
+      },
+      "player": "#18 - Jeff  Rummel",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:25:02.623Z"
+}

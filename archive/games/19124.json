@@ -1,0 +1,139 @@
+{
+  "gameId": "19124",
+  "date": "2026-04-04",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2007",
+    "name": "Roccos"
+  },
+  "away": {
+    "teamId": "2003",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "scorer": "#93 - Chris  Conley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:03",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "scorer": "#2 - Nikolay  Ataev",
+      "assist1": "#92 - Chris  Page",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:32",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "scorer": "#7 - Aiden  Stack",
+      "assist1": "#93 - Chris  Conley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:52",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "scorer": "#29 - James  Kim",
+      "assist1": "#93 - Chris  Conley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "scorer": "#93 - Chris  Conley",
+      "assist1": "#44 - Matt  Waggoner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "scorer": "#11 - Mark  Boyd",
+      "assist1": "#61 - Nick  Johnston",
+      "assist2": "#29 - James  Kim"
+    },
+    {
+      "period": "3",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "scorer": "#49 - Jacob  Sigler",
+      "assist1": "#11 - Eugene  Lee",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:17:34",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:05",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "player": "#44 - Matt  Waggoner",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:08:38.778Z"
+}

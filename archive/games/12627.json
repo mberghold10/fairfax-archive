@@ -1,0 +1,130 @@
+{
+  "gameId": "12627",
+  "date": "2019-03-03",
+  "divId": 197,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1251",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1253",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1253",
+        "name": "Red Wings"
+      },
+      "scorer": "#4 - Gene  Martin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:15:10",
+      "team": {
+        "teamId": "1253",
+        "name": "Red Wings"
+      },
+      "scorer": "#12 - Gus  Anderson",
+      "assist1": "#24 - Harry  Nicholakos",
+      "assist2": "#4 - Gene  Martin"
+    },
+    {
+      "period": "2",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "scorer": "#81 - Sean  Murphy",
+      "assist1": "#9 - Maddy  Padgett",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:50",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "scorer": "#6 - Hugo  Guzman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:16:00",
+      "team": {
+        "teamId": "1253",
+        "name": "Red Wings"
+      },
+      "scorer": "#40 - Howard  Ehrlich",
+      "assist1": "#24 - Harry  Nicholakos",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:32",
+      "team": {
+        "teamId": "1253",
+        "name": "Red Wings"
+      },
+      "player": "#2 - JP  Gardner",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:16",
+      "team": {
+        "teamId": "1253",
+        "name": "Red Wings"
+      },
+      "player": "#4 - Gene  Martin",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:40",
+      "team": {
+        "teamId": "1251",
+        "name": "Rink Rats"
+      },
+      "player": "#26 - Edward  Regan",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:52:02.624Z"
+}

@@ -1,0 +1,200 @@
+{
+  "gameId": "16032",
+  "date": "2023-06-18",
+  "divId": 272,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1682",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1674",
+    "name": "Ers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1674",
+        "name": "Ers"
+      },
+      "scorer": "#28 - Eric  Mastromatteo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:31",
+      "team": {
+        "teamId": "1674",
+        "name": "Ers"
+      },
+      "scorer": "#44 - Mick  Ellsworth",
+      "assist1": "#55 - Mike  McKenney",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:41",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": "#41 - Dave  Armstrong",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "1674",
+        "name": "Ers"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:23",
+      "team": {
+        "teamId": "1674",
+        "name": "Ers"
+      },
+      "scorer": "#24 - Tom  Spiewak",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "scorer": "#41 - Dave  Armstrong",
+      "assist1": "#79 - Dave  Gerstner",
+      "assist2": "#88 - Anthony  DeJohn"
+    },
+    {
+      "period": "2",
+      "time": "00:06:12",
+      "team": {
+        "teamId": "1674",
+        "name": "Ers"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:34",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "scorer": "#88 - Anthony  DeJohn",
+      "assist1": "#41 - Dave  Armstrong",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:13",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": "#77 - Joe  Berret",
+      "assist2": "#88 - Anthony  DeJohn"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "player": "#77 - Joe  Berret",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:10",
+      "team": {
+        "teamId": "1674",
+        "name": "Ers"
+      },
+      "player": "#28 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "player": "#88 - Anthony  DeJohn",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "1682",
+        "name": "Islanders"
+      },
+      "player": "#77 - Joe  Berret",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:43",
+      "team": {
+        "teamId": "1674",
+        "name": "Ers"
+      },
+      "player": "#28 - Eric  Mastromatteo",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:07:15.311Z"
+}

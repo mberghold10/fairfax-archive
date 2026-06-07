@@ -1,0 +1,143 @@
+{
+  "gameId": "14311",
+  "date": "2021-10-01",
+  "divId": 233,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1454",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1456",
+    "name": "Hitmen"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:36",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "scorer": "#17 - Anthony  Vitucci",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:43",
+      "team": {
+        "teamId": "1456",
+        "name": "Hitmen"
+      },
+      "scorer": "#4 - Augie  Savarese",
+      "assist1": "#9 - James  Kim",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "scorer": "#0 - Jory  Rubenstein",
+      "assist1": "#27 - Jeff  Alton",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:47",
+      "team": {
+        "teamId": "1456",
+        "name": "Hitmen"
+      },
+      "scorer": "#74 - Mike  Brewin",
+      "assist1": "#29 - Taylor  Van Prooyen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:31",
+      "team": {
+        "teamId": "1456",
+        "name": "Hitmen"
+      },
+      "scorer": "#74 - Mike  Brewin",
+      "assist1": "#17 - James  Ciskanik",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "player": "#47 - Jeff  Urlwin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:56",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "player": "#1 - Ryan  Gardiner",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "player": "#91 - Matt  Vossekuil",
+      "pim": 5,
+      "offense": "rough",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "1454",
+        "name": "Angry Moose"
+      },
+      "player": "#91 - Matt  Vossekuil",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:25:49.609Z"
+}

@@ -1,0 +1,128 @@
+{
+  "gameId": "10938",
+  "date": "2017-09-03",
+  "divId": 169,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1082",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1079",
+    "name": "Steamed Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "1079",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#88 - Patrick  Lockett",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:48",
+      "team": {
+        "teamId": "1082",
+        "name": "Red Wings"
+      },
+      "scorer": "#69 - Chris  Maroon",
+      "assist1": "#10 - Owen  Schaefer",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:16:32",
+      "team": {
+        "teamId": "1082",
+        "name": "Red Wings"
+      },
+      "scorer": "#67 - John  Krotzer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:34",
+      "team": {
+        "teamId": "1079",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#88 - Patrick  Lockett",
+      "assist1": "#24 - Mark  Paolicelli",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:15:08",
+      "team": {
+        "teamId": "1079",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#3 - Matthew  White",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": "#40 - Hank  Kim"
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1079",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#24 - Mark  Paolicelli",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:32",
+      "team": {
+        "teamId": "1082",
+        "name": "Red Wings"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:20",
+      "team": {
+        "teamId": "1079",
+        "name": "Steamed Crabs"
+      },
+      "player": "#40 - Hank  Kim",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:17:16.097Z"
+}

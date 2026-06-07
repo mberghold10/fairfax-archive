@@ -1,0 +1,128 @@
+{
+  "gameId": "14568",
+  "date": "2021-12-26",
+  "divId": 248,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1531",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1532",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "1531",
+        "name": "Thunder"
+      },
+      "scorer": "#29 - James  Kim",
+      "assist1": "#83 - Bill  Bailey",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:53",
+      "team": {
+        "teamId": "1531",
+        "name": "Thunder"
+      },
+      "scorer": "#92 - Ryan  VandenHeuvel",
+      "assist1": "#31 - Zach  Furness",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:19",
+      "team": {
+        "teamId": "1531",
+        "name": "Thunder"
+      },
+      "scorer": "#11 - Mark  Boyd",
+      "assist1": "#31 - Zach  Furness",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1531",
+        "name": "Thunder"
+      },
+      "scorer": "#92 - Ryan  VandenHeuvel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:59",
+      "team": {
+        "teamId": "1532",
+        "name": "Roughnecks"
+      },
+      "scorer": "#13 - Dzastina  Haislmaier",
+      "assist1": "#85 - David  Goldstein",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:20",
+      "team": {
+        "teamId": "1532",
+        "name": "Roughnecks"
+      },
+      "scorer": "#10 - Dana  Kaufman",
+      "assist1": "#85 - David  Goldstein",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "1532",
+        "name": "Roughnecks"
+      },
+      "player": "#13 - Dzastina  Haislmaier",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:39",
+      "team": {
+        "teamId": "1531",
+        "name": "Thunder"
+      },
+      "player": "#47 - Dave  LeKuch",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:38:56.380Z"
+}

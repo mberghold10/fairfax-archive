@@ -1,0 +1,130 @@
+{
+  "gameId": "14077",
+  "date": "2021-06-05",
+  "divId": 230,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1440",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1439",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "1440",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#12 - Bert  Huser",
+      "assist1": "#44 - George  Cernica",
+      "assist2": "#72 - Darin  Martin"
+    },
+    {
+      "period": "2",
+      "time": "00:04:08",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "scorer": "#92 - Ryan  Vanden Heuvel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:09",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "scorer": "#20 - Brendan  Furness",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1440",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#72 - Darin  Martin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:04:32",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "scorer": "#20 - Brendan  Furness",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:26",
+      "team": {
+        "teamId": "1440",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#14 - Andrew  Prather",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1439",
+        "name": "Thunder"
+      },
+      "player": "#21 - Brendan  Williams",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:42",
+      "team": {
+        "teamId": "1440",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#55 - Steve  Lavery",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:23:46.353Z"
+}

@@ -1,0 +1,256 @@
+{
+  "gameId": "14108",
+  "date": "2021-06-27",
+  "divId": 227,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1427",
+    "name": "Hitmen"
+  },
+  "away": {
+    "teamId": "1426",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1427",
+        "name": "Hitmen"
+      },
+      "scorer": "#9 - James  Kim",
+      "assist1": "#4 - Augie  Savarese",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:32",
+      "team": {
+        "teamId": "1427",
+        "name": "Hitmen"
+      },
+      "scorer": "#9 - James  Kim",
+      "assist1": "#17 - James  Ciskanik",
+      "assist2": "#5 - Chris  Oman"
+    },
+    {
+      "period": "1",
+      "time": "00:07:48",
+      "team": {
+        "teamId": "1426",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#32 - Jeff  Hunter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:11",
+      "team": {
+        "teamId": "1427",
+        "name": "Hitmen"
+      },
+      "scorer": "#88 - Anthony  DeJohn",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:39",
+      "team": {
+        "teamId": "1426",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#32 - Jeff  Hunter",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "1427",
+        "name": "Hitmen"
+      },
+      "scorer": "#5 - Chris  Oman",
+      "assist1": "#4 - Augie  Savarese",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:05",
+      "team": {
+        "teamId": "1427",
+        "name": "Hitmen"
+      },
+      "scorer": "#3 - Charlie  Beekman",
+      "assist1": "#64 - Tim  Garay",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1427",
+        "name": "Hitmen"
+      },
+      "player": "#3 - Charlie  Beekman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "1426",
+        "name": "Mad Dogs"
+      },
+      "player": "#77 - Jeff  Wilken",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:37",
+      "team": {
+        "teamId": "1426",
+        "name": "Mad Dogs"
+      },
+      "player": "#0 - Ruben  Garcia",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1427",
+        "name": "Hitmen"
+      },
+      "player": "#3 - Charlie  Beekman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1426",
+        "name": "Mad Dogs"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:26",
+      "team": {
+        "teamId": "1426",
+        "name": "Mad Dogs"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "1426",
+        "name": "Mad Dogs"
+      },
+      "player": "#18 - Lee  Freedman",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1426",
+        "name": "Mad Dogs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:15",
+      "team": {
+        "teamId": "1426",
+        "name": "Mad Dogs"
+      },
+      "player": "#32 - Jeff  Hunter",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1426",
+        "name": "Mad Dogs"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "1426",
+        "name": "Mad Dogs"
+      },
+      "player": "#0 - Ruben  Garcia",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:21:51.166Z"
+}

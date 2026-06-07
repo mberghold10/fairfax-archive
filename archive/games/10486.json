@@ -1,0 +1,160 @@
+{
+  "gameId": "10486",
+  "date": "2017-06-03",
+  "divId": 162,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1039",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "1038",
+    "name": "Knights"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "scorer": "#47 - Talbot  Black",
+      "assist1": "#55 - Gig  Mikell",
+      "assist2": "#12 - Paul  Zalocha"
+    },
+    {
+      "period": "3",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "1038",
+        "name": "Knights"
+      },
+      "scorer": "#51 - Sergey  Kuznetsov",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": "#44 - Bob  Arnold"
+    },
+    {
+      "period": "3",
+      "time": "00:13:08",
+      "team": {
+        "teamId": "1038",
+        "name": "Knights"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#51 - Sergey  Kuznetsov",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:43",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "player": "#55 - Gig  Mikell",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:19",
+      "team": {
+        "teamId": "1038",
+        "name": "Knights"
+      },
+      "player": "#44 - Bob  Arnold",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:41",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "player": "#13 - Bill  Grove",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "player": "#19 - Joe  Dunn",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "1038",
+        "name": "Knights"
+      },
+      "player": "#51 - Sergey  Kuznetsov",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "1039",
+        "name": "Goons"
+      },
+      "player": "#9 - Brian  Mehnert",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "1038",
+        "name": "Knights"
+      },
+      "player": "#77 - Oleg  Nayandin",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:08:00.805Z"
+}

@@ -1,0 +1,117 @@
+{
+  "gameId": "11270",
+  "date": "2018-01-04",
+  "divId": 172,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1095",
+    "name": "Grey Goons"
+  },
+  "away": {
+    "teamId": "1101",
+    "name": "Rustico Flames"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:41",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#18 - Mike  Sharp",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#20 - Scott  Forbes",
+      "assist1": "#24 - Mike  Sheridan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": "#2 - James  Marlowe",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:58",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "scorer": "#16 - Dan  Rebmann",
+      "assist1": "#20 - Scott  Forbes",
+      "assist2": "#52 - Mike  Brobeck"
+    },
+    {
+      "period": "3",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1095",
+        "name": "Grey Goons"
+      },
+      "scorer": "#69 - Ron  Fishbeck",
+      "assist1": "#18 - Mike  Sharp",
+      "assist2": "#8 - Jason  Eister"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:09",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "player": "#51 - Brendan  Bernat",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:27",
+      "team": {
+        "teamId": "1101",
+        "name": "Rustico Flames"
+      },
+      "player": "#20 - Scott  Forbes",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:20:16.112Z"
+}

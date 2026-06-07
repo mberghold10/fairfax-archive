@@ -1,0 +1,223 @@
+{
+  "gameId": "11789",
+  "date": "2018-08-19",
+  "divId": 180,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1147",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1146",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "scorer": "#13 - Bob  Chagnot",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:54",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#56 - Ryan  Tyler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "scorer": "#27 - John  Hitesman",
+      "assist1": "#26 - Rich  Snively",
+      "assist2": "#3 - Mario  Regan"
+    },
+    {
+      "period": "3",
+      "time": "00:13:47",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "scorer": "#2 - Rod  Wade",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#22 - Sonny  Gupta",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:48",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#18 - Samson  Chu",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:12",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#11 - Sam  Marchio",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:12",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "player": "#26 - Rich  Snively",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "player": "#3 - Mario  Regan",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:11",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1146",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "player": "#16 - Bill  Thompson",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "player": "#16 - Bill  Thompson",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:58",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "player": "#16 - Bill  Thompson",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:30:31.337Z"
+}

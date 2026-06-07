@@ -1,0 +1,180 @@
+{
+  "gameId": "12911",
+  "date": "2019-06-02",
+  "divId": 207,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1312",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1308",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1312",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#51 - Kevin  Michie",
+      "assist1": "#94 - Sara  LeMoine",
+      "assist2": "#5 - Lars  Hjelm"
+    },
+    {
+      "period": "1",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "1312",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#5 - Lars  Hjelm",
+      "assist1": "#18 - Lee  Freedman",
+      "assist2": "#22 - Amir  Tahami"
+    },
+    {
+      "period": "2",
+      "time": "00:06:50",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "scorer": "#88 - Joe  Phillips",
+      "assist1": "#55 - Chad  Daniels",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1312",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#34 - Josh  Davis",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "scorer": "#0 - Bert  Huser",
+      "assist1": "#3 - Charlie  Beekman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "1312",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#19 - Troy  Edwards",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:56",
+      "team": {
+        "teamId": "1312",
+        "name": "Blue Dogs"
+      },
+      "player": "#17 - Justin  Cade",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:01",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "player": "#28 - Richard  Pettey",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "1312",
+        "name": "Blue Dogs"
+      },
+      "player": "#30 - Brent  Bolin",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "player": "#74 - Mike  Brewin",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1312",
+        "name": "Blue Dogs"
+      },
+      "player": "#16 - Brian  Murphy",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:06",
+      "team": {
+        "teamId": "1308",
+        "name": "Roughnecks"
+      },
+      "player": "#3 - Charlie  Beekman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:02:54.818Z"
+}

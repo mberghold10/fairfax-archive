@@ -1,0 +1,139 @@
+{
+  "gameId": "12928",
+  "date": "2019-07-23",
+  "divId": 198,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1257",
+    "name": "Georgetown"
+  },
+  "away": {
+    "teamId": "1256",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1257",
+        "name": "Georgetown"
+      },
+      "scorer": "#44 - Matt  Brown",
+      "assist1": "#5 - Ryan  LaDuke",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "1256",
+        "name": "Jacks"
+      },
+      "scorer": "#2 - Rod  Wade",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1256",
+        "name": "Jacks"
+      },
+      "scorer": "#14 - Dennis  Nayandin",
+      "assist1": "#41 - Eugene  Livis",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:58",
+      "team": {
+        "teamId": "1256",
+        "name": "Jacks"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#28 - Jason  Abkowitz",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "1257",
+        "name": "Georgetown"
+      },
+      "scorer": "#90 - Trenton  Fenster",
+      "assist1": "#27 - Daniel  Chapman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:46",
+      "team": {
+        "teamId": "1257",
+        "name": "Georgetown"
+      },
+      "scorer": "#44 - Matt  Brown",
+      "assist1": "#5 - Ryan  LaDuke",
+      "assist2": "#90 - Trenton  Fenster"
+    },
+    {
+      "period": "3",
+      "time": "00:14:12",
+      "team": {
+        "teamId": "1257",
+        "name": "Georgetown"
+      },
+      "scorer": "#44 - Matt  Brown",
+      "assist1": "#90 - Trenton  Fenster",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:07:19",
+      "team": {
+        "teamId": "1256",
+        "name": "Jacks"
+      },
+      "player": "#77 - Oleg  Nayandin",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1256",
+        "name": "Jacks"
+      },
+      "player": "#28 - Jason  Abkowitz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:52:48.146Z"
+}

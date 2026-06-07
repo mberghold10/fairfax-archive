@@ -1,0 +1,267 @@
+{
+  "gameId": "12515",
+  "date": "2019-01-23",
+  "divId": 194,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1232",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1234",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:03",
+      "team": {
+        "teamId": "1232",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:36",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#550 - Bill  MacIntyre",
+      "assist1": "#9 - Sam  Ziesler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#55 - Mark  Chapman",
+      "assist1": "#13 - Mike  Carew",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#55 - Mark  Chapman",
+      "assist1": "#550 - Bill  MacIntyre",
+      "assist2": "#22 - Nate  Harrison"
+    },
+    {
+      "period": "2",
+      "time": "00:08:53",
+      "team": {
+        "teamId": "1232",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#0 - Ron  Szatmary",
+      "assist2": "#9 - Jason  Murphy"
+    },
+    {
+      "period": "3",
+      "time": "00:01:39",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#22 - Nate  Harrison",
+      "assist1": "#5 - Chris  Marotta",
+      "assist2": "#55 - Mark  Chapman"
+    },
+    {
+      "period": "3",
+      "time": "00:06:06",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#550 - Bill  MacIntyre",
+      "assist1": "#18 - Sean  Gallucci",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:14",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "scorer": "#550 - Bill  MacIntyre",
+      "assist1": "#55 - Mark  Chapman",
+      "assist2": "#9 - Sam  Ziesler"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:01",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "player": "#22 - Nate  Harrison",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1232",
+        "name": "Swarm"
+      },
+      "player": "#61 - Fabian  Olaya",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:40",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "player": "#55 - Mark  Chapman",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:54",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "player": "#9 - Sam  Ziesler",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:11",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "player": "#0 - Robert  RIchard",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "player": "#18 - Sean  Gallucci",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "1232",
+        "name": "Swarm"
+      },
+      "player": "#9 - Jason  Murphy",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "player": "#22 - Nate  Harrison",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "player": "#22 - Nate  Harrison",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:06",
+      "team": {
+        "teamId": "1234",
+        "name": "Ducks"
+      },
+      "player": "#5 - Chris  Marotta",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:41",
+      "team": {
+        "teamId": "1232",
+        "name": "Swarm"
+      },
+      "player": "#61 - Fabian  Olaya",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:47:38.739Z"
+}

@@ -1,0 +1,182 @@
+{
+  "gameId": "12491",
+  "date": "2019-02-09",
+  "divId": 193,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1227",
+    "name": "Sparks"
+  },
+  "away": {
+    "teamId": "1224",
+    "name": "Triassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:43",
+      "team": {
+        "teamId": "1224",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#2 - Payton  Oliveri",
+      "assist1": "#96 - John  Kurzinger",
+      "assist2": "#11 - George  Cernica"
+    },
+    {
+      "period": "1",
+      "time": "00:14:09",
+      "team": {
+        "teamId": "1227",
+        "name": "Sparks"
+      },
+      "scorer": "#56 - Josh  Brown",
+      "assist1": "#88 - Daniel  Lange",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "1224",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#11 - George  Cernica",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:23",
+      "team": {
+        "teamId": "1227",
+        "name": "Sparks"
+      },
+      "scorer": "#30 - Brandon  Heiner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "1224",
+        "name": "Triassic Puck"
+      },
+      "scorer": "#10 - Radoslaw  Kaczor",
+      "assist1": "#27 - Mike  Fullen",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1227",
+        "name": "Sparks"
+      },
+      "player": "#33 - Mike  Wagner",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:32",
+      "team": {
+        "teamId": "1227",
+        "name": "Sparks"
+      },
+      "player": "#4 - Matt  Gelman",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:47",
+      "team": {
+        "teamId": "1224",
+        "name": "Triassic Puck"
+      },
+      "player": "#10 - Radoslaw  Kaczor",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "1227",
+        "name": "Sparks"
+      },
+      "player": "#4 - Matt  Gelman",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1224",
+        "name": "Triassic Puck"
+      },
+      "player": "#96 - John  Kurzinger",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:51",
+      "team": {
+        "teamId": "1227",
+        "name": "Sparks"
+      },
+      "player": "#88 - Daniel  Lange",
+      "pim": 5,
+      "offense": "major trip",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:51",
+      "team": {
+        "teamId": "1227",
+        "name": "Sparks"
+      },
+      "player": "#88 - Daniel  Lange",
+      "pim": 10,
+      "offense": "gam misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:46:30.683Z"
+}

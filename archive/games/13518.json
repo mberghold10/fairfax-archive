@@ -1,0 +1,104 @@
+{
+  "gameId": "13518",
+  "date": "2020-01-13",
+  "divId": 209,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1321",
+    "name": "Bulldogs"
+  },
+  "away": {
+    "teamId": "1325",
+    "name": "Canucks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1321",
+        "name": "Bulldogs"
+      },
+      "scorer": "#7 - Jimmy  Shelton",
+      "assist1": "#69 - Aaron  Risdal",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": "#9 - Jon  Goldstein",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "scorer": "#9 - Jon  Goldstein",
+      "assist1": "#3 - Julien  De Grandpre",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:41",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "scorer": "#9 - Jon  Goldstein",
+      "assist1": "#29 - Michael  Carzoli",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:02",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:35",
+      "team": {
+        "teamId": "1321",
+        "name": "Bulldogs"
+      },
+      "player": "#7 - Jimmy  Shelton",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:05:22.172Z"
+}

@@ -1,0 +1,154 @@
+{
+  "gameId": "16071",
+  "date": "2023-06-25",
+  "divId": 273,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1686",
+    "name": "Gold Goats"
+  },
+  "away": {
+    "teamId": "1685",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "1686",
+        "name": "Gold Goats"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#15 - Tom  Sgroi",
+      "assist2": "#52 - Alan  Dappen"
+    },
+    {
+      "period": "2",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "1686",
+        "name": "Gold Goats"
+      },
+      "scorer": "#7 - Greg  Watchman",
+      "assist1": "#19 - Ira  Keltz",
+      "assist2": "#17 - Dan  Pol"
+    },
+    {
+      "period": "2",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1686",
+        "name": "Gold Goats"
+      },
+      "scorer": "#15 - Tom  Sgroi",
+      "assist1": "#34 - Marty  Gryski",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:16",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "scorer": "#21 - Greg  Lauer",
+      "assist1": "#12 - Jim  Schoff",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:49",
+      "team": {
+        "teamId": "1686",
+        "name": "Gold Goats"
+      },
+      "scorer": "#34 - Marty  Gryski",
+      "assist1": "#17 - Dan  Pol",
+      "assist2": "#12 - Dave  OMalley"
+    },
+    {
+      "period": "3",
+      "time": "00:03:03",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "scorer": "#21 - Greg  Lauer",
+      "assist1": "#6 - Jon  Alford",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "player": "#77 - Mark  Zarember",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:10",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "player": "#23 - Ken  DeGrave",
+      "pim": 2,
+      "offense": "charge",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "1686",
+        "name": "Gold Goats"
+      },
+      "player": "#19 - Ira  Keltz",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:45",
+      "team": {
+        "teamId": "1685",
+        "name": "Wolves"
+      },
+      "player": "#23 - Ken  DeGrave",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:08:54.011Z"
+}

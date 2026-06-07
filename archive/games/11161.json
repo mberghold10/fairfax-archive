@@ -1,0 +1,117 @@
+{
+  "gameId": "11161",
+  "date": "2017-10-20",
+  "divId": 177,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1128",
+    "name": "Sparks"
+  },
+  "away": {
+    "teamId": "1133",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1133",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#16 - Bailey  Robertory",
+      "assist1": "#51 - Michael  McGeever",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1133",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#7 - Brian  Ebert",
+      "assist1": "#19 - Nick  Adamonis",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "1133",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#24 - Roger  Stanton",
+      "assist1": "#7 - Brian  Ebert",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:43",
+      "team": {
+        "teamId": "1133",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#7 - Brian  Ebert",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "1133",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#17 - Zephan  Keehner",
+      "assist1": "#7 - Brian  Ebert",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1133",
+        "name": "Jurassic Puck"
+      },
+      "player": "#23 - Adam  Stanton",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "1128",
+        "name": "Sparks"
+      },
+      "player": "#47 - David  LeKuch",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:26:25.495Z"
+}

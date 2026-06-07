@@ -1,0 +1,228 @@
+{
+  "gameId": "1322",
+  "date": "2023-04-15",
+  "divId": 265,
+  "seasonName": "Winter 2022",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1634",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "1630",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 4,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "1634",
+        "name": "Red Wings"
+      },
+      "scorer": "#24 - Jake  Middel",
+      "assist1": "#22 - Trevor  Blair",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#90 - Alex  Mench",
+      "assist1": "#5 - Mike  Fottrell",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:29",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#77 - Scott  Petersen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:13",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#77 - Scott  Petersen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:51",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#5 - Mike  Fottrell",
+      "assist1": "#6 - Ben  Langdon",
+      "assist2": "#90 - Alex  Mench"
+    },
+    {
+      "period": "3",
+      "time": "00:06:21",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#21 - Joe  Rhodes",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:54",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#5 - Mike  Fottrell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:17",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#33 - Scott  Coco",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too may",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:36",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:11",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#88 - Jason  Searight",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:43",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#16 - Cullen  Finley",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:44",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#43 - Alex  Langsam",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "1634",
+        "name": "Red Wings"
+      },
+      "player": "#22 - Trevor  Blair",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1634",
+        "name": "Red Wings"
+      },
+      "player": "#8 - Brian  Merritt",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:39",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#16 - Cullen  Finley",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:00:07.572Z"
+}

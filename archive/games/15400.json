@@ -1,0 +1,154 @@
+{
+  "gameId": "15400",
+  "date": "2022-11-21",
+  "divId": 259,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1595",
+    "name": "North Stars"
+  },
+  "away": {
+    "teamId": "1592",
+    "name": "Punishers HC"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:23",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "scorer": "#10 - Mario  Constantinou",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:08",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "scorer": "#11 - Dan  Ferrucci",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:38",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "scorer": "#10 - Mario  Constantinou",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:44",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "scorer": "#5 - Ben  Malakoff",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:09",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#11 - Dan  Ferrucci",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:52",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "scorer": "#11 - Dan  Ferrucci",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:45",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "player": "#10 - Mario  Constantinou",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "player": "#6 - Jon  Lauder",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "player": "#5 - Ben  Malakoff",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1592",
+        "name": "Punishers HC"
+      },
+      "player": "#12 - Dave  OMally",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:51:16.338Z"
+}

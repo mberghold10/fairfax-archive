@@ -1,0 +1,180 @@
+{
+  "gameId": "947",
+  "date": "2019-04-06",
+  "divId": 190,
+  "seasonName": "Winter 2018",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1207",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1208",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:04",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#38 - Mike  Andrien",
+      "assist1": "#31 - Alex  DeYoung",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#10 - Mike  Carew",
+      "assist1": "#9 - James  Boland",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:14",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#24 - Jeff  Robins",
+      "assist1": "#10 - Mike  Carew",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:41",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#31 - Alex  DeYoung",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:25",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#31 - Alex  DeYoung",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "player": "#31 - Alex  DeYoung",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "1207",
+        "name": "Avalanche"
+      },
+      "player": "#8 - James  Miller",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:43",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "player": "#31 - Alex  DeYoung",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "1207",
+        "name": "Avalanche"
+      },
+      "player": "#20 - Rich  Utano",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:42",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "player": "#33 - Hung  Pham",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:22",
+      "team": {
+        "teamId": "1208",
+        "name": "British Bulldogs"
+      },
+      "player": "#24 - Jeff  Robins",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:42:53.614Z"
+}

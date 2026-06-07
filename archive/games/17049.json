@@ -1,0 +1,128 @@
+{
+  "gameId": "17049",
+  "date": "2024-07-28",
+  "divId": 288,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1773",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1767",
+    "name": "D 4th Liners"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1767",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#12 - Nic  Westing",
+      "assist1": "#68 - Rich  Williams",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "1767",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#8 - Jordan  Walerstein",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:01",
+      "team": {
+        "teamId": "1773",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#44 - Jeff  Marciano",
+      "assist1": "#24 - Brian  Davies",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "1773",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#17 - Josh  Bliudzius",
+      "assist1": "#24 - Brian  Davies",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1767",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#15 - Patrick  Judge",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1767",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#21 - Andrew  Galens",
+      "assist1": "#12 - Nic  Westing",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1767",
+        "name": "D 4th Liners"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:02",
+      "team": {
+        "teamId": "1773",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#9 - Greg  Sibley",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:25:34.018Z"
+}

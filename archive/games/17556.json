@@ -1,0 +1,141 @@
+{
+  "gameId": "17556",
+  "date": "2024-12-02",
+  "divId": 300,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1846",
+    "name": "DPunishers"
+  },
+  "away": {
+    "teamId": "1848",
+    "name": "Pharoahs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "1846",
+        "name": "DPunishers"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:23",
+      "team": {
+        "teamId": "1846",
+        "name": "DPunishers"
+      },
+      "scorer": "#2 - Doug  Harke",
+      "assist1": "#8 - Grant  Dougans",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:56",
+      "team": {
+        "teamId": "1848",
+        "name": "Pharoahs"
+      },
+      "scorer": "#25 - Chris  Howard",
+      "assist1": "#19 - John  Luebke",
+      "assist2": "#5 - Chris  Maroon"
+    },
+    {
+      "period": "3",
+      "time": "00:00:11",
+      "team": {
+        "teamId": "1848",
+        "name": "Pharoahs"
+      },
+      "scorer": "#57 - Dylan  Thomas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:51",
+      "team": {
+        "teamId": "1848",
+        "name": "Pharoahs"
+      },
+      "scorer": "#5 - Chris  Maroon",
+      "assist1": "#25 - Chris  Howard",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:37",
+      "team": {
+        "teamId": "1848",
+        "name": "Pharoahs"
+      },
+      "scorer": "#57 - Dylan  Thomas",
+      "assist1": "#36 - Richard  Miranda",
+      "assist2": "#19 - John  Luebke"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:19",
+      "team": {
+        "teamId": "1848",
+        "name": "Pharoahs"
+      },
+      "player": "#25 - Chris  Howard",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:14",
+      "team": {
+        "teamId": "1848",
+        "name": "Pharoahs"
+      },
+      "player": "#36 - Richard  Miranda",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:39",
+      "team": {
+        "teamId": "1846",
+        "name": "DPunishers"
+      },
+      "player": "#14 - Richard  Cole",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:37:42.228Z"
+}

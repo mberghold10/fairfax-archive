@@ -1,0 +1,163 @@
+{
+  "gameId": "17677",
+  "date": "2024-12-19",
+  "divId": 305,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1872",
+    "name": "Boston"
+  },
+  "away": {
+    "teamId": "1870",
+    "name": "Ers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#76 - Mike  Floyd",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:39",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#20 - Alex  Henry",
+      "assist1": "#23 - Gordon  Scott",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:27",
+      "team": {
+        "teamId": "1872",
+        "name": "Boston"
+      },
+      "scorer": "#65 - Bobby  Woods-Corwin",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "1872",
+        "name": "Boston"
+      },
+      "scorer": "#10 - Justin  Arbes",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": "#91 - Rob  Fischer"
+    },
+    {
+      "period": "1",
+      "time": "00:13:34",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": "#23 - Gordon  Scott",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:47",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#28 - Eric  Mastromatteo",
+      "assist1": "#24 - Tom  Spiewak",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:44",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": "#7 - Matt  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:41",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "scorer": "#7 - Matt  ODriscoll",
+      "assist1": "#23 - Gordon  Scott",
+      "assist2": "#9 - Brian  Mehnert"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:12:56",
+      "team": {
+        "teamId": "1870",
+        "name": "Ers"
+      },
+      "player": "#96 - Chris  Beck",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "1872",
+        "name": "Boston"
+      },
+      "player": "#11 - Dave  Wilson",
+      "pim": 2,
+      "offense": "check from behind",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "1872",
+        "name": "Boston"
+      },
+      "player": "#11 - Dave  Wilson",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:42:52.969Z"
+}

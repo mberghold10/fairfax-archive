@@ -1,0 +1,150 @@
+{
+  "gameId": "16101",
+  "date": "2023-07-15",
+  "divId": 274,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1689",
+    "name": "Hershey"
+  },
+  "away": {
+    "teamId": "1693",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:26",
+      "team": {
+        "teamId": "1693",
+        "name": "Red Wings"
+      },
+      "scorer": "#44 - Pat  Love",
+      "assist1": "#74 - David  Urlwin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:02",
+      "team": {
+        "teamId": "1693",
+        "name": "Red Wings"
+      },
+      "scorer": "#36 - Greg  Kowalski",
+      "assist1": "#24 - Jake  Middel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:19",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#43 - James  Kim",
+      "assist1": "#17 - Marc  Patience",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#63 - Chris  Delew",
+      "assist1": "#77 - Trevor  Boynton",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#63 - Chris  Delew",
+      "assist1": "#43 - James  Kim",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#75 - Paul  Barber",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:27",
+      "team": {
+        "teamId": "1693",
+        "name": "Red Wings"
+      },
+      "scorer": "#74 - David  Urlwin",
+      "assist1": "#36 - Greg  Kowalski",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:09",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "scorer": "#77 - Trevor  Boynton",
+      "assist1": "#63 - Chris  Delew",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:18:01",
+      "team": {
+        "teamId": "1689",
+        "name": "Hershey"
+      },
+      "player": "#7 - Vadim  Sokolov",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1693",
+        "name": "Red Wings"
+      },
+      "player": "#74 - David  Urlwin",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:10:10.827Z"
+}

@@ -1,0 +1,143 @@
+{
+  "gameId": "10911",
+  "date": "2017-09-03",
+  "divId": 165,
+  "seasonName": "Summer 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1057",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1054",
+    "name": "Phi Slama Jamma"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:06:10",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "scorer": "#13 - Keith  Fagerquist",
+      "assist1": "#36 - Johannes  Shade",
+      "assist2": "#11 - Stephen  Arthur"
+    },
+    {
+      "period": "2",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "scorer": "#36 - Johannes  Shade",
+      "assist1": "#13 - Keith  Fagerquist",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:17",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "scorer": "#7 - Matt  Finsterwald",
+      "assist1": "#13 - Keith  Fagerquist",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:19",
+      "team": {
+        "teamId": "1057",
+        "name": "Outlaws"
+      },
+      "scorer": "#14 - Jason  Brue",
+      "assist1": "#44 - Ben  Headley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:06",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "scorer": "#13 - Keith  Fagerquist",
+      "assist1": "#77 - Jeff  Carter",
+      "assist2": "#11 - Stephen  Arthur"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:36",
+      "team": {
+        "teamId": "1057",
+        "name": "Outlaws"
+      },
+      "player": "#44 - Ben  Headley",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:36",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "player": "#11 - Stephen  Arthur",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1057",
+        "name": "Outlaws"
+      },
+      "player": "#42 - Mac  Johnson",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:28",
+      "team": {
+        "teamId": "1054",
+        "name": "Phi Slama Jamma"
+      },
+      "player": "#11 - Stephen  Arthur",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:12:27.690Z"
+}

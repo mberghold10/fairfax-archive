@@ -1,0 +1,163 @@
+{
+  "gameId": "15685",
+  "date": "2023-03-25",
+  "divId": 260,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1603",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "1605",
+    "name": "Hitmen"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:19",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "scorer": "#93 - Peter  Lee",
+      "assist1": "#10 - Howard  Kim",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:59",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "scorer": "#10 - Howard  Kim",
+      "assist1": "#93 - Peter  Lee",
+      "assist2": "#11 - Dan  Wilson"
+    },
+    {
+      "period": "2",
+      "time": "00:06:11",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "scorer": "#29 - Taylor  Van Prooyen",
+      "assist1": "#5 - Chris  Oman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:14",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "scorer": "#10 - Howard  Kim",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:39",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": "#10 - Howard  Kim",
+      "assist2": "#21 - Kevin  Lockland"
+    },
+    {
+      "period": "3",
+      "time": "00:11:20",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "scorer": "#93 - Peter  Lee",
+      "assist1": "#500 - Rich  Sullivan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:51",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": "#10 - Howard  Kim",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:01",
+      "team": {
+        "teamId": "1603",
+        "name": "Angry Moose"
+      },
+      "scorer": "#16 - Ben  Huff",
+      "assist1": "#93 - Peter  Lee",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "player": "#29 - Taylor  Van Prooyen",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "player": "#5 - Chris  Oman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1605",
+        "name": "Hitmen"
+      },
+      "player": "#89 - Jim  Rathbone",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:53:31.445Z"
+}

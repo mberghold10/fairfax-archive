@@ -1,0 +1,104 @@
+{
+  "gameId": "15567",
+  "date": "2022-11-13",
+  "divId": 265,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1630",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1633",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "1633",
+        "name": "Blue Dogs"
+      },
+      "scorer": "# -",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:10",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#10 - Jack  Foley",
+      "assist1": "#4 - Jonathan  Carter",
+      "assist2": "# -"
+    },
+    {
+      "period": "1",
+      "time": "00:09:50",
+      "team": {
+        "teamId": "1633",
+        "name": "Blue Dogs"
+      },
+      "scorer": "# -",
+      "assist1": "#0 - Ruben  Garcia",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:25",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#8 - Ayia  Anuar",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:15:55",
+      "team": {
+        "teamId": "1633",
+        "name": "Blue Dogs"
+      },
+      "scorer": "# -",
+      "assist1": "#18 - Lee  Freedman",
+      "assist2": "#5 - Lars  Hjelm"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:17:11",
+      "team": {
+        "teamId": "1630",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#88 - Jason  Searight",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:59:19.160Z"
+}

@@ -1,0 +1,138 @@
+{
+  "gameId": "10185",
+  "date": "2016-12-18",
+  "divId": 154,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "988",
+    "name": "Knights"
+  },
+  "away": {
+    "teamId": "986",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "4",
+      "time": "00:01:18",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:55",
+      "team": {
+        "teamId": "988",
+        "name": "Knights"
+      },
+      "player": "#40 - Michael  Serebrennikov",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:18",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "player": "#2 - Jim  Smalley",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "988",
+        "name": "Knights"
+      },
+      "player": "#30 - Nick  Trajkovich",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:20",
+      "team": {
+        "teamId": "988",
+        "name": "Knights"
+      },
+      "player": "#30 - Nick  Trajkovich",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:35",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "player": "#56 - Ryan  Tyler",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:59",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "player": "#61 - Fabian  Olaya",
+      "pim": 5,
+      "offense": "butt-end",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:59",
+      "team": {
+        "teamId": "986",
+        "name": "Swarm"
+      },
+      "player": "#61 - Fabian  Olaya",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T18:57:56.300Z"
+}

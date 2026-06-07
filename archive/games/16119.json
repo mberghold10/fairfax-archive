@@ -1,0 +1,226 @@
+{
+  "gameId": "16119",
+  "date": "2023-07-30",
+  "divId": 275,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1694",
+    "name": "Virginia Buccaneers"
+  },
+  "away": {
+    "teamId": "1696",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 4,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:44",
+      "team": {
+        "teamId": "1694",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#55 - Richard  Wagner",
+      "assist1": "#11 - Scott  Fitzparick",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "1694",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#42 - Brian  Dix",
+      "assist1": "#210 - Tom  Eldert",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:34",
+      "team": {
+        "teamId": "1694",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#12 - Greg  Collins",
+      "assist1": "#55 - Richard  Wagner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "1694",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#55 - Richard  Wagner",
+      "assist1": "#12 - Greg  Collins",
+      "assist2": "#68 - Mike  Nicholson"
+    },
+    {
+      "period": "2",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1694",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#12 - Greg  Collins",
+      "assist1": "#42 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:41",
+      "team": {
+        "teamId": "1694",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#52 - Brian  Pirko",
+      "assist1": "#12 - Greg  Collins",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:49",
+      "team": {
+        "teamId": "1696",
+        "name": "Nortec"
+      },
+      "scorer": "#85 - Aaron  Dobbs",
+      "assist1": "#11 - Tom  Fergus",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:02",
+      "team": {
+        "teamId": "1694",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#42 - Brian  Dix",
+      "assist1": "#68 - Mike  Nicholson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:59",
+      "team": {
+        "teamId": "1696",
+        "name": "Nortec"
+      },
+      "scorer": "#11 - Tom  Fergus",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "1696",
+        "name": "Nortec"
+      },
+      "player": "#40 - Mikhail  Serebrennikov",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:04",
+      "team": {
+        "teamId": "1694",
+        "name": "Virginia Buccaneers"
+      },
+      "player": "#68 - Mike  Nicholson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:47",
+      "team": {
+        "teamId": "1696",
+        "name": "Nortec"
+      },
+      "player": "#55 - Tim  Dutcher",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:42",
+      "team": {
+        "teamId": "1694",
+        "name": "Virginia Buccaneers"
+      },
+      "player": "#52 - Brian  Pirko",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "1696",
+        "name": "Nortec"
+      },
+      "player": "#11 - Tom  Fergus",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "1696",
+        "name": "Nortec"
+      },
+      "player": "#4 - Tad  Jose",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:00",
+      "team": {
+        "teamId": "1694",
+        "name": "Virginia Buccaneers"
+      },
+      "player": "#10 - Dave  Hemmer",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:11:06.129Z"
+}

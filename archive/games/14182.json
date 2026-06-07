@@ -1,0 +1,128 @@
+{
+  "gameId": "14182",
+  "date": "2021-08-12",
+  "divId": 236,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1472",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "1477",
+    "name": "Grey Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:46",
+      "team": {
+        "teamId": "1477",
+        "name": "Grey Goons"
+      },
+      "scorer": "#49 - Greg  Mullen",
+      "assist1": "#19 - Joe  Dunn",
+      "assist2": "#2 - James  Marlowe"
+    },
+    {
+      "period": "2",
+      "time": "00:03:44",
+      "team": {
+        "teamId": "1477",
+        "name": "Grey Goons"
+      },
+      "scorer": "#21 - Christian  Gibbons",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:45",
+      "team": {
+        "teamId": "1472",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Andy  Taylor",
+      "assist1": "#25 - Malcolm  Hyson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:21",
+      "team": {
+        "teamId": "1477",
+        "name": "Grey Goons"
+      },
+      "scorer": "#11 - Dave  Brown",
+      "assist1": "#25 - Christopher  Litteri",
+      "assist2": "#19 - Joe  Dunn"
+    },
+    {
+      "period": "3",
+      "time": "00:09:16",
+      "team": {
+        "teamId": "1472",
+        "name": "Flying Circus"
+      },
+      "scorer": "#3 - Matt  Coose",
+      "assist1": "#8 - Dan  Brehm",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:07",
+      "team": {
+        "teamId": "1477",
+        "name": "Grey Goons"
+      },
+      "scorer": "#11 - Dave  Brown",
+      "assist1": "#49 - Greg  Mullen",
+      "assist2": "#19 - Joe  Dunn"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "1477",
+        "name": "Grey Goons"
+      },
+      "player": "#2 - James  Marlowe",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "1477",
+        "name": "Grey Goons"
+      },
+      "player": "#49 - Greg  Mullen",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:27:48.906Z"
+}

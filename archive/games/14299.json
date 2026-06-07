@@ -1,0 +1,132 @@
+{
+  "gameId": "14299",
+  "date": "2021-09-26",
+  "divId": 232,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1447",
+    "name": "Punishers"
+  },
+  "away": {
+    "teamId": "1450",
+    "name": "Avalanche"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:33",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "scorer": "#42 - Ryan  ODriscoll",
+      "assist1": "#16 - Miles  Zwicky",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:08",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "scorer": "#16 - Miles  Zwicky",
+      "assist1": "#42 - Ryan  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:09",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "scorer": "#6 - Jon  Lauder",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:26",
+      "team": {
+        "teamId": "1450",
+        "name": "Avalanche"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "1450",
+        "name": "Avalanche"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "player": "#16 - Miles  Zwicky",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:14",
+      "team": {
+        "teamId": "1447",
+        "name": "Punishers"
+      },
+      "player": "#15 - Phil  Wind",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:25:08.383Z"
+}

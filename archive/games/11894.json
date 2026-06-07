@@ -1,0 +1,104 @@
+{
+  "gameId": "11894",
+  "date": "2018-08-18",
+  "divId": 185,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1176",
+    "name": "Pharaohs"
+  },
+  "away": {
+    "teamId": "1178",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1178",
+        "name": "Lightning"
+      },
+      "scorer": "#16 - Marc  Tohir",
+      "assist1": "#19 - Bob  Cahill",
+      "assist2": "#34 - Jim  Kennedy"
+    },
+    {
+      "period": "2",
+      "time": "00:04:58",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#23 - Seth  Wayne",
+      "assist1": "#5 - Chris  Maroon",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:02",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#23 - Seth  Wayne",
+      "assist1": "#14 - Jay  Woon",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "1176",
+        "name": "Pharaohs"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1178",
+        "name": "Lightning"
+      },
+      "scorer": "#16 - Marc  Tohir",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "1178",
+        "name": "Lightning"
+      },
+      "player": "#12 - Dave  Lean",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:36:29.511Z"
+}

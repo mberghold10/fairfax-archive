@@ -1,0 +1,104 @@
+{
+  "gameId": "11953",
+  "date": "2018-08-26",
+  "divId": 187,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1194",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1193",
+    "name": "Steamed Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1193",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#15 - Dave  Fisher",
+      "assist1": "#77 - Alex  Wang",
+      "assist2": "#24 - Mark  Paolicelli"
+    },
+    {
+      "period": "1",
+      "time": "00:13:30",
+      "team": {
+        "teamId": "1193",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#24 - Mark  Paolicelli",
+      "assist1": "#88 - Pat  Lockett",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:15:30",
+      "team": {
+        "teamId": "1194",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#27 - Tim  Witkiewicz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1194",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#36 - Brian  Lusby",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:40",
+      "team": {
+        "teamId": "1193",
+        "name": "Steamed Crabs"
+      },
+      "scorer": "#13 - Charlie  Ashley",
+      "assist1": "#9 - Dave  Baker",
+      "assist2": "#15 - Dave  Fisher"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "1194",
+        "name": "Blue Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:39:37.122Z"
+}

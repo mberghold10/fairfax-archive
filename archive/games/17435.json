@@ -1,0 +1,106 @@
+{
+  "gameId": "17435",
+  "date": "2024-10-26",
+  "divId": 295,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1804",
+    "name": "Hershey Beers"
+  },
+  "away": {
+    "teamId": "1803",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:19:00",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "scorer": "#29 - James  Kim",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:30",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "scorer": "#72 - Anthony  Beverly",
+      "assist1": "#13 - Jim  Friel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:35",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "scorer": "#29 - James  Kim",
+      "assist1": "#31 - Zach  Furness",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "scorer": "#72 - Anthony  Beverly",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:14:00",
+      "team": {
+        "teamId": "1804",
+        "name": "Hershey Beers"
+      },
+      "player": "#88 - Afshawn  Towfighi",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1803",
+        "name": "Thunder"
+      },
+      "player": "#93 - Chris  Conley",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:33:27.623Z"
+}

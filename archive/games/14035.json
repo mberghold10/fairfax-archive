@@ -1,0 +1,165 @@
+{
+  "gameId": "14035",
+  "date": "2021-04-15",
+  "divId": 228,
+  "seasonName": "Spring 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1429",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "1431",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1429",
+        "name": "Penguins"
+      },
+      "scorer": "#15 - Mark  Rudnicki",
+      "assist1": "#25 - Bob  Banasik",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:45",
+      "team": {
+        "teamId": "1429",
+        "name": "Penguins"
+      },
+      "scorer": "#37 - Mike  Pryzbyla",
+      "assist1": "#11 - Darren  Wellner",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "1429",
+        "name": "Penguins"
+      },
+      "scorer": "#37 - Mike  Pryzbyla",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:49",
+      "team": {
+        "teamId": "1429",
+        "name": "Penguins"
+      },
+      "scorer": "#15 - Mark  Rudnicki",
+      "assist1": "#20 - Brent  Johnson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:15",
+      "team": {
+        "teamId": "1429",
+        "name": "Penguins"
+      },
+      "scorer": "#73 - Erik  Bergman",
+      "assist1": "#77 - Ryan  Reed",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:37",
+      "team": {
+        "teamId": "1429",
+        "name": "Penguins"
+      },
+      "scorer": "#37 - Mike  Pryzbyla",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:13",
+      "team": {
+        "teamId": "1429",
+        "name": "Penguins"
+      },
+      "scorer": "#25 - Bob  Banasik",
+      "assist1": "#13 - Bob  Seal",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "1429",
+        "name": "Penguins"
+      },
+      "player": "#13 - Bob  Seal",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:42",
+      "team": {
+        "teamId": "1429",
+        "name": "Penguins"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:11",
+      "team": {
+        "teamId": "1429",
+        "name": "Penguins"
+      },
+      "player": "#81 - Chris  Holden",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "1431",
+        "name": "Team USA"
+      },
+      "player": "#7 - Ed  Weiner",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:22:17.324Z"
+}

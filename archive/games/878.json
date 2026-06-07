@@ -1,0 +1,169 @@
+{
+  "gameId": "878",
+  "date": "2018-04-25",
+  "divId": 174,
+  "seasonName": "Winter 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1111",
+    "name": "DeYoung Money"
+  },
+  "away": {
+    "teamId": "1112",
+    "name": "Blackhawks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "1111",
+        "name": "DeYoung Money"
+      },
+      "scorer": "#96 - Alex  DeYoung",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1111",
+        "name": "DeYoung Money"
+      },
+      "scorer": "#96 - Alex  DeYoung",
+      "assist1": "#82 - Alex  Strunk",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "1111",
+        "name": "DeYoung Money"
+      },
+      "scorer": "#52 - Owen  OKeefe",
+      "assist1": "#36 - Jodel  Shade",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:04",
+      "team": {
+        "teamId": "1111",
+        "name": "DeYoung Money"
+      },
+      "scorer": "#96 - Alex  DeYoung",
+      "assist1": "#52 - Owen  OKeefe",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "scorer": "#7 - Tyler  Kniaz",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "player": "#27 - David  McAndrews",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:39",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "player": "#29 - Sean  Weddel",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "1111",
+        "name": "DeYoung Money"
+      },
+      "player": "#52 - Owen  OKeefe",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:18",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "player": "#47 - Talbot  Black",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:41",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "player": "#47 - Talbot  Black",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1112",
+        "name": "Blackhawks"
+      },
+      "player": "#8 - Brendan  Millice",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:23:19.352Z"
+}

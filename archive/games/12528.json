@@ -1,0 +1,139 @@
+{
+  "gameId": "12528",
+  "date": "2019-02-24",
+  "divId": 194,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1231",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1230",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:33",
+      "team": {
+        "teamId": "1231",
+        "name": "Englewood"
+      },
+      "scorer": "#7 - Joe  Hull",
+      "assist1": "#2 - Rod  Wade",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "1231",
+        "name": "Englewood"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#15 - John  Cushing",
+      "assist2": "#29 - Bob  Cagnot"
+    },
+    {
+      "period": "2",
+      "time": "00:08:12",
+      "team": {
+        "teamId": "1230",
+        "name": "Goons"
+      },
+      "scorer": "#9 - Brian  Mehnert",
+      "assist1": "#23 - Gordon  Scott",
+      "assist2": "#82 - Neil  Schoenthaler"
+    },
+    {
+      "period": "2",
+      "time": "00:09:33",
+      "team": {
+        "teamId": "1230",
+        "name": "Goons"
+      },
+      "scorer": "#11 - Kevin  Powers",
+      "assist1": "#82 - Neil  Schoenthaler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:00",
+      "team": {
+        "teamId": "1231",
+        "name": "Englewood"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#13 - Randy  Foster",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1230",
+        "name": "Goons"
+      },
+      "scorer": "#23 - Gordon  Scott",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:33",
+      "team": {
+        "teamId": "1230",
+        "name": "Goons"
+      },
+      "scorer": "#82 - Neil  Schoenthaler",
+      "assist1": "#14 - Mike  Ferrone",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "1230",
+        "name": "Goons"
+      },
+      "player": "#9 - Brian  Mehnert",
+      "pim": 2,
+      "offense": "g int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "1230",
+        "name": "Goons"
+      },
+      "player": "#11 - Kevin  Powers",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:47:57.016Z"
+}

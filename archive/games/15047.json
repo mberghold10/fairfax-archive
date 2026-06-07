@@ -1,0 +1,104 @@
+{
+  "gameId": "15047",
+  "date": "2022-06-15",
+  "divId": 253,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1560",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1561",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#6 - Kevin  Elfenbein",
+      "assist2": "#17 - Trevor  Lobaugh"
+    },
+    {
+      "period": "2",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "scorer": "#6 - David  Satagaj",
+      "assist1": "#16 - Ann  Nosek",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:51",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": "#41 - Erik  Kniaz",
+      "assist2": "#36 - William  Ludke"
+    },
+    {
+      "period": "3",
+      "time": "00:06:32",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "scorer": "#43 - Mike  Carew",
+      "assist1": "#6 - David  Satagaj",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:53",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "scorer": "#12 - Jonathan  Greger",
+      "assist1": "#9 - Sam  Ziesler",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "player": "#13 - Brian  Patterson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:44:53.985Z"
+}

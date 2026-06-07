@@ -1,0 +1,130 @@
+{
+  "gameId": "16756",
+  "date": "2024-03-24",
+  "divId": 279,
+  "seasonName": "Winter 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1718",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1721",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:53",
+      "team": {
+        "teamId": "1721",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#19 - Troy  Edwards",
+      "assist1": "#47 - Dave  Hitchcock",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:39",
+      "team": {
+        "teamId": "1718",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#74 - Eric  Peterson",
+      "assist1": "#89 - Sid  Han",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:56",
+      "team": {
+        "teamId": "1718",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#10 - Scott  Peterson",
+      "assist1": "#86 - Pat  McMahon",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:55",
+      "team": {
+        "teamId": "1718",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#86 - Pat  McMahon",
+      "assist1": "#19 - Nate  Rozelle",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1718",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#19 - Nate  Rozelle",
+      "assist1": "#32 - Eric  Vanhove",
+      "assist2": "#86 - Pat  McMahon"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:03",
+      "team": {
+        "teamId": "1721",
+        "name": "Mad Dogs"
+      },
+      "player": "#47 - Dave  Hitchcock",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:43",
+      "team": {
+        "teamId": "1718",
+        "name": "Blackskimmers"
+      },
+      "player": "#77 - Paul  Chicchetti",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:22",
+      "team": {
+        "teamId": "1721",
+        "name": "Mad Dogs"
+      },
+      "player": "#47 - Dave  Hitchcock",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:16:03.997Z"
+}

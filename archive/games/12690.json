@@ -1,0 +1,165 @@
+{
+  "gameId": "12690",
+  "date": "2019-05-13",
+  "divId": 204,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1307",
+    "name": "Whalers"
+  },
+  "away": {
+    "teamId": "1294",
+    "name": "Punishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "1294",
+        "name": "Punishers"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": "#12 - Dave  OMalley",
+      "assist2": "#15 - Phil  Wind"
+    },
+    {
+      "period": "1",
+      "time": "00:12:41",
+      "team": {
+        "teamId": "1294",
+        "name": "Punishers"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#10 - Ken  Blood",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:47",
+      "team": {
+        "teamId": "1294",
+        "name": "Punishers"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:51",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "scorer": "#8 - Peter  Lee",
+      "assist1": "#16 - Evan  Pappas",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:28",
+      "team": {
+        "teamId": "1294",
+        "name": "Punishers"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": "#40 - Matt  Mickelson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:54",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "scorer": "#47 - Talbot  Black",
+      "assist1": "#67 - Sean  Ritter",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:52",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "scorer": "#9 - Bryan  Chang",
+      "assist1": "#55 - Joel  Whitney",
+      "assist2": "#16 - Evan  Pappas"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:04",
+      "team": {
+        "teamId": "1294",
+        "name": "Punishers"
+      },
+      "player": "#17 - Dan  Pol",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:16",
+      "team": {
+        "teamId": "1307",
+        "name": "Whalers"
+      },
+      "player": "#81 - Chris  Lettieri",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1294",
+        "name": "Punishers"
+      },
+      "player": "#12 - Dave  OMalley",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:19",
+      "team": {
+        "teamId": "1294",
+        "name": "Punishers"
+      },
+      "player": "#27 - Dave  Lin",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:59:05.316Z"
+}

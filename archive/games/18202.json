@@ -1,0 +1,95 @@
+{
+  "gameId": "18202",
+  "date": "2025-06-28",
+  "divId": 314,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1923",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1920",
+    "name": "Alers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1923",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#7 - Graham  Eddy",
+      "assist1": "#88 - Jason  Searight",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:53",
+      "team": {
+        "teamId": "1920",
+        "name": "Alers"
+      },
+      "scorer": "#47 - James T Kim",
+      "assist1": "#1 - Thomas  Newberg",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "1920",
+        "name": "Alers"
+      },
+      "scorer": "#34 - William  Happ",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:06:25",
+      "team": {
+        "teamId": "1920",
+        "name": "Alers"
+      },
+      "player": "#8 - Tim  Lo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "1920",
+        "name": "Alers"
+      },
+      "player": "#8 - Tim  Lo",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:52:00.011Z"
+}

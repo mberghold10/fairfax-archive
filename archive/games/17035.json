@@ -1,0 +1,248 @@
+{
+  "gameId": "17035",
+  "date": "2024-07-05",
+  "divId": 288,
+  "seasonName": "Summer 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1768",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1771",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 8
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:43",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "scorer": "#29 - Jake  Combs",
+      "assist1": "#79 - Kunal  Rambhia",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:47",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "scorer": "#29 - Jake  Combs",
+      "assist1": "#83 - Eric  Wu",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:41",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "scorer": "#8 - Justin  Jerardo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:10",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "scorer": "#29 - Jake  Combs",
+      "assist1": "#79 - Kunal  Rambhia",
+      "assist2": "#8 - Justin  Jerardo"
+    },
+    {
+      "period": "2",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Jack  Ettinger",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "1771",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#98 - Jeff  Bender",
+      "assist1": "#3 - Justin  Carpenter",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1771",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#30 - Ilana  Bell",
+      "assist1": "#98 - Jeff  Bender",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "1771",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": "#15 - Carlos  Novoa",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:43",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Jack  Ettinger",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "scorer": "#83 - Eric  Wu",
+      "assist1": "#8 - Justin  Jerardo",
+      "assist2": "#29 - Jake  Combs"
+    },
+    {
+      "period": "3",
+      "time": "00:08:01",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "scorer": "#58 - Luke  Hartley",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "1771",
+        "name": "Jurassic Puck"
+      },
+      "player": "#20 - Richard  Miranda",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:47",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "player": "#43 - Jack  Ettinger",
+      "pim": 2,
+      "offense": "High Stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:40",
+      "team": {
+        "teamId": "1771",
+        "name": "Jurassic Puck"
+      },
+      "player": "#20 - Richard  Miranda",
+      "pim": 2,
+      "offense": "High Stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:11",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "player": "#8 - Justin  Jerardo",
+      "pim": 2,
+      "offense": "High Stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:15",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "player": "#28 - Bryce  Coughlin",
+      "pim": 2,
+      "offense": "Check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:59",
+      "team": {
+        "teamId": "1768",
+        "name": "Avalanche"
+      },
+      "player": "#28 - Bryce  Coughlin",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1771",
+        "name": "Jurassic Puck"
+      },
+      "player": "#20 - Richard  Miranda",
+      "pim": 2,
+      "offense": "Interference",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:25:20.115Z"
+}

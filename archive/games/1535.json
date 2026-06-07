@@ -1,0 +1,172 @@
+{
+  "gameId": "1535",
+  "date": "2025-06-08",
+  "divId": 305,
+  "seasonName": "Winter 2024",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1871",
+    "name": "Jacks GreyBeards"
+  },
+  "away": {
+    "teamId": "1869",
+    "name": "Virginia Buccaneers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#88 - Anthony  DeJohn",
+      "assist1": "#35 - Eddie  DeSabetino",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:51",
+      "team": {
+        "teamId": "1871",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#23 - Brian  Patterson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:38",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#21 - Grant  Moher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:26",
+      "team": {
+        "teamId": "1871",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#32 - Carl  Wojcik",
+      "assist2": "#23 - Brian  Patterson"
+    },
+    {
+      "period": "2",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#45 - Steve  Hartmann",
+      "assist1": "#0 - Justy  Holt",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:24",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#21 - Grant  Moher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:57",
+      "team": {
+        "teamId": "1871",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#28 - Charles  Hale",
+      "assist1": "#27 - Andy  Rieger",
+      "assist2": "#29 - Dave  Dinardo"
+    },
+    {
+      "period": "3",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1871",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#23 - Brian  Patterson",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:31",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#35 - Eddie  DeSabetino",
+      "assist1": "#31 - Brian  West",
+      "assist2": "#21 - Grant  Moher"
+    },
+    {
+      "period": "3",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "scorer": "#35 - Eddie  DeSabetino",
+      "assist1": "#45 - Steve  Hartmann",
+      "assist2": "#88 - Anthony  DeJohn"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1869",
+        "name": "Virginia Buccaneers"
+      },
+      "player": "#35 - Eddie  DeSabetino",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1871",
+        "name": "Jacks GreyBeards"
+      },
+      "player": "#4 - Mark  Sullivan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:43:32.088Z"
+}

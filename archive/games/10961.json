@@ -1,0 +1,82 @@
+{
+  "gameId": "10961",
+  "date": "2017-09-30",
+  "divId": 176,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1122",
+    "name": "Pharaohs"
+  },
+  "away": {
+    "teamId": "1124",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:00:04",
+      "team": {
+        "teamId": "1122",
+        "name": "Pharaohs"
+      },
+      "scorer": "#15 - Brian  Ebert",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "1122",
+        "name": "Pharaohs"
+      },
+      "scorer": "#17 - Zephan  Keehner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:32",
+      "team": {
+        "teamId": "1124",
+        "name": "Lightning"
+      },
+      "scorer": "#88 - Daniel  Lange",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1122",
+        "name": "Pharaohs"
+      },
+      "player": "#7 - Samantha  Miller",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:24:59.291Z"
+}

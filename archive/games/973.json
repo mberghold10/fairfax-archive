@@ -1,0 +1,143 @@
+{
+  "gameId": "973",
+  "date": "2019-04-15",
+  "divId": 193,
+  "seasonName": "Winter 2018",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1254",
+    "name": "Mighty Moose"
+  },
+  "away": {
+    "teamId": "1228",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:13",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "scorer": "#68 - Matt  Taylor",
+      "assist1": "#14 - James  Miller",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "scorer": "#6 - Eric  Duvall",
+      "assist1": "#11 - Aaron  Pollen",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:41",
+      "team": {
+        "teamId": "1254",
+        "name": "Mighty Moose"
+      },
+      "scorer": "#72 - Ted  Burmeister",
+      "assist1": "#4 - Ryan  Cantwell",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:33",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "scorer": "#10 - Josiah  Renton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:16",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "scorer": "#27 - Philip  Brooks",
+      "assist1": "#13 - Jeff  Willard",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:12:31",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "player": "#68 - Matt  Taylor",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1254",
+        "name": "Mighty Moose"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:47",
+      "team": {
+        "teamId": "1228",
+        "name": "Dragons"
+      },
+      "player": "#18 - Eric  Graff",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:29",
+      "team": {
+        "teamId": "1254",
+        "name": "Mighty Moose"
+      },
+      "player": "#6 - Brad  Martsching",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:46:58.355Z"
+}

@@ -1,0 +1,145 @@
+{
+  "gameId": "18789",
+  "date": "2026-01-15",
+  "divId": 326,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2010",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "2013",
+    "name": "Black Sheep"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "scorer": "#4 - Erik  Bergman",
+      "assist1": "#43 - Dave  Hagemeier",
+      "assist2": "#42 - Jeff  Lovett"
+    },
+    {
+      "period": "2",
+      "time": "00:08:54",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#77 - Ryan  Crook",
+      "assist1": "#44 - Mick  Ellsworth",
+      "assist2": "#19 - Joe  Dunn"
+    },
+    {
+      "period": "2",
+      "time": "00:09:02",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "scorer": "#43 - Dave  Hagemeier",
+      "assist1": "#86 - Tom  Anwyll",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "scorer": "#18 - Ken  Chin",
+      "assist1": "#53 - Don  Modder",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:29",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "player": "#44 - Matt  Smith",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:27",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#20 - Michael  Schantz",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:50",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#77 - Ryan  Crook",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:33",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "player": "#53 - Don  Modder",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:05:29.173Z"
+}

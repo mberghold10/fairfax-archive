@@ -1,0 +1,128 @@
+{
+  "gameId": "844",
+  "date": "2017-09-24",
+  "divId": 169,
+  "seasonName": "Summer 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1078",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1077",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:38",
+      "team": {
+        "teamId": "1078",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#41 - Alessio  Evangelista",
+      "assist1": "#6 - Armand  Alacbay",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "1078",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#77 - Jeff  Wilkin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "scorer": "# -",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:12",
+      "team": {
+        "teamId": "1078",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#30 - Brent  Bolin",
+      "assist1": "#51 - Kevin  Michie",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:30",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "scorer": "# -",
+      "assist1": "#5 - Jim  Hingst",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1078",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#34 - John  Vanore",
+      "assist1": "#77 - Jeff  Wilkin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:59",
+      "team": {
+        "teamId": "1078",
+        "name": "Blue Dogs"
+      },
+      "player": "#51 - Kevin  Michie",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:17:27.634Z"
+}

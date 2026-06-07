@@ -1,0 +1,143 @@
+{
+  "gameId": "12904",
+  "date": "2019-05-19",
+  "divId": 207,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1311",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1313",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:36",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "scorer": "#13 - John  Bereza",
+      "assist1": "#11 - Aaron  Pollon",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:05",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "scorer": "#2 - Sam  Bressi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:56",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "scorer": "#11 - Aaron  Pollon",
+      "assist1": "#13 - John  Bereza",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:10",
+      "team": {
+        "teamId": "1313",
+        "name": "Red Wings"
+      },
+      "scorer": "#34 - Tristan  Anderson",
+      "assist1": "#15 - Mike  Gibson",
+      "assist2": "#4 - Gene  Martin"
+    },
+    {
+      "period": "2",
+      "time": "00:07:04",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "scorer": "#13 - John  Bereza",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "player": "#98 - Carl  Tierney",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "player": "#98 - Carl  Tierney",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:50",
+      "team": {
+        "teamId": "1311",
+        "name": "Rink Rats"
+      },
+      "player": "#98 - Carl  Tierney",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:50",
+      "team": {
+        "teamId": "1313",
+        "name": "Red Wings"
+      },
+      "player": "#12 - Gus  Anderson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:02:47.806Z"
+}

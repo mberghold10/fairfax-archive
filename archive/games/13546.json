@@ -1,0 +1,117 @@
+{
+  "gameId": "13546",
+  "date": "2020-01-18",
+  "divId": 210,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1326",
+    "name": "Avalanche"
+  },
+  "away": {
+    "teamId": "1328",
+    "name": "Pharaohs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:02:48",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "scorer": "#55 - Mike  Stawick",
+      "assist1": "#99 - Jon  Davoren",
+      "assist2": "#4 - Peter  van Aartrijk"
+    },
+    {
+      "period": "2",
+      "time": "00:09:43",
+      "team": {
+        "teamId": "1328",
+        "name": "Pharaohs"
+      },
+      "scorer": "#28 - Michael  Berghold",
+      "assist1": "#14 - Radislaw  Kaczor",
+      "assist2": "#10 - Jay  Yoon"
+    },
+    {
+      "period": "3",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "scorer": "#43 - Alex  Utano",
+      "assist1": "#20 - Rich  Utano",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "scorer": "#87 - Stan  Kolodin",
+      "assist1": "#20 - Rich  Utano",
+      "assist2": "#43 - Alex  Utano"
+    },
+    {
+      "period": "3",
+      "time": "00:02:55",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "scorer": "#87 - Stan  Kolodin",
+      "assist1": "#17 - David  Simpson",
+      "assist2": "#55 - Mike  Stawick"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:05",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "player": "#87 - Stan  Kolodin",
+      "pim": 2,
+      "offense": "throw stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:17",
+      "team": {
+        "teamId": "1326",
+        "name": "Avalanche"
+      },
+      "player": "#77 - Caleb  Sohl",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:06:39.781Z"
+}

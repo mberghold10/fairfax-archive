@@ -1,0 +1,95 @@
+{
+  "gameId": "18468",
+  "date": "2025-09-21",
+  "divId": 314,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1923",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1921",
+    "name": "Junkyard Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1923",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#50 - Andy  Spalding",
+      "assist1": "#32 - Matthew  Carr",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:19",
+      "team": {
+        "teamId": "1921",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#44 - Carlos  Gautier",
+      "assist1": "#15 - Dave  Gorman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "1921",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#69 - Mark  Gilliam",
+      "assist1": "#92 - Daniel  Horner",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:59",
+      "team": {
+        "teamId": "1921",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#15 - Dave  Gorman",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "1921",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:52:37.250Z"
+}

@@ -1,0 +1,285 @@
+{
+  "gameId": "15052",
+  "date": "2022-07-03",
+  "divId": 253,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1561",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1563",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:32",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#10 - Matt  Galen",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:39",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "scorer": "#85 - Aaron  Dobbs",
+      "assist1": "#8 - Michael  Carr",
+      "assist2": "#16 - Peter  OKeefe"
+    },
+    {
+      "period": "2",
+      "time": "00:06:47",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "scorer": "#99 - Tony  Cusumano",
+      "assist1": "#16 - Peter  OKeefe",
+      "assist2": "#69 - Aaron  Domnitch"
+    },
+    {
+      "period": "2",
+      "time": "00:12:34",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#56 - Ryan  Tyler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:23",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "scorer": "#99 - Tony  Cusumano",
+      "assist1": "#16 - Peter  OKeefe",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:29",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#56 - Ryan  Tyler",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": "#9 - Jason  Murphy"
+    },
+    {
+      "period": "3",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "scorer": "#85 - Aaron  Dobbs",
+      "assist1": "#69 - Aaron  Domnitch",
+      "assist2": "#8 - Michael  Carr"
+    },
+    {
+      "period": "3",
+      "time": "00:07:26",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#16 - Peter  OKeefe",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:45",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#9 - Jason  Murphy",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:56",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:39",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "player": "#57 - Derek  Morrissette",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:10",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:10",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "player": "#57 - Derek  Morrissette",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:15",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "player": "#99 - Tony  Cusumano",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "Check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:09",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "player": "#93 - Bob  Banasik",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:58",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "player": "#57 - Derek  Morrissette",
+      "pim": 2,
+      "offense": "Slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1563",
+        "name": "Bruins"
+      },
+      "player": "#16 - Peter  OKeefe",
+      "pim": 10,
+      "offense": "Game Misconduct",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:57",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "player": "#51 - Tyler  Kniaz",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:45:00.131Z"
+}

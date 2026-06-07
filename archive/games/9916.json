@@ -1,0 +1,141 @@
+{
+  "gameId": "9916",
+  "date": "2016-09-24",
+  "divId": 159,
+  "seasonName": "Winter 2016",
+  "mode": "regular",
+  "home": {
+    "teamId": "1019",
+    "name": "Turtle Power"
+  },
+  "away": {
+    "teamId": "1021",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:10",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "scorer": "#10 - Tony  Tenseler",
+      "assist1": "#13 - John  Kosak",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:43",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "scorer": "#13 - John  Kosak",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:25",
+      "team": {
+        "teamId": "1019",
+        "name": "Turtle Power"
+      },
+      "scorer": "#53 - Meg  Grasselli",
+      "assist1": "#28 - Marlon  Orozco",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "scorer": "#15 - Dan  Walter",
+      "assist1": "#67 - Neil  Fitzpatrick",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:56",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "scorer": "#33 - Mike  Wagner",
+      "assist1": "#20 - George  Whelan",
+      "assist2": "#32 - Clayton  Clyburn"
+    },
+    {
+      "period": "3",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "scorer": "#15 - Dan  Walter",
+      "assist1": "#3 - Jordan  Ziegler",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:04",
+      "team": {
+        "teamId": "1019",
+        "name": "Turtle Power"
+      },
+      "player": "#40 - Santiago  Garcia",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:04",
+      "team": {
+        "teamId": "1021",
+        "name": "Lightning"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:08",
+      "team": {
+        "teamId": "1019",
+        "name": "Turtle Power"
+      },
+      "player": "#77 - David  Fulcher",
+      "pim": 2,
+      "offense": "board",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:03:51.061Z"
+}

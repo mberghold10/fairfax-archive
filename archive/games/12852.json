@@ -1,0 +1,224 @@
+{
+  "gameId": "12852",
+  "date": "2019-07-01",
+  "divId": 204,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1293",
+    "name": "Devils"
+  },
+  "away": {
+    "teamId": "1292",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 4,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 9
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:52",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "#5 - Joel  Dever",
+      "assist1": "#74 - Daniel  Murray",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "#17 - Wangjae  Yoo",
+      "assist1": "#13 - Faraz  Izadi",
+      "assist2": "#4 - John  Dandeneau"
+    },
+    {
+      "period": "1",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "#5 - Joel  Dever",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:56",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "#13 - Faraz  Izadi",
+      "assist1": "#74 - Daniel  Murray",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "#11 - Sam  Marchio",
+      "assist1": "#74 - Daniel  Murray",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:08",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "#13 - Faraz  Izadi",
+      "assist1": "#5 - Joel  Dever",
+      "assist2": "#74 - Daniel  Murray"
+    },
+    {
+      "period": "2",
+      "time": "00:06:21",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "#5 - Joel  Dever",
+      "assist1": "#13 - Faraz  Izadi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:35",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "#74 - Daniel  Murray",
+      "assist1": "#11 - Sam  Marchio",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "1292",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#66 - Neil  Shoults",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:12",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "scorer": "#11 - Sam  Marchio",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:22",
+      "team": {
+        "teamId": "1292",
+        "name": "Blue Crabs"
+      },
+      "player": "#4 - Paul  Cicchetti",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:26",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "player": "#11 - Sam  Marchio",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "1292",
+        "name": "Blue Crabs"
+      },
+      "player": "#75 - Tim  Witkiewicz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:24",
+      "team": {
+        "teamId": "1292",
+        "name": "Blue Crabs"
+      },
+      "player": "#5 - Lucas  Streng",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:04",
+      "team": {
+        "teamId": "1292",
+        "name": "Blue Crabs"
+      },
+      "player": "#5 - Lucas  Streng",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:56",
+      "team": {
+        "teamId": "1293",
+        "name": "Devils"
+      },
+      "player": "#13 - Faraz  Izadi",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:59:28.366Z"
+}

@@ -1,0 +1,156 @@
+{
+  "gameId": "14580",
+  "date": "2022-02-06",
+  "divId": 241,
+  "seasonName": "Winter 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1490",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1491",
+    "name": "Redhawks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:07",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#36 - Jon  Stehle",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:13",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#6 - Derek  Morrissette",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:29",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#14 - Dennis  Nayandin",
+      "assist1": "#36 - Jon  Stehle",
+      "assist2": "#6 - Derek  Morrissette"
+    },
+    {
+      "period": "2",
+      "time": "00:12:06",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#15 - John  Cushing",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#15 - John  Cushing",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:21",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "player": "#4 - Mark  Sullivan",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "player": "#28 - Charles  Hale",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:20",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "player": "#77 - Oleg  Nayandin",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:42",
+      "team": {
+        "teamId": "1491",
+        "name": "Redhawks"
+      },
+      "player": "#1 - Stanislav  Kolodin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:44",
+      "team": {
+        "teamId": "1490",
+        "name": "Englewood"
+      },
+      "player": "#77 - Oleg  Nayandin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:30:31.372Z"
+}

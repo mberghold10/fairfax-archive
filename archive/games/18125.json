@@ -1,0 +1,139 @@
+{
+  "gameId": "18125",
+  "date": "2025-08-16",
+  "divId": 311,
+  "seasonName": "Summer 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1906",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1900",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1906",
+        "name": "Outlaws"
+      },
+      "scorer": "#19 - Jason  Young",
+      "assist1": "#14 - Jason  Brue",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:38",
+      "team": {
+        "teamId": "1906",
+        "name": "Outlaws"
+      },
+      "scorer": "#43 - Mike  Barnes",
+      "assist1": "#41 - Tony  Gorney",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:54",
+      "team": {
+        "teamId": "1906",
+        "name": "Outlaws"
+      },
+      "scorer": "#43 - Mike  Barnes",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:08",
+      "team": {
+        "teamId": "1900",
+        "name": "Nortec"
+      },
+      "scorer": "#91 - Jake  Barnett",
+      "assist1": "#28 - Jason  Liebel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:25",
+      "team": {
+        "teamId": "1900",
+        "name": "Nortec"
+      },
+      "scorer": "#14 - Jude  Corina",
+      "assist1": "#81 - Chris  Holden",
+      "assist2": "#4 - Tad  Jose"
+    },
+    {
+      "period": "2",
+      "time": "00:05:12",
+      "team": {
+        "teamId": "1900",
+        "name": "Nortec"
+      },
+      "scorer": "#91 - Jake  Barnett",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1906",
+        "name": "Outlaws"
+      },
+      "scorer": "#14 - Jason  Brue",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "1900",
+        "name": "Nortec"
+      },
+      "player": "#14 - Jude  Corina",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:17",
+      "team": {
+        "teamId": "1906",
+        "name": "Outlaws"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:48:32.619Z"
+}

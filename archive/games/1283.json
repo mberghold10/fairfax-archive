@@ -1,0 +1,165 @@
+{
+  "gameId": "1283",
+  "date": "2023-04-15",
+  "divId": 260,
+  "seasonName": "Winter 2022",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1600",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1604",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "1604",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#28 - Ed  Holleran",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:58",
+      "team": {
+        "teamId": "1600",
+        "name": "Rink Rats"
+      },
+      "scorer": "#70 - Seth  Kumpf",
+      "assist1": "#25 - Dave  Brown",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1600",
+        "name": "Rink Rats"
+      },
+      "scorer": "#36 - Steve  Morra",
+      "assist1": "#59 - Jared  Trevethan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:57",
+      "team": {
+        "teamId": "1604",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": "#14 - David  Fisher",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:55",
+      "team": {
+        "teamId": "1604",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#36 - Dave  Kim",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:35",
+      "team": {
+        "teamId": "1600",
+        "name": "Rink Rats"
+      },
+      "scorer": "#9 - Chris  ORear",
+      "assist1": "#25 - Dave  Brown",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:59",
+      "team": {
+        "teamId": "1604",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": "#15 - Jimmy  Park",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "1604",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#55 - Andrew  Mayen",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "1600",
+        "name": "Rink Rats"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:47",
+      "team": {
+        "teamId": "1604",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#77 - Chris  Casselman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:58",
+      "team": {
+        "teamId": "1604",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#36 - Dave  Kim",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:53:45.513Z"
+}

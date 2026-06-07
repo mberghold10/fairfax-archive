@@ -1,0 +1,123 @@
+{
+  "gameId": "18046",
+  "date": "2025-03-09",
+  "divId": 309,
+  "seasonName": "Winter 2024",
+  "mode": "regular",
+  "home": {
+    "teamId": "1891",
+    "name": "Roughnecks"
+  },
+  "away": {
+    "teamId": "1886",
+    "name": "Mesozoic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1886",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#20 - Ronan  Valdesuso",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:57",
+      "team": {
+        "teamId": "1886",
+        "name": "Mesozoic Puck"
+      },
+      "scorer": "#21 - Stephen  Darrow",
+      "assist1": "#10 - Edward  Hilliard",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:16",
+      "team": {
+        "teamId": "1891",
+        "name": "Roughnecks"
+      },
+      "player": "#27 - Tim  Witkiewicz",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "1886",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#210 - Joe  Rhodes",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1886",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#89 - Jim  Rathbone",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:16",
+      "team": {
+        "teamId": "1886",
+        "name": "Mesozoic Puck"
+      },
+      "player": "#89 - Jim  Rathbone",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:15:00",
+      "team": {
+        "teamId": "1891",
+        "name": "Roughnecks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:46:40.760Z"
+}

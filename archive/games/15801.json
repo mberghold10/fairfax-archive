@@ -1,0 +1,150 @@
+{
+  "gameId": "15801",
+  "date": "2023-02-11",
+  "divId": 264,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1629",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1626",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:58",
+      "team": {
+        "teamId": "1629",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:35",
+      "team": {
+        "teamId": "1629",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#67 - John  Krotzer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:08",
+      "team": {
+        "teamId": "1629",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": "#19 - Bryan  Moffet",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:39",
+      "team": {
+        "teamId": "1626",
+        "name": "Wolves"
+      },
+      "scorer": "#47 - James  Kim",
+      "assist1": "#10 - Rich  Scigaj",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:27",
+      "team": {
+        "teamId": "1626",
+        "name": "Wolves"
+      },
+      "scorer": "#12 - Jim  Schoff",
+      "assist1": "#7 - John  Koester",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "1626",
+        "name": "Wolves"
+      },
+      "scorer": "#27 - Terry  OBrien",
+      "assist1": "#33 - Dmitriy  Achapkin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:10",
+      "team": {
+        "teamId": "1629",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#67 - John  Krotzer",
+      "assist1": "#19 - Bryan  Moffet",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:45",
+      "team": {
+        "teamId": "1629",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#43 - Steve  Sincavage",
+      "assist1": "#44 - Jim  McGovern",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:19",
+      "team": {
+        "teamId": "1626",
+        "name": "Wolves"
+      },
+      "player": "#65 - Stuart  Hoffman",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:21",
+      "team": {
+        "teamId": "1626",
+        "name": "Wolves"
+      },
+      "player": "#27 - Terry  OBrien",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:58:37.567Z"
+}

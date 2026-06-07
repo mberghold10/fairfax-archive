@@ -1,0 +1,141 @@
+{
+  "gameId": "13741",
+  "date": "2020-03-14",
+  "divId": 216,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1365",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "1363",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:15:20",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#74 - Mik  Berwin",
+      "assist1": "#13 - Frederic  Kneisel",
+      "assist2": "#28 - Richard  Pettey"
+    },
+    {
+      "period": "1",
+      "time": "00:18:31",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#20 - Scott  Levin",
+      "assist1": "#74 - Mik  Berwin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#20 - Scott  Levin",
+      "assist1": "#55 - Chad  Daniels",
+      "assist2": "#39 - Chad  Tangchittsumran"
+    },
+    {
+      "period": "2",
+      "time": "00:13:58",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#2 - James  Kim",
+      "assist1": "#55 - Chad  Daniels",
+      "assist2": "#28 - Richard  Pettey"
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#74 - Mik  Berwin",
+      "assist1": "#20 - Scott  Levin",
+      "assist2": "#2 - James  Kim"
+    },
+    {
+      "period": "3",
+      "time": "00:11:10",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "scorer": "#39 - Chad  Tangchittsumran",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:59",
+      "team": {
+        "teamId": "1365",
+        "name": "Thunder"
+      },
+      "player": "#12 - John  Porvaznik",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "player": "#20 - Scott  Levin",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "1363",
+        "name": "Roughnecks"
+      },
+      "player": "#3 - Charlie  Beekman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:14:36.401Z"
+}

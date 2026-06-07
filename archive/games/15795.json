@@ -1,0 +1,141 @@
+{
+  "gameId": "15795",
+  "date": "2023-01-24",
+  "divId": 264,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1629",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "1628",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "scorer": "#0 - Ruben  Garcia",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": "#19 - Jason  Long"
+    },
+    {
+      "period": "1",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "1629",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#89 - Brandon  Barhorst",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "1629",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:15",
+      "team": {
+        "teamId": "1629",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#47 - Jeff  Urlwin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:43",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "scorer": "#0 - Ruben  Garcia",
+      "assist1": "#19 - Jason  Long",
+      "assist2": "#7 - Dave  Neri"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:11",
+      "team": {
+        "teamId": "1629",
+        "name": "Maple Leafs"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1629",
+        "name": "Maple Leafs"
+      },
+      "player": "#47 - Jeff  Urlwin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1628",
+        "name": "Hurricanes"
+      },
+      "player": "#52 - Chris  Czernia",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:58:31.347Z"
+}

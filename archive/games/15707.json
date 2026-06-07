@@ -1,0 +1,117 @@
+{
+  "gameId": "15707",
+  "date": "2023-02-25",
+  "divId": 261,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1610",
+    "name": "Red Dragons"
+  },
+  "away": {
+    "teamId": "1611",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "1611",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#77 - Jeff  Wilken",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": "#47 - David  Hitchcock"
+    },
+    {
+      "period": "2",
+      "time": "00:06:35",
+      "team": {
+        "teamId": "1610",
+        "name": "Red Dragons"
+      },
+      "scorer": "#18 - Zac  Shoewalter",
+      "assist1": "#17 - Nic  Van Tol",
+      "assist2": "#26 - Tom  Sgroi"
+    },
+    {
+      "period": "3",
+      "time": "00:02:01",
+      "team": {
+        "teamId": "1610",
+        "name": "Red Dragons"
+      },
+      "scorer": "#4 - Josh  Renton",
+      "assist1": "#7 - Connor  Anderson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:44",
+      "team": {
+        "teamId": "1611",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#66 - Harry  Patrinos",
+      "assist1": "#47 - David  Hitchcock",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:08",
+      "team": {
+        "teamId": "1610",
+        "name": "Red Dragons"
+      },
+      "scorer": "#9 - Kim  Sherrock",
+      "assist1": "#26 - Tom  Sgroi",
+      "assist2": "#18 - Zac  Shoewalter"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "1611",
+        "name": "Mad Dogs"
+      },
+      "player": "#36 - Brian  Lusby",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1611",
+        "name": "Mad Dogs"
+      },
+      "player": "#0 - Ruben  Garcia",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:54:42.638Z"
+}

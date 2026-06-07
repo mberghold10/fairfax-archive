@@ -1,0 +1,218 @@
+{
+  "gameId": "1331",
+  "date": "2023-04-30",
+  "divId": 266,
+  "seasonName": "Winter 2022",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1637",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1635",
+    "name": "Jacks Graybeards"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 5,
+      "p3": 2,
+      "ot": 0,
+      "final": 9
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1637",
+        "name": "Nortec"
+      },
+      "scorer": "#5 - Peter  Boone",
+      "assist1": "#11 - Tom  Fergus",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:45",
+      "team": {
+        "teamId": "1635",
+        "name": "Jacks Graybeards"
+      },
+      "scorer": "#8 - Rod  Wade",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:15",
+      "team": {
+        "teamId": "1637",
+        "name": "Nortec"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#24 - Michael  Sheridan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:14",
+      "team": {
+        "teamId": "1635",
+        "name": "Jacks Graybeards"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#15 - John  Cushing",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1635",
+        "name": "Jacks Graybeards"
+      },
+      "scorer": "#16 - Bill  Thompson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "1635",
+        "name": "Jacks Graybeards"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "1635",
+        "name": "Jacks Graybeards"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:08",
+      "team": {
+        "teamId": "1635",
+        "name": "Jacks Graybeards"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:25",
+      "team": {
+        "teamId": "1637",
+        "name": "Nortec"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#5 - Peter  Boone",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:19",
+      "team": {
+        "teamId": "1635",
+        "name": "Jacks Graybeards"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:38",
+      "team": {
+        "teamId": "1635",
+        "name": "Jacks Graybeards"
+      },
+      "scorer": "#15 - John  Cushing",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": "#28 - Charles  Hale"
+    },
+    {
+      "period": "3",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1637",
+        "name": "Nortec"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#8 - Mike  Carr",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1635",
+        "name": "Jacks Graybeards"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#28 - Charles  Hale",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "1637",
+        "name": "Nortec"
+      },
+      "player": "#6 - Steve  Barker",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "1635",
+        "name": "Jacks Graybeards"
+      },
+      "player": "#16 - Bill  Thompson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:50",
+      "team": {
+        "teamId": "1635",
+        "name": "Jacks Graybeards"
+      },
+      "player": "#6 - Paul  Maguire",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:00:42.059Z"
+}

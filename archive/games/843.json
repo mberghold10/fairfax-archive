@@ -1,0 +1,95 @@
+{
+  "gameId": "843",
+  "date": "2017-09-17",
+  "divId": 169,
+  "seasonName": "Summer 2017",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1077",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "1078",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "1078",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#34 - John  Vanore",
+      "assist1": "#22 - Amir  Tahami",
+      "assist2": "#25 - Neil  Dsouza"
+    },
+    {
+      "period": "2",
+      "time": "00:09:12",
+      "team": {
+        "teamId": "1078",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#77 - Jeff  Wilkin",
+      "assist1": "#41 - Alessio  Evangelista",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:51",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "scorer": "#21 - Joe  LaBrake",
+      "assist1": "#68 - Matthew  Taylor",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "1077",
+        "name": "Rink Rats"
+      },
+      "player": "#60 - Ed  Sugrue",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "1078",
+        "name": "Blue Dogs"
+      },
+      "player": "#36 - Brian  Lusby",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:17:26.603Z"
+}

@@ -1,0 +1,97 @@
+{
+  "gameId": "15067",
+  "date": "2022-05-26",
+  "divId": 254,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1571",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "1568",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "1571",
+        "name": "Islanders"
+      },
+      "scorer": "#17 - John  Wallace",
+      "assist1": "#77 - Joe  Berret",
+      "assist2": "#7 - Dave  Neri"
+    },
+    {
+      "period": "2",
+      "time": "00:07:52",
+      "team": {
+        "teamId": "1571",
+        "name": "Islanders"
+      },
+      "scorer": "#10 - Steve  Spivack",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "1568",
+        "name": "Coyotes"
+      },
+      "player": "#8 - Reid  Maki",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:52",
+      "team": {
+        "teamId": "1571",
+        "name": "Islanders"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "Hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:00",
+      "team": {
+        "teamId": "1568",
+        "name": "Coyotes"
+      },
+      "player": "#47 - Rob  Schumann",
+      "pim": 2,
+      "offense": "Trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:45:45.581Z"
+}

@@ -1,0 +1,126 @@
+{
+  "gameId": "11776",
+  "date": "2018-07-15",
+  "divId": 180,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1148",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "1147",
+    "name": "Englewood"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 4,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:56",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "scorer": "#2 - Rod  Wade",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": "#4 - Mark  Sullivan"
+    },
+    {
+      "period": "2",
+      "time": "00:08:47",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "scorer": "#8 - Arturas  Vorobjovas",
+      "assist1": null,
+      "assist2": "#40 - Mikhail  Serebrennikov"
+    },
+    {
+      "period": "2",
+      "time": "00:13:37",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "scorer": "#99 - Joseph  Tierney",
+      "assist1": "#8 - Arturas  Vorobjovas",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "scorer": "#16 - Bill  Thompson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "scorer": "#34 - Marty  Hayden",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": "#7 - Joe  Hull"
+    },
+    {
+      "period": "3",
+      "time": "00:12:36",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "scorer": "#32 - Brian  Beaudrot",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": "#4 - Mark  Sullivan"
+    },
+    {
+      "period": "3",
+      "time": "00:13:41",
+      "team": {
+        "teamId": "1147",
+        "name": "Englewood"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#2 - Rod  Wade",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "1148",
+        "name": "Nortec"
+      },
+      "player": "#40 - Mikhail  Serebrennikov",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:30:18.527Z"
+}

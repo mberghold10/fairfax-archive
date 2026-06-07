@@ -1,0 +1,174 @@
+{
+  "gameId": "13539",
+  "date": "2020-07-25",
+  "divId": 209,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1325",
+    "name": "Canucks"
+  },
+  "away": {
+    "teamId": "1323",
+    "name": "BlueJacket Capitals"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:06",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "scorer": "#91 - Chris  Callanan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:12",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#66 - Mark  Rudnicki",
+      "assist1": "#81 - Chris  Holden",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:45",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#66 - Mark  Rudnicki",
+      "assist1": "#10 - Peter  Grose",
+      "assist2": "#7 - Jeff  Stebbins"
+    },
+    {
+      "period": "1",
+      "time": "00:06:58",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "scorer": "#29 - Michael  Carzoli",
+      "assist1": "#3 - Julien  De Grandpre",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:05",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "scorer": "#89 - Sid  Han",
+      "assist1": "#77 - Kristen  Domingo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#66 - Mark  Rudnicki",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:43",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#18 - Peter  Poczatek",
+      "assist1": "#66 - Mark  Rudnicki",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:35",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:21",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#10 - Peter  Grose",
+      "assist1": "#18 - Peter  Poczatek",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:00",
+      "team": {
+        "teamId": "1325",
+        "name": "Canucks"
+      },
+      "player": "#3 - Julien  De Grandpre",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:00",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#66 - Mark  Rudnicki",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:49",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#66 - Mark  Rudnicki",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:05:46.228Z"
+}

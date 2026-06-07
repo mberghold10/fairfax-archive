@@ -1,0 +1,220 @@
+{
+  "gameId": "15324",
+  "date": "2022-08-07",
+  "divId": 257,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1582",
+    "name": "Grey Beards"
+  },
+  "away": {
+    "teamId": "1583",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "1582",
+        "name": "Grey Beards"
+      },
+      "scorer": "#16 - Bill  Thompson",
+      "assist1": "#77 - Oleg  Nayandin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:29",
+      "team": {
+        "teamId": "1583",
+        "name": "Nortec"
+      },
+      "scorer": "#40 - Mikhail  Serebrennikov",
+      "assist1": "#14 - Jude  Corina",
+      "assist2": "#44 - Bob  Arnold"
+    },
+    {
+      "period": "1",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "1582",
+        "name": "Grey Beards"
+      },
+      "scorer": "#7 - Joseph  Hull",
+      "assist1": "#8 - Rod  Wade",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:14",
+      "team": {
+        "teamId": "1583",
+        "name": "Nortec"
+      },
+      "scorer": "#4 - Tad  Jose",
+      "assist1": "#14 - Jude  Corina",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "1582",
+        "name": "Grey Beards"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:03",
+      "team": {
+        "teamId": "1582",
+        "name": "Grey Beards"
+      },
+      "scorer": "#8 - Rod  Wade",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:03",
+      "team": {
+        "teamId": "1583",
+        "name": "Nortec"
+      },
+      "scorer": "#21 - Mark  Johnston",
+      "assist1": "#19 - Andrew  Grose",
+      "assist2": "#40 - Mikhail  Serebrennikov"
+    },
+    {
+      "period": "3",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1582",
+        "name": "Grey Beards"
+      },
+      "scorer": "#7 - Joseph  Hull",
+      "assist1": "#3 - Jeff  Regan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "1582",
+        "name": "Grey Beards"
+      },
+      "scorer": "#8 - Rod  Wade",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:33",
+      "team": {
+        "teamId": "1583",
+        "name": "Nortec"
+      },
+      "scorer": "#44 - Bob  Arnold",
+      "assist1": "#27 - Ron  Blum",
+      "assist2": "#14 - Jude  Corina"
+    },
+    {
+      "period": "3",
+      "time": "00:10:02",
+      "team": {
+        "teamId": "1583",
+        "name": "Nortec"
+      },
+      "scorer": "#40 - Mikhail  Serebrennikov",
+      "assist1": "#21 - Mark  Johnston",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:24",
+      "team": {
+        "teamId": "1582",
+        "name": "Grey Beards"
+      },
+      "scorer": "#77 - Oleg  Nayandin",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1583",
+        "name": "Nortec"
+      },
+      "player": "#44 - Bob  Arnold",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:42",
+      "team": {
+        "teamId": "1582",
+        "name": "Grey Beards"
+      },
+      "player": "#3 - Jeff  Regan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:19",
+      "team": {
+        "teamId": "1583",
+        "name": "Nortec"
+      },
+      "player": "#21 - Mark  Johnston",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:59",
+      "team": {
+        "teamId": "1582",
+        "name": "Grey Beards"
+      },
+      "player": "#77 - Oleg  Nayandin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:49:27.954Z"
+}

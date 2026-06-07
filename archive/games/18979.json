@@ -1,0 +1,180 @@
+{
+  "gameId": "18979",
+  "date": "2026-05-03",
+  "divId": 323,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1983",
+    "name": "Toronto"
+  },
+  "away": {
+    "teamId": "1982",
+    "name": "Horne Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:40",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#91 - Jason  Ross",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:55",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#28 - Alex  Rudulph",
+      "assist1": "#91 - Jason  Ross",
+      "assist2": "#15 - Dave  Gorman"
+    },
+    {
+      "period": "2",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#69 - Mark  Gillam",
+      "assist1": "#5 - Matt  Jenkins",
+      "assist2": "#87 - Ryan  Young"
+    },
+    {
+      "period": "2",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "1983",
+        "name": "Toronto"
+      },
+      "scorer": "#17 - John  Wallace",
+      "assist1": "#33 - Greg  Kowalski",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#91 - Jason  Ross",
+      "assist1": "#26 - Kjell  Crooke",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:39",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#69 - Mark  Gillam",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "1983",
+        "name": "Toronto"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "Checking",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:52",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "player": "#44 - Carlos  Gautier",
+      "pim": 2,
+      "offense": "Tripping",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "1983",
+        "name": "Toronto"
+      },
+      "player": "#23 - Trevor  Blair",
+      "pim": 2,
+      "offense": "Hooking",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:28",
+      "team": {
+        "teamId": "1983",
+        "name": "Toronto"
+      },
+      "player": "#54 - Tom  Monanio",
+      "pim": 2,
+      "offense": "Roughing",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:07",
+      "team": {
+        "teamId": "1983",
+        "name": "Toronto"
+      },
+      "player": "#23 - Trevor  Blair",
+      "pim": 2,
+      "offense": "Tripping",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:32",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "player": "#64 - Ben  Thomas",
+      "pim": 2,
+      "offense": "Interference",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T22:02:46.693Z"
+}

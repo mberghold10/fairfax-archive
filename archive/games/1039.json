@@ -1,0 +1,163 @@
+{
+  "gameId": "1039",
+  "date": "2020-08-08",
+  "divId": 209,
+  "seasonName": "Winter 2019",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1320",
+    "name": "Moose"
+  },
+  "away": {
+    "teamId": "1323",
+    "name": "BlueJacket Capitals"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "scorer": "#9 - Mitch  Federman",
+      "assist1": "#13 - Brian  Harmon",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "scorer": "#13 - Brian  Harmon",
+      "assist1": "#9 - Mitch  Federman",
+      "assist2": "#5 - Chris  Marotta"
+    },
+    {
+      "period": "2",
+      "time": "00:05:51",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#88 - Andrew  Grose",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:11",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#15 - Bob  Guckian",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#88 - Andrew  Grose",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#66 - Mark  Rudnicki",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:35",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": "#81 - Chris  Holden",
+      "assist2": "#16 - Dan  Rebman"
+    },
+    {
+      "period": "3",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "scorer": "#9 - Mitch  Federman",
+      "assist1": "#13 - Brian  Harmon",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#16 - Dan  Rebman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "1320",
+        "name": "Moose"
+      },
+      "player": "#13 - Brian  Harmon",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "1323",
+        "name": "BlueJacket Capitals"
+      },
+      "player": "#66 - Mark  Rudnicki",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:05:52.814Z"
+}

@@ -1,0 +1,143 @@
+{
+  "gameId": "13594",
+  "date": "2020-07-17",
+  "divId": 211,
+  "seasonName": "Winter 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1336",
+    "name": "Jurassic Puck"
+  },
+  "away": {
+    "teamId": "1335",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": "#34 - Cameron  Wilson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:44",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": "#34 - Cameron  Wilson",
+      "assist2": "#89 - Chris  Casselman"
+    },
+    {
+      "period": "1",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "1336",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#11 - George  Cernica",
+      "assist1": "#99 - Francesco  Muss",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:43",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": "#34 - Cameron  Wilson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:47",
+      "team": {
+        "teamId": "1336",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#17 - Zephan  Keehner",
+      "assist1": "#92 - Caleb  Adams",
+      "assist2": "#38 - Keith  Forsythe"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#8 - AJ  Ellis",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:23",
+      "team": {
+        "teamId": "1336",
+        "name": "Jurassic Puck"
+      },
+      "player": "#92 - Caleb  Adams",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:34",
+      "team": {
+        "teamId": "1336",
+        "name": "Jurassic Puck"
+      },
+      "player": "#92 - Caleb  Adams",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "1335",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#89 - Chris  Casselman",
+      "pim": 4,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:08:13.236Z"
+}

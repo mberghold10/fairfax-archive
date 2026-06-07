@@ -1,0 +1,145 @@
+{
+  "gameId": "14148",
+  "date": "2021-08-02",
+  "divId": 232,
+  "seasonName": "Summer 2021",
+  "mode": "regular",
+  "home": {
+    "teamId": "1449",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1448",
+    "name": "Pharoahs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:55",
+      "team": {
+        "teamId": "1449",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#7 - Dan  Fleshner",
+      "assist1": "#20 - Jeff  Carter",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:56",
+      "team": {
+        "teamId": "1449",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#91 - Michael  Clarke",
+      "assist1": "#19 - Steve  Tarditi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1448",
+        "name": "Pharoahs"
+      },
+      "scorer": "#14 - Andrew  Prantner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1449",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#91 - Michael  Clarke",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1448",
+        "name": "Pharoahs"
+      },
+      "player": "#14 - Andrew  Prantner",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:28",
+      "team": {
+        "teamId": "1448",
+        "name": "Pharoahs"
+      },
+      "player": "#17 - Zephan  Keehner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:38",
+      "team": {
+        "teamId": "1448",
+        "name": "Pharoahs"
+      },
+      "player": "#17 - Zephan  Keehner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "1448",
+        "name": "Pharoahs"
+      },
+      "player": "#37 - Greg  Van Houten",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:57",
+      "team": {
+        "teamId": "1449",
+        "name": "Blue Crabs"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:24:46.415Z"
+}

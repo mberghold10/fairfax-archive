@@ -1,0 +1,117 @@
+{
+  "gameId": "13073",
+  "date": "2019-07-19",
+  "divId": 204,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1291",
+    "name": "Pharaohs"
+  },
+  "away": {
+    "teamId": "1292",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "scorer": "#83 - Jared  DiCioccio",
+      "assist1": "#11 - Dan  Owens",
+      "assist2": "#23 - Seth  Wayne"
+    },
+    {
+      "period": "1",
+      "time": "00:07:02",
+      "team": {
+        "teamId": "1292",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#47 - Jim  Lane",
+      "assist1": "#4 - Paul  Cicchetti",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:15",
+      "team": {
+        "teamId": "1292",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#75 - Tim  Witkiewicz",
+      "assist1": "#47 - Jim  Lane",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1292",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#11 - Pete  Danner",
+      "assist1": "#7 - Dan  Fleshner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:19",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "scorer": "#4 - Kevin  Via",
+      "assist1": "#28 - Michael  Berghold",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1291",
+        "name": "Pharaohs"
+      },
+      "player": "#71 - Matt  Renton",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:32",
+      "team": {
+        "teamId": "1292",
+        "name": "Blue Crabs"
+      },
+      "player": "#28 - Brad  Mills",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:59:33.277Z"
+}

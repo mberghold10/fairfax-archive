@@ -1,0 +1,165 @@
+{
+  "gameId": "15394",
+  "date": "2022-11-06",
+  "divId": 259,
+  "seasonName": "Winter 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1593",
+    "name": "Pharoahs"
+  },
+  "away": {
+    "teamId": "1595",
+    "name": "North Stars"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:13",
+      "team": {
+        "teamId": "1593",
+        "name": "Pharoahs"
+      },
+      "scorer": "#18 - Radek  Kaczor",
+      "assist1": "#28 - Michael  Berghold",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:26",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "1593",
+        "name": "Pharoahs"
+      },
+      "scorer": "#18 - Radek  Kaczor",
+      "assist1": "#17 - Zephan  Keehner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:26",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#28 - Jacob  Combs",
+      "assist2": "#94 - Dan  Cosentino"
+    },
+    {
+      "period": "2",
+      "time": "00:07:57",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "scorer": "#28 - Jacob  Combs",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:13",
+      "team": {
+        "teamId": "1593",
+        "name": "Pharoahs"
+      },
+      "scorer": "#28 - Michael  Berghold",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "1593",
+        "name": "Pharoahs"
+      },
+      "scorer": "#30 - Justin  Carpenter",
+      "assist1": "#42 - Ben  Fonarov",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:59",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "player": "#15 - Michael  Olsyk",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "player": "#15 - Michael  Olsyk",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:28",
+      "team": {
+        "teamId": "1595",
+        "name": "North Stars"
+      },
+      "player": "#10 - Mario  Constantinou",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1593",
+        "name": "Pharoahs"
+      },
+      "player": "#41 - Will  Maher",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:51:10.350Z"
+}

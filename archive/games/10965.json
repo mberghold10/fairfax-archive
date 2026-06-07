@@ -1,0 +1,196 @@
+{
+  "gameId": "10965",
+  "date": "2017-10-01",
+  "divId": 171,
+  "seasonName": "Winter 2017",
+  "mode": "regular",
+  "home": {
+    "teamId": "1090",
+    "name": "Englewood"
+  },
+  "away": {
+    "teamId": "1091",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 4,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:12",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#16 - Bill  Thompson",
+      "assist1": "#26 - Rich  Snively",
+      "assist2": "#13 - Bob  Chagnot"
+    },
+    {
+      "period": "1",
+      "time": "00:12:25",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "scorer": "#22 - Sonny  Gupta",
+      "assist1": "#61 - Fabian  Olaya",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#7 - Joe  Hull",
+      "assist1": "#5 - Steve  Bradley",
+      "assist2": "#2 - Rod  Wade"
+    },
+    {
+      "period": "2",
+      "time": "00:03:03",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "scorer": "#10 - Matt  Galen",
+      "assist1": "#78 - Noe  Hatchuel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:00",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#2 - Rod  Wade",
+      "assist1": "#29 - Randy  Foster",
+      "assist2": "#7 - Joe  Hull"
+    },
+    {
+      "period": "2",
+      "time": "00:09:21",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "scorer": "#61 - Fabian  Olaya",
+      "assist1": "#10 - Matt  Galen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "scorer": "#7 - Joe  Hull",
+      "assist1": "#12 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:13",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "scorer": "#0 - James  Bratsos",
+      "assist1": "#16 - Scott  Kuehn",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "scorer": "#78 - Noe  Hatchuel",
+      "assist1": "#0 - James  Bratsos",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "3",
+      "time": "00:14:42",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "scorer": "#78 - Noe  Hatchuel",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": "#0 - James  Bratsos"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "player": "#7 - Joe  Hull",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "1091",
+        "name": "Swarm"
+      },
+      "player": "#16 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "1090",
+        "name": "Englewood"
+      },
+      "player": "#16 - Bill  Thompson",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:18:27.616Z"
+}

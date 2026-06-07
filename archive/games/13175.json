@@ -1,0 +1,126 @@
+{
+  "gameId": "13175",
+  "date": "2019-09-07",
+  "divId": 207,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1312",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "1310",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:22",
+      "team": {
+        "teamId": "1312",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "1312",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#36 - Brian  Lusby",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:52",
+      "team": {
+        "teamId": "1312",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#18 - Lee  Freedman",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:39",
+      "team": {
+        "teamId": "1310",
+        "name": "Thunder"
+      },
+      "scorer": "#75 - Danny  Normandeau",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:35",
+      "team": {
+        "teamId": "1310",
+        "name": "Thunder"
+      },
+      "scorer": "#27 - Michael  Fine",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "1312",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#32 - Marty  Langley",
+      "assist1": "#18 - Lee  Freedman",
+      "assist2": "#22 - Amir  Tahami"
+    },
+    {
+      "period": "3",
+      "time": "00:14:23",
+      "team": {
+        "teamId": "1310",
+        "name": "Thunder"
+      },
+      "scorer": "#76 - Ethan  Bond",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1310",
+        "name": "Thunder"
+      },
+      "player": "#46 - Charles  Fancher",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:03:32.795Z"
+}

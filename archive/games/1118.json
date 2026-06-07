@@ -1,0 +1,95 @@
+{
+  "gameId": "1118",
+  "date": "2021-02-28",
+  "divId": 220,
+  "seasonName": "Fall 2020",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1387",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1386",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:35",
+      "team": {
+        "teamId": "1386",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#17 - Zephan  Keehner",
+      "assist1": "#28 - Michael  Berghold",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:52",
+      "team": {
+        "teamId": "1386",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#10 - Radislaw  Kaczor",
+      "assist1": "#92 - Caleb  Adams",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:50",
+      "team": {
+        "teamId": "1386",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#92 - Caleb  Adams",
+      "assist1": "#23 - Seth  Wayne",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:12",
+      "team": {
+        "teamId": "1387",
+        "name": "Blackskimmers"
+      },
+      "player": "#11 - Josh  Gilman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:54",
+      "team": {
+        "teamId": "1387",
+        "name": "Blackskimmers"
+      },
+      "player": "#16 - Dave  Smith",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:17:04.260Z"
+}

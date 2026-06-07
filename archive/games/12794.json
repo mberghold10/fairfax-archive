@@ -1,0 +1,117 @@
+{
+  "gameId": "12794",
+  "date": "2019-07-02",
+  "divId": 201,
+  "seasonName": "Summer 2019",
+  "mode": "regular",
+  "home": {
+    "teamId": "1278",
+    "name": "Senators"
+  },
+  "away": {
+    "teamId": "1275",
+    "name": "Maple Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:42",
+      "team": {
+        "teamId": "1275",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#20 - Bao  Pham",
+      "assist1": "#21 - Austin  Orchard",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "1275",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#21 - Austin  Orchard",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:15",
+      "team": {
+        "teamId": "1275",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "scorer": "#52 - Alan  Dappen",
+      "assist1": "#9 - Kim  Sherrock",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:01",
+      "team": {
+        "teamId": "1275",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#3 - Frank  Thomason",
+      "assist1": "#48 - Randy  Sasai",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:19",
+      "team": {
+        "teamId": "1275",
+        "name": "Maple Leafs"
+      },
+      "player": "#16 - Greg  Thomas",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:52",
+      "team": {
+        "teamId": "1278",
+        "name": "Senators"
+      },
+      "player": "#1 - Rick  Hatheway",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:56:32.242Z"
+}

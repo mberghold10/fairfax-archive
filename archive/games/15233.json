@@ -1,0 +1,126 @@
+{
+  "gameId": "15233",
+  "date": "2022-08-31",
+  "divId": 253,
+  "seasonName": "Summer 2022",
+  "mode": "regular",
+  "home": {
+    "teamId": "1561",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "1560",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:51",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#9 - Jason  Murphy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:08",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "scorer": "#18 - Samson  Chu",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": "#56 - Ryan  Tyler"
+    },
+    {
+      "period": "1",
+      "time": "00:13:56",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "scorer": "#6 - David  Satagaj",
+      "assist1": "#13 - Brian  Patterson",
+      "assist2": "#12 - Jonathan  Greger"
+    },
+    {
+      "period": "2",
+      "time": "00:04:06",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "scorer": "#12 - Jonathan  Greger",
+      "assist1": "#13 - Brian  Patterson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "scorer": "#12 - Jonathan  Greger",
+      "assist1": "#6 - David  Satagaj",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:46",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "scorer": "#43 - Mike  Carew",
+      "assist1": "#6 - David  Satagaj",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:11",
+      "team": {
+        "teamId": "1560",
+        "name": "Ducks"
+      },
+      "scorer": "#13 - Brian  Patterson",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:07:13",
+      "team": {
+        "teamId": "1561",
+        "name": "Swarm"
+      },
+      "player": "#41 - Erik  Kniaz",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T20:45:14.002Z"
+}

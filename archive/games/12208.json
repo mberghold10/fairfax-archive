@@ -1,0 +1,104 @@
+{
+  "gameId": "12208",
+  "date": "2018-12-07",
+  "divId": 192,
+  "seasonName": "Winter 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1223",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1216",
+    "name": "Taters"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:48",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "scorer": "#19 - Howard  Uman",
+      "assist1": "#62 - Phil  Tivel",
+      "assist2": "#70 - Wayne  Jacobs"
+    },
+    {
+      "period": "1",
+      "time": "00:07:20",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": "#27 - Dave  Lin",
+      "assist2": "#1 - Matt  ODriscoll"
+    },
+    {
+      "period": "2",
+      "time": "00:01:43",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": "#1 - Matt  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "scorer": "#1 - Matt  ODriscoll",
+      "assist1": "#27 - Dave  Lin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:38",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": "#27 - Dave  Lin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:43",
+      "team": {
+        "teamId": "1216",
+        "name": "Taters"
+      },
+      "player": "#1 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:44:45.788Z"
+}

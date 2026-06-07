@@ -1,0 +1,130 @@
+{
+  "gameId": "15860",
+  "date": "2023-05-13",
+  "divId": 268,
+  "seasonName": "Summer 2023",
+  "mode": "regular",
+  "home": {
+    "teamId": "1651",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1655",
+    "name": "Outlaws"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:05",
+      "team": {
+        "teamId": "1651",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#9 - Alex  Cimon",
+      "assist1": "#74 - Evan  Wilken",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:21",
+      "team": {
+        "teamId": "1655",
+        "name": "Outlaws"
+      },
+      "scorer": "#65 - Jeremy  Dublon",
+      "assist1": "#14 - Jason  Brue",
+      "assist2": "#17 - Adam  Lee"
+    },
+    {
+      "period": "2",
+      "time": "00:13:40",
+      "team": {
+        "teamId": "1651",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#74 - Evan  Wilken",
+      "assist1": "#28 - Brad  Mills",
+      "assist2": "#71 - Jeff  Wilken"
+    },
+    {
+      "period": "3",
+      "time": "00:02:39",
+      "team": {
+        "teamId": "1655",
+        "name": "Outlaws"
+      },
+      "scorer": "#41 - Tony  Gorney",
+      "assist1": "#65 - Jeremy  Dublon",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:18",
+      "team": {
+        "teamId": "1651",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#71 - Jeff  Wilken",
+      "assist1": "#33 - Bryan  Ralston",
+      "assist2": "#9 - Alex  Cimon"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:15",
+      "team": {
+        "teamId": "1655",
+        "name": "Outlaws"
+      },
+      "player": "#65 - Jeremy  Dublon",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:17",
+      "team": {
+        "teamId": "1655",
+        "name": "Outlaws"
+      },
+      "player": "#42 - Mac  Johnson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:49",
+      "team": {
+        "teamId": "1655",
+        "name": "Outlaws"
+      },
+      "player": "#43 - Mike  Barnes",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T21:01:41.281Z"
+}

@@ -1,0 +1,117 @@
+{
+  "gameId": "11924",
+  "date": "2018-08-18",
+  "divId": 186,
+  "seasonName": "Summer 2018",
+  "mode": "regular",
+  "home": {
+    "teamId": "1184",
+    "name": "Turtle Power"
+  },
+  "away": {
+    "teamId": "1182",
+    "name": "Mighty Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "1182",
+        "name": "Mighty Moose"
+      },
+      "scorer": "#27 - Greg  Thompson",
+      "assist1": "#10 - Howie  Schulman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:39",
+      "team": {
+        "teamId": "1182",
+        "name": "Mighty Moose"
+      },
+      "scorer": "#5 - John  Bennett",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "1182",
+        "name": "Mighty Moose"
+      },
+      "scorer": "#5 - John  Bennett",
+      "assist1": "#0 - Jory  Rubenstein",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "1184",
+        "name": "Turtle Power"
+      },
+      "scorer": "#36 - Calvin  Blackburn",
+      "assist1": "#29 - Thomas  Pennington",
+      "assist2": "#26 - Dan  Meaux"
+    },
+    {
+      "period": "3",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "1182",
+        "name": "Mighty Moose"
+      },
+      "scorer": "#0 - Jory  Rubenstein",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1182",
+        "name": "Mighty Moose"
+      },
+      "player": "#6 - Brad  Martsching",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:15",
+      "team": {
+        "teamId": "1184",
+        "name": "Turtle Power"
+      },
+      "player": "#36 - Calvin  Blackburn",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-06-06T19:38:09.980Z"
+}
