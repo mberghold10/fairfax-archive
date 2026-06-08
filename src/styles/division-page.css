@@ -73,3 +73,38 @@
   font-weight: var(--font-weight-semibold);
   margin-bottom: var(--spacing-sm);
 }
+
+/* ===== Schedule result coloring ===== */
+.cell-result--win {
+  background-color: rgba(34, 139, 34, 0.18);
+  box-shadow: inset 3px 0 0 #228B22;
+  font-weight: var(--font-weight-semibold);
+}
+
+.cell-result--loss {
+  background-color: rgba(191, 0, 0, 0.15);
+  box-shadow: inset 3px 0 0 #BF0000;
+}
+
+.cell-result--otl,
+.cell-result--tie {
+  background-color: rgba(214, 158, 0, 0.20);
+  box-shadow: inset 3px 0 0 #D69E00;
+}
+
+/* Keep coloring legible in dark mode */
+[data-theme="dark"] .cell-result--win {
+  background-color: rgba(80, 200, 80, 0.22);
+  box-shadow: inset 3px 0 0 #3fae3f;
+}
+
+[data-theme="dark"] .cell-result--loss {
+  background-color: rgba(232, 85, 85, 0.22);
+  box-shadow: inset 3px 0 0 #e85555;
+}
+
+[data-theme="dark"] .cell-result--otl,
+[data-theme="dark"] .cell-result--tie {
+  background-color: rgba(240, 200, 60, 0.20);
+  box-shadow: inset 3px 0 0 #e0c020;
+}

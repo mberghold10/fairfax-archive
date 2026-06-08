@@ -163,9 +163,9 @@ export function reconstructDivisionRosters(meta, roster, playerTeamMap) {
   const allTeamIds = Object.keys(meta.teams);
   const usedTeamIds = new Set();
 
-  // Assign skater segments by vote
+  // Assign skater segments by vote — skaters appear frequently in game events
+  // (goals/penalties), so their team votes are reliable.
   const skaterAssignments = skaterSegments.map(seg => voteSegmentTeam(seg, playerTeamMap));
-  const goalieAssignments = goalieSegments.map(seg => voteSegmentTeam(seg, playerTeamMap));
 
   // Resolve conflicts/unassigned: fill from remaining team IDs in meta order
   function resolveAssignments(segments, assignments) {
@@ -194,7 +194,19 @@ export function reconstructDivisionRosters(meta, roster, playerTeamMap) {
   }
 
   const finalSkaterTeams = resolveAssignments(skaterSegments, skaterAssignments);
-  const finalGoalieTeams = resolveAssignments(goalieSegments, goalieAssignments);
+
+  // Goalies are listed in the SAME team order as skaters in the source data.
+  // Goalie game-event voting is unreliable (goalies rarely score or take
+  // penalties, and surnames collide with skaters), so when the segment counts
+  // match we align goalies positionally to the skater team assignments.
+  let finalGoalieTeams;
+  if (goalieSegments.length === skaterSegments.length) {
+    finalGoalieTeams = finalSkaterTeams.slice();
+  } else {
+    // Fallback: vote independently, then fill remaining teams in order.
+    const goalieAssignments = goalieSegments.map(seg => voteSegmentTeam(seg, playerTeamMap));
+    finalGoalieTeams = resolveAssignments(goalieSegments, goalieAssignments);
+  }
 
   // Initialize records for all known teams
   for (const teamId of allTeamIds) {

@@ -34,6 +34,7 @@ import { buildSuspensions } from './aggregate/suspensions.mjs';
 import { copyStaticFiles } from './aggregate/copyStaticFiles.mjs';
 import { buildStandings } from './aggregate/standings.mjs';
 import { buildRosterTeams } from './aggregate/rosterTeams.mjs';
+import { buildScores } from './aggregate/scores.mjs';
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url));
 const PROJECT_ROOT = resolve(__dirname, '..');
@@ -152,6 +153,11 @@ async function main() {
   // ── 11. Reconstruct Rosters by Team ──────────────────────────────────────────
   await runStep('Roster Teams', async () => {
     await buildRosterTeams(ARCHIVE_ROOT, OUTPUT_DIR);
+  });
+
+  // ── 12. Game Scores ──────────────────────────────────────────────────────────
+  await runStep('Scores', async () => {
+    await buildScores(ARCHIVE_ROOT, OUTPUT_DIR);
   });
 
   // ── Summary ────────────────────────────────────────────────────────────────

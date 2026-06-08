@@ -20,6 +20,7 @@ export default function DivisionPage() {
   const [playoffSchedule, setPlayoffSchedule] = useState(null);
   const [rosters, setRosters] = useState(null);
   const [standings, setStandings] = useState(null);
+  const [scores, setScores] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
@@ -61,13 +62,19 @@ export default function DivisionPage() {
       return res.json();
     });
 
-    Promise.all([metaFetch, scheduleFetch, playoffFetch, rosterFetch, standingsFetch, rosterByTeamFetch])
-      .then(([metaData, scheduleData, playoffData, rosterData, standingsData, rosterByTeamData]) => {
+    const scoresFetch = fetch(`${basePath}/scores.json`).then((res) => {
+      if (!res.ok) return null;
+      return res.json();
+    });
+
+    Promise.all([metaFetch, scheduleFetch, playoffFetch, rosterFetch, standingsFetch, rosterByTeamFetch, scoresFetch])
+      .then(([metaData, scheduleData, playoffData, rosterData, standingsData, rosterByTeamData, scoresData]) => {
         setMeta(metaData);
         setSchedule(scheduleData);
         setPlayoffSchedule(playoffData);
         setRosters(rosterByTeamData || rosterData);
         setStandings(standingsData);
+        setScores(scoresData);
         setLoading(false);
       })
       .catch((err) => {
@@ -99,9 +106,9 @@ export default function DivisionPage() {
       <h1>{seasonName} — {divisionLabel}</h1>
 
       <StandingsSection meta={meta} rosters={rosters} schedule={schedule} precomputedStandings={standings} />
-      <ScheduleSection title="Regular Season Schedule" schedule={schedule} />
+      <ScheduleSection title="Regular Season Schedule" schedule={schedule} scores={scores} />
       {playoffSchedule && playoffSchedule.records && playoffSchedule.records.length > 0 && (
-        <ScheduleSection title="Playoff Schedule" schedule={playoffSchedule} />
+        <ScheduleSection title="Playoff Schedule" schedule={playoffSchedule} scores={scores} />
       )}
       <RostersSection rosters={rosters} meta={meta} />
     </div>
@@ -228,45 +235,91 @@ function computeStandingsFromRosters(meta, rosters) {
 
 
 /**
- * Schedule section displaying game rows with optional link to GamePage.
+ * Schedule section displaying game rows with scores and result coloring.
+ *
+ * For completed games, the home/away team cells are colored:
+ *   - green  = winner
+ *   - red    = loser (regulation)
+ *   - yellow = OT loss or tie
+ * The Score column shows the final score (with "OT" tag) and links to the box score.
  */
-function ScheduleSection({ title, schedule }) {
+function ScheduleSection({ title, schedule, scores }) {
   if (!schedule || !schedule.records || schedule.records.length === 0) {
     return null;
   }
 
+  const scoreMap = scores?.scores || {};
+
+  // Determine the result-based CSS class for a team cell.
+  const resultClass = (row, teamId) => {
+    const result = row.result;
+    if (!result || !teamId) return undefined;
+    if (result.tie) return 'cell-result--tie';
+    if (result.winnerTeamId === teamId) return 'cell-result--win';
+    // Loser: OT loss is yellow, regulation loss is red
+    return result.ot ? 'cell-result--otl' : 'cell-result--loss';
+  };
+
   const columns = [
     { key: 'date', label: 'Date', sortable: false },
     { key: 'time', label: 'Time', sortable: false },
-    { key: 'home', label: 'Home', sortable: false, render: (val, row) => (
-      row.homeTeamId
-        ? <TeamLink teamId={row.homeTeamId} name={val} />
-        : val
-    )},
-    { key: 'away', label: 'Away', sortable: false, render: (val, row) => (
-      row.awayTeamId
-        ? <TeamLink teamId={row.awayTeamId} name={val} />
-        : val
-    )},
-    { key: 'score', label: 'Score', sortable: false, render: (val, row) => {
-      if (row.gameId) {
-        return <Link to={`/games/${row.gameId}`}>Box Score</Link>;
-      }
-      return '—';
-    }},
+    {
+      key: 'home',
+      label: 'Home',
+      sortable: false,
+      cellClass: (val, row) => resultClass(row, row.homeTeamId),
+      render: (val, row) => (
+        row.homeTeamId
+          ? <TeamLink teamId={row.homeTeamId} name={val} />
+          : val
+      ),
+    },
+    {
+      key: 'away',
+      label: 'Away',
+      sortable: false,
+      cellClass: (val, row) => resultClass(row, row.awayTeamId),
+      render: (val, row) => (
+        row.awayTeamId
+          ? <TeamLink teamId={row.awayTeamId} name={val} />
+          : val
+      ),
+    },
+    {
+      key: 'score',
+      label: 'Score',
+      sortable: false,
+      render: (val, row) => {
+        if (row.result) {
+          const { homeScore, awayScore, ot } = row.result;
+          const label = `${homeScore}–${awayScore}${ot ? ' (OT)' : ''}`;
+          return row.gameId
+            ? <Link to={`/games/${row.gameId}`}>{label}</Link>
+            : label;
+        }
+        if (row.gameId) {
+          return <Link to={`/games/${row.gameId}`}>Box Score</Link>;
+        }
+        return '—';
+      },
+    },
   ];
 
-  const data = schedule.records.map((game, idx) => ({
-    id: game.gameId || `game-${idx}`,
-    date: game.date,
-    time: game.time,
-    home: game.home.name,
-    homeTeamId: game.home.teamId,
-    away: game.away.name,
-    awayTeamId: game.away.teamId,
-    gameId: game.gameId,
-    score: game.gameId ? 'link' : null,
-  }));
+  const data = schedule.records.map((game, idx) => {
+    const result = game.gameId ? scoreMap[game.gameId] || null : null;
+    return {
+      id: game.gameId || `game-${idx}`,
+      date: game.date,
+      time: game.time,
+      home: game.home.name,
+      homeTeamId: game.home.teamId,
+      away: game.away.name,
+      awayTeamId: game.away.teamId,
+      gameId: game.gameId,
+      result,
+      score: result ? result.homeScore + result.awayScore : (game.gameId ? 0 : null),
+    };
+  });
 
   return (
     <section className="division-schedule">

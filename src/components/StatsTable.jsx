@@ -82,11 +82,16 @@ export default function StatsTable({ columns, data, defaultSort, defaultDirectio
         <tbody>
           {sortedData.map((row, rowIndex) => (
             <tr key={row.id || row.key || rowIndex}>
-              {columns.map((col) => (
-                <td key={col.key}>
-                  {col.render ? col.render(row[col.key], row) : row[col.key]}
-                </td>
-              ))}
+              {columns.map((col) => {
+                const cellClass = typeof col.cellClass === 'function'
+                  ? col.cellClass(row[col.key], row)
+                  : col.cellClass;
+                return (
+                  <td key={col.key} className={cellClass || undefined}>
+                    {col.render ? col.render(row[col.key], row) : row[col.key]}
+                  </td>
+                );
+              })}
             </tr>
           ))}
         </tbody>
