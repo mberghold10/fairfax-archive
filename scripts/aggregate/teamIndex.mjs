@@ -16,6 +16,7 @@
 import { readdir, readFile, mkdir, writeFile } from 'node:fs/promises';
 import { join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { buildPlayerTeamMap, reconstructDivisionRosters } from './rosterTeams.mjs';
 
 const __dirname = import.meta.url.startsWith('file:')
   ? fileURLToPath(new URL('.', import.meta.url))
@@ -75,6 +76,24 @@ export async function buildTeamIndex(archiveDir, outputDir) {
 
   // Read game files in batches for scores
   const gameScores = await loadGameScores(gamesDir, allGameIds);
+
+  // Reconstruct per-team rosters for single-bucket divisions using game data,
+  // so team pages show each team's actual players rather than an empty roster.
+  for (const div of validDivisions) {
+    if (!div.roster || !div.meta.teams) continue;
+    const recordKeys = Object.keys(div.roster.records || {});
+    const metaTeamCount = Object.keys(div.meta.teams).length;
+    if (recordKeys.length === 1 && metaTeamCount > 1) {
+      const gameIds = div.schedule?.records
+        ? div.schedule.records.filter(g => g.gameId).map(g => g.gameId)
+        : [];
+      const playerTeamMap = await buildPlayerTeamMap(gamesDir, gameIds);
+      const reconstructed = reconstructDivisionRosters(div.meta, div.roster, playerTeamMap);
+      if (reconstructed) {
+        div.roster = { ...div.roster, records: reconstructed };
+      }
+    }
+  }
 
   // Build team data from divisions
   const teamIndex = buildTeamIndexFromData(validDivisions, gameScores);
@@ -256,8 +275,11 @@ function computeDivisionRecords(teams, schedule, gameScores) {
     const score = gameScores.get(String(game.gameId));
     if (!score) continue;
 
-    const homeId = String(game.home.teamId);
-    const awayId = String(game.away.teamId);
+    // Use the team IDs from the game file's own score data, not the schedule.
+    // The schedule's home/away can be swapped relative to the game file, which
+    // would otherwise misattribute scores (flipping W/L).
+    const homeId = score.homeTeamId;
+    const awayId = score.awayTeamId;
 
     const homeRecord = records.get(homeId);
     const awayRecord = records.get(awayId);

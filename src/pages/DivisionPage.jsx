@@ -49,17 +49,24 @@ export default function DivisionPage() {
       return res.json();
     });
 
+    // Reconstructed per-team rosters (built from game data during aggregation).
+    // Preferred over rosters.regular.json which dumps all players under one key.
+    const rosterByTeamFetch = fetch(`${basePath}/rosters.byteam.json`).then((res) => {
+      if (!res.ok) return null;
+      return res.json();
+    });
+
     const standingsFetch = fetch(`${basePath}/standings.json`).then((res) => {
       if (!res.ok) return null;
       return res.json();
     });
 
-    Promise.all([metaFetch, scheduleFetch, playoffFetch, rosterFetch, standingsFetch])
-      .then(([metaData, scheduleData, playoffData, rosterData, standingsData]) => {
+    Promise.all([metaFetch, scheduleFetch, playoffFetch, rosterFetch, standingsFetch, rosterByTeamFetch])
+      .then(([metaData, scheduleData, playoffData, rosterData, standingsData, rosterByTeamData]) => {
         setMeta(metaData);
         setSchedule(scheduleData);
         setPlayoffSchedule(playoffData);
-        setRosters(rosterData);
+        setRosters(rosterByTeamData || rosterData);
         setStandings(standingsData);
         setLoading(false);
       })
