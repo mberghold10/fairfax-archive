@@ -15,6 +15,7 @@ import { join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { createHash } from 'node:crypto';
 import { jaroWinkler, normalizeName } from '../../src/utils/playerIdentity.mjs';
+import { buildPlayerTeamMap, reconstructDivisionRosters } from './rosterTeams.mjs';
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url));
 
@@ -32,9 +33,10 @@ function generatePlayerId(canonicalName) {
  * Reads all roster files from the archive and collects enriched skater entries.
  *
  * @param {string} archiveDir - Path to archive/divisions/
+ * @param {string} gamesDir - Path to archive/games/
  * @returns {Promise<Array>} Flat array of skater entries with metadata
  */
-async function collectSkaterEntries(archiveDir) {
+async function collectSkaterEntries(archiveDir, gamesDir) {
   const entries = await readdir(archiveDir, { withFileTypes: true });
   const divDirs = entries.filter(e => e.isDirectory());
 
@@ -57,6 +59,19 @@ async function collectSkaterEntries(archiveDir) {
     const divisionLabel = meta.divisionLabel || '';
     const seasonName = meta.seasonName || '';
 
+    // Load the schedule once so we can reconstruct per-team rosters from game
+    // data (the raw roster files dump all players under a single team key).
+    let schedule = null;
+    try {
+      schedule = JSON.parse(await readFile(join(divPath, 'schedule.regular.json'), 'utf-8'));
+    } catch {
+      schedule = null;
+    }
+    const gameIds = schedule?.records
+      ? schedule.records.filter(g => g.gameId).map(g => g.gameId)
+      : [];
+    const playerTeamMap = await buildPlayerTeamMap(gamesDir, gameIds);
+
     // Process both regular and playoff roster files
     for (const mode of ['regular', 'playoff']) {
       const rosterPath = join(divPath, `rosters.${mode}.json`);
@@ -69,7 +84,15 @@ async function collectSkaterEntries(archiveDir) {
         continue;
       }
 
-      const records = rosterData.records || {};
+      // Reconstruct per-team records when the data is a single-bucket dump so
+      // each player is attributed to the correct team.
+      let records = rosterData.records || {};
+      const recordKeys = Object.keys(records);
+      const metaTeamCount = Object.keys(meta.teams || {}).length;
+      if (recordKeys.length === 1 && metaTeamCount > 1) {
+        const reconstructed = reconstructDivisionRosters(meta, rosterData, playerTeamMap);
+        if (reconstructed) records = reconstructed;
+      }
 
       for (const [teamId, teamData] of Object.entries(records)) {
         for (const skater of (teamData.skaters || [])) {
@@ -189,8 +212,11 @@ function clusterSkaters(entries) {
 export async function buildPlayerIndex(archiveDir, outputDir) {
   console.log('  Building skater career index...');
 
+  // archiveDir points to archive/divisions/ — games live alongside it
+  const gamesDir = resolve(archiveDir, '..', 'games');
+
   // Collect all skater entries across all divisions
-  const allEntries = await collectSkaterEntries(archiveDir);
+  const allEntries = await collectSkaterEntries(archiveDir, gamesDir);
   console.log(`    Found ${allEntries.length} skater entries`);
 
   // Cluster by identity

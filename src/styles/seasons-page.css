@@ -55,6 +55,16 @@
   margin: 0 0 var(--spacing-xs);
 }
 
+.season-card__name-link {
+  color: var(--color-heading);
+  text-decoration: none;
+}
+
+.season-card__name-link:hover {
+  color: var(--color-brand-red);
+  text-decoration: underline;
+}
+
 .season-card__summary {
   color: var(--color-text-secondary);
   font-size: var(--font-size-sm);

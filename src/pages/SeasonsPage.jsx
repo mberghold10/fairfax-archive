@@ -64,7 +64,11 @@ export default function SeasonsPage() {
 
           return (
             <article key={season.seasonName} className="season-card">
-              <h2 className="season-card__name">{season.seasonName}</h2>
+              <h2 className="season-card__name">
+                <Link to={`/seasons/${slug}`} className="season-card__name-link">
+                  {season.seasonName}
+                </Link>
+              </h2>
               <p className="season-card__summary">
                 {season.divisions.length} division{season.divisions.length !== 1 ? 's' : ''} &middot; {totalTeams} team{totalTeams !== 1 ? 's' : ''}
               </p>

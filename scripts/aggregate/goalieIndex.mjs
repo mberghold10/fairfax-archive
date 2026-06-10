@@ -16,6 +16,7 @@ import { join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { createHash } from 'node:crypto';
 import { normalizeName, jaroWinkler } from '../../src/utils/playerIdentity.mjs';
+import { buildPlayerTeamMap, reconstructDivisionRosters } from './rosterTeams.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = fileURLToPath(new URL('.', import.meta.url));
@@ -35,7 +36,7 @@ function generateId(canonicalName) {
  * @param {string} archiveDir - Path to archive/divisions directory
  * @returns {Promise<Array>} Flat array of enriched goalie entries
  */
-async function readAllGoalieEntries(archiveDir) {
+async function readAllGoalieEntries(archiveDir, gamesDir) {
   const entries = await readdir(archiveDir, { withFileTypes: true });
   const divDirs = entries.filter(e => e.isDirectory());
 
@@ -57,6 +58,19 @@ async function readAllGoalieEntries(archiveDir) {
     const { seasonName, divisionLabel } = meta;
     if (!seasonName) continue;
 
+    // Build player→team map from game data to reconstruct per-team rosters
+    // (raw roster files dump every player under a single team key).
+    let schedule = null;
+    try {
+      schedule = JSON.parse(await readFile(join(divPath, 'schedule.regular.json'), 'utf-8'));
+    } catch {
+      schedule = null;
+    }
+    const gameIds = schedule?.records
+      ? schedule.records.filter(g => g.gameId).map(g => g.gameId)
+      : [];
+    const playerTeamMap = await buildPlayerTeamMap(gamesDir, gameIds);
+
     // Read regular and playoff roster files
     const rosterFiles = ['rosters.regular.json', 'rosters.playoff.json'];
 
@@ -69,7 +83,13 @@ async function readAllGoalieEntries(archiveDir) {
         continue; // file doesn't exist or is malformed
       }
 
-      const records = rosterData.records || rosterData.teams || {};
+      let records = rosterData.records || rosterData.teams || {};
+      const recordKeys = Object.keys(records);
+      const metaTeamCount = Object.keys(meta.teams || {}).length;
+      if (recordKeys.length === 1 && metaTeamCount > 1) {
+        const reconstructed = reconstructDivisionRosters(meta, rosterData, playerTeamMap);
+        if (reconstructed) records = reconstructed;
+      }
 
       for (const [teamId, teamData] of Object.entries(records)) {
         const goalies = teamData.goalies || [];
@@ -227,7 +247,10 @@ function buildProfiles(clusters) {
 export async function buildGoalieIndex(archiveDir, outputDir) {
   console.log('Building goalie index...');
 
-  const allEntries = await readAllGoalieEntries(archiveDir);
+  // archiveDir points to archive/divisions/ — games live alongside it
+  const gamesDir = resolve(archiveDir, '..', 'games');
+
+  const allEntries = await readAllGoalieEntries(archiveDir, gamesDir);
   console.log(`  Found ${allEntries.length} goalie entries across all divisions`);
 
   const clusters = clusterGoalies(allEntries);

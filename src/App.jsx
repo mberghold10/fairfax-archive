@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Layout from './components/Layout.jsx';
 
 const SeasonsPage = lazy(() => import('./pages/SeasonsPage'));
+const SeasonPage = lazy(() => import('./pages/SeasonPage'));
 const DivisionPage = lazy(() => import('./pages/DivisionPage'));
 const GamePage = lazy(() => import('./pages/GamePage'));
 const PlayerPage = lazy(() => import('./pages/PlayerPage'));
@@ -19,6 +20,7 @@ export default function App() {
         <Suspense fallback={<div>Loading…</div>}>
           <Routes>
             <Route path="/" element={<SeasonsPage />} />
+            <Route path="/seasons/:seasonSlug" element={<SeasonPage />} />
             <Route path="/seasons/:seasonSlug/divisions/:divId" element={<DivisionPage />} />
             <Route path="/games/:gameId" element={<GamePage />} />
             <Route path="/players/:playerId" element={<PlayerPage />} />

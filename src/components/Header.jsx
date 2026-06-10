@@ -16,7 +16,6 @@ export default function Header({ onMenuToggle, menuOpen }) {
         <nav className="header-nav" aria-label="Main navigation">
           <NavLink to="/" end>Seasons</NavLink>
           <NavLink to="/leaders">Leaders</NavLink>
-          <NavLink to="/suspensions">Suspensions</NavLink>
         </nav>
 
         <div className="header-search">

@@ -108,3 +108,17 @@
   background-color: rgba(240, 200, 60, 0.20);
   box-shadow: inset 3px 0 0 #e0c020;
 }
+
+/* ===== Schedule team cell with inline score ===== */
+.schedule-team {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--spacing-md);
+}
+
+.schedule-team__score {
+  font-weight: var(--font-weight-bold);
+  font-variant-numeric: tabular-nums;
+  font-size: var(--font-size-base);
+}

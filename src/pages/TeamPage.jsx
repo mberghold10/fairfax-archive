@@ -211,6 +211,7 @@ function SeasonRoster({ season }) {
  */
 function SkaterRoster({ skaters }) {
   const columns = [
+    { key: 'number', label: '#', sortable: true },
     {
       key: 'name',
       label: 'Name',
@@ -219,7 +220,6 @@ function SkaterRoster({ skaters }) {
         <PlayerLink playerId={generatePlayerIdFromName(val)} name={val} />
       ),
     },
-    { key: 'number', label: '#', sortable: true },
     { key: 'gp', label: 'GP', sortable: true },
     { key: 'g', label: 'G', sortable: true },
     { key: 'a', label: 'A', sortable: true },
@@ -251,6 +251,7 @@ function SkaterRoster({ skaters }) {
  */
 function GoalieRoster({ goalies }) {
   const columns = [
+    { key: 'number', label: '#', sortable: true },
     {
       key: 'name',
       label: 'Name',
@@ -259,7 +260,6 @@ function GoalieRoster({ goalies }) {
         <PlayerLink playerId={generatePlayerIdFromName(val)} name={val} />
       ),
     },
-    { key: 'number', label: '#', sortable: true },
     { key: 'gp', label: 'GP', sortable: true },
     { key: 'w', label: 'W', sortable: true },
     { key: 'l', label: 'L', sortable: true },

@@ -10,7 +10,6 @@ export default function MobileNav({ open, onClose }) {
     >
       <NavLink to="/" end onClick={onClose}>Seasons</NavLink>
       <NavLink to="/leaders" onClick={onClose}>Leaders</NavLink>
-      <NavLink to="/suspensions" onClick={onClose}>Suspensions</NavLink>
 
       <div className="mobile-nav-search">
         <SearchOverlay />

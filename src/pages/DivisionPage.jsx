@@ -237,11 +237,12 @@ function computeStandingsFromRosters(meta, rosters) {
 /**
  * Schedule section displaying game rows with scores and result coloring.
  *
- * For completed games, the home/away team cells are colored:
+ * For completed games, the home/away team cells show the team's goals and are
+ * colored:
  *   - green  = winner
  *   - red    = loser (regulation)
  *   - yellow = OT loss or tie
- * The Score column shows the final score (with "OT" tag) and links to the box score.
+ * The final column links to the box score (tagged "(OT)" for overtime games).
  */
 function ScheduleSection({ title, schedule, scores }) {
   if (!schedule || !schedule.records || schedule.records.length === 0) {
@@ -269,9 +270,12 @@ function ScheduleSection({ title, schedule, scores }) {
       sortable: false,
       cellClass: (val, row) => resultClass(row, row.homeTeamId),
       render: (val, row) => (
-        row.homeTeamId
-          ? <TeamLink teamId={row.homeTeamId} name={val} />
-          : val
+        <span className="schedule-team">
+          {row.homeTeamId ? <TeamLink teamId={row.homeTeamId} name={val} /> : val}
+          {row.result && (
+            <span className="schedule-team__score">{row.result.homeScore}</span>
+          )}
+        </span>
       ),
     },
     {
@@ -280,25 +284,25 @@ function ScheduleSection({ title, schedule, scores }) {
       sortable: false,
       cellClass: (val, row) => resultClass(row, row.awayTeamId),
       render: (val, row) => (
-        row.awayTeamId
-          ? <TeamLink teamId={row.awayTeamId} name={val} />
-          : val
+        <span className="schedule-team">
+          {row.awayTeamId ? <TeamLink teamId={row.awayTeamId} name={val} /> : val}
+          {row.result && (
+            <span className="schedule-team__score">{row.result.awayScore}</span>
+          )}
+        </span>
       ),
     },
     {
       key: 'score',
-      label: 'Score',
+      label: '',
       sortable: false,
       render: (val, row) => {
-        if (row.result) {
-          const { homeScore, awayScore, ot } = row.result;
-          const label = `${homeScore}–${awayScore}${ot ? ' (OT)' : ''}`;
-          return row.gameId
-            ? <Link to={`/games/${row.gameId}`}>{label}</Link>
-            : label;
-        }
         if (row.gameId) {
-          return <Link to={`/games/${row.gameId}`}>Box Score</Link>;
+          return (
+            <Link to={`/games/${row.gameId}`}>
+              {row.result ? `Box Score${row.result.ot ? ' (OT)' : ''}` : 'Box Score'}
+            </Link>
+          );
         }
         return '—';
       },
@@ -420,10 +424,10 @@ function SkaterRoster({ skaters }) {
   if (!skaters || skaters.length === 0) return null;
 
   const columns = [
+    { key: 'number', label: '#' },
     { key: 'name', label: 'Name', sortable: false, render: (val, row) => (
       <PlayerLink playerId={row.playerKey} name={val} />
     )},
-    { key: 'number', label: '#' },
     { key: 'gp', label: 'GP' },
     { key: 'g', label: 'G' },
     { key: 'a', label: 'A' },
@@ -458,10 +462,10 @@ function GoalieRoster({ goalies }) {
   if (!goalies || goalies.length === 0) return null;
 
   const columns = [
+    { key: 'number', label: '#' },
     { key: 'name', label: 'Name', sortable: false, render: (val, row) => (
       <PlayerLink playerId={row.playerKey} name={val} />
     )},
-    { key: 'number', label: '#' },
     { key: 'gp', label: 'GP' },
     { key: 'w', label: 'W' },
     { key: 'l', label: 'L' },
