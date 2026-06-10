@@ -4,6 +4,7 @@ import Breadcrumbs from '../components/Breadcrumbs.jsx';
 import Loading from '../components/Loading.jsx';
 import ErrorMessage from '../components/ErrorMessage.jsx';
 import PlayerLink from '../components/PlayerLink.jsx';
+import TeamLink from '../components/TeamLink.jsx';
 import StatsTable from '../components/StatsTable.jsx';
 import '../styles/team-page.css';
 import '../styles/division-page.css';
