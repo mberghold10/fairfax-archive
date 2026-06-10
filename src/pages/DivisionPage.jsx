@@ -21,6 +21,7 @@ export default function DivisionPage() {
   const [rosters, setRosters] = useState(null);
   const [standings, setStandings] = useState(null);
   const [scores, setScores] = useState(null);
+  const [leaders, setLeaders] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
@@ -67,14 +68,20 @@ export default function DivisionPage() {
       return res.json();
     });
 
-    Promise.all([metaFetch, scheduleFetch, playoffFetch, rosterFetch, standingsFetch, rosterByTeamFetch, scoresFetch])
-      .then(([metaData, scheduleData, playoffData, rosterData, standingsData, rosterByTeamData, scoresData]) => {
+    const leadersFetch = fetch(`${basePath}/leaders.json`).then((res) => {
+      if (!res.ok) return null;
+      return res.json();
+    });
+
+    Promise.all([metaFetch, scheduleFetch, playoffFetch, rosterFetch, standingsFetch, rosterByTeamFetch, scoresFetch, leadersFetch])
+      .then(([metaData, scheduleData, playoffData, rosterData, standingsData, rosterByTeamData, scoresData, leadersData]) => {
         setMeta(metaData);
         setSchedule(scheduleData);
         setPlayoffSchedule(playoffData);
         setRosters(rosterByTeamData || rosterData);
         setStandings(standingsData);
         setScores(scoresData);
+        setLeaders(leadersData);
         setLoading(false);
       })
       .catch((err) => {
@@ -106,6 +113,7 @@ export default function DivisionPage() {
       <h1>{seasonName} — {divisionLabel}</h1>
 
       <StandingsSection meta={meta} rosters={rosters} schedule={schedule} precomputedStandings={standings} />
+      <DivisionLeadersSection leaders={leaders} />
       <ScheduleSection title="Regular Season Schedule" schedule={schedule} scores={scores} />
       {playoffSchedule && playoffSchedule.records && playoffSchedule.records.length > 0 && (
         <ScheduleSection title="Playoff Schedule" schedule={playoffSchedule} scores={scores} />
@@ -232,7 +240,55 @@ function computeStandingsFromRosters(meta, rosters) {
   return standings;
 }
 
+/**
+ * Division (league) leaders shown below the standings.
+ * Displays small leaderboards for points, goals, assists, goalie wins, and GAA.
+ */
+function DivisionLeadersSection({ leaders }) {
+  if (!leaders || !leaders.leaders) return null;
 
+  const l = leaders.leaders;
+
+  const categories = [
+    { key: 'points', title: 'Points', data: l.points },
+    { key: 'goals', title: 'Goals', data: l.goals },
+    { key: 'assists', title: 'Assists', data: l.assists },
+    { key: 'wins', title: 'Goalie Wins', data: l.wins },
+    { key: 'gaa', title: 'Goalie GAA', data: l.gaa },
+  ].filter((c) => c.data && c.data.length > 0);
+
+  if (categories.length === 0) return null;
+
+  return (
+    <section className="division-leaders">
+      <h2>League Leaders</h2>
+      <div className="division-leaders__grid">
+        {categories.map((cat) => (
+          <div key={cat.key} className="division-leaders__card">
+            <h3>{cat.title}</h3>
+            <ol className="division-leaders__list">
+              {cat.data.map((entry, idx) => (
+                <li key={`${entry.id}-${idx}`} className="division-leaders__row">
+                  <span className="division-leaders__rank">{idx + 1}</span>
+                  <span className="division-leaders__name">
+                    <PlayerLink playerId={entry.id} name={entry.name} />
+                    {entry.teamName && (
+                      <span className="division-leaders__team">
+                        {' '}
+                        <TeamLink teamId={entry.teamId} name={entry.teamName} />
+                      </span>
+                    )}
+                  </span>
+                  <span className="division-leaders__value">{entry.value}</span>
+                </li>
+              ))}
+            </ol>
+          </div>
+        ))}
+      </div>
+    </section>
+  );
+}
 
 /**
  * Schedule section displaying game rows with scores and result coloring.

@@ -1,0 +1,84 @@
+/*
+ * TeamPage styles
+ */
+
+.team-page {
+  padding-bottom: var(--spacing-xl);
+}
+
+.team-page__header {
+  margin-bottom: var(--spacing-xl);
+}
+
+.team-page__name {
+  border-bottom: 3px solid var(--color-brand-red);
+  padding-bottom: var(--spacing-sm);
+  margin-bottom: var(--spacing-xs);
+}
+
+.team-page__aliases {
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-sm);
+  margin: 0;
+}
+
+/* ===== Section headings ===== */
+.team-page__records h2,
+.team-page__schedule h2,
+.team-page__rosters h2 {
+  position: relative;
+  padding-left: var(--spacing-md);
+  margin-top: var(--spacing-2xl);
+  margin-bottom: var(--spacing-lg);
+}
+
+.team-page__records h2::before,
+.team-page__schedule h2::before,
+.team-page__rosters h2::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  background-color: var(--color-brand-red);
+  border-radius: var(--radius-sm);
+}
+
+.team-page__records,
+.team-page__schedule,
+.team-page__rosters {
+  margin-bottom: var(--spacing-2xl);
+}
+
+/* ===== Per-season blocks ===== */
+.team-page__season-roster,
+.team-page__season-schedule {
+  margin-bottom: var(--spacing-xl);
+}
+
+.team-page__season-roster h3,
+.team-page__season-schedule h3 {
+  font-size: var(--font-size-lg);
+  margin-bottom: var(--spacing-md);
+}
+
+.team-page__season-roster .roster-table h4 {
+  color: var(--color-brand-red);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-semibold);
+  margin-top: var(--spacing-lg);
+  margin-bottom: var(--spacing-sm);
+}
+
+.team-page__season-roster .roster-table:first-of-type h4 {
+  margin-top: 0;
+}
+
+/* ===== Schedule location indicator (vs / @) ===== */
+.team-schedule__loc {
+  display: inline-block;
+  width: 1.5rem;
+  color: var(--color-text-muted);
+  font-weight: var(--font-weight-semibold);
+}

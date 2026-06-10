@@ -19,6 +19,7 @@
 .division-rosters h2 {
   position: relative;
   padding-left: var(--spacing-md);
+  margin-top: var(--spacing-2xl);
   margin-bottom: var(--spacing-lg);
 }
 
@@ -33,6 +34,10 @@
   width: 4px;
   background-color: var(--color-brand-red);
   border-radius: var(--radius-sm);
+}
+
+.division-standings:first-of-type h2 {
+  margin-top: 0;
 }
 
 /* ===== Sections spacing ===== */
@@ -71,7 +76,12 @@
   color: var(--color-brand-red);
   font-size: var(--font-size-base);
   font-weight: var(--font-weight-semibold);
+  margin-top: var(--spacing-lg);
   margin-bottom: var(--spacing-sm);
+}
+
+.division-rosters__team .roster-table:first-of-type h4 {
+  margin-top: 0;
 }
 
 /* ===== Schedule result coloring ===== */
@@ -121,4 +131,86 @@
   font-weight: var(--font-weight-bold);
   font-variant-numeric: tabular-nums;
   font-size: var(--font-size-base);
+}
+
+/* ===== Division (league) leaders ===== */
+.division-leaders {
+  margin-bottom: var(--spacing-2xl);
+}
+
+.division-leaders h2 {
+  position: relative;
+  padding-left: var(--spacing-md);
+  margin-top: var(--spacing-2xl);
+  margin-bottom: var(--spacing-lg);
+}
+
+.division-leaders h2::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  background-color: var(--color-brand-red);
+  border-radius: var(--radius-sm);
+}
+
+.division-leaders__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: var(--spacing-lg);
+}
+
+.division-leaders__card {
+  background-color: var(--color-bg-secondary);
+  border: 1px solid var(--color-border-light);
+  border-radius: var(--radius-lg);
+  padding: var(--spacing-md) var(--spacing-lg);
+}
+
+.division-leaders__card h3 {
+  color: var(--color-brand-red);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-semibold);
+  margin: 0 0 var(--spacing-sm);
+  padding-bottom: var(--spacing-xs);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.division-leaders__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.division-leaders__row {
+  display: flex;
+  align-items: baseline;
+  gap: var(--spacing-sm);
+  padding: var(--spacing-xs) 0;
+  font-size: var(--font-size-sm);
+}
+
+.division-leaders__rank {
+  flex: 0 0 1.5rem;
+  color: var(--color-text-muted);
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.division-leaders__name {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.division-leaders__team {
+  color: var(--color-text-muted);
+  font-size: var(--font-size-xs);
+}
+
+.division-leaders__value {
+  flex: 0 0 auto;
+  font-weight: var(--font-weight-bold);
+  font-variant-numeric: tabular-nums;
 }

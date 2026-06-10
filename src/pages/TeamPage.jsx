@@ -5,6 +5,8 @@ import Loading from '../components/Loading.jsx';
 import ErrorMessage from '../components/ErrorMessage.jsx';
 import PlayerLink from '../components/PlayerLink.jsx';
 import StatsTable from '../components/StatsTable.jsx';
+import '../styles/team-page.css';
+import '../styles/division-page.css';
 
 /**
  * Convert a season name to a URL slug.
@@ -115,12 +117,158 @@ export default function TeamPage() {
 
       <SeasonRecordTable seasons={team.seasons} />
 
+      <TeamScheduleSection teamId={teamId} seasons={team.seasons} />
+
       <section className="team-page__rosters">
         <h2>Rosters</h2>
         {team.seasons.map((season, index) => (
           <SeasonRoster key={`${season.divId}-${index}`} season={season} />
         ))}
       </section>
+    </div>
+  );
+}
+
+/**
+ * Team schedule section: for each season, fetches that division's schedule and
+ * scores, then shows the games this team played with result coloring.
+ */
+function TeamScheduleSection({ teamId, seasons }) {
+  const [scheduleData, setScheduleData] = useState({}); // divId → { schedule, scores }
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    let cancelled = false;
+    setLoading(true);
+
+    Promise.all(
+      seasons.map((season) => {
+        const base = `/data/divisions/${season.divId}`;
+        return Promise.all([
+          fetch(`${base}/schedule.regular.json`).then((r) => (r.ok ? r.json() : null)).catch(() => null),
+          fetch(`${base}/scores.json`).then((r) => (r.ok ? r.json() : null)).catch(() => null),
+        ]).then(([schedule, scores]) => ({ divId: season.divId, schedule, scores }));
+      })
+    ).then((results) => {
+      if (cancelled) return;
+      const map = {};
+      for (const { divId, schedule, scores } of results) {
+        map[divId] = { schedule, scores };
+      }
+      setScheduleData(map);
+      setLoading(false);
+    });
+
+    return () => { cancelled = true; };
+  }, [seasons]);
+
+  if (loading) return null;
+
+  return (
+    <section className="team-page__schedule">
+      <h2>Schedule</h2>
+      {seasons.map((season, index) => (
+        <TeamSeasonSchedule
+          key={`${season.divId}-sched-${index}`}
+          teamId={teamId}
+          season={season}
+          data={scheduleData[season.divId]}
+        />
+      ))}
+    </section>
+  );
+}
+
+/**
+ * Schedule of a single season for the current team, with result coloring.
+ */
+function TeamSeasonSchedule({ teamId, season, data }) {
+  if (!data || !data.schedule || !data.schedule.records) return null;
+
+  const scoreMap = data.scores?.scores || {};
+
+  // Only games involving this team
+  const games = data.schedule.records.filter(
+    (g) => String(g.home?.teamId) === String(teamId) || String(g.away?.teamId) === String(teamId)
+  );
+
+  if (games.length === 0) return null;
+
+  const columns = [
+    { key: 'date', label: 'Date', sortable: false },
+    {
+      key: 'opponent',
+      label: 'Opponent',
+      sortable: false,
+      cellClass: (val, row) => row.resultClass,
+      render: (val, row) => (
+        <span className="schedule-team">
+          <span>
+            <span className="team-schedule__loc">{row.homeAway}</span>{' '}
+            {row.opponentId ? <TeamLink teamId={row.opponentId} name={val} /> : val}
+          </span>
+          {row.played && (
+            <span className="schedule-team__score">{row.teamScore}–{row.oppScore}</span>
+          )}
+        </span>
+      ),
+    },
+    {
+      key: 'link',
+      label: '',
+      sortable: false,
+      render: (val, row) =>
+        row.gameId ? (
+          <Link to={`/games/${row.gameId}`}>
+            Box Score{row.ot ? ' (OT)' : ''}
+          </Link>
+        ) : '—',
+    },
+  ];
+
+  const data2 = games.map((g, idx) => {
+    const isHome = String(g.home?.teamId) === String(teamId);
+    const opponent = isHome ? g.away : g.home;
+    const result = g.gameId ? scoreMap[g.gameId] || null : null;
+
+    let teamScore = null;
+    let oppScore = null;
+    let resultClass;
+    if (result) {
+      teamScore = result.homeTeamId === String(teamId) ? result.homeScore : result.awayScore;
+      oppScore = result.homeTeamId === String(teamId) ? result.awayScore : result.homeScore;
+      if (result.tie) {
+        resultClass = 'cell-result--tie';
+      } else if (result.winnerTeamId === String(teamId)) {
+        resultClass = 'cell-result--win';
+      } else {
+        resultClass = result.ot ? 'cell-result--otl' : 'cell-result--loss';
+      }
+    }
+
+    return {
+      id: g.gameId || `g-${idx}`,
+      date: g.date,
+      opponent: opponent?.name || '',
+      opponentId: opponent?.teamId,
+      homeAway: isHome ? 'vs' : '@',
+      played: !!result,
+      teamScore,
+      oppScore,
+      ot: result?.ot,
+      resultClass,
+      gameId: g.gameId,
+    };
+  });
+
+  return (
+    <div className="team-page__season-schedule">
+      <h3>
+        <Link to={`/seasons/${toSeasonSlug(season.seasonName)}/divisions/${season.divId}`}>
+          {season.seasonName} — {season.divisionLabel}
+        </Link>
+      </h3>
+      <StatsTable columns={columns} data={data2} defaultSort="date" defaultDirection="asc" />
     </div>
   );
 }

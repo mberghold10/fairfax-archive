@@ -35,6 +35,7 @@ import { copyStaticFiles } from './aggregate/copyStaticFiles.mjs';
 import { buildStandings } from './aggregate/standings.mjs';
 import { buildRosterTeams } from './aggregate/rosterTeams.mjs';
 import { buildScores } from './aggregate/scores.mjs';
+import { buildDivisionLeaders } from './aggregate/divisionLeaders.mjs';
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url));
 const PROJECT_ROOT = resolve(__dirname, '..');
@@ -158,6 +159,11 @@ async function main() {
   // ── 12. Game Scores ──────────────────────────────────────────────────────────
   await runStep('Scores', async () => {
     await buildScores(ARCHIVE_ROOT, OUTPUT_DIR);
+  });
+
+  // ── 13. Division Leaders ─────────────────────────────────────────────────────
+  await runStep('Division Leaders', async () => {
+    await buildDivisionLeaders(ARCHIVE_ROOT, OUTPUT_DIR);
   });
 
   // ── Summary ────────────────────────────────────────────────────────────────
