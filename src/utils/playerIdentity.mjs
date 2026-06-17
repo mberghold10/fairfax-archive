@@ -71,7 +71,7 @@ export function buildPlayerProfiles(seasons) {
   const entries = []
   for (const season of seasons) {
     for (const p of (season.skaters || [])) {
-      if (!p.name || p.name.toLowerCase().includes('substitute')) continue
+      if (!p.name || /^substit/i.test(p.name)) continue
       entries.push({ ...p, seasonName: season.seasonName, seasonId: season.seasonId })
     }
   }
@@ -172,7 +172,7 @@ export function buildGoalieProfiles(seasons) {
   const entries = []
   for (const season of seasons) {
     for (const g of (season.goalies || [])) {
-      if (!g.name || g.name.toLowerCase().includes('substitute')) continue
+      if (!g.name || /^substit/i.test(g.name)) continue
       entries.push({ ...g, seasonName: season.seasonName, seasonId: season.seasonId })
     }
   }

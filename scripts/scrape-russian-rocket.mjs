@@ -197,7 +197,7 @@ function parseSkaterTable(tableHtml) {
   for (let i = 1; i < rows.length; i++) {
     const r = rows[i];
     const name = r[nameIdx >= 0 ? nameIdx : 1] || '';
-    if (!name || name.toLowerCase().includes('substitute') || name.toLowerCase() === 'name') continue;
+    if (!name || /^substit/i.test(name) || name.toLowerCase() === 'name') continue;
     skaters.push({
       number: r[0] || '',
       name,
@@ -220,7 +220,7 @@ function parseGoalieTable(tableHtml) {
   for (let i = 1; i < rows.length; i++) {
     const r = rows[i];
     const name = r[nameIdx >= 0 ? nameIdx : 1] || '';
-    if (!name || name.toLowerCase().includes('substitute') || name.toLowerCase() === 'name') continue;
+    if (!name || /^substit/i.test(name) || name.toLowerCase() === 'name') continue;
     const sa = +r[col('sa')] || 0;
     const sv = +r[col('sv')] || 0;
     const gp = +r[col('gp')] || 0;

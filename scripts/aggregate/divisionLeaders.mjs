@@ -26,7 +26,7 @@ function playerId(name) {
 }
 
 function isSubstitute(name) {
-  return !name || name.toLowerCase().includes('substitute');
+  return !name || /^substit/i.test(name);
 }
 
 /**

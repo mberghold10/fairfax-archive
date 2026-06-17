@@ -22,7 +22,6 @@ export default function TeamsPage() {
     fetch('/data/season-catalog.json')
       .then(r => { if (!r.ok) throw new Error('Failed to load catalog'); return r.json(); })
       .then(catalog => {
-        // Build canonical team list: name → { seasons, mostRecentSeason }
         const teamMap = new Map();
         for (const season of catalog.seasons) {
           for (const div of season.divisions) {
@@ -34,7 +33,6 @@ export default function TeamsPage() {
             }
           }
         }
-        // Sort alphabetically
         setTeams([...teamMap.values()].sort((a, b) => a.name.localeCompare(b.name)));
         setLoading(false);
       })

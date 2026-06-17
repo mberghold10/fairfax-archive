@@ -193,7 +193,7 @@ async function scrapeRoster(teamId, mode, divId) {
 
     for (const row of rows) {
       const name = row[nameIdx >= 0 ? nameIdx : 1] || '';
-      if (!name || name.toLowerCase().includes('substitute') || name.toLowerCase() === 'name') continue;
+      if (!name || /^substit/i.test(name) || name.toLowerCase() === 'name') continue;
 
       if (isGoalie) {
         const sa = parseInt(row[col('sa')] || '0', 10) || 0;

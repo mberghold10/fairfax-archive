@@ -181,9 +181,23 @@ function TeamSeasonSchedule({ teamId, season, data }) {
 
   function buildRows(records, isPlayoff) {
     return records
-      .filter(g => String(g.home?.teamId) === teamId || String(g.away?.teamId) === teamId)
+      .filter(g => {
+        const homeId = String(g.home?.teamId);
+        const awayId = String(g.away?.teamId);
+        // Regular season: match by teamId
+        if (homeId === teamId || awayId === teamId) return true;
+        // Playoff: teamIds are null — look up via scores.json which has real teamIds
+        if (isPlayoff && g.gameId) {
+          const result = scoreMap[g.gameId];
+          if (result) {
+            return result.homeTeamId === teamId || result.awayTeamId === teamId;
+          }
+        }
+        return false;
+      })
       .map((g, idx) => {
-        const isHome = String(g.home?.teamId) === teamId;
+        const isHome = String(g.home?.teamId) === teamId ||
+          (g.home?.teamId === null && scoreMap[g.gameId]?.homeTeamId === teamId);
         const opponent = isHome ? g.away : g.home;
         const result = g.gameId ? scoreMap[g.gameId] || null : null;
         // Use game file teamIds from scores when schedule has nulls (playoff games)
@@ -298,7 +312,7 @@ function AllTimeLeaders({ seasons }) {
 
     for (const season of seasons) {
       for (const s of (season.roster?.skaters || [])) {
-        if (!s.name || s.name.toLowerCase().includes('substitute')) continue;
+        if (!s.name || /^substit/i.test(s.name)) continue;
         if (!skaterTotals[s.name]) skaterTotals[s.name] = { g: 0, a: 0, pts: 0, pim: 0, gp: 0 };
         skaterTotals[s.name].g += s.g || 0;
         skaterTotals[s.name].a += s.a || 0;
@@ -307,7 +321,7 @@ function AllTimeLeaders({ seasons }) {
         skaterTotals[s.name].gp += s.gp || 0;
       }
       for (const g of (season.roster?.goalies || [])) {
-        if (!g.name || g.name.toLowerCase().includes('substitute')) continue;
+        if (!g.name || /^substit/i.test(g.name)) continue;
         if (!goalieTotals[g.name]) goalieTotals[g.name] = { w: 0, gp: 0, sa: 0 };
         goalieTotals[g.name].w += g.w || 0;
         goalieTotals[g.name].gp += g.gp || 0;

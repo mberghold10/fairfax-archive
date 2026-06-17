@@ -95,7 +95,7 @@ async function readAllGoalieEntries(archiveDir, gamesDir) {
         const goalies = teamData.goalies || [];
 
         for (const g of goalies) {
-          if (!g.name || g.name.toLowerCase().includes('substitute')) continue;
+          if (!g.name || /^substit/i.test(g.name)) continue;
 
           allGoalies.push({
             name: g.name,

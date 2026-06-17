@@ -151,7 +151,7 @@ function clusterSkaters(entries) {
   const blockIndex = new Map();
 
   for (const entry of entries) {
-    if (!entry.name || entry.name.toLowerCase().includes('substitute')) continue;
+    if (!entry.name || /^substit/i.test(entry.name)) continue;
 
     const norm = normalizeName(entry.name);
     const num = entry.number?.toString().replace(/\D/g, '') || '';
