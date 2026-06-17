@@ -36,6 +36,7 @@ import { buildStandings } from './aggregate/standings.mjs';
 import { buildRosterTeams } from './aggregate/rosterTeams.mjs';
 import { buildScores } from './aggregate/scores.mjs';
 import { buildDivisionLeaders } from './aggregate/divisionLeaders.mjs';
+import { buildH2HPlayerStats } from './aggregate/h2hPlayerStats.mjs';
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url));
 const PROJECT_ROOT = resolve(__dirname, '..');
@@ -164,6 +165,11 @@ async function main() {
   // ── 13. Division Leaders ─────────────────────────────────────────────────────
   await runStep('Division Leaders', async () => {
     await buildDivisionLeaders(ARCHIVE_ROOT, OUTPUT_DIR);
+  });
+
+  // ── 14. H2H Player Stats ─────────────────────────────────────────────────────
+  await runStep('H2H Player Stats', async () => {
+    await buildH2HPlayerStats(ARCHIVE_ROOT, OUTPUT_DIR);
   });
 
   // ── Summary ────────────────────────────────────────────────────────────────

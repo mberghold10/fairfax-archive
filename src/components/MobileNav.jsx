@@ -9,7 +9,11 @@ export default function MobileNav({ open, onClose }) {
       aria-label="Mobile navigation"
     >
       <NavLink to="/" end onClick={onClose}>Seasons</NavLink>
+      <NavLink to="/teams" onClick={onClose}>Teams</NavLink>
+      <NavLink to="/players" onClick={onClose}>Players</NavLink>
       <NavLink to="/leaders" onClick={onClose}>Leaders</NavLink>
+      <NavLink to="/head-to-head" onClick={onClose}>Matchups</NavLink>
+      <NavLink to="/feedback" onClick={onClose}>Feedback</NavLink>
 
       <div className="mobile-nav-search">
         <SearchOverlay />

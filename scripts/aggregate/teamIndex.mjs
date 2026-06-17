@@ -32,6 +32,24 @@ export async function buildTeamIndex(archiveDir, outputDir) {
   const divisionsDir = join(archiveDir, 'divisions');
   const gamesDir = join(archiveDir, 'games');
 
+  // Load the team identity map (canonical name → [teamId, ...])
+  // Falls back gracefully if the file doesn't exist yet.
+  let identityMap = {}; // teamId → canonicalName
+  let canonicalNames = {}; // canonicalName → [teamId]
+  try {
+    const raw = await readFile(join(archiveDir, 'team-identity.json'), 'utf-8');
+    const parsed = JSON.parse(raw);
+    canonicalNames = parsed.teams || {};
+    for (const [name, ids] of Object.entries(canonicalNames)) {
+      for (const id of ids) {
+        identityMap[String(id)] = name;
+      }
+    }
+    console.log(`  Loaded team identity map: ${Object.keys(canonicalNames).length} canonical teams`);
+  } catch {
+    console.log('  No team-identity.json found — each team ID will be its own entry');
+  }
+
   const entries = await readdir(divisionsDir, { withFileTypes: true });
   const divDirs = entries.filter(e => e.isDirectory());
 
@@ -96,22 +114,100 @@ export async function buildTeamIndex(archiveDir, outputDir) {
   }
 
   // Build team data from divisions
-  const teamIndex = buildTeamIndexFromData(validDivisions, gameScores);
+  const teamIndex = buildTeamIndexFromData(validDivisions, gameScores, identityMap);
 
-  // Write per-team files
+  // Merge teams that share a canonical name from the identity map.
+  // For each canonical name, combine their seasons into one multi-season entry.
+  const mergedIndex = mergeByCanonicalName(teamIndex, canonicalNames);
+
+  // Write per-team files (keyed by canonical slug) and a teamId→slug lookup
   const teamsOutputDir = join(outputDir, 'teams');
   await mkdir(teamsOutputDir, { recursive: true });
 
-  const teamIds = Object.keys(teamIndex);
+  const teamIdToSlug = {}; // teamId → slug, for frontend lookups
+
+  const slugEntries = Object.entries(mergedIndex);
   await Promise.all(
-    teamIds.map(async (teamId) => {
-      const teamDetail = teamIndex[teamId];
-      const outputPath = join(teamsOutputDir, `${teamId}.json`);
+    slugEntries.map(async ([slug, teamDetail]) => {
+      const outputPath = join(teamsOutputDir, `${slug}.json`);
       await writeFile(outputPath, JSON.stringify(teamDetail, null, 2), 'utf-8');
+      for (const id of (teamDetail.teamIds || [teamDetail.teamId])) {
+        teamIdToSlug[String(id)] = slug;
+      }
     })
   );
 
-  return { teamCount: teamIds.length };
+  // Also write legacy per-id files that redirect to the slug
+  // (so old /teams/{id} links still work via the frontend lookup)
+  await writeFile(
+    join(teamsOutputDir, 'team-id-index.json'),
+    JSON.stringify(teamIdToSlug, null, 2),
+    'utf-8'
+  );
+
+  return { teamCount: slugEntries.length };
+}
+
+/**
+ * Convert a canonical team name to a URL-safe slug.
+ * e.g. "D 4th Liners" → "d-4th-liners"
+ */
+function toTeamSlug(name) {
+  return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+}
+
+/**
+ * Merge individual team entries that share a canonical name into
+ * single multi-season entries keyed by slug.
+ */
+function mergeByCanonicalName(teamIndex, canonicalNames) {
+  const merged = {};
+
+  // Build a reverse map: teamId → slug
+  const idToSlug = {};
+  for (const [name, ids] of Object.entries(canonicalNames)) {
+    const slug = toTeamSlug(name);
+    for (const id of ids) idToSlug[String(id)] = slug;
+  }
+
+  for (const [teamId, detail] of Object.entries(teamIndex)) {
+    const slug = idToSlug[String(teamId)] || toTeamSlug(detail.teamName) || teamId;
+
+    if (!merged[slug]) {
+      merged[slug] = {
+        slug,
+        teamName: detail.teamName,
+        aliases: [...(detail.aliases || [])],
+        teamIds: [teamId],
+        seasons: [...detail.seasons],
+      };
+    } else {
+      // Merge aliases
+      for (const alias of (detail.aliases || [])) {
+        if (!merged[slug].aliases.includes(alias)) merged[slug].aliases.push(alias);
+      }
+      if (detail.teamName !== merged[slug].teamName &&
+          !merged[slug].aliases.includes(detail.teamName)) {
+        merged[slug].aliases.push(detail.teamName);
+      }
+      // Merge team IDs
+      if (!merged[slug].teamIds.includes(teamId)) merged[slug].teamIds.push(teamId);
+      // Merge seasons (avoid duplicates by divId)
+      const existingDivIds = new Set(merged[slug].seasons.map(s => s.divId));
+      for (const season of detail.seasons) {
+        if (!existingDivIds.has(season.divId)) {
+          merged[slug].seasons.push(season);
+        }
+      }
+    }
+  }
+
+  // Sort each team's seasons by divId descending (most recent first)
+  for (const entry of Object.values(merged)) {
+    entry.seasons.sort((a, b) => Number(b.divId) - Number(a.divId));
+  }
+
+  return merged;
 }
 
 /**
@@ -164,7 +260,7 @@ async function loadGameScores(gamesDir, gameIds) {
  * @param {Map} gameScores - Map of gameId → score data
  * @returns {Record<string, TeamDetail>}
  */
-export function buildTeamIndexFromData(divisions, gameScores) {
+export function buildTeamIndexFromData(divisions, gameScores, identityMap = {}) {
   // teamId → { teamName, aliases: Set, seasons: [] }
   const teams = new Map();
 

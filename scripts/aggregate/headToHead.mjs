@@ -82,7 +82,8 @@ export function computeMatchupFromGames(games) {
       seasonName: game.seasonName || '',
       divId: String(game.divId || ''),
       homeTeamId: homeTeamId,
-      score: { home: homeScore, away: awayScore }
+      score: { home: homeScore, away: awayScore },
+      playoff: game.playoff || false,
     });
   }
 
@@ -224,7 +225,8 @@ export async function buildHeadToHead(archiveDir, outputDir) {
           seasonName: game.seasonName || seasonName,
           divId: String(game.divId || divId),
           homeTeamId: homeTeamId,
-          score: { home: homeScore, away: awayScore }
+          score: { home: homeScore, away: awayScore },
+          playoff: mode === 'playoff',
         });
       }
     }

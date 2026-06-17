@@ -1,0 +1,93 @@
+name: Scrape current season
+
+on:
+  # Run every night at 6am UTC
+  schedule:
+    - cron: '0 6 * * *'
+  # Also allow manual trigger from GitHub Actions UI
+  workflow_dispatch:
+    inputs:
+      div_id:
+        description: 'Division ID to scrape (leave blank for all known seasons)'
+        required: false
+      team_id:
+        description: 'Team ID to scrape (required if div_id is set)'
+        required: false
+      dry_run:
+        description: 'Dry run only (no files written)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # needed to commit updated archive files
+  pages: write
+  id-token: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # Use a token so the commit can trigger the deploy workflow
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Check for new season
+        id: season_check
+        run: |
+          node scripts/scrape-stiltweb.mjs --check-only
+          echo "exit_code=$?" >> $GITHUB_OUTPUT
+        continue-on-error: true
+
+      - name: Scrape current season data
+        if: ${{ inputs.dry_run != 'true' }}
+        run: |
+          if [ -n "${{ inputs.div_id }}" ] && [ -n "${{ inputs.team_id }}" ]; then
+            node scripts/scrape-stiltweb.mjs --div ${{ inputs.div_id }} --team ${{ inputs.team_id }}
+          else
+            node scripts/scrape-stiltweb.mjs
+          fi
+
+      - name: Scrape (dry run)
+        if: ${{ inputs.dry_run == 'true' }}
+        run: |
+          if [ -n "${{ inputs.div_id }}" ] && [ -n "${{ inputs.team_id }}" ]; then
+            node scripts/scrape-stiltweb.mjs --dry-run --div ${{ inputs.div_id }} --team ${{ inputs.team_id }}
+          else
+            node scripts/scrape-stiltweb.mjs --dry-run
+          fi
+
+      - name: Check if archive changed
+        id: diff_check
+        run: |
+          if git diff --quiet archive/; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No archive changes detected"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Archive changed — will commit and rebuild"
+          fi
+
+      - name: Commit updated archive data
+        if: ${{ steps.diff_check.outputs.changed == 'true' && inputs.dry_run != 'true' }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add archive/
+          git commit -m "chore: auto-scrape $(date -u '+%Y-%m-%d')"
+          git push
+
+      - name: Trigger deploy
+        if: ${{ steps.diff_check.outputs.changed == 'true' && inputs.dry_run != 'true' }}
+        run: |
+          echo "Archive updated — deploy workflow will be triggered by the push above"

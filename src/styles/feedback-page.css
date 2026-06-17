@@ -1,0 +1,114 @@
+/*
+ * FeedbackPage styles
+ */
+
+.feedback-page {
+  padding-bottom: var(--spacing-xl);
+  max-width: 640px;
+}
+
+.feedback-page__title {
+  border-bottom: 3px solid var(--color-brand-red);
+  padding-bottom: var(--spacing-sm);
+  margin-bottom: var(--spacing-lg);
+}
+
+.feedback-page__intro {
+  margin-bottom: var(--spacing-xl);
+}
+
+.feedback-page__intro p {
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-sm);
+  line-height: var(--line-height-relaxed);
+  margin: 0 0 var(--spacing-sm);
+}
+
+/* ===== Form ===== */
+.feedback-page__form {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-lg);
+}
+
+.feedback-page__field {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xs);
+}
+
+.feedback-page__label {
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-primary);
+}
+
+.feedback-page__optional {
+  font-weight: var(--font-weight-normal);
+  color: var(--color-text-muted);
+}
+
+.feedback-page__required {
+  color: var(--color-brand-red);
+}
+
+.feedback-page__input,
+.feedback-page__select,
+.feedback-page__textarea {
+  width: 100%;
+}
+
+.feedback-page__textarea {
+  resize: vertical;
+  min-height: 120px;
+}
+
+.feedback-page__submit {
+  align-self: flex-start;
+  padding: var(--spacing-sm) var(--spacing-xl);
+  background-color: var(--color-brand-red);
+  color: #ffffff;
+  border: none;
+  border-radius: var(--radius-md);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-semibold);
+  cursor: pointer;
+  transition: opacity var(--transition-fast);
+}
+
+.feedback-page__submit:hover:not(:disabled) {
+  opacity: 0.85;
+}
+
+.feedback-page__submit:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* ===== Status messages ===== */
+.feedback-page__success {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--spacing-md);
+  padding: var(--spacing-lg);
+  background-color: rgba(34, 139, 34, 0.1);
+  border: 1px solid rgba(34, 139, 34, 0.3);
+  border-radius: var(--radius-lg);
+}
+
+.feedback-page__success-icon {
+  font-size: var(--font-size-xl);
+  color: #228B22;
+  line-height: 1;
+}
+
+.feedback-page__success p {
+  margin: 0;
+  color: var(--color-text-primary);
+}
+
+.feedback-page__error {
+  color: var(--color-brand-red);
+  font-size: var(--font-size-sm);
+  margin: 0;
+}

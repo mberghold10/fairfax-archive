@@ -48,7 +48,9 @@ function generatePlayerIdFromName(name) {
 
 /**
  * TeamPage displays a team's history: season-by-season records and rosters.
- * Fetches pre-computed team detail from /data/teams/{teamId}.json.
+ * Fetches pre-computed team detail from /data/teams/{slug}.json.
+ * The slug may be a canonical name slug (e.g. "pharaohs") or a legacy team ID.
+ * If a legacy ID is provided, we resolve it via team-id-index.json first.
  */
 export default function TeamPage() {
   const { teamId } = useParams();
@@ -62,18 +64,26 @@ export default function TeamPage() {
     setError(null);
     setNotFound(false);
 
+    // First try fetching the teamId directly as a slug.
+    // If 404, check the id-index to find the canonical slug.
     fetch(`/data/teams/${teamId}.json`)
       .then((res) => {
         if (res.ok) return res.json();
-        if (res.status === 404) return null;
+        if (res.status === 404) {
+          // Try resolving via the team-id-index
+          return fetch('/data/teams/team-id-index.json')
+            .then((r) => r.ok ? r.json() : {})
+            .then((index) => {
+              const slug = index[String(teamId)];
+              if (!slug) return null;
+              return fetch(`/data/teams/${slug}.json`).then((r) => r.ok ? r.json() : null);
+            });
+        }
         throw new Error('Failed to load team data');
       })
       .then((data) => {
-        if (!data) {
-          setNotFound(true);
-        } else {
-          setTeam(data);
-        }
+        if (!data) setNotFound(true);
+        else setTeam(data);
         setLoading(false);
       })
       .catch((err) => {
@@ -360,11 +370,11 @@ function SeasonRoster({ season }) {
  */
 function SkaterRoster({ skaters }) {
   const columns = [
-    { key: 'number', label: '#', sortable: true },
+    { key: 'numberSort', label: '#', sortable: true, render: (val, row) => row.number },
     {
       key: 'name',
       label: 'Name',
-      sortable: false,
+      sortable: true,
       render: (val) => (
         <PlayerLink playerId={generatePlayerIdFromName(val)} name={val} />
       ),
@@ -380,6 +390,7 @@ function SkaterRoster({ skaters }) {
     id: `skater-${idx}-${s.number}`,
     name: s.name,
     number: s.number,
+    numberSort: parseInt(s.number, 10) || 0,
     gp: s.gp,
     g: s.g,
     a: s.a,
@@ -390,21 +401,22 @@ function SkaterRoster({ skaters }) {
   return (
     <div className="roster-table">
       <h4>Skaters</h4>
-      <StatsTable columns={columns} data={data} defaultSort="pts" defaultDirection="desc" />
+      <StatsTable columns={columns} data={data} defaultSort="numberSort" defaultDirection="asc" />
     </div>
   );
 }
 
 /**
+/**
  * Goalie stats table with PlayerLink for each goalie name.
  */
 function GoalieRoster({ goalies }) {
   const columns = [
-    { key: 'number', label: '#', sortable: true },
+    { key: 'numberSort', label: '#', sortable: true, render: (val, row) => row.number },
     {
       key: 'name',
       label: 'Name',
-      sortable: false,
+      sortable: true,
       render: (val) => (
         <PlayerLink playerId={generatePlayerIdFromName(val)} name={val} />
       ),
@@ -421,6 +433,7 @@ function GoalieRoster({ goalies }) {
     id: `goalie-${idx}-${g.number}`,
     name: g.name,
     number: g.number,
+    numberSort: parseInt(g.number, 10) || 0,
     gp: g.gp,
     w: g.w,
     l: g.l,
@@ -432,7 +445,7 @@ function GoalieRoster({ goalies }) {
   return (
     <div className="roster-table">
       <h4>Goalies</h4>
-      <StatsTable columns={columns} data={data} defaultSort="w" defaultDirection="desc" />
+      <StatsTable columns={columns} data={data} defaultSort="numberSort" defaultDirection="asc" />
     </div>
   );
 }

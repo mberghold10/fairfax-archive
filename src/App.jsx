@@ -7,10 +7,13 @@ const SeasonPage = lazy(() => import('./pages/SeasonPage'));
 const DivisionPage = lazy(() => import('./pages/DivisionPage'));
 const GamePage = lazy(() => import('./pages/GamePage'));
 const PlayerPage = lazy(() => import('./pages/PlayerPage'));
+const PlayersPage = lazy(() => import('./pages/PlayersPage'));
 const TeamPage = lazy(() => import('./pages/TeamPage'));
+const TeamsPage = lazy(() => import('./pages/TeamsPage'));
 const HeadToHeadPage = lazy(() => import('./pages/HeadToHeadPage'));
 const LeadersPage = lazy(() => import('./pages/LeadersPage'));
 const SuspensionsPage = lazy(() => import('./pages/SuspensionsPage'));
+const FeedbackPage = lazy(() => import('./pages/FeedbackPage'));
 const NotFoundPage = lazy(() => import('./pages/NotFoundPage'));
 
 export default function App() {
@@ -23,12 +26,15 @@ export default function App() {
             <Route path="/seasons/:seasonSlug" element={<SeasonPage />} />
             <Route path="/seasons/:seasonSlug/divisions/:divId" element={<DivisionPage />} />
             <Route path="/games/:gameId" element={<GamePage />} />
+            <Route path="/players" element={<PlayersPage />} />
             <Route path="/players/:playerId" element={<PlayerPage />} />
+            <Route path="/teams" element={<TeamsPage />} />
             <Route path="/teams/:teamId" element={<TeamPage />} />
             <Route path="/head-to-head" element={<HeadToHeadPage />} />
             <Route path="/head-to-head/:team1/:team2" element={<HeadToHeadPage />} />
             <Route path="/leaders" element={<LeadersPage />} />
             <Route path="/suspensions" element={<SuspensionsPage />} />
+            <Route path="/feedback" element={<FeedbackPage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Routes>
         </Suspense>

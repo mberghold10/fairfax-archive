@@ -474,14 +474,15 @@ function RostersSection({ rosters, meta }) {
 }
 
 /**
- * Skater stats table: Name, #, GP, G, A, PTS, PIM
+ * Skater stats table: #, Name, GP, G, A, PTS, PIM
+ * Default sort: jersey number ascending. Name and all stats also sortable.
  */
 function SkaterRoster({ skaters }) {
   if (!skaters || skaters.length === 0) return null;
 
   const columns = [
-    { key: 'number', label: '#' },
-    { key: 'name', label: 'Name', sortable: false, render: (val, row) => (
+    { key: 'numberSort', label: '#', render: (val, row) => row.number },
+    { key: 'name', label: 'Name', render: (val, row) => (
       <PlayerLink playerId={row.playerKey} name={val} />
     )},
     { key: 'gp', label: 'GP' },
@@ -496,6 +497,7 @@ function SkaterRoster({ skaters }) {
     playerKey: s.playerKey,
     name: s.name,
     number: s.number,
+    numberSort: parseInt(s.number, 10) || 0,
     gp: s.gp,
     g: s.g,
     a: s.a,
@@ -506,20 +508,21 @@ function SkaterRoster({ skaters }) {
   return (
     <div className="roster-table">
       <h4>Skaters</h4>
-      <StatsTable columns={columns} data={data} defaultSort="pts" defaultDirection="desc" />
+      <StatsTable columns={columns} data={data} defaultSort="numberSort" defaultDirection="asc" />
     </div>
   );
 }
 
 /**
- * Goalie stats table: Name, #, GP, W, L, T, GAA, SV%
+ * Goalie stats table: #, Name, GP, W, L, T, GAA, SV%
+ * Default sort: jersey number ascending.
  */
 function GoalieRoster({ goalies }) {
   if (!goalies || goalies.length === 0) return null;
 
   const columns = [
-    { key: 'number', label: '#' },
-    { key: 'name', label: 'Name', sortable: false, render: (val, row) => (
+    { key: 'numberSort', label: '#', render: (val, row) => row.number },
+    { key: 'name', label: 'Name', render: (val, row) => (
       <PlayerLink playerId={row.playerKey} name={val} />
     )},
     { key: 'gp', label: 'GP' },
@@ -535,6 +538,7 @@ function GoalieRoster({ goalies }) {
     playerKey: g.playerKey,
     name: g.name,
     number: g.number,
+    numberSort: parseInt(g.number, 10) || 0,
     gp: g.gp,
     w: g.w,
     l: g.l,
@@ -546,7 +550,7 @@ function GoalieRoster({ goalies }) {
   return (
     <div className="roster-table">
       <h4>Goalies</h4>
-      <StatsTable columns={columns} data={data} defaultSort="w" defaultDirection="desc" />
+      <StatsTable columns={columns} data={data} defaultSort="numberSort" defaultDirection="asc" />
     </div>
   );
 }

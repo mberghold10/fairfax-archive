@@ -15,7 +15,11 @@ export default function Header({ onMenuToggle, menuOpen }) {
 
         <nav className="header-nav" aria-label="Main navigation">
           <NavLink to="/" end>Seasons</NavLink>
+          <NavLink to="/teams">Teams</NavLink>
+          <NavLink to="/players">Players</NavLink>
           <NavLink to="/leaders">Leaders</NavLink>
+          <NavLink to="/head-to-head">Matchups</NavLink>
+          <NavLink to="/feedback">Feedback</NavLink>
         </nav>
 
         <div className="header-search">

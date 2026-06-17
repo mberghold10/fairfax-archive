@@ -1,0 +1,79 @@
+/*
+ * PlayersPage styles
+ */
+
+.players-page {
+  padding-bottom: var(--spacing-xl);
+}
+
+.players-page__title {
+  border-bottom: 3px solid var(--color-brand-red);
+  padding-bottom: var(--spacing-sm);
+  margin-bottom: var(--spacing-xs);
+}
+
+.players-page__subtitle {
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-sm);
+  margin: 0 0 var(--spacing-lg);
+}
+
+.players-page__search {
+  width: 100%;
+  max-width: 400px;
+  margin-bottom: var(--spacing-xl);
+}
+
+.players-page__table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+}
+
+.players-page__table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--font-size-sm);
+  white-space: nowrap;
+}
+
+.players-page__table thead th {
+  background-color: var(--color-table-header-bg);
+  color: var(--color-table-header-text);
+  padding: var(--spacing-sm) var(--spacing-md);
+  text-align: left;
+  font-weight: var(--font-weight-semibold);
+  border-bottom: 2px solid var(--color-table-border);
+  position: sticky;
+  top: 0;
+}
+
+.players-page__table thead th.sortable {
+  cursor: pointer;
+  user-select: none;
+  transition: opacity var(--transition-fast);
+}
+
+.players-page__table thead th.sortable:hover {
+  opacity: 0.85;
+}
+
+.players-page__table tbody td {
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-bottom: 1px solid var(--color-table-border);
+}
+
+.players-page__table tbody tr:nth-child(even) {
+  background-color: var(--color-table-row-alt);
+}
+
+.players-page__table tbody tr:hover {
+  background-color: var(--color-bg-hover);
+}
+
+.players-page__empty {
+  color: var(--color-text-muted);
+  font-style: italic;
+  margin-top: var(--spacing-lg);
+}
