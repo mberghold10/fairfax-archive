@@ -30,6 +30,10 @@ function parseEventName(raw) {
   return `${last}, ${first}`;
 }
 
+function toTeamSlug(name) {
+  return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+}
+
 function matchupKey(a, b) {
   return a < b ? `${a}-${b}` : `${b}-${a}`;
 }
@@ -64,60 +68,59 @@ export async function buildH2HPlayerStats(archiveDir, outputDir) {
       const gameIds = matchup.games.map(g => g.gameId).filter(Boolean);
       if (gameIds.length === 0) return;
 
-      // player stats keyed by team: { [teamId]: { [name]: {g,a,pts,pim} } }
-      const statsByTeam = {};
+      // Player stats keyed by team SLUG (canonical) so multi-season stats accumulate
+      const statsBySlug = {};
 
       for (const gameId of gameIds) {
         let game;
         try {
           game = JSON.parse(await readFile(join(gamesDir, `${gameId}.json`), 'utf-8'));
         } catch {
-          continue; // No game file (RR games, future games)
+          continue;
         }
 
-        // Process goals
         for (const goal of (game.goals || [])) {
-          const teamId = String(goal.team?.teamId || '');
-          if (!teamId) continue;
-          if (!statsByTeam[teamId]) statsByTeam[teamId] = {};
-
-          const scorer = parseEventName(goal.scorer);
-          if (scorer) {
-            if (!statsByTeam[teamId][scorer]) statsByTeam[teamId][scorer] = { g: 0, a: 0, pts: 0, pim: 0 };
-            statsByTeam[teamId][scorer].g++;
-            statsByTeam[teamId][scorer].pts++;
-          }
-
-          for (const assist of [goal.assist1, goal.assist2]) {
-            const helper = parseEventName(assist);
-            if (helper) {
-              if (!statsByTeam[teamId][helper]) statsByTeam[teamId][helper] = { g: 0, a: 0, pts: 0, pim: 0 };
-              statsByTeam[teamId][helper].a++;
-              statsByTeam[teamId][helper].pts++;
-            }
+          const teamName = goal.team?.name || '';
+          const slug = toTeamSlug(teamName);
+          if (!slug) continue;
+          if (!statsBySlug[slug]) statsBySlug[slug] = { name: teamName, players: {} };
+          const addPlayer = (raw) => {
+            const n = parseEventName(raw);
+            if (!n) return;
+            if (!statsBySlug[slug].players[n]) statsBySlug[slug].players[n] = { g: 0, a: 0, pts: 0, pim: 0 };
+            statsBySlug[slug].players[n].g++;
+            statsBySlug[slug].players[n].pts++;
+          };
+          addPlayer(goal.scorer);
+          for (const a of [goal.assist1, goal.assist2]) {
+            if (!a) continue;
+            const n = parseEventName(a);
+            if (!n) return;
+            if (!statsBySlug[slug].players[n]) statsBySlug[slug].players[n] = { g: 0, a: 0, pts: 0, pim: 0 };
+            statsBySlug[slug].players[n].a++;
+            statsBySlug[slug].players[n].pts++;
           }
         }
 
-        // Process penalties
         for (const pen of (game.penalties || [])) {
-          const teamId = String(pen.team?.teamId || '');
-          if (!teamId) continue;
-          if (!statsByTeam[teamId]) statsByTeam[teamId] = {};
-
-          const player = parseEventName(pen.player);
-          if (player) {
-            if (!statsByTeam[teamId][player]) statsByTeam[teamId][player] = { g: 0, a: 0, pts: 0, pim: 0 };
-            statsByTeam[teamId][player].pim += pen.pim || 2;
+          const teamName = pen.team?.name || '';
+          const slug = toTeamSlug(teamName);
+          if (!slug || !pen.player) continue;
+          if (!statsBySlug[slug]) statsBySlug[slug] = { name: teamName, players: {} };
+          const n = parseEventName(pen.player);
+          if (n) {
+            if (!statsBySlug[slug].players[n]) statsBySlug[slug].players[n] = { g: 0, a: 0, pts: 0, pim: 0 };
+            statsBySlug[slug].players[n].pim += pen.pim || 2;
           }
         }
       }
 
-      if (Object.keys(statsByTeam).length === 0) return;
+      if (Object.keys(statsBySlug).length === 0) return;
 
-      // Convert to sorted arrays
+      // Convert to sorted arrays, keyed by slug
       const result = {};
-      for (const [teamId, players] of Object.entries(statsByTeam)) {
-        result[teamId] = Object.entries(players)
+      for (const [slug, { players }] of Object.entries(statsBySlug)) {
+        result[slug] = Object.entries(players)
           .map(([name, stats]) => ({ name, ...stats }))
           .sort((a, b) => b.pts - a.pts || b.g - a.g);
       }

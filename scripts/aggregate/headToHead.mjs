@@ -17,13 +17,17 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = fileURLToPath(new URL('.', import.meta.url));
 
 /**
- * Create a sorted matchup key from two team IDs.
- * The smaller teamId comes first for consistent lookups.
+ * Convert a team name to its canonical slug — mirrors TeamLink.jsx.
  */
-function matchupKey(teamId1, teamId2) {
-  return teamId1 < teamId2
-    ? `${teamId1}-${teamId2}`
-    : `${teamId2}-${teamId1}`;
+function toTeamSlug(name) {
+  return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+}
+
+/**
+ * Create a sorted matchup key from two team slugs.
+ */
+function matchupKey(slug1, slug2) {
+  return slug1 < slug2 ? `${slug1}-${slug2}` : `${slug2}-${slug1}`;
 }
 
 /**
@@ -174,20 +178,23 @@ export async function buildHeadToHead(archiveDir, outputDir) {
 
         gamesProcessed++;
 
-        const key = matchupKey(homeTeamId, awayTeamId);
+        // Use team name slugs as the matchup key so that teams with multiple IDs
+        // across seasons (e.g. Pharaohs=1962/1911/1848...) roll up into one matchup.
+        const homeName = gameData.home.name || game.home?.name || homeTeamId;
+        const awayName = gameData.away.name || game.away?.name || awayTeamId;
+        const homeSlug = toTeamSlug(homeName);
+        const awaySlug = toTeamSlug(awayName);
+        const key = matchupKey(homeSlug, awaySlug);
 
         if (!matchups.has(key)) {
-          const [t1Id, t2Id] = homeTeamId < awayTeamId
-            ? [homeTeamId, awayTeamId]
-            : [awayTeamId, homeTeamId];
-
-          // Use game file names (authoritative) — schedule names may say "Winner A"
-          const t1Name = homeTeamId < awayTeamId
-            ? (gameData.home.name || game.home?.name || '')
-            : (gameData.away.name || game.away?.name || '');
-          const t2Name = homeTeamId < awayTeamId
-            ? (gameData.away.name || game.away?.name || '')
-            : (gameData.home.name || game.home?.name || '');
+          const [t1Slug, t2Slug] = homeSlug < awaySlug
+            ? [homeSlug, awaySlug]
+            : [awaySlug, homeSlug];
+          const t1Name = homeSlug < awaySlug ? homeName : awayName;
+          const t2Name = homeSlug < awaySlug ? awayName : homeName;
+          // Store a representative teamId (most recent wins; we update if we see higher)
+          const t1Id = homeSlug < awaySlug ? homeTeamId : awayTeamId;
+          const t2Id = homeSlug < awaySlug ? awayTeamId : homeTeamId;
 
           matchups.set(key, {
             team1: { teamId: t1Id, name: t1Name, wins: 0 },
@@ -199,23 +206,22 @@ export async function buildHeadToHead(archiveDir, outputDir) {
 
         const record = matchups.get(key);
 
-        // Determine winner
+        // Update to most recent teamId (higher number = more recent season)
+        const t1IsHome = homeSlug === toTeamSlug(record.team1.name);
+        const currentT1Id = record.team1.teamId;
+        const currentT2Id = record.team2.teamId;
+        if (t1IsHome && Number(homeTeamId) > Number(currentT1Id)) record.team1.teamId = homeTeamId;
+        if (!t1IsHome && Number(awayTeamId) > Number(currentT1Id)) record.team1.teamId = awayTeamId;
+        if (t1IsHome && Number(awayTeamId) > Number(currentT2Id)) record.team2.teamId = awayTeamId;
+        if (!t1IsHome && Number(homeTeamId) > Number(currentT2Id)) record.team2.teamId = homeTeamId;
+
+        // Determine winner using homeTeamId/awayTeamId vs the slug-based team1
+        const homeIsTeam1 = toTeamSlug(homeName) === toTeamSlug(record.team1.name);
         if (homeScore > awayScore) {
-          // Home team won
-          if (homeTeamId === record.team1.teamId) {
-            record.team1.wins++;
-          } else {
-            record.team2.wins++;
-          }
+          if (homeIsTeam1) record.team1.wins++; else record.team2.wins++;
         } else if (awayScore > homeScore) {
-          // Away team won
-          if (awayTeamId === record.team1.teamId) {
-            record.team1.wins++;
-          } else {
-            record.team2.wins++;
-          }
+          if (!homeIsTeam1) record.team1.wins++; else record.team2.wins++;
         } else {
-          // Tie
           record.ties++;
         }
 

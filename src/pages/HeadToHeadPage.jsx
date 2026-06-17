@@ -104,7 +104,8 @@ export default function HeadToHeadPage() {
     setPlayerStats(null);
     const matchup = findMatchupByParams(h2hData, team1Param, team2Param);
     if (!matchup) return;
-    const [a, b] = [matchup.team1.teamId, matchup.team2.teamId].sort();
+    // H2H player stats files are now keyed by slug pair
+    const [a, b] = [toTeamSlug(matchup.team1.name), toTeamSlug(matchup.team2.name)].sort();
     fetch(`/data/h2h-players/${a}-${b}.json`)
       .then(r => r.ok ? r.json() : null)
       .then(data => setPlayerStats(data))
@@ -286,12 +287,17 @@ function MatchupResults({ matchup, team1Slug, team2Slug, playerStats }) {
 }
 
 function PlayerStatsSection({ playerStats, team1, team2 }) {
-  const availableTeams = [team1, team2].filter(t => (playerStats.players[t.teamId] || []).length > 0);
-  const [viewTeamId, setViewTeamId] = useState(() => availableTeams[0]?.teamId || team1.teamId);
+  // Player stats are now keyed by team slug, not teamId
+  const t1Slug = toTeamSlug(team1.name);
+  const t2Slug = toTeamSlug(team2.name);
+  const availableTeams = [team1, team2].filter(t =>
+    (playerStats.players[toTeamSlug(t.name)] || []).length > 0
+  );
+  const [viewSlug, setViewSlug] = useState(() => availableTeams[0] ? toTeamSlug(availableTeams[0].name) : t1Slug);
 
   if (availableTeams.length === 0) return null;
 
-  const players = playerStats.players[viewTeamId] || [];
+  const players = playerStats.players[viewSlug] || [];
 
   return (
     <div className="h2h-page__player-stats">
@@ -300,8 +306,8 @@ function PlayerStatsSection({ playerStats, team1, team2 }) {
         {availableTeams.map(t => (
           <button
             key={t.teamId}
-            className={`h2h-page__tab${viewTeamId === t.teamId ? ' h2h-page__tab--active' : ''}`}
-            onClick={() => setViewTeamId(t.teamId)}
+            className={`h2h-page__tab${viewSlug === toTeamSlug(t.name) ? ' h2h-page__tab--active' : ''}`}
+            onClick={() => setViewSlug(toTeamSlug(t.name))}
           >
             {t.name}
           </button>

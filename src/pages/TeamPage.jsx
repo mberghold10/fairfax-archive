@@ -221,14 +221,15 @@ function TeamSeasonSchedule({ teamId, season, data }) {
       });
   }
 
-  const regularRows = buildRows(data.schedule.records, false);
-  const playoffRows = data.playoffSchedule?.records
+  const regularRows = buildRows(data.schedule.records, false)
+    .sort((a, b) => (a.date || '').localeCompare(b.date || ''));
+  const playoffRows = (data.playoffSchedule?.records
     ? buildRows(data.playoffSchedule.records, true)
-    : [];
+    : []).sort((a, b) => (a.date || '').localeCompare(b.date || ''));
 
   const allRows = [
     ...regularRows,
-    ...(playoffRows.length > 0 ? [{ id: '__playoff_divider', isDivider: true }] : []),
+    ...(playoffRows.length > 0 ? [{ id: '__playoff_divider', isDivider: true, date: '9999' }] : []),
     ...playoffRows,
   ];
 

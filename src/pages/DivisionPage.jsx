@@ -115,9 +115,9 @@ export default function DivisionPage() {
 
       <StandingsSection meta={meta} rosters={rosters} schedule={schedule} precomputedStandings={standings} />
       <DivisionLeadersSection leaders={leaders} />
-      <ScheduleSection title="Regular Season Schedule" schedule={schedule} scores={scores} />
+      <ScheduleSection title="Regular Season Schedule" schedule={schedule} scores={scores} meta={meta} />
       {playoffSchedule && playoffSchedule.records && playoffSchedule.records.length > 0 && (
-        <ScheduleSection title="Playoff Schedule" schedule={playoffSchedule} scores={scores} />
+        <ScheduleSection title="Playoff Schedule" schedule={playoffSchedule} scores={scores} meta={meta} />
       )}
       <RostersSection rosters={rosters} meta={meta} />
     </div>
@@ -301,12 +301,14 @@ function DivisionLeadersSection({ leaders }) {
  *   - yellow = OT loss or tie
  * The final column links to the box score (tagged "(OT)" for overtime games).
  */
-function ScheduleSection({ title, schedule, scores }) {
+function ScheduleSection({ title, schedule, scores, meta }) {
   if (!schedule || !schedule.records || schedule.records.length === 0) {
     return null;
   }
 
   const scoreMap = scores?.scores || {};
+  // Build a teamId → name lookup from meta for resolving playoff bracket names
+  const teamNames = meta?.teams || {};
 
   // Determine the result-based CSS class for a team cell.
   const resultClass = (row, teamId) => {
@@ -370,29 +372,30 @@ function ScheduleSection({ title, schedule, scores }) {
     const result = game.gameId ? scoreMap[game.gameId] || null : null;
     const hasRealTeamIds = game.home.teamId !== null && game.away.teamId !== null;
 
-    let homeTeamId, awayTeamId, homeDisplayScore, awayDisplayScore;
+    let homeTeamId, awayTeamId, homeName, awayName, homeDisplayScore, awayDisplayScore;
 
     if (!result) {
-      // No result yet — use schedule teamIds for linking
       homeTeamId = game.home.teamId;
       awayTeamId = game.away.teamId;
+      homeName = game.home.name;
+      awayName = game.away.name;
       homeDisplayScore = null;
       awayDisplayScore = null;
     } else if (hasRealTeamIds) {
-      // Regular season: schedule teamIds match game file teamIds
+      // Regular season: schedule matches game file
       homeTeamId = game.home.teamId;
       awayTeamId = game.away.teamId;
+      homeName = game.home.name;
+      awayName = game.away.name;
       homeDisplayScore = result.homeScore;
       awayDisplayScore = result.awayScore;
     } else {
-      // Playoff: schedule has null teamIds and potentially swapped home/away.
-      // The game file is authoritative — but we don't know which schedule label
-      // corresponds to which game file team. Since the schedule labels are
-      // bracket placeholders (e.g. "Pharaohs (C Winner)"), we can't reliably match.
-      // Best approach: display scores in game file order and use game file teamIds.
-      // The coloring will be correct even if the label order differs.
+      // Playoff: null teamIds — use game file's authoritative ordering
+      // Look up real names from meta.teams; fall back to schedule name
       homeTeamId = result.homeTeamId;
       awayTeamId = result.awayTeamId;
+      homeName = teamNames[result.homeTeamId] || game.home.name;
+      awayName = teamNames[result.awayTeamId] || game.away.name;
       homeDisplayScore = result.homeScore;
       awayDisplayScore = result.awayScore;
     }
@@ -400,8 +403,8 @@ function ScheduleSection({ title, schedule, scores }) {
     return {
       id: game.gameId || `game-${idx}`,
       date: game.date, time: game.time,
-      home: game.home.name, homeTeamId,
-      away: game.away.name, awayTeamId,
+      home: homeName, homeTeamId,
+      away: awayName, awayTeamId,
       gameId: game.gameId,
       result,
       homeDisplayScore, awayDisplayScore,
