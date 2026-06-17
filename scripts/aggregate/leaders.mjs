@@ -43,6 +43,11 @@ export function buildLeaders(allPlayers, allGoalies) {
     .sort((a, b) => b.value - a.value)
     .slice(0, TOP_N);
 
+  const gamesPlayed = allPlayers
+    .map(p => ({ playerId: p.id, displayName: p.displayName, value: p.totals.gp, gp: p.totals.gp }))
+    .sort((a, b) => b.value - a.value)
+    .slice(0, TOP_N);
+
   const wins = allGoalies
     .map(g => ({ goalieId: g.id, displayName: g.displayName, value: g.totals.w, gp: g.totals.gp }))
     .sort((a, b) => b.value - a.value)
@@ -53,7 +58,7 @@ export function buildLeaders(allPlayers, allGoalies) {
     .sort((a, b) => b.value - a.value)
     .slice(0, TOP_N);
 
-  return { goals, assists, points, pim, wins, shutouts };
+  return { goals, assists, points, pim, gamesPlayed, wins, shutouts };
 }
 
 /**

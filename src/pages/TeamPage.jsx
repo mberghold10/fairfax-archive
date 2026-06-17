@@ -65,13 +65,14 @@ export default function TeamPage() {
             const base = `/data/divisions/${season.divId}`;
             return Promise.all([
               fetch(`${base}/schedule.regular.json`).then(r => r.ok ? r.json() : null).catch(() => null),
+              fetch(`${base}/schedule.playoff.json`).then(r => r.ok ? r.json() : null).catch(() => null),
               fetch(`${base}/scores.json`).then(r => r.ok ? r.json() : null).catch(() => null),
-            ]).then(([schedule, scores]) => ({ divId: season.divId, schedule, scores }));
+            ]).then(([schedule, playoffSchedule, scores]) => ({ divId: season.divId, schedule, playoffSchedule, scores }));
           })
         ).then((results) => {
           const map = {};
-          for (const { divId, schedule, scores } of results) {
-            map[divId] = { schedule, scores };
+          for (const { divId, schedule, playoffSchedule, scores } of results) {
+            map[divId] = { schedule, playoffSchedule, scores };
           }
           setSeasonData(map);
           setLoading(false);
@@ -177,66 +178,87 @@ function TeamSeasonSchedule({ teamId, season, data }) {
   }
 
   const scoreMap = data.scores?.scores || {};
-  const games = data.schedule.records.filter(
-    g => String(g.home?.teamId) === teamId || String(g.away?.teamId) === teamId
-  );
 
-  if (games.length === 0) {
+  function buildRows(records, isPlayoff) {
+    return records
+      .filter(g => String(g.home?.teamId) === teamId || String(g.away?.teamId) === teamId)
+      .map((g, idx) => {
+        const isHome = String(g.home?.teamId) === teamId;
+        const opponent = isHome ? g.away : g.home;
+        const result = g.gameId ? scoreMap[g.gameId] || null : null;
+        // Use game file teamIds from scores when schedule has nulls (playoff games)
+        const gameHomeId = result?.homeTeamId || (isHome ? teamId : opponent?.teamId);
+        let teamScore = null, oppScore = null, resultClass;
+        if (result) {
+          teamScore = gameHomeId === teamId ? result.homeScore : result.awayScore;
+          oppScore = gameHomeId === teamId ? result.awayScore : result.homeScore;
+          if (result.tie) resultClass = 'cell-result--tie';
+          else if (result.winnerTeamId === teamId) resultClass = 'cell-result--win';
+          else resultClass = result.ot ? 'cell-result--otl' : 'cell-result--loss';
+        }
+        return {
+          id: g.gameId || `g-${isPlayoff ? 'p' : 'r'}-${idx}`,
+          date: g.date, opponent: opponent?.name || '',
+          opponentId: opponent?.teamId,
+          homeAway: isHome ? 'vs' : '@',
+          played: !!result, teamScore, oppScore,
+          ot: result?.ot, resultClass, gameId: g.gameId, isPlayoff,
+        };
+      });
+  }
+
+  const regularRows = buildRows(data.schedule.records, false);
+  const playoffRows = data.playoffSchedule?.records
+    ? buildRows(data.playoffSchedule.records, true)
+    : [];
+
+  const allRows = [
+    ...regularRows,
+    ...(playoffRows.length > 0 ? [{ id: '__playoff_divider', isDivider: true }] : []),
+    ...playoffRows,
+  ];
+
+  if (regularRows.length === 0 && playoffRows.length === 0) {
     return <p className="team-page__empty">No games found for this team this season.</p>;
   }
 
   const columns = [
     { key: 'date', label: 'Date', sortable: false },
     {
-      key: 'opponent',
-      label: 'Opponent',
-      sortable: false,
+      key: 'opponent', label: 'Opponent', sortable: false,
       cellClass: (val, row) => row.resultClass,
-      render: (val, row) => (
-        <span className="schedule-team">
-          <span>
-            <span className="team-schedule__loc">{row.homeAway}</span>{' '}
-            {row.opponentId ? <TeamLink teamId={row.opponentId} name={val} /> : val}
+      render: (val, row) => {
+        if (row.isDivider) return <span style={{ fontWeight: 'bold', color: 'var(--color-brand-red)' }}>🏆 Playoffs</span>;
+        return (
+          <span className="schedule-team">
+            <span>
+              <span className="team-schedule__loc">{row.homeAway}</span>{' '}
+              {row.opponentId ? <TeamLink teamId={row.opponentId} name={val} /> : val}
+            </span>
+            {row.played && <span className="schedule-team__score">{row.teamScore}–{row.oppScore}</span>}
           </span>
-          {row.played && (
-            <span className="schedule-team__score">{row.teamScore}–{row.oppScore}</span>
-          )}
-        </span>
-      ),
+        );
+      },
     },
     {
       key: 'link', label: '', sortable: false,
-      render: (val, row) => row.gameId
-        ? <Link to={`/games/${row.gameId}`}>Box Score{row.ot ? ' (OT)' : ''}</Link>
-        : '—',
+      render: (val, row) => {
+        if (row.isDivider) return null;
+        return row.gameId
+          ? <Link to={`/games/${row.gameId}`}>Box Score{row.ot ? ' (OT)' : ''}</Link>
+          : '—';
+      },
     },
   ];
 
-  const rows = games.map((g, idx) => {
-    const isHome = String(g.home?.teamId) === teamId;
-    const opponent = isHome ? g.away : g.home;
-    const result = g.gameId ? scoreMap[g.gameId] || null : null;
-    let teamScore = null, oppScore = null, resultClass;
-    if (result) {
-      teamScore = result.homeTeamId === teamId ? result.homeScore : result.awayScore;
-      oppScore = result.homeTeamId === teamId ? result.awayScore : result.homeScore;
-      if (result.tie) resultClass = 'cell-result--tie';
-      else if (result.winnerTeamId === teamId) resultClass = 'cell-result--win';
-      else resultClass = result.ot ? 'cell-result--otl' : 'cell-result--loss';
-    }
-    return {
-      id: g.gameId || `g-${idx}`,
-      date: g.date,
-      opponent: opponent?.name || '',
-      opponentId: opponent?.teamId,
-      homeAway: isHome ? 'vs' : '@',
-      played: !!result,
-      teamScore, oppScore, ot: result?.ot, resultClass,
-      gameId: g.gameId,
-    };
-  });
+  return <StatsTable columns={columns} data={allRows} defaultSort="date" defaultDirection="asc" />;
+}
 
-  return <StatsTable columns={columns} data={rows} defaultSort="date" defaultDirection="asc" />;
+function seasonSortKey(name) {
+  const m = (name || '').match(/(\w+)\s+(\d{4})/);
+  if (!m) return 0;
+  const order = { spring: 1, summer: 2, fall: 3, winter: 4 };
+  return parseInt(m[2], 10) * 10 + (order[m[1].toLowerCase()] || 0);
 }
 
 function SeasonRecordTable({ seasons }) {
@@ -256,11 +278,12 @@ function SeasonRecordTable({ seasons }) {
     key: `${s.divId}-${i}`, seasonName: s.seasonName, divId: s.divId,
     divisionLabel: s.divisionLabel, w: s.record?.w || 0, l: s.record?.l || 0,
     t: s.record?.t || 0, pts: s.record?.pts || 0, placement: s.record?.placement,
+    seasonSort: seasonSortKey(s.seasonName),
   }));
   return (
     <section className="team-page__records">
       <h2>Season-by-Season Record</h2>
-      <StatsTable columns={columns} data={data} defaultSort="seasonName" defaultDirection="desc" />
+      <StatsTable columns={columns} data={data} defaultSort="seasonSort" defaultDirection="desc" />
     </section>
   );
 }
@@ -275,7 +298,7 @@ function AllTimeLeaders({ seasons }) {
 
     for (const season of seasons) {
       for (const s of (season.roster?.skaters || [])) {
-        if (!s.name) continue;
+        if (!s.name || s.name.toLowerCase().includes('substitute')) continue;
         if (!skaterTotals[s.name]) skaterTotals[s.name] = { g: 0, a: 0, pts: 0, pim: 0, gp: 0 };
         skaterTotals[s.name].g += s.g || 0;
         skaterTotals[s.name].a += s.a || 0;
@@ -284,7 +307,7 @@ function AllTimeLeaders({ seasons }) {
         skaterTotals[s.name].gp += s.gp || 0;
       }
       for (const g of (season.roster?.goalies || [])) {
-        if (!g.name) continue;
+        if (!g.name || g.name.toLowerCase().includes('substitute')) continue;
         if (!goalieTotals[g.name]) goalieTotals[g.name] = { w: 0, gp: 0, sa: 0 };
         goalieTotals[g.name].w += g.w || 0;
         goalieTotals[g.name].gp += g.gp || 0;

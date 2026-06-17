@@ -5,6 +5,7 @@ import Loading from '../components/Loading.jsx';
 import ErrorMessage from '../components/ErrorMessage.jsx';
 import TeamLink from '../components/TeamLink.jsx';
 import StatsTable from '../components/StatsTable.jsx';
+import '../styles/player-page.css';
 
 /**
  * Convert a season name to a URL slug.

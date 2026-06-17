@@ -15,6 +15,7 @@ const CATEGORIES = [
   { key: 'assists', label: 'Assists', statLabel: 'A', idField: 'playerId' },
   { key: 'points', label: 'Points', statLabel: 'PTS', idField: 'playerId' },
   { key: 'pim', label: 'PIM', statLabel: 'PIM', idField: 'playerId' },
+  { key: 'gamesPlayed', label: 'Games Played', statLabel: 'GP', idField: 'playerId' },
   { key: 'wins', label: 'Wins', statLabel: 'W', idField: 'goalieId' },
   { key: 'shutouts', label: 'Shutouts', statLabel: 'SO', idField: 'goalieId' },
 ];
@@ -68,7 +69,6 @@ export default function LeadersPage() {
       sortable: true,
       render: (value, row) => <PlayerLink playerId={row.id} name={value} />,
     },
-    { key: 'gp', label: 'GP', sortable: true },
     { key: 'value', label: activeCategory.statLabel, sortable: true },
   ];
 
@@ -77,7 +77,6 @@ export default function LeadersPage() {
     rank: index + 1,
     id: entry[activeCategory.idField],
     displayName: entry.displayName,
-    gp: entry.gp || '—',
     value: entry.value,
   }));
 

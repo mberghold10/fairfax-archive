@@ -1,0 +1,91 @@
+/*
+ * PlayerPage styles
+ */
+
+.player-page {
+  padding-bottom: var(--spacing-xl);
+}
+
+.player-page__header {
+  margin-bottom: var(--spacing-xl);
+}
+
+.player-page__name {
+  border-bottom: 3px solid var(--color-brand-red);
+  padding-bottom: var(--spacing-sm);
+  margin-bottom: var(--spacing-xs);
+}
+
+/* ===== Career totals stat grid ===== */
+.player-page__totals {
+  margin-bottom: var(--spacing-2xl);
+}
+
+.player-page__totals h2 {
+  position: relative;
+  padding-left: var(--spacing-md);
+  margin-bottom: var(--spacing-lg);
+}
+
+.player-page__totals h2::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 4px;
+  background-color: var(--color-brand-red);
+  border-radius: var(--radius-sm);
+}
+
+.player-page__totals-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+  gap: var(--spacing-md);
+}
+
+.player-page__stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--spacing-md);
+  background-color: var(--color-bg-secondary);
+  border: 1px solid var(--color-border-light);
+  border-radius: var(--radius-lg);
+  text-align: center;
+}
+
+.player-page__stat-value {
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-bold);
+  font-variant-numeric: tabular-nums;
+  color: var(--color-text-primary);
+  line-height: 1.1;
+  margin-bottom: var(--spacing-xs);
+}
+
+.player-page__stat-label {
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* ===== Seasons section ===== */
+.player-page__seasons {
+  margin-bottom: var(--spacing-2xl);
+}
+
+.player-page__seasons h2 {
+  position: relative;
+  padding-left: var(--spacing-md);
+  margin-bottom: var(--spacing-lg);
+}
+
+.player-page__seasons h2::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 4px;
+  background-color: var(--color-brand-red);
+  border-radius: var(--radius-sm);
+}

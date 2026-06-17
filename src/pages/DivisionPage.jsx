@@ -330,7 +330,7 @@ function ScheduleSection({ title, schedule, scores }) {
         <span className="schedule-team">
           {row.homeTeamId ? <TeamLink teamId={row.homeTeamId} name={val} /> : val}
           {row.result && (
-            <span className="schedule-team__score">{row.result.homeScore}</span>
+            <span className="schedule-team__score">{row.homeDisplayScore}</span>
           )}
         </span>
       ),
@@ -344,7 +344,7 @@ function ScheduleSection({ title, schedule, scores }) {
         <span className="schedule-team">
           {row.awayTeamId ? <TeamLink teamId={row.awayTeamId} name={val} /> : val}
           {row.result && (
-            <span className="schedule-team__score">{row.result.awayScore}</span>
+            <span className="schedule-team__score">{row.awayDisplayScore}</span>
           )}
         </span>
       ),
@@ -368,20 +368,43 @@ function ScheduleSection({ title, schedule, scores }) {
 
   const data = schedule.records.map((game, idx) => {
     const result = game.gameId ? scoreMap[game.gameId] || null : null;
-    // Playoff schedules have null teamIds — fall back to the game file's teamIds from scores
-    const homeTeamId = game.home.teamId || result?.homeTeamId || null;
-    const awayTeamId = game.away.teamId || result?.awayTeamId || null;
-    // For display: if schedule has "Winner A" style names but result has real names, prefer result
+    const hasRealTeamIds = game.home.teamId !== null && game.away.teamId !== null;
+
+    let homeTeamId, awayTeamId, homeDisplayScore, awayDisplayScore;
+
+    if (!result) {
+      // No result yet — use schedule teamIds for linking
+      homeTeamId = game.home.teamId;
+      awayTeamId = game.away.teamId;
+      homeDisplayScore = null;
+      awayDisplayScore = null;
+    } else if (hasRealTeamIds) {
+      // Regular season: schedule teamIds match game file teamIds
+      homeTeamId = game.home.teamId;
+      awayTeamId = game.away.teamId;
+      homeDisplayScore = result.homeScore;
+      awayDisplayScore = result.awayScore;
+    } else {
+      // Playoff: schedule has null teamIds and potentially swapped home/away.
+      // The game file is authoritative — but we don't know which schedule label
+      // corresponds to which game file team. Since the schedule labels are
+      // bracket placeholders (e.g. "Pharaohs (C Winner)"), we can't reliably match.
+      // Best approach: display scores in game file order and use game file teamIds.
+      // The coloring will be correct even if the label order differs.
+      homeTeamId = result.homeTeamId;
+      awayTeamId = result.awayTeamId;
+      homeDisplayScore = result.homeScore;
+      awayDisplayScore = result.awayScore;
+    }
+
     return {
       id: game.gameId || `game-${idx}`,
-      date: game.date,
-      time: game.time,
-      home: game.home.name,
-      homeTeamId,
-      away: game.away.name,
-      awayTeamId,
+      date: game.date, time: game.time,
+      home: game.home.name, homeTeamId,
+      away: game.away.name, awayTeamId,
       gameId: game.gameId,
       result,
+      homeDisplayScore, awayDisplayScore,
       score: result ? result.homeScore + result.awayScore : (game.gameId ? 0 : null),
     };
   });
