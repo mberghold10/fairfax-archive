@@ -156,14 +156,14 @@ export default function HeadToHeadPage() {
       <div className="h2h-page__selection">
         <div className="h2h-page__dropdowns">
           <TeamCombobox
-            label="Team 1"
+            label="Your Team"
             teams={teams}
             value={selectedTeam1}
             onChange={setSelectedTeam1}
           />
           <span className="h2h-page__vs" aria-hidden="true">vs</span>
           <TeamCombobox
-            label="Team 2"
+            label="Opponent"
             teams={teams}
             value={selectedTeam2}
             onChange={setSelectedTeam2}
@@ -224,7 +224,7 @@ function MatchupResults({ matchup, team1Slug, team2Slug, playerStats }) {
 
   return (
     <>
-      {/* All-time record */}
+      {/* Record split by regular season / playoffs */}
       <div className="h2h-page__record">
         <h2 className="h2h-page__record-title">All-Time Record</h2>
         <div className="h2h-page__record-grid">
@@ -240,12 +240,24 @@ function MatchupResults({ matchup, team1Slug, team2Slug, playerStats }) {
             <span className="h2h-page__record-value">{team2.wins} W</span>
           </div>
         </div>
-        {playoffGames.length > 0 && (
-          <p className="h2h-page__record-sub">
-            Regular season: {regT1W}–{regT2W}–{regTies}
-            {' · '}Playoffs: {playoffGames.length} game{playoffGames.length !== 1 ? 's' : ''}
-          </p>
-        )}
+
+        {/* Sub-records */}
+        <div className="h2h-page__subrecords">
+          <div className="h2h-page__subrecord">
+            <span className="h2h-page__subrecord-label">Regular Season</span>
+            <span className="h2h-page__subrecord-value">
+              {regT1W}–{regTies}–{regT2W}
+            </span>
+          </div>
+          {playoffGames.length > 0 && (
+            <div className="h2h-page__subrecord">
+              <span className="h2h-page__subrecord-label">🏆 Playoffs</span>
+              <span className="h2h-page__subrecord-value">
+                {countWins(playoffGames, team1.teamId)}–0–{countWins(playoffGames, team2.teamId)}
+              </span>
+            </div>
+          )}
+        </div>
       </div>
 
       {/* Tabs */}
@@ -334,18 +346,24 @@ function PlayerStatsSection({ playerStats, team1, team2 }) {
 }
 
 function GameRow({ game, team1, team2 }) {
-  const isTeam1Home = game.homeTeamId === team1.teamId;
-  const homeTeamName = isTeam1Home ? team1.name : team2.name;
-  const awayTeamName = isTeam1Home ? team2.name : team1.name;
-  const scoreDisplay = `${homeTeamName} ${game.score.home}–${game.score.away} ${awayTeamName}`;
+  // Use stored homeTeamSlug for reliable cross-season matching
+  const team1Slug = toTeamSlug(team1.name);
+  const homeIsTeam1 = game.homeTeamSlug
+    ? game.homeTeamSlug === team1Slug
+    : game.homeTeamId === team1.teamId;
+
+  const homeLabel = homeIsTeam1 ? team1.name : team2.name;
+  const awayLabel = homeIsTeam1 ? team2.name : team1.name;
 
   return (
     <tr className={`h2h-page__game-row${game.playoff ? ' h2h-page__game-row--playoff' : ''}`}>
       <td>{game.date || '—'}</td>
       <td>
         {game.gameId
-          ? <Link to={`/games/${game.gameId}`} className="h2h-page__game-link">{scoreDisplay}</Link>
-          : scoreDisplay}
+          ? <Link to={`/games/${game.gameId}`} className="h2h-page__game-link">
+              {homeLabel} {game.score.home}–{game.score.away} {awayLabel}
+            </Link>
+          : `${homeLabel} ${game.score.home}–${game.score.away} ${awayLabel}`}
         {game.playoff && <span className="h2h-page__playoff-badge"> 🏆</span>}
       </td>
       <td>{game.seasonName || '—'}</td>

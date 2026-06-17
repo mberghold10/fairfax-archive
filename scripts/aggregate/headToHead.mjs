@@ -232,6 +232,7 @@ export async function buildHeadToHead(archiveDir, outputDir) {
           seasonName: game.seasonName || seasonName,
           divId: String(game.divId || divId),
           homeTeamId: homeTeamId,
+          homeTeamSlug: homeSlug,
           score: { home: homeScore, away: awayScore },
           playoff: mode === 'playoff',
         });

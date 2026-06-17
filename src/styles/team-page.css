@@ -218,3 +218,13 @@
   font-size: var(--font-size-sm);
   font-style: italic;
 }
+
+/* ===== Playoff section header in schedule ===== */
+.team-page__playoff-header {
+  font-weight: var(--font-weight-bold);
+  color: var(--color-brand-red);
+  font-size: var(--font-size-sm);
+  padding: var(--spacing-sm) 0 var(--spacing-xs);
+  border-top: 1px solid var(--color-border);
+  margin-top: var(--spacing-md);
+}

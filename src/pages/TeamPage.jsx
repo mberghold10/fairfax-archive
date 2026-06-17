@@ -67,12 +67,13 @@ export default function TeamPage() {
               fetch(`${base}/schedule.regular.json`).then(r => r.ok ? r.json() : null).catch(() => null),
               fetch(`${base}/schedule.playoff.json`).then(r => r.ok ? r.json() : null).catch(() => null),
               fetch(`${base}/scores.json`).then(r => r.ok ? r.json() : null).catch(() => null),
-            ]).then(([schedule, playoffSchedule, scores]) => ({ divId: season.divId, schedule, playoffSchedule, scores }));
+              fetch(`${base}/meta.json`).then(r => r.ok ? r.json() : null).catch(() => null),
+            ]).then(([schedule, playoffSchedule, scores, meta]) => ({ divId: season.divId, schedule, playoffSchedule, scores, meta }));
           })
         ).then((results) => {
           const map = {};
-          for (const { divId, schedule, playoffSchedule, scores } of results) {
-            map[divId] = { schedule, playoffSchedule, scores };
+          for (const { divId, schedule, playoffSchedule, scores, meta } of results) {
+            map[divId] = { schedule, playoffSchedule, scores, meta };
           }
           setSeasonData(map);
           setLoading(false);
@@ -178,47 +179,64 @@ function TeamSeasonSchedule({ teamId, season, data }) {
   }
 
   const scoreMap = data.scores?.scores || {};
+  // Team name lookup from meta — used for playoff opponent names
+  const teamNames = data.meta?.teams || {};
 
   function buildRows(records, isPlayoff) {
-    return records
-      .filter(g => {
-        const homeId = String(g.home?.teamId);
-        const awayId = String(g.away?.teamId);
-        // Regular season: match by teamId
-        if (homeId === teamId || awayId === teamId) return true;
-        // Playoff: teamIds are null — look up via scores.json which has real teamIds
-        if (isPlayoff && g.gameId) {
-          const result = scoreMap[g.gameId];
-          if (result) {
-            return result.homeTeamId === teamId || result.awayTeamId === teamId;
+    const rows = [];
+    for (let idx = 0; idx < records.length; idx++) {
+      const g = records[idx];
+      const result = g.gameId ? scoreMap[g.gameId] || null : null;
+
+      let include = false;
+      let isHome = false;
+      let opponentId = null;
+      let opponentName = '';
+
+      if (!isPlayoff) {
+        // Regular season: use schedule teamIds directly
+        isHome = String(g.home?.teamId) === teamId;
+        const isAway = String(g.away?.teamId) === teamId;
+        include = isHome || isAway;
+        if (include) {
+          opponentId = isHome ? g.away?.teamId : g.home?.teamId;
+          opponentName = isHome ? g.away?.name || '' : g.home?.name || '';
+        }
+      } else {
+        // Playoff: teamIds in schedule are null — use scores.json exclusively
+        if (result) {
+          if (result.homeTeamId === teamId) {
+            include = true; isHome = true;
+            opponentId = result.awayTeamId;
+            opponentName = teamNames[result.awayTeamId] || result.awayTeamId;
+          } else if (result.awayTeamId === teamId) {
+            include = true; isHome = false;
+            opponentId = result.homeTeamId;
+            opponentName = teamNames[result.homeTeamId] || result.homeTeamId;
           }
         }
-        return false;
-      })
-      .map((g, idx) => {
-        const isHome = String(g.home?.teamId) === teamId ||
-          (g.home?.teamId === null && scoreMap[g.gameId]?.homeTeamId === teamId);
-        const opponent = isHome ? g.away : g.home;
-        const result = g.gameId ? scoreMap[g.gameId] || null : null;
-        // Use game file teamIds from scores when schedule has nulls (playoff games)
-        const gameHomeId = result?.homeTeamId || (isHome ? teamId : opponent?.teamId);
-        let teamScore = null, oppScore = null, resultClass;
-        if (result) {
-          teamScore = gameHomeId === teamId ? result.homeScore : result.awayScore;
-          oppScore = gameHomeId === teamId ? result.awayScore : result.homeScore;
-          if (result.tie) resultClass = 'cell-result--tie';
-          else if (result.winnerTeamId === teamId) resultClass = 'cell-result--win';
-          else resultClass = result.ot ? 'cell-result--otl' : 'cell-result--loss';
-        }
-        return {
-          id: g.gameId || `g-${isPlayoff ? 'p' : 'r'}-${idx}`,
-          date: g.date, opponent: opponent?.name || '',
-          opponentId: opponent?.teamId,
-          homeAway: isHome ? 'vs' : '@',
-          played: !!result, teamScore, oppScore,
-          ot: result?.ot, resultClass, gameId: g.gameId, isPlayoff,
-        };
+      }
+
+      if (!include) continue;
+
+      let teamScore = null, oppScore = null, resultClass;
+      if (result) {
+        teamScore = result.homeTeamId === teamId ? result.homeScore : result.awayScore;
+        oppScore = result.homeTeamId === teamId ? result.awayScore : result.homeScore;
+        if (result.tie) resultClass = 'cell-result--tie';
+        else if (result.winnerTeamId === teamId) resultClass = 'cell-result--win';
+        else resultClass = result.ot ? 'cell-result--otl' : 'cell-result--loss';
+      }
+
+      rows.push({
+        id: g.gameId || `g-${isPlayoff ? 'p' : 'r'}-${idx}`,
+        date: g.date, opponent: opponentName,
+        opponentId, homeAway: isHome ? 'vs' : '@',
+        played: !!result, teamScore, oppScore,
+        ot: result?.ot, resultClass, gameId: g.gameId, isPlayoff,
       });
+    }
+    return rows;
   }
 
   const regularRows = buildRows(data.schedule.records, false)
@@ -226,12 +244,6 @@ function TeamSeasonSchedule({ teamId, season, data }) {
   const playoffRows = (data.playoffSchedule?.records
     ? buildRows(data.playoffSchedule.records, true)
     : []).sort((a, b) => (a.date || '').localeCompare(b.date || ''));
-
-  const allRows = [
-    ...regularRows,
-    ...(playoffRows.length > 0 ? [{ id: '__playoff_divider', isDivider: true, date: '9999' }] : []),
-    ...playoffRows,
-  ];
 
   if (regularRows.length === 0 && playoffRows.length === 0) {
     return <p className="team-page__empty">No games found for this team this season.</p>;
@@ -242,31 +254,37 @@ function TeamSeasonSchedule({ teamId, season, data }) {
     {
       key: 'opponent', label: 'Opponent', sortable: false,
       cellClass: (val, row) => row.resultClass,
-      render: (val, row) => {
-        if (row.isDivider) return <span style={{ fontWeight: 'bold', color: 'var(--color-brand-red)' }}>🏆 Playoffs</span>;
-        return (
-          <span className="schedule-team">
-            <span>
-              <span className="team-schedule__loc">{row.homeAway}</span>{' '}
-              {row.opponentId ? <TeamLink teamId={row.opponentId} name={val} /> : val}
-            </span>
-            {row.played && <span className="schedule-team__score">{row.teamScore}–{row.oppScore}</span>}
+      render: (val, row) => (
+        <span className="schedule-team">
+          <span>
+            <span className="team-schedule__loc">{row.homeAway}</span>{' '}
+            {row.opponentId ? <TeamLink teamId={row.opponentId} name={val} /> : val}
           </span>
-        );
-      },
+          {row.played && <span className="schedule-team__score">{row.teamScore}–{row.oppScore}</span>}
+        </span>
+      ),
     },
     {
       key: 'link', label: '', sortable: false,
-      render: (val, row) => {
-        if (row.isDivider) return null;
-        return row.gameId
-          ? <Link to={`/games/${row.gameId}`}>Box Score{row.ot ? ' (OT)' : ''}</Link>
-          : '—';
-      },
+      render: (val, row) => row.gameId
+        ? <Link to={`/games/${row.gameId}`}>Box Score{row.ot ? ' (OT)' : ''}</Link>
+        : '—',
     },
   ];
 
-  return <StatsTable columns={columns} data={allRows} defaultSort="date" defaultDirection="asc" />;
+  return (
+    <div>
+      {regularRows.length > 0 && (
+        <StatsTable columns={columns} data={regularRows} defaultSort={null} defaultDirection="asc" />
+      )}
+      {playoffRows.length > 0 && (
+        <>
+          <div className="team-page__playoff-header">🏆 Playoffs</div>
+          <StatsTable columns={columns} data={playoffRows} defaultSort={null} defaultDirection="asc" />
+        </>
+      )}
+    </div>
+  );
 }
 
 function seasonSortKey(name) {

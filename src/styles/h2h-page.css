@@ -319,3 +319,33 @@
   background: var(--color-bg-hover);
   color: var(--color-brand-red);
 }
+
+/* ===== Sub-records (regular season / playoffs) ===== */
+.h2h-page__subrecords {
+  display: flex;
+  justify-content: center;
+  gap: var(--spacing-xl);
+  margin-top: var(--spacing-md);
+  flex-wrap: wrap;
+}
+
+.h2h-page__subrecord {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--spacing-xs);
+}
+
+.h2h-page__subrecord-label {
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-semibold);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-text-muted);
+}
+
+.h2h-page__subrecord-value {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-bold);
+  font-variant-numeric: tabular-nums;
+}

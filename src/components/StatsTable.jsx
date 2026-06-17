@@ -11,7 +11,7 @@ import '../styles/components.css';
  *   defaultDirection - 'asc' | 'desc'
  */
 export default function StatsTable({ columns, data, defaultSort, defaultDirection = 'desc' }) {
-  const [sortKey, setSortKey] = useState(defaultSort || (columns[0] && columns[0].key));
+  const [sortKey, setSortKey] = useState(defaultSort !== null ? (defaultSort || (columns[0] && columns[0].key)) : null);
   const [sortDirection, setSortDirection] = useState(defaultDirection);
 
   const handleSort = (key) => {
