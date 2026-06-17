@@ -1,0 +1,39 @@
+/*
+ * Collapsible section component
+ */
+
+.collapsible__toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  background: none;
+  border: none;
+  padding: var(--spacing-sm) 0;
+  cursor: pointer;
+  text-align: left;
+  color: var(--color-text-primary);
+  font-family: inherit;
+  border-bottom: 1px solid var(--color-border-light);
+  margin-bottom: var(--spacing-md);
+}
+
+.collapsible__toggle:hover {
+  color: var(--color-brand-red);
+}
+
+.collapsible__title {
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-semibold);
+}
+
+.collapsible__icon {
+  font-size: var(--font-size-xs);
+  color: var(--color-text-muted);
+  flex-shrink: 0;
+  margin-left: var(--spacing-sm);
+}
+
+.collapsible__body {
+  padding-bottom: var(--spacing-md);
+}

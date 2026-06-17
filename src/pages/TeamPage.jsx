@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback, useMemo } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import Breadcrumbs from '../components/Breadcrumbs.jsx';
 import Loading from '../components/Loading.jsx';
@@ -6,33 +6,17 @@ import ErrorMessage from '../components/ErrorMessage.jsx';
 import PlayerLink from '../components/PlayerLink.jsx';
 import TeamLink from '../components/TeamLink.jsx';
 import StatsTable from '../components/StatsTable.jsx';
+import Collapsible from '../components/Collapsible.jsx';
 import '../styles/team-page.css';
 import '../styles/division-page.css';
 
-/**
- * Convert a season name to a URL slug.
- * e.g. "Winter 2024" → "winter-2024"
- */
 function toSeasonSlug(seasonName) {
   return seasonName.toLowerCase().replace(/\s+/g, '-');
 }
 
-/**
- * Simple synchronous hash function to generate player IDs from names.
- * Mirrors the aggregation pipeline's approach: normalize name → hash.
- * Uses a simple djb2-based hash to produce a 12-char hex string.
- */
 function generatePlayerIdFromName(name) {
-  const normalized = name
-    .toLowerCase()
-    .replace(/[^a-z\s,]/g, '')
-    .replace(/\s+/g, ' ')
-    .trim();
-
-  // djb2 hash producing a hex string (matches are approximate;
-  // for exact matches we'd need SHA-256, but this is sufficient for linking)
-  let h1 = 0xdeadbeef;
-  let h2 = 0x41c6ce57;
+  const normalized = name.toLowerCase().replace(/[^a-z\s,]/g, '').replace(/\s+/g, ' ').trim();
+  let h1 = 0xdeadbeef, h2 = 0x41c6ce57;
   for (let i = 0; i < normalized.length; i++) {
     const ch = normalized.charCodeAt(i);
     h1 = Math.imul(h1 ^ ch, 2654435761);
@@ -42,19 +26,13 @@ function generatePlayerIdFromName(name) {
   h1 ^= Math.imul(h2 ^ (h2 >>> 13), 3266489909);
   h2 = Math.imul(h2 ^ (h2 >>> 16), 2246822507);
   h2 ^= Math.imul(h1 ^ (h1 >>> 13), 3266489909);
-  const hash = (4294967296 * (2097151 & h2) + (h1 >>> 0));
-  return hash.toString(16).padStart(12, '0').slice(0, 12);
+  return (4294967296 * (2097151 & h2) + (h1 >>> 0)).toString(16).padStart(12, '0').slice(0, 12);
 }
 
-/**
- * TeamPage displays a team's history: season-by-season records and rosters.
- * Fetches pre-computed team detail from /data/teams/{slug}.json.
- * The slug may be a canonical name slug (e.g. "pharaohs") or a legacy team ID.
- * If a legacy ID is provided, we resolve it via team-id-index.json first.
- */
 export default function TeamPage() {
   const { teamId } = useParams();
   const [team, setTeam] = useState(null);
+  const [seasonData, setSeasonData] = useState({});
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [notFound, setNotFound] = useState(false);
@@ -64,13 +42,10 @@ export default function TeamPage() {
     setError(null);
     setNotFound(false);
 
-    // First try fetching the teamId directly as a slug.
-    // If 404, check the id-index to find the canonical slug.
     fetch(`/data/teams/${teamId}.json`)
       .then((res) => {
         if (res.ok) return res.json();
         if (res.status === 404) {
-          // Try resolving via the team-id-index
           return fetch('/data/teams/team-id-index.json')
             .then((r) => r.ok ? r.json() : {})
             .then((index) => {
@@ -82,23 +57,33 @@ export default function TeamPage() {
         throw new Error('Failed to load team data');
       })
       .then((data) => {
-        if (!data) setNotFound(true);
-        else setTeam(data);
-        setLoading(false);
+        if (!data) { setNotFound(true); setLoading(false); return; }
+        setTeam(data);
+        // Fetch schedule+scores for each season in parallel
+        return Promise.all(
+          data.seasons.map((season) => {
+            const base = `/data/divisions/${season.divId}`;
+            return Promise.all([
+              fetch(`${base}/schedule.regular.json`).then(r => r.ok ? r.json() : null).catch(() => null),
+              fetch(`${base}/scores.json`).then(r => r.ok ? r.json() : null).catch(() => null),
+            ]).then(([schedule, scores]) => ({ divId: season.divId, schedule, scores }));
+          })
+        ).then((results) => {
+          const map = {};
+          for (const { divId, schedule, scores } of results) {
+            map[divId] = { schedule, scores };
+          }
+          setSeasonData(map);
+          setLoading(false);
+        });
       })
-      .catch((err) => {
-        setError(err.message);
-        setLoading(false);
-      });
+      .catch((err) => { setError(err.message); setLoading(false); });
   }, [teamId]);
 
-  useEffect(() => {
-    fetchTeam();
-  }, [fetchTeam]);
+  useEffect(() => { fetchTeam(); }, [fetchTeam]);
 
   if (loading) return <Loading />;
   if (error) return <ErrorMessage message={error} onRetry={fetchTeam} />;
-
   if (notFound) {
     return (
       <div className="team-page">
@@ -110,30 +95,26 @@ export default function TeamPage() {
 
   return (
     <div className="team-page">
-      <Breadcrumbs
-        crumbs={[
-          { label: 'Home', to: '/' },
-          { label: team.teamName },
-        ]}
-      />
-
+      <Breadcrumbs crumbs={[{ label: 'Home', to: '/' }, { label: team.teamName }]} />
       <header className="team-page__header">
         <h1 className="team-page__name">{team.teamName}</h1>
         {team.aliases && team.aliases.length > 0 && (
-          <p className="team-page__aliases">
-            Also known as: {team.aliases.join(', ')}
-          </p>
+          <p className="team-page__aliases">Also known as: {team.aliases.join(', ')}</p>
         )}
       </header>
 
       <SeasonRecordTable seasons={team.seasons} />
+      <AllTimeLeaders seasons={team.seasons} />
 
-      <TeamScheduleSection teamId={teamId} seasons={team.seasons} />
-
-      <section className="team-page__rosters">
-        <h2>Rosters</h2>
+      <section className="team-page__seasons">
+        <h2>Seasons</h2>
         {team.seasons.map((season, index) => (
-          <SeasonRoster key={`${season.divId}-${index}`} season={season} />
+          <SeasonSection
+            key={`${season.divId}-${index}`}
+            season={season}
+            teamIds={team.teamIds}
+            divData={seasonData[season.divId]}
+          />
         ))}
       </section>
     </div>
@@ -141,69 +122,68 @@ export default function TeamPage() {
 }
 
 /**
- * Team schedule section: for each season, fetches that division's schedule and
- * scores, then shows the games this team played with result coloring.
+ * Per-season collapsible block with schedule + roster.
  */
-function TeamScheduleSection({ teamId, seasons }) {
-  const [scheduleData, setScheduleData] = useState({}); // divId → { schedule, scores }
-  const [loading, setLoading] = useState(true);
+function SeasonSection({ season, teamIds, divData }) {
+  const title = `${season.seasonName} — ${season.divisionLabel}`;
 
-  useEffect(() => {
-    let cancelled = false;
-    setLoading(true);
-
-    Promise.all(
-      seasons.map((season) => {
-        const base = `/data/divisions/${season.divId}`;
-        return Promise.all([
-          fetch(`${base}/schedule.regular.json`).then((r) => (r.ok ? r.json() : null)).catch(() => null),
-          fetch(`${base}/scores.json`).then((r) => (r.ok ? r.json() : null)).catch(() => null),
-        ]).then(([schedule, scores]) => ({ divId: season.divId, schedule, scores }));
-      })
-    ).then((results) => {
-      if (cancelled) return;
-      const map = {};
-      for (const { divId, schedule, scores } of results) {
-        map[divId] = { schedule, scores };
-      }
-      setScheduleData(map);
-      setLoading(false);
-    });
-
-    return () => { cancelled = true; };
-  }, [seasons]);
-
-  if (loading) return null;
+  // Find the specific teamId for this season from the team's teamIds array
+  // The season.divId can help us narrow down which teamId was active
+  const seasonTeamId = useMemo(() => {
+    // Try each team ID to find one that appears in the schedule for this division
+    if (!divData?.schedule?.records) return null;
+    if (!teamIds || teamIds.length === 0) return null;
+    for (const id of teamIds) {
+      const found = divData.schedule.records.some(
+        g => String(g.home?.teamId) === String(id) || String(g.away?.teamId) === String(id)
+      );
+      if (found) return String(id);
+    }
+    return null;
+  }, [teamIds, divData]);
 
   return (
-    <section className="team-page__schedule">
-      <h2>Schedule</h2>
-      {seasons.map((season, index) => (
+    <div className="team-page__season-section">
+      <h3 className="team-page__season-heading">
+        <Link to={`/seasons/${toSeasonSlug(season.seasonName)}/divisions/${season.divId}`}>
+          {title}
+        </Link>
+        {season.record && (
+          <span className="team-page__season-record">
+            {season.record.w}–{season.record.l}–{season.record.t}
+            {season.record.placement ? ` · Place ${season.record.placement}` : ''}
+          </span>
+        )}
+      </h3>
+
+      <Collapsible title="Schedule" defaultOpen={false}>
         <TeamSeasonSchedule
-          key={`${season.divId}-sched-${index}`}
-          teamId={teamId}
+          teamId={seasonTeamId}
           season={season}
-          data={scheduleData[season.divId]}
+          data={divData}
         />
-      ))}
-    </section>
+      </Collapsible>
+
+      <Collapsible title="Roster" defaultOpen={false}>
+        <SeasonRoster season={season} />
+      </Collapsible>
+    </div>
   );
 }
 
-/**
- * Schedule of a single season for the current team, with result coloring.
- */
 function TeamSeasonSchedule({ teamId, season, data }) {
-  if (!data || !data.schedule || !data.schedule.records) return null;
+  if (!teamId || !data?.schedule?.records) {
+    return <p className="team-page__empty">No schedule data available.</p>;
+  }
 
   const scoreMap = data.scores?.scores || {};
-
-  // Only games involving this team
   const games = data.schedule.records.filter(
-    (g) => String(g.home?.teamId) === String(teamId) || String(g.away?.teamId) === String(teamId)
+    g => String(g.home?.teamId) === teamId || String(g.away?.teamId) === teamId
   );
 
-  if (games.length === 0) return null;
+  if (games.length === 0) {
+    return <p className="team-page__empty">No games found for this team this season.</p>;
+  }
 
   const columns = [
     { key: 'date', label: 'Date', sortable: false },
@@ -225,38 +205,25 @@ function TeamSeasonSchedule({ teamId, season, data }) {
       ),
     },
     {
-      key: 'link',
-      label: '',
-      sortable: false,
-      render: (val, row) =>
-        row.gameId ? (
-          <Link to={`/games/${row.gameId}`}>
-            Box Score{row.ot ? ' (OT)' : ''}
-          </Link>
-        ) : '—',
+      key: 'link', label: '', sortable: false,
+      render: (val, row) => row.gameId
+        ? <Link to={`/games/${row.gameId}`}>Box Score{row.ot ? ' (OT)' : ''}</Link>
+        : '—',
     },
   ];
 
-  const data2 = games.map((g, idx) => {
-    const isHome = String(g.home?.teamId) === String(teamId);
+  const rows = games.map((g, idx) => {
+    const isHome = String(g.home?.teamId) === teamId;
     const opponent = isHome ? g.away : g.home;
     const result = g.gameId ? scoreMap[g.gameId] || null : null;
-
-    let teamScore = null;
-    let oppScore = null;
-    let resultClass;
+    let teamScore = null, oppScore = null, resultClass;
     if (result) {
-      teamScore = result.homeTeamId === String(teamId) ? result.homeScore : result.awayScore;
-      oppScore = result.homeTeamId === String(teamId) ? result.awayScore : result.homeScore;
-      if (result.tie) {
-        resultClass = 'cell-result--tie';
-      } else if (result.winnerTeamId === String(teamId)) {
-        resultClass = 'cell-result--win';
-      } else {
-        resultClass = result.ot ? 'cell-result--otl' : 'cell-result--loss';
-      }
+      teamScore = result.homeTeamId === teamId ? result.homeScore : result.awayScore;
+      oppScore = result.homeTeamId === teamId ? result.awayScore : result.homeScore;
+      if (result.tie) resultClass = 'cell-result--tie';
+      else if (result.winnerTeamId === teamId) resultClass = 'cell-result--win';
+      else resultClass = result.ot ? 'cell-result--otl' : 'cell-result--loss';
     }
-
     return {
       id: g.gameId || `g-${idx}`,
       date: g.date,
@@ -264,140 +231,150 @@ function TeamSeasonSchedule({ teamId, season, data }) {
       opponentId: opponent?.teamId,
       homeAway: isHome ? 'vs' : '@',
       played: !!result,
-      teamScore,
-      oppScore,
-      ot: result?.ot,
-      resultClass,
+      teamScore, oppScore, ot: result?.ot, resultClass,
       gameId: g.gameId,
     };
   });
 
-  return (
-    <div className="team-page__season-schedule">
-      <h3>
-        <Link to={`/seasons/${toSeasonSlug(season.seasonName)}/divisions/${season.divId}`}>
-          {season.seasonName} — {season.divisionLabel}
-        </Link>
-      </h3>
-      <StatsTable columns={columns} data={data2} defaultSort="date" defaultDirection="asc" />
-    </div>
-  );
+  return <StatsTable columns={columns} data={rows} defaultSort="date" defaultDirection="asc" />;
 }
 
-/**
- * Season-by-season record table showing W, L, T, PTS, placement per season.
- */
 function SeasonRecordTable({ seasons }) {
   if (!seasons || seasons.length === 0) return null;
-
   const columns = [
-    {
-      key: 'seasonName',
-      label: 'Season',
-      sortable: true,
-      render: (value, row) => (
-        <Link to={`/seasons/${toSeasonSlug(value)}/divisions/${row.divId}`}>
-          {value}
-        </Link>
-      ),
-    },
-    {
-      key: 'divisionLabel',
-      label: 'Division',
-      sortable: true,
-      render: (value, row) => (
-        <Link to={`/seasons/${toSeasonSlug(row.seasonName)}/divisions/${row.divId}`}>
-          {value}
-        </Link>
-      ),
-    },
+    { key: 'seasonName', label: 'Season', sortable: true,
+      render: (value, row) => <Link to={`/seasons/${toSeasonSlug(value)}/divisions/${row.divId}`}>{value}</Link> },
+    { key: 'divisionLabel', label: 'Division', sortable: true,
+      render: (value, row) => <Link to={`/seasons/${toSeasonSlug(row.seasonName)}/divisions/${row.divId}`}>{value}</Link> },
     { key: 'w', label: 'W', sortable: true },
     { key: 'l', label: 'L', sortable: true },
     { key: 't', label: 'T', sortable: true },
     { key: 'pts', label: 'PTS', sortable: true },
     { key: 'placement', label: 'Place', sortable: true },
   ];
-
-  const data = seasons.map((s, index) => ({
-    key: `${s.divId}-${index}`,
-    seasonName: s.seasonName,
-    divId: s.divId,
-    divisionLabel: s.divisionLabel,
-    w: s.record.w,
-    l: s.record.l,
-    t: s.record.t,
-    pts: s.record.pts,
-    placement: s.record.placement,
+  const data = seasons.map((s, i) => ({
+    key: `${s.divId}-${i}`, seasonName: s.seasonName, divId: s.divId,
+    divisionLabel: s.divisionLabel, w: s.record?.w || 0, l: s.record?.l || 0,
+    t: s.record?.t || 0, pts: s.record?.pts || 0, placement: s.record?.placement,
   }));
-
   return (
     <section className="team-page__records">
       <h2>Season-by-Season Record</h2>
-      <StatsTable
-        columns={columns}
-        data={data}
-        defaultSort="seasonName"
-        defaultDirection="desc"
-      />
+      <StatsTable columns={columns} data={data} defaultSort="seasonName" defaultDirection="desc" />
     </section>
   );
 }
 
 /**
- * Roster display for a single season: skaters and goalies tables.
+ * All-time leaders computed from team's roster snapshots across all seasons.
  */
+function AllTimeLeaders({ seasons }) {
+  const leaders = useMemo(() => {
+    const skaterTotals = {}; // name → {g,a,pts,pim,gp}
+    const goalieTotals = {}; // name → {w,gp}
+
+    for (const season of seasons) {
+      for (const s of (season.roster?.skaters || [])) {
+        if (!s.name) continue;
+        if (!skaterTotals[s.name]) skaterTotals[s.name] = { g: 0, a: 0, pts: 0, pim: 0, gp: 0 };
+        skaterTotals[s.name].g += s.g || 0;
+        skaterTotals[s.name].a += s.a || 0;
+        skaterTotals[s.name].pts += (s.g || 0) + (s.a || 0);
+        skaterTotals[s.name].pim += s.pim || 0;
+        skaterTotals[s.name].gp += s.gp || 0;
+      }
+      for (const g of (season.roster?.goalies || [])) {
+        if (!g.name) continue;
+        if (!goalieTotals[g.name]) goalieTotals[g.name] = { w: 0, gp: 0, sa: 0 };
+        goalieTotals[g.name].w += g.w || 0;
+        goalieTotals[g.name].gp += g.gp || 0;
+        goalieTotals[g.name].sa += g.sa || 0;
+      }
+    }
+
+    const top = (obj, key, n = 5, asc = false) =>
+      Object.entries(obj)
+        .map(([name, v]) => ({ name, value: v[key], gp: v.gp }))
+        .filter(e => e.value > 0)
+        .sort((a, b) => asc ? a.value - b.value : b.value - a.value)
+        .slice(0, n);
+
+    return {
+      pts: top(skaterTotals, 'pts'),
+      goals: top(skaterTotals, 'g'),
+      assists: top(skaterTotals, 'a'),
+      pim: top(skaterTotals, 'pim'),
+      wins: top(goalieTotals, 'w'),
+      sa: top(goalieTotals, 'sa'),
+    };
+  }, [seasons]);
+
+  const hasAny = Object.values(leaders).some(l => l.length > 0);
+  if (!hasAny) return null;
+
+  const categories = [
+    { key: 'pts', label: 'Points' },
+    { key: 'goals', label: 'Goals' },
+    { key: 'assists', label: 'Assists' },
+    { key: 'pim', label: 'PIM' },
+    { key: 'wins', label: 'Goalie Wins' },
+    { key: 'sa', label: 'Shots Against' },
+  ].filter(c => leaders[c.key]?.length > 0);
+
+  return (
+    <section className="team-page__leaders">
+      <h2>All-Time Leaders</h2>
+      <div className="team-page__leaders-grid">
+        {categories.map(cat => (
+          <div key={cat.key} className="team-page__leaders-card">
+            <h3>{cat.label}</h3>
+            <ol className="team-page__leaders-list">
+              {leaders[cat.key].map((entry, i) => (
+                <li key={`${entry.name}-${i}`} className="team-page__leaders-row">
+                  <span className="team-page__leaders-rank">{i + 1}</span>
+                  <span className="team-page__leaders-name">
+                    <PlayerLink playerId={generatePlayerIdFromName(entry.name)} name={entry.name} />
+                  </span>
+                  <span className="team-page__leaders-value">{entry.value}</span>
+                </li>
+              ))}
+            </ol>
+          </div>
+        ))}
+      </div>
+    </section>
+  );
+}
+
 function SeasonRoster({ season }) {
   const hasSkaters = season.roster?.skaters?.length > 0;
   const hasGoalies = season.roster?.goalies?.length > 0;
-
-  if (!hasSkaters && !hasGoalies) return null;
+  if (!hasSkaters && !hasGoalies) return <p className="team-page__empty">No roster data available.</p>;
 
   return (
-    <div className="team-page__season-roster">
-      <h3>
-        <Link to={`/seasons/${toSeasonSlug(season.seasonName)}/divisions/${season.divId}`}>
-          {season.seasonName} — {season.divisionLabel}
-        </Link>
-      </h3>
+    <div>
       {hasSkaters && <SkaterRoster skaters={season.roster.skaters} />}
       {hasGoalies && <GoalieRoster goalies={season.roster.goalies} />}
     </div>
   );
 }
 
-/**
- * Skater stats table with PlayerLink for each player name.
- */
 function SkaterRoster({ skaters }) {
   const columns = [
     { key: 'numberSort', label: '#', sortable: true, render: (val, row) => row.number },
-    {
-      key: 'name',
-      label: 'Name',
-      sortable: true,
-      render: (val) => (
-        <PlayerLink playerId={generatePlayerIdFromName(val)} name={val} />
-      ),
-    },
+    { key: 'name', label: 'Name', sortable: true,
+      render: (val) => <PlayerLink playerId={generatePlayerIdFromName(val)} name={val} /> },
     { key: 'gp', label: 'GP', sortable: true },
     { key: 'g', label: 'G', sortable: true },
     { key: 'a', label: 'A', sortable: true },
     { key: 'pts', label: 'PTS', sortable: true },
     { key: 'pim', label: 'PIM', sortable: true },
   ];
-
   const data = skaters.map((s, idx) => ({
-    id: `skater-${idx}-${s.number}`,
-    name: s.name,
-    number: s.number,
+    id: `skater-${idx}`, name: s.name, number: s.number,
     numberSort: parseInt(s.number, 10) || 0,
-    gp: s.gp,
-    g: s.g,
-    a: s.a,
-    pts: s.pts,
-    pim: s.pim,
+    gp: s.gp, g: s.g, a: s.a, pts: s.pts, pim: s.pim,
   }));
-
   return (
     <div className="roster-table">
       <h4>Skaters</h4>
@@ -406,21 +383,11 @@ function SkaterRoster({ skaters }) {
   );
 }
 
-/**
-/**
- * Goalie stats table with PlayerLink for each goalie name.
- */
 function GoalieRoster({ goalies }) {
   const columns = [
     { key: 'numberSort', label: '#', sortable: true, render: (val, row) => row.number },
-    {
-      key: 'name',
-      label: 'Name',
-      sortable: true,
-      render: (val) => (
-        <PlayerLink playerId={generatePlayerIdFromName(val)} name={val} />
-      ),
-    },
+    { key: 'name', label: 'Name', sortable: true,
+      render: (val) => <PlayerLink playerId={generatePlayerIdFromName(val)} name={val} /> },
     { key: 'gp', label: 'GP', sortable: true },
     { key: 'w', label: 'W', sortable: true },
     { key: 'l', label: 'L', sortable: true },
@@ -428,20 +395,11 @@ function GoalieRoster({ goalies }) {
     { key: 'gaa', label: 'GAA', sortable: true },
     { key: 'svpct', label: 'SV%', sortable: true },
   ];
-
   const data = goalies.map((g, idx) => ({
-    id: `goalie-${idx}-${g.number}`,
-    name: g.name,
-    number: g.number,
+    id: `goalie-${idx}`, name: g.name, number: g.number,
     numberSort: parseInt(g.number, 10) || 0,
-    gp: g.gp,
-    w: g.w,
-    l: g.l,
-    t: g.t,
-    gaa: g.gaa,
-    svpct: g.svpct,
+    gp: g.gp, w: g.w, l: g.l, t: g.t, gaa: g.gaa, svpct: g.svpct,
   }));
-
   return (
     <div className="roster-table">
       <h4>Goalies</h4>

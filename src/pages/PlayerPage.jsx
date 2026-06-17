@@ -136,9 +136,6 @@ export default function PlayerPage() {
 
       <header className="player-page__header">
         <h1 className="player-page__name">{player.displayName}</h1>
-        {player.number && (
-          <span className="player-page__number">#{player.number}</span>
-        )}
       </header>
 
       <section className="player-page__totals">
@@ -146,10 +143,10 @@ export default function PlayerPage() {
         <div className="player-page__totals-grid">
           {totalsColumns.map((col) => (
             <div key={col.key} className="player-page__stat">
-              <span className="player-page__stat-label">{col.label}</span>
               <span className="player-page__stat-value">
                 {player.totals[col.key] != null ? player.totals[col.key] : '—'}
               </span>
+              <span className="player-page__stat-label">{col.label}</span>
             </div>
           ))}
         </div>
@@ -200,11 +197,6 @@ function buildSeasonColumns(isGoalie) {
       render: (value, row) => (
         <TeamLink teamId={row.teamId} name={value} />
       ),
-    },
-    {
-      key: 'number',
-      label: '#',
-      sortable: false,
     },
   ];
 

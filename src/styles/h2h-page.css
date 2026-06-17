@@ -279,3 +279,43 @@
   text-align: right;
   width: 4rem;
 }
+
+/* ===== Typeahead combobox ===== */
+.h2h-combobox {
+  position: relative;
+  flex: 1;
+  min-width: 180px;
+}
+
+.h2h-combobox__input {
+  width: 100%;
+}
+
+.h2h-combobox__list {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  max-height: 240px;
+  overflow-y: auto;
+  background: var(--color-bg-primary);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md);
+  list-style: none;
+  padding: var(--spacing-xs) 0;
+  margin: 2px 0 0;
+  z-index: 200;
+}
+
+.h2h-combobox__item {
+  padding: var(--spacing-sm) var(--spacing-md);
+  cursor: pointer;
+  font-size: var(--font-size-sm);
+}
+
+.h2h-combobox__item:hover,
+.h2h-combobox__item--selected {
+  background: var(--color-bg-hover);
+  color: var(--color-brand-red);
+}

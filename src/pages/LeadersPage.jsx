@@ -61,32 +61,23 @@ export default function LeadersPage() {
 
   // Build columns for StatsTable
   const columns = [
-    {
-      key: 'rank',
-      label: '#',
-      sortable: false,
-    },
+    { key: 'rank', label: '#', sortable: false },
     {
       key: 'displayName',
       label: 'Player',
       sortable: true,
-      render: (value, row) => (
-        <PlayerLink playerId={row.id} name={value} />
-      ),
+      render: (value, row) => <PlayerLink playerId={row.id} name={value} />,
     },
-    {
-      key: 'value',
-      label: activeCategory.statLabel,
-      sortable: true,
-    },
+    { key: 'gp', label: 'GP', sortable: true },
+    { key: 'value', label: activeCategory.statLabel, sortable: true },
   ];
 
-  // Transform entries into table rows with rank and a unified `id` field
   const rows = entries.map((entry, index) => ({
     key: entry[activeCategory.idField] || index,
     rank: index + 1,
     id: entry[activeCategory.idField],
     displayName: entry.displayName,
+    gp: entry.gp || '—',
     value: entry.value,
   }));
 
@@ -99,7 +90,7 @@ export default function LeadersPage() {
         ]}
       />
 
-      <h1 className="leaders-page__title">All-Time Leaders</h1>
+      <h1 className="leaders-page__title">All-Time Leaders — Top 100</h1>
 
       <div className="leaders-page__tabs" role="tablist" aria-label="Leaderboard categories">
         {CATEGORIES.map((cat) => (

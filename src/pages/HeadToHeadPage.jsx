@@ -154,25 +154,28 @@ export default function HeadToHeadPage() {
 
       <div className="h2h-page__selection">
         <div className="h2h-page__dropdowns">
-          <label className="h2h-page__label">
-            <span>Team 1</span>
-            <select className="h2h-page__select" value={selectedTeam1} onChange={e => setSelectedTeam1(e.target.value)} aria-label="Select first team">
-              <option value="">Select a team...</option>
-              {teams.map(team => <option key={team.slug} value={team.slug}>{team.name}</option>)}
-            </select>
-          </label>
+          <TeamCombobox
+            label="Team 1"
+            teams={teams}
+            value={selectedTeam1}
+            onChange={setSelectedTeam1}
+          />
           <span className="h2h-page__vs" aria-hidden="true">vs</span>
-          <label className="h2h-page__label">
-            <span>Team 2</span>
-            <select className="h2h-page__select" value={selectedTeam2} onChange={e => setSelectedTeam2(e.target.value)} aria-label="Select second team">
-              <option value="">Select a team...</option>
-              {teams.map(team => <option key={team.slug} value={team.slug}>{team.name}</option>)}
-            </select>
-          </label>
+          <TeamCombobox
+            label="Team 2"
+            teams={teams}
+            value={selectedTeam2}
+            onChange={setSelectedTeam2}
+          />
           <button
             className="h2h-page__compare-btn"
             onClick={handleCompare}
-            disabled={!selectedTeam1 || !selectedTeam2 || selectedTeam1 === selectedTeam2}
+            disabled={
+              !selectedTeam1 || !selectedTeam2 ||
+              selectedTeam1 === selectedTeam2 ||
+              !teams.some(t => t.slug === selectedTeam1) ||
+              !teams.some(t => t.slug === selectedTeam2)
+            }
           >
             Compare
           </button>
@@ -341,5 +344,86 @@ function GameRow({ game, team1, team2 }) {
       </td>
       <td>{game.seasonName || '—'}</td>
     </tr>
+  );
+}
+
+/**
+ * Typeahead combobox for team selection.
+ * Allows typing to filter, resolves to a slug on valid selection.
+ * Fixes the browser dropdown overflow/positioning bug with native <select>.
+ */
+function TeamCombobox({ label, teams, value, onChange }) {
+  const [inputText, setInputText] = useState(() => teams.find(t => t.slug === value)?.name || '');
+  const [open, setOpen] = useState(false);
+  const containerRef = React.useRef(null);
+
+  // Sync display text when value changes externally (e.g. from URL)
+  React.useEffect(() => {
+    const found = teams.find(t => t.slug === value);
+    if (found) setInputText(found.name);
+  }, [value, teams]);
+
+  const filtered = inputText
+    ? teams.filter(t => t.name.toLowerCase().includes(inputText.toLowerCase()))
+    : teams;
+
+  const handleInput = (e) => {
+    setInputText(e.target.value);
+    setOpen(true);
+    // If input no longer matches a team, clear the slug value
+    const exact = teams.find(t => t.name.toLowerCase() === e.target.value.toLowerCase());
+    onChange(exact ? exact.slug : '');
+  };
+
+  const handleSelect = (team) => {
+    setInputText(team.name);
+    onChange(team.slug);
+    setOpen(false);
+  };
+
+  // Close on outside click
+  React.useEffect(() => {
+    const handler = (e) => {
+      if (containerRef.current && !containerRef.current.contains(e.target)) {
+        setOpen(false);
+      }
+    };
+    document.addEventListener('mousedown', handler);
+    return () => document.removeEventListener('mousedown', handler);
+  }, []);
+
+  return (
+    <div className="h2h-combobox" ref={containerRef}>
+      <label className="h2h-page__label">
+        <span>{label}</span>
+        <input
+          type="text"
+          className="h2h-page__select h2h-combobox__input"
+          value={inputText}
+          onChange={handleInput}
+          onFocus={() => setOpen(true)}
+          placeholder="Type to search..."
+          autoComplete="off"
+          aria-label={label}
+          aria-expanded={open}
+          aria-autocomplete="list"
+        />
+      </label>
+      {open && filtered.length > 0 && (
+        <ul className="h2h-combobox__list" role="listbox">
+          {filtered.slice(0, 50).map(team => (
+            <li
+              key={team.slug}
+              className={`h2h-combobox__item${team.slug === value ? ' h2h-combobox__item--selected' : ''}`}
+              onMouseDown={() => handleSelect(team)}
+              role="option"
+              aria-selected={team.slug === value}
+            >
+              {team.name}
+            </li>
+          ))}
+        </ul>
+      )}
+    </div>
   );
 }

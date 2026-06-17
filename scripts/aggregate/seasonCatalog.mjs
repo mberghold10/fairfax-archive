@@ -50,26 +50,29 @@ export async function buildSeasonCatalog(archiveDir) {
 }
 
 /**
+ * Sort key for a season name: returns a numeric value for chronological ordering.
+ * Higher = more recent. "Winter 2025" > "Summer 2025" > "Winter 2024" etc.
+ */
+function seasonSortKey(seasonName) {
+  const m = seasonName.match(/(\w+)\s+(\d{4})/);
+  if (!m) return 0;
+  const term = m[1].toLowerCase();
+  const year = parseInt(m[2], 10);
+  const termOrder = { spring: 1, summer: 2, fall: 3, winter: 4 };
+  return year * 10 + (termOrder[term] || 0);
+}
+
+/**
  * Pure function that builds the season catalog from an array of parsed meta objects.
- * This is the core logic extracted for testability without filesystem access.
- *
- * @param {Array<{seasonName: string, divisionLabel?: string, teams?: Record<string, string>, divId: string}>} metas
- * @returns {{seasons: Array}} The season catalog object
  */
 export function buildCatalogFromMetas(metas) {
-  // Group divisions by season name
   const seasonMap = new Map();
 
   for (const meta of metas) {
     const { seasonName, divisionLabel, teams, divId } = meta;
-    if (!seasonName || !divId) {
-      continue;
-    }
+    if (!seasonName || !divId) continue;
 
-    if (!seasonMap.has(seasonName)) {
-      seasonMap.set(seasonName, []);
-    }
-
+    if (!seasonMap.has(seasonName)) seasonMap.set(seasonName, []);
     seasonMap.get(seasonName).push({
       divId: String(divId),
       divisionLabel: divisionLabel || '',
@@ -77,20 +80,21 @@ export function buildCatalogFromMetas(metas) {
     });
   }
 
-  // Sort divisions within each season by divId ascending (for consistent ordering)
+  // Sort divisions within each season by divId ascending
   for (const divisions of seasonMap.values()) {
-    divisions.sort((a, b) => Number(a.divId) - Number(b.divId));
+    divisions.sort((a, b) => {
+      const an = Number(a.divId), bn = Number(b.divId);
+      if (!isNaN(an) && !isNaN(bn)) return an - bn;
+      return a.divId.localeCompare(b.divId);
+    });
   }
 
-  // Convert to array of seasons, ordered by max divId descending (most recent first)
+  // Sort seasons chronologically descending (most recent first)
+  // Primary: parsed season name sort key (year + term order)
+  // This handles both numeric and rr- prefixed divIds correctly
   const seasons = Array.from(seasonMap.entries())
-    .map(([seasonName, divisions]) => ({
-      seasonName,
-      divisions,
-      _maxDivId: Math.max(...divisions.map(d => Number(d.divId)))
-    }))
-    .sort((a, b) => b._maxDivId - a._maxDivId)
-    .map(({ seasonName, divisions }) => ({ seasonName, divisions }));
+    .map(([seasonName, divisions]) => ({ seasonName, divisions }))
+    .sort((a, b) => seasonSortKey(b.seasonName) - seasonSortKey(a.seasonName));
 
   return { seasons };
 }

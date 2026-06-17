@@ -159,6 +159,7 @@
 .division-leaders__grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  max-width: calc(3 * 260px + 2 * var(--spacing-lg));
   gap: var(--spacing-lg);
 }
 

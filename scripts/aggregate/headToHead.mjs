@@ -149,11 +149,7 @@ export async function buildHeadToHead(archiveDir, outputDir) {
       for (const game of records) {
         if (!game.gameId) continue;
 
-        const homeTeamId = game.home?.teamId;
-        const awayTeamId = game.away?.teamId;
-        if (!homeTeamId || !awayTeamId) continue;
-
-        // Read the game file to get scores
+        // Read the game file to get scores (and authoritative team IDs)
         let gameData;
         try {
           const gameRaw = await readFile(join(gamesDir, `${game.gameId}.json`), 'utf-8');
@@ -162,6 +158,11 @@ export async function buildHeadToHead(archiveDir, outputDir) {
           gamesSkipped++;
           continue;
         }
+
+        // Use game file teamIds as authoritative — playoff schedule entries have null teamIds
+        const homeTeamId = gameData.home?.teamId ? String(gameData.home.teamId) : String(game.home?.teamId || '');
+        const awayTeamId = gameData.away?.teamId ? String(gameData.away.teamId) : String(game.away?.teamId || '');
+        if (!homeTeamId || !awayTeamId) continue;
 
         // Only include games that have scores
         const homeScore = gameData.scoring?.home?.final;
@@ -176,17 +177,17 @@ export async function buildHeadToHead(archiveDir, outputDir) {
         const key = matchupKey(homeTeamId, awayTeamId);
 
         if (!matchups.has(key)) {
-          // Determine which is team1 (smaller ID) and team2
           const [t1Id, t2Id] = homeTeamId < awayTeamId
             ? [homeTeamId, awayTeamId]
             : [awayTeamId, homeTeamId];
 
+          // Use game file names (authoritative) — schedule names may say "Winner A"
           const t1Name = homeTeamId < awayTeamId
-            ? (game.home.name || '')
-            : (game.away.name || '');
+            ? (gameData.home.name || game.home?.name || '')
+            : (gameData.away.name || game.away?.name || '');
           const t2Name = homeTeamId < awayTeamId
-            ? (game.away.name || '')
-            : (game.home.name || '');
+            ? (gameData.away.name || game.away?.name || '')
+            : (gameData.home.name || game.home?.name || '');
 
           matchups.set(key, {
             team1: { teamId: t1Id, name: t1Name, wins: 0 },

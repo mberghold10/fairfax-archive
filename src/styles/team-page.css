@@ -82,3 +82,128 @@
   color: var(--color-text-muted);
   font-weight: var(--font-weight-semibold);
 }
+
+/* ===== All-time leaders ===== */
+.team-page__leaders {
+  margin-bottom: var(--spacing-2xl);
+}
+
+.team-page__leaders h2 {
+  position: relative;
+  padding-left: var(--spacing-md);
+  margin-top: var(--spacing-2xl);
+  margin-bottom: var(--spacing-lg);
+}
+
+.team-page__leaders h2::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 4px;
+  background-color: var(--color-brand-red);
+  border-radius: var(--radius-sm);
+}
+
+.team-page__leaders-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  max-width: calc(3 * 220px + 2 * var(--spacing-lg));
+  gap: var(--spacing-lg);
+}
+
+.team-page__leaders-card {
+  background-color: var(--color-bg-secondary);
+  border: 1px solid var(--color-border-light);
+  border-radius: var(--radius-lg);
+  padding: var(--spacing-md) var(--spacing-lg);
+}
+
+.team-page__leaders-card h3 {
+  color: var(--color-brand-red);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-semibold);
+  margin: 0 0 var(--spacing-sm);
+  padding-bottom: var(--spacing-xs);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.team-page__leaders-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.team-page__leaders-row {
+  display: flex;
+  align-items: baseline;
+  gap: var(--spacing-sm);
+  padding: var(--spacing-xs) 0;
+  font-size: var(--font-size-sm);
+}
+
+.team-page__leaders-rank {
+  flex: 0 0 1.5rem;
+  color: var(--color-text-muted);
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.team-page__leaders-name {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.team-page__leaders-value {
+  flex: 0 0 auto;
+  font-weight: var(--font-weight-bold);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ===== Per-season section ===== */
+.team-page__seasons h2 {
+  position: relative;
+  padding-left: var(--spacing-md);
+  margin-top: var(--spacing-2xl);
+  margin-bottom: var(--spacing-lg);
+}
+
+.team-page__seasons h2::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 4px;
+  background-color: var(--color-brand-red);
+  border-radius: var(--radius-sm);
+}
+
+.team-page__season-section {
+  margin-bottom: var(--spacing-xl);
+  padding: var(--spacing-lg);
+  background-color: var(--color-bg-secondary);
+  border: 1px solid var(--color-border-light);
+  border-left: 4px solid var(--color-brand-red);
+  border-radius: var(--radius-lg);
+}
+
+.team-page__season-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--spacing-md);
+  margin: 0 0 var(--spacing-md);
+  font-size: var(--font-size-lg);
+  flex-wrap: wrap;
+}
+
+.team-page__season-record {
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-normal);
+  color: var(--color-text-secondary);
+  white-space: nowrap;
+}
+
+.team-page__empty {
+  color: var(--color-text-muted);
+  font-size: var(--font-size-sm);
+  font-style: italic;
+}

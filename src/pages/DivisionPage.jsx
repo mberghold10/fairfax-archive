@@ -6,6 +6,7 @@ import PlayerLink from '../components/PlayerLink.jsx';
 import TeamLink from '../components/TeamLink.jsx';
 import Loading from '../components/Loading.jsx';
 import ErrorMessage from '../components/ErrorMessage.jsx';
+import Collapsible from '../components/Collapsible.jsx';
 import '../styles/division-page.css';
 
 /**
@@ -367,14 +368,18 @@ function ScheduleSection({ title, schedule, scores }) {
 
   const data = schedule.records.map((game, idx) => {
     const result = game.gameId ? scoreMap[game.gameId] || null : null;
+    // Playoff schedules have null teamIds — fall back to the game file's teamIds from scores
+    const homeTeamId = game.home.teamId || result?.homeTeamId || null;
+    const awayTeamId = game.away.teamId || result?.awayTeamId || null;
+    // For display: if schedule has "Winner A" style names but result has real names, prefer result
     return {
       id: game.gameId || `game-${idx}`,
       date: game.date,
       time: game.time,
       home: game.home.name,
-      homeTeamId: game.home.teamId,
+      homeTeamId,
       away: game.away.name,
-      awayTeamId: game.away.teamId,
+      awayTeamId,
       gameId: game.gameId,
       result,
       score: result ? result.homeScore + result.awayScore : (game.gameId ? 0 : null),
@@ -384,7 +389,9 @@ function ScheduleSection({ title, schedule, scores }) {
   return (
     <section className="division-schedule">
       <h2>{title}</h2>
-      <StatsTable columns={columns} data={data} defaultSort="date" defaultDirection="asc" />
+      <Collapsible title={`${data.length} game${data.length !== 1 ? 's' : ''}`} defaultOpen={false}>
+        <StatsTable columns={columns} data={data} defaultSort="date" defaultDirection="asc" />
+      </Collapsible>
     </section>
   );
 }
@@ -439,19 +446,19 @@ function RostersSection({ rosters, meta }) {
   const isSingleBucket = teamIds.length === 1 && Object.keys(teams).length > 1;
 
   if (isSingleBucket) {
-    // All players are in one bucket — display as a flat division roster
     return (
       <section className="division-rosters">
         <h2>Rosters</h2>
-        <div className="division-rosters__team">
-          <SkaterRoster skaters={allSkaters} />
-          <GoalieRoster goalies={allGoalies} />
-        </div>
+        <Collapsible title={`${allSkaters.length} skaters · ${allGoalies.length} goalies`} defaultOpen={false}>
+          <div className="division-rosters__team">
+            <SkaterRoster skaters={allSkaters} />
+            <GoalieRoster goalies={allGoalies} />
+          </div>
+        </Collapsible>
       </section>
     );
   }
 
-  // Multiple team IDs exist — display grouped by team
   return (
     <section className="division-rosters">
       <h2>Rosters</h2>
@@ -460,12 +467,16 @@ function RostersSection({ rosters, meta }) {
                          skatersByTeam[teamId]?.[0]?.team?.name ||
                          goaliesByTeam[teamId]?.[0]?.team?.name ||
                          `Team ${teamId}`;
+        const skaterCount = skatersByTeam[teamId]?.length || 0;
+        const goalieCount = goaliesByTeam[teamId]?.length || 0;
 
         return (
           <div key={teamId} className="division-rosters__team">
             <h3><TeamLink teamId={teamId} name={teamName} /></h3>
-            <SkaterRoster skaters={skatersByTeam[teamId]} />
-            <GoalieRoster goalies={goaliesByTeam[teamId]} />
+            <Collapsible title={`${skaterCount} skaters · ${goalieCount} goalies`} defaultOpen={false}>
+              <SkaterRoster skaters={skatersByTeam[teamId]} />
+              <GoalieRoster goalies={goaliesByTeam[teamId]} />
+            </Collapsible>
           </div>
         );
       })}

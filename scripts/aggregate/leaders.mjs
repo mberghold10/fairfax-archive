@@ -24,32 +24,32 @@ const TOP_N = 100;
  */
 export function buildLeaders(allPlayers, allGoalies) {
   const goals = allPlayers
-    .map(p => ({ playerId: p.id, displayName: p.displayName, value: p.totals.g }))
+    .map(p => ({ playerId: p.id, displayName: p.displayName, value: p.totals.g, gp: p.totals.gp }))
     .sort((a, b) => b.value - a.value)
     .slice(0, TOP_N);
 
   const assists = allPlayers
-    .map(p => ({ playerId: p.id, displayName: p.displayName, value: p.totals.a }))
+    .map(p => ({ playerId: p.id, displayName: p.displayName, value: p.totals.a, gp: p.totals.gp }))
     .sort((a, b) => b.value - a.value)
     .slice(0, TOP_N);
 
   const points = allPlayers
-    .map(p => ({ playerId: p.id, displayName: p.displayName, value: p.totals.pts }))
+    .map(p => ({ playerId: p.id, displayName: p.displayName, value: p.totals.pts, gp: p.totals.gp }))
     .sort((a, b) => b.value - a.value)
     .slice(0, TOP_N);
 
   const pim = allPlayers
-    .map(p => ({ playerId: p.id, displayName: p.displayName, value: p.totals.pim }))
+    .map(p => ({ playerId: p.id, displayName: p.displayName, value: p.totals.pim, gp: p.totals.gp }))
     .sort((a, b) => b.value - a.value)
     .slice(0, TOP_N);
 
   const wins = allGoalies
-    .map(g => ({ goalieId: g.id, displayName: g.displayName, value: g.totals.w }))
+    .map(g => ({ goalieId: g.id, displayName: g.displayName, value: g.totals.w, gp: g.totals.gp }))
     .sort((a, b) => b.value - a.value)
     .slice(0, TOP_N);
 
   const shutouts = allGoalies
-    .map(g => ({ goalieId: g.id, displayName: g.displayName, value: g.totals.so }))
+    .map(g => ({ goalieId: g.id, displayName: g.displayName, value: g.totals.so, gp: g.totals.gp }))
     .sort((a, b) => b.value - a.value)
     .slice(0, TOP_N);
 

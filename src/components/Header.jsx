@@ -1,7 +1,6 @@
 import React from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import { useTheme } from '../utils/ThemeProvider.jsx';
-import SearchOverlay from './SearchOverlay.jsx';
 
 export default function Header({ onMenuToggle, menuOpen }) {
   const { theme, toggleTheme } = useTheme();
@@ -21,10 +20,6 @@ export default function Header({ onMenuToggle, menuOpen }) {
           <NavLink to="/head-to-head">Matchups</NavLink>
           <NavLink to="/feedback">Feedback</NavLink>
         </nav>
-
-        <div className="header-search">
-          <SearchOverlay />
-        </div>
 
         <div className="header-actions">
           <button
