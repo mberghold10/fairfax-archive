@@ -19,6 +19,7 @@ export default function Header({ onMenuToggle, menuOpen }) {
           <NavLink to="/leaders">Leaders</NavLink>
           <NavLink to="/head-to-head">Matchups</NavLink>
           <NavLink to="/feedback">Feedback</NavLink>
+          <NavLink to="/data">Data</NavLink>
         </nav>
 
         <div className="header-actions">

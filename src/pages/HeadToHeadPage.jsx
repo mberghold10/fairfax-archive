@@ -224,38 +224,29 @@ function MatchupResults({ matchup, team1Slug, team2Slug, playerStats }) {
 
   return (
     <>
-      {/* Record split by regular season / playoffs */}
+      {/* Record from team1's perspective */}
       <div className="h2h-page__record">
-        <h2 className="h2h-page__record-title">All-Time Record</h2>
-        <div className="h2h-page__record-grid">
-          <div className="h2h-page__record-team">
-            <TeamLink teamId={team1.teamId} name={team1.name} />
-            <span className="h2h-page__record-value">{team1.wins} W</span>
-          </div>
-          <div className="h2h-page__record-ties">
-            <span className="h2h-page__record-ties-value">{matchup.ties} T</span>
-          </div>
-          <div className="h2h-page__record-team">
-            <TeamLink teamId={team2.teamId} name={team2.name} />
-            <span className="h2h-page__record-value">{team2.wins} W</span>
-          </div>
-        </div>
-
-        {/* Sub-records */}
-        <div className="h2h-page__subrecords">
-          <div className="h2h-page__subrecord">
-            <span className="h2h-page__subrecord-label">Regular Season</span>
-            <span className="h2h-page__subrecord-value">
-              {regT1W}–{regTies}–{regT2W}
+        <h2 className="h2h-page__record-title">
+          {team1.name} vs {team2.name}
+        </h2>
+        <div className="h2h-page__record-lines">
+          <p className="h2h-page__record-line">
+            <span className="h2h-page__record-line-label">Regular Season</span>
+            <span className="h2h-page__record-line-value">
+              {regT1W} Win{regT1W !== 1 ? 's' : ''},{' '}
+              {regT2W} Loss{regT2W !== 1 ? 'es' : ''},{' '}
+              {regTies} Tie{regTies !== 1 ? 's' : ''}
             </span>
-          </div>
+          </p>
           {playoffGames.length > 0 && (
-            <div className="h2h-page__subrecord">
-              <span className="h2h-page__subrecord-label">🏆 Playoffs</span>
-              <span className="h2h-page__subrecord-value">
-                {countWins(playoffGames, team1.teamId)}–0–{countWins(playoffGames, team2.teamId)}
+            <p className="h2h-page__record-line">
+              <span className="h2h-page__record-line-label">🏆 Playoffs</span>
+              <span className="h2h-page__record-line-value">
+                {countWins(playoffGames, team1.teamId)} Win{countWins(playoffGames, team1.teamId) !== 1 ? 's' : ''},{' '}
+                {countWins(playoffGames, team2.teamId)} Loss{countWins(playoffGames, team2.teamId) !== 1 ? 'es' : ''},{' '}
+                {playoffGames.filter(g => g.score.home === g.score.away).length} Ties
               </span>
-            </div>
+            </p>
           )}
         </div>
       </div>

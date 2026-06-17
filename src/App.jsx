@@ -14,6 +14,7 @@ const HeadToHeadPage = lazy(() => import('./pages/HeadToHeadPage'));
 const LeadersPage = lazy(() => import('./pages/LeadersPage'));
 const SuspensionsPage = lazy(() => import('./pages/SuspensionsPage'));
 const FeedbackPage = lazy(() => import('./pages/FeedbackPage'));
+const DataPage = lazy(() => import('./pages/DataPage'));
 const NotFoundPage = lazy(() => import('./pages/NotFoundPage'));
 
 export default function App() {
@@ -35,6 +36,7 @@ export default function App() {
             <Route path="/leaders" element={<LeadersPage />} />
             <Route path="/suspensions" element={<SuspensionsPage />} />
             <Route path="/feedback" element={<FeedbackPage />} />
+            <Route path="/data" element={<DataPage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Routes>
         </Suspense>

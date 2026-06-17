@@ -14,6 +14,7 @@ export default function MobileNav({ open, onClose }) {
       <NavLink to="/leaders" onClick={onClose}>Leaders</NavLink>
       <NavLink to="/head-to-head" onClick={onClose}>Matchups</NavLink>
       <NavLink to="/feedback" onClick={onClose}>Feedback</NavLink>
+      <NavLink to="/data" onClick={onClose}>Data</NavLink>
 
       <div className="mobile-nav-search">
         <SearchOverlay />
