@@ -212,13 +212,20 @@ function MatchupResults({ matchup, team1Slug, team2Slug, playerStats }) {
   const regularGames = matchup.games.filter(g => !g.playoff);
   const playoffGames = matchup.games.filter(g => g.playoff);
 
-  const countWins = (games, teamId) => games.filter(g =>
-    (g.homeTeamId === teamId && g.score.home > g.score.away) ||
-    (g.homeTeamId !== teamId && g.score.away > g.score.home)
-  ).length;
+  // Use homeTeamSlug for cross-season win counting — homeTeamId varies per season
+  const t1Slug = toTeamSlug(team1.name);
+  const t2Slug = toTeamSlug(team2.name);
 
-  const regT1W = countWins(regularGames, team1.teamId);
-  const regT2W = countWins(regularGames, team2.teamId);
+  const countWins = (games, teamSlug) => games.filter(g => {
+    const homeIsTeam = g.homeTeamSlug
+      ? g.homeTeamSlug === teamSlug
+      : g.homeTeamId === (teamSlug === t1Slug ? team1.teamId : team2.teamId);
+    return (homeIsTeam && g.score.home > g.score.away) ||
+           (!homeIsTeam && g.score.away > g.score.home);
+  }).length;
+
+  const regT1W = countWins(regularGames, t1Slug);
+  const regT2W = countWins(regularGames, t2Slug);
   const regTies = regularGames.filter(g => g.score.home === g.score.away).length;
   const tabGames = activeTab === 'playoffs' ? playoffGames : regularGames;
 
@@ -242,8 +249,8 @@ function MatchupResults({ matchup, team1Slug, team2Slug, playerStats }) {
             <p className="h2h-page__record-line">
               <span className="h2h-page__record-line-label">🏆 Playoffs</span>
               <span className="h2h-page__record-line-value">
-                {countWins(playoffGames, team1.teamId)} Win{countWins(playoffGames, team1.teamId) !== 1 ? 's' : ''},{' '}
-                {countWins(playoffGames, team2.teamId)} Loss{countWins(playoffGames, team2.teamId) !== 1 ? 'es' : ''},{' '}
+                {countWins(playoffGames, t1Slug)} Win{countWins(playoffGames, t1Slug) !== 1 ? 's' : ''},{' '}
+                {countWins(playoffGames, t2Slug)} Loss{countWins(playoffGames, t2Slug) !== 1 ? 'es' : ''},{' '}
                 {playoffGames.filter(g => g.score.home === g.score.away).length} Ties
               </span>
             </p>

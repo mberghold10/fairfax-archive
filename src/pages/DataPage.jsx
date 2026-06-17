@@ -256,54 +256,65 @@ export default function DataPage() {
             <input
               type="search"
               className="data-page__search"
-              placeholder="Search teams…"
+              placeholder="Type a team name…"
               value={teamFilter}
               onChange={e => { setTeamFilter(e.target.value); setSelectedTeam(''); }}
               aria-label="Search teams"
             />
-            <select
-              className="data-page__select"
-              value={selectedTeam}
-              onChange={e => setSelectedTeam(e.target.value)}
-              aria-label="Select a team"
-              size={6}
-            >
-              {filteredTeams.map(t => (
-                <option key={t} value={t}>{t}</option>
-              ))}
-            </select>
+
+            {teamFilter.trim() && (
+              <ul className="data-page__team-list">
+                {filteredTeams.slice(0, 20).map(t => (
+                  <li
+                    key={t}
+                    className={`data-page__team-item${selectedTeam === t ? ' data-page__team-item--selected' : ''}`}
+                    onClick={() => setSelectedTeam(t)}
+                  >
+                    <span className="data-page__team-name">{t}</span>
+                  </li>
+                ))}
+                {filteredTeams.length === 0 && (
+                  <li className="data-page__team-empty">No teams match "{teamFilter}"</li>
+                )}
+              </ul>
+            )}
 
             {selectedTeam && (
-              <div className="data-page__buttons data-page__buttons--team">
-                <DownloadButton
-                  label={`${selectedTeam} — Full History`}
-                  format="json"
-                  onDownload={() =>
-                    downloadJson(`/data/teams/${toSlug(selectedTeam)}.json`, `${toSlug(selectedTeam)}.json`)
-                  }
-                />
-                <DownloadButton
-                  label={`${selectedTeam} — Season Records`}
-                  format="csv"
-                  onDownload={() =>
-                    downloadCSV(
-                      `/data/teams/${toSlug(selectedTeam)}.json`,
-                      `${toSlug(selectedTeam)}-seasons.csv`,
-                      flattenTeamSeasons
-                    )
-                  }
-                />
-                <DownloadButton
-                  label={`${selectedTeam} — All Rosters`}
-                  format="csv"
-                  onDownload={() =>
-                    downloadCSV(
-                      `/data/teams/${toSlug(selectedTeam)}.json`,
-                      `${toSlug(selectedTeam)}-rosters.csv`,
-                      flattenTeamSkaters
-                    )
-                  }
-                />
+              <div className="data-page__team-downloads">
+                <p className="data-page__team-selected">
+                  Downloads for <strong>{selectedTeam}</strong>:
+                </p>
+                <div className="data-page__buttons">
+                  <DownloadButton
+                    label="Full History"
+                    format="json"
+                    onDownload={() =>
+                      downloadJson(`/data/teams/${toSlug(selectedTeam)}.json`, `${toSlug(selectedTeam)}.json`)
+                    }
+                  />
+                  <DownloadButton
+                    label="Season Records"
+                    format="csv"
+                    onDownload={() =>
+                      downloadCSV(
+                        `/data/teams/${toSlug(selectedTeam)}.json`,
+                        `${toSlug(selectedTeam)}-seasons.csv`,
+                        flattenTeamSeasons
+                      )
+                    }
+                  />
+                  <DownloadButton
+                    label="All Rosters"
+                    format="csv"
+                    onDownload={() =>
+                      downloadCSV(
+                        `/data/teams/${toSlug(selectedTeam)}.json`,
+                        `${toSlug(selectedTeam)}-rosters.csv`,
+                        flattenTeamSkaters
+                      )
+                    }
+                  />
+                </div>
               </div>
             )}
           </div>
