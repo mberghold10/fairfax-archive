@@ -15,6 +15,13 @@ function toSeasonSlug(seasonName) {
   return seasonName.toLowerCase().replace(/\s+/g, '-');
 }
 
+function seasonSortKey(seasonName) {
+  const m = (seasonName || '').match(/(\w+)\s+(\d{4})/);
+  if (!m) return 0;
+  const order = { spring: 1, summer: 2, fall: 3, winter: 4 };
+  return parseInt(m[2], 10) * 10 + (order[m[1].toLowerCase()] || 0);
+}
+
 /**
  * Skater career totals columns for display.
  */
@@ -118,6 +125,7 @@ export default function PlayerPage() {
   const seasonRows = (player.seasons || []).map((s, index) => ({
     key: `${s.divId}-${index}`,
     seasonName: s.seasonName,
+    seasonSort: seasonSortKey(s.seasonName),
     divId: s.divId,
     divisionLabel: s.divisionLabel,
     teamId: s.teamId,
@@ -158,7 +166,7 @@ export default function PlayerPage() {
         <StatsTable
           columns={seasonColumns}
           data={seasonRows}
-          defaultSort="seasonName"
+          defaultSort="seasonSort"
           defaultDirection="desc"
         />
       </section>

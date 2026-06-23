@@ -6,7 +6,9 @@
     <title>Fairfax Ice Arena Archive</title>
   </head>
   <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
+    <script>
+      sessionStorage.setItem('spa:path', location.pathname + location.search + location.hash);
+      location.replace('/');
+    </script>
   </body>
 </html>
