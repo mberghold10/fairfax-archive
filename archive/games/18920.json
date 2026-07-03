@@ -1,0 +1,152 @@
+{
+  "gameId": "18920",
+  "date": "2026-06-08",
+  "divId": 321,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1963",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1966",
+    "name": "Punishers HC"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "scorer": "#10 - Rob  Cobb",
+      "assist1": "#5 - Mike  Jones",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "scorer": "#13 - Babi  Wind",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:09",
+      "team": {
+        "teamId": "1963",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#13 - Rob  Wittman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:23",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "scorer": "#10 - Rob  Cobb",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:02",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "scorer": "#13 - Babi  Wind",
+      "assist1": "#14 - Richard  Cole",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:12",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "scorer": "#10 - Rob  Cobb",
+      "assist1": "#13 - Babi  Wind",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1963",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#7 - Ethan  Liu",
+      "assist1": "#92 - Len  Desrouleaux",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:25",
+      "team": {
+        "teamId": "1963",
+        "name": "Blue Crabs"
+      },
+      "player": "#18 - Brian  Crossin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:46",
+      "team": {
+        "teamId": "1963",
+        "name": "Blue Crabs"
+      },
+      "player": "#17 - Kevin  Roehner",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:21",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "player": "#35 - Jeff  Colwell",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-02T14:01:17.346Z"
+}

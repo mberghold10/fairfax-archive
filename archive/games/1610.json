@@ -1,0 +1,163 @@
+{
+  "gameId": "1610",
+  "date": "2026-06-12",
+  "divId": 321,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1962",
+    "name": "Pharaohs"
+  },
+  "away": {
+    "teamId": "1967",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 4,
+      "p2": 0,
+      "p3": 4,
+      "ot": 8,
+      "final": 8
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:58",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": "#3 - Bobby  Woods-Corwin",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:09",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "scorer": "#12 - Chris  Yoko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:22",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "scorer": "#7 - Alex  Rinaldi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": "#7 - Alex  Rinaldi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:44",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "scorer": "#12 - Chris  Yoko",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "scorer": "#0 - Curt  Tucker",
+      "assist1": "#7 - Alex  Rinaldi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:54",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:57",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#4 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:51",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#18 - Michael  Dewhirst",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:32",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#7 - Alex  Rinaldi",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-02T14:01:56.755Z"
+}

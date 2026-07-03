@@ -1,0 +1,143 @@
+{
+  "gameId": "1616",
+  "date": "2026-06-20",
+  "divId": 321,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1966",
+    "name": "Punishers HC"
+  },
+  "away": {
+    "teamId": "1964",
+    "name": "D 4th Liners"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 4,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:11",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#6 - Wes  Smith",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:37",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "scorer": "#16 - Zach  Gonyea",
+      "assist1": "#12 - Dave  OMalley",
+      "assist2": "#27 - Dave  Lin"
+    },
+    {
+      "period": "1",
+      "time": "00:14:26",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:10",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "scorer": "#25 - Kyle  Brubaker",
+      "assist1": "#10 - Rob  Cobb",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:45",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": "#13 - Babi  Wind",
+      "assist2": "#12 - Dave  OMalley"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:46",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "player": "#3 - Colin  Ray",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:58",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "player": "#12 - Dave  OMalley",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "player": "#1 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:09",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "player": "#12 - Dave  OMalley",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-02T14:01:53.798Z"
+}

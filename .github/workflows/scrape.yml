@@ -8,10 +8,7 @@ on:
   workflow_dispatch:
     inputs:
       div_id:
-        description: 'Division ID to scrape (leave blank for all known seasons)'
-        required: false
-      team_id:
-        description: 'Team ID to scrape (required if div_id is set)'
+        description: 'Division ID to scrape fully (leave blank to discover + refresh active seasons)'
         required: false
       dry_run:
         description: 'Dry run only (no files written)'
@@ -42,29 +39,34 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Check for new season
-        id: season_check
-        run: |
-          node scripts/scrape-stiltweb.mjs --check-only
-          echo "exit_code=$?" >> $GITHUB_OUTPUT
+      - name: Discover new divisions
+        if: ${{ inputs.div_id == '' || inputs.div_id == null }}
         continue-on-error: true
-
-      - name: Scrape current season data
-        if: ${{ inputs.dry_run != 'true' }}
         run: |
-          if [ -n "${{ inputs.div_id }}" ] && [ -n "${{ inputs.team_id }}" ]; then
-            node scripts/scrape-stiltweb.mjs --div ${{ inputs.div_id }} --team ${{ inputs.team_id }}
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            node scripts/scrape-division.mjs --discover --dry-run
           else
-            node scripts/scrape-stiltweb.mjs
+            node scripts/scrape-division.mjs --discover --scrape
           fi
 
-      - name: Scrape (dry run)
-        if: ${{ inputs.dry_run == 'true' }}
+      - name: Refresh active seasons
+        if: ${{ inputs.div_id == '' || inputs.div_id == null }}
+        continue-on-error: true
         run: |
-          if [ -n "${{ inputs.div_id }}" ] && [ -n "${{ inputs.team_id }}" ]; then
-            node scripts/scrape-stiltweb.mjs --dry-run --div ${{ inputs.div_id }} --team ${{ inputs.team_id }}
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            node scripts/scrape-division.mjs --refresh-active --dry-run
           else
-            node scripts/scrape-stiltweb.mjs --dry-run
+            node scripts/scrape-division.mjs --refresh-active
+          fi
+
+      - name: Scrape specific division
+        if: ${{ inputs.div_id != '' && inputs.div_id != null }}
+        continue-on-error: true
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            node scripts/scrape-division.mjs --div ${{ inputs.div_id }} --dry-run
+          else
+            node scripts/scrape-division.mjs --div ${{ inputs.div_id }}
           fi
 
       - name: Check if archive changed

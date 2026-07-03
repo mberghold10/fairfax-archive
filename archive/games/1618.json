@@ -1,0 +1,152 @@
+{
+  "gameId": "1618",
+  "date": "2026-06-22",
+  "divId": 321,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1966",
+    "name": "Punishers HC"
+  },
+  "away": {
+    "teamId": "1965",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 6,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#17 - Cory  Schneid",
+      "assist1": "#51 - Stewart  Schuler",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:46",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#40 - Mikail  Serebrennikov",
+      "assist1": "#91 - Jake  Barnett",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:39",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#22 - Andrew  Justus",
+      "assist1": "#17 - Cory  Schneid",
+      "assist2": "#55 - Rob  Fischer"
+    },
+    {
+      "period": "2",
+      "time": "00:08:46",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": "#91 - Jake  Barnett",
+      "assist2": "#40 - Mikail  Serebrennikov"
+    },
+    {
+      "period": "2",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "scorer": "#2 - Doug  Harke",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:13",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#51 - Stewart  Schuler",
+      "assist1": "#22 - Andrew  Justus",
+      "assist2": "#25 - Bob  Banasik"
+    },
+    {
+      "period": "3",
+      "time": "00:06:46",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#17 - Cory  Schneid",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:29",
+      "team": {
+        "teamId": "1966",
+        "name": "Punishers HC"
+      },
+      "player": "#1 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "player": "#2 - Mike  Parker",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:10",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "player": "#40 - Mikail  Serebrennikov",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-02T14:01:52.936Z"
+}

@@ -4,15 +4,53 @@
   "kind": "schedule",
   "records": [
     {
-      "gameId": "1568",
+      "date": "2025-11-30",
+      "time": "",
+      "home": {
+        "teamId": "1910",
+        "name": "Blue Crabs"
+      },
+      "away": {
+        "teamId": "1909",
+        "name": "DPunishers"
+      },
+      "gameId": "1570",
+      "mode": "playoff",
+      "divId": 312,
+      "seasonName": "Summer 2025"
+    },
+    {
+      "date": "2025-11-23",
+      "time": "",
+      "home": {
+        "teamId": "1907",
+        "name": "Angry Moose"
+      },
+      "away": {
+        "teamId": "1910",
+        "name": "Blue Crabs"
+      },
+      "gameId": "1569",
+      "mode": "playoff",
+      "divId": 312,
+      "seasonName": "Summer 2025"
+    },
+    {
       "date": "2025-11-17",
-      "home": "Pharoahs",
-      "homeTeamId": "1911",
-      "away": "DPunishers",
-      "awayTeamId": "1909",
-      "homeScore": 3,
-      "awayScore": 4,
-      "result": "L"
+      "time": "",
+      "home": {
+        "teamId": "1911",
+        "name": "Pharaohs"
+      },
+      "away": {
+        "teamId": "1909",
+        "name": "DPunishers"
+      },
+      "gameId": "1568",
+      "mode": "playoff",
+      "divId": 312,
+      "seasonName": "Summer 2025"
     }
-  ]
+  ],
+  "_updated": "2026-07-02T14:03:32.850Z"
 }

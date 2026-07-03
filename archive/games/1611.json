@@ -1,0 +1,350 @@
+{
+  "gameId": "1611",
+  "date": "2026-06-14",
+  "divId": 321,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1967",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "1964",
+    "name": "D 4th Liners"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 3,
+      "final": 3
+    },
+    "away": {
+      "p1": 3,
+      "p2": 6,
+      "p3": 0,
+      "ot": 9,
+      "final": 9
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#19 - Joe  Beard",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "scorer": "#7 - Alex  Rinaldi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#17 - Nicholas  Peraino",
+      "assist1": "#92 - Markus  Grantz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#19 - Joe  Beard",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:09",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#2 - Jack  Lockerby",
+      "assist1": "#28 - Parker  Condit",
+      "assist2": "#29 - Kashif  Haque"
+    },
+    {
+      "period": "2",
+      "time": "00:06:06",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#10 - Jeremy  Riccio",
+      "assist1": "#29 - Kashif  Haque",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:39",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#3 - Colin  Ray",
+      "assist1": "#19 - Joe  Beard",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:45",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "scorer": "#42 - Dave  Hagemeier",
+      "assist1": "#7 - Alex  Rinaldi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:44",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#29 - Kashif  Haque",
+      "assist1": "#92 - Markus  Grantz",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#2 - Jack  Lockerby",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:18",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#8 - Jordan  Walerstein",
+      "assist1": "#17 - Nicholas  Peraino",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "scorer": "#26 - Jeremy  Whang",
+      "assist1": "#7 - Alex  Rinaldi",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:31",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#12 - Chris  Yoko",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "player": "#7 - Steven  Roessler",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:07",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:09",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#33 - Adam  Bartholomew",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:25",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#4 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:18",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "player": "#17 - Nicholas  Peraino",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:56",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "player": "#8 - Jordan  Walerstein",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:42",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#12 - Chris  Yoko",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:59",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#7 - Alex  Rinaldi",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:59",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "player": "#8 - Jordan  Walerstein",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:16",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:16",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "player": "#17 - Nicholas  Peraino",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "1967",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:38",
+      "team": {
+        "teamId": "1964",
+        "name": "D 4th Liners"
+      },
+      "player": "#19 - Joe  Beard",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-02T14:01:56.276Z"
+}

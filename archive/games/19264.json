@@ -1,0 +1,154 @@
+{
+  "gameId": "19264",
+  "date": "2026-06-29",
+  "divId": 333,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2052",
+    "name": "Junkyard Dogs"
+  },
+  "away": {
+    "teamId": "2053",
+    "name": "Alers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:06",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#91 - Jeff  Rendler",
+      "assist1": "#11 - Erik  Brisson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:23",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#21 - Larry  Silver",
+      "assist1": "#11 - Erik  Brisson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:28",
+      "team": {
+        "teamId": "2052",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#87 - Ryan  Young",
+      "assist1": "#15 - Dave  Gorman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:48",
+      "team": {
+        "teamId": "2052",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#23 - Brian  Ladd",
+      "assist1": "#31 - Sam  Branham",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "2052",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#4 - Jeff  Goldberg",
+      "assist1": "#15 - Dave  Gorman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:43",
+      "team": {
+        "teamId": "2052",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#34 - Josh  Davis",
+      "assist1": "#23 - Brian  Ladd",
+      "assist2": "#25 - Neil  Dsouza"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:41",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "player": "#91 - Jeff  Rendler",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "player": "#85 - Eric  Wu",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:03",
+      "team": {
+        "teamId": "2052",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#87 - Ryan  Young",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:23",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "player": "#91 - Jeff  Rendler",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-03T03:54:26.163Z"
+}

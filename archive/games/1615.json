@@ -1,0 +1,172 @@
+{
+  "gameId": "1615",
+  "date": "2026-06-19",
+  "divId": 321,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1970",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "1965",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 4,
+      "p3": 2,
+      "ot": 9,
+      "final": 9
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:03",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#40 - Mikail  Serebrennikov",
+      "assist1": "#8 - Mike  Carr",
+      "assist2": "#51 - Stewart  Schuler"
+    },
+    {
+      "period": "1",
+      "time": "00:04:01",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#17 - Cory  Schneid",
+      "assist1": "#92 - Ilya  Kosolapov",
+      "assist2": "#68 - Jeff  Gilmore"
+    },
+    {
+      "period": "1",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#91 - Jake  Barnett",
+      "assist1": "#8 - Mike  Carr",
+      "assist2": "#40 - Mikail  Serebrennikov"
+    },
+    {
+      "period": "2",
+      "time": "00:05:42",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#40 - Mikail  Serebrennikov",
+      "assist1": "#51 - Stewart  Schuler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:18",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#91 - Jake  Barnett",
+      "assist1": "#17 - Cory  Schneid",
+      "assist2": "#81 - Chris  Holden"
+    },
+    {
+      "period": "2",
+      "time": "00:11:41",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#22 - Andrew  Justus",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:09",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#17 - Cory  Schneid",
+      "assist1": "#68 - Jeff  Gilmore",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:07",
+      "team": {
+        "teamId": "1970",
+        "name": "Outlaws"
+      },
+      "scorer": "#25 - Kyle  Zabel",
+      "assist1": "#44 - Alex  Utano",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:57",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#8 - Mike  Carr",
+      "assist1": "#17 - Cory  Schneid",
+      "assist2": "#40 - Mikail  Serebrennikov"
+    },
+    {
+      "period": "3",
+      "time": "00:14:00",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "scorer": "#17 - Cory  Schneid",
+      "assist1": "#51 - Stewart  Schuler",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:23",
+      "team": {
+        "teamId": "1970",
+        "name": "Outlaws"
+      },
+      "player": "#14 - Jason  Brue",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:29",
+      "team": {
+        "teamId": "1965",
+        "name": "Nortec"
+      },
+      "player": "#81 - Chris  Holden",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-02T14:01:54.283Z"
+}

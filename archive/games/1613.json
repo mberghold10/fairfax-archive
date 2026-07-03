@@ -1,0 +1,165 @@
+{
+  "gameId": "1613",
+  "date": "2026-06-14",
+  "divId": 321,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1963",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "1970",
+    "name": "Outlaws"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 3,
+      "final": 3
+    },
+    "away": {
+      "p1": 4,
+      "p2": 0,
+      "p3": 0,
+      "ot": 4,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "1970",
+        "name": "Outlaws"
+      },
+      "scorer": "#90 - Pierre  Maltais",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:41",
+      "team": {
+        "teamId": "1970",
+        "name": "Outlaws"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": "#44 - Alex  Utano",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:01",
+      "team": {
+        "teamId": "1963",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#88 - Matt  Tiede",
+      "assist1": "#4 - Justin  Arbes",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:33",
+      "team": {
+        "teamId": "1970",
+        "name": "Outlaws"
+      },
+      "scorer": "#44 - Alex  Utano",
+      "assist1": "#90 - Pierre  Maltais",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "1970",
+        "name": "Outlaws"
+      },
+      "scorer": "#13 - Ben  Mangel",
+      "assist1": "#19 - Jason  Young",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:36",
+      "team": {
+        "teamId": "1963",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#32 - Rob  Stewart",
+      "assist1": "#4 - Justin  Arbes",
+      "assist2": "#19 - Steve  Tarditi"
+    },
+    {
+      "period": "3",
+      "time": "00:14:35",
+      "team": {
+        "teamId": "1963",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#92 - Len  Desrouleaux",
+      "assist1": "#32 - Rob  Stewart",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "1963",
+        "name": "Blue Crabs"
+      },
+      "player": "#13 - Rob  Wittman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "1970",
+        "name": "Outlaws"
+      },
+      "player": "#90 - Pierre  Maltais",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "1970",
+        "name": "Outlaws"
+      },
+      "player": "#25 - Kyle  Zabel",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "1970",
+        "name": "Outlaws"
+      },
+      "player": "#77 - Ryan  OConnell",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-02T14:01:55.153Z"
+}
