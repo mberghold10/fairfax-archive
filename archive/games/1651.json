@@ -1,0 +1,173 @@
+{
+  "gameId": "1651",
+  "date": "2026-06-11",
+  "divId": 326,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "2014",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "2010",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 2,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:07:37",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#5 - Sean  Mohan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:46",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#11 - Dave  Brown",
+      "assist1": "#76 - Mike  Floyd",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "scorer": "#17 - Diron  Insley",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:51",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#5 - Sean  Mohan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "player": "#17 - Diron  Insley",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:49",
+      "team": {
+        "teamId": "2014",
+        "name": "Penguins"
+      },
+      "player": "#2 - Shawn  Hatch",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:14",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#5 - Sean  Mohan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:48",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#76 - Mike  Floyd",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#25 - Chris  Lettieri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#25 - Chris  Lettieri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:15:00",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#44 - Mick  Ellsworth",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-07T09:55:48.332Z"
+}

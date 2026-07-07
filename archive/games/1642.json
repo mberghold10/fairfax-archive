@@ -1,0 +1,163 @@
+{
+  "gameId": "1642",
+  "date": "2026-06-06",
+  "divId": 325,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1995",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "1994",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 4,
+      "ot": 5,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 3,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "scorer": "#55 - Brian  Merkl",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:32",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "scorer": "#68 - Jeff  Gilmore",
+      "assist1": "#69 - Aaron  Domnitch",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#8 - Rod  Wade",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:19",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "scorer": "#27 - Chris  Balsley",
+      "assist1": "#3 - Kareem  El-Alaily",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:05",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "scorer": "#27 - Chris  Balsley",
+      "assist1": "#69 - Aaron  Domnitch",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:47",
+      "team": {
+        "teamId": "1994",
+        "name": "Jacks"
+      },
+      "scorer": "#33 - Sergey  Kuznetsov",
+      "assist1": "#28 - Charles  Hale",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:13",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "scorer": "#27 - Chris  Balsley",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:19",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#27 - Chris  Balsley",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "player": "#27 - Chris  Balsley",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "player": "#24 - Justin  Thompson",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-07T09:54:50.672Z"
+}

@@ -1,0 +1,99 @@
+{
+  "gameId": "1625",
+  "date": "2026-06-20",
+  "divId": 322,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1974",
+    "name": "Red Dragons"
+  },
+  "away": {
+    "teamId": "1975",
+    "name": "Windbreakers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:15:00",
+      "team": {
+        "teamId": "1974",
+        "name": "Red Dragons"
+      },
+      "scorer": "#80 - Ethan  Hoffman",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "4",
+      "time": "00:06:38",
+      "team": {
+        "teamId": "1974",
+        "name": "Red Dragons"
+      },
+      "player": "#47 - Raymond  Jakubowski",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:06:38",
+      "team": {
+        "teamId": "1974",
+        "name": "Red Dragons"
+      },
+      "player": "#47 - Raymond  Jakubowski",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:06:38",
+      "team": {
+        "teamId": "1975",
+        "name": "Windbreakers"
+      },
+      "player": "#86 - Michael  Gore Jr",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:06:38",
+      "team": {
+        "teamId": "1975",
+        "name": "Windbreakers"
+      },
+      "player": "#86 - Michael  Gore Jr",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": true,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-07T09:52:42.822Z"
+}

@@ -1,0 +1,158 @@
+{
+  "gameId": "19125",
+  "date": "2026-06-06",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2002",
+    "name": "Megalosaurus"
+  },
+  "away": {
+    "teamId": "2005",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:12:02",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#22 - Terry  Saad",
+      "assist1": "#30 - Antonello  Favaro",
+      "assist2": "#21 - Joe  Rhodes"
+    },
+    {
+      "period": "2",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#11 - Brian  Deska",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:57",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#11 - Brian  Deska",
+      "assist1": "#33 - Scott  Coco",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:08",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#8 - Reid  Maki",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "player": "#62 - Sam  Munson",
+      "pim": 2,
+      "offense": "body check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "player": "#67 - Drew  Miller",
+      "pim": 2,
+      "offense": "interference",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "player": "#11 - Brian  Deska",
+      "pim": 2,
+      "offense": "unsportsmanlike",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "player": "#67 - Drew  Miller",
+      "pim": 2,
+      "offense": "body check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:25",
+      "team": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "player": "#10 - Ed  Hillard",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:26",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "player": "#17 - Justin  Cade",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-07T09:56:48.940Z"
+}

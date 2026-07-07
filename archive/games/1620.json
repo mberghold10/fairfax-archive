@@ -1,0 +1,143 @@
+{
+  "gameId": "1620",
+  "date": "2026-06-13",
+  "divId": 322,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1973",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "1977",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 2,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 3,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:03",
+      "team": {
+        "teamId": "1973",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#44 - Jeff  Marciano",
+      "assist1": "#14 - David  Fisher",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:24",
+      "team": {
+        "teamId": "1973",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#55 - Andrew  Mayen",
+      "assist1": "#21 - Josh  Vichness",
+      "assist2": "#41 - Phil  Cunningham"
+    },
+    {
+      "period": "2",
+      "time": "00:05:49",
+      "team": {
+        "teamId": "1977",
+        "name": "Rink Rats"
+      },
+      "scorer": "#22 - Matthew  Thrasher",
+      "assist1": "#70 - Seth  Kumpf",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:31",
+      "team": {
+        "teamId": "1977",
+        "name": "Rink Rats"
+      },
+      "scorer": "#22 - Matthew  Thrasher",
+      "assist1": "#37 - TJ  Wolf",
+      "assist2": "#10 - Kelly  Schoolmeester"
+    },
+    {
+      "period": "4",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1977",
+        "name": "Rink Rats"
+      },
+      "scorer": "#12 - Kieran  McQuilkin",
+      "assist1": "#34 - Evan  Tierney",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "1977",
+        "name": "Rink Rats"
+      },
+      "player": "#33 - Zach  Sowinski",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:17",
+      "team": {
+        "teamId": "1977",
+        "name": "Rink Rats"
+      },
+      "player": "#12 - Kieran  McQuilkin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:54",
+      "team": {
+        "teamId": "1973",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#4 - Sam  Hauslohner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:09:07",
+      "team": {
+        "teamId": "1973",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#5 - Roger  Jordan",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-07T09:52:45.121Z"
+}

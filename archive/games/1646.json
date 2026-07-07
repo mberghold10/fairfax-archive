@@ -1,0 +1,202 @@
+{
+  "gameId": "1646",
+  "date": "2026-06-24",
+  "divId": 325,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1992",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1993",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 3,
+      "ot": 6,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 2,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:35",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#27 - Jeff  Carideo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:37",
+      "team": {
+        "teamId": "1992",
+        "name": "Ducks"
+      },
+      "scorer": "#2 - Ricki  Clark",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:31",
+      "team": {
+        "teamId": "1992",
+        "name": "Ducks"
+      },
+      "scorer": "#9 - Sam  Ziesler",
+      "assist1": "#12 - Jon  Gregor",
+      "assist2": "#64 - Derek  Bluth"
+    },
+    {
+      "period": "2",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "1992",
+        "name": "Ducks"
+      },
+      "scorer": "#64 - Derek  Bluth",
+      "assist1": "#13 - Brian  Patterson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "1992",
+        "name": "Ducks"
+      },
+      "scorer": "#10 - Jake  Truhlar",
+      "assist1": "#13 - Brian  Patterson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:14",
+      "team": {
+        "teamId": "1992",
+        "name": "Ducks"
+      },
+      "scorer": "#15 - Jonathan  Vu",
+      "assist1": "#10 - Jake  Truhlar",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:38",
+      "team": {
+        "teamId": "1992",
+        "name": "Ducks"
+      },
+      "scorer": "#15 - Jonathan  Vu",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:15",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#27 - Jeff  Carideo",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:27",
+      "team": {
+        "teamId": "1992",
+        "name": "Ducks"
+      },
+      "player": "#12 - Jon  Gregor",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:29",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "player": "#27 - Jeff  Carideo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:09",
+      "team": {
+        "teamId": "1992",
+        "name": "Ducks"
+      },
+      "player": "#21 - Erik  Bergman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "1992",
+        "name": "Ducks"
+      },
+      "player": "#64 - Derek  Bluth",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "player": "#46 - Dan  OConnell",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "player": "#13 - Ben  Aring",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-07T09:54:48.502Z"
+}

@@ -1,0 +1,152 @@
+{
+  "gameId": "1638",
+  "date": "2026-06-20",
+  "divId": 324,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1990",
+    "name": "Bottle Caps"
+  },
+  "away": {
+    "teamId": "1988",
+    "name": "Alers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 2,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 4,
+      "ot": 5,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:05",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "scorer": "#13 - Duane  Stefaniak",
+      "assist1": "#88 - Afshawn  Towfighi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:15",
+      "team": {
+        "teamId": "1990",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#17 - Marc  Patience",
+      "assist1": "#91 - Erik  Brisson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "scorer": "#75 - Paul  Barber",
+      "assist1": "#50 - Scott  Vecchione",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:59",
+      "team": {
+        "teamId": "1990",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#49 - Omar  Haque",
+      "assist1": "#24 - Kashif  Haque",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:45",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "scorer": "#6 - Andy  Lindsey",
+      "assist1": "#8 - Tim  Lo",
+      "assist2": "#50 - Scott  Vecchione"
+    },
+    {
+      "period": "3",
+      "time": "00:07:14",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "scorer": "#6 - Andy  Lindsey",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:04",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "scorer": "#6 - Andy  Lindsey",
+      "assist1": "#8 - Tim  Lo",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:45",
+      "team": {
+        "teamId": "1990",
+        "name": "Bottle Caps"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:00",
+      "team": {
+        "teamId": "1990",
+        "name": "Bottle Caps"
+      },
+      "player": "#36 - Andrew  Arendt",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:37",
+      "team": {
+        "teamId": "1990",
+        "name": "Bottle Caps"
+      },
+      "player": "#78 - Ramzi  Farah",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-07T09:54:09.945Z"
+}

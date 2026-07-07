@@ -1,0 +1,185 @@
+{
+  "gameId": "1645",
+  "date": "2026-06-17",
+  "divId": 325,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1992",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "1993",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 0,
+      "ot": 4,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 3,
+      "ot": 6,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "1992",
+        "name": "Ducks"
+      },
+      "scorer": "#10 - Jake  Truhlar",
+      "assist1": "#15 - Jonathan  Vu",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:46",
+      "team": {
+        "teamId": "1992",
+        "name": "Ducks"
+      },
+      "scorer": "#13 - Brian  Patterson",
+      "assist1": "#26 - John  Klousia",
+      "assist2": "#3 - Oleg  Kolodin"
+    },
+    {
+      "period": "1",
+      "time": "00:08:52",
+      "team": {
+        "teamId": "1992",
+        "name": "Ducks"
+      },
+      "scorer": "#21 - Erik  Bergman",
+      "assist1": "#10 - Jake  Truhlar",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:57",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#27 - Jeff  Carideo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:50",
+      "team": {
+        "teamId": "1992",
+        "name": "Ducks"
+      },
+      "scorer": "#7 - Andrew  Golomb",
+      "assist1": "#27 - Bryan  Booker",
+      "assist2": "#15 - Jonathan  Vu"
+    },
+    {
+      "period": "2",
+      "time": "00:09:49",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#27 - Jeff  Carideo",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:43",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#51 - Tyler  Kniaz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:09",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#27 - Jeff  Carideo",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#27 - Jeff  Carideo",
+      "assist1": "#56 - Ryan  Tyler",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:10",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "player": "#27 - Jeff  Carideo",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:59",
+      "team": {
+        "teamId": "1992",
+        "name": "Ducks"
+      },
+      "player": "#12 - Jon  Gregor",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "player": "#44 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-07T09:54:49.028Z"
+}

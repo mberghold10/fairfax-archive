@@ -1,0 +1,130 @@
+{
+  "gameId": "1668",
+  "date": "2026-06-20",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "2006",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "2001",
+    "name": "Slashing Pumpkins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 3,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 2,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:23",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#17 - Will  Murphy",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:58",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#31 - John  Marciano",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:13",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#80 - Alek  Santos",
+      "assist1": "#77 - Enrique  Buchot",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:48",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#42 - Drew  Carbone",
+      "assist1": "#20 - Nate  Radke",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:13",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#31 - John  Marciano",
+      "assist1": "#22 - Trevor  Blair",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:55",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "player": "#76 - Peter  Schaffer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:43",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "player": "#24 - Jake  Middel",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "player": "#5 - Phil  Huitnet",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-07T09:57:13.986Z"
+}

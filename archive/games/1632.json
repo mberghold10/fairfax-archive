@@ -1,0 +1,130 @@
+{
+  "gameId": "1632",
+  "date": "2026-06-19",
+  "divId": 323,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1985",
+    "name": "Busch League"
+  },
+  "away": {
+    "teamId": "1982",
+    "name": "Horne Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 2,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 3,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:17",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#92 - Dan  Horner",
+      "assist1": "#87 - Ryan  Young",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#92 - Dan  Horner",
+      "assist1": "#78 - Bill  Ezekial",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#78 - Bill  Ezekial",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "1985",
+        "name": "Busch League"
+      },
+      "scorer": "#40 - Kyle  Rowland",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:58",
+      "team": {
+        "teamId": "1985",
+        "name": "Busch League"
+      },
+      "scorer": "#85 - Eric  Wu",
+      "assist1": "#5 - Stan  Doerrer",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "player": "#28 - Alex  Rudulph",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "1985",
+        "name": "Busch League"
+      },
+      "player": "#34 - William  Happ",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:42",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "player": "#28 - Alex  Rudulph",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-07T09:53:27.533Z"
+}

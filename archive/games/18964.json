@@ -117,7 +117,7 @@
       },
       "player": "#35 - Jeff  Colwell",
       "pim": 2,
-      "offense": "Hook",
+      "offense": "hook",
       "isMajor": false,
       "isMatch": false
     },
@@ -130,7 +130,7 @@
       },
       "player": "#41 - Phil  Cunningham",
       "pim": 2,
-      "offense": "Delay",
+      "offense": "delay",
       "isMajor": false,
       "isMatch": false
     },
@@ -143,7 +143,7 @@
       },
       "player": "#24 - Brian  Davies",
       "pim": 2,
-      "offense": "Delay",
+      "offense": "delay",
       "isMajor": false,
       "isMatch": false
     },
@@ -156,7 +156,20 @@
       },
       "player": "#17 - Josh  Bliudzius",
       "pim": 10,
-      "offense": "Misconduct",
+      "offense": "misconduct",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "2021",
+        "name": "Old Goats"
+      },
+      "player": "#72 - Alex  Cardone",
+      "pim": 2,
+      "offense": "rough",
       "isMajor": false,
       "isMatch": false
     },
@@ -169,23 +182,10 @@
       },
       "player": "#72 - Alex  Cardone",
       "pim": 2,
-      "offense": "Rough",
-      "isMajor": false,
-      "isMatch": false
-    },
-    {
-      "period": "3",
-      "time": "00:00:18",
-      "team": {
-        "teamId": "2021",
-        "name": "Old Goats"
-      },
-      "player": "#72 - Alex  Cardone",
-      "pim": 2,
-      "offense": "Unsportsmanlike",
+      "offense": "unsportsmanlike",
       "isMajor": false,
       "isMatch": false
     }
   ],
-  "_updated": "2026-06-06T22:01:52.705Z"
+  "_updated": "2026-07-07T09:52:06.698Z"
 }

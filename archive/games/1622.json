@@ -1,0 +1,141 @@
+{
+  "gameId": "1622",
+  "date": "2026-06-13",
+  "divId": 322,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1976",
+    "name": "D Punishers"
+  },
+  "away": {
+    "teamId": "1979",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 0,
+      "ot": 4,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 2,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1976",
+        "name": "D Punishers"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "1976",
+        "name": "D Punishers"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:25",
+      "team": {
+        "teamId": "1976",
+        "name": "D Punishers"
+      },
+      "scorer": "#57 - Howie  Uman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:37",
+      "team": {
+        "teamId": "1979",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#74 - Eric  Peterson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "1976",
+        "name": "D Punishers"
+      },
+      "scorer": "#57 - Howie  Uman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "1979",
+        "name": "Blackskimmers"
+      },
+      "scorer": "# -",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:32",
+      "team": {
+        "teamId": "1976",
+        "name": "D Punishers"
+      },
+      "player": "#89 - Jay  Gobeil",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:26",
+      "team": {
+        "teamId": "1976",
+        "name": "D Punishers"
+      },
+      "player": "#9 - Kim  Sherrock",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:37",
+      "team": {
+        "teamId": "1979",
+        "name": "Blackskimmers"
+      },
+      "player": "#12 - Joe  DeCarlo",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-07T09:52:44.127Z"
+}

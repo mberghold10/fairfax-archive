@@ -1,0 +1,235 @@
+{
+  "gameId": "1664",
+  "date": "2026-06-12",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "2007",
+    "name": "Roccos"
+  },
+  "away": {
+    "teamId": "2006",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 5,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 6,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:08",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#36 - Greg  Kowalski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:25",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "scorer": "#8 - Dao  Tran",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:03",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#36 - Greg  Kowalski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:37",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "scorer": "#92 - Chris  Page",
+      "assist1": "#11 - Eugene  Lee",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:56",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#14 - Dave  Fisher",
+      "assist1": "#36 - Greg  Kowalski",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:10",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "scorer": "#14 - Matt  Pick",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:07",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#36 - Greg  Kowalski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:39",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "scorer": "#16 - Thomas  Wright",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:47",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#36 - Greg  Kowalski",
+      "assist1": "#25 - James  Chu",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:34",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "scorer": "#14 - Matt  Pick",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:33",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#24 - Jake  Middel",
+      "assist1": "#29 - Regina  Hart",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:16",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "player": "#14 - Matt  Pick",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:05:42",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "player": "#9 - Kirsten  Kumpf",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:19",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "player": "#29 - Silas  Bruccoleri",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "player": "#33 - Mark  Hall",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:26",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "player": "#11 - Eugene  Lee",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "player": "#90 - Phil  Cunningham",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-07T09:57:15.977Z"
+}
