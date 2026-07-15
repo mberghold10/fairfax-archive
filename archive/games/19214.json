@@ -1,0 +1,117 @@
+{
+  "gameId": "19214",
+  "date": "2026-07-05",
+  "divId": 329,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2024",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "2028",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:11",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#7 - Jassim  Fakhroo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:03",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#92 - Lens  Desrouleaux",
+      "assist1": "#88 - Matt  Tiede",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:35",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#900 - Samuel  Dedian",
+      "assist1": "#8 - Brian  Merritt",
+      "assist2": "#3 - Matthew  Whear"
+    },
+    {
+      "period": "3",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "2028",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#6 - Kyle  Herring",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:43",
+      "team": {
+        "teamId": "2028",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#4 - Sean  Courtney",
+      "assist1": "#6 - Kyle  Herring",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:53",
+      "team": {
+        "teamId": "2028",
+        "name": "British Bulldogs"
+      },
+      "player": "#44 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "2028",
+        "name": "British Bulldogs"
+      },
+      "player": "#2 - Ari  Loggia",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-15T08:27:40.465Z"
+}

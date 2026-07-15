@@ -1,0 +1,82 @@
+{
+  "gameId": "19365",
+  "date": "2026-07-05",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2076",
+    "name": "Pumpkins"
+  },
+  "away": {
+    "teamId": "2081",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "scorer": "#16 - Jacob  Kohls",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:19:39",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#17 - Will  Murphy",
+      "assist1": "#90 - Phil  Cunningham",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:26",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "scorer": "#6 - Diego  Torres",
+      "assist1": "#900 - Ty  Dupree",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:35",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "player": "#90 - Phil  Cunningham",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-15T08:28:52.025Z"
+}

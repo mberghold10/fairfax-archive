@@ -1,0 +1,139 @@
+{
+  "gameId": "19160",
+  "date": "2026-07-06",
+  "divId": 331,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2043",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "2041",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "2043",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#24 - Conor  Woods",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:24",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "scorer": "#36 - Steve  Morra",
+      "assist1": "#2 - Ryan  VanDenheuval",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:01",
+      "team": {
+        "teamId": "2043",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#17 - JP  Christophe",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:48",
+      "team": {
+        "teamId": "2043",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#17 - JP  Christophe",
+      "assist1": "#86 - Pat  McMahon",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:24",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "scorer": "#31 - Zach  Furness",
+      "assist1": "#0 - Jeff  Alpher",
+      "assist2": "#37 - TJ  Wolf"
+    },
+    {
+      "period": "3",
+      "time": "00:08:48",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "scorer": "#31 - Zach  Furness",
+      "assist1": "#34 - Evan  Tierney",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:20",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "scorer": "#34 - Evan  Tierney",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "player": "#13 - John  Bereza",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:47:51",
+      "team": {
+        "teamId": "2043",
+        "name": "Blackskimmers"
+      },
+      "player": "#4 - Kevin  Canalichio",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-15T08:27:59.514Z"
+}

@@ -1,0 +1,139 @@
+{
+  "gameId": "19268",
+  "date": "2026-07-12",
+  "divId": 333,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2050",
+    "name": "Slashing Pumpkins"
+  },
+  "away": {
+    "teamId": "2054",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "2050",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#2 - Justin  Brown",
+      "assist1": "#16 - Jacob  Kohls",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:35",
+      "team": {
+        "teamId": "2050",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#24 - Darcy  Rosenbaum",
+      "assist1": "#42 - Drew  Carbone",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:55",
+      "team": {
+        "teamId": "2054",
+        "name": "Lightning"
+      },
+      "scorer": "#77 - Steven  Baugh",
+      "assist1": "#24 - Mike  Plourde",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:01",
+      "team": {
+        "teamId": "2054",
+        "name": "Lightning"
+      },
+      "scorer": "#77 - Steven  Baugh",
+      "assist1": "#14 - Haley  Gordon",
+      "assist2": "#24 - Mike  Plourde"
+    },
+    {
+      "period": "2",
+      "time": "00:13:57",
+      "team": {
+        "teamId": "2050",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#24 - Darcy  Rosenbaum",
+      "assist1": "#81 - Sean  Murphy",
+      "assist2": "#77 - Enrique  Bouchot"
+    },
+    {
+      "period": "2",
+      "time": "00:14:46",
+      "team": {
+        "teamId": "2050",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#24 - Darcy  Rosenbaum",
+      "assist1": "#77 - Enrique  Bouchot",
+      "assist2": "#81 - Sean  Murphy"
+    },
+    {
+      "period": "3",
+      "time": "00:03:33",
+      "team": {
+        "teamId": "2054",
+        "name": "Lightning"
+      },
+      "scorer": "#3 - Jordan  Ziegler",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:50",
+      "team": {
+        "teamId": "2054",
+        "name": "Lightning"
+      },
+      "player": "#77 - Steven  Baugh",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:49",
+      "team": {
+        "teamId": "2054",
+        "name": "Lightning"
+      },
+      "player": "#36 - Mo  Efimba",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-15T08:28:14.965Z"
+}

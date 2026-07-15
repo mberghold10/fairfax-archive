@@ -1,0 +1,163 @@
+{
+  "gameId": "19343",
+  "date": "2026-07-11",
+  "divId": 336,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2071",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "2072",
+    "name": "Gold Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "2071",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:54",
+      "team": {
+        "teamId": "2072",
+        "name": "Gold Goats"
+      },
+      "scorer": "#34 - Marty  Gryski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "2072",
+        "name": "Gold Goats"
+      },
+      "scorer": "#93 - Chris  Conley",
+      "assist1": "#20 - Steve  Maccio",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:53",
+      "team": {
+        "teamId": "2072",
+        "name": "Gold Goats"
+      },
+      "scorer": "#20 - Steve  Maccio",
+      "assist1": "#94 - Dave  Sinniger",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "2071",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#88 - Matt  Tiede",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:18",
+      "team": {
+        "teamId": "2072",
+        "name": "Gold Goats"
+      },
+      "scorer": "#20 - Steve  Maccio",
+      "assist1": "#93 - Chris  Conley",
+      "assist2": "#38 - Howard  Uman"
+    },
+    {
+      "period": "3",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "2072",
+        "name": "Gold Goats"
+      },
+      "scorer": "#34 - Marty  Gryski",
+      "assist1": "#20 - Steve  Maccio",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:01",
+      "team": {
+        "teamId": "2072",
+        "name": "Gold Goats"
+      },
+      "scorer": "#34 - Marty  Gryski",
+      "assist1": "#93 - Chris  Conley",
+      "assist2": "#20 - Steve  Maccio"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:08",
+      "team": {
+        "teamId": "2071",
+        "name": "Ice Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:38",
+      "team": {
+        "teamId": "2071",
+        "name": "Ice Dogs"
+      },
+      "player": "#34 - Josh  Davis",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:49",
+      "team": {
+        "teamId": "2072",
+        "name": "Gold Goats"
+      },
+      "player": "#94 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-15T08:28:41.511Z"
+}

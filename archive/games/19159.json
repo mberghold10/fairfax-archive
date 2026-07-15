@@ -1,0 +1,93 @@
+{
+  "gameId": "19159",
+  "date": "2026-07-05",
+  "divId": 331,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2038",
+    "name": "Red Dragons"
+  },
+  "away": {
+    "teamId": "2039",
+    "name": "Windbreakers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "scorer": "#9 - Greg  Reynolds",
+      "assist1": "#65 - Stuart  Hoffman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:32",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "scorer": "#96 - Zack  Staregeo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:52",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "scorer": "#66 - Gibb  Little",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "2039",
+        "name": "Windbreakers"
+      },
+      "scorer": "#11 - James  Litz",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:06:50",
+      "team": {
+        "teamId": "2039",
+        "name": "Windbreakers"
+      },
+      "player": "#51 - Nada  Walker",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-15T08:27:59.761Z"
+}

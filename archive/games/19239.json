@@ -1,0 +1,150 @@
+{
+  "gameId": "19239",
+  "date": "2026-07-05",
+  "divId": 332,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2048",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "2049",
+    "name": "Busch League"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:06",
+      "team": {
+        "teamId": "2048",
+        "name": "Wolves"
+      },
+      "scorer": "#22 - Mark  Rayder",
+      "assist1": "#901 - TIm  Bedell",
+      "assist2": "#68 - Mark  Ries"
+    },
+    {
+      "period": "1",
+      "time": "00:12:44",
+      "team": {
+        "teamId": "2049",
+        "name": "Busch League"
+      },
+      "scorer": "#88 - Afshawn  Towfighi",
+      "assist1": "#11 - Greg  Wilburn",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:04",
+      "team": {
+        "teamId": "2049",
+        "name": "Busch League"
+      },
+      "scorer": "#81 - David  Culverhouse",
+      "assist1": "#19 - Colin  Bartlett",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:25",
+      "team": {
+        "teamId": "2049",
+        "name": "Busch League"
+      },
+      "scorer": "#88 - Afshawn  Towfighi",
+      "assist1": "#17 - Marc  Patience",
+      "assist2": "#34 - Wilhelm  Happ"
+    },
+    {
+      "period": "3",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "2049",
+        "name": "Busch League"
+      },
+      "scorer": "#1 - Thomas  Newberg",
+      "assist1": "#11 - Greg  Wilburn",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:02",
+      "team": {
+        "teamId": "2048",
+        "name": "Wolves"
+      },
+      "scorer": "#901 - TIm  Bedell",
+      "assist1": "#68 - Mark  Ries",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "2048",
+        "name": "Wolves"
+      },
+      "scorer": "#94 - Mike  Starego",
+      "assist1": "#58 - Jim  Dietz",
+      "assist2": "#37 - John  Holland"
+    },
+    {
+      "period": "3",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "2049",
+        "name": "Busch League"
+      },
+      "scorer": "#81 - David  Culverhouse",
+      "assist1": "#77 - Trevor  Boynton",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "2048",
+        "name": "Wolves"
+      },
+      "player": "#94 - Mike  Starego",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:05",
+      "team": {
+        "teamId": "2048",
+        "name": "Wolves"
+      },
+      "player": "#58 - Jim  Dietz",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-15T08:28:08.061Z"
+}

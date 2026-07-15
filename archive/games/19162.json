@@ -1,0 +1,235 @@
+{
+  "gameId": "19162",
+  "date": "2026-07-06",
+  "divId": 331,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2036",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "2040",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "2040",
+        "name": "Old Goats"
+      },
+      "scorer": "#27 - David  Lin",
+      "assist1": "#44 - Sean  Cullen",
+      "assist2": "#62 - Phil  Tivel"
+    },
+    {
+      "period": "1",
+      "time": "00:08:13",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#51 - Bob  Sagusti",
+      "assist1": "#10 - Howie  Schulman",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:08",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:52",
+      "team": {
+        "teamId": "2040",
+        "name": "Old Goats"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:39",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#51 - Bob  Sagusti",
+      "assist1": "#7 - Andrew  Clough",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "2040",
+        "name": "Old Goats"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:07",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#7 - Andrew  Clough",
+      "assist1": "#47 - Jeff  Urlwin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:44",
+      "team": {
+        "teamId": "2040",
+        "name": "Old Goats"
+      },
+      "scorer": "#62 - Phil  Tivel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:48",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#4 - Ryan  Cantwell",
+      "assist1": "#30 - Jeff  Snow",
+      "assist2": "#22 - Mike  Treme"
+    },
+    {
+      "period": "3",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "2040",
+        "name": "Old Goats"
+      },
+      "scorer": "#44 - Sean  Cullen",
+      "assist1": "#34 - Marty  Gryski",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:48",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#4 - Ryan  Cantwell",
+      "assist1": "#22 - Mike  Treme",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:04",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "player": "#7 - Andrew  Clough",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "player": "#10 - Howie  Schulman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:03",
+      "team": {
+        "teamId": "2040",
+        "name": "Old Goats"
+      },
+      "player": "#94 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:18",
+      "team": {
+        "teamId": "2040",
+        "name": "Old Goats"
+      },
+      "player": "#62 - Phil  Tivel",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:54",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "player": "#51 - Bob  Sagusti",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:06",
+      "team": {
+        "teamId": "2040",
+        "name": "Old Goats"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-15T08:27:58.819Z"
+}
