@@ -1,0 +1,160 @@
+{
+  "gameId": "1653",
+  "date": "2026-06-18",
+  "divId": 326,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "2010",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "2013",
+    "name": "Black Sheep"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 2,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:44",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#25 - Chris  Lettieri",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:02",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "scorer": "#15 - Bob  Guckian",
+      "assist1": "#18 - Ken  Chin",
+      "assist2": "#4 - Erik  Bergman"
+    },
+    {
+      "period": "3",
+      "time": "00:01:05",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#49 - Greg  Mullen",
+      "assist2": "#55 - Brian  Compagnone"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:06:41",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#2 - Paul  Zalocha",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:59",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#22 - Brian  Dutton",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:59",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "player": "#43 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:57",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "player": "#3 - Bill  Kang",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:11",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "player": "#42 - Jeff  Lovett",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:03",
+      "team": {
+        "teamId": "2010",
+        "name": "Goons"
+      },
+      "player": "#20 - Michael  Schantz",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:03",
+      "team": {
+        "teamId": "2013",
+        "name": "Black Sheep"
+      },
+      "player": "#43 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:40:39.199Z"
+}

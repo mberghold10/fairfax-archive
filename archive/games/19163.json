@@ -1,0 +1,99 @@
+{
+  "gameId": "19163",
+  "date": "2026-07-11",
+  "divId": 331,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2039",
+    "name": "Windbreakers"
+  },
+  "away": {
+    "teamId": "2041",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:04:11",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "scorer": "#8 - Joey  McDonald",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:25",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "player": "#29 - Sean  Brown",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "2039",
+        "name": "Windbreakers"
+      },
+      "player": "#7 - Maggie  Horstman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "player": "#70 - Seth  Kumpf",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:15:00",
+      "team": {
+        "teamId": "2039",
+        "name": "Windbreakers"
+      },
+      "player": "#4 - Chris  Fothergill",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:42:48.820Z"
+}

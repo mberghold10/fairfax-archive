@@ -1,0 +1,130 @@
+{
+  "gameId": "18966",
+  "date": "2026-06-06",
+  "divId": 322,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "1979",
+    "name": "Blackskimmers"
+  },
+  "away": {
+    "teamId": "1971",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:44",
+      "team": {
+        "teamId": "1979",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#77 - Paul  Ciccheti",
+      "assist1": "#74 - Eric  Peterson",
+      "assist2": "#9 - Scott  Peterson"
+    },
+    {
+      "period": "2",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "1979",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#74 - Eric  Peterson",
+      "assist1": "#9 - Scott  Peterson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:09",
+      "team": {
+        "teamId": "1979",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#9 - Scott  Peterson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "1979",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#74 - Eric  Peterson",
+      "assist1": "#5 - Regina  Hart",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:56",
+      "team": {
+        "teamId": "1971",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#4 - Sam  Brownell",
+      "assist1": "#17 - Zephan  Keehner",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "1971",
+        "name": "Jurassic Puck"
+      },
+      "player": "#27 - Mike  Fullen",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1979",
+        "name": "Blackskimmers"
+      },
+      "player": "#12 - Joe  DeCarlo",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "1979",
+        "name": "Blackskimmers"
+      },
+      "player": "#5 - Regina  Hart",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:37:06.221Z"
+}

@@ -1,0 +1,226 @@
+{
+  "gameId": "1665",
+  "date": "2026-06-14",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "2004",
+    "name": "Hershey Beers"
+  },
+  "away": {
+    "teamId": "2005",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 3,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 5,
+      "ot": 6,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:12:20",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#26 - Chris  Anderson",
+      "assist1": "#24 - Adeline  Carbo",
+      "assist2": "#8 - Tim  Lo"
+    },
+    {
+      "period": "1",
+      "time": "00:13:36",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#27 - Jamie  Prime",
+      "assist1": "#37 - David  McAndrews",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:45",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#88 - Afshawn  Towfighi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#27 - Jamie  Prime",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:41",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#11 - Matt  Velin",
+      "assist1": "#29 - Eliza  Ledwell",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#8 - Tim  Lo",
+      "assist1": "#26 - Chris  Anderson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:56",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#37 - David  McAndrews",
+      "assist1": "#11 - Matt  Velin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:13",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#12 - Dave  Sievers",
+      "assist1": "#6 - Armand  Alacbay",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:24",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#11 - Matt  Velin",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:21",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "player": "#11 - Matt  Velin",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:58",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "player": "#54 - Scott  Knisley",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:21",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "player": "#8 - Tim  Lo",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "player": "#6 - Armand  Alacbay",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:51",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "player": "#44 - Ben  Thomas",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:44",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "player": "#6 - Armand  Alacbay",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:15",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "player": "#12 - Dave  Sievers",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:42:08.586Z"
+}

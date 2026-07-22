@@ -1,0 +1,110 @@
+{
+  "gameId": "19307",
+  "date": "2026-07-02",
+  "divId": 335,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2068",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "2066",
+    "name": "Black Sheep"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "scorer": "#42 - Jeff  Lovett",
+      "assist1": "#77 - Erik  Bergman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "scorer": "#48 - Bobby  Woods-Corwin",
+      "assist1": "#4 - Jason  Brue",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "2068",
+        "name": "Islanders"
+      },
+      "player": "#74 - Mike  Brewin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:49",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "player": "#48 - Bobby  Woods-Corwin",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:53",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "player": "#12 - Brian  Booker",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "player": "#44 - Matt  Smith",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:43:33.223Z"
+}

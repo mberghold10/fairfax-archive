@@ -1,0 +1,117 @@
+{
+  "gameId": "19166",
+  "date": "2026-07-13",
+  "divId": 331,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2036",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "2043",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:48",
+      "team": {
+        "teamId": "2043",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#24 - Conor  Woods",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:57",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#1 - Ryan  Gardiner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#22 - Mike  Treme",
+      "assist1": "#8 - Elliott  Yang",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:29",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#1 - Ryan  Gardiner",
+      "assist1": "#28 - Doug  Branton",
+      "assist2": "#10 - Howie  Schulman"
+    },
+    {
+      "period": "3",
+      "time": "00:13:04",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#7 - Andrew  Clough",
+      "assist1": "#51 - Bob  Sagusti",
+      "assist2": "#28 - Doug  Branton"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:25",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "player": "#3 - Kent  Cowell",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:54",
+      "team": {
+        "teamId": "2043",
+        "name": "Blackskimmers"
+      },
+      "player": "#4 - Kevin  Canalichio",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:42:47.825Z"
+}

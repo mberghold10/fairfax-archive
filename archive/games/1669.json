@@ -1,0 +1,187 @@
+{
+  "gameId": "1669",
+  "date": "2026-06-21",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "2006",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "2005",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 4,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 5,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:14",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#17 - Will  Murphy",
+      "assist1": "#8 - Brian  Merritt",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:17",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#26 - Kjell  Crooke",
+      "assist1": "#11 - Matt  Velin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:41",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#7 - Art  Supsiri",
+      "assist1": "#12 - Kevin  James",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:59",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#11 - Matt  Velin",
+      "assist1": "#37 - David  McAndrews",
+      "assist2": "#29 - Eliza  Ledwell"
+    },
+    {
+      "period": "3",
+      "time": "00:00:59",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#26 - Kjell  Crooke",
+      "assist1": "#29 - Eliza  Ledwell",
+      "assist2": "#8 - Reid  Maki"
+    },
+    {
+      "period": "3",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#16 - Wei  Wang",
+      "assist1": "#17 - Will  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:53",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#26 - Kjell  Crooke",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:06",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#26 - Kjell  Crooke",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "player": "#44 - Ben  Thomas",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:54",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "player": "#44 - Ben  Thomas",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:58",
+      "team": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "player": "#37 - David  McAndrews",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:42:06.357Z"
+}

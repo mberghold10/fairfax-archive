@@ -1,0 +1,195 @@
+{
+  "gameId": "1639",
+  "date": "2026-06-21",
+  "divId": 324,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1988",
+    "name": "Alers"
+  },
+  "away": {
+    "teamId": "1987",
+    "name": "Puckaneers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 3,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 2,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:39",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "scorer": "#34 - William  Happ",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:33",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#16 - Kiran  Manakarnika",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:03",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "scorer": "#88 - Afshawn  Towfighi",
+      "assist1": "#34 - William  Happ",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#19 - Brian  Parker",
+      "assist1": "#16 - Kiran  Manakarnika",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:22",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "scorer": "#6 - Andy  Lindsey",
+      "assist1": "#88 - Afshawn  Towfighi",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:52",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "player": "#13 - Duane  Stefaniak",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:50",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "player": "#88 - Afshawn  Towfighi",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:17",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "player": "#75 - Paul  Barber",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:31",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "player": "#74 - Steve  Macchio",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "player": "#88 - Afshawn  Towfighi",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:51",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "player": "#88 - Afshawn  Towfighi",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:18",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "player": "#82 - Michael  Forrester",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:54",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "player": "#19 - Brian  Parker",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:39:05.278Z"
+}

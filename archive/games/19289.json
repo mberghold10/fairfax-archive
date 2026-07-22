@@ -1,0 +1,165 @@
+{
+  "gameId": "19289",
+  "date": "2026-07-08",
+  "divId": 334,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2060",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "2058",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 4,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:14",
+      "team": {
+        "teamId": "2058",
+        "name": "Swarm"
+      },
+      "scorer": "#27 - Jeff  Carideo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "2058",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:43",
+      "team": {
+        "teamId": "2058",
+        "name": "Swarm"
+      },
+      "scorer": "#56 - Ryan  Tyler",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "2058",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": "#27 - Jeff  Carideo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:08",
+      "team": {
+        "teamId": "2058",
+        "name": "Swarm"
+      },
+      "scorer": "#56 - Ryan  Tyler",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:01",
+      "team": {
+        "teamId": "2058",
+        "name": "Swarm"
+      },
+      "scorer": "#36 - William  Ludke",
+      "assist1": "#91 - Matt  Weeden",
+      "assist2": "#27 - Jeff  Carideo"
+    },
+    {
+      "period": "2",
+      "time": "00:14:45",
+      "team": {
+        "teamId": "2058",
+        "name": "Swarm"
+      },
+      "scorer": "#18 - Samson  Chu",
+      "assist1": "#13 - Ben  Aring",
+      "assist2": "#32 - Simon  Flom"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:29",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "player": "#19 - Marc  Rudnicki",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:06",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "player": "#19 - Marc  Rudnicki",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:14",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "player": "#68 - Jeff  Gilmore",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:27",
+      "team": {
+        "teamId": "2058",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:43:19.541Z"
+}

@@ -1,0 +1,191 @@
+{
+  "gameId": "1637",
+  "date": "2026-06-15",
+  "divId": 324,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "2022",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "1987",
+    "name": "Puckaneers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 3,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 4,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:06",
+      "team": {
+        "teamId": "2022",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#13 - Jon  Coley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:33",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#74 - Steve  Macchio",
+      "assist1": "#7 - Greg  Watchman",
+      "assist2": "#39 - Andrew  Hancher"
+    },
+    {
+      "period": "2",
+      "time": "00:05:03",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#16 - Kiran  Manakarnika",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:24",
+      "team": {
+        "teamId": "2022",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#22 - Terry  Saad",
+      "assist1": "#19 - Joe  Housley",
+      "assist2": "#15 - Christopher  Abbott"
+    },
+    {
+      "period": "3",
+      "time": "00:00:36",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#39 - Andrew  Hancher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#74 - Steve  Macchio",
+      "assist1": "#39 - Andrew  Hancher",
+      "assist2": "#12 - Alex  Lewis"
+    },
+    {
+      "period": "3",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "2022",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#13 - Jon  Coley",
+      "assist1": "#74 - Matthew  Santos",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "player": "#7 - Greg  Watchman",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:16",
+      "team": {
+        "teamId": "2022",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#19 - Joe  Housley",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "player": "#13 - Justin  Leonard",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "2022",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#7 - Graham  Eddy",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:38",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "player": "#7 - Greg  Watchman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:43",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "player": "#27 - Dave  Lin",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:39:06.357Z"
+}

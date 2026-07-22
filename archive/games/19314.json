@@ -1,0 +1,158 @@
+{
+  "gameId": "19314",
+  "date": "2026-07-11",
+  "divId": 335,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2064",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "2066",
+    "name": "Black Sheep"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:47",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "scorer": "#35 - Ross  Kuhn",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:36",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": "#44 - Greg  Powers",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:59",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": "#54 - Dan  Bagley",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:13",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "player": "#22 - JP  Klousia",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:20",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:21",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:12",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "player": "#9 - Ken  Fritzke",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:13",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "player": "#26 - Garrett  Burns",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:43:31.498Z"
+}

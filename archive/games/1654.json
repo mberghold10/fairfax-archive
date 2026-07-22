@@ -1,0 +1,165 @@
+{
+  "gameId": "1654",
+  "date": "2026-06-18",
+  "divId": 326,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "2008",
+    "name": "Jacks GreyBeards"
+  },
+  "away": {
+    "teamId": "2012",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 4,
+      "p3": 2,
+      "ot": 6,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:33",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "scorer": "#32 - Simon  Flom",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:50",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#77 - Oleg  Nayndin",
+      "assist1": "#21 - Steve  Chan",
+      "assist2": "#24 - Chuck  Robinson"
+    },
+    {
+      "period": "2",
+      "time": "00:07:51",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#27 - Andy  Rieger",
+      "assist1": "#24 - Chuck  Robinson",
+      "assist2": "#77 - Oleg  Nayndin"
+    },
+    {
+      "period": "2",
+      "time": "00:08:58",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:52",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#24 - Chuck  Robinson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#24 - Chuck  Robinson",
+      "assist1": "#77 - Oleg  Nayndin",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#24 - Chuck  Robinson",
+      "assist1": "#16 - Bill  Thompson",
+      "assist2": "#41 - Livsics  Eugene"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:45",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "player": "#41 - Livsics  Eugene",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:00",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:51",
+      "team": {
+        "teamId": "2012",
+        "name": "Coyotes"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:40:38.722Z"
+}

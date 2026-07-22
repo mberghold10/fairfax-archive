@@ -1,0 +1,195 @@
+{
+  "gameId": "1640",
+  "date": "2026-06-22",
+  "divId": 324,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1988",
+    "name": "Alers"
+  },
+  "away": {
+    "teamId": "1987",
+    "name": "Puckaneers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 4,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "scorer": "#37 - Josh  Savani",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "scorer": "#50 - Scott  Vecchione",
+      "assist1": "#37 - Josh  Savani",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:36",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "scorer": "#34 - William  Happ",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "scorer": "#6 - Andy  Lindsey",
+      "assist1": "#37 - Josh  Savani",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:36",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "scorer": "#74 - Steve  Macchio",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:43",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "player": "#82 - Michael  Forrester",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "player": "#7 - Greg  Watchman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:50",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "player": "#68 - Rich  Williams",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:04",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "player": "#37 - Josh  Savani",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:36",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "player": "#74 - Steve  Macchio",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:56",
+      "team": {
+        "teamId": "1987",
+        "name": "Puckaneers"
+      },
+      "player": "#39 - Andrew  Hancher",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:35",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:36",
+      "team": {
+        "teamId": "1988",
+        "name": "Alers"
+      },
+      "player": "#34 - William  Happ",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:39:04.729Z"
+}

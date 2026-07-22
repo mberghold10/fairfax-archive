@@ -1,0 +1,178 @@
+{
+  "gameId": "1652",
+  "date": "2026-06-11",
+  "divId": 326,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "2009",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "2008",
+    "name": "Jacks GreyBeards"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 3,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 4,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#8 - Rod  Wade",
+      "assist1": "#21 - Steve  Chan",
+      "assist2": "#7 - Joseph  Hull"
+    },
+    {
+      "period": "1",
+      "time": "00:03:42",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#8 - Rod  Wade",
+      "assist1": "#77 - Oleg  Nayndin",
+      "assist2": "#28 - Charles  Hale"
+    },
+    {
+      "period": "2",
+      "time": "00:02:52",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#14 - Jeremy  Stehle",
+      "assist1": "#21 - Steve  Chan",
+      "assist2": "#7 - Joseph  Hull"
+    },
+    {
+      "period": "2",
+      "time": "00:03:09",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "scorer": "#66 - Chris  Yoko",
+      "assist1": "#33 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:08",
+      "team": {
+        "teamId": "2008",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#16 - Bill  Thompson",
+      "assist1": "#77 - Oleg  Nayndin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:49",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "scorer": "#43 - David  Ingles",
+      "assist1": "#33 - Brian  Dix",
+      "assist2": "#2 - Marc  Sheinkin"
+    },
+    {
+      "period": "3",
+      "time": "00:11:19",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Brian  Dix",
+      "assist1": "#43 - David  Ingles",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:07:53",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "player": "#33 - Brian  Dix",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "player": "#57 - Chris  McNabney",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "player": "#66 - Chris  Yoko",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "player": "#66 - Chris  Yoko",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:35",
+      "team": {
+        "teamId": "2009",
+        "name": "Flying Circus"
+      },
+      "player": "#33 - Brian  Dix",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:40:39.727Z"
+}

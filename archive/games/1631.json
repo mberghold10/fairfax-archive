@@ -1,0 +1,174 @@
+{
+  "gameId": "1631",
+  "date": "2026-06-08",
+  "divId": 323,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1983",
+    "name": "Toronto"
+  },
+  "away": {
+    "teamId": "1985",
+    "name": "Busch League"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 2,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 3,
+      "p3": 1,
+      "ot": 7,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "1985",
+        "name": "Busch League"
+      },
+      "scorer": "#40 - Kyle  Rowland",
+      "assist1": "#81 - David  Culverhouse",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "1983",
+        "name": "Toronto"
+      },
+      "scorer": "#18 - Russ  Smith",
+      "assist1": "#28 - Harry  Nicholakos",
+      "assist2": "#470 - Jeff  Urlwin"
+    },
+    {
+      "period": "1",
+      "time": "00:05:38",
+      "team": {
+        "teamId": "1985",
+        "name": "Busch League"
+      },
+      "scorer": "#40 - Kyle  Rowland",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:03",
+      "team": {
+        "teamId": "1985",
+        "name": "Busch League"
+      },
+      "scorer": "#5 - Stan  Doerrer",
+      "assist1": "#19 - Colin  Bartlett",
+      "assist2": "#1 - Thomas  Newberg"
+    },
+    {
+      "period": "2",
+      "time": "00:01:19",
+      "team": {
+        "teamId": "1985",
+        "name": "Busch League"
+      },
+      "scorer": "#81 - David  Culverhouse",
+      "assist1": "#40 - Kyle  Rowland",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:21",
+      "team": {
+        "teamId": "1985",
+        "name": "Busch League"
+      },
+      "scorer": "#19 - Colin  Bartlett",
+      "assist1": "#95 - Ryan  Short",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:45",
+      "team": {
+        "teamId": "1985",
+        "name": "Busch League"
+      },
+      "scorer": "#40 - Kyle  Rowland",
+      "assist1": "#34 - William  Happ",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "1983",
+        "name": "Toronto"
+      },
+      "scorer": "#5 - Dave  Neri",
+      "assist1": "#6 - Matt  Johnson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "1985",
+        "name": "Busch League"
+      },
+      "scorer": "#19 - Colin  Bartlett",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:43",
+      "team": {
+        "teamId": "1985",
+        "name": "Busch League"
+      },
+      "player": "#40 - Kyle  Rowland",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:54",
+      "team": {
+        "teamId": "1983",
+        "name": "Toronto"
+      },
+      "player": "#23 - Trevor  Blair",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:00",
+      "team": {
+        "teamId": "1985",
+        "name": "Busch League"
+      },
+      "player": "#1 - Thomas  Newberg",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:38:26.227Z"
+}

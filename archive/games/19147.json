@@ -1,0 +1,97 @@
+{
+  "gameId": "19147",
+  "date": "2026-06-07",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "regular",
+  "home": {
+    "teamId": "2007",
+    "name": "Roccos"
+  },
+  "away": {
+    "teamId": "2004",
+    "name": "Hershey Beers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#26 - Chris  Anderson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:14",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#54 - Scott  Knisley",
+      "assist1": "#37 - Joe  Heindrich",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:56",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "player": "#23 - Mark  Cappello",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:11",
+      "team": {
+        "teamId": "2004",
+        "name": "Hershey Beers"
+      },
+      "player": "#8 - Tim  Lo",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:50",
+      "team": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many men",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:41:39.303Z"
+}

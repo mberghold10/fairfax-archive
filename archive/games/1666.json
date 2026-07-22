@@ -1,0 +1,130 @@
+{
+  "gameId": "1666",
+  "date": "2026-06-14",
+  "divId": 328,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "2006",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "2003",
+    "name": "Thunder"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "ot": 4,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:04:42",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#22 - Trevor  Blair",
+      "assist1": "#24 - Jake  Middel",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#17 - Will  Murphy",
+      "assist1": "#54 - Tom  Montanio",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "scorer": "#93 - Chris  Conley",
+      "assist1": "#77 - Steven  Baugh",
+      "assist2": "#70 - Madelyn  Alford"
+    },
+    {
+      "period": "3",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#22 - Trevor  Blair",
+      "assist1": "#17 - Will  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:10",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "scorer": "#16 - Wei  Wang",
+      "assist1": "#24 - Jake  Middel",
+      "assist2": "#8 - Brian  Merritt"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:52",
+      "team": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "player": "#77 - Steven  Baugh",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:47",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "player": "#17 - Will  Murphy",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:47",
+      "team": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "player": "#90 - Phil  Cunningham",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:42:08.033Z"
+}

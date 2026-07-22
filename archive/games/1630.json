@@ -1,0 +1,199 @@
+{
+  "gameId": "1630",
+  "date": "2026-06-08",
+  "divId": 323,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1980",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "1982",
+    "name": "Horne Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 3,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#91 - Jason  Ross",
+      "assist1": "#15 - Dave  Gorman",
+      "assist2": "#78 - Bill  Ezekial"
+    },
+    {
+      "period": "2",
+      "time": "00:04:46",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#91 - Jason  Ross",
+      "assist1": "#44 - Carlos  Gautier",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:32",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#91 - Jason  Ross",
+      "assist1": "#44 - Carlos  Gautier",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:56",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "player": "#6 - Jon  Alford",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "player": "#16 - Kiran  Manikarnika",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "player": "#6 - Jon  Alford",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:44",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "player": "#23 - Brian  Ladd",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:56",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "player": "#22 - Mark  Rayder",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:56",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "player": "#22 - Mark  Rayder",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "1980",
+        "name": "Wolves"
+      },
+      "player": "#28 - Andrew  Hancher",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "player": "#44 - Carlos  Gautier",
+      "pim": 2,
+      "offense": "charge",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "player": "#44 - Carlos  Gautier",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "1982",
+        "name": "Horne Dogs"
+      },
+      "player": "#44 - Carlos  Gautier",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:38:26.740Z"
+}

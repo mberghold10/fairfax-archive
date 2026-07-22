@@ -1,0 +1,136 @@
+{
+  "gameId": "1635",
+  "date": "2026-06-13",
+  "divId": 324,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1986",
+    "name": "Junkyard Dogs"
+  },
+  "away": {
+    "teamId": "2022",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 2,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "2022",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#23 - Sal  St Thomas",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:31",
+      "team": {
+        "teamId": "2022",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#13 - Jon  Coley",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "2022",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#7 - Graham  Eddy",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "1986",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:09",
+      "team": {
+        "teamId": "1986",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#4 - Jeff  Goldberg",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "2022",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#13 - Jon  Coley",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:40",
+      "team": {
+        "teamId": "1986",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#44 - Carlos  Gautier",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "2022",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#19 - Joe  Housley",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:39:07.224Z"
+}

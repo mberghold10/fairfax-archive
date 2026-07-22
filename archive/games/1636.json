@@ -1,0 +1,108 @@
+{
+  "gameId": "1636",
+  "date": "2026-06-15",
+  "divId": 324,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1989",
+    "name": "Lightning"
+  },
+  "away": {
+    "teamId": "1990",
+    "name": "Bottle Caps"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 2,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:13",
+      "team": {
+        "teamId": "1990",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#1 - Thomas  Newberg",
+      "assist1": "#77 - Trevor  Boynton",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "1990",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#1 - Thomas  Newberg",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:40",
+      "team": {
+        "teamId": "1989",
+        "name": "Lightning"
+      },
+      "scorer": "#4 - Steve  Gordon",
+      "assist1": "#61 - Nick  Johnston",
+      "assist2": "#40 - Brandon  Sweezea"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:40",
+      "team": {
+        "teamId": "1989",
+        "name": "Lightning"
+      },
+      "player": "#36 - Mo  Efimba",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "1990",
+        "name": "Bottle Caps"
+      },
+      "player": "#0 - Howard  Ludwig",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:51",
+      "team": {
+        "teamId": "1989",
+        "name": "Lightning"
+      },
+      "player": "#40 - Brandon  Sweezea",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:39:06.803Z"
+}

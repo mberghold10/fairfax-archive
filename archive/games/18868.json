@@ -14,18 +14,18 @@
   },
   "scoring": {
     "home": {
-      "p1": 1,
-      "p2": 3,
-      "p3": 5,
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
       "ot": 0,
-      "final": 9
+      "final": 0
     },
     "away": {
       "p1": 0,
-      "p2": 2,
-      "p3": 2,
+      "p2": 0,
+      "p3": 0,
       "ot": 0,
-      "final": 4
+      "final": 0
     }
   },
   "goals": [
@@ -249,7 +249,7 @@
       "player": "#18 - Matt  Martin",
       "pim": 10,
       "offense": "4 penalties",
-      "isMajor": false,
+      "isMajor": true,
       "isMatch": false
     },
     {
@@ -266,5 +266,5 @@
       "isMatch": false
     }
   ],
-  "_updated": "2026-06-06T21:58:26.920Z"
+  "_updated": "2026-07-21T08:35:34.108Z"
 }

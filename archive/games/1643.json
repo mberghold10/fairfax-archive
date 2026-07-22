@@ -1,0 +1,274 @@
+{
+  "gameId": "1643",
+  "date": "2026-06-10",
+  "divId": 325,
+  "seasonName": "Winter 2025",
+  "mode": "playoff",
+  "home": {
+    "teamId": "1995",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "1993",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 4,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 4,
+      "p3": 1,
+      "ot": 7,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#24 - Justin  Thompson",
+      "assist2": "#27 - Chris  Balsley"
+    },
+    {
+      "period": "1",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#46 - Dan  OConnell",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:14",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#18 - Samson  Chu",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "2",
+      "time": "00:05:33",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:53",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "scorer": "#93 - Trygve  Olson",
+      "assist1": "#68 - Jeff  Gilmore",
+      "assist2": "#27 - Chris  Balsley"
+    },
+    {
+      "period": "2",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#27 - Jeff  Carideo",
+      "assist1": "#8 - Brenden  Millice",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "2",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#41 - Erik  Kniaz",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "2",
+      "time": "00:12:51",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brenden  Millice",
+      "assist1": "#18 - Samson  Chu",
+      "assist2": "#32 - Simon  Flom"
+    },
+    {
+      "period": "2",
+      "time": "00:14:40",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#91 - Matt  Weeden",
+      "assist1": "#46 - Dan  OConnell",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "scorer": "#91 - Matt  Weeden",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:27",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": "#12 - Sami  Kymalainen"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:39",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "player": "#36 - William  Ludke",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:55",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "player": "#69 - Aaron  Domnitch",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:57",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "player": "#27 - Chris  Balsley",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "player": "#11 - Brian  Maloney",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "player": "#46 - Dan  OConnell",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "1993",
+        "name": "Swarm"
+      },
+      "player": "#27 - Jeff  Carideo",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "player": "#10 - Justin  Arbes",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "1995",
+        "name": "Bruins"
+      },
+      "player": "#24 - Justin  Thompson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:39:45.520Z"
+}

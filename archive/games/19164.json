@@ -1,0 +1,154 @@
+{
+  "gameId": "19164",
+  "date": "2026-07-13",
+  "divId": 331,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2038",
+    "name": "Red Dragons"
+  },
+  "away": {
+    "teamId": "2037",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:49",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "scorer": "#6 - Kristin  Uhlemeyer",
+      "assist1": "#89 - AJ  Saleh",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:40",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "scorer": "#65 - Stuart  Hoffman",
+      "assist1": "#80 - Ethan  Hoffman",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "2037",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#2 - Mike  Donnelly",
+      "assist1": "#21 - Josh  Vichness",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:08",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "scorer": "#80 - Ethan  Hoffman",
+      "assist1": "#89 - AJ  Saleh",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:39",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "scorer": "#94 - Michael  Starego",
+      "assist1": "#89 - AJ  Saleh",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:54",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "scorer": "#80 - Ethan  Hoffman",
+      "assist1": "#89 - AJ  Saleh",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "player": "#89 - AJ  Saleh",
+      "pim": 2,
+      "offense": "head contact",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "player": "#89 - AJ  Saleh",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "2037",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#21 - Josh  Vichness",
+      "pim": 2,
+      "offense": "head contact",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "2037",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#21 - Josh  Vichness",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": true,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-21T08:42:48.537Z"
+}
