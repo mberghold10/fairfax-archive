@@ -16,6 +16,7 @@ import { fileURLToPath } from 'node:url';
 import { createHash } from 'node:crypto';
 import { jaroWinkler, normalizeName } from '../../src/utils/playerIdentity.mjs';
 import { buildPlayerTeamMap, reconstructDivisionRosters } from './rosterTeams.mjs';
+import { loadPlayerIdentityOverrides, isNeverMerge, resolveAlwaysMergeCanonical } from './playerIdentityOverrides.mjs';
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url));
 
@@ -143,9 +144,10 @@ function blockingKeys(normalizedName) {
  * Uses blocking to avoid O(n*m) full comparisons.
  *
  * @param {Array} entries - Flat array of enriched skater entries
+ * @param {object} [overrides] - result of loadPlayerIdentityOverrides()
  * @returns {Array} Array of cluster objects
  */
-function clusterSkaters(entries) {
+function clusterSkaters(entries, overrides) {
   const clusters = []; // [{canonical, displayName, number, entries[]}]
   // Block index: maps blocking key → set of cluster indices
   const blockIndex = new Map();
@@ -153,7 +155,8 @@ function clusterSkaters(entries) {
   for (const entry of entries) {
     if (!entry.name || /^substit/i.test(entry.name)) continue;
 
-    const norm = normalizeName(entry.name);
+    let norm = normalizeName(entry.name);
+    if (overrides) norm = resolveAlwaysMergeCanonical(overrides, norm);
     const num = entry.number?.toString().replace(/\D/g, '') || '';
     const bKeys = blockingKeys(norm);
 
@@ -171,6 +174,13 @@ function clusterSkaters(entries) {
 
     for (const idx of candidateIndices) {
       const cluster = clusters[idx];
+      if (overrides && isNeverMerge(overrides, norm, cluster.canonical)) continue;
+      // Exact match after alwaysMerge resolution always wins outright.
+      if (norm === cluster.canonical) {
+        bestScore = 1;
+        bestCluster = cluster;
+        break;
+      }
       const nameSim = jaroWinkler(norm, cluster.canonical);
       const numBoost = (num && cluster.number && num === cluster.number) ? 0.05 : 0;
       const score = nameSim + numBoost;
@@ -219,8 +229,11 @@ export async function buildPlayerIndex(archiveDir, outputDir) {
   const allEntries = await collectSkaterEntries(archiveDir, gamesDir);
   console.log(`    Found ${allEntries.length} skater entries`);
 
+  // Load manual identity overrides (archive/player-identity.json)
+  const overrides = await loadPlayerIdentityOverrides(archiveDir);
+
   // Cluster by identity
-  const clusters = clusterSkaters(allEntries);
+  const clusters = clusterSkaters(allEntries, overrides);
   console.log(`    Resolved ${clusters.length} unique player profiles`);
 
   // Build output

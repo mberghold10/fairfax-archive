@@ -17,6 +17,7 @@ import { fileURLToPath } from 'node:url';
 import { createHash } from 'node:crypto';
 import { normalizeName, jaroWinkler } from '../../src/utils/playerIdentity.mjs';
 import { buildPlayerTeamMap, reconstructDivisionRosters } from './rosterTeams.mjs';
+import { loadPlayerIdentityOverrides, isNeverMerge, resolveAlwaysMergeCanonical } from './playerIdentityOverrides.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = fileURLToPath(new URL('.', import.meta.url));
@@ -130,16 +131,26 @@ async function readAllGoalieEntries(archiveDir, gamesDir) {
 /**
  * Cluster goalie entries by name similarity using Jaro-Winkler.
  * Same algorithm as buildGoalieProfiles but preserves full metadata.
+ *
+ * @param {Array} entries
+ * @param {object} [overrides] - result of loadPlayerIdentityOverrides()
  */
-function clusterGoalies(entries) {
+function clusterGoalies(entries, overrides) {
   const clusters = []; // [{canonical, entries[]}]
 
   for (const entry of entries) {
-    const norm = normalizeName(entry.name);
+    let norm = normalizeName(entry.name);
+    if (overrides) norm = resolveAlwaysMergeCanonical(overrides, norm);
     let bestCluster = null;
     let bestScore = 0;
 
     for (const cluster of clusters) {
+      if (overrides && isNeverMerge(overrides, norm, cluster.canonical)) continue;
+      if (norm === cluster.canonical) {
+        bestScore = 1;
+        bestCluster = cluster;
+        break;
+      }
       const score = jaroWinkler(norm, cluster.canonical);
       if (score > SIMILARITY_THRESHOLD && score > bestScore) {
         bestScore = score;
@@ -253,7 +264,8 @@ export async function buildGoalieIndex(archiveDir, outputDir) {
   const allEntries = await readAllGoalieEntries(archiveDir, gamesDir);
   console.log(`  Found ${allEntries.length} goalie entries across all divisions`);
 
-  const clusters = clusterGoalies(allEntries);
+  const overrides = await loadPlayerIdentityOverrides(archiveDir);
+  const clusters = clusterGoalies(allEntries, overrides);
   const profiles = buildProfiles(clusters);
 
   // Create output directories

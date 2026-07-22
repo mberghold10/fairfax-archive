@@ -1,0 +1,14 @@
+{
+  "_note": "Manual overrides for player identity clustering (playerIndex.mjs / goalieIndex.mjs), same idea as team-identity.json. The automatic Jaro-Winkler name clustering occasionally merges two different people (false positive) or fails to merge misspelled variants of the same person (false negative). Use this file to correct those cases by hand.",
+
+  "_neverMerge": "Array of [nameA, nameB] pairs (exact roster name strings, case-insensitive) that must NEVER be clustered together even if their similarity score clears the threshold. Use this to split up two different real people who happen to have similar/same names.",
+  "neverMerge": [
+    ["Thomas, Dylan", "Thomka, Wayde"],
+    ["Thomas, Dylan", "Thomka, Wade"],
+    ["Thomas, Dylan", "Thomas, Kyle"],
+    ["Thomas, Dylan", "Thomas, Dan"]
+  ],
+
+  "_alwaysMerge": "Array of arrays of exact roster name strings that should always be treated as the same person, even if the similarity score is too low to cluster automatically (e.g. a name spelled very differently one season). The first name in each group is used as the canonical/display name.",
+  "alwaysMerge": []
+}
