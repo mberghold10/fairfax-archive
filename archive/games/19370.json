@@ -1,0 +1,95 @@
+{
+  "gameId": "19370",
+  "date": "2026-07-17",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2082",
+    "name": "Roughnecks"
+  },
+  "away": {
+    "teamId": "2079",
+    "name": "Hershey Beers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:09:32",
+      "team": {
+        "teamId": "2082",
+        "name": "Roughnecks"
+      },
+      "scorer": "#54 - Casey  Vance",
+      "assist1": "#61 - Ian  Coleman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:33",
+      "team": {
+        "teamId": "2079",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#26 - Chris  Anderson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "2082",
+        "name": "Roughnecks"
+      },
+      "scorer": "#21 - Max  Levowitz",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:09:24",
+      "team": {
+        "teamId": "2079",
+        "name": "Hershey Beers"
+      },
+      "player": "#26 - Chris  Anderson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:44",
+      "team": {
+        "teamId": "2082",
+        "name": "Roughnecks"
+      },
+      "player": "#37 - Jeremiah  Tamagna-Darr",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-22T08:42:08.635Z"
+}

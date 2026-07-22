@@ -1,0 +1,191 @@
+{
+  "gameId": "19219",
+  "date": "2026-07-20",
+  "divId": 329,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2028",
+    "name": "British Bulldogs"
+  },
+  "away": {
+    "teamId": "2025",
+    "name": "D 4th Liners"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:06",
+      "team": {
+        "teamId": "2028",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#12 - Steven  Courson",
+      "assist1": "#24 - Zach  Spiewak",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "2028",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#12 - Steven  Courson",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:38",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#19 - Joe  Beard",
+      "assist1": "#12 - Nic  Westing",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:36",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#7 - Steven  Roessler",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:08",
+      "team": {
+        "teamId": "2028",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#28 - Carrick  Randall",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": "#24 - Zach  Spiewak"
+    },
+    {
+      "period": "3",
+      "time": "00:11:26",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#2 - Jack  Lockerby",
+      "assist1": "#23 - Omar  Haque",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:59",
+      "team": {
+        "teamId": "2028",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#24 - Zach  Spiewak",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:06",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "player": "#11 - Erik  Brisson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:05",
+      "team": {
+        "teamId": "2028",
+        "name": "British Bulldogs"
+      },
+      "player": "#44 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:53",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:20",
+      "team": {
+        "teamId": "2028",
+        "name": "British Bulldogs"
+      },
+      "player": "#24 - Zach  Spiewak",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:17",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "player": "#8 - Jordan  Walerstein",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:59",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "player": "#7 - Steven  Roessler",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-22T08:40:53.894Z"
+}

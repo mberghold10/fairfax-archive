@@ -1,0 +1,108 @@
+{
+  "gameId": "19270",
+  "date": "2026-07-19",
+  "divId": 333,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2051",
+    "name": "Cretaceous Puck"
+  },
+  "away": {
+    "teamId": "2054",
+    "name": "Lightning"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "2054",
+        "name": "Lightning"
+      },
+      "scorer": "#1 - Drew  Connolly",
+      "assist1": "#11 - Mark  Boyd",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:46",
+      "team": {
+        "teamId": "2054",
+        "name": "Lightning"
+      },
+      "scorer": "#24 - Mike  Plourde",
+      "assist1": "#1 - Drew  Connolly",
+      "assist2": "#31 - Zach  Furness"
+    },
+    {
+      "period": "3",
+      "time": "00:08:32",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#43 - Alex  Langsam",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:32",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#13 - Jon  Coley",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:13",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#13 - Jon  Coley",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:01",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-22T08:41:31.109Z"
+}

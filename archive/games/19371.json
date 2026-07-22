@@ -1,0 +1,106 @@
+{
+  "gameId": "19371",
+  "date": "2026-07-18",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2075",
+    "name": "Mutiny"
+  },
+  "away": {
+    "teamId": "2076",
+    "name": "Pumpkins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:50",
+      "team": {
+        "teamId": "2075",
+        "name": "Mutiny"
+      },
+      "scorer": "#14 - Matthew  Pick",
+      "assist1": "#2 - Joshua  Fowler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "scorer": "#9 - Jordan  Hill",
+      "assist1": "#6 - Diego  Torres",
+      "assist2": "#77 - Enrique  Bouchot"
+    },
+    {
+      "period": "3",
+      "time": "00:12:27",
+      "team": {
+        "teamId": "2075",
+        "name": "Mutiny"
+      },
+      "scorer": "#2 - Joshua  Fowler",
+      "assist1": "#95 - Maggie  Cowden",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:24",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "scorer": "#6 - Diego  Torres",
+      "assist1": "#21 - Jeremy  Weng",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:21",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "player": "#42 - Drew  Carbone",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:01:23",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-22T08:42:08.405Z"
+}

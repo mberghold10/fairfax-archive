@@ -1,0 +1,200 @@
+{
+  "gameId": "19167",
+  "date": "2026-07-19",
+  "divId": 331,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2041",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "2038",
+    "name": "Red Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 1,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "scorer": "#80 - Ethan  Hoffman",
+      "assist1": "#44 - Kevin  Fehskens",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:35",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "scorer": "#12 - Kieran  McQuilkin",
+      "assist1": "#33 - Zach  Sowinski",
+      "assist2": "#13 - John  Bereza"
+    },
+    {
+      "period": "2",
+      "time": "00:02:18",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "scorer": "#57 - Dylan  Thomas",
+      "assist1": "#44 - Kevin  Fehskens",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "scorer": "#33 - Zach  Sowinski",
+      "assist1": "#34 - Evan  Tierney",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:25",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "scorer": "#7 - Connor  Anderson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:33",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "scorer": "#33 - Zach  Sowinski",
+      "assist1": "#9 - Chris  ORear",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:53",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "scorer": "#7 - Connor  Anderson",
+      "assist1": "#3 - Ilana  Bell",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:51",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "scorer": "#34 - Evan  Tierney",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:26",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "scorer": "#80 - Ethan  Hoffman",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:00",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "player": "#7 - Connor  Anderson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:53",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "player": "#29 - Sean  Brown",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:50",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "player": "#29 - Sean  Brown",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:16",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "player": "#47 - Raymond  Jakubowski",
+      "pim": 2,
+      "offense": "elbow",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-22T08:41:12.198Z"
+}

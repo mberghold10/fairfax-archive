@@ -1,0 +1,95 @@
+{
+  "gameId": "19170",
+  "date": "2026-07-20",
+  "divId": 331,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2037",
+    "name": "Drop Puck Murphys"
+  },
+  "away": {
+    "teamId": "2036",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "2037",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#44 - Jeff  Marciano",
+      "assist1": "#16 - Marty  Cabral",
+      "assist2": "#41 - Phil  Cunningham"
+    },
+    {
+      "period": "3",
+      "time": "00:11:52",
+      "team": {
+        "teamId": "2037",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#44 - Jeff  Marciano",
+      "assist1": "#5 - Roger  Jordan",
+      "assist2": "#16 - Marty  Cabral"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "2037",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#44 - Jeff  Marciano",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:27",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "player": "#47 - Jeff  Urlwin",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-22T08:41:11.161Z"
+}
