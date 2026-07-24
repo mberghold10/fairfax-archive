@@ -1,0 +1,239 @@
+{
+  "gameId": "19310",
+  "date": "2026-07-21",
+  "divId": 335,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2063",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "2064",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 4,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#49 - Greg  Mullen",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:00:52",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#49 - Greg  Mullen",
+      "assist1": "#55 - Brian  Compagnone",
+      "assist2": "#25 - Chris  Lettieri"
+    },
+    {
+      "period": "1",
+      "time": "00:05:14",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#8 - Jason  Eister",
+      "assist2": "#49 - Greg  Mullen"
+    },
+    {
+      "period": "1",
+      "time": "00:13:52",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#49 - Greg  Mullen",
+      "assist2": "#55 - Brian  Compagnone"
+    },
+    {
+      "period": "2",
+      "time": "00:07:48",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "scorer": "#77 - Dan  Miller",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:49",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": "#44 - Mick  Ellsworth",
+      "assist2": "#20 - Michael  Schantz"
+    },
+    {
+      "period": "2",
+      "time": "00:13:46",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "scorer": "#54 - Dan  Bagley",
+      "assist1": "#77 - Dan  Miller",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:12",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#19 - Joe  Dunn",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:17",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "scorer": "#7 - Ed  Weiner",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "player": "#77 - Dan  Miller",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:47",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "player": "#7 - Ed  Weiner",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:39",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#25 - Chris  Lettieri",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:59",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "player": "#5 - Oleg  Kolodin",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:25",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#8 - Jason  Eister",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "player": "#5 - Oleg  Kolodin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "player": "#12 - Jason  Wakeman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-24T08:40:00.199Z"
+}

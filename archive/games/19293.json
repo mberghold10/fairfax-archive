@@ -1,0 +1,176 @@
+{
+  "gameId": "19293",
+  "date": "2026-07-22",
+  "divId": 334,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2057",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "2058",
+    "name": "Swarm"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "2058",
+        "name": "Swarm"
+      },
+      "scorer": "#27 - Jeff  Carideo",
+      "assist1": "#41 - Erik  Kniaz",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:37",
+      "team": {
+        "teamId": "2058",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": "#41 - Erik  Kniaz",
+      "assist2": "#56 - Ryan  Tyler"
+    },
+    {
+      "period": "1",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "scorer": "#7 - Andrew  Golomb",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:59",
+      "team": {
+        "teamId": "2058",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:13",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "scorer": "#17 - Jeremy  Ricco",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "2058",
+        "name": "Swarm"
+      },
+      "scorer": "#8 - Brendan  Millice",
+      "assist1": "#41 - Erik  Kniaz",
+      "assist2": "#51 - Tyler  Kniaz"
+    },
+    {
+      "period": "3",
+      "time": "00:00:34",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "scorer": "#64 - Derek  Bluth",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:44",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "scorer": "#7 - Andrew  Golomb",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "2058",
+        "name": "Swarm"
+      },
+      "player": "#96 - Chris  Dour",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "player": "#44 - Campbell  Burnes",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:44",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "player": "#44 - Campbell  Burnes",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:54",
+      "team": {
+        "teamId": "2058",
+        "name": "Swarm"
+      },
+      "player": "#96 - Chris  Dour",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-24T08:39:50.355Z"
+}
