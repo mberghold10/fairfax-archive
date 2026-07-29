@@ -1,0 +1,106 @@
+{
+  "gameId": "19375",
+  "date": "2026-07-25",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2075",
+    "name": "Mutiny"
+  },
+  "away": {
+    "teamId": "2080",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "3",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "2075",
+        "name": "Mutiny"
+      },
+      "scorer": "#9 - Kirsten  Kumpf",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "2075",
+        "name": "Mutiny"
+      },
+      "scorer": "#14 - Matthew  Pick",
+      "assist1": "#8 - Dao  Tran",
+      "assist2": "#9 - Kirsten  Kumpf"
+    },
+    {
+      "period": "3",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#27 - Jamie  Prime",
+      "assist1": "#22 - Amir  Tahami",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:30",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#20 - Steve  Ahart",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:08:03",
+      "team": {
+        "teamId": "2075",
+        "name": "Mutiny"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:26",
+      "team": {
+        "teamId": "2075",
+        "name": "Mutiny"
+      },
+      "player": "#6 - Benjamin  Cobb",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-29T08:54:06.126Z"
+}

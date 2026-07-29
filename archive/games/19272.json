@@ -1,0 +1,167 @@
+{
+  "gameId": "19272",
+  "date": "2026-07-27",
+  "divId": 333,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2050",
+    "name": "Slashing Pumpkins"
+  },
+  "away": {
+    "teamId": "2053",
+    "name": "Alers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:59",
+      "team": {
+        "teamId": "2050",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#95 - Noah  Gizarelli",
+      "assist1": "#24 - Darcy  Rosenbaum",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:47",
+      "team": {
+        "teamId": "2050",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#20 - Nate  Radke",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:43",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#13 - Duane  Stefaniak",
+      "assist1": "#88 - Afshawn  Towfighi",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "2050",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#94 - Felix  Propp",
+      "assist1": "#95 - Noah  Gizarelli",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:36",
+      "team": {
+        "teamId": "2050",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#75 - Tim  Witkiewicz",
+      "assist1": "#78 - Matt  Bailey",
+      "assist2": "#81 - Sean  Murphy"
+    },
+    {
+      "period": "3",
+      "time": "00:13:31",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#19 - Colin  Bartlett",
+      "assist1": "#68 - Rich  Williams",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "2050",
+        "name": "Slashing Pumpkins"
+      },
+      "player": "#16 - Jacob  Kohls",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:30",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "player": "#91 - Jeff  Rendler",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:49",
+      "team": {
+        "teamId": "2050",
+        "name": "Slashing Pumpkins"
+      },
+      "player": "#20 - Nate  Radke",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:36",
+      "team": {
+        "teamId": "2050",
+        "name": "Slashing Pumpkins"
+      },
+      "player": "#16 - Jacob  Kohls",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:59",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "player": "#88 - Afshawn  Towfighi",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-07-29T08:53:25.270Z"
+}
