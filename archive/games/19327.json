@@ -1,0 +1,152 @@
+{
+  "gameId": "19327",
+  "date": "2026-08-06",
+  "divId": 335,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2063",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "2067",
+    "name": "Penguins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:55",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#76 - Mike  Floyd",
+      "assist1": "#55 - Brian  Compagnone",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "2067",
+        "name": "Penguins"
+      },
+      "scorer": "#26 - Bob  Banasik",
+      "assist1": "#40 - Misha  Serebrennikov",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#44 - Mick  Ellsworth",
+      "assist1": "#47 - Talbot  Black",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:13",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#55 - Brian  Compagnone",
+      "assist1": "#2 - Paul  Zalocha",
+      "assist2": "#76 - Mike  Floyd"
+    },
+    {
+      "period": "3",
+      "time": "00:06:49",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#47 - Talbot  Black",
+      "assist1": "#44 - Mick  Ellsworth",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:04",
+      "team": {
+        "teamId": "2067",
+        "name": "Penguins"
+      },
+      "scorer": "#15 - Mark  Rudnicki",
+      "assist1": "#26 - Bob  Banasik",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:38",
+      "team": {
+        "teamId": "2067",
+        "name": "Penguins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#30 - Daniel  Allen",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:14",
+      "team": {
+        "teamId": "2067",
+        "name": "Penguins"
+      },
+      "player": "#40 - Misha  Serebrennikov",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "2067",
+        "name": "Penguins"
+      },
+      "player": "#43 - Henry  Weisiger",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:40",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#76 - Mike  Floyd",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-08-10T07:56:44.871Z"
+}

@@ -1,0 +1,235 @@
+{
+  "gameId": "19225",
+  "date": "2026-08-02",
+  "divId": 329,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2029",
+    "name": "Dragons"
+  },
+  "away": {
+    "teamId": "2026",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:15",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#22 - Andrew  Justus",
+      "assist1": "#91 - Jake  Barnett",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "2029",
+        "name": "Dragons"
+      },
+      "scorer": "#89 - AJ  Saleh",
+      "assist1": "#24 - Jake  Rider",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#91 - Jake  Barnett",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:12",
+      "team": {
+        "teamId": "2029",
+        "name": "Dragons"
+      },
+      "scorer": "#55 - Griffin  Bryce",
+      "assist1": "#82 - Caleb  Sohl",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:33",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#91 - Jake  Barnett",
+      "assist1": "#21 - Mark  Johnston",
+      "assist2": "#25 - Bob  Banasik"
+    },
+    {
+      "period": "2",
+      "time": "00:07:25",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#13 - Ryan  Roumell",
+      "assist1": "#25 - Bob  Banasik",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:51",
+      "team": {
+        "teamId": "2029",
+        "name": "Dragons"
+      },
+      "scorer": "#55 - Griffin  Bryce",
+      "assist1": "#48 - Andy  Parr",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "2029",
+        "name": "Dragons"
+      },
+      "scorer": "#7 - Connor  Anderson",
+      "assist1": "#95 - Mick  Starego",
+      "assist2": "#3 - Bell  Ilana"
+    },
+    {
+      "period": "3",
+      "time": "00:07:19",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": "#91 - Jake  Barnett",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:40",
+      "team": {
+        "teamId": "2029",
+        "name": "Dragons"
+      },
+      "scorer": "#24 - Jake  Rider",
+      "assist1": "#43 - Braeden  Siminow",
+      "assist2": "#89 - AJ  Saleh"
+    },
+    {
+      "period": "3",
+      "time": "00:09:53",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#13 - Ryan  Roumell",
+      "assist1": "#8 - Mike  Carr",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:44",
+      "team": {
+        "teamId": "2029",
+        "name": "Dragons"
+      },
+      "player": "#7 - Connor  Anderson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "player": "#22 - Andrew  Justus",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "2029",
+        "name": "Dragons"
+      },
+      "player": "#7 - Connor  Anderson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "2029",
+        "name": "Dragons"
+      },
+      "player": "#26 - Tate  Scott",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:12",
+      "team": {
+        "teamId": "2029",
+        "name": "Dragons"
+      },
+      "player": "#7 - Connor  Anderson",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:21",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "player": "#22 - Andrew  Justus",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-08-10T07:55:23.353Z"
+}

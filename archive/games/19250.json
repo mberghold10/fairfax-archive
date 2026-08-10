@@ -1,0 +1,97 @@
+{
+  "gameId": "19250",
+  "date": "2026-08-01",
+  "divId": 332,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2048",
+    "name": "Wolves"
+  },
+  "away": {
+    "teamId": "2046",
+    "name": "Horne Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:48",
+      "team": {
+        "teamId": "2046",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#92 - Dan  Horner",
+      "assist1": "#93 - Robert  Wagner",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "2046",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#28 - Alex  Rudulph",
+      "assist1": "#26 - Kjell  Crooke",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:33",
+      "team": {
+        "teamId": "2046",
+        "name": "Horne Dogs"
+      },
+      "player": "#15 - Dave  Gorman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:02",
+      "team": {
+        "teamId": "2048",
+        "name": "Wolves"
+      },
+      "player": "#6 - Jon  Alford",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:46",
+      "team": {
+        "teamId": "2048",
+        "name": "Wolves"
+      },
+      "player": "#37 - John  Holland",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-08-10T07:56:07.835Z"
+}

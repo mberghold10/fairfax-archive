@@ -1,0 +1,139 @@
+{
+  "gameId": "19351",
+  "date": "2026-08-02",
+  "divId": 336,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2073",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "2074",
+    "name": "Bad Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:16",
+      "team": {
+        "teamId": "2073",
+        "name": "Hurricanes"
+      },
+      "scorer": "#12 - Adam  Olsen",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "2073",
+        "name": "Hurricanes"
+      },
+      "scorer": "#19 - Jason  Long",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:09",
+      "team": {
+        "teamId": "2074",
+        "name": "Bad Leafs"
+      },
+      "scorer": "#54 - Tom  Montanio",
+      "assist1": "#79 - Jonah  Goobic",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:42",
+      "team": {
+        "teamId": "2073",
+        "name": "Hurricanes"
+      },
+      "scorer": "#20 - Mike  Hempen",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": "#15 - Mark  Yawornicky"
+    },
+    {
+      "period": "3",
+      "time": "00:10:20",
+      "team": {
+        "teamId": "2073",
+        "name": "Hurricanes"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": "#7 - Dave  Neri",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:38",
+      "team": {
+        "teamId": "2074",
+        "name": "Bad Leafs"
+      },
+      "scorer": "#20 - Bao  Pham",
+      "assist1": "#48 - Randy  Sasai",
+      "assist2": "#44 - Jim  McGovern"
+    },
+    {
+      "period": "3",
+      "time": "00:12:34",
+      "team": {
+        "teamId": "2073",
+        "name": "Hurricanes"
+      },
+      "scorer": "#7 - Dave  Neri",
+      "assist1": "#20 - Mike  Hempen",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "2073",
+        "name": "Hurricanes"
+      },
+      "player": "#7 - Dave  Neri",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:50",
+      "team": {
+        "teamId": "2074",
+        "name": "Bad Leafs"
+      },
+      "player": "#47 - Jeff  Urlwin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-08-10T07:57:00.059Z"
+}

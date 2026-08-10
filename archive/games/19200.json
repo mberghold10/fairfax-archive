@@ -1,0 +1,95 @@
+{
+  "gameId": "19200",
+  "date": "2026-08-04",
+  "divId": 330,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2034",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "2033",
+    "name": "DPunishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:23",
+      "team": {
+        "teamId": "2034",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#36 - Brian  Lusby",
+      "assist1": "#68 - Brian  Hall",
+      "assist2": "#86 - Nico  Evangelista"
+    },
+    {
+      "period": "3",
+      "time": "00:00:57",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "scorer": "#13 - Gabi  Wind",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": "#41 - Jake  Gagnon"
+    },
+    {
+      "period": "3",
+      "time": "00:12:47",
+      "team": {
+        "teamId": "2034",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#38 - Drew  Dunn",
+      "assist1": "#44 - Carlos  Gautier",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:51",
+      "team": {
+        "teamId": "2034",
+        "name": "Mad Dogs"
+      },
+      "player": "#44 - Carlos  Gautier",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:51",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "player": "#32 - Chuck  Wilkens",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-08-10T07:55:36.686Z"
+}
