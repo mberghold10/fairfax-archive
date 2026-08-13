@@ -16,8 +16,8 @@
     "home": {
       "p1": 0,
       "p2": 0,
-      "p3": 2,
-      "ot": 0,
+      "p3": 1,
+      "ot": 1,
       "final": 2
     },
     "away": {
@@ -42,17 +42,6 @@
     },
     {
       "period": "3",
-      "time": "00:00:43",
-      "team": {
-        "teamId": "2037",
-        "name": "Drop Puck Murphys"
-      },
-      "scorer": "#44 - Jeff  Marciano",
-      "assist1": "#16 - Marty  Cabral",
-      "assist2": "#41 - Phil  Cunningham"
-    },
-    {
-      "period": "3",
       "time": "00:11:52",
       "team": {
         "teamId": "2037",
@@ -61,6 +50,17 @@
       "scorer": "#44 - Jeff  Marciano",
       "assist1": "#5 - Roger  Jordan",
       "assist2": "#16 - Marty  Cabral"
+    },
+    {
+      "period": "4",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "2037",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#44 - Jeff  Marciano",
+      "assist1": "#16 - Marty  Cabral",
+      "assist2": "#41 - Phil  Cunningham"
     }
   ],
   "penalties": [
@@ -91,5 +91,5 @@
       "isMatch": false
     }
   ],
-  "_updated": "2026-08-10T07:55:54.550Z"
+  "_updated": "2026-08-13T07:46:54.734Z"
 }
