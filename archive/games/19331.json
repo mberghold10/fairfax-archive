@@ -1,0 +1,185 @@
+{
+  "gameId": "19331",
+  "date": "2026-08-13",
+  "divId": 335,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2062",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "2063",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 3,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:21",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#49 - Greg  Mullen",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:40",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#55 - Brian  Compagnone",
+      "assist2": "#49 - Greg  Mullen"
+    },
+    {
+      "period": "1",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "scorer": "#7 - Brendan  Ford",
+      "assist1": "#33 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:41",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#18 - Mike  Sharp",
+      "assist1": "#20 - Michael  Schantz",
+      "assist2": "#55 - Brian  Compagnone"
+    },
+    {
+      "period": "2",
+      "time": "00:00:11",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#55 - Brian  Compagnone",
+      "assist1": "#22 - Brian  Dutton",
+      "assist2": "#2 - Paul  Zalocha"
+    },
+    {
+      "period": "2",
+      "time": "00:03:44",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "scorer": "#12 - Adam  Jungdhal",
+      "assist1": "#15 - Mike  Hempen",
+      "assist2": "#7 - Brendan  Ford"
+    },
+    {
+      "period": "2",
+      "time": "00:07:49",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#49 - Greg  Mullen",
+      "assist1": "#25 - Chris  Lettieri",
+      "assist2": "#22 - Brian  Dutton"
+    },
+    {
+      "period": "2",
+      "time": "00:14:05",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#49 - Greg  Mullen",
+      "assist1": "#18 - Mike  Sharp",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:29",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#25 - Chris  Lettieri",
+      "assist1": "#2 - Paul  Zalocha",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:27",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Brian  Dix",
+      "assist1": "#43 - David  Inkellis",
+      "assist2": "#15 - Mike  Hempen"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:58",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#20 - Michael  Schantz",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:08",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#18 - Mike  Sharp",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:08",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#25 - Chris  Lettieri",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-08-15T06:50:44.485Z"
+}

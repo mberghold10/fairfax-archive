@@ -1,0 +1,259 @@
+{
+  "gameId": "19299",
+  "date": "2026-08-12",
+  "divId": 334,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2057",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "2056",
+    "name": "ers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 4,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 2,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 7
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "scorer": "#49 - David  Kautter",
+      "assist1": "#76 - DJ  Dunlevy",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:14",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "scorer": "#3 - Oleg  Kolodin",
+      "assist1": "#9 - Sam  Ziesler",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:12",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "scorer": "#13 - Brian  Patterson",
+      "assist1": "#15 - Jonathan  Vu",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:41",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "scorer": "#7 - Andrew  Golomb",
+      "assist1": "#13 - Brian  Patterson",
+      "assist2": "#15 - Jonathan  Vu"
+    },
+    {
+      "period": "1",
+      "time": "00:09:58",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "scorer": "#26 - Mike  Floyd",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:25",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "scorer": "#7 - Andrew  Golomb",
+      "assist1": "#15 - Jonathan  Vu",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "scorer": "#7 - Andrew  Golomb",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "scorer": "#96 - Chris  Beck",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:01",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "scorer": "#76 - DJ  Dunlevy",
+      "assist1": "#3 - Matt  Cerce",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:32",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "scorer": "#3 - Matt  Cerce",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "scorer": "#7 - Matt  ODriscoll",
+      "assist1": "#26 - Mike  Floyd",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#96 - Chris  Beck",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:12",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "player": "#96 - Chris  Beck",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:02",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "player": "#92 - TC  Rotunda",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:24",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "player": "#12 - Jon  Gregor",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:24",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "player": "#12 - Jon  Gregor",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:24",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "player": "#96 - Chris  Beck",
+      "pim": 5,
+      "offense": "fight",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:24",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "player": "#96 - Chris  Beck",
+      "pim": 10,
+      "offense": "game misconduct",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:32",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "player": "#55 - Mike  McKenney",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-08-15T06:50:32.248Z"
+}
