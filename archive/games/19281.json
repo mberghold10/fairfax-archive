@@ -1,0 +1,143 @@
+{
+  "gameId": "19281",
+  "date": "2026-08-21",
+  "divId": 333,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2053",
+    "name": "Alers"
+  },
+  "away": {
+    "teamId": "2051",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:07",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#43 - Alex  Langsam",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:14",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#7 - Graham  Eddy",
+      "assist1": "#43 - Alex  Langsam",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:52",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#43 - Alex  Langsam",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#21 - Larry  Silver",
+      "assist1": "#19 - Colin  Bartlett",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:23",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#7 - Graham  Eddy",
+      "assist1": "#11 - Gary  Caley",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:22",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "player": "#900 - Nacios  Tania",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:27",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#11 - Gary  Caley",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#88 - Jason  Searight",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:21",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "player": "#50 - Scott  Vecchione",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-08-29T12:38:46.283Z"
+}

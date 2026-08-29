@@ -1,0 +1,121 @@
+{
+  "gameId": "19336",
+  "date": "2026-08-20",
+  "divId": 335,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2066",
+    "name": "Black Sheep"
+  },
+  "away": {
+    "teamId": "2062",
+    "name": "Flying Circus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:34",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "scorer": "#25 - Malcolm  Hyson",
+      "assist1": "#21 - Trevor  Wallace",
+      "assist2": "#7 - Brendan  Ford"
+    },
+    {
+      "period": "1",
+      "time": "00:11:53",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Brian  Dix",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:41",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "scorer": "#43 - David  Inkellis",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:27",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "player": "#3 - Bill  Kang",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:33",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "player": "#53 - Don  Modder",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:18",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "player": "#42 - Jeff  Lovett",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:18",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "player": "#21 - Trevor  Wallace",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-08-29T12:39:17.536Z"
+}

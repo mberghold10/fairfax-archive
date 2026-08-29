@@ -1,0 +1,237 @@
+{
+  "gameId": "19227",
+  "date": "2026-08-15",
+  "divId": 329,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2025",
+    "name": "D 4th Liners"
+  },
+  "away": {
+    "teamId": "2024",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:21",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#3 - Colin  Ray",
+      "assist1": "#11 - Erik  Brisson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#92 - Lens  Desrouleaux",
+      "assist1": "#9 - Alex  Cimon",
+      "assist2": "#11 - Matt  Wier"
+    },
+    {
+      "period": "1",
+      "time": "00:02:40",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#12 - Nic  Westing",
+      "assist1": "#33 - Tanner  Paul",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:16",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#770 - Samuel  Dedian",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:42",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#39 - Ethan  Liu",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:31",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#770 - Samuel  Dedian",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#12 - Nic  Westing",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:39",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#32 - Rob  Stewart",
+      "assist1": "#20 - Jeff  Carter",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:33",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#11 - Matt  Wier",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:52",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#12 - Nic  Westing",
+      "assist1": "#33 - Tanner  Paul",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:51",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "player": "#3 - Colin  Ray",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:23",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "player": "#11 - Matt  Wier",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:25",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "player": "#17 - Kevin  Roehner",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "player": "#3 - Colin  Ray",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "player": "#17 - Kevin  Roehner",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:31",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "player": "#33 - Tanner  Paul",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:14",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "player": "#92 - Lens  Desrouleaux",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-08-29T12:37:42.358Z"
+}

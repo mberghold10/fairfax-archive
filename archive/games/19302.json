@@ -1,0 +1,130 @@
+{
+  "gameId": "19302",
+  "date": "2026-08-19",
+  "divId": 334,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2059",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "2056",
+    "name": "ers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:17",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "scorer": "#14 - Dennis  Nayandin",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": "#68 - Stephen  Vereb"
+    },
+    {
+      "period": "1",
+      "time": "00:01:44",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "scorer": "#3 - Matt  Cerce",
+      "assist1": "#45 - Matt  Michelson",
+      "assist2": "#7 - Matt  ODriscoll"
+    },
+    {
+      "period": "1",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "scorer": "#3 - Matt  Cerce",
+      "assist1": "#49 - David  Kautter",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "scorer": "#7 - Matt  ODriscoll",
+      "assist1": "#3 - Matt  Cerce",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "scorer": "#3 - Matt  Cerce",
+      "assist1": "#49 - David  Kautter",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:29",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "player": "#45 - Matt  Michelson",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:16",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "player": "#44 - Alex  Corbeil",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:17",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-08-29T12:39:00.111Z"
+}

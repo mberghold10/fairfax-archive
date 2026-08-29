@@ -1,0 +1,180 @@
+{
+  "gameId": "19279",
+  "date": "2026-08-17",
+  "divId": 333,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2050",
+    "name": "Slashing Pumpkins"
+  },
+  "away": {
+    "teamId": "2051",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 4,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#16 - Cullen  Finley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:34",
+      "team": {
+        "teamId": "2050",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#86 - Nathan  Gray",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:36",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#13 - Jon  Coley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#14 - Lee  Molina",
+      "assist1": "#13 - Jon  Coley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:44",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#16 - Cullen  Finley",
+      "assist1": "#13 - Jon  Coley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:58",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#43 - Alex  Langsam",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:35",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#43 - Alex  Langsam",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:06",
+      "team": {
+        "teamId": "2050",
+        "name": "Slashing Pumpkins"
+      },
+      "player": "#86 - Nathan  Gray",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:45",
+      "team": {
+        "teamId": "2050",
+        "name": "Slashing Pumpkins"
+      },
+      "player": "#42 - Drew  Carbone",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#0 - Nathan  Jones",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:46",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#9 - Munkh  Dansizan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:35",
+      "team": {
+        "teamId": "2050",
+        "name": "Slashing Pumpkins"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-08-29T12:38:46.978Z"
+}
