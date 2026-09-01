@@ -1,0 +1,174 @@
+{
+  "gameId": "19282",
+  "date": "2026-08-21",
+  "divId": 333,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2052",
+    "name": "Junkyard Dogs"
+  },
+  "away": {
+    "teamId": "2055",
+    "name": "Bottle Caps"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "2052",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#25 - Neil  Dsouza",
+      "assist1": "#26 - Kjell  Crooke",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:19",
+      "team": {
+        "teamId": "2055",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#8 - Tim  Lo",
+      "assist1": "#34 - Wilhelm  Happ",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "2052",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#26 - Kjell  Crooke",
+      "assist1": "#31 - Sam  Branham",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:23",
+      "team": {
+        "teamId": "2055",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#77 - Trevor  Boynton",
+      "assist1": "#26 - Chris  Anderson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:26",
+      "team": {
+        "teamId": "2055",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#0 - Howard  Ludwig",
+      "assist1": "#83 - Michael  Milazzo",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:34",
+      "team": {
+        "teamId": "2052",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#5 - Matt  Jenkins",
+      "assist1": "#8 - Reid  Maki",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:35",
+      "team": {
+        "teamId": "2052",
+        "name": "Junkyard Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#26 - Kjell  Crooke",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:09",
+      "team": {
+        "teamId": "2055",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#1 - Thomas  Newberg",
+      "assist1": "#77 - Trevor  Boynton",
+      "assist2": "#26 - Chris  Anderson"
+    },
+    {
+      "period": "3",
+      "time": "00:10:17",
+      "team": {
+        "teamId": "2055",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#1 - Thomas  Newberg",
+      "assist1": "#83 - Michael  Milazzo",
+      "assist2": "#77 - Trevor  Boynton"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "2055",
+        "name": "Bottle Caps"
+      },
+      "player": "#0 - Howard  Ludwig",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "2052",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#26 - Kjell  Crooke",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:23",
+      "team": {
+        "teamId": "2055",
+        "name": "Bottle Caps"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-01T14:04:23.832Z"
+}

@@ -1,0 +1,143 @@
+{
+  "gameId": "19258",
+  "date": "2026-08-22",
+  "divId": 332,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2046",
+    "name": "Horne Dogs"
+  },
+  "away": {
+    "teamId": "2044",
+    "name": "Defenders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:09",
+      "team": {
+        "teamId": "2046",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#87 - Ryan  Young",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:22",
+      "team": {
+        "teamId": "2046",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#87 - Ryan  Young",
+      "assist1": "#11 - Matty  Velin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:20",
+      "team": {
+        "teamId": "2046",
+        "name": "Horne Dogs"
+      },
+      "scorer": "#34 - Josh  Davis",
+      "assist1": "#26 - Kjell  Crooke",
+      "assist2": "#28 - Alex  Rudulph"
+    },
+    {
+      "period": "3",
+      "time": "00:05:14",
+      "team": {
+        "teamId": "2044",
+        "name": "Defenders"
+      },
+      "scorer": "#3 - Aaron  Drohn",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:24",
+      "team": {
+        "teamId": "2044",
+        "name": "Defenders"
+      },
+      "scorer": "#52 - Nicolo  Cruz",
+      "assist1": "#54 - David  Gilkes",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "2044",
+        "name": "Defenders"
+      },
+      "player": "#52 - Nicolo  Cruz",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:01",
+      "team": {
+        "teamId": "2046",
+        "name": "Horne Dogs"
+      },
+      "player": "#34 - Josh  Davis",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:38",
+      "team": {
+        "teamId": "2044",
+        "name": "Defenders"
+      },
+      "player": "#13 - Gary  White",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:21",
+      "team": {
+        "teamId": "2046",
+        "name": "Horne Dogs"
+      },
+      "player": "#26 - Kjell  Crooke",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-01T14:04:10.832Z"
+}

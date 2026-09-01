@@ -1,0 +1,121 @@
+{
+  "gameId": "19181",
+  "date": "2026-08-10",
+  "divId": 331,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2039",
+    "name": "Windbreakers"
+  },
+  "away": {
+    "teamId": "2043",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "2043",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#89 - Sid  Han",
+      "assist1": "#4 - Kevin  Canalichio",
+      "assist2": "#19 - Nate  Rozelle"
+    },
+    {
+      "period": "1",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "2043",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#19 - Nate  Rozelle",
+      "assist1": "#17 - JP  Christophe",
+      "assist2": "#74 - Eric  Peterson"
+    },
+    {
+      "period": "3",
+      "time": "00:00:42",
+      "team": {
+        "teamId": "2043",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#19 - Nate  Rozelle",
+      "assist1": "#74 - Eric  Peterson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:13:47",
+      "team": {
+        "teamId": "2039",
+        "name": "Windbreakers"
+      },
+      "player": "#370 - Jay  Klein",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:47",
+      "team": {
+        "teamId": "2043",
+        "name": "Blackskimmers"
+      },
+      "player": "#77 - Paul  Cicchetti",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:46",
+      "team": {
+        "teamId": "2043",
+        "name": "Blackskimmers"
+      },
+      "player": "#17 - JP  Christophe",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:45",
+      "team": {
+        "teamId": "2039",
+        "name": "Windbreakers"
+      },
+      "player": "#370 - Jay  Klein",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-01T14:03:55.501Z"
+}

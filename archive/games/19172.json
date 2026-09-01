@@ -1,0 +1,117 @@
+{
+  "gameId": "19172",
+  "date": "2026-07-25",
+  "divId": 331,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2039",
+    "name": "Windbreakers"
+  },
+  "away": {
+    "teamId": "2036",
+    "name": "Angry Moose"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:12",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#3 - Kent  Cowell",
+      "assist1": "#4 - Ryan  Cantwell",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#1 - Ryan  Gardiner",
+      "assist1": "#7 - Andrew  Clough",
+      "assist2": "#69 - George  Hess"
+    },
+    {
+      "period": "2",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#22 - Mike  Treme",
+      "assist1": "#11 - Will  Cowell",
+      "assist2": "#4 - Ryan  Cantwell"
+    },
+    {
+      "period": "2",
+      "time": "00:06:42",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#69 - George  Hess",
+      "assist1": "#21 - Kevin  Lockland",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:05",
+      "team": {
+        "teamId": "2039",
+        "name": "Windbreakers"
+      },
+      "scorer": "#27 - James  Fothergill",
+      "assist1": "#4 - Chris  Fothergill",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:38",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "player": "#21 - Kevin  Lockland",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "player": "#4 - Ryan  Cantwell",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-01T14:03:58.738Z"
+}

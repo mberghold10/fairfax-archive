@@ -1,0 +1,110 @@
+{
+  "gameId": "19196",
+  "date": "2026-07-25",
+  "divId": 330,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2031",
+    "name": "Chiefs"
+  },
+  "away": {
+    "teamId": "2035",
+    "name": "Pharaohs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "2031",
+        "name": "Chiefs"
+      },
+      "scorer": "#64 - Evan  Scigaj",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:50",
+      "team": {
+        "teamId": "2031",
+        "name": "Chiefs"
+      },
+      "scorer": "#18 - Michael  Dewhirst",
+      "assist1": "#26 - Jeremy  Whang",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:03",
+      "team": {
+        "teamId": "2031",
+        "name": "Chiefs"
+      },
+      "player": "#64 - Evan  Scigaj",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:22",
+      "team": {
+        "teamId": "2035",
+        "name": "Pharaohs"
+      },
+      "player": "#20 - Billy  Summa",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:03",
+      "team": {
+        "teamId": "2035",
+        "name": "Pharaohs"
+      },
+      "player": "#13 - Joe  Carroll",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:44",
+      "team": {
+        "teamId": "2031",
+        "name": "Chiefs"
+      },
+      "player": "#4 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-01T14:03:41.654Z"
+}

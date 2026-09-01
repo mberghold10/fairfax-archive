@@ -1,0 +1,121 @@
+{
+  "gameId": "19195",
+  "date": "2026-07-25",
+  "divId": 330,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2033",
+    "name": "DPunishers"
+  },
+  "away": {
+    "teamId": "2032",
+    "name": "Jacks GreyBeards"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 1,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:35",
+      "team": {
+        "teamId": "2032",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:15",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "scorer": "#11 - Dan  Sharago",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:07",
+      "team": {
+        "teamId": "2032",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#28 - Charles  Hale",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:02:21",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "player": "#11 - Dan  Sharago",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:00",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "player": "#41 - Jake  Gagnon",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:22",
+      "team": {
+        "teamId": "2032",
+        "name": "Jacks GreyBeards"
+      },
+      "player": "#28 - Charles  Hale",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:02:57",
+      "team": {
+        "teamId": "2032",
+        "name": "Jacks GreyBeards"
+      },
+      "player": "#68 - Steve  Vereb",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-01T14:03:41.911Z"
+}

@@ -1,0 +1,180 @@
+{
+  "gameId": "19328",
+  "date": "2026-08-06",
+  "divId": 335,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2064",
+    "name": "Team USA"
+  },
+  "away": {
+    "teamId": "2065",
+    "name": "Coyotes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:21",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "scorer": "#25 - Stan  Torgovitsky",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:52",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": "#25 - Stan  Torgovitsky",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:59",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "scorer": "#5 - Oleg  Kolodin",
+      "assist1": "#27 - Jesse  Brand",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:03",
+      "team": {
+        "teamId": "2065",
+        "name": "Coyotes"
+      },
+      "scorer": "#68 - Sam  Chu",
+      "assist1": "#4 - Paul  Cicchetti",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:30",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:34",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "scorer": "#23 - Mike  OBrien",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:57",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "player": "#99 - Jon  Davoren",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:01:12",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "player": "#10 - Mike  Brahmey",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:13",
+      "team": {
+        "teamId": "2065",
+        "name": "Coyotes"
+      },
+      "player": "#4 - Paul  Cicchetti",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:19",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "player": "#44 - Greg  Powers",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:50",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "player": "#10 - Mike  Brahmey",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:58",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-01T14:04:51.322Z"
+}

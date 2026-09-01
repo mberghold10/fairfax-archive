@@ -1,0 +1,200 @@
+{
+  "gameId": "19222",
+  "date": "2026-07-26",
+  "divId": 329,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2026",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "2028",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:43",
+      "team": {
+        "teamId": "2028",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#20 - Mike  McLenahan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:14",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:32",
+      "team": {
+        "teamId": "2028",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#2 - Ari  Loggia",
+      "assist1": "#4 - Sean  Courtney",
+      "assist2": "#19 - Tom  Spiewak"
+    },
+    {
+      "period": "2",
+      "time": "00:05:16",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#91 - Jake  Barnett",
+      "assist1": "#25 - Bob  Banasik",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:21",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#21 - Mark  Johnston",
+      "assist1": "#51 - Stewart  Schuler",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:14",
+      "team": {
+        "teamId": "2028",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#20 - Mike  McLenahan",
+      "assist1": "#9 - James  Boland",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:39",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#4 - Tad  Jose",
+      "assist1": "#51 - Stewart  Schuler",
+      "assist2": "#21 - Mark  Johnston"
+    },
+    {
+      "period": "3",
+      "time": "00:12:18",
+      "team": {
+        "teamId": "2028",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#20 - Mike  McLenahan",
+      "assist1": "#44 - Scott  Kuehn",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:50",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#91 - Jake  Barnett",
+      "assist2": "#68 - Jeff  Gilmore"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "player": "#57 - Derek  Morrissette",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "2028",
+        "name": "British Bulldogs"
+      },
+      "player": "#44 - Scott  Kuehn",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:40",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "player": "#25 - Bob  Banasik",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:05",
+      "team": {
+        "teamId": "2028",
+        "name": "British Bulldogs"
+      },
+      "player": "#19 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:44",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "player": "#92 - Ilya  Kosolapov",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-01T14:03:28.719Z"
+}

@@ -1,0 +1,163 @@
+{
+  "gameId": "19322",
+  "date": "2026-07-26",
+  "divId": 335,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2067",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "2064",
+    "name": "Team USA"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:33",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "scorer": "#77 - Dan  Miller",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:51",
+      "team": {
+        "teamId": "2067",
+        "name": "Penguins"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": "#68 - Jeff  Gilmore",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:04",
+      "team": {
+        "teamId": "2067",
+        "name": "Penguins"
+      },
+      "scorer": "#30 - Daniel  Allen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:09",
+      "team": {
+        "teamId": "2067",
+        "name": "Penguins"
+      },
+      "scorer": "#26 - Bob  Banasik",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:49",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "scorer": "#12 - Jason  Wakeman",
+      "assist1": "#20 - Rich  Utano",
+      "assist2": "#5 - Oleg  Kolodin"
+    },
+    {
+      "period": "3",
+      "time": "00:07:39",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "scorer": "#27 - Jesse  Brand",
+      "assist1": "#12 - Jason  Wakeman",
+      "assist2": "#8 - Jamie  Sengheiser"
+    },
+    {
+      "period": "3",
+      "time": "00:08:02",
+      "team": {
+        "teamId": "2067",
+        "name": "Penguins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#38 - Dave  Wilson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:14",
+      "team": {
+        "teamId": "2067",
+        "name": "Penguins"
+      },
+      "scorer": "#26 - Bob  Banasik",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:01:18",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "player": "#8 - Jamie  Sengheiser",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:27",
+      "team": {
+        "teamId": "2064",
+        "name": "Team USA"
+      },
+      "player": "#25 - Stan  Torgovitsky",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "2067",
+        "name": "Penguins"
+      },
+      "player": "#25 - Jeff  Wojtala",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-01T14:04:52.546Z"
+}

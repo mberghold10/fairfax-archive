@@ -1,0 +1,134 @@
+{
+  "gameId": "19378",
+  "date": "2026-08-01",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2081",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "2075",
+    "name": "Mutiny"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:30",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#36 - Greg  Kowalski",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:17",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#36 - Greg  Kowalski",
+      "assist1": "#12 - Kevin  James",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#36 - Greg  Kowalski",
+      "assist1": "#25 - James  Chu",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "player": "#17 - Will  Murphy",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:33",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "player": "#17 - Will  Murphy",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:48",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:47",
+      "team": {
+        "teamId": "2075",
+        "name": "Mutiny"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "2075",
+        "name": "Mutiny"
+      },
+      "player": "#29 - Silas  Bruccoleri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-01T14:05:23.092Z"
+}

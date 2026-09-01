@@ -1,0 +1,182 @@
+{
+  "gameId": "19231",
+  "date": "2026-08-23",
+  "divId": 329,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2024",
+    "name": "Blue Crabs"
+  },
+  "away": {
+    "teamId": "2030",
+    "name": "Outlaws"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:34",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#39 - Ethan  Liu",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:54",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#24 - Brian  Crossin",
+      "assist1": "#77 - Sari  Lelchook",
+      "assist2": "#39 - Ethan  Liu"
+    },
+    {
+      "period": "3",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#770 - Samuel  Dedian",
+      "assist1": "#4 - Justin  Arbes",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:11",
+      "team": {
+        "teamId": "2030",
+        "name": "Outlaws"
+      },
+      "scorer": "#500 - Lance  McCaskey",
+      "assist1": "#44 - Alex  Utano",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:34",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "scorer": "#770 - Samuel  Dedian",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "2030",
+        "name": "Outlaws"
+      },
+      "player": "#77 - Ryan  OConnell",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "player": "#32 - Rob  Stewart",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:37",
+      "team": {
+        "teamId": "2030",
+        "name": "Outlaws"
+      },
+      "player": "#62 - Mel  Marcelo",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "player": "#90 - Thomas  Shpeter",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:44",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "player": "#32 - Rob  Stewart",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:44",
+      "team": {
+        "teamId": "2030",
+        "name": "Outlaws"
+      },
+      "player": "#43 - Mike  Barnes",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:44",
+      "team": {
+        "teamId": "2030",
+        "name": "Outlaws"
+      },
+      "player": "#43 - Mike  Barnes",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-01T14:03:24.877Z"
+}

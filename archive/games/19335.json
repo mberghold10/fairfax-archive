@@ -1,0 +1,143 @@
+{
+  "gameId": "19335",
+  "date": "2026-08-20",
+  "divId": 335,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2065",
+    "name": "Coyotes"
+  },
+  "away": {
+    "teamId": "2063",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:32",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#49 - Greg  Mullen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#76 - Mike  Floyd",
+      "assist1": "#11 - Dave  Brown",
+      "assist2": "#49 - Greg  Mullen"
+    },
+    {
+      "period": "2",
+      "time": "00:10:01",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#76 - Mike  Floyd",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:31",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#49 - Greg  Mullen",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "2065",
+        "name": "Coyotes"
+      },
+      "scorer": "#67 - Chris  Dour",
+      "assist1": "#32 - Simon  Flom",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:20",
+      "team": {
+        "teamId": "2065",
+        "name": "Coyotes"
+      },
+      "player": "#67 - Chris  Dour",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#25 - Chris  Lettieri",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#5 - Sean  Mahon",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:45",
+      "team": {
+        "teamId": "2065",
+        "name": "Coyotes"
+      },
+      "player": "#5 - Andy  Loggia",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-01T14:04:48.694Z"
+}

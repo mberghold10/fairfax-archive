@@ -1,0 +1,130 @@
+{
+  "gameId": "19254",
+  "date": "2026-08-15",
+  "divId": 332,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2049",
+    "name": "Busch League"
+  },
+  "away": {
+    "teamId": "2048",
+    "name": "Wolves"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 1,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:57",
+      "team": {
+        "teamId": "2048",
+        "name": "Wolves"
+      },
+      "scorer": "#901 - TIm  Bedell",
+      "assist1": "#1 - Michael  Hayes",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:46",
+      "team": {
+        "teamId": "2049",
+        "name": "Busch League"
+      },
+      "scorer": "#77 - Trevor  Boynton",
+      "assist1": "#95 - Ryan  Short",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:41",
+      "team": {
+        "teamId": "2049",
+        "name": "Busch League"
+      },
+      "scorer": "#6 - Andy  Lindsey",
+      "assist1": "#1 - Thomas  Newberg",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:25",
+      "team": {
+        "teamId": "2048",
+        "name": "Wolves"
+      },
+      "scorer": "#901 - TIm  Bedell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:35",
+      "team": {
+        "teamId": "2049",
+        "name": "Busch League"
+      },
+      "scorer": "#1 - Thomas  Newberg",
+      "assist1": "#88 - Afshawn  Towfighi",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:51",
+      "team": {
+        "teamId": "2048",
+        "name": "Wolves"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:48",
+      "team": {
+        "teamId": "2049",
+        "name": "Busch League"
+      },
+      "player": "#88 - Afshawn  Towfighi",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:48",
+      "team": {
+        "teamId": "2048",
+        "name": "Wolves"
+      },
+      "player": "#33 - Bryce  Trama",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-01T14:04:12.222Z"
+}

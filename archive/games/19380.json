@@ -1,0 +1,137 @@
+{
+  "gameId": "19380",
+  "date": "2026-08-01",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2079",
+    "name": "Hershey Beers"
+  },
+  "away": {
+    "teamId": "2077",
+    "name": "Megalosaurus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:04",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#11 - Brian  Deska",
+      "assist1": "#7 - Eddy  Graham",
+      "assist2": "#17 - Jimmy  Hibbard"
+    },
+    {
+      "period": "1",
+      "time": "00:15:09",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#7 - Eddy  Graham",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:18:50",
+      "team": {
+        "teamId": "2079",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#27 - Adam  Nadel",
+      "assist1": "#18 - Sam  Bressi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#63 - Aaron  Velez",
+      "assist1": "#74 - Matt  Santos",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "2079",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#37 - Joe  Heidenreich",
+      "assist1": "#14 - Mohan  Sud",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:30",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#11 - Brian  Deska",
+      "assist1": "#62 - Sam  Munson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "2079",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#26 - Chris  Anderson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#14 - George  Stocker",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:06:00",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "player": "#7 - Eddy  Graham",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-01T14:05:22.564Z"
+}

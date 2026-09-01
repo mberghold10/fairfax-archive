@@ -1,0 +1,108 @@
+{
+  "gameId": "19373",
+  "date": "2026-07-24",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2076",
+    "name": "Pumpkins"
+  },
+  "away": {
+    "teamId": "2079",
+    "name": "Hershey Beers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "2079",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#54 - Scott  Knisley",
+      "assist1": "#26 - Chris  Anderson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:35",
+      "team": {
+        "teamId": "2079",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#97 - Lee  Alexander",
+      "assist1": "#23 - Mark  Cappello",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:33",
+      "team": {
+        "teamId": "2079",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#45 - Nada  Strickland",
+      "assist1": "#60 - Mike  Gibson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "2079",
+        "name": "Hershey Beers"
+      },
+      "player": "#54 - Scott  Knisley",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:55",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "player": "#11 - Nikolay  Ataev",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:33",
+      "team": {
+        "teamId": "2079",
+        "name": "Hershey Beers"
+      },
+      "player": "#68 - Rich  Williams",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-01T14:05:24.468Z"
+}

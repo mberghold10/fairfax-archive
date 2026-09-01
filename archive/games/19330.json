@@ -1,0 +1,150 @@
+{
+  "gameId": "19330",
+  "date": "2026-08-09",
+  "divId": 335,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2061",
+    "name": "Maple Leafs"
+  },
+  "away": {
+    "teamId": "2066",
+    "name": "Black Sheep"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:02",
+      "team": {
+        "teamId": "2061",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#48 - Randy  Sasai",
+      "assist1": "#4 - Carl  Fairbank",
+      "assist2": "#46 - Bill  Ludke"
+    },
+    {
+      "period": "1",
+      "time": "00:08:19",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "scorer": "#26 - Garrett  Burns",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:51",
+      "team": {
+        "teamId": "2061",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#79 - Jonah  Goobic",
+      "assist1": "#4 - Carl  Fairbank",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:35",
+      "team": {
+        "teamId": "2061",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#4 - Carl  Fairbank",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "scorer": "#48 - Bobby  Woods-Corwin",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:36",
+      "team": {
+        "teamId": "2061",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:51",
+      "team": {
+        "teamId": "2061",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": "#4 - Carl  Fairbank",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:49",
+      "team": {
+        "teamId": "2061",
+        "name": "Maple Leafs"
+      },
+      "scorer": "#28 - Doug  Branton",
+      "assist1": "#14 - Ryan  Cantwell",
+      "assist2": "#79 - Jonah  Goobic"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:17",
+      "team": {
+        "teamId": "2061",
+        "name": "Maple Leafs"
+      },
+      "player": "#46 - Bill  Ludke",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:40",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "player": "#16 - Dan  Rebmann",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-01T14:04:50.698Z"
+}
