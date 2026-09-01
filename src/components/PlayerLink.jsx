@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
+import { fetchJson } from '../utils/fetchJson.mjs';
 
 let playerIndexPromise = null;
 let playerIndex = null;
@@ -17,8 +18,8 @@ function loadPlayerIndex() {
   if (playerIndex) return Promise.resolve(playerIndex);
   if (!playerIndexPromise) {
     playerIndexPromise = Promise.all([
-      fetch('/data/all-players.json').then((res) => (res.ok ? res.json() : [])),
-      fetch('/data/all-goalies.json').then((res) => (res.ok ? res.json() : [])),
+      fetchJson('/data/all-players.json').then((res) => (res.ok ? res.json() : [])),
+      fetchJson('/data/all-goalies.json').then((res) => (res.ok ? res.json() : [])),
     ]).then(([skaters, goalies]) => {
       const byId = new Map();
       const byName = new Map();

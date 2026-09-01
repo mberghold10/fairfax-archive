@@ -4,6 +4,7 @@ import Breadcrumbs from '../components/Breadcrumbs.jsx';
 import TeamLink from '../components/TeamLink.jsx';
 import Loading from '../components/Loading.jsx';
 import ErrorMessage from '../components/ErrorMessage.jsx';
+import { fetchJson } from '../utils/fetchJson.mjs';
 import '../styles/game-page.css';
 
 /**
@@ -26,7 +27,7 @@ export default function GamePage() {
     setNotFound(false);
     setError(null);
 
-    fetch(`/data/games/${gameId}.json`)
+    fetchJson(`/data/games/${gameId}.json`)
       .then((res) => {
         if (res.status === 404) {
           if (!cancelled) setNotFound(true);

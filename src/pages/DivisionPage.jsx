@@ -7,6 +7,7 @@ import TeamLink from '../components/TeamLink.jsx';
 import Loading from '../components/Loading.jsx';
 import ErrorMessage from '../components/ErrorMessage.jsx';
 import Collapsible from '../components/Collapsible.jsx';
+import { fetchJson } from '../utils/fetchJson.mjs';
 import '../styles/division-page.css';
 
 /**
@@ -32,44 +33,44 @@ export default function DivisionPage() {
 
     const basePath = `/data/divisions/${divId}`;
 
-    const metaFetch = fetch(`${basePath}/meta.json`).then((res) => {
+    const metaFetch = fetchJson(`${basePath}/meta.json`).then((res) => {
       if (!res.ok) throw new Error('Failed to load division metadata');
       return res.json();
     });
 
-    const scheduleFetch = fetch(`${basePath}/schedule.regular.json`).then((res) => {
+    const scheduleFetch = fetchJson(`${basePath}/schedule.regular.json`).then((res) => {
       if (!res.ok) throw new Error('Failed to load schedule');
       return res.json();
     });
 
-    const playoffFetch = fetch(`${basePath}/schedule.playoff.json`).then((res) => {
+    const playoffFetch = fetchJson(`${basePath}/schedule.playoff.json`).then((res) => {
       if (!res.ok) return null; // 404 is OK for playoffs
       return res.json();
     });
 
-    const rosterFetch = fetch(`${basePath}/rosters.regular.json`).then((res) => {
+    const rosterFetch = fetchJson(`${basePath}/rosters.regular.json`).then((res) => {
       if (!res.ok) return null;
       return res.json();
     });
 
     // Reconstructed per-team rosters (built from game data during aggregation).
     // Preferred over rosters.regular.json which dumps all players under one key.
-    const rosterByTeamFetch = fetch(`${basePath}/rosters.byteam.json`).then((res) => {
+    const rosterByTeamFetch = fetchJson(`${basePath}/rosters.byteam.json`).then((res) => {
       if (!res.ok) return null;
       return res.json();
     });
 
-    const standingsFetch = fetch(`${basePath}/standings.json`).then((res) => {
+    const standingsFetch = fetchJson(`${basePath}/standings.json`).then((res) => {
       if (!res.ok) return null;
       return res.json();
     });
 
-    const scoresFetch = fetch(`${basePath}/scores.json`).then((res) => {
+    const scoresFetch = fetchJson(`${basePath}/scores.json`).then((res) => {
       if (!res.ok) return null;
       return res.json();
     });
 
-    const leadersFetch = fetch(`${basePath}/leaders.json`).then((res) => {
+    const leadersFetch = fetchJson(`${basePath}/leaders.json`).then((res) => {
       if (!res.ok) return null;
       return res.json();
     });

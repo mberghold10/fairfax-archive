@@ -5,6 +5,7 @@ import Loading from '../components/Loading.jsx';
 import ErrorMessage from '../components/ErrorMessage.jsx';
 import TeamLink from '../components/TeamLink.jsx';
 import StatsTable from '../components/StatsTable.jsx';
+import { fetchJson } from '../utils/fetchJson.mjs';
 import '../styles/player-page.css';
 
 /**
@@ -71,12 +72,12 @@ export default function PlayerPage() {
     setError(null);
     setNotFound(false);
 
-    fetch(`/data/players/${playerId}.json`)
+    fetchJson(`/data/players/${playerId}.json`)
       .then((res) => {
         if (res.ok) return res.json().then((data) => ({ data, type: 'skater' }));
         if (res.status === 404) {
           // Try goalie endpoint
-          return fetch(`/data/goalies/${playerId}.json`).then((goalieRes) => {
+          return fetchJson(`/data/goalies/${playerId}.json`).then((goalieRes) => {
             if (goalieRes.ok) return goalieRes.json().then((data) => ({ data, type: 'goalie' }));
             if (goalieRes.status === 404) return { data: null, type: null };
             throw new Error('Failed to load player data');

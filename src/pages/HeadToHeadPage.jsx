@@ -5,6 +5,7 @@ import Loading from '../components/Loading.jsx';
 import ErrorMessage from '../components/ErrorMessage.jsx';
 import TeamLink from '../components/TeamLink.jsx';
 import PlayerLink from '../components/PlayerLink.jsx';
+import { fetchJson } from '../utils/fetchJson.mjs';
 import '../styles/h2h-page.css';
 
 /**
@@ -84,8 +85,8 @@ export default function HeadToHeadPage() {
     setLoading(true);
     setError(null);
     Promise.all([
-      fetch('/data/head-to-head.json').then(r => { if (!r.ok) throw new Error('Failed to load head-to-head data'); return r.json(); }),
-      fetch('/data/season-catalog.json').then(r => { if (!r.ok) throw new Error('Failed to load season catalog'); return r.json(); }),
+      fetchJson('/data/head-to-head.json').then(r => { if (!r.ok) throw new Error('Failed to load head-to-head data'); return r.json(); }),
+      fetchJson('/data/season-catalog.json').then(r => { if (!r.ok) throw new Error('Failed to load season catalog'); return r.json(); }),
     ])
       .then(([h2h, cat]) => { setH2hData(h2h); setCatalog(cat); setLoading(false); })
       .catch(err => { setError(err.message); setLoading(false); });
@@ -106,7 +107,7 @@ export default function HeadToHeadPage() {
     if (!matchup) return;
     // H2H player stats files are now keyed by slug pair
     const [a, b] = [toTeamSlug(matchup.team1.name), toTeamSlug(matchup.team2.name)].sort();
-    fetch(`/data/h2h-players/${a}-${b}.json`)
+    fetchJson(`/data/h2h-players/${a}-${b}.json`)
       .then(r => r.ok ? r.json() : null)
       .then(data => setPlayerStats(data))
       .catch(() => setPlayerStats(null));

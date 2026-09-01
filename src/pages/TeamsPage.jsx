@@ -3,6 +3,7 @@ import Breadcrumbs from '../components/Breadcrumbs.jsx';
 import TeamLink from '../components/TeamLink.jsx';
 import Loading from '../components/Loading.jsx';
 import ErrorMessage from '../components/ErrorMessage.jsx';
+import { fetchJson } from '../utils/fetchJson.mjs';
 import '../styles/teams-page.css';
 
 /**
@@ -19,7 +20,7 @@ export default function TeamsPage() {
     setLoading(true);
     setError(null);
 
-    fetch('/data/season-catalog.json')
+    fetchJson('/data/season-catalog.json')
       .then(r => { if (!r.ok) throw new Error('Failed to load catalog'); return r.json(); })
       .then(catalog => {
         const teamMap = new Map();

@@ -4,6 +4,7 @@ import Loading from '../components/Loading.jsx';
 import ErrorMessage from '../components/ErrorMessage.jsx';
 import PlayerLink from '../components/PlayerLink.jsx';
 import StatsTable from '../components/StatsTable.jsx';
+import { fetchJson } from '../utils/fetchJson.mjs';
 import '../styles/leaders-page.css';
 
 /**
@@ -35,7 +36,7 @@ export default function LeadersPage() {
     setLoading(true);
     setError(null);
 
-    fetch('/data/leaders.json')
+    fetchJson('/data/leaders.json')
       .then((res) => {
         if (!res.ok) throw new Error('Failed to load leaders data');
         return res.json();

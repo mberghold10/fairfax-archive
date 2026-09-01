@@ -6,6 +6,7 @@ import StatsTable from '../components/StatsTable.jsx';
 import TeamLink from '../components/TeamLink.jsx';
 import PlayerLink from '../components/PlayerLink.jsx';
 import { filterSuspensions } from '../utils/suspensionFilters.mjs';
+import { fetchJson } from '../utils/fetchJson.mjs';
 import '../styles/suspensions-page.css';
 
 /**
@@ -70,7 +71,7 @@ export default function SuspensionsPage() {
     setLoading(true);
     setError(null);
 
-    fetch('/data/suspensions.json')
+    fetchJson('/data/suspensions.json')
       .then((res) => {
         if (!res.ok) throw new Error('Failed to load suspensions data');
         return res.json();

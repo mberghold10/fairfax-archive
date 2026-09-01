@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import Breadcrumbs from '../components/Breadcrumbs.jsx';
 import Loading from '../components/Loading.jsx';
 import ErrorMessage from '../components/ErrorMessage.jsx';
+import { fetchJson } from '../utils/fetchJson.mjs';
 import '../styles/seasons-page.css';
 
 /**
@@ -26,7 +27,7 @@ export default function SeasonsPage() {
     setLoading(true);
     setError(null);
 
-    fetch('/data/season-catalog.json')
+    fetchJson('/data/season-catalog.json')
       .then((res) => {
         if (!res.ok) throw new Error('Failed to load season catalog');
         return res.json();

@@ -7,6 +7,7 @@ import PlayerLink from '../components/PlayerLink.jsx';
 import TeamLink from '../components/TeamLink.jsx';
 import StatsTable from '../components/StatsTable.jsx';
 import Collapsible from '../components/Collapsible.jsx';
+import { fetchJson } from '../utils/fetchJson.mjs';
 import '../styles/team-page.css';
 import '../styles/division-page.css';
 
@@ -42,16 +43,16 @@ export default function TeamPage() {
     setError(null);
     setNotFound(false);
 
-    fetch(`/data/teams/${teamId}.json`)
+    fetchJson(`/data/teams/${teamId}.json`)
       .then((res) => {
         if (res.ok) return res.json();
         if (res.status === 404) {
-          return fetch('/data/teams/team-id-index.json')
+          return fetchJson('/data/teams/team-id-index.json')
             .then((r) => r.ok ? r.json() : {})
             .then((index) => {
               const slug = index[String(teamId)];
               if (!slug) return null;
-              return fetch(`/data/teams/${slug}.json`).then((r) => r.ok ? r.json() : null);
+              return fetchJson(`/data/teams/${slug}.json`).then((r) => r.ok ? r.json() : null);
             });
         }
         throw new Error('Failed to load team data');
@@ -64,10 +65,10 @@ export default function TeamPage() {
           data.seasons.map((season) => {
             const base = `/data/divisions/${season.divId}`;
             return Promise.all([
-              fetch(`${base}/schedule.regular.json`).then(r => r.ok ? r.json() : null).catch(() => null),
-              fetch(`${base}/schedule.playoff.json`).then(r => r.ok ? r.json() : null).catch(() => null),
-              fetch(`${base}/scores.json`).then(r => r.ok ? r.json() : null).catch(() => null),
-              fetch(`${base}/meta.json`).then(r => r.ok ? r.json() : null).catch(() => null),
+              fetchJson(`${base}/schedule.regular.json`).then(r => r.ok ? r.json() : null).catch(() => null),
+              fetchJson(`${base}/schedule.playoff.json`).then(r => r.ok ? r.json() : null).catch(() => null),
+              fetchJson(`${base}/scores.json`).then(r => r.ok ? r.json() : null).catch(() => null),
+              fetchJson(`${base}/meta.json`).then(r => r.ok ? r.json() : null).catch(() => null),
             ]).then(([schedule, playoffSchedule, scores, meta]) => ({ divId: season.divId, schedule, playoffSchedule, scores, meta }));
           })
         ).then((results) => {

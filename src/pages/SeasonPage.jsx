@@ -5,6 +5,7 @@ import StatsTable from '../components/StatsTable.jsx';
 import TeamLink from '../components/TeamLink.jsx';
 import Loading from '../components/Loading.jsx';
 import ErrorMessage from '../components/ErrorMessage.jsx';
+import { fetchJson } from '../utils/fetchJson.mjs';
 import '../styles/season-page.css';
 
 /**
@@ -32,7 +33,7 @@ export default function SeasonPage() {
     setError(null);
     setNotFound(false);
 
-    fetch('/data/season-catalog.json')
+    fetchJson('/data/season-catalog.json')
       .then((res) => {
         if (!res.ok) throw new Error('Failed to load season catalog');
         return res.json();
@@ -51,7 +52,7 @@ export default function SeasonPage() {
         // Fetch standings for each division in parallel
         return Promise.all(
           found.divisions.map((div) =>
-            fetch(`/data/divisions/${div.divId}/standings.json`)
+            fetchJson(`/data/divisions/${div.divId}/standings.json`)
               .then((res) => (res.ok ? res.json() : null))
               .then((standings) => ({ divId: div.divId, standings }))
               .catch(() => ({ divId: div.divId, standings: null }))

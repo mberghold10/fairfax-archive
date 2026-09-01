@@ -2,6 +2,7 @@ import React, { useState, useEffect, useCallback } from 'react';
 import Breadcrumbs from '../components/Breadcrumbs.jsx';
 import Loading from '../components/Loading.jsx';
 import ErrorMessage from '../components/ErrorMessage.jsx';
+import { fetchJson } from '../utils/fetchJson.mjs';
 import '../styles/data-page.css';
 
 const BASE = '';  // same origin
@@ -11,7 +12,7 @@ const BASE = '';  // same origin
  * Fetches the URL, converts to a formatted JSON blob, and clicks a hidden link.
  */
 async function downloadJson(url, filename) {
-  const res = await fetch(url);
+  const res = await fetchJson(url);
   if (!res.ok) throw new Error(`Failed to fetch ${url}`);
   const data = await res.json();
   const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
@@ -39,7 +40,7 @@ function toCSV(rows) {
 }
 
 async function downloadCSV(url, filename, transform) {
-  const res = await fetch(url);
+  const res = await fetchJson(url);
   if (!res.ok) throw new Error(`Failed to fetch ${url}`);
   const data = await res.json();
   const rows = transform(data);
@@ -168,7 +169,7 @@ export default function DataPage() {
   const [catalogError, setCatalogError] = useState(null);
 
   useEffect(() => {
-    fetch('/data/season-catalog.json')
+    fetchJson('/data/season-catalog.json')
       .then(r => r.json())
       .then(d => {
         // Build unique canonical team list

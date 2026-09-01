@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { filterSearchIndex } from '../utils/searchFilter.mjs';
+import { fetchJson } from '../utils/fetchJson.mjs';
 import '../styles/search-overlay.css';
 
 // Module-level cache for the search index (shared across all instances)
@@ -15,7 +16,7 @@ function loadSearchIndex() {
   if (cachedIndex) return Promise.resolve(cachedIndex);
   if (indexLoadPromise) return indexLoadPromise;
 
-  indexLoadPromise = fetch('/data/search-index.json')
+  indexLoadPromise = fetchJson('/data/search-index.json')
     .then((res) => {
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       return res.json();

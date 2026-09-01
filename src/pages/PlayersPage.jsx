@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import Breadcrumbs from '../components/Breadcrumbs.jsx';
 import Loading from '../components/Loading.jsx';
 import ErrorMessage from '../components/ErrorMessage.jsx';
+import { fetchJson } from '../utils/fetchJson.mjs';
 import '../styles/players-page.css';
 
 export default function PlayersPage() {
@@ -21,8 +22,8 @@ export default function PlayersPage() {
     setLoading(true);
     setError(null);
     Promise.all([
-      fetch('/data/all-players.json').then(r => { if (!r.ok) throw new Error('Failed to load players'); return r.json(); }),
-      fetch('/data/all-goalies.json').then(r => { if (!r.ok) throw new Error('Failed to load goalies'); return r.json(); }),
+      fetchJson('/data/all-players.json').then(r => { if (!r.ok) throw new Error('Failed to load players'); return r.json(); }),
+      fetchJson('/data/all-goalies.json').then(r => { if (!r.ok) throw new Error('Failed to load goalies'); return r.json(); }),
     ])
       .then(([p, g]) => { setPlayers(p); setGoalies(g); setLoading(false); })
       .catch(err => { setError(err.message); setLoading(false); });
