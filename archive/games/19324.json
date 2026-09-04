@@ -1,0 +1,156 @@
+{
+  "gameId": "19324",
+  "date": "2026-08-31",
+  "divId": 335,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2068",
+    "name": "Islanders"
+  },
+  "away": {
+    "teamId": "2063",
+    "name": "Goons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#77 - Ryan  Crook",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:27",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#2 - Paul  Zalocha",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#77 - Ryan  Crook",
+      "assist1": "#18 - Mike  Sharp",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:37",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#18 - Mike  Sharp",
+      "assist1": "#44 - Mick  Ellsworth",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:55",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#2 - Paul  Zalocha",
+      "assist1": "#18 - Mike  Sharp",
+      "assist2": "#77 - Ryan  Crook"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:22",
+      "team": {
+        "teamId": "2068",
+        "name": "Islanders"
+      },
+      "player": "#74 - Mike  Brewin",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:52",
+      "team": {
+        "teamId": "2068",
+        "name": "Islanders"
+      },
+      "player": "#74 - Mike  Brewin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:52",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#19 - Joe  Dunn",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#18 - Mike  Sharp",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:52",
+      "team": {
+        "teamId": "2068",
+        "name": "Islanders"
+      },
+      "player": "#32 - Andy  Gay",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-04T06:07:10.865Z"
+}

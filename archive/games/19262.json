@@ -1,0 +1,119 @@
+{
+  "gameId": "19262",
+  "date": "2026-08-30",
+  "divId": 332,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2047",
+    "name": "Toronto"
+  },
+  "away": {
+    "teamId": "2044",
+    "name": "Defenders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:42",
+      "team": {
+        "teamId": "2044",
+        "name": "Defenders"
+      },
+      "scorer": "#55 - Scott  Dullea",
+      "assist1": "#37 - Sean  Piccirilli",
+      "assist2": "#17 - Nick  Coleman"
+    },
+    {
+      "period": "1",
+      "time": "00:06:35",
+      "team": {
+        "teamId": "2044",
+        "name": "Defenders"
+      },
+      "scorer": "#55 - Scott  Dullea",
+      "assist1": "#2 - Justin  Thompson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "2044",
+        "name": "Defenders"
+      },
+      "scorer": "#55 - Scott  Dullea",
+      "assist1": "#52 - Nicolo  Cruz",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:54",
+      "team": {
+        "teamId": "2047",
+        "name": "Toronto"
+      },
+      "scorer": "#44 - Jim  McGovern",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:56",
+      "team": {
+        "teamId": "2044",
+        "name": "Defenders"
+      },
+      "player": "#45 - Jon  Drake",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:26",
+      "team": {
+        "teamId": "2047",
+        "name": "Toronto"
+      },
+      "player": "#32 - Brian  Freeman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:42",
+      "team": {
+        "teamId": "2044",
+        "name": "Defenders"
+      },
+      "player": "#45 - Jon  Drake",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-04T06:06:27.168Z"
+}

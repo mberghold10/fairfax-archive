@@ -1,0 +1,139 @@
+{
+  "gameId": "19391",
+  "date": "2026-08-29",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2078",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "2081",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#22 - Trevor  Blair",
+      "assist1": "#76 - Peter  Schaffer",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:32",
+      "team": {
+        "teamId": "2078",
+        "name": "Thunder"
+      },
+      "scorer": "#17 - Sean  Burke",
+      "assist1": "#11 - Mark  Boyd",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:19:00",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#76 - Peter  Schaffer",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": "#24 - Jake  Middel"
+    },
+    {
+      "period": "2",
+      "time": "00:05:28",
+      "team": {
+        "teamId": "2078",
+        "name": "Thunder"
+      },
+      "scorer": "#17 - Sean  Burke",
+      "assist1": "#24 - Mike  Plourde",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:16",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#24 - Jake  Middel",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:29",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#16 - Wei  Wang",
+      "assist1": "#24 - Jake  Middel",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:54",
+      "team": {
+        "teamId": "2078",
+        "name": "Thunder"
+      },
+      "scorer": "#87 - Nick  Scotch",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:58",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "player": "#14 - Dave  Fisher",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "player": "#901 - Patrick  Neubauer",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-04T06:07:43.365Z"
+}

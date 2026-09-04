@@ -1,0 +1,143 @@
+{
+  "gameId": "19208",
+  "date": "2026-08-30",
+  "divId": 330,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2033",
+    "name": "DPunishers"
+  },
+  "away": {
+    "teamId": "2034",
+    "name": "Mad Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:53",
+      "team": {
+        "teamId": "2034",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#38 - Drew  Dunn",
+      "assist1": "#68 - Brian  Hall",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:23",
+      "team": {
+        "teamId": "2034",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#39 - Alex  Cimon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:55",
+      "team": {
+        "teamId": "2034",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#26 - Kjell  Crooke",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:03",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "scorer": "#33 - Hung  Pham",
+      "assist1": "#41 - Jake  Gagnon",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:40",
+      "team": {
+        "teamId": "2034",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#77 - Jeff  Wilken",
+      "assist1": "#26 - Kjell  Crooke",
+      "assist2": "#15 - Dave  Gorman"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:49",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "player": "#35 - Jeff  Colwell",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:42",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:26",
+      "team": {
+        "teamId": "2034",
+        "name": "Mad Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:53",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "player": "#15 - Phil  Wind",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-04T06:05:56.430Z"
+}

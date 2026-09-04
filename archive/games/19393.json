@@ -1,0 +1,117 @@
+{
+  "gameId": "19393",
+  "date": "2026-08-29",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2077",
+    "name": "Megalosaurus"
+  },
+  "away": {
+    "teamId": "2075",
+    "name": "Mutiny"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#91 - Matt  Page",
+      "assist1": "#14 - George  Stocker",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:45",
+      "team": {
+        "teamId": "2075",
+        "name": "Mutiny"
+      },
+      "scorer": "#14 - Matthew  Pick",
+      "assist1": "#95 - Maggie  Cowden",
+      "assist2": "#2 - Joshua  Fowler"
+    },
+    {
+      "period": "3",
+      "time": "00:00:40",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#60 - Edward  Kovacs",
+      "assist1": "#89 - Jim  Rathbone",
+      "assist2": "#14 - George  Stocker"
+    },
+    {
+      "period": "3",
+      "time": "00:12:39",
+      "team": {
+        "teamId": "2075",
+        "name": "Mutiny"
+      },
+      "scorer": "#29 - Silas  Bruccoleri",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:43",
+      "team": {
+        "teamId": "2075",
+        "name": "Mutiny"
+      },
+      "scorer": "#10 - Seth  Kumpf",
+      "assist1": "#95 - Maggie  Cowden",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:05",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "player": "#61 - Wes  Bieliek",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:58",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "player": "#62 - Sam  Munson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-04T06:07:42.829Z"
+}

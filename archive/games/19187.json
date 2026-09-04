@@ -1,0 +1,169 @@
+{
+  "gameId": "19187",
+  "date": "2026-08-29",
+  "divId": 331,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2041",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "2043",
+    "name": "Blackskimmers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:36",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "scorer": "#12 - Kieran  McQuilkin",
+      "assist1": "#31 - Zach  Furness",
+      "assist2": "#23 - Dan  Bardo"
+    },
+    {
+      "period": "1",
+      "time": "00:12:14",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "scorer": "#8 - Joey  McDonald",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:25",
+      "team": {
+        "teamId": "2043",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#22 - Adam  Bacon",
+      "assist1": "#16 - Dave  Smith",
+      "assist2": "#77 - Paul  Cicchetti"
+    },
+    {
+      "period": "3",
+      "time": "00:00:16",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "scorer": "#25 - Dave  Brown",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:26",
+      "team": {
+        "teamId": "2043",
+        "name": "Blackskimmers"
+      },
+      "scorer": "#74 - Eric  Peterson",
+      "assist1": "#55 - Andrew  Irving",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:01:31",
+      "team": {
+        "teamId": "2043",
+        "name": "Blackskimmers"
+      },
+      "player": "#74 - Eric  Peterson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:35",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "player": "#9 - Chris  ORear",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:45",
+      "team": {
+        "teamId": "2043",
+        "name": "Blackskimmers"
+      },
+      "player": "#15 - Mike  Munoz",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:23",
+      "team": {
+        "teamId": "2043",
+        "name": "Blackskimmers"
+      },
+      "player": "#19 - Nate  Rozelle",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "2043",
+        "name": "Blackskimmers"
+      },
+      "player": "#22 - Adam  Bacon",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:14:53",
+      "team": {
+        "teamId": "2043",
+        "name": "Blackskimmers"
+      },
+      "player": "#55 - Andrew  Irving",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-04T06:06:12.159Z"
+}

@@ -1,0 +1,169 @@
+{
+  "gameId": "19210",
+  "date": "2026-09-01",
+  "divId": 330,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2032",
+    "name": "Jacks GreyBeards"
+  },
+  "away": {
+    "teamId": "2035",
+    "name": "Pharaohs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:41",
+      "team": {
+        "teamId": "2035",
+        "name": "Pharaohs"
+      },
+      "scorer": "#3 - Jack  Wilmer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:48",
+      "team": {
+        "teamId": "2035",
+        "name": "Pharaohs"
+      },
+      "scorer": "#3 - Jack  Wilmer",
+      "assist1": "#20 - Billy  Summa",
+      "assist2": "#10 - Nate  Capriglione"
+    },
+    {
+      "period": "3",
+      "time": "00:01:52",
+      "team": {
+        "teamId": "2032",
+        "name": "Jacks GreyBeards"
+      },
+      "scorer": "#27 - Andy  Rieger",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:43",
+      "team": {
+        "teamId": "2035",
+        "name": "Pharaohs"
+      },
+      "scorer": "#3 - Jack  Wilmer",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:36",
+      "team": {
+        "teamId": "2035",
+        "name": "Pharaohs"
+      },
+      "scorer": "#10 - Nate  Capriglione",
+      "assist1": "#28 - Michael  Berghold",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "2032",
+        "name": "Jacks GreyBeards"
+      },
+      "player": "#28 - Charles  Hale",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "2035",
+        "name": "Pharaohs"
+      },
+      "player": "#3 - Jack  Wilmer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:29",
+      "team": {
+        "teamId": "2035",
+        "name": "Pharaohs"
+      },
+      "player": "#3 - Jack  Wilmer",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:40",
+      "team": {
+        "teamId": "2035",
+        "name": "Pharaohs"
+      },
+      "player": "#13 - Joe  Carroll",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "2035",
+        "name": "Pharaohs"
+      },
+      "player": "#20 - Billy  Summa",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:33",
+      "team": {
+        "teamId": "2032",
+        "name": "Jacks GreyBeards"
+      },
+      "player": "#41 - Eugene  Livsics",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-04T06:05:56.160Z"
+}

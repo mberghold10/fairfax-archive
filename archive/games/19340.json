@@ -1,0 +1,191 @@
+{
+  "gameId": "19340",
+  "date": "2026-09-03",
+  "divId": 335,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2067",
+    "name": "Penguins"
+  },
+  "away": {
+    "teamId": "2062",
+    "name": "Flying Circus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 1,
+      "final": 4
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:22",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "scorer": "#43 - David  Inkellis",
+      "assist1": "#33 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:04",
+      "team": {
+        "teamId": "2067",
+        "name": "Penguins"
+      },
+      "scorer": "#25 - Jeff  Wojtala",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:39",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "scorer": "#5 - Mark  DeVito",
+      "assist1": "#12 - Adam  Jungdhal",
+      "assist2": "#2 - Marc  Sheinkin"
+    },
+    {
+      "period": "2",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "2067",
+        "name": "Penguins"
+      },
+      "scorer": "#38 - Dave  Wilson",
+      "assist1": "#25 - Jeff  Wojtala",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "2067",
+        "name": "Penguins"
+      },
+      "scorer": "#13 - Bob  Seal",
+      "assist1": "#4 - Justin  Arbes",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:37",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "scorer": "#25 - Malcolm  Hyson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:01:14",
+      "team": {
+        "teamId": "2067",
+        "name": "Penguins"
+      },
+      "scorer": "#4 - Justin  Arbes",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:06",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "player": "#15 - Mike  Hempen",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:37",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "player": "#2 - Marc  Sheinkin",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:09",
+      "team": {
+        "teamId": "2067",
+        "name": "Penguins"
+      },
+      "player": "#9 - Aaron  Dobbs",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:29",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "player": "#25 - Malcolm  Hyson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:00",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "player": "#16 - Joe  Denoyer",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:10",
+      "team": {
+        "teamId": "2067",
+        "name": "Penguins"
+      },
+      "player": "#13 - Bob  Seal",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-04T06:07:10.177Z"
+}

@@ -1,0 +1,117 @@
+{
+  "gameId": "19285",
+  "date": "2026-08-31",
+  "divId": 333,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2055",
+    "name": "Bottle Caps"
+  },
+  "away": {
+    "teamId": "2053",
+    "name": "Alers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:56",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#88 - Afshawn  Towfighi",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:52",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#24 - Kashif  Haque",
+      "assist1": "#21 - Larry  Silver",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#39 - Jim  DeLaet",
+      "assist1": "#19 - Colin  Bartlett",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:41",
+      "team": {
+        "teamId": "2055",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#75 - Paul  Barber",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#19 - Colin  Bartlett",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:49",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "player": "#82 - Michael  Forrester",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "2055",
+        "name": "Bottle Caps"
+      },
+      "player": "#45 - Glenn  Lamata",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-04T06:06:40.905Z"
+}
