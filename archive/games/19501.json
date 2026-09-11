@@ -1,0 +1,130 @@
+{
+  "gameId": "19501",
+  "date": "2026-09-05",
+  "divId": 333,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2053",
+    "name": "Alers"
+  },
+  "away": {
+    "teamId": "2050",
+    "name": "Slashing Pumpkins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "2050",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#8 - Jared  Groneman",
+      "assist1": "#20 - Nate  Radke",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#19 - Colin  Bartlett",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#19 - Colin  Bartlett",
+      "assist1": "#87 - Feng  Lan",
+      "assist2": "#98 - Ethan  Lan"
+    },
+    {
+      "period": "3",
+      "time": "00:08:10",
+      "team": {
+        "teamId": "2050",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#77 - Enrique  Bouchot",
+      "assist1": "#86 - Nathan  Gray",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:53",
+      "team": {
+        "teamId": "2050",
+        "name": "Slashing Pumpkins"
+      },
+      "scorer": "#86 - Nathan  Gray",
+      "assist1": "#20 - Nate  Radke",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "player": "#91 - Jeff  Rendler",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "player": "#91 - Jeff  Rendler",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:16",
+      "team": {
+        "teamId": "2050",
+        "name": "Slashing Pumpkins"
+      },
+      "player": "#8 - Jared  Groneman",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-11T11:01:54.470Z"
+}

@@ -1,0 +1,189 @@
+{
+  "gameId": "19502",
+  "date": "2026-09-06",
+  "divId": 333,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2055",
+    "name": "Bottle Caps"
+  },
+  "away": {
+    "teamId": "2051",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "2055",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#48 - Kris  Winder",
+      "assist1": "#17 - Marc  Patience",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#13 - Jon  Coley",
+      "assist1": "#4 - Rob  Ryan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:01",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#50 - Andy  Spalding",
+      "assist1": "#88 - Jason  Searight",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:39",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#13 - Jon  Coley",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:28",
+      "team": {
+        "teamId": "2055",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#34 - Wilhelm  Happ",
+      "assist1": "#89 - Christian  Racic",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:06",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#33 - Scott  Coco",
+      "assist1": "#110 - Brian  Deska",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:06",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#13 - Jon  Coley",
+      "assist1": "#42 - Maureen  OSullivan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:44",
+      "team": {
+        "teamId": "2055",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#0 - Howard  Ludwig",
+      "assist1": "#17 - Marc  Patience",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:15",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#88 - Jason  Searight",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "2055",
+        "name": "Bottle Caps"
+      },
+      "player": "#89 - Christian  Racic",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:52",
+      "team": {
+        "teamId": "2055",
+        "name": "Bottle Caps"
+      },
+      "player": "#48 - Kris  Winder",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "player": "#13 - Jon  Coley",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-11T11:01:54.196Z"
+}

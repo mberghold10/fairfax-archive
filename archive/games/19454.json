@@ -1,0 +1,174 @@
+{
+  "gameId": "19454",
+  "date": "2026-09-07",
+  "divId": 330,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2033",
+    "name": "DPunishers"
+  },
+  "away": {
+    "teamId": "2031",
+    "name": "Chiefs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 4,
+      "p3": 0,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:05",
+      "team": {
+        "teamId": "2031",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": "#16 - Ralph  Rinaldi",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:00:21",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "scorer": "#16 - Zach  Gonyea",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:26",
+      "team": {
+        "teamId": "2031",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": "#88 - Nolan  Campbell",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:47",
+      "team": {
+        "teamId": "2031",
+        "name": "Chiefs"
+      },
+      "scorer": "#42 - Dave  Hagemeier",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "scorer": "#19 - Ira  Keltz",
+      "assist1": "#7 - Ken  Ochsner",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:01",
+      "team": {
+        "teamId": "2031",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": "#87 - Erik  Gibbons",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:08",
+      "team": {
+        "teamId": "2031",
+        "name": "Chiefs"
+      },
+      "scorer": "#18 - Michael  Dewhirst",
+      "assist1": "#42 - Dave  Hagemeier",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:16",
+      "team": {
+        "teamId": "2031",
+        "name": "Chiefs"
+      },
+      "scorer": "#17 - Maxim  Rinaldi",
+      "assist1": "#42 - Dave  Hagemeier",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:24",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "scorer": "#16 - Zach  Gonyea",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:28",
+      "team": {
+        "teamId": "2031",
+        "name": "Chiefs"
+      },
+      "player": "#42 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:16",
+      "team": {
+        "teamId": "2031",
+        "name": "Chiefs"
+      },
+      "player": "#87 - Erik  Gibbons",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:39",
+      "team": {
+        "teamId": "2031",
+        "name": "Chiefs"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-11T11:01:02.730Z"
+}

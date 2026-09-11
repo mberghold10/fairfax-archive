@@ -1,0 +1,165 @@
+{
+  "gameId": "19424",
+  "date": "2026-09-06",
+  "divId": 331,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2041",
+    "name": "Rink Rats"
+  },
+  "away": {
+    "teamId": "2042",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "2042",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#43 - Alex  Langsam",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "scorer": "#8 - Joey  McDonald",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:17",
+      "team": {
+        "teamId": "2042",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#4 - Sam  Brownell",
+      "assist1": "#43 - Alex  Langsam",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:20",
+      "team": {
+        "teamId": "2042",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#43 - Alex  Langsam",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:55",
+      "team": {
+        "teamId": "2042",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#4 - Sam  Brownell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:51",
+      "team": {
+        "teamId": "2042",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#4 - Sam  Brownell",
+      "assist1": "#3 - Justin  Carpenter",
+      "assist2": "#43 - Alex  Langsam"
+    },
+    {
+      "period": "3",
+      "time": "00:03:37",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "scorer": "#8 - Joey  McDonald",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:41",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "player": "#8 - Joey  McDonald",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "2042",
+        "name": "Jurassic Puck"
+      },
+      "player": "#22 - Terry  Saad",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:47",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "player": "#29 - Sean  Brown",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:33",
+      "team": {
+        "teamId": "2042",
+        "name": "Jurassic Puck"
+      },
+      "player": "#22 - Terry  Saad",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-11T11:01:18.674Z"
+}

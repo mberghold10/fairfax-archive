@@ -1,0 +1,239 @@
+{
+  "gameId": "19545",
+  "date": "2026-09-06",
+  "divId": 335,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2063",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "2066",
+    "name": "Black Sheep"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "scorer": "#15 - Bob  Guckian",
+      "assist1": "#43 - Dave  Hagemeier",
+      "assist2": "#77 - Erik  Bergman"
+    },
+    {
+      "period": "1",
+      "time": "00:03:52",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#22 - Brian  Dutton",
+      "assist1": "#49 - Greg  Mullen",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:03",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": "#2 - Paul  Zalocha",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#5 - Sean  Mahon",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:53",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#49 - Greg  Mullen",
+      "assist1": "#5 - Sean  Mahon",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:51",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "scorer": "#8 - Chris  White",
+      "assist1": "#16 - Dan  Rebmann",
+      "assist2": "#18 - Ken  Chin"
+    },
+    {
+      "period": "2",
+      "time": "00:11:35",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "scorer": "#55 - Scott  Dullea",
+      "assist1": "#43 - Dave  Hagemeier",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:24",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "scorer": "#63 - Sean  Piccirilli",
+      "assist1": "#43 - Dave  Hagemeier",
+      "assist2": "#48 - Bobby  Woods-Corwin"
+    },
+    {
+      "period": "3",
+      "time": "00:10:43",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#5 - Sean  Mahon",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:33",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#2 - Paul  Zalocha",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:01:58",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "player": "#43 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#20 - Michael  Schantz",
+      "pim": 2,
+      "offense": "head contact",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#20 - Michael  Schantz",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:22",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "player": "#43 - Dave  Hagemeier",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:51",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#5 - Sean  Mahon",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:29",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "player": "#77 - Erik  Bergman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:04",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-11T11:02:21.994Z"
+}

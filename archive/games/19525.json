@@ -1,0 +1,141 @@
+{
+  "gameId": "19525",
+  "date": "2026-09-09",
+  "divId": 334,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2057",
+    "name": "Ducks"
+  },
+  "away": {
+    "teamId": "2060",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:02:32",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "scorer": "#7 - Andrew  Golomb",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "scorer": "#7 - Andrew  Golomb",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:40",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "scorer": "#15 - Jonathan  Vu",
+      "assist1": "#0 - Robert  Richard",
+      "assist2": "#27 - Bryan  Booker"
+    },
+    {
+      "period": "3",
+      "time": "00:01:39",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "scorer": "#11 - Brian  Maloney",
+      "assist1": "#26 - Jeremy  Whang",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:05",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "scorer": "#27 - Bryan  Booker",
+      "assist1": "#0 - Robert  Richard",
+      "assist2": "#12 - Jon  Gregor"
+    },
+    {
+      "period": "3",
+      "time": "00:06:57",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "scorer": "#7 - Andrew  Golomb",
+      "assist1": "#3 - Oleg  Kolodin",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:32",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "player": "#12 - Sami  Kymalainen",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:58",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "player": "#12 - Jon  Gregor",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:49",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "player": "#69 - Aaron  Domnitch",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-11T11:02:07.225Z"
+}
