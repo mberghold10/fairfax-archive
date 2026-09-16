@@ -1,0 +1,228 @@
+{
+  "gameId": "19426",
+  "date": "2026-09-14",
+  "divId": 331,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2042",
+    "name": "Jurassic Puck"
+  },
+  "away": {
+    "teamId": "2040",
+    "name": "Old Goats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:26",
+      "team": {
+        "teamId": "2042",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#43 - Alex  Langsam",
+      "assist1": "#10 - Nick  Mezzoprete",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:29",
+      "team": {
+        "teamId": "2040",
+        "name": "Old Goats"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": "#93 - Steve  Barker",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "2042",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#10 - Nick  Mezzoprete",
+      "assist1": "#27 - Mike  Fullen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:53",
+      "team": {
+        "teamId": "2040",
+        "name": "Old Goats"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:59",
+      "team": {
+        "teamId": "2040",
+        "name": "Old Goats"
+      },
+      "scorer": "#40 - Matt  Mickelson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:04",
+      "team": {
+        "teamId": "2040",
+        "name": "Old Goats"
+      },
+      "scorer": "#22 - Ken  Oschner",
+      "assist1": "#90 - Jeff  Colwell",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:03",
+      "team": {
+        "teamId": "2040",
+        "name": "Old Goats"
+      },
+      "scorer": "#22 - Ken  Oschner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:33",
+      "team": {
+        "teamId": "2040",
+        "name": "Old Goats"
+      },
+      "scorer": "#94 - Dave  Sinniger",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:12:20",
+      "team": {
+        "teamId": "2040",
+        "name": "Old Goats"
+      },
+      "player": "#94 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:50",
+      "team": {
+        "teamId": "2040",
+        "name": "Old Goats"
+      },
+      "player": "#17 - Dan  Pol",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "2040",
+        "name": "Old Goats"
+      },
+      "player": "#40 - Matt  Mickelson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:28",
+      "team": {
+        "teamId": "2040",
+        "name": "Old Goats"
+      },
+      "player": "#94 - Dave  Sinniger",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:44",
+      "team": {
+        "teamId": "2042",
+        "name": "Jurassic Puck"
+      },
+      "player": "#10 - Nick  Mezzoprete",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "2042",
+        "name": "Jurassic Puck"
+      },
+      "player": "#43 - Alex  Langsam",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:26",
+      "team": {
+        "teamId": "2042",
+        "name": "Jurassic Puck"
+      },
+      "player": "#43 - Alex  Langsam",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "2040",
+        "name": "Old Goats"
+      },
+      "player": "#19 - Ira  Keltz",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-16T11:16:26.170Z"
+}
