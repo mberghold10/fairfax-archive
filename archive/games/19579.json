@@ -1,0 +1,147 @@
+{
+  "gameId": "19579",
+  "date": "2026-09-15",
+  "divId": 336,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2070",
+    "name": "Fossils"
+  },
+  "away": {
+    "teamId": "2074",
+    "name": "Bad Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:37",
+      "team": {
+        "teamId": "2074",
+        "name": "Bad Leafs"
+      },
+      "scorer": "#14 - Dave  Fisher",
+      "assist1": "#54 - Tom  Montanio",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:57",
+      "team": {
+        "teamId": "2070",
+        "name": "Fossils"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": "#7 - Graham  Eddy",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:37",
+      "team": {
+        "teamId": "2074",
+        "name": "Bad Leafs"
+      },
+      "scorer": "#8 - Elliott  Yang",
+      "assist1": "#22 - Jimmy  Nguyen",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:02:52",
+      "team": {
+        "teamId": "2070",
+        "name": "Fossils"
+      },
+      "player": "#5 - Rob  Kelty",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:02:52",
+      "team": {
+        "teamId": "2074",
+        "name": "Bad Leafs"
+      },
+      "player": "#23 - Trevor  Blair",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:35",
+      "team": {
+        "teamId": "2070",
+        "name": "Fossils"
+      },
+      "player": "#8 - James  Love",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:45",
+      "team": {
+        "teamId": "2074",
+        "name": "Bad Leafs"
+      },
+      "player": "#14 - Dave  Fisher",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:47",
+      "team": {
+        "teamId": "2074",
+        "name": "Bad Leafs"
+      },
+      "player": "#51 - Bob  Sagusti",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "2074",
+        "name": "Bad Leafs"
+      },
+      "player": "#23 - Trevor  Blair",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-21T12:32:01.597Z"
+}

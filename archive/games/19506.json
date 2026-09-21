@@ -1,0 +1,110 @@
+{
+  "gameId": "19506",
+  "date": "2026-09-12",
+  "divId": 333,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2052",
+    "name": "Junkyard Dogs"
+  },
+  "away": {
+    "teamId": "2051",
+    "name": "Cretaceous Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:11:24",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#74 - Matthew  Santos",
+      "assist1": "#21 - Joe  Rhodes",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:32",
+      "team": {
+        "teamId": "2051",
+        "name": "Cretaceous Puck"
+      },
+      "scorer": "#4 - Rob  Ryan",
+      "assist1": "#22 - Terry  Saad",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:59",
+      "team": {
+        "teamId": "2052",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#31 - Sam  Branham",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:41",
+      "team": {
+        "teamId": "2052",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:40",
+      "team": {
+        "teamId": "2052",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#4 - Jeff  Goldberg",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "2052",
+        "name": "Junkyard Dogs"
+      },
+      "player": "#15 - Dave  Gorman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-21T12:31:11.136Z"
+}

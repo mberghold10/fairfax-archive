@@ -1,0 +1,165 @@
+{
+  "gameId": "19603",
+  "date": "2026-09-13",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2078",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "2077",
+    "name": "Megalosaurus"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#26 - Alex  Plavnik",
+      "assist1": "#94 - Mike  Starego",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#62 - Sam  Munson",
+      "assist1": "#61 - Wes  Bieliek",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#62 - Sam  Munson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "2078",
+        "name": "Thunder"
+      },
+      "scorer": "#24 - Mike  Plourde",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:28",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#35 - Peter  Molanr",
+      "assist1": "#26 - Alex  Plavnik",
+      "assist2": "#91 - Matt  Page"
+    },
+    {
+      "period": "3",
+      "time": "00:02:23",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#7 - Eddy  Graham",
+      "assist1": "#62 - Sam  Munson",
+      "assist2": "#30 - Antonello  Favaro"
+    },
+    {
+      "period": "3",
+      "time": "00:03:12",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#61 - Wes  Bieliek",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:37",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "player": "#62 - Sam  Munson",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:20",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "player": "#2 - Mike  Toohey",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "2078",
+        "name": "Thunder"
+      },
+      "player": "#47 - Dave  LeKuch",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-21T12:32:18.437Z"
+}

@@ -1,0 +1,169 @@
+{
+  "gameId": "19550",
+  "date": "2026-09-10",
+  "divId": 335,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2063",
+    "name": "Goons"
+  },
+  "away": {
+    "teamId": "2068",
+    "name": "Islanders"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:32",
+      "team": {
+        "teamId": "2068",
+        "name": "Islanders"
+      },
+      "scorer": "#74 - Mike  Brewin",
+      "assist1": "#20 - Mike  Anderson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:53",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#8 - Jason  Eister",
+      "assist1": "#11 - Dave  Brown",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:53",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "scorer": "#77 - Ryan  Crook",
+      "assist1": "#8 - Jason  Eister",
+      "assist2": "#49 - Greg  Mullen"
+    },
+    {
+      "period": "2",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "2068",
+        "name": "Islanders"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": "#15 - Mark  Yawornicky",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:41",
+      "team": {
+        "teamId": "2068",
+        "name": "Islanders"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": "#20 - Mike  Anderson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:01:32",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#19 - Joe  Dunn",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:01:49",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#76 - Mike  Floyd",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:29",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#77 - Ryan  Crook",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:01",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#44 - Mick  Ellsworth",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:49",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#49 - Greg  Mullen",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:08",
+      "team": {
+        "teamId": "2063",
+        "name": "Goons"
+      },
+      "player": "#55 - Brian  Compagnone",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-21T12:31:42.880Z"
+}
