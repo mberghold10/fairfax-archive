@@ -1,0 +1,213 @@
+{
+  "gameId": "19405",
+  "date": "2026-09-19",
+  "divId": 332,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2044",
+    "name": "Defenders"
+  },
+  "away": {
+    "teamId": "2047",
+    "name": "Toronto"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 4,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "2044",
+        "name": "Defenders"
+      },
+      "scorer": "#37 - Sean  Piccirilli",
+      "assist1": "#55 - Scott  Dullea",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:18",
+      "team": {
+        "teamId": "2044",
+        "name": "Defenders"
+      },
+      "scorer": "#45 - Jon  Drake",
+      "assist1": "#13 - Gary  White",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:42",
+      "team": {
+        "teamId": "2044",
+        "name": "Defenders"
+      },
+      "scorer": "#37 - Sean  Piccirilli",
+      "assist1": "#45 - Jon  Drake",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:11",
+      "team": {
+        "teamId": "2047",
+        "name": "Toronto"
+      },
+      "scorer": "#32 - Brian  Freeman",
+      "assist1": "#48 - Randy  Sasai",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:34",
+      "team": {
+        "teamId": "2047",
+        "name": "Toronto"
+      },
+      "scorer": "#32 - Brian  Freeman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:38",
+      "team": {
+        "teamId": "2047",
+        "name": "Toronto"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": "#60 - Will  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "2047",
+        "name": "Toronto"
+      },
+      "scorer": "#32 - Brian  Freeman",
+      "assist1": "#60 - Will  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:47",
+      "team": {
+        "teamId": "2044",
+        "name": "Defenders"
+      },
+      "scorer": "#37 - Sean  Piccirilli",
+      "assist1": "#55 - Scott  Dullea",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:20",
+      "team": {
+        "teamId": "2044",
+        "name": "Defenders"
+      },
+      "scorer": "#48 - Michael  Wilson",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:21",
+      "team": {
+        "teamId": "2044",
+        "name": "Defenders"
+      },
+      "player": "#54 - David  Gilkes",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:04:06",
+      "team": {
+        "teamId": "2044",
+        "name": "Defenders"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:32",
+      "team": {
+        "teamId": "2047",
+        "name": "Toronto"
+      },
+      "player": "#12 - Kevin  James",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:45",
+      "team": {
+        "teamId": "2047",
+        "name": "Toronto"
+      },
+      "player": "#32 - Brian  Freeman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:04",
+      "team": {
+        "teamId": "2047",
+        "name": "Toronto"
+      },
+      "player": "#48 - Randy  Sasai",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:20",
+      "team": {
+        "teamId": "2047",
+        "name": "Toronto"
+      },
+      "player": "#32 - Brian  Freeman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-22T11:22:21.478Z"
+}

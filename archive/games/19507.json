@@ -1,0 +1,139 @@
+{
+  "gameId": "19507",
+  "date": "2026-09-19",
+  "divId": 333,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2053",
+    "name": "Alers"
+  },
+  "away": {
+    "teamId": "2055",
+    "name": "Bottle Caps"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:29",
+      "team": {
+        "teamId": "2055",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#34 - Wilhelm  Happ",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:02",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#870 - Tania  Nacios",
+      "assist1": "#87 - Feng  Lan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:15",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#49 - Omar  Haque",
+      "assist1": "#88 - Afshawn  Towfighi",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:00",
+      "team": {
+        "teamId": "2055",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#26 - Chris  Anderson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:15",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#21 - Larry  Silver",
+      "assist1": "#11 - Erik  Brisson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#24 - Kashif  Haque",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:15",
+      "team": {
+        "teamId": "2055",
+        "name": "Bottle Caps"
+      },
+      "scorer": "#7 - Vadim  Sokolov",
+      "assist1": "#34 - Wilhelm  Happ",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:06:59",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "player": "#870 - Tania  Nacios",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:39",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "player": "#50 - Scott  Vecchione",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-22T11:22:42.117Z"
+}
