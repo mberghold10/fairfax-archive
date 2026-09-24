@@ -1,0 +1,128 @@
+{
+  "gameId": "19496",
+  "date": "2026-09-22",
+  "divId": 329,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2025",
+    "name": "D 4th Liners"
+  },
+  "away": {
+    "teamId": "2029",
+    "name": "Dragons"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:11",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#15 - Patrick  Judge",
+      "assist1": "#28 - Parker  Condit",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#28 - Parker  Condit",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:49",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#15 - Patrick  Judge",
+      "assist1": "#29 - Kashif  Haque",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#2 - Jack  Lockerby",
+      "assist1": "#15 - Patrick  Judge",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#15 - Patrick  Judge",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "scorer": "#19 - Joe  Beard",
+      "assist1": "#28 - Parker  Condit",
+      "assist2": "#15 - Patrick  Judge"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "4",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "2025",
+        "name": "D 4th Liners"
+      },
+      "player": "#33 - Tanner  Paul",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:03:38",
+      "team": {
+        "teamId": "2029",
+        "name": "Dragons"
+      },
+      "player": "#20 - Richard  Miranda",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-24T11:30:34.263Z"
+}
