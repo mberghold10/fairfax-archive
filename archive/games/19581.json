@@ -1,0 +1,143 @@
+{
+  "gameId": "19581",
+  "date": "2026-09-22",
+  "divId": 336,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2069",
+    "name": "Old Fashioneds"
+  },
+  "away": {
+    "teamId": "2070",
+    "name": "Fossils"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 4,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:25",
+      "team": {
+        "teamId": "2070",
+        "name": "Fossils"
+      },
+      "scorer": "#12 - Kevin  James",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:51",
+      "team": {
+        "teamId": "2069",
+        "name": "Old Fashioneds"
+      },
+      "scorer": "#67 - Victor  Mroczka",
+      "assist1": "#6 - Andy  Lindsey",
+      "assist2": "#96 - Billy  Tauzin"
+    },
+    {
+      "period": "3",
+      "time": "00:04:09",
+      "team": {
+        "teamId": "2069",
+        "name": "Old Fashioneds"
+      },
+      "scorer": "#65 - Kevin  Nacios",
+      "assist1": "#23 - Mark  Capello",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:38",
+      "team": {
+        "teamId": "2069",
+        "name": "Old Fashioneds"
+      },
+      "scorer": "#37 - Nick  Durso",
+      "assist1": "#0 - Howard  Ludwig",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:27",
+      "team": {
+        "teamId": "2069",
+        "name": "Old Fashioneds"
+      },
+      "scorer": "#6 - Andy  Lindsey",
+      "assist1": "#37 - Nick  Durso",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:15",
+      "team": {
+        "teamId": "2069",
+        "name": "Old Fashioneds"
+      },
+      "player": "#81 - David  Culverhouse",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "2069",
+        "name": "Old Fashioneds"
+      },
+      "player": "#13 - Duane  Stefaniak",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:47",
+      "team": {
+        "teamId": "2069",
+        "name": "Old Fashioneds"
+      },
+      "player": "#65 - Kevin  Nacios",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:27",
+      "team": {
+        "teamId": "2070",
+        "name": "Fossils"
+      },
+      "player": "#5 - Rob  Kelty",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-25T11:37:12.032Z"
+}
