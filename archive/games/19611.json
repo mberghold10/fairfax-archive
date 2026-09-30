@@ -1,0 +1,141 @@
+{
+  "gameId": "19611",
+  "date": "2026-09-27",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2077",
+    "name": "Megalosaurus"
+  },
+  "away": {
+    "teamId": "2082",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:45",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#33 - Scott  Coco",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:34",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#30 - Antonello  Favaro",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:48",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#62 - Sam  Munson",
+      "assist1": "#74 - Matt  Santos",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:11",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#61 - Wes  Bieliek",
+      "assist1": "#62 - Sam  Munson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:01",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#61 - Wes  Bieliek",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:04",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "scorer": "#63 - Aaron  Velez",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:12",
+      "team": {
+        "teamId": "2082",
+        "name": "Roughnecks"
+      },
+      "player": "#95 - Ethan  Fabros",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:49",
+      "team": {
+        "teamId": "2082",
+        "name": "Roughnecks"
+      },
+      "player": "#61 - Ian  Coleman",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:05",
+      "team": {
+        "teamId": "2077",
+        "name": "Megalosaurus"
+      },
+      "player": "#74 - Matt  Santos",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-30T12:21:55.752Z"
+}

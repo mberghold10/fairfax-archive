@@ -1,0 +1,128 @@
+{
+  "gameId": "19479",
+  "date": "2026-09-25",
+  "divId": 329,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2026",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "2024",
+    "name": "Blue Crabs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:19",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#68 - Jeff  Gilmore",
+      "assist1": "#25 - Bob  Banasik",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#51 - Stewart  Schuler",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:11",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#21 - Mark  Johnston",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:22",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#5 - Peter  Boone",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": "#92 - Ilya  Kosolapov"
+    },
+    {
+      "period": "2",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:02:10",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#21 - Mark  Johnston",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:01",
+      "team": {
+        "teamId": "2024",
+        "name": "Blue Crabs"
+      },
+      "player": "#32 - Rob  Stewart",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:27",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "player": "#5 - Peter  Boone",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-30T12:18:55.101Z"
+}

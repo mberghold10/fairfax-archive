@@ -1,0 +1,147 @@
+{
+  "gameId": "19612",
+  "date": "2026-09-27",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2081",
+    "name": "Red Wings"
+  },
+  "away": {
+    "teamId": "2080",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:09:11",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#7 - Art  Supsiri",
+      "assist1": "#14 - Dave  Fisher",
+      "assist2": "#22 - Trevor  Blair"
+    },
+    {
+      "period": "3",
+      "time": "00:10:13",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#12 - Dave  Sievers",
+      "assist1": "#20 - Steve  Ahart",
+      "assist2": "#41 - Alessio  Evangelista"
+    },
+    {
+      "period": "4",
+      "time": "00:00:46",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#20 - Steve  Ahart",
+      "assist1": "#41 - Alessio  Evangelista",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:03:53",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:14",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "player": "#22 - Trevor  Blair",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:43",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "player": "#37 - Dave  McAndrews",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:27",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "player": "#44 - Ben  Thomas",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-30T12:21:55.443Z"
+}

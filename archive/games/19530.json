@@ -1,0 +1,202 @@
+{
+  "gameId": "19530",
+  "date": "2026-09-27",
+  "divId": 334,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2059",
+    "name": "Jacks"
+  },
+  "away": {
+    "teamId": "2060",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:00",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": "#14 - Dennis  Nayandin",
+      "assist2": "#2 - Jason  Abkowitz"
+    },
+    {
+      "period": "1",
+      "time": "00:09:15",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "scorer": "#56 - Greg  Merkl",
+      "assist1": "#2 - Jason  Abkowitz",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "scorer": "#27 - Chris  Balsley",
+      "assist1": "#1 - Matt  Job",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:28",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "scorer": "#49 - Nicholas  Stortini",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:56",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "scorer": "#3 - Jeff  Regan",
+      "assist1": "#18 - David  Leadston",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:43",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "scorer": "#2 - Jason  Abkowitz",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:42",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "scorer": "#14 - Dennis  Nayandin",
+      "assist1": "#2 - Jason  Abkowitz",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:04",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "scorer": "#27 - Chris  Balsley",
+      "assist1": "#1 - Matt  Job",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:24",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "player": "#2 - Jason  Abkowitz",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:08:17",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "player": "#49 - Nicholas  Stortini",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:14",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 2,
+      "offense": "board",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:14:14",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:09",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "player": "#93 - Trygve  Olson",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:17",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "player": "#3 - Jeff  Regan",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-09-30T12:20:45.465Z"
+}
