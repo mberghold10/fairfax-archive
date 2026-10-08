@@ -1,0 +1,165 @@
+{
+  "gameId": "19434",
+  "date": "2026-10-03",
+  "divId": 331,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2038",
+    "name": "Red Dragons"
+  },
+  "away": {
+    "teamId": "2041",
+    "name": "Rink Rats"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:14:28",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "scorer": "#3 - Ilana  Bell",
+      "assist1": "#44 - Kevin  Fehskens",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:31",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "scorer": "#79 - Igor  Helman",
+      "assist1": "#33 - Zach  Sowinski",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "scorer": "#22 - Jeffrey  Ortolano",
+      "assist1": "#44 - Kevin  Fehskens",
+      "assist2": "#3 - Ilana  Bell"
+    },
+    {
+      "period": "2",
+      "time": "00:12:18",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "scorer": "#80 - Ethan  Hoffman",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:14:07",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "scorer": "#94 - Michael  Starego",
+      "assist1": "#44 - Kevin  Fehskens",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:02",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "scorer": "#6 - Kristin  Uhlemeyer",
+      "assist1": "#47 - Raymond  Jakubowski",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:52",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "scorer": "#47 - Raymond  Jakubowski",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:13:19",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "player": "#23 - Dan  Bardo",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:35",
+      "team": {
+        "teamId": "2041",
+        "name": "Rink Rats"
+      },
+      "player": "#79 - Igor  Helman",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:38",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "player": "#10 - John  Kolman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:10:27",
+      "team": {
+        "teamId": "2038",
+        "name": "Red Dragons"
+      },
+      "player": "#44 - Kevin  Fehskens",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-10-08T13:13:05.980Z"
+}

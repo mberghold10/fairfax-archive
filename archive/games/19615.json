@@ -1,0 +1,115 @@
+{
+  "gameId": "19615",
+  "date": "2026-10-03",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2079",
+    "name": "Hershey Beers"
+  },
+  "away": {
+    "teamId": "2081",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 4,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:34",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#15 - Mark  Yawornicky",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:18",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#16 - Wei  Wang",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:18:30",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#16 - Wei  Wang",
+      "assist1": "#12 - Kevin  James",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:19:08",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#29 - Regina  Hat",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:40",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#16 - Wei  Wang",
+      "assist1": "#29 - Regina  Hat",
+      "assist2": "#54 - Tom  Montanio"
+    },
+    {
+      "period": "3",
+      "time": "00:09:46",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#28 - Chris  Pirisino",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:05:59",
+      "team": {
+        "teamId": "2079",
+        "name": "Hershey Beers"
+      },
+      "player": "#18 - Sam  Bressi",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-10-08T13:15:23.615Z"
+}

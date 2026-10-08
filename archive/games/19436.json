@@ -1,0 +1,139 @@
+{
+  "gameId": "19436",
+  "date": "2026-10-04",
+  "divId": 331,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2036",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "2037",
+    "name": "Drop Puck Murphys"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:56",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#37 - Johnny  Morse",
+      "assist1": "#21 - Kevin  Lockland",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:10",
+      "team": {
+        "teamId": "2037",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#28 - Ed  Holleran",
+      "assist1": "#5 - Roger  Jordan",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#11 - Will  Cowell",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:48",
+      "team": {
+        "teamId": "2037",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#44 - Jeff  Marciano",
+      "assist1": "#28 - Ed  Holleran",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "2037",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#44 - Jeff  Marciano",
+      "assist1": "#55 - Andrew  Mayen",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:58",
+      "team": {
+        "teamId": "2037",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:55",
+      "team": {
+        "teamId": "2037",
+        "name": "Drop Puck Murphys"
+      },
+      "scorer": "#6 - JB  Merritt",
+      "assist1": "#24 - Brian  Davies",
+      "assist2": "#55 - Andrew  Mayen"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:02",
+      "team": {
+        "teamId": "2037",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#10 - Angelo  Ponirakis",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:22",
+      "team": {
+        "teamId": "2037",
+        "name": "Drop Puck Murphys"
+      },
+      "player": "#5 - Roger  Jordan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-10-08T13:13:05.338Z"
+}

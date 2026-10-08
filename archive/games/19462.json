@@ -1,0 +1,254 @@
+{
+  "gameId": "19462",
+  "date": "2026-10-04",
+  "divId": 330,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2034",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "2033",
+    "name": "DPunishers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "2034",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#13 - Ryan  Falco",
+      "assist1": "#63 - Forrest  Hitchcock",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:08",
+      "team": {
+        "teamId": "2034",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#64 - Nate  Tropf",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:45",
+      "team": {
+        "teamId": "2034",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#38 - Drew  Dunn",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:51",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "scorer": "#15 - Phil  Wind",
+      "assist1": "#72 - Alex  Cordon",
+      "assist2": "#33 - Hung  Pham"
+    },
+    {
+      "period": "2",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "scorer": "#17 - Dan  Pol",
+      "assist1": "#12 - Dave  OMalley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:06",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:38",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": "#15 - Phil  Wind",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:38",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "scorer": "#12 - Dave  OMalley",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "2034",
+        "name": "Mad Dogs"
+      },
+      "player": "#64 - Nate  Tropf",
+      "pim": 4,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "player": "#33 - Hung  Pham",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:37",
+      "team": {
+        "teamId": "2034",
+        "name": "Mad Dogs"
+      },
+      "player": "#64 - Nate  Tropf",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:39",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "player": "#89 - Jay  Gobeil",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:12",
+      "team": {
+        "teamId": "2034",
+        "name": "Mad Dogs"
+      },
+      "player": "#44 - Carlos  Gautier",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:43",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "player": "#89 - Jay  Gobeil",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:01",
+      "team": {
+        "teamId": "2034",
+        "name": "Mad Dogs"
+      },
+      "player": "#64 - Nate  Tropf",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:01",
+      "team": {
+        "teamId": "2034",
+        "name": "Mad Dogs"
+      },
+      "player": "#64 - Nate  Tropf",
+      "pim": 10,
+      "offense": "4 penalties",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:18",
+      "team": {
+        "teamId": "2033",
+        "name": "DPunishers"
+      },
+      "player": "#89 - Jay  Gobeil",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:10",
+      "team": {
+        "teamId": "2034",
+        "name": "Mad Dogs"
+      },
+      "player": "#44 - Carlos  Gautier",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-10-08T13:12:43.346Z"
+}

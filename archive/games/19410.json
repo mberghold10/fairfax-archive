@@ -1,0 +1,243 @@
+{
+  "gameId": "19410",
+  "date": "2026-10-05",
+  "divId": 332,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2045",
+    "name": "Puckaneers"
+  },
+  "away": {
+    "teamId": "2047",
+    "name": "Toronto"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 1,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:34",
+      "team": {
+        "teamId": "2045",
+        "name": "Puckaneers"
+      },
+      "scorer": "#16 - Kiran  Manakarnika",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:45",
+      "team": {
+        "teamId": "2045",
+        "name": "Puckaneers"
+      },
+      "scorer": "#12 - Alex  Lewis",
+      "assist1": "#27 - Dave  Lin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:36",
+      "team": {
+        "teamId": "2047",
+        "name": "Toronto"
+      },
+      "scorer": "#5 - Dave  Neri",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:50",
+      "team": {
+        "teamId": "2047",
+        "name": "Toronto"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#6 - Matt  Johnson",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:26",
+      "team": {
+        "teamId": "2045",
+        "name": "Puckaneers"
+      },
+      "scorer": "#12 - Alex  Lewis",
+      "assist1": "#39 - Andrew  Hancher",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:14:26",
+      "team": {
+        "teamId": "2047",
+        "name": "Toronto"
+      },
+      "scorer": "#33 - Greg  Kowalski",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:03:13",
+      "team": {
+        "teamId": "2045",
+        "name": "Puckaneers"
+      },
+      "scorer": "#27 - Dave  Lin",
+      "assist1": "#39 - Andrew  Hancher",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:34",
+      "team": {
+        "teamId": "2047",
+        "name": "Toronto"
+      },
+      "player": "#1 - Chris  Beach",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:03:19",
+      "team": {
+        "teamId": "2045",
+        "name": "Puckaneers"
+      },
+      "player": "#4 - Charlie  Beekman",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:07:41",
+      "team": {
+        "teamId": "2045",
+        "name": "Puckaneers"
+      },
+      "player": "#2 - Dick  Deitos",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:04:26",
+      "team": {
+        "teamId": "2045",
+        "name": "Puckaneers"
+      },
+      "player": "#19 - Brian  Parker",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:07",
+      "team": {
+        "teamId": "2045",
+        "name": "Puckaneers"
+      },
+      "player": "#27 - Dave  Lin",
+      "pim": 2,
+      "offense": "check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:54",
+      "team": {
+        "teamId": "2047",
+        "name": "Toronto"
+      },
+      "player": "#60 - Will  Murphy",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:06:38",
+      "team": {
+        "teamId": "2045",
+        "name": "Puckaneers"
+      },
+      "player": "#88 - Petrus  Knight",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:35",
+      "team": {
+        "teamId": "2047",
+        "name": "Toronto"
+      },
+      "player": "#88 - Mat  Cantaella",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:07",
+      "team": {
+        "teamId": "2045",
+        "name": "Puckaneers"
+      },
+      "player": "#88 - Petrus  Knight",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:04:34",
+      "team": {
+        "teamId": "2047",
+        "name": "Toronto"
+      },
+      "player": "#1 - Chris  Beach",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-10-08T13:13:30.648Z"
+}

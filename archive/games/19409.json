@@ -1,0 +1,169 @@
+{
+  "gameId": "19409",
+  "date": "2026-10-03",
+  "divId": 332,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2044",
+    "name": "Defenders"
+  },
+  "away": {
+    "teamId": "2049",
+    "name": "Busch League"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:25",
+      "team": {
+        "teamId": "2044",
+        "name": "Defenders"
+      },
+      "scorer": "#48 - Michael  Wilson",
+      "assist1": "#2 - Justin  Thompson",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:30",
+      "team": {
+        "teamId": "2049",
+        "name": "Busch League"
+      },
+      "scorer": "#91 - Jeff  Rendler",
+      "assist1": "#83 - Michael  Milazzo",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:10:46",
+      "team": {
+        "teamId": "2049",
+        "name": "Busch League"
+      },
+      "scorer": "#22 - Justin  Jerardo",
+      "assist1": "#34 - Wilhelm  Happ",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:12:51",
+      "team": {
+        "teamId": "2049",
+        "name": "Busch League"
+      },
+      "scorer": "#11 - Greg  Wilburn",
+      "assist1": "#77 - Trevor  Boynton",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:45",
+      "team": {
+        "teamId": "2049",
+        "name": "Busch League"
+      },
+      "scorer": "#17 - Marc  Patience",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:14",
+      "team": {
+        "teamId": "2044",
+        "name": "Defenders"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:08",
+      "team": {
+        "teamId": "2049",
+        "name": "Busch League"
+      },
+      "player": "#73 - Alex  Lillis",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:49",
+      "team": {
+        "teamId": "2044",
+        "name": "Defenders"
+      },
+      "player": "#2 - Justin  Thompson",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:44",
+      "team": {
+        "teamId": "2049",
+        "name": "Busch League"
+      },
+      "player": "#11 - Greg  Wilburn",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:03",
+      "team": {
+        "teamId": "2049",
+        "name": "Busch League"
+      },
+      "player": "#11 - Greg  Wilburn",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:11",
+      "team": {
+        "teamId": "2049",
+        "name": "Busch League"
+      },
+      "player": "#34 - Wilhelm  Happ",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-10-08T13:13:30.998Z"
+}
