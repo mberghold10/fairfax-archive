@@ -1,0 +1,222 @@
+{
+  "gameId": "19533",
+  "date": "2026-10-07",
+  "divId": 334,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2056",
+    "name": "ers"
+  },
+  "away": {
+    "teamId": "2059",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 5,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:08",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "scorer": "#2 - Jason  Abkowitz",
+      "assist1": "#21 - Steve  Chan",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:24",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "scorer": "#12 - Brian  Dix",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": "#18 - David  Leadston"
+    },
+    {
+      "period": "1",
+      "time": "00:10:42",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "scorer": "#49 - David  Kautter",
+      "assist1": "#7 - Matt  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:23",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "scorer": "#21 - Steve  Chan",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:58",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "scorer": "#3 - Matt  Cerce",
+      "assist1": "#92 - TC  Rotunda",
+      "assist2": "#44 - Alex  Corbeil"
+    },
+    {
+      "period": "3",
+      "time": "00:03:27",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "scorer": "#3 - Matt  Cerce",
+      "assist1": "#7 - Matt  ODriscoll",
+      "assist2": "#74 - Paul  Sechser"
+    },
+    {
+      "period": "3",
+      "time": "00:04:07",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "scorer": "#2 - Jason  Abkowitz",
+      "assist1": "#21 - Steve  Chan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:43",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "scorer": "#49 - David  Kautter",
+      "assist1": "#26 - Mike  Floyd",
+      "assist2": "#92 - TC  Rotunda"
+    },
+    {
+      "period": "3",
+      "time": "00:07:37",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "scorer": "#3 - Matt  Cerce",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:54",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "scorer": "#49 - David  Kautter",
+      "assist1": "#7 - Matt  ODriscoll",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:50",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "scorer": "#3 - Matt  Cerce",
+      "assist1": "#7 - Matt  ODriscoll",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:04",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "player": "#7 - Matt  ODriscoll",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:53",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "player": "#49 - Nicholas  Stortini",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "2056",
+        "name": "ers"
+      },
+      "player": "#24 - Tom  Spiewak",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:56",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "player": "#7 - Joseph  Hull",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:06",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-10-09T13:00:24.784Z"
+}
