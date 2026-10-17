@@ -1,0 +1,174 @@
+{
+  "gameId": "19437",
+  "date": "2026-10-10",
+  "divId": 331,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2036",
+    "name": "Angry Moose"
+  },
+  "away": {
+    "teamId": "2042",
+    "name": "Jurassic Puck"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 3,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:04",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#53 - Robert  Hutchinson",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:41",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#26 - Patrick  Lov",
+      "assist1": "#53 - Robert  Hutchinson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:57",
+      "team": {
+        "teamId": "2042",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#11 - Dan  Owens",
+      "assist1": "#9 - Munkhook  Dansran",
+      "assist2": "#84 - Devon  Thomas"
+    },
+    {
+      "period": "2",
+      "time": "00:03:08",
+      "team": {
+        "teamId": "2042",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#38 - Keith  Forsythe",
+      "assist1": "#9 - Munkhook  Dansran",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:55",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#1 - Ryan  Gardiner",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:44",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "scorer": "#26 - Patrick  Lov",
+      "assist1": "#53 - Robert  Hutchinson",
+      "assist2": "#1 - Ryan  Gardiner"
+    },
+    {
+      "period": "3",
+      "time": "00:06:05",
+      "team": {
+        "teamId": "2042",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#38 - Keith  Forsythe",
+      "assist1": "#9 - Munkhook  Dansran",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:24",
+      "team": {
+        "teamId": "2042",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#4 - Sam  Brownell",
+      "assist1": "#9 - Munkhook  Dansran",
+      "assist2": "#11 - Dan  Owens"
+    },
+    {
+      "period": "3",
+      "time": "00:12:18",
+      "team": {
+        "teamId": "2042",
+        "name": "Jurassic Puck"
+      },
+      "scorer": "#3 - Justin  Carpenter",
+      "assist1": "#11 - Dan  Owens",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:05:05",
+      "team": {
+        "teamId": "2042",
+        "name": "Jurassic Puck"
+      },
+      "player": "#4 - Sam  Brownell",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:11:14",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "player": "#1 - Ryan  Gardiner",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:20",
+      "team": {
+        "teamId": "2036",
+        "name": "Angry Moose"
+      },
+      "player": "#26 - Patrick  Lov",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-10-17T10:28:38.158Z"
+}

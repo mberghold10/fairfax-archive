@@ -1,0 +1,95 @@
+{
+  "gameId": "19620",
+  "date": "2026-10-11",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2076",
+    "name": "Pumpkins"
+  },
+  "away": {
+    "teamId": "2082",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "2",
+      "time": "00:05:07",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "scorer": "#21 - Jeremy  Weng",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:06:07",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "scorer": "#75 - Tim  Witkiewiez",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:07",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "scorer": "#13 - Tino  Giovanni",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:02:48",
+      "team": {
+        "teamId": "2082",
+        "name": "Roughnecks"
+      },
+      "player": "#44 - Jonathan  Daniels",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "player": "#9 - Jordan  Hill",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-10-17T10:30:39.955Z"
+}
