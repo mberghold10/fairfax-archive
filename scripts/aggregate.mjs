@@ -63,10 +63,7 @@ function extractTeamsFromCatalog(catalog) {
   return teams;
 }
 
-/**
- * Run a named aggregation step with error handling.
- * Returns the step's result on success, or undefined on failure.
- */
+/** Run a named aggregation step and stop immediately on failure. */
 async function runStep(name, fn) {
   try {
     console.log(`\n── ${name} ──`);
@@ -76,7 +73,7 @@ async function runStep(name, fn) {
   } catch (err) {
     console.error(`  ✗ ${name} FAILED: ${err.message}`);
     if (err.stack) console.error(`    ${err.stack.split('\n').slice(1, 3).join('\n    ')}`);
-    return undefined;
+    throw err;
   }
 }
 
