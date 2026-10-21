@@ -4,65 +4,17 @@
   "kind": "schedule",
   "records": [
     {
-      "date": "2026-06-21",
+      "date": "2026-06-12",
       "time": "",
       "home": {
+        "teamId": "2007",
+        "name": "Roccos"
+      },
+      "away": {
         "teamId": "2006",
         "name": "Red Wings"
       },
-      "away": {
-        "teamId": "2005",
-        "name": "Blue Dogs"
-      },
-      "gameId": "1669",
-      "mode": "playoff",
-      "divId": 328,
-      "seasonName": "Winter 2025"
-    },
-    {
-      "date": "2026-06-20",
-      "time": "",
-      "home": {
-        "teamId": "2006",
-        "name": "Red Wings"
-      },
-      "away": {
-        "teamId": "2001",
-        "name": "Slashing Pumpkins"
-      },
-      "gameId": "1668",
-      "mode": "playoff",
-      "divId": 328,
-      "seasonName": "Winter 2025"
-    },
-    {
-      "date": "2026-06-20",
-      "time": "",
-      "home": {
-        "teamId": "2005",
-        "name": "Blue Dogs"
-      },
-      "away": {
-        "teamId": "2002",
-        "name": "Megalosaurus"
-      },
-      "gameId": "1667",
-      "mode": "playoff",
-      "divId": 328,
-      "seasonName": "Winter 2025"
-    },
-    {
-      "date": "2026-06-14",
-      "time": "",
-      "home": {
-        "teamId": "2006",
-        "name": "Red Wings"
-      },
-      "away": {
-        "teamId": "2003",
-        "name": "Thunder"
-      },
-      "gameId": "1666",
+      "gameId": "1664",
       "mode": "playoff",
       "divId": 328,
       "seasonName": "Winter 2025"
@@ -84,21 +36,69 @@
       "seasonName": "Winter 2025"
     },
     {
-      "date": "2026-06-12",
+      "date": "2026-06-14",
       "time": "",
       "home": {
-        "teamId": "2007",
-        "name": "Roccos"
-      },
-      "away": {
         "teamId": "2006",
         "name": "Red Wings"
       },
-      "gameId": "1664",
+      "away": {
+        "teamId": "2003",
+        "name": "Thunder"
+      },
+      "gameId": "1666",
+      "mode": "playoff",
+      "divId": 328,
+      "seasonName": "Winter 2025"
+    },
+    {
+      "date": "2026-06-20",
+      "time": "",
+      "home": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "away": {
+        "teamId": "2002",
+        "name": "Megalosaurus"
+      },
+      "gameId": "1667",
+      "mode": "playoff",
+      "divId": 328,
+      "seasonName": "Winter 2025"
+    },
+    {
+      "date": "2026-06-20",
+      "time": "",
+      "home": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "away": {
+        "teamId": "2001",
+        "name": "Slashing Pumpkins"
+      },
+      "gameId": "1668",
+      "mode": "playoff",
+      "divId": 328,
+      "seasonName": "Winter 2025"
+    },
+    {
+      "date": "2026-06-21",
+      "time": "",
+      "home": {
+        "teamId": "2006",
+        "name": "Red Wings"
+      },
+      "away": {
+        "teamId": "2005",
+        "name": "Blue Dogs"
+      },
+      "gameId": "1669",
       "mode": "playoff",
       "divId": 328,
       "seasonName": "Winter 2025"
     }
   ],
-  "_updated": "2026-10-20T14:08:03.394Z"
+  "_updated": "2026-10-21T13:09:47.009Z"
 }
