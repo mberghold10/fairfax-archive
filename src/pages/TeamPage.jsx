@@ -231,7 +231,7 @@ function TeamSeasonSchedule({ teamId, season, data }) {
 
       rows.push({
         id: g.gameId || `g-${isPlayoff ? 'p' : 'r'}-${idx}`,
-        date: g.date, opponent: opponentName,
+        date: g.date, time: g.time || '', opponent: opponentName,
         opponentId, homeAway: isHome ? 'vs' : '@',
         played: !!result, teamScore, oppScore,
         ot: result?.ot, resultClass, gameId: g.gameId, isPlayoff,
@@ -252,6 +252,7 @@ function TeamSeasonSchedule({ teamId, season, data }) {
 
   const columns = [
     { key: 'date', label: 'Date', sortable: false },
+    { key: 'time', label: 'Time', sortable: false },
     {
       key: 'opponent', label: 'Opponent', sortable: false,
       cellClass: (val, row) => row.resultClass,

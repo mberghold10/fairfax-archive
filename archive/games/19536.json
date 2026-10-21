@@ -1,0 +1,165 @@
+{
+  "gameId": "19536",
+  "date": "2026-10-16",
+  "divId": 334,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2060",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "2057",
+    "name": "Ducks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:19",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "scorer": "#10 - Justin  Arbes",
+      "assist1": "#57 - Derek  Morrissette",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:16",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "scorer": "#7 - Andrew  Golomb",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:43",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "scorer": "#24 - Alex  Bronson",
+      "assist1": "#7 - Andrew  Golomb",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:46",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "scorer": "#44 - Campbell  Burnes",
+      "assist1": "#7 - Andrew  Golomb",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:47",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#10 - Justin  Arbes",
+      "assist2": "#57 - Derek  Morrissette"
+    },
+    {
+      "period": "3",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "scorer": "#7 - Andrew  Golomb",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:41",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "scorer": "#15 - Jonathan  Vu",
+      "assist1": "#21 - Erik  Bergman",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:11",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "player": "#9 - Matt  Slattery",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:08:05",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "player": "#15 - Jonathan  Vu",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:37",
+      "team": {
+        "teamId": "2057",
+        "name": "Ducks"
+      },
+      "player": "#24 - Alex  Bronson",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:03",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "player": "#9 - Matt  Slattery",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-10-21T13:12:11.446Z"
+}

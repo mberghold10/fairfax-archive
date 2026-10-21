@@ -1,0 +1,226 @@
+{
+  "gameId": "19570",
+  "date": "2026-10-18",
+  "divId": 335,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2062",
+    "name": "Flying Circus"
+  },
+  "away": {
+    "teamId": "2066",
+    "name": "Black Sheep"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 3,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "scorer": "#55 - Scott  Dullea",
+      "assist1": "#19 - Trent  Papke",
+      "assist2": "#4 - Jason  Brue"
+    },
+    {
+      "period": "1",
+      "time": "00:01:47",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "scorer": "#33 - Brian  Dix",
+      "assist1": "#5 - Mark  DeVito",
+      "assist2": "#66 - Chris  Yoko"
+    },
+    {
+      "period": "2",
+      "time": "00:05:55",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "scorer": "#66 - Chris  Yoko",
+      "assist1": "#33 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:46",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "scorer": "#7 - Brendan  Ford",
+      "assist1": "#26 - Matt  Kowalski",
+      "assist2": "#27 - Mike  Heuple"
+    },
+    {
+      "period": "3",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "scorer": "#13 - Sean  McGarry",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:08",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "scorer": "#5 - Mark  DeVito",
+      "assist1": "#33 - Brian  Dix",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:04",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "scorer": "#21 - Trevor  Wallace",
+      "assist1": "#33 - Brian  Dix",
+      "assist2": "#5 - Mark  DeVito"
+    },
+    {
+      "period": "3",
+      "time": "00:08:44",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "scorer": "#4 - Jason  Brue",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:11:08",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "scorer": "#44 - Matt  Smith",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:00:19",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "player": "#26 - Garrett  Burns",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:25",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "player": "#2 - Marc  Sheinkin",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:48",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "player": "#42 - Jeff  Lovett",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:39",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:13",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "player": "#2 - Marc  Sheinkin",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:08",
+      "team": {
+        "teamId": "2066",
+        "name": "Black Sheep"
+      },
+      "player": "#13 - Sean  McGarry",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:22",
+      "team": {
+        "teamId": "2062",
+        "name": "Flying Circus"
+      },
+      "player": "#5 - Mark  DeVito",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-10-21T13:12:42.603Z"
+}

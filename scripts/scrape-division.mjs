@@ -336,22 +336,297 @@ async function scrapeTeamRoster(teamId, playoffs = false) {
   return { skaters, goalies };
 }
 
-// ── Schedule scraping (division-wide, via results.php) ──────────────────────
+// ── Schedule scraping ────────────────────────────────────────────────────────
 
 function parseDateTimeLong(str) {
-  const m = str.match(/(\w+),\s+(\w+)\s+(\d+),\s+(\d{4})\s+(\d+:\d+\s*[AP]M)/i);
+  const value = String(str || '').replace(/\s+/g, ' ').trim();
+  const m = value.match(
+    /^(Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday),\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{1,2}),\s+(\d{4})\s+((\d{1,2}):(\d{2})\s*(AM|PM))$/i,
+  );
   if (!m) return { date: '', time: '' };
-  const months = { January:1,February:2,March:3,April:4,May:5,June:6,July:7,August:8,September:9,October:10,November:11,December:12 };
-  const mo = months[m[2]] || 1;
+
+  const months = {
+    january: 1, february: 2, march: 3, april: 4, may: 5, june: 6,
+    july: 7, august: 8, september: 9, october: 10, november: 11, december: 12,
+  };
+  const month = months[m[2].toLowerCase()];
+  const day = Number(m[3]);
+  const year = Number(m[4]);
+  const hour = Number(m[6]);
+  const minute = Number(m[7]);
+  const candidate = new Date(Date.UTC(year, month - 1, day));
+  if (candidate.getUTCFullYear() !== year || candidate.getUTCMonth() !== month - 1
+      || candidate.getUTCDate() !== day || hour < 1 || hour > 12 || minute > 59) {
+    return { date: '', time: '' };
+  }
+
   return {
-    date: `${m[4]}-${String(mo).padStart(2, '0')}-${String(m[3]).padStart(2, '0')}`,
+    date: `${year}-${String(month).padStart(2, '0')}-${String(day).padStart(2, '0')}`,
     time: m[5].trim(),
   };
 }
 
+function extractTablesByClass(html, className) {
+  const tables = [];
+  const openingTag = /<table\b[^>]*>/gi;
+  let match;
+  while ((match = openingTag.exec(html)) !== null) {
+    const classMatch = match[0].match(/\bclass\s*=\s*(['"])(.*?)\1/i);
+    const classes = classMatch ? classMatch[2].split(/\s+/) : [];
+    if (!classes.some(value => value.toLowerCase() === className.toLowerCase())) continue;
+
+    const tableTag = /<\/?table\b[^>]*>/gi;
+    tableTag.lastIndex = match.index;
+    let depth = 0;
+    let end = -1;
+    let tag;
+    while ((tag = tableTag.exec(html)) !== null) {
+      if (/^<table\b/i.test(tag[0])) depth++;
+      else depth--;
+      if (depth === 0) {
+        end = tableTag.lastIndex;
+        break;
+      }
+    }
+    if (end === -1) throw new Error(`Malformed ${className} table: missing closing table tag`);
+    tables.push(html.slice(match.index, end));
+    openingTag.lastIndex = end;
+  }
+  return tables;
+}
+
+function parseRawTableRows(tableHtml, context) {
+  const rows = [];
+  const token = /<\/?(?:table|tr|td|th)\b[^>]*>/gi;
+  let tableDepth = 0;
+  let currentRow = null;
+  let currentCell = null;
+  let match;
+
+  while ((match = token.exec(tableHtml)) !== null) {
+    const closing = /^<\//.test(match[0]);
+    const tagName = match[0].match(/^<\/?(table|tr|td|th)\b/i)[1].toLowerCase();
+
+    if (tagName === 'table') {
+      tableDepth += closing ? -1 : 1;
+      if (tableDepth < 0) throw new Error(`${context}: unexpected closing table tag`);
+      continue;
+    }
+    if (tableDepth !== 1) continue;
+
+    if (tagName === 'tr') {
+      if (!closing) {
+        if (currentRow) throw new Error(`${context}: nested or unclosed table row`);
+        currentRow = [];
+      } else {
+        if (!currentRow || currentCell) throw new Error(`${context}: malformed table row`);
+        rows.push(currentRow);
+        currentRow = null;
+      }
+      continue;
+    }
+
+    if (!currentRow) throw new Error(`${context}: table cell outside a row`);
+    if (!closing) {
+      if (currentCell) throw new Error(`${context}: nested or unclosed table cell`);
+      currentCell = { tagName, contentStart: token.lastIndex };
+    } else {
+      if (!currentCell || currentCell.tagName !== tagName) {
+        throw new Error(`${context}: mismatched table cell tags`);
+      }
+      const cellHtml = tableHtml.slice(currentCell.contentStart, match.index);
+      currentRow.push({ html: cellHtml, text: stripTags(cellHtml).replace(/\s+/g, ' ').trim() });
+      currentCell = null;
+    }
+  }
+
+  if (tableDepth !== 0 || currentRow || currentCell) {
+    throw new Error(`${context}: unclosed table markup`);
+  }
+  return rows;
+}
+
+function normalizeScheduleHeader(value) {
+  return String(value || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+}
+
+function linkedQueryIds(cellHtml, parameter) {
+  const ids = [];
+  for (const link of cellHtml.matchAll(/<a\b[^>]*\bhref\s*=\s*(['"])(.*?)\1[^>]*>/gi)) {
+    const href = link[2].replace(/&amp;/gi, '&').replace(/&#0*38;/gi, '&');
+    const parameterMatch = href.match(new RegExp(`(?:[?&])${parameter}=(\\d+)(?:[&#]|$)`, 'i'));
+    if (parameterMatch) ids.push(parameterMatch[1]);
+  }
+  return [...new Set(ids)];
+}
+
+function scheduleTeamFromCell(cell, side, rowContext, teamMap) {
+  const teamIds = linkedQueryIds(cell.html, 'team');
+  if (teamIds.length !== 1) {
+    throw new Error(`${rowContext}: ${side} cell must contain exactly one team= link`);
+  }
+  const teamId = teamIds[0];
+  if (!Object.prototype.hasOwnProperty.call(teamMap, teamId)) {
+    throw new Error(`${rowContext}: ${side} team ${teamId} (${cell.text || 'unnamed'}) is absent from division standings`);
+  }
+  return { teamId, name: teamMap[teamId] };
+}
+
+function scheduleGameIdFromCell(cell, rowContext) {
+  const gameIds = linkedQueryIds(cell.html, 'game');
+  if (gameIds.length > 1) {
+    throw new Error(`${rowContext}: recap cell contains multiple game IDs: ${gameIds.join(', ')}`);
+  }
+  if (gameIds.length === 0 && /<a\b/i.test(cell.html)) {
+    throw new Error(`${rowContext}: recap link has no valid game= ID`);
+  }
+  return gameIds[0] || null;
+}
+
+function parseRegularSchedulePage(html, divId, seasonName, teamMap, sourceTeamId) {
+  const pageContext = `Regular schedule page for team ${sourceTeamId} in division ${divId}`;
+  const requiredHeaders = ['date', 'home', 'away', 'recap'];
+  const candidates = [];
+  const headerSummaries = [];
+
+  for (const [index, tableHtml] of extractTablesByClass(html, 'standings').entries()) {
+    const rows = parseRawTableRows(tableHtml, `${pageContext}, table ${index + 1}`);
+    const headers = (rows[0] || []).map(cell => normalizeScheduleHeader(cell.text));
+    headerSummaries.push(headers.join('/') || '(empty)');
+    if (requiredHeaders.every(header => headers.includes(header))) {
+      candidates.push({ rows, headers, tableIndex: index + 1 });
+    }
+  }
+
+  if (candidates.length !== 1) {
+    const detail = headerSummaries.length > 0 ? headerSummaries.join('; ') : 'no standings-class tables';
+    throw new Error(`${pageContext}: expected one Date/Home/Away/Recap table, found ${candidates.length} (${detail})`);
+  }
+
+  const { rows, headers, tableIndex } = candidates[0];
+  const columns = Object.fromEntries(requiredHeaders.map(header => {
+    const indexes = headers.flatMap((value, index) => value === header ? [index] : []);
+    if (indexes.length !== 1) {
+      throw new Error(`${pageContext}, table ${tableIndex}: expected exactly one ${header} header`);
+    }
+    return [header, indexes[0]];
+  }));
+  const lastRequiredColumn = Math.max(...Object.values(columns));
+  const records = [];
+
+  for (let index = 1; index < rows.length; index++) {
+    const row = rows[index];
+    const rowContext = `${pageContext}, row ${index + 1}`;
+    if (row.length <= lastRequiredColumn) {
+      throw new Error(`${rowContext}: expected cells for Date/Home/Away/Recap, found ${row.length}`);
+    }
+
+    const { date, time } = parseDateTimeLong(row[columns.date].text);
+    if (!date || !time) {
+      throw new Error(`${rowContext}: invalid date/time "${row[columns.date].text}"`);
+    }
+    const home = scheduleTeamFromCell(row[columns.home], 'home', rowContext, teamMap);
+    const away = scheduleTeamFromCell(row[columns.away], 'away', rowContext, teamMap);
+    if (home.teamId === away.teamId) throw new Error(`${rowContext}: home and away teams are identical`);
+    const gameId = scheduleGameIdFromCell(row[columns.recap], rowContext);
+    records.push({
+      date, time, home, away, gameId,
+      mode: 'regular', divId: Number(divId), seasonName,
+    });
+  }
+
+  return records;
+}
+
+function regularScheduleKey(record) {
+  if (record.gameId) return `game:${record.gameId}`;
+  return `upcoming:${JSON.stringify([
+    record.mode, record.date, record.time, record.home.teamId, record.away.teamId,
+  ])}`;
+}
+
+function regularFixtureKey(record) {
+  return JSON.stringify([
+    record.mode, record.date, record.time, record.home.teamId, record.away.teamId,
+  ]);
+}
+
+function scheduleRowsMateriallyEqual(left, right) {
+  return JSON.stringify(left) === JSON.stringify(right);
+}
+
+async function scrapeRegularSchedulePages(divId, seasonName, teamMap) {
+  const recordsByKey = new Map();
+  const sourceByKey = new Map();
+  const fixtureKeys = new Map();
+  const teams = Object.entries(teamMap).sort(([left], [right]) => Number(left) - Number(right));
+
+  for (const [teamId, teamName] of teams) {
+    console.log(`  Schedule: ${teamName} (${teamId})...`);
+    await setMode('regular', 'schedule', teamId, divId);
+    const html = await request(`schedule.php?team=${teamId}`);
+    const records = parseRegularSchedulePage(html, divId, seasonName, teamMap, teamId);
+
+    for (const record of records) {
+      if (record.home.teamId !== teamId && record.away.teamId !== teamId) {
+        throw new Error(
+          `Regular schedule page for team ${teamId} in division ${divId} contains unrelated fixture `
+          + `${record.date} ${record.time}: ${record.home.teamId} vs ${record.away.teamId}`,
+        );
+      }
+
+      const key = regularScheduleKey(record);
+      const source = `team ${teamId} (${teamName})`;
+      const existing = recordsByKey.get(key);
+      if (existing && !scheduleRowsMateriallyEqual(existing, record)) {
+        throw new Error(
+          `Regular schedule ${key} disagrees between ${sourceByKey.get(key)} and ${source}: `
+          + `${JSON.stringify(existing)} != ${JSON.stringify(record)}`,
+        );
+      }
+
+      const fixtureKey = regularFixtureKey(record);
+      const existingFixtureKey = fixtureKeys.get(fixtureKey);
+      if (existingFixtureKey && existingFixtureKey !== key) {
+        throw new Error(
+          `Regular fixture ${fixtureKey} has conflicting identities on ${sourceByKey.get(existingFixtureKey)} `
+          + `and ${source}: ${existingFixtureKey} != ${key}`,
+        );
+      }
+
+      if (!existing) {
+        recordsByKey.set(key, record);
+        sourceByKey.set(key, source);
+        fixtureKeys.set(fixtureKey, key);
+      }
+    }
+  }
+
+  return [...recordsByKey.values()];
+}
+
+function compareText(left, right) {
+  return left < right ? -1 : (left > right ? 1 : 0);
+}
+
+function scheduleTimeValue(time) {
+  const match = String(time || '').match(/^(\d{1,2}):(\d{2})\s*(AM|PM)$/i);
+  if (!match) return Number.MAX_SAFE_INTEGER;
+  const hour = (Number(match[1]) % 12) + (match[3].toUpperCase() === 'PM' ? 12 : 0);
+  return hour * 60 + Number(match[2]);
+}
+
+function compareScheduleRows(left, right) {
+  return compareText(left.date, right.date)
+    || scheduleTimeValue(left.time) - scheduleTimeValue(right.time)
+    || compareText(left.time, right.time)
+    || compareText(String(left.home.teamId), String(right.home.teamId))
+    || compareText(String(left.away.teamId), String(right.away.teamId))
+    || compareText(String(left.gameId || ''), String(right.gameId || ''));
+}
+
 /**
- * Get every gameId for a division (regular or playoff) via results.php?div=N.
- * This page lists all games with recap links regardless of team.
+ * Get every completed gameId exposed by results.php?div=N.
  */
 async function getAllGameIds(divId, playoffs) {
   await setMode(playoffs ? 'playoffs' : 'regular', 'schedule', null, divId);
@@ -359,24 +634,41 @@ async function getAllGameIds(divId, playoffs) {
   if (!/content-title/i.test(html)) {
     throw new Error(`Could not parse ${playoffs ? 'playoff' : 'regular'} results page for division ${divId}`);
   }
+  return [...new Set([...html.matchAll(/results\.php\?game=(\d+)/gi)].map(m => m[1]))]
+    .sort((left, right) => Number(left) - Number(right) || compareText(left, right));
+}
 
-  const gameIds = [...new Set([...html.matchAll(/results\.php\?game=(\d+)/gi)].map(m => m[1]))];
-  const mode = playoffs ? 'playoff' : 'regular';
+async function assertCompletedGameIdsNotShrunk(divId, mode, gameIds) {
   const schedulePath = join(ARCHIVE_DIR, String(divId), `schedule.${mode}.json`);
   try {
     const existing = JSON.parse(await readFile(schedulePath, 'utf-8'));
-    const found = new Set(gameIds);
-    const missing = (existing.records || [])
-      .map(game => String(game.gameId))
-      .filter(gameId => !found.has(gameId));
+    const found = new Set(gameIds.map(String));
+    const archivedGameIds = (existing.records || [])
+      .map(game => game?.gameId)
+      .filter(gameId => gameId !== null && gameId !== undefined && String(gameId).trim() !== '')
+      .map(gameId => String(gameId));
+    const missing = [...new Set(archivedGameIds.filter(gameId => !found.has(gameId)))];
     if (missing.length > 0) {
-      throw new Error(`${mode} results for division ${divId} omitted archived games: ${missing.join(', ')}`);
+      throw new Error(`${mode} game discovery for division ${divId} omitted archived games: ${missing.join(', ')}`);
     }
   } catch (error) {
     if (error.code !== 'ENOENT') throw error;
   }
+}
 
-  return gameIds;
+async function archivedScheduleTimesByGameId(divId, mode) {
+  const schedulePath = join(ARCHIVE_DIR, String(divId), `schedule.${mode}.json`);
+  try {
+    const existing = JSON.parse(await readFile(schedulePath, 'utf-8'));
+    return new Map(
+      (existing.records || [])
+        .filter(game => game?.gameId !== null && game?.gameId !== undefined)
+        .map(game => [String(game.gameId), game.time || '']),
+    );
+  } catch (error) {
+    if (error.code === 'ENOENT') return new Map();
+    throw error;
+  }
 }
 
 /**
@@ -654,29 +946,65 @@ async function scrapeDivision(divId) {
     };
   }
 
-  // Scrape all regular season game IDs, then recap each
-  console.log('  Discovering regular season games...');
-  const regularGameIds = await getAllGameIds(divId, false);
-  console.log(`  Found ${regularGameIds.length} regular season games`);
+  // Scrape every team's regular schedule, then union its completed IDs with results.php.
+  console.log('  Discovering regular season fixtures from team schedules...');
+  const regularPageSchedule = await scrapeRegularSchedulePages(divId, seasonName, teamMap);
+  const scheduleGameIds = regularPageSchedule
+    .map(game => game.gameId)
+    .filter(gameId => gameId !== null);
+
+  console.log('  Discovering completed regular season games...');
+  const regularResultGameIds = await getAllGameIds(divId, false);
+  const regularGameIds = [...new Set([...regularResultGameIds, ...scheduleGameIds])]
+    .sort((left, right) => Number(left) - Number(right) || compareText(left, right));
+  await assertCompletedGameIdsNotShrunk(divId, 'regular', regularGameIds);
+  console.log(`  Found ${regularGameIds.length} completed regular season games`);
 
   const gamesToWrite = [];
-  const regularSchedule = [];
+  const regularRecaps = new Map();
   for (const gameId of regularGameIds) {
     await sleep(GAME_DELAY_MS);
     const game = await scrapeGameRecap(gameId, divId, seasonName, 'regular');
     gamesToWrite.push(game);
-    regularSchedule.push({
-      date: game.date, time: '',
-      home: { teamId: game.home.teamId, name: game.home.name },
-      away: { teamId: game.away.teamId, name: game.away.name },
-      gameId: String(gameId), mode: 'regular',
-      divId: Number(divId), seasonName,
-    });
+    regularRecaps.set(String(gameId), game);
   }
 
-  // Playoffs
+  const schedulePageGameIds = new Set();
+  const scheduleDerivedRecords = regularPageSchedule.map(scheduleGame => {
+    if (scheduleGame.gameId === null) return scheduleGame;
+    const gameId = String(scheduleGame.gameId);
+    const recap = regularRecaps.get(gameId);
+    if (!recap) throw new Error(`Missing scraped recap for regular game ${gameId} in division ${divId}`);
+    schedulePageGameIds.add(gameId);
+    return {
+      date: recap.date, time: scheduleGame.time,
+      home: { teamId: recap.home.teamId, name: recap.home.name },
+      away: { teamId: recap.away.teamId, name: recap.away.name },
+      gameId, mode: 'regular', divId: Number(divId), seasonName,
+    };
+  }).sort(compareScheduleRows);
+
+  const archivedRegularTimes = await archivedScheduleTimesByGameId(divId, 'regular');
+  const recapOnlyRecords = regularGameIds
+    .filter(gameId => !schedulePageGameIds.has(String(gameId)))
+    .map(gameId => {
+      const recap = regularRecaps.get(String(gameId));
+      return {
+        date: recap.date, time: archivedRegularTimes.get(String(gameId)) || '',
+        home: { teamId: recap.home.teamId, name: recap.home.name },
+        away: { teamId: recap.away.teamId, name: recap.away.name },
+        gameId: String(gameId), mode: 'regular', divId: Number(divId), seasonName,
+      };
+    })
+    .sort(compareScheduleRows);
+  const regularSchedule = [...scheduleDerivedRecords, ...recapOnlyRecords].sort(compareScheduleRows);
+  const upcomingRegularCount = regularSchedule.filter(game => game.gameId === null).length;
+  console.log(`  Regular fixtures: ${regularSchedule.length} total (${upcomingRegularCount} upcoming)`);
+
+  // Playoffs remain recap-only.
   console.log('  Discovering playoff games...');
   const playoffGameIds = await getAllGameIds(divId, true);
+  await assertCompletedGameIdsNotShrunk(divId, 'playoff', playoffGameIds);
   console.log(`  Found ${playoffGameIds.length} playoff games`);
 
   const playoffSchedule = [];

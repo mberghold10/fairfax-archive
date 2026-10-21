@@ -70,7 +70,7 @@ node scripts/scrape-division.mjs --div 321
 node scripts/aggregate.mjs
 ```
 
-The three scraper commands accept `--dry-run`; in that mode the scraper performs network/parser validation but does not write archive files. `scripts/aggregate.mjs` does not have a dry-run mode.
+The three scraper commands accept `--dry-run`; in that mode the scraper performs network/parser validation but does not write archive files. Regular-season fixtures are collected from every team's schedule page and deduplicated division-wide, including upcoming games whose `gameId` is `null`. Completed-game discovery and authoritative scores still come from game recaps; upcoming games do not have game JSON or scores until a recap exists. `scripts/aggregate.mjs` does not have a dry-run mode.
 
 ## Scrape freshness timestamps
 

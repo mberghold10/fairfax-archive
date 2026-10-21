@@ -4,17 +4,17 @@
   "kind": "schedule",
   "records": [
     {
-      "date": "2026-06-25",
+      "date": "2026-06-13",
       "time": "",
       "home": {
+        "teamId": "1961",
+        "name": "Kings"
+      },
+      "away": {
         "teamId": "1959",
         "name": "Englewood"
       },
-      "away": {
-        "teamId": "1960",
-        "name": "4th Liners"
-      },
-      "gameId": "1608",
+      "gameId": "1606",
       "mode": "playoff",
       "divId": 320,
       "seasonName": "Winter 2025"
@@ -36,21 +36,21 @@
       "seasonName": "Winter 2025"
     },
     {
-      "date": "2026-06-13",
+      "date": "2026-06-25",
       "time": "",
       "home": {
-        "teamId": "1961",
-        "name": "Kings"
-      },
-      "away": {
         "teamId": "1959",
         "name": "Englewood"
       },
-      "gameId": "1606",
+      "away": {
+        "teamId": "1960",
+        "name": "4th Liners"
+      },
+      "gameId": "1608",
       "mode": "playoff",
       "divId": 320,
       "seasonName": "Winter 2025"
     }
   ],
-  "_updated": "2026-10-20T14:02:50.954Z"
+  "_updated": "2026-10-21T13:04:06.504Z"
 }
