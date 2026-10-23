@@ -1,0 +1,154 @@
+{
+  "gameId": "19538",
+  "date": "2026-10-21",
+  "divId": 334,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2060",
+    "name": "Bruins"
+  },
+  "away": {
+    "teamId": "2059",
+    "name": "Jacks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 4
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:57",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "scorer": "#11 - Brian  Maloney",
+      "assist1": "#27 - Chris  Balsley",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:50",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "scorer": "#26 - Jeremy  Whang",
+      "assist1": "#3 - Kareem  El-Alaily",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:58",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "scorer": "#56 - Greg  Merkl",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:31",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#27 - Chris  Balsley",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:36",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#12 - Sami  Kymalainen",
+      "assist2": "#27 - Chris  Balsley"
+    },
+    {
+      "period": "3",
+      "time": "00:11:59",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "scorer": "#8 - Rod  Wade",
+      "assist1": "#7 - Joseph  Hull",
+      "assist2": "#49 - Nicholas  Stortini"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:05",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "player": "#26 - Jeremy  Whang",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:02",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:12:43",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "player": "#3 - Kareem  El-Alaily",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:15",
+      "team": {
+        "teamId": "2059",
+        "name": "Jacks"
+      },
+      "player": "#21 - Steve  Chan",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-10-23T06:08:47.833Z"
+}

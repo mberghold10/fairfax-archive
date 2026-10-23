@@ -1,0 +1,97 @@
+{
+  "gameId": "19590",
+  "date": "2026-10-20",
+  "divId": 336,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2073",
+    "name": "Hurricanes"
+  },
+  "away": {
+    "teamId": "2074",
+    "name": "Bad Leafs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:08:45",
+      "team": {
+        "teamId": "2073",
+        "name": "Hurricanes"
+      },
+      "scorer": "#81 - Pete  Poczatek",
+      "assist1": "#19 - Jason  Long",
+      "assist2": "#15 - Mark  Yawornicky"
+    },
+    {
+      "period": "3",
+      "time": "00:12:18",
+      "team": {
+        "teamId": "2074",
+        "name": "Bad Leafs"
+      },
+      "scorer": "#42 - Tim  Goobic",
+      "assist1": "#48 - Randy  Sasai",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:24",
+      "team": {
+        "teamId": "2074",
+        "name": "Bad Leafs"
+      },
+      "player": "#16 - Greg  Thomas",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "2073",
+        "name": "Hurricanes"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:05:37",
+      "team": {
+        "teamId": "2073",
+        "name": "Hurricanes"
+      },
+      "player": "#3 - Ed  Gulakowski",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-10-23T06:09:43.800Z"
+}
