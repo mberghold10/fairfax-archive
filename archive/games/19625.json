@@ -1,0 +1,128 @@
+{
+  "gameId": "19625",
+  "date": "2026-10-25",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2082",
+    "name": "Roughnecks"
+  },
+  "away": {
+    "teamId": "2081",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:11:07",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#17 - Will  Murphy",
+      "assist1": "#7 - Art  Supsiri",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:32",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#6 - John  Marciano",
+      "assist1": "#90 - Phil  Cunningham",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:14",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#76 - Peter  Schaffer",
+      "assist1": "#16 - Wei  Wang",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:18",
+      "team": {
+        "teamId": "2082",
+        "name": "Roughnecks"
+      },
+      "scorer": "#21 - Max  Levowitz",
+      "assist1": "#3 - Grant  Hubble",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:07:11",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#6 - John  Marciano",
+      "assist1": "#17 - Will  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:13:36",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#76 - Peter  Schaffer",
+      "assist1": "#14 - Dave  Fisher",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:03:54",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:09:48",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "player": "#90 - Phil  Cunningham",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-10-28T06:09:46.851Z"
+}

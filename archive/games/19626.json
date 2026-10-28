@@ -1,0 +1,233 @@
+{
+  "gameId": "19626",
+  "date": "2026-10-25",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2076",
+    "name": "Pumpkins"
+  },
+  "away": {
+    "teamId": "2079",
+    "name": "Hershey Beers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 4,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 7
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:24",
+      "team": {
+        "teamId": "2079",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#37 - Joe  Heidenreich",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:51",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "scorer": "#320 - Chad  Malone",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:03",
+      "team": {
+        "teamId": "2079",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#45 - Amanda  Strickland",
+      "assist1": "#44 - Venka  Ashtakala",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:13:28",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "scorer": "#320 - Chad  Malone",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:18:02",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "scorer": "#43 - Mark  Cormack",
+      "assist1": "#67 - Donyor  Nabiyev",
+      "assist2": "#16 - Jacob  Kohls"
+    },
+    {
+      "period": "1",
+      "time": "00:19:45",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "scorer": "#320 - Chad  Malone",
+      "assist1": "#16 - Jacob  Kohls",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:21",
+      "team": {
+        "teamId": "2079",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#97 - Lee  Alexander",
+      "assist1": "#30 - Arianne  Hardt",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:32",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "scorer": "#22 - Kiet  Vu",
+      "assist1": "#43 - Mark  Cormack",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:17",
+      "team": {
+        "teamId": "2079",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#24 - Adeline  Carbo",
+      "assist1": "#97 - Lee  Alexander",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:04",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "scorer": "#320 - Chad  Malone",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:27",
+      "team": {
+        "teamId": "2079",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#30 - Arianne  Hardt",
+      "assist1": "#42 - Maddie  Forrester",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:00",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "scorer": "#16 - Jacob  Kohls",
+      "assist1": "#43 - Mark  Cormack",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:09:00",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "player": "#16 - Jacob  Kohls",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:15",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "player": "#22 - Kiet  Vu",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:06",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "player": "#43 - Mark  Cormack",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:28",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "player": "#320 - Chad  Malone",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:12:29",
+      "team": {
+        "teamId": "2079",
+        "name": "Hershey Beers"
+      },
+      "player": "#42 - Maddie  Forrester",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-10-28T06:09:47.199Z"
+}

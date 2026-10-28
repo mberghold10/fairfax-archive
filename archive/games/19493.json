@@ -1,0 +1,134 @@
+{
+  "gameId": "19493",
+  "date": "2026-10-26",
+  "divId": 329,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2030",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "2027",
+    "name": "Punishers HC"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "2030",
+        "name": "Outlaws"
+      },
+      "scorer": "#25 - Kyle  Zabel",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:05",
+      "team": {
+        "teamId": "2030",
+        "name": "Outlaws"
+      },
+      "scorer": "#51 - Jadon  Lovett",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:20",
+      "team": {
+        "teamId": "2030",
+        "name": "Outlaws"
+      },
+      "scorer": "#51 - Jadon  Lovett",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "2030",
+        "name": "Outlaws"
+      },
+      "player": "#51 - Jadon  Lovett",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:12:12",
+      "team": {
+        "teamId": "2027",
+        "name": "Punishers HC"
+      },
+      "player": "#14 - Richard  Cole",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "2030",
+        "name": "Outlaws"
+      },
+      "player": "#7 - Panagiotis  Jamanis",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:46",
+      "team": {
+        "teamId": "2027",
+        "name": "Punishers HC"
+      },
+      "player": "#35 - Jeff  Colwell",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:15",
+      "team": {
+        "teamId": "2030",
+        "name": "Outlaws"
+      },
+      "player": "#41 - Tony  Gorney",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-10-28T06:06:24.834Z"
+}

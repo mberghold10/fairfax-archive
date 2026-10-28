@@ -1,0 +1,228 @@
+{
+  "gameId": "19539",
+  "date": "2026-10-25",
+  "divId": 334,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2058",
+    "name": "Swarm"
+  },
+  "away": {
+    "teamId": "2060",
+    "name": "Bruins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 1,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:38",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "scorer": "#1 - Matt  Job",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:25",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "scorer": "#68 - Jeff  Gilmore",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:08:24",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#93 - Trygve  Olson",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:10",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "scorer": "#68 - Jeff  Gilmore",
+      "assist1": "#26 - Jeremy  Whang",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:23",
+      "team": {
+        "teamId": "2058",
+        "name": "Swarm"
+      },
+      "scorer": "#56 - Ryan  Tyler",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:33",
+      "team": {
+        "teamId": "2058",
+        "name": "Swarm"
+      },
+      "scorer": "#51 - Tyler  Kniaz",
+      "assist1": "#95 - Chris  Pope",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:09",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "scorer": "#69 - Aaron  Domnitch",
+      "assist1": "#1 - Matt  Job",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:05:38",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#26 - Jeremy  Whang",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:01",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "player": "#68 - Jeff  Gilmore",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:54",
+      "team": {
+        "teamId": "2058",
+        "name": "Swarm"
+      },
+      "player": "#32 - Simon  Flom",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:10:40",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "player": "#3 - Kareem  El-Alaily",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:00:56",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "player": "#1 - Matt  Job",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:05:25",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "player": "#68 - Jeff  Gilmore",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "2058",
+        "name": "Swarm"
+      },
+      "player": "#27 - Jeff  Carideo",
+      "pim": 2,
+      "offense": "board",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:06:17",
+      "team": {
+        "teamId": "2058",
+        "name": "Swarm"
+      },
+      "player": "#27 - Jeff  Carideo",
+      "pim": 10,
+      "offense": "misconduct",
+      "isMajor": true,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:44",
+      "team": {
+        "teamId": "2060",
+        "name": "Bruins"
+      },
+      "player": "#69 - Aaron  Domnitch",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-10-28T06:08:23.501Z"
+}

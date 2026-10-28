@@ -1,0 +1,154 @@
+{
+  "gameId": "19594",
+  "date": "2026-10-25",
+  "divId": 336,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2071",
+    "name": "Ice Dogs"
+  },
+  "away": {
+    "teamId": "2070",
+    "name": "Fossils"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 3,
+      "p3": 1,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:02:32",
+      "team": {
+        "teamId": "2071",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#44 - Carlos  Gaither",
+      "assist1": "#78 - Bill  Ezekiel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:00:30",
+      "team": {
+        "teamId": "2071",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#78 - Bill  Ezekiel",
+      "assist1": "#200 - Tom  Keith",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:01:59",
+      "team": {
+        "teamId": "2070",
+        "name": "Fossils"
+      },
+      "scorer": "#4 - Rob  Ryan",
+      "assist1": "#34 - Scott  Vecchione",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:04:29",
+      "team": {
+        "teamId": "2071",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#44 - Carlos  Gaither",
+      "assist1": "#200 - Tom  Keith",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:28",
+      "team": {
+        "teamId": "2071",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#200 - Tom  Keith",
+      "assist1": "#78 - Bill  Ezekiel",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:09:03",
+      "team": {
+        "teamId": "2071",
+        "name": "Ice Dogs"
+      },
+      "scorer": "#78 - Bill  Ezekiel",
+      "assist1": "#24 - Brian  Crossin",
+      "assist2": "#200 - Tom  Keith"
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:11:15",
+      "team": {
+        "teamId": "2071",
+        "name": "Ice Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:13:38",
+      "team": {
+        "teamId": "2071",
+        "name": "Ice Dogs"
+      },
+      "player": "#47 - David  Hitchcock",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:11:47",
+      "team": {
+        "teamId": "2070",
+        "name": "Fossils"
+      },
+      "player": "#21 - Joe  Rhodes",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:00:31",
+      "team": {
+        "teamId": "2070",
+        "name": "Fossils"
+      },
+      "player": "#5 - Rob  Kelty",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-10-28T06:09:17.902Z"
+}

@@ -1,0 +1,171 @@
+{
+  "gameId": "19628",
+  "date": "2026-10-25",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2075",
+    "name": "Mutiny"
+  },
+  "away": {
+    "teamId": "2080",
+    "name": "Blue Dogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:00",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#37 - Dave  McAndrews",
+      "assist1": "#41 - Alessio  Evangelista",
+      "assist2": "#46 - Jeanne  Tamburo"
+    },
+    {
+      "period": "1",
+      "time": "00:05:30",
+      "team": {
+        "teamId": "2075",
+        "name": "Mutiny"
+      },
+      "scorer": "#16 - Thomas  Wright",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:09:33",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#19 - Dimitriy  Galyutin",
+      "assist1": "#41 - Alessio  Evangelista",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:03:59",
+      "team": {
+        "teamId": "2075",
+        "name": "Mutiny"
+      },
+      "scorer": "#2 - Joshua  Fowler",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "2075",
+        "name": "Mutiny"
+      },
+      "player": "#95 - Maggie  Cowden",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:00:50",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:14:35",
+      "team": {
+        "teamId": "2075",
+        "name": "Mutiny"
+      },
+      "player": "#56 - Jay  Bate",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:15:50",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "player": "#37 - Dave  McAndrews",
+      "pim": 2,
+      "offense": "high stick",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:17:10",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "player": "#19 - Dimitriy  Galyutin",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:21",
+      "team": {
+        "teamId": "2075",
+        "name": "Mutiny"
+      },
+      "player": "#100 - Goalie  Substitute",
+      "pim": 2,
+      "offense": "too many",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:00:37",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "player": "#33 - Brandon  Boling",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-10-28T06:09:47.841Z"
+}
