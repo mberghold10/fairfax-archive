@@ -1,0 +1,115 @@
+{
+  "gameId": "19629",
+  "date": "2026-10-31",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2079",
+    "name": "Hershey Beers"
+  },
+  "away": {
+    "teamId": "2082",
+    "name": "Roughnecks"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 4,
+      "ot": 0,
+      "final": 5
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:07:56",
+      "team": {
+        "teamId": "2082",
+        "name": "Roughnecks"
+      },
+      "scorer": "#0 - Tim  Lo",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:25",
+      "team": {
+        "teamId": "2082",
+        "name": "Roughnecks"
+      },
+      "scorer": "#75 - Levi  Raich",
+      "assist1": "#6 - Jim  Lancheros",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:02",
+      "team": {
+        "teamId": "2082",
+        "name": "Roughnecks"
+      },
+      "scorer": "#8 - Jamie  Lanchoros",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:04:46",
+      "team": {
+        "teamId": "2082",
+        "name": "Roughnecks"
+      },
+      "scorer": "#36 - Glenn  Katz",
+      "assist1": "#15 - Paul  Eckerman",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:06:04",
+      "team": {
+        "teamId": "2079",
+        "name": "Hershey Beers"
+      },
+      "scorer": "#42 - Maddie  Forrester",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:06",
+      "team": {
+        "teamId": "2082",
+        "name": "Roughnecks"
+      },
+      "scorer": "#21 - Max  Levowitz",
+      "assist1": "#95 - Ethan  Fabros",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:14:47",
+      "team": {
+        "teamId": "2079",
+        "name": "Hershey Beers"
+      },
+      "player": "#54 - Scott  Knisley",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-11-03T06:10:22.021Z"
+}

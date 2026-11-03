@@ -1,0 +1,95 @@
+{
+  "gameId": "19497",
+  "date": "2026-11-01",
+  "divId": 329,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2030",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "2028",
+    "name": "British Bulldogs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 1
+    },
+    "away": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:13:57",
+      "team": {
+        "teamId": "2030",
+        "name": "Outlaws"
+      },
+      "scorer": "#41 - Tony  Gorney",
+      "assist1": "#25 - Kyle  Zabel",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:13:13",
+      "team": {
+        "teamId": "2028",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#2 - Ari  Loggia",
+      "assist1": "#33 - Hung  Pham",
+      "assist2": "#9 - James  Boland"
+    },
+    {
+      "period": "3",
+      "time": "00:12:14",
+      "team": {
+        "teamId": "2028",
+        "name": "British Bulldogs"
+      },
+      "scorer": "#2 - Ari  Loggia",
+      "assist1": "#28 - Carrick  Randall",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:08:03",
+      "team": {
+        "teamId": "2028",
+        "name": "British Bulldogs"
+      },
+      "player": "#6 - Kyle  Herring",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:24",
+      "team": {
+        "teamId": "2030",
+        "name": "Outlaws"
+      },
+      "player": "#41 - Tony  Gorney",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-11-03T06:06:41.517Z"
+}
