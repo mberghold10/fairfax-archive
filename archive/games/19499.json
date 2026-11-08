@@ -1,0 +1,154 @@
+{
+  "gameId": "19499",
+  "date": "2026-11-07",
+  "divId": 329,
+  "seasonName": "Summer 2026",
+  "mode": "regular",
+  "home": {
+    "teamId": "2026",
+    "name": "Nortec"
+  },
+  "away": {
+    "teamId": "2027",
+    "name": "Punishers HC"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 3,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 4
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:14",
+      "team": {
+        "teamId": "2027",
+        "name": "Punishers HC"
+      },
+      "scorer": "#13 - Gabi  Wind",
+      "assist1": "#10 - Rob  Cobb",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:04:03",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#81 - Chris  Holden",
+      "assist1": "#17 - Corry  Schneid",
+      "assist2": "#51 - Stewart  Schuler"
+    },
+    {
+      "period": "1",
+      "time": "00:05:04",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#51 - Stewart  Schuler",
+      "assist1": "#5 - Peter  Boone",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "2027",
+        "name": "Punishers HC"
+      },
+      "scorer": "#10 - Rob  Cobb",
+      "assist1": "#67 - Chris  Dour",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:14:49",
+      "team": {
+        "teamId": "2027",
+        "name": "Punishers HC"
+      },
+      "scorer": "#5 - Mike  Jones",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:00:47",
+      "team": {
+        "teamId": "2027",
+        "name": "Punishers HC"
+      },
+      "scorer": "#89 - Jay  Gobeil",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "player": "#28 - Jason  Liebel",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:13:28",
+      "team": {
+        "teamId": "2027",
+        "name": "Punishers HC"
+      },
+      "player": "# -",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:01:28",
+      "team": {
+        "teamId": "2027",
+        "name": "Punishers HC"
+      },
+      "player": "#10 - Rob  Cobb",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:12",
+      "team": {
+        "teamId": "2027",
+        "name": "Punishers HC"
+      },
+      "player": "#2 - Doug  Harke",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-11-08T06:07:07.215Z"
+}
