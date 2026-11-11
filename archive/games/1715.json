@@ -1,0 +1,141 @@
+{
+  "gameId": "1715",
+  "date": "2026-11-08",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "playoff",
+  "home": {
+    "teamId": "2078",
+    "name": "Thunder"
+  },
+  "away": {
+    "teamId": "2081",
+    "name": "Red Wings"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 3,
+      "p2": 1,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:03:31",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#17 - Will  Murphy",
+      "assist1": "#49 - Bailey  Robertory",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:48",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#6 - John  Marciano",
+      "assist1": "#49 - Bailey  Robertory",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:09:30",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#14 - Dave  Fisher",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:08",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#7 - Art  Supsiri",
+      "assist1": "#6 - John  Marciano",
+      "assist2": "#26 - Patrick  Neubauer"
+    },
+    {
+      "period": "3",
+      "time": "00:04:22",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#6 - John  Marciano",
+      "assist1": "#49 - Bailey  Robertory",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:12:19",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "scorer": "#17 - Will  Murphy",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:03:43",
+      "team": {
+        "teamId": "2078",
+        "name": "Thunder"
+      },
+      "player": "#40 - Brandon  Sweezea",
+      "pim": 2,
+      "offense": "rough",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:30",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "player": "#49 - Bailey  Robertory",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:14",
+      "team": {
+        "teamId": "2081",
+        "name": "Red Wings"
+      },
+      "player": "#15 - Mark  Yawornicky",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-11-11T06:11:15.419Z"
+}

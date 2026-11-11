@@ -1,0 +1,189 @@
+{
+  "gameId": "1718",
+  "date": "2026-11-08",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "playoff",
+  "home": {
+    "teamId": "2080",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "2076",
+    "name": "Pumpkins"
+  },
+  "scoring": {
+    "home": {
+      "p1": 3,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 5
+    },
+    "away": {
+      "p1": 0,
+      "p2": 3,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:01:00",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#67 - Drew  Miller",
+      "assist1": "#16 - Brian  Murphy",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:31",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#67 - Drew  Miller",
+      "assist2": "#12 - Dave  Sievers"
+    },
+    {
+      "period": "1",
+      "time": "00:13:55",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#12 - Dave  Sievers",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:02:04",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#22 - Amir  Tahami",
+      "assist1": "#41 - Alessio  Evangelista",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:35",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "scorer": "#43 - Mark  Cormack",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:10:11",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "scorer": "#22 - Kiet  Vu",
+      "assist1": "#28 - Morgan  Neilsen",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:02",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#12 - Dave  Sievers",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:12:29",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "scorer": "#22 - Kiet  Vu",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:06:08",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "player": "#13 - Tino  Giovanni",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:06:54",
+      "team": {
+        "teamId": "2076",
+        "name": "Pumpkins"
+      },
+      "player": "#16 - Jacob  Kohls",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:02:22",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "player": "#44 - Ben  Thomas",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:56",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "player": "#37 - Dave  McAndrews",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:11:31",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "player": "#22 - Amir  Tahami",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-11-11T06:11:16.886Z"
+}

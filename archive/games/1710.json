@@ -1,0 +1,176 @@
+{
+  "gameId": "1710",
+  "date": "2026-11-10",
+  "divId": 336,
+  "seasonName": "Summer 2026",
+  "mode": "playoff",
+  "home": {
+    "teamId": "2069",
+    "name": "Old Fashioneds"
+  },
+  "away": {
+    "teamId": "2073",
+    "name": "Hurricanes"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 2,
+      "p2": 2,
+      "p3": 2,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:09",
+      "team": {
+        "teamId": "2069",
+        "name": "Old Fashioneds"
+      },
+      "scorer": "#37 - Nick  Durso",
+      "assist1": "#13 - Duane  Stefaniak",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:02:44",
+      "team": {
+        "teamId": "2073",
+        "name": "Hurricanes"
+      },
+      "scorer": "#1 - Chris  Beach",
+      "assist1": "#2 - Mark  Jesten",
+      "assist2": "#12 - Adam  Olsen"
+    },
+    {
+      "period": "1",
+      "time": "00:04:09",
+      "team": {
+        "teamId": "2073",
+        "name": "Hurricanes"
+      },
+      "scorer": "#12 - Adam  Olsen",
+      "assist1": "#20 - Mike  Hempen",
+      "assist2": "#3 - Ed  Gulakowski"
+    },
+    {
+      "period": "2",
+      "time": "00:00:36",
+      "team": {
+        "teamId": "2073",
+        "name": "Hurricanes"
+      },
+      "scorer": "#12 - Adam  Olsen",
+      "assist1": "#1 - Chris  Beach",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:05:21",
+      "team": {
+        "teamId": "2073",
+        "name": "Hurricanes"
+      },
+      "scorer": "#93 - Jeff  Nauer",
+      "assist1": "#20 - Mike  Hempen",
+      "assist2": "#2 - Mark  Jesten"
+    },
+    {
+      "period": "2",
+      "time": "00:10:46",
+      "team": {
+        "teamId": "2069",
+        "name": "Old Fashioneds"
+      },
+      "scorer": "#65 - Kevin  Nacios",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:01:57",
+      "team": {
+        "teamId": "2073",
+        "name": "Hurricanes"
+      },
+      "scorer": "#81 - Pete  Poczatek",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:26",
+      "team": {
+        "teamId": "2073",
+        "name": "Hurricanes"
+      },
+      "scorer": "#12 - Adam  Olsen",
+      "assist1": "#19 - Jason  Long",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:36",
+      "team": {
+        "teamId": "2069",
+        "name": "Old Fashioneds"
+      },
+      "player": "#21 - Tania  Nacios",
+      "pim": 2,
+      "offense": "unsport",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "1",
+      "time": "00:09:01",
+      "team": {
+        "teamId": "2073",
+        "name": "Hurricanes"
+      },
+      "player": "#81 - Pete  Poczatek",
+      "pim": 2,
+      "offense": "cross check",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:07:13",
+      "team": {
+        "teamId": "2073",
+        "name": "Hurricanes"
+      },
+      "player": "#41 - David  Armstrong",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:13:51",
+      "team": {
+        "teamId": "2069",
+        "name": "Old Fashioneds"
+      },
+      "player": "#21 - Tania  Nacios",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-11-11T06:10:36.571Z"
+}

@@ -1,0 +1,130 @@
+{
+  "gameId": "1679",
+  "date": "2026-11-08",
+  "divId": 330,
+  "seasonName": "Summer 2026",
+  "mode": "playoff",
+  "home": {
+    "teamId": "2034",
+    "name": "Mad Dogs"
+  },
+  "away": {
+    "teamId": "2035",
+    "name": "Pharaohs"
+  },
+  "scoring": {
+    "home": {
+      "p1": 1,
+      "p2": 1,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    },
+    "away": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:19",
+      "team": {
+        "teamId": "2035",
+        "name": "Pharaohs"
+      },
+      "scorer": "#10 - Nate  Capriglione",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:06",
+      "team": {
+        "teamId": "2035",
+        "name": "Pharaohs"
+      },
+      "scorer": "#20 - Billy  Summa",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:06:13",
+      "team": {
+        "teamId": "2034",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#29 - Frank  Tomaino",
+      "assist1": "#36 - Brian  Lusby",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:11:59",
+      "team": {
+        "teamId": "2034",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#36 - Brian  Lusby",
+      "assist1": "#29 - Frank  Tomaino",
+      "assist2": null
+    },
+    {
+      "period": "4",
+      "time": "00:08:49",
+      "team": {
+        "teamId": "2034",
+        "name": "Mad Dogs"
+      },
+      "scorer": "#36 - Brian  Lusby",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:04:24",
+      "team": {
+        "teamId": "2035",
+        "name": "Pharaohs"
+      },
+      "player": "#91 - Chris  Oman",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:03:09",
+      "team": {
+        "teamId": "2035",
+        "name": "Pharaohs"
+      },
+      "player": "#14 - Andrew  Prantner",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:17",
+      "team": {
+        "teamId": "2035",
+        "name": "Pharaohs"
+      },
+      "player": "#57 - Dylan  Thomas",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-11-11T06:07:21.523Z"
+}

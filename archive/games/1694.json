@@ -1,0 +1,128 @@
+{
+  "gameId": "1694",
+  "date": "2026-11-09",
+  "divId": 333,
+  "seasonName": "Summer 2026",
+  "mode": "playoff",
+  "home": {
+    "teamId": "2054",
+    "name": "Lightning"
+  },
+  "away": {
+    "teamId": "2053",
+    "name": "Alers"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 0
+    },
+    "away": {
+      "p1": 2,
+      "p2": 1,
+      "p3": 3,
+      "ot": 0,
+      "final": 6
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:00:18",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#49 - Omar  Haque",
+      "assist1": "#19 - Colin  Bartlett",
+      "assist2": "#91 - Jeff  Rendler"
+    },
+    {
+      "period": "1",
+      "time": "00:06:51",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#49 - Omar  Haque",
+      "assist1": "#11 - Erik  Brisson",
+      "assist2": "#91 - Jeff  Rendler"
+    },
+    {
+      "period": "2",
+      "time": "00:12:25",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#19 - Colin  Bartlett",
+      "assist1": "#87 - Feng  Lan",
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:08:42",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#91 - Jeff  Rendler",
+      "assist1": null,
+      "assist2": null
+    },
+    {
+      "period": "3",
+      "time": "00:10:50",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#50 - Scott  Vecchione",
+      "assist1": "#87 - Feng  Lan",
+      "assist2": "#68 - Rich  Williams"
+    },
+    {
+      "period": "3",
+      "time": "00:11:22",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "scorer": "#19 - Colin  Bartlett",
+      "assist1": "#50 - Scott  Vecchione",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "3",
+      "time": "00:00:00",
+      "team": {
+        "teamId": "2054",
+        "name": "Lightning"
+      },
+      "player": "#36 - Mo  Efimba",
+      "pim": 2,
+      "offense": "int",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:04:15",
+      "team": {
+        "teamId": "2053",
+        "name": "Alers"
+      },
+      "player": "#49 - Omar  Haque",
+      "pim": 2,
+      "offense": "slash",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-11-11T06:09:03.765Z"
+}
