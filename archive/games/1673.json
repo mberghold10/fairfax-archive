@@ -1,0 +1,143 @@
+{
+  "gameId": "1673",
+  "date": "2026-11-14",
+  "divId": 329,
+  "seasonName": "Summer 2026",
+  "mode": "playoff",
+  "home": {
+    "teamId": "2030",
+    "name": "Outlaws"
+  },
+  "away": {
+    "teamId": "2026",
+    "name": "Nortec"
+  },
+  "scoring": {
+    "home": {
+      "p1": 0,
+      "p2": 1,
+      "p3": 1,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 0,
+      "p3": 1,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:04:38",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#13 - Ryan  Roumell",
+      "assist1": "#51 - Stewart  Schuler",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:07:01",
+      "team": {
+        "teamId": "2030",
+        "name": "Outlaws"
+      },
+      "scorer": "#13 - Ben  Mangel",
+      "assist1": "#41 - Tony  Gorney",
+      "assist2": "#5 - Lance  McCaskey"
+    },
+    {
+      "period": "3",
+      "time": "00:03:40",
+      "team": {
+        "teamId": "2030",
+        "name": "Outlaws"
+      },
+      "scorer": "#77 - Ryan  OConnell",
+      "assist1": "#13 - Ben  Mangel",
+      "assist2": "#25 - Kyle  Zabel"
+    },
+    {
+      "period": "3",
+      "time": "00:10:00",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#91 - Jake  Barnett",
+      "assist1": "#51 - Stewart  Schuler",
+      "assist2": "#13 - Ryan  Roumell"
+    },
+    {
+      "period": "4",
+      "time": "00:07:36",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "scorer": "#57 - Derek  Morrissette",
+      "assist1": "#13 - Ryan  Roumell",
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "1",
+      "time": "00:07:30",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "player": "#5 - Peter  Boone",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:07:22",
+      "team": {
+        "teamId": "2026",
+        "name": "Nortec"
+      },
+      "player": "#40 - Mikail  Serebrennikov",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "2",
+      "time": "00:10:45",
+      "team": {
+        "teamId": "2030",
+        "name": "Outlaws"
+      },
+      "player": "#43 - Mike  Barnes",
+      "pim": 2,
+      "offense": "hold",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "4",
+      "time": "00:08:04",
+      "team": {
+        "teamId": "2030",
+        "name": "Outlaws"
+      },
+      "player": "#14 - Jason  Brue",
+      "pim": 2,
+      "offense": "trip",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-11-16T06:06:57.362Z"
+}

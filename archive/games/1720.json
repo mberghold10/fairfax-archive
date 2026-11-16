@@ -1,0 +1,117 @@
+{
+  "gameId": "1720",
+  "date": "2026-11-15",
+  "divId": 337,
+  "seasonName": "Summer 2026",
+  "mode": "playoff",
+  "home": {
+    "teamId": "2080",
+    "name": "Blue Dogs"
+  },
+  "away": {
+    "teamId": "2075",
+    "name": "Mutiny"
+  },
+  "scoring": {
+    "home": {
+      "p1": 2,
+      "p2": 0,
+      "p3": 0,
+      "ot": 0,
+      "final": 2
+    },
+    "away": {
+      "p1": 1,
+      "p2": 2,
+      "p3": 0,
+      "ot": 0,
+      "final": 3
+    }
+  },
+  "goals": [
+    {
+      "period": "1",
+      "time": "00:05:10",
+      "team": {
+        "teamId": "2075",
+        "name": "Mutiny"
+      },
+      "scorer": "#29 - Silas  Bruccoleri",
+      "assist1": "#67 - Jack  Cowden",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:05:40",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#12 - Dave  Sievers",
+      "assist1": "#67 - Drew  Miller",
+      "assist2": null
+    },
+    {
+      "period": "1",
+      "time": "00:07:55",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "scorer": "#41 - Alessio  Evangelista",
+      "assist1": "#11 - Matt  Velin",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:03:30",
+      "team": {
+        "teamId": "2075",
+        "name": "Mutiny"
+      },
+      "scorer": "#17 - Rich  Odame",
+      "assist1": "#69 - Chris  Page",
+      "assist2": null
+    },
+    {
+      "period": "2",
+      "time": "00:08:15",
+      "team": {
+        "teamId": "2075",
+        "name": "Mutiny"
+      },
+      "scorer": "#29 - Silas  Bruccoleri",
+      "assist1": null,
+      "assist2": null
+    }
+  ],
+  "penalties": [
+    {
+      "period": "2",
+      "time": "00:10:32",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "player": "#44 - Ben  Thomas",
+      "pim": 2,
+      "offense": "delay",
+      "isMajor": false,
+      "isMatch": false
+    },
+    {
+      "period": "3",
+      "time": "00:08:52",
+      "team": {
+        "teamId": "2080",
+        "name": "Blue Dogs"
+      },
+      "player": "#11 - Matt  Velin",
+      "pim": 2,
+      "offense": "hook",
+      "isMajor": false,
+      "isMatch": false
+    }
+  ],
+  "_updated": "2026-11-16T06:11:42.449Z"
+}
